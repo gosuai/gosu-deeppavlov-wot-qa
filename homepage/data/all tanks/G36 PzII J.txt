@@ -1,0 +1,52 @@
+{{TankData|Tank=
+|This tank was given as a gift at GamesCom 2012. G36 PzII J  It was also available on the [https://shop. G36 PzII J worldoftanks. G36 PzII J ru/katalog/k/podarochnye-izdanija Russian Portal] in the German Gift Box edition as well as in a special Gift Box edition along with the [[BT-SV]], [[MTLS-1G14]] and [[SU-85I]]. G36 PzII J  The enclosed code was valid for use on the RU server. G36 PzII J  It last appeared in the EU server gift shop on 10th December 2015 as a special offer for 24 hours and was also available on 1st April 2015  [https://worldoftanks. G36 PzII J eu/en/news/pc-browser/premium/premshop-today-panzer2j/ Premium Shop: Only Today – Panzer II J]. G36 PzII J  
+
+
+|InTheGame_pros=
+* Ridiculous 80/50/50 armor layout bounces nearly all tier III and some tier IV guns
+* Premium MM keeps this tank out of tier V matches
+* Gun depression and gun handling are outstanding
+* Very fast magazine reload and decent burst damage results in good DPM, as long as it damages opponents
+|InTheGame_cons=
+* Low top speed combined with sluggish hull traverse, moves like heavy tank
+* Extremely weak tier 1 gun; inaccurate, needs APCR to damage most tier 3s, yet still,its penetration is poor
+* Loses its usability quickly in tier IV matches
+* 25mm UFP is weak but ricochets any ~75mm gun due to heavy angle
+* Huge tracks get knocked out frequently, leaving the weaker sides and rear vulnerable
+* The need to fire APCR exclusively makes this a very expensive tank to use. G36 PzII J 
+* With the introduction of the promoted Tier II and III Swedish Tank Destroyers, the angled 80mm frontal armor is easely penned. G36 PzII J  
+|InTheGame_performance=
+Though many seem to see the Ausf. G36 PzII J  J as a fun-tank, it can become a deadly weapon in tier III matches. G36 PzII J  With a great armor of 80/50/50, it will be hard for your enemies to penetrate you. G36 PzII J  You won´t do much damage, but you can spot and take the damage for your teammates, while they, especially TD's and artillery can shoot safely from behind positions. G36 PzII J   Using APCR allows you to deal with enemies much more effectively, though it becomes expensive very quickly. G36 PzII J 
+
+If the unfortunate situation happens where 2 Pz. G36 PzII J  II Ausf. G36 PzII J  J's go head to head then the game will get very expensive for both. G36 PzII J  Due to the flat nature of the tanks side armour, coupled with the thickness of 50mm, shooting the flat sides can prove to be challenging and costly at best due to the bad mobility. G36 PzII J  The 46mm of penetration on the VERY expensive APCR ammunition will give you a 30/40% chance of doing damage to the completely flat side armour which can prove to be difficult due to the bad mobility. G36 PzII J 
+
+The only other way for a Pz. G36 PzII J  II Ausf. G36 PzII J  J to kill another is to shoot down on its UFP. G36 PzII J  As it is only 25mm thick, if shot down on (maybe by backing onto a hill as you do tend to just face hug at end-game situations) you can make short work of what health is left. G36 PzII J 
+
+|InTheGame_research=
+None required, this is a premium tank. G36 PzII J 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics, Enhanced Suspension
+
+|Gallery=
+
+
+|History=
+Continued development of the reconnaissance tank concept led to the much up-armored Panzer II Ausf. G36 PzII J  J, which used the same concept as the Pz. G36 PzII J Kpfw. G36 PzII J  IF of the same period, under the experimental designation VK 1601. G36 PzII J  Heavier armor was added, bringing protection up to 80 mm on the front and 50 mm to the sides and rear, with 25 mm roof and floor plates, increasing total weight to 18 tonnes. G36 PzII J  Equipped with the same Maybach HL45P as the Pz. G36 PzII J Kpfw. G36 PzII J  IF, top speed was reduced to 31 km/h. G36 PzII J  Primary armament was the 2 cm KwK 38 L/55 gun. G36 PzII J  22 were produced by MAN between April and December 1942, and seven were issued to the 12th Panzer Division on the Eastern Front. G36 PzII J 
+
+|HistoricalGallery=
+image:PzKpfw II Ausf. G36 PzII J  J 1. G36 PzII J jpg{{!}}PzKpfw II Ausf. G36 PzII J  J Sketch
+image:PzKpfw II Ausf. G36 PzII J  J 2. G36 PzII J jpg{{!}}German troops on the PzKpfw II Ausf. G36 PzII J  J
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [[https://en. G36 PzII J wikipedia. G36 PzII J org/wiki/Panzer_II ''see Wikipedia for additional information'']]
+* [[https://the. G36 PzII J shadock. G36 PzII J free. G36 PzII J fr/Surviving_Panzers. G36 PzII J html ''See Surviving Panzers for additional information and Surviving Panzer II Tanks PDF download'']]
+
+
+}}
+
+[[Category:German Tanks]]

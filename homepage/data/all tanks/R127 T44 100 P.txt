@@ -1,0 +1,48 @@
+{{TankData|Tank= R122_T44_100
+
+| 
+
+|Gallery=
+
+File:Т-44-100 (Р) scr 1. R127 T44 100 P jpg
+File:Т-44-100 (Р) scr 2. R127 T44 100 P jpg
+File:Т-44-100 (Р) scr 3. R127 T44 100 P jpg
+
+
+|InTheGame_pros= 
+
+*Good gun handling and decent gun depression for a Soviet vehicle, DPM is also respectable
+*Great overall mobility and acceleration, good top speed
+*Decent side armor with spaced skirts allows for some sidescraping, also help reduce HE damage and deflect HEAT rounds
+*Good camouflage values for a medium tank
+*Turret is bouncy against unaimed or low-penetration shots
+
+|InTheGame_cons= 
+
+*Average viewrange for a Tier 8 medium tank
+*Mediocre penetration on standard ammunition
+*Badly outclassed by higher tier tanks
+*Hull armor is overall unreliable
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Improved Ventilation, 
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+Even with its innovative technology and better armor protection, the T-44A still used an 85 mm ZiS-S-53 tank gun, the same as the one fitted on the T-34-85 medium tank. R127 T44 100 P  The army needed a new tank armed with a more powerful 100 mm gun. R127 T44 100 P  At the end of 1944 the designers had three types of 100 mm guns at their disposal which could considerably increase the firepower of the tank. R127 T44 100 P  These included the D-10 (which already proved itself in combat as it was used in SU-100 tank destroyer) as well as prototype ZiS-100 and LB-1 (LB stands for Lavrenty Beria). R127 T44 100 P  The T-44 tank armed with the 100 mm tank gun originally received the designation T-44B. R127 T44 100 P  Two projects were started, both based on the T-44A. R127 T44 100 P  The development of the first one started in October 1944 at the design bureau of the Stalin Ural Tank Factory No. R127 T44 100 P  183, located in Nizhny Tagil. R127 T44 100 P  The designing stage was completed in December. R127 T44 100 P  The prototype was ready in February 1945. R127 T44 100 P  The trials conducted between March and April gave positive results and the vehicle entered service with the Red Army as T-54. R127 T44 100 P  The tank had almost the same hull and drive train as the T-44A. R127 T44 100 P  Differences included thickened front armour (120 mm on the upper section and 90 mm on the lower section) and a different hatch and vision slot for the driver. R127 T44 100 P  The turret had increased diameter to 1800 mm. R127 T44 100 P  There was thicker armour (180 mm on the front, between 90 mm and 150 mm on the sides and 30 mm on the roof). R127 T44 100 P  The armament included the 100 mm D-10TK tank gun as well as two 7. R127 T44 100 P 62 mm GWT machine guns. R127 T44 100 P  The tank was powered by a new V-54 12-cylinder 38. R127 T44 100 P 88 liter water-cooled diesel engine developing 520 hp (388 kW) at 2,000 rpm. R127 T44 100 P  The fuel capacity was increased (530 liters in the internal fuel tank and 165 liters in the external fuel tank). R127 T44 100 P  The external fuel tanks were connected to the fuel system. R127 T44 100 P  The rubber rollers on the roadwheels were widened. R127 T44 100 P  The weight was increased to 35. R127 T44 100 P 5 tonnes, which reduced the maximal road speed to 43. R127 T44 100 P 5 km/h. R127 T44 100 P  The maximal road operational range increased to 360 km. R127 T44 100 P  Because of positive results seen in trials, it was decided to modernize the tank before starting production as well as to put the new tank's turret onto two modified serial T-44A tanks. R127 T44 100 P  This was done in 1945 and the two prototype tanks received the designation T-44-100. R127 T44 100 P  One of the prototypes was armed with a D-10TK tank gun while the other one was armed with a LB-1 tank gun. R127 T44 100 P  Like the second generation T-44-85 prototypes, the two T-44-100 prototypes had differences between each other. R127 T44 100 P  One prototype had a splashboard on the glacis plate while the other did not. R127 T44 100 P  They both had the 12. R127 T44 100 P 7 mm DShK anti-aircraft heavy machine gun fitted to the loader's hatch, 6 mm thick anti-HEAT sideskirts protecting the sides and two cylindrical fuel tanks in the back which increased the fuel capacity to 1035 liters. R127 T44 100 P  These cylindrical fuel tanks were later used on Soviet main battle tanks as additional fuel tanks. R127 T44 100 P  Further development of the T-44 was canceled and all the attention was directed towards the development of a new T-54 main battle tank. R127 T44 100 P 
+|HistoricalGallery= 
+File:T44HG3. R127 T44 100 P jpg{{!}}One of the two T-44-100 prototypes. R127 T44 100 P  Notice the 100 mm gun, 12. R127 T44 100 P 7 mm DShK anti-aircraft heavy machine gun mounted on the loader's hatch and 6 mm thick anti-HEAT sideskirts protecting the sides. R127 T44 100 P  This example does not have a splashboard on the glacis plate. R127 T44 100 P 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

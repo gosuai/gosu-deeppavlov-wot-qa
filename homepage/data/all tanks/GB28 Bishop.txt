@@ -1,0 +1,92 @@
+{{TankData|Tank=Bishop
+|The Bishop feels like a major leap back after the versatility of the [[Tank:GB26 Birch Gun|Birch Gun]]; you no longer have a full traversable gun mount, but are forced to deal with a very narrow gun traverse; it has a pitiful range for both guns; and it has a fatally tall silhouette. GB28 Bishop  Its saving grace, however, is better protection and HP than its predecessors, being based on the hull of a [[Tank:GB04 Valentine|Valentine]]. GB28 Bishop  Further, its second gun is considerably better than the 25-pounder adding capabilities to make shots few SPGs can make, and thus more map versatility. GB28 Bishop  Play the Bishop like an [[SU-5]]; move up with the rear lines of your team, and bombard targets of opportunity. GB28 Bishop  Even if you are spotted, you can survive a decent amount of fire while retreating. GB28 Bishop 
+
+|Gallery=
+	
+|InTheGame_pros= 
+- Gun range: stock: 1050 m, top: 500 m 
+
+- Good aim time
+
+- Decent rate of fire
+
+- Very accurate with top gun
+
+- Top gun shell travels at a very high arc, making hitting enemies behind cover easier
+
+- Good armour, able to bounce many low tier guns, being on a [[Tank:GB04 Valentine|Valentine]] chassis
+
+- High amount of HP for an arty (same HP pool as the tier 7 SU-14-1)
+
+|InTheGame_cons=
+- Stock gun has terrible elevation on flat terrain, you must use an upward slope to increase gun range and hence relies on map terrain. GB28 Bishop (Only about 15 degrees). GB28 Bishop 
+
+- Top gun has poor, dramatically decreased range from stock gun (500m)
+
+- Poor alpha for stock gun
+
+- Superstructure is not as well-armoured as the hull, and flat. GB28 Bishop 
+
+- Slow and sluggish
+
+- Low shell velocity, even for arty
+
+- Narrowest gun traverse of the entire British SPG line
+
+- Huge silhouette 
+
+|InTheGame_performance=
+The Bishop is often derided as a terrible SPG due to its slow speed and large silhouette. GB28 Bishop  Many players view it as merely a stepping stone to the often fondly regarded tier VI British SPG, the [[Tank:GB77_FV304|FV304]]. GB28 Bishop  Contrary to this view, the Bishop is actually one of the best SPGs in the mid tiers. GB28 Bishop  
+
+The 25 pounder stock gun is not much different from the Birch Gun. GB28 Bishop  Its poor range is actually due to the gun elevation rather than the gun's actual range. GB28 Bishop  This also has the other effect of its shells travelling in a low arc, thus lowering damage. GB28 Bishop  Thus, one way to get around this is to either move up with the team, or find an upward slope to position yourself. GB28 Bishop  Having a high silhouette sometimes discourages the former, so it depends on how much risk the player is willing to take. GB28 Bishop 
+
+The 4. GB28 Bishop 5 inch howitzer transforms the Bishop into a deadly opponent in the hands of a skilled artillery operator. GB28 Bishop  It is a key reason why this SPG carries an average damage per battle rating higher than that of 90% of all other tier V vehicles and 40% of tier VI. GB28 Bishop  The upgraded gun offers much more damage, though at the expense of not being able to equip AP ammo. GB28 Bishop  This is not a severe limitation, as the accuracy of the gun allows it to very accurately target the often weakly armored engine decks of heavy tanks, and the open cockpits of some TDs. GB28 Bishop  The shell trajectory of the upgraded gun is extremely high, with rounds fired at maximum range dropping in close to vertical. GB28 Bishop  This is key; firing at close range puts you at visibility risk and negates the high arc value of the upgraded gun. GB28 Bishop  With the gun firing at near maximum range, it is capable of dropping shots behind hard cover frequently used by players trying to defend themselves from SPGs. GB28 Bishop  Enemy players think they are safe, but the Bishop makes them pay for that mistake. GB28 Bishop  This gun is capable of firing over even the highest of mountains in the game, such as found in Cliff, Fjords and Lakeville. GB28 Bishop  Even Himmelsdorf, often the bane for low arc SPGs, becomes a playground for the upgraded gun on the Bishop. GB28 Bishop  With a rapid reload speed for an SPG, the Bishop is capable of tracking an opponent and firing again before the track repair is completed. GB28 Bishop  
+
+The Bishop's main weaknesses are its slow speed, track traverse and very limited gun traverse. GB28 Bishop  With the limited range of the upgraded gun, the astute Bishop driver will usually be forced to pick a flank to cover before the sorting out of the team has fully completed. GB28 Bishop  If you end up on an abandoned flank, the slow speed makes repositioning to the other flank time consuming, keeping your powerful gun out of the battle. GB28 Bishop  While the Bishop's armor is very thick for an SPG in the mid tier, the slow track traverse and tight gun traverse makes self defense difficult. GB28 Bishop  The situationally aware Bishop driver will keep an eye on the mini-map for enemies breaking through, and prepare for a scout tank bent on taking out artillery. GB28 Bishop  The powerful upgraded gun on the Bishop can one shot light tanks in most situations. GB28 Bishop  However, one shot is likely all you will get for self defense, as the low track traverse speed and limited gun traverse will make getting another shot off very difficult indeed. GB28 Bishop  
+
+
+|InTheGame_research=
+* If you came from the Birch Gun, the WS No. GB28 Bishop  19 Mk. GB28 Bishop  III Radio carries over. GB28 Bishop  Mount it immediately. GB28 Bishop  You should first research the Bishop suspension. GB28 Bishop 
+* If you came instead from the Valentine, the GMC 6004 6-71A Engine and WS No. GB28 Bishop  19 Mk. GB28 Bishop  II Radio carry over. GB28 Bishop  However, only the radio can be mounted. GB28 Bishop  You should first research the Bishop Suspension, followed by the WS No. GB28 Bishop  19 Mk. GB28 Bishop  III Radio. GB28 Bishop 
+* Research and mount the Q. GB28 Bishop F. GB28 Bishop  4. GB28 Bishop 5-in. GB28 Bishop  Howitzer, even before upgrading your engine as the upgraded gun is what transforms this SPG. GB28 Bishop  
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,Improved Ventilation Class 1,GLD
+
+|History=
+[[image:Bishop_in_the_Western_Desert,_September_1942. GB28 Bishop jpg|thumb|200px|left|Bishop in the Western Desert, September 1942]]
+The Bishop was a British self-propelled artillery vehicle based on the Valentine tank. GB28 Bishop  A result of a rushed attempt to create a self-propelled gun armed with the 25 Pounder gun-howitzer, the vehicle had numerous problems, was produced in limited numbers and was soon replaced by better designs. GB28 Bishop 
+
+==Development history==
+
+The rapid manoeuvre warfare practiced in the North African Campaign led to a requirement for a self-propelled artillery vehicle armed with the 25 pounder gun-howitzer. GB28 Bishop  In June 1941 the development was entrusted to the Birmingham Railway Carriage and Wagon Company. GB28 Bishop  A prototype was ready for trials by August and 100 were ordered by November 1941. GB28 Bishop [1] The result was a vehicle designated Ordnance QF 25-pdr on Carrier Valentine 25-pdr Mk 1 and universally known as Bishop. GB28 Bishop  The Bishop was based on the Valentine II hull, with the turret replaced by a fixed boxy superstructure with large rear doors. GB28 Bishop  Into this superstructure the 25 pounder gun-howitzer was fitted. GB28 Bishop  As a consequence of the gun mounting the resulting vehicle had very high silhouette, a disadvantage in desert warfare. GB28 Bishop [1] The maximum elevation for the gun was limited to 15 degrees, lowering the range considerably to about 6,400 yards (about half that of the gun on its wheeled carriage), the maximum depression was 5 degrees and traverse 8 degrees. GB28 Bishop  Since this vehicle was designed as an anti-tank artillery piece, this range was devastating. GB28 Bishop  In addition to the main armament the vehicle could carry a Bren light machine gun. GB28 Bishop  By July 1942 80 Bishops had been built, and as the last 20 were being built an order for a further 50 was placed, with an option for a further 200, but the tender was abandoned in favour of the American M7 105 mm SP gun. GB28 Bishop  
+
+==Combat history==
+
+The Bishop first saw action during the Second Battle of El Alamein in North Africa and remained in service during the early part of the Italian Campaign. GB28 Bishop  Due to the aforementioned limitations, compounding the Valentine's characteristic slow speed, the Bishop was poorly received almost universally. GB28 Bishop  In order to compensate for insufficient elevation, crews would often build large ramps out of the earth - running the Bishop onto these tilted the whole vehicle back effectively gaining extra elevation for the gun and increasing its maximum range. GB28 Bishop  It was replaced in service by the M7 Priest (105 mm) and Sexton (25-pounder) when those became available in sufficient numbers, and surviving Bishops were diverted for artillery use. GB28 Bishop 
+
+
+|HistoricalGallery=
+image:This_photo_is_a_crop_of_a_museum_photograph_showing_both_types_of_sights_on_the_left_side_of_the_field_version_of_the_QF_25pdr. GB28 Bishop . GB28 Bishop jpg{{!}}This photo is a crop of a museum photograph showing both types of sights on the left side of the field version of the QF 25pdr
+image:Britain%27s_Bishop_self_propelled_gun_Mk_I. GB28 Bishop png{{!}}Britain's Bishop self propelled gun Mk I
+image:Bisop_SPG_side_view. GB28 Bishop jpg{{!}}Bisop SPG side view
+image:Bisop_SPG_rear_view. GB28 Bishop jpg{{!}}Bisop SPG rear view
+image:Bisop_SPG_front_left_side_view. GB28 Bishop jpg{{!}}Bisop SPG front left side view
+image:Bishop_SPG. GB28 Bishop png{{!}}Bishop SPG
+image:Bishop_SPG_field_fire_tests. GB28 Bishop jpg{{!}}Bishop SPG field fire tests
+image:Bishop_in_the_Western_Desert,_September_1942. GB28 Bishop jpg{{!}}Bishop in the Western Desert, September 1942
+image:Bishop_in_North_africa. GB28 Bishop jpg{{!}} Bishop in North africa
+image:Bishop_in_North_Africa,_25_September_1942. GB28 Bishop _Rear_view_with_the_turret_doors_open. GB28 Bishop . GB28 Bishop jpg{{!}}Bishop in North Africa, 25 September 1942. GB28 Bishop  Rear view with the turret doors open
+image:Bishop_during_offroad_trials. GB28 Bishop jpg{{!}}Bishop during offroad trials
+image:Bishop_beeing_rearmed_with_HE_rounds. GB28 Bishop jpg{{!}}Bishop beeing rearmed with HE rounds
+
+|HistAcc=
+The 4. GB28 Bishop 5-inch howitzer was only fitted to the BT-42, a Finnish assault gun. GB28 Bishop  Its configuration on the Bishop is fake, while the BT-42 does not exist in World of Tanks. GB28 Bishop 
+* The Bishop was replaced in service by the [[M7 Priest]] and [[Sexton II]]. GB28 Bishop  In World of Tanks, however, the Bishop is two tiers higher than the Sexton and the Priest does not exist in the British tech tree. GB28 Bishop 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,74 @@
+{{TankData|Tank=GB50_Sherman_III
+|
+
+|Gallery=
+
+File:Sherman III scr 1. GB50 Sherman III jpg
+File:Sherman III scr 2. GB50 Sherman III jpg
+File:Sherman III scr 3. GB50 Sherman III jpg
+
+
+|InTheGame_pros=
+* Good speed. GB50 Sherman III  On par with the M4 Sherman
+* Can mount 6-pdr gun M4 Sherman does not have, and 76mm has slightly higher ROF
+* Straight angled hull compared to the M4's egg shape hull which allows for more effective angling of the hull
+* Excellent gun-depression at -10 degrees
+* Large ammo capacity for the M1A1 76mm gun (71 rounds), but less than the American M4's gun (90 rounds) as of the latest patch
+|InTheGame_cons=
+* Low premium ammo penetration compared to the M4 Sherman (Premium AP instead of APCR)
+* 2 degrees less gun depression than M4, although it's still good at -10
+* All "American guns" (75mm M3, 76mm M1A1, 105mm M4) that can be mounted are not the same guns from the US M4; must be researched
+* Fatally tall silhouette, easily destroyed if focused on like M4
+* All gun selections have mediocre accuracy
+* Inferior Signal Range for the top Radio (550m) compared to the American M4 (615m)
+
+|InTheGame_performance=
+The Sherman III is comparable to its American brethren. GB50 Sherman III  Any tactic which works for [[Tank:A05_M4_Sherman|the M4 Sherman]] would certainly work for the Sherman III. GB50 Sherman III  However, there are a few differences. GB50 Sherman III  The Sherman III has 465 hitpoints, slightly higher than the 460 hitpoints the M4 Sherman has. GB50 Sherman III  It is also slightly lighter. GB50 Sherman III  The Sherman III also has a squared-off hull versus the rounded hull of the M4 Sherman, making angling easier. GB50 Sherman III  
+
+The gun selection, while largely similar, has some differences. GB50 Sherman III  The 75mm Gun M3 and the 105mm M4 are virtually the same between them, except that credit-purchased ammunition for the Sherman III's 105mm M4 are slightly more expensive. GB50 Sherman III  The Sherman III has a fast-firing, high-penetration but low alpha damage 6-pdr gun, which is unavailable on the M4 Sherman. GB50 Sherman III  The Sherman III's 76mm Gun M1A1 shoots slightly faster than the 76mm Gun M1A1 on the M4 Sherman. GB50 Sherman III  However, the 76mm Gun M1A1 on the M4 Sherman receives excellent premium ammunition, with 177mm of armour penetration, enough to deal with all but the most heavily armoured targets it will encounter. GB50 Sherman III  Instead of these APCR rounds, the 76mm Gun M1A1 on the Sherman III receives improved AP rounds with 149mm of armour penetration. GB50 Sherman III  
+
+The Sherman III has less maximum ammunition for the 76mm M1A1 gun. GB50 Sherman III  It can only carry 71 rounds as to the M4 Sherman's 91 rounds. GB50 Sherman III  This means that the Sherman III has at least 2000 less potential damage than the M4 Sherman when using the 76mm guns. GB50 Sherman III  This difference in ammunition count is only manifest during lengthy shoot-outs that these tanks can actually survive long enough in. GB50 Sherman III  But, as with its American counterpart, the Sherman III does not excel in survivability. GB50 Sherman III  
+
+These differences are rather inconsequential when playing the Sherman III. GB50 Sherman III  Like the M4, flanking tactics should be attempted with the 76mm Gun M1A1 or the 6-pdr Mk. GB50 Sherman III V and brawling tactics should be used with the 105mm M4. GB50 Sherman III  Hull-down positions are very viable, and are very effective despite the reduced gun depression. GB50 Sherman III  Avoid taking hits; while its frontal armour can hold up to low-calibre guns and automatic cannon, it should not be relied on. GB50 Sherman III  
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, GLD, Coated Optics, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+
+|HistoricalGallery=
+Sherman III. GB50 Sherman III png{{!}}Sherman III of the Indian Armoured Corps training in the Middle East, March 1944
+Sherman III (1). GB50 Sherman III jpg{{!}}Sherman III of the British Eighth Army in the village of Milo near Catania, Sicily in August 1943
+Sherman III (2). GB50 Sherman III jpg{{!}}ATS women working on Sherman III tanks at an AFV depot at Chilwell, Nottingham on 25 April 1944
+Sherman III (3). GB50 Sherman III jpg{{!}}Australian Sherman III in Melbourne, Victoria on 21 May 1943
+Sherman III (4). GB50 Sherman III jpg{{!}}Sherman III of the Scots Greys in Italy on 29 September 1943
+Sherman III (5). GB50 Sherman III jpg{{!}}Canadian Sherman tank south of Vaucelles near Caen, during the Normandy invasion in June 1944
+Sherman III (6). GB50 Sherman III jpg{{!}}Sherman III tanks of the 9th Armoured Brigade on parade at Hadeira, Palestine on 30 October 1943
+Sherman III (7). GB50 Sherman III jpg{{!}}Canadian Sherman III of the Three Rivers Regiment during the Battle of Ortona in December 1943
+
+|HistAcc=
+This tank is a mixture of several different models of Sherman. GB50 Sherman III  The British Sherman III is the same as the American M4A2, equipped with the General Motors 6046 diesel engine. GB50 Sherman III  Tanks that used Wright Continental engines were called Sherman I in British service. GB50 Sherman III  Shermans with the Chrysler A57 Multibank engine were called M4A4 or Sherman V. GB50 Sherman III  It also has a different, longer hull due the bigger size of the engine. GB50 Sherman III 
+* The fixed twin . GB50 Sherman III 30-caliber machineguns protruding from the hull were mounted only on some very early Sherman II (M4A1) tanks. GB50 Sherman III  They would most likely not have been present on the Sherman III. GB50 Sherman III 
+* Of the tanks listed above, only the Sherman I (M4) was equipped with the 105 mm howitzer. GB50 Sherman III  Its configuration on the Sherman III is fake. GB50 Sherman III 
+* The Royal Armoured Corps recognition mark (or flash) on Sherman III tanks was painted red/white/red, not white/red/white. GB50 Sherman III  The latter was discontinued in mid-1942; the Sherman III entered British service in 1943. GB50 Sherman III 
+* Overall olive drab paint scheme is missing. GB50 Sherman III  Overall dark yellow for Sherman IIIs serving in the North African Campaign is also missing. GB50 Sherman III 
+* Some Sherman IIIs had a Royal Air Force roundel painted on the turret top for aerial recognition. GB50 Sherman III  This customization option does not exist in World of Tanks. GB50 Sherman III 
+* The Sherman III with the 76 mm gun M1 was unlikely to have been used by the British. GB50 Sherman III 
+* Sherman IIIs equipped with the 76 mm gun M1 was of the M1A2 variant (fitted with muzzle brake), not M1A1. GB50 Sherman III 
+* The 6-pdr gun configurations are fictitious. GB50 Sherman III 
+* Uses the same Chrysler A57 engine as the [[M3 Lee]]. GB50 Sherman III  However, their horsepower and weight values are inconsistent. GB50 Sherman III 
+* Uses the same General Motors 6046 diesel engine as the [[M4A2E4]] which is also an M4A2 hull. GB50 Sherman III  However, their horsepower and weight values are inconsistent. GB50 Sherman III  The British equivalent of the engine actually has the historical values. GB50 Sherman III 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

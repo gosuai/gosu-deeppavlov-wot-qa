@@ -1,0 +1,93 @@
+{{TankData|Tank=VK4502P
+|It has a thicker frontal armour than its brother, the [[E-75]]. G58 VK4502P  It carries the same gun ordinance, but the VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  B has a slightly better gun reload, accuracy, and handling (but worse gun depression) thanks to its turret stats. G58 VK4502P  The transmission is located in the middle, which prevents engine damage from frontal hits, but there is a driver port (albeit small) on the front, and thinner sides. G58 VK4502P  Thus, angling the tank is an absolute must in order to survive. G58 VK4502P 
+
+When first acquired, it comes with an insufficient gun, and will only begin to be a powerhouse when equipped with the L/68 105mm Gun, and will change the balance of battles once equipped with the powerful 128mm L/55 gun
+
+Due to the rear-mounted turret, this tank may seem harder to play and more unwieldy than the previous [[VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  A]]. G58 VK4502P  It's certainly slower than a fully upgraded E-75, mostly due an overwhelmed 875 hp engine, but give it time and get used to its unique play style and you could easily find yourself playing a part in tipping the battle in your team's favor. G58 VK4502P  
+
+As of update 0. G58 VK4502P 9. G58 VK4502P 2, this tank received a significant buff. G58 VK4502P  Both upper and lower frontal plating were buffed to 200mm of thickness, giving an effective armour of over 300mm on both plates. G58 VK4502P  The upper plating has a few weakspots but they are tough to pin-point and still not too weak. G58 VK4502P  The top of turret weakspot has also been buffed from a mere 40mm to 60mm, increasing effective armour greatly. G58 VK4502P  After this update, this tank can no longer be considered in the shadow of the E-75, as an E-75 will now struggle immensely to penetrate your VK while you can punch holes into his under plating. G58 VK4502P 
+
+In a later patch, the weakspot got removed, and the lower plate got nerfed to 170mm, but the upper plate is still around 300mm effective, and through proper angling an all round thickness of at least 240mm can be achieved. G58 VK4502P  In addition, the side armor was buffed from 100mm to 120mm, making sidescraping and angling more effective. G58 VK4502P 
+
+|InTheGame_pros=
+* Fantastic frontal armor, around 300mm with angle and well armored turret
+* High hit point pool
+* The lower plate is a strong point when standing on equal leveled ground, unlike the [[E-75]]
+* Powerfull top gun, 105mm L/68 has very good soft stats
+* Is a monster sidescraper with the rear mounted turret, decent side armor, and respectable alpha damage
+* Cupula weak spot is small and hard to hit beyond 100m or when moving
+
+|InTheGame_cons=
+* Bad mobility overall
+* Poor gun depression
+* Top gun has limited accuracy for a German tank, long aiming time and slow reload
+* Painfull stock grind without the 105mm L/68 from the [[Tiger II]], this gun should be free xp or unlocked through that line
+* Takes critical hits often from shots that hit the side
+
+|HistAcc=
+The 8,8 cm Flak 41 L/74 (the [[Pz. G58 VK4502P Sfl. G58 VK4502P  IVc]]'s top gun) is missing. G58 VK4502P  This gun was initially intended for the VK 45. G58 VK4502P 02 before it was later switched to the KwK 43. G58 VK4502P  The other gun configurations are fake. G58 VK4502P 
+* Hull armor is actually 80 mm thick on all sides. G58 VK4502P  In World of Tanks, however, its armor thickness is a whopping 200/100/100. G58 VK4502P 
+* Stock turret is basically the same Porsche turret from the [[Tiger II]]. G58 VK4502P  Its armor values are 220/150/150 instead of 100/80/80. G58 VK4502P 
+* Top turret is basically the same Henschel turret from the Tiger II. G58 VK4502P  Its armor values are 252/160/160 instead of 185/80/80. G58 VK4502P  The Henschel turret was never designed for this tank. G58 VK4502P  Its configuration on the VK 45. G58 VK4502P 02 is fake. G58 VK4502P 
+
+|InTheGame_performance=
+
+The VK is a very heavily armored tank, even more so than the E-75, however this comes with some trade offs. G58 VK4502P  The VK is a serious departure from the VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  A, which was more of a medium hunter. G58 VK4502P  The VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  B, however is very heavily armored, being able to bounce most tier 9 guns and even some tier 10 guns will have problems penetrating. G58 VK4502P  The VK is a brawler, getting into medium or close distance is where this tank belongs. G58 VK4502P  Avoid open areas as it is only the front armor that is strong. G58 VK4502P  Furthermore, staying in open areas will allow light and medium tanks to circle it as the track traverse is rather poor. G58 VK4502P  
+When driving VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  B you will be able to lead the assault if you plan it correctly. G58 VK4502P  Try to keep all enemies in front of you; as this will allow you to take shots for your allies. G58 VK4502P  Don't be afraid to take forward positions, but always keep artillery in mind, as they can be the bane of this tank. G58 VK4502P  
+The only real weakspot on the VK is the cupola which is rather small, and hard to hit. G58 VK4502P  Very precise shots can hit the gunners port too, but that would be quite a feat to achieve. G58 VK4502P  
+The Ausf. G58 VK4502P  B can make great use of sidescraping techniques due to the rear mounted turret and decent alpha damage. G58 VK4502P 
+
+In some cases, the learning curve can become fairly expensive and you may suffer heavy financial hits until you've grown (or groaned) accustomed to this heavy tank. G58 VK4502P  Don't give up. G58 VK4502P  The grind can be horrible, you can't mount the upgraded turret nor guns until the tracks have been researched. G58 VK4502P  The stock turret is only somewhat strong on paper, and almost everything the VK meets will penetrate that turret; the roof is especially thin. G58 VK4502P  Added to that the canon from its predecessor, which had poor penetration at tier 8, is utterly useless at against most tier 9 and close to all tier 10. G58 VK4502P  
+If mastered, the Ausf B. G58 VK4502P  can be a rewarding tank to play and is great preparation for the play style of the Pz. G58 VK4502P  Kpfw. G58 VK4502P  VII. G58 VK4502P  
+
+
+|InTheGame_research=
+* You should have researched the engines, gun and radio from the previous VK, so equip them first
+ 
+* The stock turret is strong enough to hold up on its own,so its important to upgrade the guns as it will give you the ability to hit targets reliably, should you have not researched the 105mm L/68 from the Tiger II, your first priority is to acquire that gun. G58 VK4502P 
+
+* Research the suspension, or use a suspension module
+
+* Research and equip the Turret
+
+* Get the 128mm Gun
+
+* Go from there 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Vertical Stabilizer
+
+|Gallery=
+image:VK4502(P) Ausf. G58 VK4502P  B front view 1. G58 VK4502P jpg‎{{!}}VK 4502 (P) Ausf. G58 VK4502P  B front left view
+image:VK4502(P) Ausf. G58 VK4502P  B front view 2. G58 VK4502P jpg‎{{!}}VK 4502 (P) Ausf. G58 VK4502P  B front right view
+image:VK4502(P) Ausf. G58 VK4502P  B back view 1. G58 VK4502P jpg‎{{!}}VK 4502 (P) Ausf. G58 VK4502P  B back left view
+image:VK4502(P) Ausf. G58 VK4502P  A back view 2. G58 VK4502P jpg‎{{!}}VK 4502 (P) Ausf. G58 VK4502P  B back right view
+
+|History=
+Two prototypes of this vehicle (one with the forward-mounted turret and the other with the rear-mounted turret) were designed by Dr. G58 VK4502P  Ferdinand Porsche, but it never entered production. G58 VK4502P 
+
+This tank, named the VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  B in the game, is based on the prototype with the rear-mounted turret. G58 VK4502P  The forward-mounted turret is represented by the [[VK 45. G58 VK4502P 02 (P) Ausf. G58 VK4502P  A]]. G58 VK4502P 
+
+
+|HistoricalGallery=
+image:VK 4502 (P) Ausf. G58 VK4502P  B 1. G58 VK4502P jpg{{!}}VK 4502 (P) Ausf. G58 VK4502P  B Technical Drawing
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=4. G58 VK4502P 3
+|Sidebar_Camomove=2. G58 VK4502P 3
+|Sidebar_Camofire=1. G58 VK4502P 1
+|Sidebar_Passhard=1. G58 VK4502P 055
+|Sidebar_Passmed=1. G58 VK4502P 63
+|Sidebar_Passsoft=2. G58 VK4502P 397
+|Sidebar_DispTurret=0. G58 VK4502P 153
+|Sidebar_DispRecoil=2. G58 VK4502P 877
+|Sidebar_DispAccel=0. G58 VK4502P 201
+|Sidebar_DispTurning=0. G58 VK4502P 201
+}}

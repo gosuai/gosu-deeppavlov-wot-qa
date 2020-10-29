@@ -1,0 +1,59 @@
+{{TankData|Tank=R38_KV-220
+|It is identical in all ways to the [[KV-220 Beta-Test]] but without the T (test) symbol. R38 KV-220  It was granted as a gift to players on the RU server and is very rare outside of it. R38 KV-220  This tank has a [[KV-3]] hull with a [[KV-1]] turret, armed with an adequate gun for its tier. R38 KV-220  While having better armor than the KV-1, it can still easily be destroyed by an upgraded KV-1. R38 KV-220  This tank was originally only available on the RU server, but has now been available in the EU, NA and ASIA portal Gift Shop several times. R38 KV-220 
+
+|Gallery=
+image:KV-220_001. R38 KV-220 jpg{{!}}KV-220_001
+image:KV-220_002. R38 KV-220 jpg{{!}}KV-220_002
+image:KV-220_003. R38 KV-220 jpg{{!}}KV-220_003
+image:KV-220_004. R38 KV-220 jpg{{!}}KV-220_004
+
+|InTheGame_pros=
+* Excellent hull armor for its tier, greatly rewards angling and sidescraping
+* Rare tank, leaving players confused as to where to shoot it
+* Large healthpool (higher than a fully upgraded [[KV-1]])
+* Decent gun depression
+* Preferential MM, will never see Tier 7 battles
+
+|InTheGame_cons=
+* Turret armor is fairly weak
+* Sluggish mobility and traverse (also the hull is massive)
+* Bad accuracy and low penetration (even with premium ammunition)
+* Bad signal and view range, similar to the [[KV-1]]
+
+|InTheGame_performance=
+Angling  your armor is the name of the game in this tank. R38 KV-220  Put in the hands of a skilled heavy tank driver, is it capable of holding an entire flank. R38 KV-220  The only real threats when in tier 5 games is derp guns firing HE, artillery, and some other heavy tanks like O-I Exp from close. R38 KV-220  You can't overestimate this tank though, as its front can be penetrated if it is left unangled. R38 KV-220  Ramming with this tank can be very effective. R38 KV-220  Some players go so far as to use the Controlled Impact skill, although that can be difficult if transferring crews back and forth from another tank. R38 KV-220 
+
+|InTheGame_research=
+No reasearch required, as this is a premium tank. R38 KV-220 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Coated Optics, Vents, Spall Liner
+
+|HistAcc=
+Despite using a [[KV-3]] hull, its current armor thickness is 120/100/100 instead of 120/90/90. R38 KV-220 
+* Its actual armament is the [[Gun/USSR#76 mm F-32|76 mm F-32]] gun. R38 KV-220  The ZiS-5 configuration is fake. R38 KV-220 
+
+|History=
+The KV-220 externally differed from ordinary KVs by the greater length of the hull, an increase of one support roller in the track, and a new turret with the 85 mm F-30 Main Gun. R38 KV-220  The weapon was specially designed for arming this tank in the design bureau of Plant No. R38 KV-220  92, under the supervision of Grabin. R38 KV-220  It was tested successfully in the T-28 Medium Tank in the fall of 1940. R38 KV-220  Because of the steep growth in the weight of the tank, which now reached 62 tons, the V-5 engine with 700 h. R38 KV-220 p. R38 KV-220  was mounted. R38 KV-220  Testing of the KV-220 commenced on 30 January 1941 and was halted the very next day because of engine failure. R38 KV-220 
+In contrast to artillerymen, tankers were falling far behind in the development of a new heavy tank. R38 KV-220  Therefore they decided to employ the KV-220 to accelerate the work of testing the new assemblies and aggregates of the KV-3. R38 KV-220  On 20 April 1941 a new engine was finally mounted in the KV-220 and the tank, loaded up to 70 tons, the loaded weight of a KV-3, was submitted for testing. R38 KV-220  By the end of May 1941 it had been driven 1330 kilometres. R38 KV-220  In the report of the plant test personnel it was noted that the tank had "a poor-shifting transmission, the support roller spindles and suspension arms had bent, the torsion bars had twisted, and the engine lacked sufficient power for a 70-ton tank. R38 KV-220 "
+
+On 20 May the KV-220 was brought in for repair, in the course of which the vehicle received a V-2SN Diesel Engine with supercharger producing 850 h. R38 KV-220 p. R38 KV-220  The tank was subjected to testing again beginning on 30 May and by 22 June 1941 had traveled a total distance of 1,985 km. R38 KV-220  But because of problems that arose during the preparation of the forged turret, the work period was extended. R38 KV-220 
+
+In total, only one prototype was constructed in 1941. R38 KV-220 
+
+|HistoricalGallery=
+KV-220. R38 KV-220 jpg{{!}}KV-220 with its original turret and armament. R38 KV-220 
+KV-220 (2). R38 KV-220 jpg{{!}}KV-220 being transported by crane in the background. R38 KV-220  The seventh road wheel and fourth idler are clearly visible. R38 KV-220 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://english. R38 KV-220 battlefield. R38 KV-220 ru/kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R38 KV-220 html
+}}
+
+[[Category:USSR Tanks]]

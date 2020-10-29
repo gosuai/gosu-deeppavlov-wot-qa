@@ -1,0 +1,100 @@
+{{TankData|Tank=Hetzer
+|It is a very different tank from its predecessor, the [[Marder II]]. G09 Hetzer  Initially, its poor speed and restricted arc of fire seem to be a downgrade from the long-range firepower of the Marder II; a point that provokes a lot of mixed opinions from players. G09 Hetzer  It takes some time, and a few upgrades, to unlock the Hetzer's true potential and allow its excellent sloped armor, low profile, and powerful guns to come to the fore. G09 Hetzer  Tier 4 and under tanks will fear the Hetzer to the choices of either the accurate and uprated 75mm gun, or the infamous 105mm that has the potential to take most, if not all of the hitpoints of tier 3s and 4s. G09 Hetzer 
+
+|Gallery=
+image:Hetzer front view 1. G09 Hetzer jpg {{!}}Hetzer front left view
+image:Hetzer front view 2. G09 Hetzer jpg‎{{!}}Hetzer front right view
+image:Hetzer back view 1. G09 Hetzer jpg‎{{!}}Hetzer back left view
+image:Hetzer back view 2. G09 Hetzer jpg‎{{!}}Hetzer back right view
+
+|InTheGame_pros=
+* Good upper plate armor due to sloping (~110mm effective)
+* Good choice of guns and tough gun mantlet
+* Excellent camo factor
+* Amazing aim time on all guns
+* Surprisingly fast hull traverse gives it more chance in close-quarters fights
+
+|InTheGame_cons=
+* Abysmal view range 
+* Paper side and rear armor
+* Asymmetric, tiny gun arc - forces you to expose bits of your side to the enemy, which is easily penetrated
+* Incredibly crappy stock engine
+* Lower plate armor can be penetrated by many tanks. G09 Hetzer 
+
+|HistAcc=
+The Hetzer's actual name is Jagdpanzer 38(t). G09 Hetzer 
+* Hetzers were painted with a dark yellow base coat called Dunkelgelb. G09 Hetzer  In World of Tanks, however, the Hetzer is in early Panzer Grey. G09 Hetzer 
+* The 7,5 cm Stu. G09 Hetzer K. G09 Hetzer  40 L/43 gun was mounted on the G-13. G09 Hetzer  This variant was only used by the Swiss Army. G09 Hetzer 
+* The 10,5 cm howitzer was actually fitted to a Hetzer with a modified fighting compartment. G09 Hetzer  Thus the current model configuration is fictitious. G09 Hetzer 
+* The Praga engine is considerably less powerful than it is in real life, with 100-120 horsepower compared to the historical 160. G09 Hetzer 
+* The Tatra engine was actually fitted to the Jagdpanzer 38 Starr, a simplified design which removed the recoil absorber and attached the main gun to the chassis. G09 Hetzer  Its configuration on the original Hetzer is fake. G09 Hetzer 
+* Has the same Scania Vabis 1664 engine as the [[Sav m/43]], yet their horsepower and weight values are inconsistent. G09 Hetzer 
+
+|InTheGame_performance=
+The stock Hetzer isn't terrible. G09 Hetzer  Its starting gun is identical damage wise to the Pak 39 L/48, and just 8mm short of penetration for AP. G09 Hetzer  However, the stock engine is equal to crap, making the stock Hetzer extremely slow. G09 Hetzer  Fortunately, the engines aren't very expensive to research. G09 Hetzer  A single good match with the daily 2x bonus can net you the Scania Vabis 1664 engine. G09 Hetzer  It plays very differently from the Marder II, mainly in that it features very bouncy frontal armour (with a weak lower glacis plate, something that sets the tone for most of the german td line after)-but it doesn't get the powerful top gun Marder II had. G09 Hetzer  Instead, it gains the fast firing Pak 39 L/48, which is pretty accurate; or the infamous 10,5cm StuH 42 L28, a derp gun that can take most of a tank's hp, but lacks penetration. G09 Hetzer  HE should be your first choice of ammo. G09 Hetzer  Whichever gun you choose, try and play it as an ambush tank. G09 Hetzer  Its high camo value makes it hard to spot, so you can stay hidden until the moment you fire. G09 Hetzer  A Camo Net helps a lot, and a Rammer is practically needed with the 10,5 cm. G09 Hetzer  
+
+The uprated 75mm pak 39 L/48 has better penetration for both AP and APCR, and also superior dispersion of . G09 Hetzer 37 vs the stock 0. G09 Hetzer 39. G09 Hetzer  When combined with combat experience as well as more intrinsic tank handling, it makes for a deadly package. G09 Hetzer  However, most players who have encountered this tank in battle do not see the 75mm. G09 Hetzer  They see the 105mm Stu. G09 Hetzer H. G09 Hetzer  42 L/28, otherwise known as the "Derp" cannon. G09 Hetzer  This choice of gun completely changes how you play the tank. G09 Hetzer  Long range effectiveness? Gone due to the horrid . G09 Hetzer 53 dispersion. G09 Hetzer  Average penetration values are almost halved, and it takes more than double the time to reload. G09 Hetzer  The saving grace? Obscene amounts of both alpha damage as well as dpm normally reserved for much higher tier tanks. G09 Hetzer  No matter what situation matchmaker puts you in, HE your way out of it. G09 Hetzer  With same or lower tier matches however, the power of this gun comes out in full force. G09 Hetzer  Boasting 63mm of AP penetration (w/350 average dmg), it is enough to pen most same or lower tier tanks, to the utter terror of the enemy losing almost all of their hitpoints . G09 Hetzer  HEAT shells have the same dmg but close to double the penetration. G09 Hetzer  Study tanks and exploit their weakpoints, as the joy of snatching someone's hitpoints and/or killing an enemy will be much more frequent. G09 Hetzer  
+
+Be aware that the heavy, sloped armor is increased in effectiveness at range - very few guns with 100mm penetration or less will penetrate you ever frontally and many guns higher than that also have a good chance of bouncing. G09 Hetzer  Keep your frontal armor at the enemy, and learn how to angle your tank to improve effective armor thickness. G09 Hetzer 
+'''Vulnerabilities'''
+
+The front armour is extremely slanted and this has a tendency to bounce a lot of shots (almost every shot from your own tier or lower). G09 Hetzer  The drivers view port is the sole weak point here, which is pretty small in itself. G09 Hetzer  The rear, side, and top armour is paper thin, so wherever possible, flank this TD, utilize HE, and don't take it head on unless you can pen the frontal armour. G09 Hetzer  Regardless of whether you can penetrate its frontal armour or not, it can do a lot of damage with the derp gun. G09 Hetzer  It can spin on a dime, but is as vulnerable to detracking as any turretless TD. G09 Hetzer  The ammo rack is quite weak, and doing so will render the tank practically ineffective. G09 Hetzer 
+
+
+|InTheGame_research=
+* Unfortunately nothing carries over from the Marder II. G09 Hetzer  However, if you play the [[Pz. G09 Hetzer Kpfw. G09 Hetzer  38 (t)]] first, the Praga TNPS engine is available immediately, as the Hetzer is mounted on the Pz. G09 Hetzer Kpfw. G09 Hetzer  38(t)'s chassis
+* First research up to the Scania Vabis 1664 engine. G09 Hetzer 
+* Next research the upgraded suspension for increased traverse speed and weight capacity. G09 Hetzer 
+* Now research your gun of choice. G09 Hetzer 
+* Of note: The 75mm is much more friendly to Newer players, and will teach you how to handle the tank better. G09 Hetzer  The 105mm takes decent practice to really bring out its potential. G09 Hetzer 
+* The upgraded radios are exclusive to the Hetzer. G09 Hetzer  Research the first one, but don't bother with the second one unless you intend to keep it. G09 Hetzer 
+* After that should be the final engine, which will give the Hetzer decent mobility and very good traverse speed (in excess of 45 deg. G09 Hetzer  per sec). G09 Hetzer 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Enhanced Suspension, Binocular Telescope, Camouflage Net
+
+|History=
+[[image:Hetzer cfb borden 1. G09 Hetzer JPG|thumb|200px|right|JPz 38(t) in museum at CFB Borden in Ontario, Canada]]
+
+The Jagdpanzer 38(t) (Sd. G09 Hetzer Kfz. G09 Hetzer  138/2), later known as Hetzer ("baiter"), was a German light tank-destroyer of the Second World War based on a modified pre-war Czechoslovakian Panzer 38(t) chassis. G09 Hetzer  The project was inspired by the Romanian "Mareşal" tank destroyer. G09 Hetzer 
+
+The name "Hetzer" was, at the time, not commonly used for this vehicle. G09 Hetzer  It was the designation for a related prototype, the E-10. G09 Hetzer  The Škoda factory (for a very short period) confused the two names in its documentation, and the very first unit equipped with the vehicle (for a few weeks) applied the incorrect name until matters were cleared. G09 Hetzer  However, there exists a memorandum from Heinz Guderian to Hitler incorrectly claiming that an unofficial name, Hetzer, had spontaneously been coined by the troops. G09 Hetzer  Post-war historians, basing themselves on this statement, made the name popular in their works. G09 Hetzer  The vehicle was never named as such in official documents. G09 Hetzer 
+
+== Development ==
+[[image:Hetzer_G13-D. G09 Hetzer jpg|thumb|200px|right|Hetzer on display in the Royal Military Museum, Brussels]]
+The Jagdpanzer 38(t) was intended to be more cost-effective than the much more ambitious Jagdpanther and Jagdtiger designs of the same period. G09 Hetzer  Using a proven chassis, it avoided the mechanical problems of the larger armored vehicles. G09 Hetzer 
+
+It was better armored than the earlier Panzerjäger Marder and Nashorn with a sloped armor front-plate of 60 mm, sloped back at 60 degrees from the vertical (equivalent in protection to about 120 mm), carried a reasonably powerful gun, was mechanically reliable, small, and easily concealed. G09 Hetzer  It was also cheap to build. G09 Hetzer 
+The Jagdpanzer 38(t) succeeded the Marder III (based on the same chassis) in production from April 1944: about 2,584 were built until the end of the war. G09 Hetzer  The older Marder III Panzerjager-series retained the same vertically-sided chassis as Panzer 38(t). G09 Hetzer  In the Hetzer, the lower hull-sides sloped slightly to increase the available interior space and enable a fully-enclosed fighting compartment. G09 Hetzer  Because of the fully enclosed armor, it was 5 tons heavier than the Marder III. G09 Hetzer  To compensate for the increased weight, track shoe width was increased from 293 mm to 350 mm. G09 Hetzer  Additionally, in late 1944, Guderian ordered the petrol engine replaced by a 190hp air-cooled Tatra Type 928 diesel engine, a result of Germany's rapidly diminishing supply of petrol fuel. G09 Hetzer  This change was not immediately implimented to prevent disruption of production, but by spring 1945, Tatra diesel-powered Hetzers were emerging from factories. G09 Hetzer 
+
+The Hetzer equipped the Panzerjägerabteilungen (tank-destroyer battalions) of the infantry divisions, giving them some limited mobile anti-armor capability. G09 Hetzer  After the war, Czechoslovakia continued to build the type (versions ST-I and ST-III for training version: about 180 units built) and exported 158 vehicles (version G-13) to Switzerland. G09 Hetzer  Most vehicles in today's collections are of Swiss origin. G09 Hetzer 
+
+By order of Adolf Hitler in November 1944, a number of Jagdpanzer 38(t)s were refurbished straight from the factory with a Keobe flamethrower and accompanying equipment instead of the normal gun. G09 Hetzer  The flame projector was encased in a metal shield reminiscent of that of a gun barrel, and easily prone to damage. G09 Hetzer  Less than 50 of these vehicles, designated Flammpanzer 38, were completed before the end of the war, but they were used operationally against Allied forces on the Western Front. G09 Hetzer 
+Further variants were a Hetzer carrying the 150 mm sIG33/2 Howitzer, of which 30 were produced before the end of the war, and the Bergepanzer 38(t)Hetzer, a light recovery vehicle of which 170 were produced. G09 Hetzer  Plans were made to produce other variants, including an assault-gun version of the Hetzer carrying a 105mm StuH main cannon, and an anti-aircraft variant mounted with a flak turret. G09 Hetzer  The war ended before these proposed models were put into production. G09 Hetzer 
+
+== Performance ==
+[[image:Hetzer pic1. G09 Hetzer jpg|thumb|200px|left|Hetzer on the front]]
+[[image:Hetzer pic2. G09 Hetzer jpg|thumb|200px|right|Hetzer belonging to 2nd Pz Div, probably in Normandy during the Falaise pocket battle]]
+The Jagdpanzer 38(t) fitted into the lighter category of German tank-destroyers that began with the Panzerjäger I, continued with the Marder series, and ended with the Jagdpanzer 38(t). G09 Hetzer  The 75 mm gun fitted on the Jagdpanzer 38 (t) was a modified 75 mm Pak 39 L/48, very similar to the late Panzer IV marks. G09 Hetzer  The 75 mm kwk 40 L/48 could destroy nearly all allied tanks in service at long ranges, and its fully-enclosed armor protection made it a safer vehicle to crew than the Marder II or Marder III series. G09 Hetzer 
+The Jagdpanzer 38(t) was one of the most common late-war German tank-destroyers. G09 Hetzer  It was available in relatively large numbers and was generally mechanically reliable. G09 Hetzer  Also, its small size made it easier to conceal than larger vehicles. G09 Hetzer 
+
+Like some other late-war German SPGs, the Hetzer mounted a remote-control machine gun mount which could be fired from within the vehicle. G09 Hetzer  This proved popular with crews, though to reload the gun, a crewmember needed to expose themselves to enemy fire. G09 Hetzer 
+
+Its main failings were comparatively thin armor, limited ammunition storage, as well as torsion-bars and drive wheels that were prone to failure due to the increased weight of the Hetzer body on the Type 38 (t) suspension. G09 Hetzer 
+
+{{VideoYT|oiO4o8GVFBA}}{{VideoYT|4euJaRtKvG0}}
+|HistoricalGallery=
+File:Polish_Hetzer. G09 Hetzer jpg
+File:Hetzer_chech. G09 Hetzer jpg
+File:Hetzer in Halloville. G09 Hetzer jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. G09 Hetzer wikipedia. G09 Hetzer org/wiki/Hetzer
+
+}}

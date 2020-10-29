@@ -1,0 +1,331 @@
+{{TankData|Tank=ISU-152
+|One of the most difficult tanks in the game to resist the urge of an aggressive play style, largely due to its top gun which packs an incredible punch for its tier, the ISU-152 is still not recommended for front-line duty. R47 ISU-152  While being an immense threat to the enemy team when equipped with its top gun, the D-4S, it will only serve as a shot magnet which will indubitably draw the bulk of the enemy's attention and fire onto your tank. R47 ISU-152  And should you find yourself the main target of enemy guns, the laughably thin armor of the ISU-152 will ensure a speedy confrontation and an early grave for your vehicle. R47 ISU-152  Instead, the ISU-152 exceptionally fulfills the traditional role of an ambushing tank destroyer as well as that of a fire-support vehicle if accompanied by more heavily armored allied tanks. R47 ISU-152  In addition to its poor armor and while fearsome, the D-4S main gun of the ISU-152 is a mixed blessing due to its average accuracy, significant aim time and a long reload. R47 ISU-152  But the above average penetration combined with its phenomenal alpha damage output will ensure that should your shell find its target, it will cause tremendous damage if not a one-shot kill. R47 ISU-152  Due to these aspects, the player of the ISU-152 should employ a crew which is first and foremost proficient in camouflage. R47 ISU-152  This tank has a very good camouflage rating and will sorely need to stay out of sight for as long as possible when engaging the enemy in order to avoid being shelled. R47 ISU-152  Artillery will have no problem decimating your hit point count and it is inadvisable to allow it the chance to do so. R47 ISU-152  In short, a skilled player of the ISU-152 will know the most advantageous position which either masks the tank well or provides enough cover for a successful ambush while they in turn have a clear line of sight on an advancing enemy team. R47 ISU-152  If these requirements are met, the ISU-152 will be a merciless opponent, annihilating anything foolish enough to get in front of its main gun and becoming a main contributor to its team. R47 ISU-152       
+|Gallery=
+image:ISU-a. R47 ISU-152 jpg{{!}}Front right
+image:ISU-b. R47 ISU-152 jpg{{!}}Front left
+image:ISU-c. R47 ISU-152 jpg{{!}}Rear right
+image:ISU-d. R47 ISU-152 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Huge alpha damage (Best in tier-class) with decent penetration. R47 ISU-152 
+* Surprisingly decent gun handling and very good DPM for such a large caliber gun. R47 ISU-152 
+* Decent top speed, can be reached fairly reliably. R47 ISU-152 
+* Good camouflage values. R47 ISU-152 
+* Can be a threat to any tank regardless of tier spread, thanks to its top gun. R47 ISU-152 
+
+|InTheGame_cons=
+* A glass cannon - poor armor and frequent module/crew critical damage. R47 ISU-152 
+* Poor reload speed, aim time, accuracy, and shell velocity, unreliable at higher tiers. R47 ISU-152  Penetration drop off for its APCR its annoying (260mm at 500m). R47 ISU-152 
+* Limited gun depression and horizontal guidance. R47 ISU-152 
+* Poor reverse speed and hull traverse, easily overwhelmed and/or flanked. R47 ISU-152 
+* Low ammo capacity. R47 ISU-152 
+
+|InTheGame_performance= 
+
+Stock, it comes with the same gun on the SU-152, at a tier higher. R47 ISU-152  The 122mm BL-9S is not the greatest TD gun, but still has more than enough penetration for a stock-ish gun. R47 ISU-152  
+
+The mighty D-4S makes you a threat that no tank can safely ignore, but the gun's own temperamental nature can severely limit your performance. R47 ISU-152   Accuracy, penetration, and damage dealt can all fluctuate wildly, and the same gun that can sometimes 3-shot the overpowered Object 268 Version 4 one minute can and often will be completely missing TOG's at 100m, failing to penetrate scout tanks, and dishing out repeated sub-600 damage rolls the very next. R47 ISU-152  Penetrations with the D-4S standard AP rounds are a bit odd because on paper, 260mm of penetration is still enough to go through nearly any armor you come across, but unlike the BL-10 that used to be available on this tank, you'll have to be more mindful of shot placement. R47 ISU-152  Shells will still overmatch thin, angled armor, but be prepared to see opponents' tracks and spaced armor eat more shots because of its lower penetration compared to the BL-10. R47 ISU-152  Tricky, low-percentage shots are strongly discouraged, unless you have absolutely no other option. R47 ISU-152  This is not to say, however, that the D-4S is inaccurate. R47 ISU-152  It can chooses to thread the most impossible shot imaginable with no effort at all if fully aimed. R47 ISU-152  The D-4S can be best described as 'moody' (or as least as much as a piece of digital code can be) without at any point sounding ironic, and it is entirely possible to have one game where nothing can stand before you, only to have a 10% hit rate the next. R47 ISU-152 
+ 
+As for equipment, hands down get the Large Caliber Tank Gun Rammer and Improved Ventilation. R47 ISU-152  These two together increase your RoF by 15%, and with 100% crew, you'll be firing 25% faster than the advertised 3. R47 ISU-152 41 RoF, which leads you to about 4. R47 ISU-152 1 RoF, which is a shot every 14 seconds compared to a shot every 18 seconds. R47 ISU-152  With those two pieces of equipment, you can fire an extra shot every 4 shots you fire. R47 ISU-152  Your last slot should either be a Camo Net to improve your stealth or a Gun Laying Drive to improve the abysmal aiming time. R47 ISU-152  With the recent nerf to view-range, Binocs are much less effective now. R47 ISU-152  You'll need to rely on teammates to spot enemies, or be prepared to use your good speed to close the distance and deliver some up close and personal punishment. R47 ISU-152 
+
+|InTheGame_research=
+
+* The 12RT radio carries over from the SU-152 
+* If you upgraded the Tier 7 IS heavy tank, the V-2-54IS engine should be available
+* Research the suspensions
+* Research the 122mm BL-9S gun 
+* Research the mighty 152mm D-4S gun, it's this tank's main feature
+* If not already available, research the top engine
+
+|InTheGame_equipment= 
+
+Vents, Tank Gun Rammer, GLD, Camouflage Net, Binocular Telescope
+
+
+|History=
+[[image:ISU-152-Berlin. R47 ISU-152 jpg|thumb|200px|right|Karlshorst, Berlin, Germany]]
+ISU-152 was a Soviet multi-role fully enclosed and armored self-propelled gun developed and used during World War II, with a subsequent use, mainly in the Soviet military, till the 1970s. R47 ISU-152 
+
+== History ==
+The ISU-152 marks its beginning on January 24, 1943. R47 ISU-152  This was the moment of appearance of the first fighting vehicle of this family. R47 ISU-152  It was designated Object 236 (Объект 236), using the same concept as the ISU-152. R47 ISU-152  The Object 236 was completed in Factory No. R47 ISU-152  100 in Chelyabinsk, and on the same day, January 24, underwent trials on the Chebarkulski artillery range, 107 km from Chelyabinsk. R47 ISU-152  By February 7, 1943 the trials were over, passed with success. R47 ISU-152  On February 14, the vehicle was adopted and put on production under the KV-14 (КВ-14) designation. R47 ISU-152  In April 1943, KV-14 was ordered to be henceforth designated SU-152 (СУ-152). R47 ISU-152  In time, the combat performance of the SU-152, based on the KV-1S tank, made necessary the modernization of the vehicle, using the new IS tank as a base. R47 ISU-152  On May 25, 1943, shortly after deployment, the administration of Factory No. R47 ISU-152  100 ordered the beginning of the SU-152 modernization, which included an increase of the armor protection and other improvements. R47 ISU-152  The development began in July 1943, under the supervision of Joseph Yakovlevich Kotin (the chief designer of Soviet heavy tanks) and G. R47 ISU-152  N. R47 ISU-152  Moskvin as the main designer, and in about a month the first modernized variant was ready. R47 ISU-152  It was designated IS-152 (ИС-152). R47 ISU-152  It underwent factory trials in September 1943, revealing a large number of different deficiencies, which sent it back for further improvement. R47 ISU-152  In October 1943, a second (different) modernized variant was ready, designated Object 241 (Объект 241). R47 ISU-152  It was an improvement over the IS-152. R47 ISU-152  The factory trials began the same month, followed by state trials on the Gorohovetskom test range. R47 ISU-152  On November 6, 1943, an order was issued for adoption of this variant, under the ISU-152 (ИСУ-152) designation, and in December its production began at the Chelyabinsk Kirovsk Plant, replacing the SU-152. R47 ISU-152 [1][2]
+
+== Design ==
+[[image:ISU-152 (prototype). R47 ISU-152 jpg|thumb|200px|right|The first ISU-152, in the courtyard of Factory No. R47 ISU-152  100, 1943]]
+On April 15, 1942, at the plenum of the artillery committee, it was recommended that the development of assault guns for support of infantry, as well as the necessity of also developing assault guns capable of destroying fortified positions begin. R47 ISU-152  It was intended that these assault platforms be armed with a 152. R47 ISU-152 4 mm gun-howitzer and used for penetration of the enemy defenses in the offensive operations planned for 1942-1943. R47 ISU-152  This resulted in the development of the Object 236, and eventually the SU-152, with this concept later continued and further developed with the ISU-152. R47 ISU-152 
+
+The ISU-152 followed the same design as other Soviet self-propelled guns, except for the SU-76. R47 ISU-152  The fully armored hull was divided into two compartments: fighting compartment for the crew, gun, and ammunition in the front of the hull, and engine and transmission in the rear. R47 ISU-152  The gun was mounted slightly to the right of center with a limited traverse of 12 degrees left and right. R47 ISU-152  The crew consisted of 4 or 5 men placed in the superstructure. R47 ISU-152  Three of the crew were to the left of the gun: driver to the front, then gunner, and last the loader. R47 ISU-152  The vehicle commander and lockman were to the right: commander to the front and the lockman behind. R47 ISU-152  When the crew consisted of 4 men, the loading was carried out by the lockman. R47 ISU-152 
+
+The suspension consisted of twelve torsion bars for the six road wheels on either side. R47 ISU-152  The drive sprockets were at the back, and the front idlers were identical to the road wheels. R47 ISU-152  Each track was made up of 90 links. R47 ISU-152  There were three internal fuel tanks, two in the crew area and one in the engine compartment. R47 ISU-152  These were usually supplemented with four unconnected external fuel tanks. R47 ISU-152  Twelve and 24-volt electrical power supplies came from a 1 kW generator feeding four accumulator batteries. R47 ISU-152 
+
+For observation from the interior, all roof hatches had periscopes and there were two gun sights : telescopic ST-10 (??-10) and panoramic. R47 ISU-152  For crew communication, a TPU-4-BisF intercom was fitted, and for inter-vehicle communication there was a single 10R or 10RK radio. R47 ISU-152  These were better than Soviet equipment at the start of the war, but still inferior to German equipment. R47 ISU-152 
+
+[[image:ISU-152a. R47 ISU-152 jpg|thumb|200px|right|Inside of ISU-152]]
+The crew were given two PPSh sub-machine guns with 1491 rounds and 20 F-1 grenades for short range self-defense. R47 ISU-152 
+The ISU-152 was armed with the same gun as the SU-152. R47 ISU-152  It used the hull of the IS-1 tank (later IS-2 or IS-2 model 1944) instead of the KV-1S. R47 ISU-152  Later in the war, the ISU-152 was further improved. R47 ISU-152  It used the hull of the IS-2 or IS-2 model 1944 tank, the armor of the mantlet was increased, the gun was replaced by newer variants, a 12. R47 ISU-152 7 x 108 mm DShK anti-aircraft machine gun was installed by the right forward hatch, and later its ammunition capacity increased, the 10R radio set was upgraded to a 10RK, and the fuel capacity was increased. R47 ISU-152 
+Some ISU-152s were equipped with even larger external fuel tanks; two tanks on the rear hull deck, in addition to the four external fuel tanks (90 liters each, maximum), or with two smaller additional external fuel tanks, on the hull rear. R47 ISU-152  This option was probably available for the post-war ISU-152 modifications. R47 ISU-152 
+
+Between December 1943 and May 1945, 1,885 ISU-152s were built. R47 ISU-152  Mass production ceased in 1947, with 3,242 vehicles produced in total. R47 ISU-152 
+Post-war ISU-152 modernization included installation of night vision sights, replacing of the V-2IS engine with the V-54K, the 12. R47 ISU-152 7 machine gun was replaced by a newer variant, the ammunition capacity increased to 30 rounds, additional armor, automotive improvements, and a significant increase of the main fuel capacity. R47 ISU-152 [3][4]
+
+== Variants ==
+
+== ISU-152 ==
+The initial variant, developed in 1943. R47 ISU-152  The factory designation was Object 241 (Объект 241). R47 ISU-152  It was armed with the 152. R47 ISU-152 4 mm ML-20S (МЛ-20С) gun-howitzer, with a barrel length of over 4. R47 ISU-152 2 meters (27. R47 ISU-152 9 calibers). R47 ISU-152  The self-propelled gun carried 21 rounds of two piece (shell and charge) armor-piercing and high explosive ammunition. R47 ISU-152  The gun had a maximum range of 6,200 meters. R47 ISU-152  The armor-piercing round, weighing 48. R47 ISU-152 78 kg, had a muzzle velocity of 600 m/s and a maximum penetration of 125 mm of RHA at 90° at a range of 500 meters. R47 ISU-152  The ISU-152 had different modifications concerning the gun (newer modifications), the number of the hatches, or the hull, based on the IS-1, IS-2, or IS-2 model 1944. R47 ISU-152  The latter modification had a thicker gun shield, fuel tankage with increased volume, etc. R47 ISU-152  Till May 1944, the main armament was the 152. R47 ISU-152 4 mm ML-20 model 1937 gun-howizer. R47 ISU-152  The ISU-152 had a rate of fire of 2-3 rounds/min. R47 ISU-152  The early modifications had three hatches at the superstructure roof and one emergency hatch at the bottom of the hull behind the driver's seat, which had an armored cover. R47 ISU-152  Later was added a fourth round hatch, at the superstructure roof on the right, next to the rectangular hatch on the left. R47 ISU-152  The later ISU-152 modifications, with newer gun and slightly longer barrel, up to over 4. R47 ISU-152 9 meters (32. R47 ISU-152 3 calibers), had a maximum range of fire of up to 13,000 meters. R47 ISU-152 
+
+== ISU-152-2 ==
+One prototype, developed in 1944. R47 ISU-152  In April, 1944, in an attempt to increase the firepower of the ISU-152, a high-power variant of the self-propelled gun was developed, designated ISU-152BM (ИСУ-152БМ) (ISU-152BM), sometimes referred to as ISU-152BM-1 or ISU-152-1. R47 ISU-152  The "BM" ("БМ") in the designation stands for "Большой Мощности"/"Large Power". R47 ISU-152  The main purpose of the ISU-152BM was to fight against heavily-armored tank destroyers such as the Elefant and the Jagdtiger. R47 ISU-152  It was armed with the 152. R47 ISU-152 4 mm BL-8 (БЛ-8) long barrel gun, which unlike the ISU-152's gun, wasn't a gun-howitzer. R47 ISU-152  It had a maximum range of 18,500 meters. R47 ISU-152  The self-propelled gun carried 21 rounds of two piece (shell and charge) ammunition. R47 ISU-152  The overall length of the gun was coming up to 8 meters, with a barrel length of about 46 calibers. R47 ISU-152  The armor-piercing round, weighing 48. R47 ISU-152 78 kg, had a muzzle velocity of 850 m/s. R47 ISU-152  The factory designation of the vehicle was Object 246 (Объект 246). R47 ISU-152  It used the engine, transmission, running gear, and electrical equipment of the ISU-122. R47 ISU-152  During the trials, the gun showed unsatisfactory results; being difficult to operate by the crew, unreliable working of the muzzle brake, etc. R47 ISU-152  In addition, the gun, reaching out too far, was limiting the maneuverability of the vehicle. R47 ISU-152  In August, 1944, the BL-8 gun was replaced with the 152. R47 ISU-152 4 mm BL-10 (БЛ-10) long barrel gun, which had the same ballistics, but with differences including a modified muzzle brake and a different breech block, and the self-propelled gun was designated ISU-152-2 (ИСУ-152-2) (ISU-152-2). R47 ISU-152  Its factory designation was Object 247 (Объект 247). R47 ISU-152  The trials were still showing some problems, and though it was sent back for further improvement, the ISU-152-2 was never adopted. R47 ISU-152  Today, this self-propelled gun is located at the Kubinka Tank Museum. R47 ISU-152 
+
+== ISU-152 model 1945 ==
+[[image:Object-704. R47 ISU-152 jpg|thumb|200px|right|ISU-152 model 1945]]
+One prototype, developed in 1945. R47 ISU-152  It used elements of the IS-2 and IS-3 tanks. R47 ISU-152  The overall height of the vehicle was reduced to 2240 mm, which was compensated by an increased width of the superstructure. R47 ISU-152  The factory designation was Object 704 (Объект 704). R47 ISU-152  It was armed with the 152. R47 ISU-152 4 mm ML-20SM model 1944 (МЛ-20СМ обр. R47 ISU-152  1944 г. R47 ISU-152 ) gun-howitzer, with a barrel length of over 4. R47 ISU-152 5 meters (29. R47 ISU-152 6 calibers) and no muzzle brake, which further increased the firepower of the gun. R47 ISU-152  It had a maximum range of 13,000 meters. R47 ISU-152  The self-propelled gun carried 20 rounds of two piece (shell and charge) armor-piercing and high explosive ammunition. R47 ISU-152  The armor-piercing round, weighing 48. R47 ISU-152 78 kg, had a muzzle velocity of 655 m/s. R47 ISU-152  The rate of fire was 1-2 round/min. R47 ISU-152  ISU-152 model 1945 had four hatches at the superstructure roof and one emergency hatch at the bottom of the hull behind the driver's seat, which had an armored cover. R47 ISU-152  The self-propelled gun carried two external fuel tanks (90 liters each) not connected to the supply system. R47 ISU-152  The secondary armament of the fighting vehicle consisted of two 12. R47 ISU-152 7 x 108 mm DShK machine guns, one anti-aircraft, and the other co-axial. R47 ISU-152  Protection was increased by placing thicker armor at more radical angles. R47 ISU-152  In the area of the gun, where the mantlet combined with the hull-front behind it and the housing of the recoil mechanism, the armor thickness was 320 mm. R47 ISU-152  ISU-152 model 1945 (ИСУ-152 обр. R47 ISU-152  1945 г. R47 ISU-152 ) was the best protected of all experimental or production Soviet self-propelled guns of the Second World War. R47 ISU-152  However, the radical incline of the superstructure walls combined with the increased recoil of the gun, due to the lack of a muzzle brake, significantly complicated the work of the crew, and for this reason mainly wasn't adopted. R47 ISU-152  Today, the self-propelled gun is exhibited at the Kubinka Tank Museum. R47 ISU-152 [5][6]
+
+== ISU-152K ==
+[[image:ISU-152_at_Victory_Park_in_Moscow. R47 ISU-152 jpg|thumb|200px|right|ISU-152K, Victory Park, Moscow, Russia]]
+A modernized variant of the wartime ISU-152 was developed in 1953. R47 ISU-152  It used a new engine, that of the T-54, with a cooling system and a heater. R47 ISU-152  The capacity of the main internal fuel tank was increased to 920 liters, which added 500 km more to the vehicle's range on a road. R47 ISU-152  The ammunition capacity was increased to 30 rounds after the removal of an additional internal fuel tank that was placed in the crew compartment. R47 ISU-152  The gun had a maximum range of 13,000 meters. R47 ISU-152  It received a new commander's cupola and new sights. R47 ISU-152  The factory designation was Object 241K (Объект 241К). R47 ISU-152  The running gear used many elements of the T-10. R47 ISU-152  The mantlet had an additional armor ring protecting the sight. R47 ISU-152  Some of the ISU-152Ks received an additional 15 mm armored plate welded on top of the 60 mm armored plate covering the mantlet above. R47 ISU-152  Also, some received an additional armored plate welded on the upper mantlet front. R47 ISU-152  The modernization was carried out in the [[https://en. R47 ISU-152 wikipedia. R47 ISU-152 org/wiki/Kirov_Plant Leningrad Kirov Plant]]. R47 ISU-152 [2]
+
+== ISU-152M ==
+The final variant, a modernized former ISU-152, was developed in 1959. R47 ISU-152  The work was now transferred to the Chelyabinsk Kirovsk Plant. R47 ISU-152  This modernization was parallel to the IS-2M program, and the ISU-152M used many elements of the tank. R47 ISU-152  The factory designation was Object 241M (Объект 241М). R47 ISU-152  The innovations included the installation of night vision sights, increased ammunition stowage for the 12. R47 ISU-152 7 mm machine gun (which was replaced by the improved DShKM), and internal automotive improvements. R47 ISU-152  It had the same new commander's cupola and sights as the ISU-152K. R47 ISU-152  It also had the same main internal fuel tank capacity, 920 liters, adding 500 km more to the vehicle's range on a road compared to the ISU-152, and an increased ammunition capacity to 30 rounds due to the removal of an additional internal fuel tank. R47 ISU-152  The gun had a maximum range of 13,000 meters. R47 ISU-152  The ring protecting the sight was present, and the armor of the upper mantlet front was further increased with a thicker additional armored plate. R47 ISU-152  The ISU-152M had the same V-54K engine with a heater, but lacked the cooling system. R47 ISU-152 [7]
+
+== Multirole use ==
+[[image:ISU-152_Kubinka. R47 ISU-152 jpg|thumb|200px|right|Kubinka, Russia]]
+The ISU-152 self-propelled gun combined three battle roles : heavy assault gun, heavy tank destroyer, and heavy self-propelled artillery. R47 ISU-152  The 152. R47 ISU-152 4 mm gun used a variety of powerful (shell and charge) ammunition. R47 ISU-152  Some of this ammunition had a 43. R47 ISU-152 56 kg high-explosive shell, or a 48. R47 ISU-152 78 kg armor-piercing shell, or the heaviest of all: the 53-G-545 (53-Г-545) long range concrete-piercing ammunition with a 56 kg shell. R47 ISU-152  The ISU-152 was used for infantry and tank support, attacks on fortified positions in a direct-fire role, support on the battlefield in an indirect-fire role, and for fighting against tanks with direct fire. R47 ISU-152 
+
+== Heavy assault gun ==
+As a heavy assault gun, the ISU-152 was an extremely valuable weapon in urban combat operations such as the assaults on Berlin, Budapest, and Königsberg. R47 ISU-152  The vehicle's excellent armor protection finally provided the 152. R47 ISU-152 4 mm platform with good protection from most German anti-tank guns, allowing it to advance into the face of direct anti-tank fire, while the huge low velocity high-explosive rounds were excellent at blasting open even the most heavily fortified and reinforced enemy strongpoints. R47 ISU-152  Such actions would be much more dangerous and much less effective for a conventional towed artillery piece, with their high crew exposure and low mobility, or even a tank, with their smaller main guns. R47 ISU-152  When supporting tanks, the usual tactics of the ISU-152 was to be used in the second line of the attack order, 100 to 200 meters behind the attacking tanks, which were usually IS tanks with equal mobility. R47 ISU-152 
+The ISU-152, like the earlier SU-152 and contemporary ISU-122, was employed by Independent Heavy Self-propelled Artillery Regiments. R47 ISU-152  Between May 1943 and 1945, 53 of these regiments were formed. R47 ISU-152  Many of them were re-formed tank regiments, and employed similar direct fire tactics as used by tanks when supporting infantry. R47 ISU-152  Each of the heavy regiment had 21 guns, divided into 4 artillery batteries of 5 vehicles and the commander's vehicle. R47 ISU-152  For support, the heavy regiments had some supplementary unarmored vehicles such as trucks, jeeps, or motorcycles. R47 ISU-152  In December 1944, Guards Heavy Self-propelled Artillery Brigades were formed, to provide heavy fire support to the tank armies. R47 ISU-152  They were organized along the model of tank brigades, each with 65 ISU-152 or ISU-122 self-propelled guns. R47 ISU-152 
+To minimize the risks of being knocked out by Panzerfaust-equipped units during urban operations, the ISU-152 usually acted in one or two vehicle detachments alongside infantry squads for protection. R47 ISU-152  The infantry squad would include a specialist sniper (or at least a sharpshooter), some submachine gunners, and sometimes a flamethrower. R47 ISU-152  The ISU-152's heavy caliber DShK machinegun was also useful for targeting Panzerfaust gunners hiding on upper floors of city buildings or behind protective cover, barricades, etc. R47 ISU-152  Effective teamwork between the ISU-152 crew and supporting infantry allowed them to achieve their goals with minimal losses, but if such tactics were not adhered to, the attacking vehicles were easily attacked and destroyed, usually through the weaker armor on the roof or rear compartment. R47 ISU-152 
+
+== Heavy tank destroyer ==
+The ISU-152 could also operate as an effective heavy tank destroyer. R47 ISU-152  Though it was not designed for the role, the vehicle inherited the nickname Zveroboy ("beast killer") from its predecessor, the SU-152, for its rare ability to reliably kill the best protected German fighting vehicles, ie; the Panther tank, the Tiger and Tiger B tanks, and even the Elefant and Jagdtiger tank destroyers. R47 ISU-152  The weight of the 152. R47 ISU-152 4 mm shells made for an extremely-low rate of fire, only one to three rounds per minute, and they were not as accurate at long range as high-velocity antitank guns. R47 ISU-152  But, the massive high-explosive shell was capable of blowing the turret completely off a Tiger from sheer blast force alone. R47 ISU-152  No tank crew could expect to survive a direct impact from the 152. R47 ISU-152 4 mm shell, though the chassis itself was sometimes salvageable. R47 ISU-152  If a tank survived, there was enough internal damage to the tank or the crew; splintering of the internal armor or leakage from the damaged tank's pipes and systems. R47 ISU-152  For anti-tank operations following the Battle of Kursk, an even larger armor-piercing ammunition was developed, with an eye towards giving the howitzer a more traditional anti-tank capability. R47 ISU-152  However, these rounds were expensive, in short supply, and only moderately more effective than the standard non-penetrating high-explosive round. R47 ISU-152  As a howitzer, the ML-20S exchanged velocity and accuracy for throw weight and distance, and was not intended to compete with true anti-tank guns. R47 ISU-152  At times, the concrete-piercing ammunition was used for the anti-tank role. R47 ISU-152  A primitive shaped charge ammunition, with a 27. R47 ISU-152 44 kg shell, was also developed. R47 ISU-152  It had a maximum penetration of 250 mm of RHA at 90°, but it was not used during the war. R47 ISU-152 
+
+The ISU-152's 90 mm of sloped frontal armor, in contrast to the SU-152's 65 mm, provided excellent frontal protection from the 75mm KwK 40 gun of the ubiquitous Panzer IV and StuG family at all but the closest ranges, while also forcing the Tiger, with its vaunted 88mm KwK 36 gun, to close to medium ranges in order to successfully penetrate the vehicle. R47 ISU-152  This negated the Tiger's  traditional long range superiority and exposed more of its vulnerable flanks to the 85mm ZiS-S gun of the Soviet T-34-85. R47 ISU-152 
+
+The ISU-152 was not a true purpose-built tank destroyer. R47 ISU-152  It had a very low rate of fire compared with specialized tank destroyers such as the German Jagdpanther or the Soviet SU-100, which could manage a brief burst of 5-8 rounds per minute. R47 ISU-152  However, prior to the introduction of the SU-100, it was the only Soviet armored vehicle capable of tackling the German heavy tanks with any kind of reliability, and its ability to satisfy multiple roles meant it was produced in far greater numbers than the SU-100. R47 ISU-152  Attention to camouflage, quick relocation between firing positions, and massed ambushes of 4-5 vehicles firing in salvo at a single target's flanks reduced the disadvantage of the low rate of fire. R47 ISU-152  Using these tactics, the ISU-152 became greatly feared by German heavy tank commanders, robbing them of their prior sense of invulnerability to Soviet guns and forcing them to commit their forces more cautiously and sparingly. R47 ISU-152 
+
+== Heavy self-propelled artillery ==
+The ISU-152 was sometimes used as a self-propelled artillery for support on the battlefield and preparatory bombardments, though it had a medium range of fire and a slow reloading speed. R47 ISU-152  The Soviet army had not developed specialized vehicles for this purpose. R47 ISU-152  Their tank and mechanized units were well equipped with towed artillery, but the towed guns were very vulnerable while moving and could not support tanks and motorized infantry during rapid advances into enemy positions, especially when they lacked the armored fully-enclosed design of fighting vehicles like the ISU-152. R47 ISU-152 
+
+Despite the ISU-152's good features, it suffered in some other areas. R47 ISU-152  The greatest disadvantage was that internal stowage was limited to only 20 or 21 rounds of ammunition, with extra rounds often stowed on the rear deck. R47 ISU-152  Replenishing the vehicle's ammunition supply took over 40 minutes and required a very strong loader, due to the large size and weight of the shells. R47 ISU-152  The ST-10 telescopic sight used for direct fire was graduated up to 900 meters. R47 ISU-152  A second "panoramic" sight was used for direct-fire up to the 3,500 meter range. R47 ISU-152  However, it was problematic for the gunner to switch between the two visors. R47 ISU-152  To compensate, it was simpler to concentrate the fire of several vehicles onto the target, sacrificing accuracy for sheer volume of firepower. R47 ISU-152  The high-explosive shells were large enough to take out even a heavily armored vehicle, or a fortification with the even heavier long range concrete-piercing shells. R47 ISU-152  The usual complement of ammunition was 13 high-explosive and 7 armor-piercing or concrete-piercing. R47 ISU-152 
+
+<div id="verticalTable">
+<table>
+<th colspan="8">Ammunition Statistics</th>
+    <tr>
+        <td align="center"><B>Ammunition</B></td>
+        <td align="center"><B>Ammunition type</B></td>
+        <td align="center"><B>Shell type</B></td>
+        <td align="center"><B>Shell weight</B></td>
+        <td align="center"><B>Penetration (maximum)</B></td>
+        <td align="center"><B>(1000 meters)</B></td>
+        <td align="center"><B>(1500 meters)</B></td>
+        <td align="center"><B>(2000 meters)</B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-OF-540 (still in use)</B></td>
+        <td align="center"><B>Long-range high-explosive</B></td>
+        <td align="center"><B>gun steel shell</B></td>
+        <td align="center"><B>43. R47 ISU-152 56 kg </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-OF-530 </B></td>
+        <td align="center"><B>Long-range high-explosive </B></td>
+        <td align="center"><B>howitzer steel shell </B></td>
+        <td align="center"><B>40 kg </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-BR-540 </B></td>
+        <td align="center"><B>Armor-piercing </B></td>
+        <td align="center"><B>pointed nose shell
+(without a ballistic cap) </B></td>
+        <td align="center"><B>48. R47 ISU-152 78 kg </B></td>
+        <td align="center"><B>125 mm of RHA at 90° (at 500 meters)</B></td>
+        <td align="center"><B>115 mm	(123 mm) </B></td>
+        <td align="center"><B>105 mm </B></td>
+        <td align="center"><B>90 mm </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-BR-540B
+(adopted in late 1944) </B></td>
+        <td align="center"><B>Armor-piercing </B></td>
+        <td align="center"><B>flat nose shell
+(with a ballistic cap) </B></td>
+        <td align="center"><B>46. R47 ISU-152 5 kg </B></td>
+        <td align="center"><B>130 mm of RHA at 90°
+(at 500 meters) </B></td>
+        <td align="center"><B>120 mm </B></td>
+        <td align="center"><B>115 mm </B></td>
+        <td align="center"><B>105 mm </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-BP-540
+(not used during the war) </B></td>
+        <td align="center"><B>Armor-piercing </B></td>
+        <td align="center"><B>shaped charge </B></td>
+        <td align="center"><B>27. R47 ISU-152 44 kg </B></td>
+        <td align="center"><B>250 mm of RHA at 90°
+(220 mm at 30° from vertical) 
+(120 mm at 60° from vertical)			
+</B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>(naval, model 1915/1928) </B></td>
+        <td align="center"><B>Semi-armor-piercing </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B>51. R47 ISU-152 07 kg </B></td>
+        <td align="center"><B>136 mm of RHA at 90°
+(at 100 meters) 				
+(128 mm at 500 meters)</B></td>
+        <td align="center"><B>119 mm </B></td>
+        <td align="center"><B>111 mm </B></td>
+        <td align="center"><B>105 mm </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-G-530 </B></td>
+        <td align="center"><B>Long range concrete-piercing </B></td>
+        <td align="center"><B>howitzer shell </B></td>
+        <td align="center"><B>40 kg </B></td>
+        <td align="center"><B>about 1 meter of reinforced concrete </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+    </tr>
+    <tr>
+        <td align="center"><B>53-G-545 </B></td>
+        <td align="center"><B>Long range concrete-piercing </B></td>
+        <td align="center"><B>gun shell </B></td>
+        <td align="center"><B>56 kg </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+        <td align="center"><B> </B></td>
+    </tr>
+</table>
+</div>
+
+The armor penetration can vary with the different ammunition batches or the different RHA. R47 ISU-152 
+The use of ISU-152 in the post-World War II years was mainly as an assault gun. R47 ISU-152  By the late 1950s, the Soviets had already developed 152. R47 ISU-152 4 mm nuclear rounds, capable of being used by the ISU-152 in the role of self-propelled artillery, but the low angle of inclination and short maximum range of the gun made it dangerous for the fighting vehicles themselves. R47 ISU-152  The Soviets tried to solve this problem by developing rocket assisted projectiles, but this solution was later abandoned in favor of the SO-152 (??-152) self-propelled artillery of a new type, developed in 1968. R47 ISU-152  After the adoption of SO-152, the last remaining role of the ISU-152, as a conventional or nuclear self-propelled artillery, was over. R47 ISU-152 
+
+== Soviet combat use ==
+World War II on the Eastern Front and during the Continuation War (Finland)
+World War II in the Soviet–Japanese War during the Manchurian Invasion
+Hungarian Revolution
+
+== Foreign use ==
+
+=== Finnish military ===
+In June 1944, during the Continuation War, a captured ISU-152 was used by the Finnish military. R47 ISU-152  It was lost in the fighting. R47 ISU-152  Another one was repaired in Varkaus, Finland, but never saw action. R47 ISU-152  It was used as a towing vehicle with the gun removed until 1964. R47 ISU-152  Later, the gun was re-installed and the ISU-152 was added to the collection of Parola Tank Museum. R47 ISU-152 
+
+=== Polish military ===
+In 1944, over 30 ISU-152s were delivered to the People's Army of Poland. R47 ISU-152  Shortly after, the Poles formed the 25th Polish self-propelled artillery regiment, consisting of 10 ISU-152s and 22 ISU-122s. R47 ISU-152  As part of the 1st Polish tank corps (T-34 and T-34-85 tanks), the regiment took part in the fighting on the river Nysa, southwest of Poland in March 1945. R47 ISU-152  In early 1945, the Polish command began to form another ISU-152 regiment, but with not enough of these fighting vehices. R47 ISU-152  The newly formed 13th Polish self-propelled artillery regiment received two ISU-152 and two SU-85 artillery batteries. R47 ISU-152  This regiment took part in the Battle of Berlin in April - May 1945. R47 ISU-152 
+During the post-war period, the ISU-152s remained in the Polish military till the early 1960s. R47 ISU-152 
+
+=== Chinese military ===
+In 1955, the Soviet armed forces retreated from Dalian, ending 10 years of residence. R47 ISU-152  All armament was sold to the China People's Liberation Army, including 67 ISU-152s, of which 45 ISU-152s were given to the new founding 1st Mechnical Division of PLA. R47 ISU-152 
+
+=== Czechoslovakian military ===
+As part of military assistance to friendly countries, a few ISU-152s were transferred to the Czechoslovakian military after World War II, where they were used till the late 1950s. R47 ISU-152 
+
+=== North Korean military ===
+During the Korean War, ISU-152s were used by the North Korean military. R47 ISU-152 
+
+=== Egyptian military ===
+In the early 1960s, the Egyptian military received at least one regiment of ISU-152s. R47 ISU-152  They were used during the 1967-1973 Egyptian–Israeli Wars. R47 ISU-152 [2]
+
+== Remnants ==
+
+Today, whats left to remind us of the ISU-152 can be seen, exhibited, or simply located, at different museums and memorials around the world, or even as a monument, a remnant of a restless past sealed in time. R47 ISU-152 
+
+Military Historical Museum of Artillery, Engineers and Signal Corps, Saint Petersburg, Russia
+
+Central Museum of Armed Forces, Moscow, Russia
+
+Military Historical Museum of Armored Fighting Vehicles and Equipment in Kubinka, Kubinka, Russia
+
+Sapun Mountain Memorial, Sevastopol, Ukraine
+
+National Museum of the History of the Great Patriotic War 1941-1945, Kiev, Ukraine
+
+Museum of the Polish Army, Warsaw, Poland
+
+The Armored Corps Memorial Site and Museum at Latrun, Latrun, Israel
+
+Stalin Line Museum, Minsk, Belarus
+
+Belarusian State Museum of Great Patriotic War History, Minsk, Belarus
+
+Parola Armor Museum, Parola, Finland
+
+German-Russian Museum Berlin-Karlshorst, Karlshorst, Berlin, Germany
+
+Victory Park Memorial, Saratov, Russia
+
+Victory Park Memorial, Moscow, Russia
+
+VHU Praha Tank Museum, Lešany, Czech Republic
+
+{{VideoYT|2jT1F3B1qxs}}
+
+{{VideoYT|-49d0Mf0VFc}}
+
+|HistoricalGallery=
+image:ISU-152_at_Victory_Park_in_Moscow. R47 ISU-152 jpg{{!}}ISU-152 at Victory Park in Moscow
+image:ISU-152_Kubinka. R47 ISU-152 jpg‎{{!}}Kubinka
+image:ISU-152_(prototype). R47 ISU-152 jpg‎{{!}}Prototype
+image:ISU-152-Berlin. R47 ISU-152 jpg‎{{!}}In Berlin
+image:ISU152front. R47 ISU-152 jpg‎{{!}}Front view
+image:Isu152_11. R47 ISU-152 jpg‎{{!}}ISU-152
+image:Isu1. R47 ISU-152 jpg‎{{!}}ISU-152
+image:Isu2. R47 ISU-152 jpg‎{{!}}ISU-152
+image:Isu3. R47 ISU-152 jpg‎{{!}}ISU-152
+image:Isu4. R47 ISU-152 jpg‎{{!}}ISU-152
+image:Isu5. R47 ISU-152 jpg‎{{!}}ISU-152
+File:ISU-152-1. R47 ISU-152 jpg{{!}}The ISU-152-1, equipped with the BL-8 cannon. R47 ISU-152 
+File:BL-8_cannon. R47 ISU-152 jpg{{!}}The BL-8 cannon, which was later developed into the BL-10
+File:ISU-152_with_BL-9__top_and_BL-10_bottom. R47 ISU-152 jpg{{!}}Sketch of the ISU-152 equipped with the BL-9 on top and the BL-10 on the bottom
+File:SU-152_BR-2_in_ML-20_mount_D-4. R47 ISU-152 jpeg{{!}}Sketch of the BR-2 152mm cannon mounted in the SU-152 using the ML-20 mount also known as the D-4 cannon. R47 ISU-152 
+
+|HistAcc=
+Like many Soviet tanks in game the ISU-152 has increased gun depression. R47 ISU-152  In reality it had:
+** -3° with the ML-20 152mm howitzer
+** -2° with the BL-9 122mm cannon
+** And although the ISU-152 was never equipped with the D-4 cannon it is very unlikely to have featured more than -3°
+* Engine is considerably more powerful than in reality, with 700 hp compared to the historical 520. R47 ISU-152 
+
+|Ref_references=
+* IS-2 Heavy Tank 1944-73 https://books. R47 ISU-152 google. R47 ISU-152 com/books?id=ZjEIa4hcqE4C&pg=PA43#v=onepage&q&f=false 
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://english. R47 ISU-152 battlefield. R47 ISU-152 ru/su-152. R47 ISU-152 html '''SU-152 Heavy Assault Gun'''] at battlefield. R47 ISU-152 ru. R47 ISU-152 
+* https://worldoftanks. R47 ISU-152 ru/community/history/tanks/isu-152
+* [https://en. R47 ISU-152 wikipedia. R47 ISU-152 org/wiki/ISU-152 Wikipedia]
+* https://armor. R47 ISU-152 kiev. R47 ISU-152 ua/Tanks/WWII/isu152/
+* https://armor. R47 ISU-152 kiev. R47 ISU-152 ua/Tanks/WWII/isu152/1/
+* https://armor. R47 ISU-152 kiev. R47 ISU-152 ua/Tanks/WWII/is3/is3_1. R47 ISU-152 php
+* https://tankarchives. R47 ISU-152 blogspot. R47 ISU-152 com/2013/03/bl-8-high-power-152-mm-gun. R47 ISU-152 html
+* https://warspot. R47 ISU-152 ru/10999-tyazhyolye-istrebiteli-ostavshiesya-na-bumage
+
+|Sidebar_Camostop=15. R47 ISU-152 4
+|Sidebar_Camomove=9. R47 ISU-152 1
+|Sidebar_Camofire=3. R47 ISU-152 7
+|Sidebar_Passhard=1. R47 ISU-152 055
+|Sidebar_Passmed=1. R47 ISU-152 342
+|Sidebar_Passsoft=2. R47 ISU-152 205
+|Sidebar_DispTurret=0. R47 ISU-152 077
+|Sidebar_DispRecoil=3. R47 ISU-152 836
+|Sidebar_DispAccel=0. R47 ISU-152 192
+|Sidebar_DispTurning=0. R47 ISU-152 192
+}}

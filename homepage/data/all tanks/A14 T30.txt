@@ -1,0 +1,280 @@
+{{TankData|Tank=T30
+|The T30 has a long history in World of Tanks. A14 T30  It started as a very good above average performing Tier X Heavy tank, that after several consecutive nerfs, ended at the back of the caravan. A14 T30  Its transformation into a Tier IX tank destroyer made this tank once again enjoyable to play. A14 T30  Its main weapon, the 155 mm T7, was formidable already in the Tier X arena, but when used against Tier VIII and sometimes even Tier VII targets, "devastation" is the only word that comes to mind. A14 T30  However, the T30 has a very weak hull, and under no circumstances can it afford to ignore low tier opponents. A14 T30  In the hands of a skillful player that knows how to properly use its strong points, the T30 can face any tank in-game and single-handedly change the course of the entire battle. A14 T30  
+
+
+|InTheGame_pros=
+
+- Excellent gun mantlet armor and gun depression. A14 T30  Proof against most standard ammo when hull down
+
+- 155mm AT Gun T7 with massive alpha and good penetration, mounted in a full traverse turret
+
+- Large tracks covering the side armor, can sidescrape in a pinch
+
+- High engine power and modest acceleration for its massive weight
+
+- Hilarious yet sometimes frustrating fear factor with the 155mm gun, most opponents are reluctant to bear its shot
+
+- Acceptable camo for its size
+
+
+
+|InTheGame_cons=
+
+- Requires great patience due to the 155mm gun's very long reload time and horrible gun handling
+
+- All gun options are not considered close to being accurate, especially so when trying snapshots
+
+- Weak hull armor and turret roof, not being hull-down or doing so on the same spot for too long are both unsafe
+
+- Poor agility due to low traverse rate and bad terrain resistance, prone to flanking
+
+- Priority target due to its vulnerabilities and fear factor, attracts a lot of artillery fire 
+
+
+|InTheGame_performance=
+The T30 is a nasty tank to fight against as it mounts the powerful 155 mm AT Gun T7, identical to the [[T95]]. A14 T30  The T30 can be quite scary to fight alone, especially if it manages to ambush you. A14 T30  Its slow turret traverse speed may allow agile tanks to flank and avoid being on the massive gun's receiving end. A14 T30  T30 drivers can attempt to counter this by turning the entire tank towards the target to bring the turret around faster. A14 T30  The best way to defeat it is to just gang up on it and strike at the hull armor. A14 T30  Fighting the T30 when it's in hull down is even more difficult. A14 T30  In this situation you may have to swarm from multiple directions simultaneously or try to land a shot in its turret roof, without resorting to high-penetration premium shells. A14 T30 
+
+The T30 is similar to a tier IX heavy tank with fewer hit points but a massive gun. A14 T30  With the super weak hull and super strong turret in asset, hull down tactic suits perfectly so you should always seek to it. A14 T30  A tier X TD is about the only thing that can penetrate your turret by default. A14 T30  Artillery may fire from a high trajectory and deal heavy damage to your weak roof too. A14 T30  Other lighter armed opponents will likely aim for your turret's cupola to pen you, but a good counter to this attempt is to raise your gun barrel, wiggle the turret back and forth between shots, then proceed to aim after the enemy has shot. A14 T30  Use the T30 carefully, as it can contribute to victory in many ways. A14 T30  In ideal circumstances, the T30 is capable of anchoring a flank by itself, even in tier X games. A14 T30 
+
+Note that as a tank with 360 degrees of turret traverse, you gain from a few uncommon traits: the T30 can benefit from traditional TD camo bonuses without breaking them by committing to not moving the hull when in a good position. A14 T30  Also when situation grows desperate, it might be not irrational to join shot-trading brawl altogether, since most HT in tier does around 440 damage per shot while you do 750 the same way. A14 T30  Two penetrating shots will cost your opponents usually more than half of their tank, which can be crucial and saves a lot of effort for teammates. A14 T30  Remember as a TD with little agility, healthy teammates can often help you more than carefully conserved hitpoint pool does in mid to late game. A14 T30 
+
+
+|InTheGame_research=
+* The 120 mm gun carries over from the T28 Prototype. A14 T30  Install it immediately, as the stock 105 is inadequate. A14 T30  The top radio is also available on the T28 Prototype. A14 T30 
+* Next, the stock suspension cannot hold the 155 mm, and you can't mount much equipment with it either. A14 T30  Get the top suspension. A14 T30 
+* Then get the 155 mm cannon to bring the 750 alpha that opponents fear. A14 T30 
+* Finally, get the top engine for a little bit better mobility. A14 T30 
+
+Some players elect to use enhanced suspension if they want to prioritize researching the 155 mm or already have it available. A14 T30  
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD
+
+|Gallery=
+image:T30_001. A14 T30 jpg{{!}}T30_001
+image:T30_002. A14 T30 jpg{{!}}T30_002
+image:T30_003. A14 T30 jpg{{!}}T30_003
+image:T30_004. A14 T30 jpg{{!}}T30_004
+image:Ingame_T30-1. A14 T30 jpg{{!}}T30, map Port
+
+|History=
+By the middle of 1944, combat reports from Europe describing the use of heavy tanks by the Germans stimulated new interest in the development of an equivalent American vehicle. A14 T30  The Pershing medium tank provided an answer to the early model of the German [[Pz. A14 T30 Kpfw. A14 T30  VI Tiger]]. A14 T30  However, although the latter was still in first line service, it had first been encountered by U. A14 T30  S. A14 T30  Army during 1943. A14 T30  By 1944, the Germans were introducing even more heavily armed and armored vehicles ([[Pz. A14 T30 Kpfw. A14 T30  Tiger II]]). A14 T30   Although for morale purposes the [[M26 Pershing]] was temporarily redesignated as a heavy tank, it clearly did not provide an answer to the problem. A14 T30  On 14 September 1944, U. A14 T30  S. A14 T30  forces recommended development and manufacture of four prototypes for a new heavy tank. A14 T30  Two of these were designated as the heavy tank [[T29]] and were to be armed with the 105mm gun T5E1. A14 T30  The remaining two were designated as the heavy tank [[T30]] and were to be armed with the 155mm gun T7. A14 T30 
+== History ==
+Two [[T30]] heavy tanks entered the test program at Aberdeen shortly after the [[T29]]. A14 T30  The first arrived at the Proving Ground in April 1948, followed by the second in July. A14 T30  Originally intended to have the same power train as the [[T29]], the military characteristics of the [[T30]] were changed in late 1945 to substitute the air-cooled Continental V-12 engine for the liquid- cooled Ford GAC. A14 T30  The new engine, designated as the AV-1790-3, developed 810 gross horsepower at 2800 rpm and was an early model of what became the standard power plant for American tanks during the next decade. A14 T30  The main objective of the [[T30]] test program at Aberdeen was to evaluate the new engine with the CD-850 cross-drive transmission. A14 T30 
+== Technical info ==
+[[image:T30_technical_draving. A14 T30 gif|thumb|200px|left|T30 Technical drawings]] The [[T30]] hull was essentially the same as that of the [[T29]], except for the changes to the engine compartment necessary to accommodate the air-cooled engine. A14 T30  The turret was also similar to that on the [[T29]], but was armed with the T7 155mm gun. A14 T30  Only one coaxial . A14 T30 50 caliber machine gun was located to the left of the cannon in the T124 combination gun mount. A14 T30  The T7 cannon had a relatively low muzzle velocity of 2300 feet per second, but the 95 pound high explosive shell had a powerful demolition effect. A14 T30  Separated ammunition was used as with the 105mm gun in the [[T29]]. A14 T30  The cased-propelling charge weighed about 40 pounds: bringing the complete 155mm round weight to approximately 135 pounds. A14 T30  Thirty-four complete rounds were carried, and a spring rammer was provided for use with the heavy separated ammunition. A14 T30  Even prior to the tests, it had been expected that there would be considerable difficulty in handling the heavy ammunition inside the tank turret. A14 T30  On 24 July 1947, the U. A14 T30 S Army authorized the diversion of one [[T30]] for the installation of experimental automatic ramming equipment, an automatic cartridge case ejecting mechanism, and a drive mechanism for indexing the mount for loading and returning the weapon to its previous position. A14 T30  The latter was required because the lack of space inside the turret, combined with the size and weight of the ammunition, permitted the loading of the gun only within a very limited range of elevation. A14 T30  This heavy tank was designated as the [[T30]]E1, the weapon and mount as the 155mm gun T7H1, and the combination gun-mount the T124E1. A14 T30 [[image:T30E1. A14 T30 jpg|thumb|200px|right|T30E1 prototype]]
+The sequence of operations when the cannon fired in the [[T30]]E1 was as follows; 
+'''1. A14 T30 ''' The gun fired, recoiled, and returned to the battery position. A14 T30 
+'''2. A14 T30 ''' The gun automatically elevated or depressed to line up with the rammer tray. A14 T30  
+'''3. A14 T30 ''' The rammer-tray was extended. A14 T30 
+'''4. A14 T30 ''' A port in the rear of the turret bustle opened to allow the ejection of the empty case from the turret. A14 T30  
+'''5. A14 T30 ''' The gun breech opened and ejected the empty case. A14 T30  
+'''6. A14 T30 ''' A new projectile and cartridge case were lifted onto the rammer-tray. A14 T30  
+'''7. A14 T30 ''' The projectile and case were rammed and the breech closed. A14 T30  
+'''8. A14 T30 ''' The rammer-tray was withdrawn. A14 T30  
+'''9. A14 T30 ''' The gun automatically elevated or depressed to its original firing position parallel with the gunner's sight. A14 T30 
+To aid in handling the heavy ammunition, a power lifting device was installed in the [[T30]] and [[T30]]E1 during the testing program. A14 T30  From the outside, the only obvious identification point on the [[T30]]E1 was the ejection port in the lower rear wall of the turret bustle. A14 T30 
+== T-series prototypes ==
+The [[T29]], [[T30]], [[T32]], and [[T34]] series of tanks were used to evaluate numerous experimental components after World War II. A14 T30  Although too late for the war for which they were designed, they provided invaluable service in developing these components for later tanks. A14 T30  Much of the work which made the early AV-1790 engine and the CD-850 transmission a reliable power package utilized these tanks. A14 T30  Later, they were used in the development of other power train components such as the XT-1400 transmission, which was tested in the [[T30]]. A14 T30 
+
+
+<table style="text-align:center;" frame="box" rules="vertical;horizontal" >
+<caption>American Heavy tank comparision</caption>
+<tr>
+<th></th>
+	<th>Mk. A14 T30 VII</th>
+	<th>[[M6]]</th>
+	<th>T28</th>
+	<th>[[T29]]</th>
+	<th>[[T30]]</th>
+	<th>[[T32]]</th>
+	<th>[[T34]]</th>
+	<th>M103A2</th>
+</tr>
+<tr>
+<th>Crew</th>
+	<td>8</td>
+	<td>6</td>
+	<td>4</td>
+	<td>6</td>
+	<td>6</td>
+	<td>5</td>
+	<td>6</td>
+	<td>5</td>
+</tr>
+<tr>
+<th>Lenght</th>
+	<td>10,43m</td>
+	<td>8,43m</td>
+	<td>11,12m</td>
+	<td>11,56m</td>
+	<td>10,9m</td>
+	<td>10,83m</td>
+	<td>11,77m</td>
+	<td>11,23m</td>
+</tr>
+<tr>
+<th>Width</th>
+	<td>3,66m</td>
+	<td>3,12m</td>
+	<td>4,54m</td>
+	<td>3,8m</td>
+	<td>3,8m</td>
+	<td>3,76m</td>
+	<td>3,8m</td>
+	<td>3,63m</td>
+</tr>
+<tr>
+<th>Height</th>
+	<td>3,12m</td>
+	<td>3,00m</td>
+	<td>2,86m</td>
+	<td>3,22m</td>
+	<td>3,22m</td>
+	<td>2,81m</td>
+	<td>3,22m</td>
+	<td>3,56m</td>
+</tr>
+<tr>
+<th>Weight</th>
+	<td>39,5t</td>
+	<td>57,4t</td>
+	<td>86,3t</td>
+	<td>64,25t</td>
+	<td>64,74t</td>
+	<td>54,5t</td>
+	<td>65,2t</td>
+	<td>58,1t</td>
+</tr>
+<tr>
+<th>Engine<br />power</th>
+	<td>Liberty<br />338hp</td>
+	<td>G-200<br />960hp</td>
+	<td>GAF<br />500hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>AV1790<br />750hp</td>
+</tr>
+<tr>
+<th>Max. A14 T30  speed</th>
+	<td>8,8km/h</td>
+	<td>35km/h</td>
+	<td>12,8km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>37km/h</td>
+</tr>
+<tr>
+<th>hull armour<br />(angle)</th>
+	<td>12mm<br />(28)</td>
+	<td>83mm<br />(30)</td>
+	<td>305mm</td>
+	<td>102mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(60)</td>
+</tr>
+<tr>
+<th>side armour</th>
+	<td>12mm</td>
+	<td>70mm</td>
+	<td>152mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>51mm</td>
+</tr>
+<tr>
+<th>Turret armour<br />(mantlet)</th>
+	<td>16mm</td>
+	<td>83mm<br />(102mm)</td>
+	<td>-</td>
+	<td>178mm<br />(279mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>298mm<br />(298mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>127mm<br />(254mm)</td>
+</tr>
+<tr>
+<th>top armour</th>
+	<td>6-10mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>bottom armour</th>
+	<td>6-8mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>Gun</th>
+	<td>2x57mm<br />Hotchkiss</td>
+	<td>75mm M7<br />37mm MB</td>
+	<td>105mm<br />T5E1</td>
+	<td>105mm<br />T5E2</td>
+	<td>155mm<br />T7</td>
+	<td>90mm<br />T15E2</td>
+	<td>120mm<br />T53</td>
+	<td>120mm<br />M58</td>
+</tr>
+<tr>
+<th>Secondary<br />armament</th>
+	<td>5x7,62mm<br />Hotchkiss</td>
+	<td>2x12,7mm <br />HB M2<br />2x7,62mm<br />M1919A4</td>
+	<td>12,7mm<br />HB M2</td>
+	<td>3x12,7mm<br />HB M2<br />7. A14 T30 62mm<br />M1919M4</td>
+	<td>2x12,7mm<br />HB M2<br />7. A14 T30 62mm<br />M1919M4</td>
+	<td>12,7mm<br />HB M2<br />2x7. A14 T30 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A14 T30 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A14 T30 62mm<br />M37</td>
+</tr>
+</table>
+
+|HistoricalGallery=
+image:T30_Heavy_Tank. A14 T30 JPG{{!}}T30 Prototype
+image:T30_Heavy_Tank_(2). A14 T30 jpg{{!}}T30 Prototype
+image:T30_color. A14 T30 jpg{{!}}T30 on Tank Row at Aberdeen Proving Grounds
+
+|HistAcc=
+The T30 is officially classed as Heavy Tank, not Tank Destroyer. A14 T30 
+
+|Ref_references=
+
+
+|Ref_sources=
+* R. A14 T30 P. A14 T30  Hunnicutt - Firepower: A History of the American Heavy Tank, 1988 Presidio Press, ISBN 0-89141-304-9. A14 T30 
+
+|Ref_links=
+* https://www. A14 T30 militaryfactory. A14 T30 com/armor/detail. A14 T30 asp?armor_id=353
+* https://en. A14 T30 wikipedia. A14 T30 org/wiki/T30_Heavy_Tank
+
+|Sidebar_Camostop=9. A14 T30 2
+|Sidebar_Camomove=5. A14 T30 71
+|Sidebar_Camofire=2. A14 T30 09
+|Sidebar_Passhard=1. A14 T30 342
+|Sidebar_Passmed=1. A14 T30 534
+|Sidebar_Passsoft=3. A14 T30 068
+|Sidebar_DispTurret=0. A14 T30 23
+|Sidebar_DispRecoil=3. A14 T30 836
+|Sidebar_DispAccel=0. A14 T30 23
+|Sidebar_DispTurning=0. A14 T30 23
+}}
+
+[[Category:USA Tanks]]

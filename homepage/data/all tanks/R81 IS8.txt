@@ -1,0 +1,122 @@
+{{TankData|Tank=IS8
+|Formerly known as the IS-8, the T-10 is a departure from its "parent", the [[IS-3]], as instead of being a hands-on assault tank, the T-10 is a "softer" but faster heavy tank, comparable to the [[IS]]. R81 IS8  It drives more like a "Heavium" than a heavy. R81 IS8  The front armor is slightly increased in thickness compared to IS-3, but it is far less effective in the front due to the worsened angles and increased height of the tank, but the side armour is increased by 30mm and it has spaced armour just like the IS-3. R81 IS8  The turret is very hard to penetrate and the center of the front hull is capable of bouncing shots from the direct front, but shots from other tier 9s will often go straight through. R81 IS8  The top gun, however, has enough penetration to easily take on other tier 9 and 10 heavy tanks, and does a lot of damage with a quicker reload than the IS-3's BL-9 gun. R81 IS8  Using the T-10's speed to avoid damage and pick on other heavies makes this tank an extremely formidable opponent. R81 IS8 
+
+|Gallery=
+image:IS-8-a. R81 IS8 jpg{{!}}IS-8 1
+image:IS-8-b. R81 IS8 jpg{{!}}IS-8 2
+image:IS-8-c. R81 IS8 jpg{{!}}IS-8 3
+image:IS-8-d. R81 IS8 jpg{{!}}IS-8 4
+image:IS8game1. R81 IS8 jpg{{!}}IS-8, Murovanka map
+image:IS8-a1. R81 IS8 jpg{{!}}IS-8, Komarin map
+
+|InTheGame_pros=
+- Very good mobility, nearly rivals medium tanks and can play as pseudo-medium when necessary
+
+- Front is sloped, which can bounce some hits
+
+- 122mm gun has good combination of penetration, damage and DPM, and is much more accurate than earlier guns
+
+- Very strong frontal turret armor
+
+- Sides are relatively tough and spaced
+
+
+|InTheGame_cons=
+- Large lower glacis is easily penetrated, often resulting in the driver's death
+
+- Upper plate is not that tough, and its pike nose angling makes it even weaker
+
+- Terrible gun depression, like other Soviet heavies
+
+- Below average HP for heavy tank
+
+- Ammorack gets damaged relatively often
+
+- Rear roof armor is very thin, it can take full damage by SPGs
+
+
+
+|InTheGame_performance=
+The T-10 has very little in common with the IS-3, those who had immense fun in the latter will start scratching their heads and become frustrated by the armor of the T-10, however, keep in mind this tank is even better than the IS-3 for two potentially very advantageous reasons:
+
+The speed and mobility of T-10 allows you to reach areas in an amount of time only tier 8-10 French heavies can dream of reaching. R81 IS8  Use this to your advantage, especially if you have the top gun, as it allows you to land early- and potentially game shifting- blows. R81 IS8  This also permits you to deal at least three shots worth of damage with the top gun, if you play your cards correctly. R81 IS8 
+
+The top gun's power is starkly felt from the IS-3's top gun, with 33 additional millimeters of penetration (the IS-7's gun loses 8mm of that pen) knowing where to place shots on other tanks will lead you toward piling up a hearty heap of damage, and even several kills on top of that. R81 IS8 
+
+However, keep in mind you cannot brawl in the manner you could in the IS-3, simply charging in and letting foes hopelessly bounce off the front of your tank. R81 IS8  This is because, while the front armor of the T-10 is in fact 10mm thicker than the IS-3's, the angles aren't any better, and as guns at tier 9 have much higher penetration, it isnt as effective. R81 IS8  Combined with larger lower glacis than IS-3 means that unless foes fire into your front from odd-angles (which can lead to some very lucky bounces), or just lack the penetration power entirely (the IS can hardly pen your front hull ''at all''), you will lose health very rapidly. R81 IS8  The best method to remedy this is to adopt a mixture of medium tank tactics and heavy tank tactics. R81 IS8  The T-10, aside from the strange angling of the front hull and frequent module damage, can be essentially seen as a larger T-54 with a more powerful gun. R81 IS8  The best method of surviving battles while racking up damage and kills, is to adopt a form of "Peek-a-boom" brawling; popping out of cover or from behind terrain to take pot shots into tanks one on one. R81 IS8  You may not have a massive amount of hitpoints for a tier 9 heavy, but a single medium (or even two in some situations) will have extreme trouble defeating you man-to-man against you if you have the top gun installed. R81 IS8  By the time more serious threats, such as slower heavy tanks show up, you can greet them with the wrecks of their medium allies, or have essentially eliminated a push opportunity for the enemy. R81 IS8  Sidescraping can be tricky, since the upper plate is not particularly thick, and when angled, it becomes vulnerable to even some tier 8s. R81 IS8  A better option is to reverse sidescrape. R81 IS8  Frontal mounted turret and spaced side armor makes this actually very effective when mastered. R81 IS8 
+
+The T-10 is also extremely effective at leading a fast-tank charge down a flank, as the top gun's alpha allows it to finish off targeted mediums you start trading paint with, or lop-siding such confrontations altogether. R81 IS8 
+
+All in all, try to stay near cover as much as you can, pop tanks when you have a clear shot, keep your tank as little in the open for shots as possible, and avoid getting encircled by a smaller tank. R81 IS8  While it might be not as easy to play as IS or IS-3, T-10 is an extremely good tank in good hands, and still one of the best vehicles in its tier. R81 IS8 
+
+|InTheGame_research= 
+*The 122mm BL-9 gun and the R-113 radio carry over from the IS-3, immediately mount those. R81 IS8 
+*Before considering the top gun, consider your play style. R81 IS8  The turret gives much needed additional armour and also increases view range. R81 IS8 
+*The M62-T2 gun can thankfully be mounted without upgraded suspension, so long as NO equipment is put on the tank
+*From here its the choice of the turret for better gun handling and reload, or the tracks for the ability to mount the top engine and equipment. R81 IS8 
+*Reasearch whatever you haven't reasearched. R81 IS8 
+*Research Obj. R81 IS8  277. R81 IS8 
+
+Alternatively, research as follows if you are grinding this tank
+*122mm BL-9 gun and R-113 from the IS-3
+*Turret for additional armour (no additional weight)
+*Engine for additional mobility (no additional weight)
+*Suspension so that you can mount the M62-T2 without losing any equipment
+*M62-T2 gun, followed by researching the Obj. R81 IS8  277
+
+|InTheGame_equipment=
+Large-caliber Tank Gun Rammer, Enhanced Gun Laying Drive, Vertical Stabilizer Mk 2
+
+
+|History=
+The T-10 (also known as Object 730) was a Soviet heavy tank of the Cold War, the final development of the KV and IS tank series. R81 IS8  It was accepted into production in 1952 as the IS-8 (Iosif Stalin, Russian form of Joseph Stalin), but due to the political climate in the wake of Stalin's death in 1953, it was renamed T-10. R81 IS8 
+The biggest differences from its direct ancestor, the IS-3, were a longer hull, seven pairs of road wheels instead of six, a larger turret mounting a new gun with fume extractor, an improved diesel engine, and increased armor. R81 IS8  General performance was similar, although the T-10 could carry more ammunition. R81 IS8 
+T-10s (like the IS tanks they replaced) were deployed in independent tank regiments belonging to armies, and independent tank battalions belonging to divisions. R81 IS8  These independent tank units could be attached to mechanized units, to support infantry operations and perform breakthroughs. R81 IS8 
+==Demise of Soviet Heavy Tanks==
+The mobile nature of armored warfare in World War II had demonstrated the drawbacks of the slow heavy tanks. R81 IS8  In the final push towards Berlin, mechanized divisions had become widely split up as heavy tanks lagged behind the mobile T-34s. R81 IS8  The Soviets continued to produce heavy tanks for a few years as part of the Cold War arms race (compare the heavier U. R81 IS8 S. R81 IS8  M103 and British Conqueror), but the more flexible T-54 and T-62 medium tanks already had armor and armament comparable to the T-10's. R81 IS8 
+In the 1960s, the Soviets embraced the main battle tank (MBT) concept, by replacing heavy tanks with mobile medium tanks. R81 IS8  In the late 1960s, the independent tank battalions with heavy tanks were re-equipped with the higher-technology T-64s, and later, the very fast T-80, while regular tank and mechanized units fielded the more basic T-55s and T-72s. R81 IS8  T-10 production was stopped in 1966, and heavy tank projects were cancelled, such as the auto-loaded, 130 mm-armed Object 770. R81 IS8 
+Antitank guided missiles (ATGMs) started to be deployed widely during this period, and would become an effective replacement for the heavy tanks' long-range firepower. R81 IS8  The Soviets made use of them first on BMP-1 infantry fighting vehicles, and later on the T-64 and other MBTs. R81 IS8  Eventually, light, sophisticated reactive armour was used to give the MBTs a further edge in protection without slowing them down. R81 IS8 
+According to Bryan Perret, "the engagements of the Six-Day War, especially that at Rafah, merely emphasised what the Soviet Army already knew, namely that the heavy tank had had its day". R81 IS8 
+==Production History==
+The T-10 served with the Soviet Union but was not known to have been provided to Warsaw Pact nations, though Soviet heavy tank regiments stationed in those countries may have been equipped with them. R81 IS8  T-10Ms were "in the unhappy position" of simultaneous production by two factories (Kirov as Object 272 and Chelyabinsk as Object 734) "with incompatible parts". R81 IS8 [2] Not until 1962 was Kirov's version standardized upon. R81 IS8 [3]
+The T-10 is known to have been exported to Egypt and Syria. R81 IS8 [4] It was used in combat during the Yom Kippur War, where it normally provided long-range fire support to the T-55/T-62 tanks, with little success. R81 IS8 [5] Heavy tanks were withdrawn from Soviet front-line service by 1967, and completely removed from service in 1993. R81 IS8  Many of the tank chassis were converted to missile vehicles. R81 IS8 
+It is estimated that some 6,000 Soviet heavy tanks were built after the end of WWII, including IS-2s, IS-3s, and T-10s. R81 IS8 <br>
+==Models==
+*T-10 - (1952)
+*T-10A - (1956) modification, adding a single-plane gun stabilizer. R81 IS8 
+*T-10B - (1957) adding a 2-plane gun stabilizer. R81 IS8 
+*T-10M - (1957) improved version with longer M-62-T2 L/43 gun with five-baffle muzzle brake, 2-plane gun stabilizer, machine guns replaced with 14. R81 IS8 5 mm KPVT (a better ballistic match for the new main gun), infrared night vision equipment, NBC protection. R81 IS8  Overall length is 10. R81 IS8 29 m. R81 IS8 
+*1963 - T-10Ms are equipped with OPVT deep-wading snorkel. R81 IS8 
+*1967 - T-10Ms are supplied with APDS and HEAT ammunition. R81 IS8 
+
+|HistoricalGallery=
+image:Iosif Stalin 8 1. R81 IS8 jpg{{!}}Iosif Stalin 8 1
+image:Iosif Stalin 8 2. R81 IS8 jpg{{!}}Iosif Stalin 8 2
+image:Iosif Stalin 8 3. R81 IS8 jpg{{!}}Iosif Stalin 8 3
+
+|HistAcc=
+*Like many soviet tanks in game the T-10 has increased gun depression. R81 IS8  In reality it had -4° instead of -5°
+|Ref_references=
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://en. R81 IS8 wikipedia. R81 IS8 org/wiki/T-10_tank '''IS-8 Heavy Tank (aka Object-730 and T-10)'''] at wikipedia. R81 IS8 org. R81 IS8 
+
+* [https://english. R81 IS8 battlefield. R81 IS8 ru/last-heavy-tanks. R81 IS8 html '''IS-8 or T-10: The Last Soviet Heavy Tank'''] at battlefield. R81 IS8 ru. R81 IS8 
+
+|Sidebar_Camostop=6. R81 IS8 3
+|Sidebar_Camomove=3. R81 IS8 4
+|Sidebar_Camofire=1. R81 IS8 4
+|Sidebar_Passhard=1. R81 IS8 055
+|Sidebar_Passmed=1. R81 IS8 247
+|Sidebar_Passsoft=1. R81 IS8 918
+|Sidebar_DispTurret=0. R81 IS8 077
+|Sidebar_DispRecoil=3. R81 IS8 356
+|Sidebar_DispAccel=0. R81 IS8 201
+|Sidebar_DispTurning=0. R81 IS8 201
+}}
+
+[[Category:USSR Tanks]]

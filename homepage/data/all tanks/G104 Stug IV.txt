@@ -1,0 +1,53 @@
+{{TankData|Tank=
+| The StuG IV is available as a reward for completing the first set of Personal Missions. G104 Stug IV  It comes with a 100% crew and can act as a crew trainer. G104 Stug IV 
+
+|Gallery=
+
+|InTheGame_pros= 
+*Good rate of fire, great accuracy for its tier and amazing aim time for any tank above tier 4. G104 Stug IV 
+*Excellent ammunition capacity (61 rounds compared to 44 rounds on [[Tank:StuG_40_AusfG|StuG III Ausf. G104 Stug IV  G]]. G104 Stug IV 
+*Large side skirts cover most of the side, help mitigate howitzer damage prevalent at this tier. G104 Stug IV 
+*Will never see any tank above tier VI. G104 Stug IV  
+*Reasonably low movement dispersion. G104 Stug IV 
+
+|InTheGame_cons= 
+*Below average view range, even for a T. G104 Stug IV D. G104 Stug IV 
+*Rather low mobility with low speed limits and a weak engine. G104 Stug IV 
+*Handicapped firepower, alpha damage, penetration and shell velocity are all bad for a T. G104 Stug IV D. G104 Stug IV 
+*Overall inferior to [[Tank:StuG_40_AusfG|StuG III Ausf. G104 Stug IV  G]] in most aspects. G104 Stug IV 
+*Being a reward tank, the StuG IV does not have increased credit income. G104 Stug IV 
+
+|InTheGame_performance= 
+The Stug IV is a "Jack of all trades" machine. G104 Stug IV  There is not one area it specifically excels at and is a good, all around fun tank to play. G104 Stug IV  The 7,5 cm Stu. G104 Stug IV K. G104 Stug IV  40 L/48 gun is rapid firing with excellent aim time characteristics. G104 Stug IV  Although it only has 110mm of penetration with regular ammunition and 158mm with premium ammunition this will still suffice in higher tier games with sufficient weak spot knowledge. G104 Stug IV  This gun is particulary good at tearing up lightly armored machines with its blistering rate of fire (3. G104 Stug IV 55 seconds with 100% crew). G104 Stug IV  Its accuracy of 0. G104 Stug IV 35/100m allows it to snipe at weak spots reliably at range, which helps the low penetration a bit. G104 Stug IV  A depression value of -6° means this tank can make use of small bumps in terrain which, coupled with its low profile, makes it a dangerous machine on uneven ground. G104 Stug IV  
+
+View range is quite poor at 310m but binoculars will boost this to an acceptable 380m, allowing the Stug IV to spot some of its own targets. G104 Stug IV  The tank comes with its own 100% crew, but it is always a good idea to use this tank to train up other tank destroyer crews. G104 Stug IV   The 360HP of this tank is quite underwhelming and direct hits from H. G104 Stug IV E. G104 Stug IV  shells will remove quite a large proportion of these hit points. G104 Stug IV  The traverse of 44 degrees/second makes this tank very hard to outflank in lower tier light/medium tanks and the Stug IV can (in the right hands and circumstances) do quite well for itself in close quarters. G104 Stug IV  It is recommended though to stay at longer ranges to make use of the decent camouflage values. G104 Stug IV 
+|InTheGame_research=
+Special vehicle, comes elite in its stock configuration. G104 Stug IV 
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Binocular Telescope, Camouflage Net
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+The '''Sturmgeschütz IV''' (StuG IV) (Sd. G104 Stug IV Kfz. G104 Stug IV  167), was a German assault gun variant of the Panzer IV used in the latter part of the Second World War. G104 Stug IV  It was identical in role and concept to the highly successful StuG III assault gun variant of the Panzer III. G104 Stug IV  Both StuG models were given an exclusively tank destroyer role in German formations and tactical planning in the last two years of the war, greatly augmenting the capability of the dwindling tank force available to the German army on the Eastern and Western fronts. G104 Stug IV 
+
+
+The Sturmgeschütz IV resulted from Krupp's effort to supply an assault gun. G104 Stug IV  As Krupp did not build Panzerkampfwagen IIIs, they used the Panzerkampfwagen IV chassis in combination with a slightly modified Sturmgeschütz III superstructure. G104 Stug IV 
+
+From December 1943 to May 1945, Krupp built 1,108 StuG IVs and converted an additional 31 from battle-damaged Panzer IV hulls. G104 Stug IV  While the number is smaller than the 10,000+ StuG III, the StuG IV supplemented and fought along with StuG III during 1944–45, when they were most needed. G104 Stug IV 
+
+|Gallery= File:StuGIVFront. G104 Stug IV png
+File:StuGIVBack. G104 Stug IV png
+File:StuGIVSide. G104 Stug IV png
+File:StuGIVFrontTop. G104 Stug IV png
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources= https://en. G104 Stug IV wikipedia. G104 Stug IV org/wiki/Sturmgesch%C3%BCtz_IV
+
+|Ref_links=
+
+}}

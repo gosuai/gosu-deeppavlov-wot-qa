@@ -1,0 +1,137 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* V-shaped hull with sharp angles and decent thickness all around
+* Side armor bounces a LOT of enemy fire; lower tiers will have a hard time penning you even when flanking
+* Unique design of suspension can absorb some shots; also reduces HE-splashing damage
+* Hard-hitting gun, with high-velocity APCR being default ammunition
+* Good top speed limit (although hard to reach) and respectable hull traverse when fully upgraded
+ 
+|InTheGame_cons= 
+
+* Pike-nose only works when perfectly head-on; angling it creates a huge weak spot
+* Turret is at the very front of the tank and the hull is rather short with unusual ground clearance and difficult to conceal. R151 Object 257 2  
+* Sidescraping from the front exposes the pike nose at a bad angle and reverse sidescraping cannot be done
+* The turret roof, hull roof/bottom and driver's hatch are only 45mm thick; vulnerable against 136mm or higher caliber guns
+* Mediocre gun handling, even by Soviet standards. R151 Object 257 2  Bad terrain resistance makes it hard to reach top speed limit
+
+
+
+|InTheGame_performance= 
+
+The tank is a major armor upgrade from the IS-3. R151 Object 257 2   You will bounce a '''lot''' of shells with it. R151 Object 257 2   Some folks prefer the top gun from the IS-3 (BL-9) over the upgrade gun (BL-13). R151 Object 257 2   The reason for this is the BL-13 uses APCR for it's standard load. R151 Object 257 2   And the APCR has problems with normalization against armor. R151 Object 257 2   There is also a price difference from standard AP, but that is minimal at about 900 credits more per round. R151 Object 257 2   Experiment with both guns to see which you prefer, as the upgrade gun must be unlocked to get to the improved turret and the IS-7. R151 Object 257 2    
+
+Try to bait enemies into firing into your side armor by tanking in a 45° angle. R151 Object 257 2  Due to the "strange" armor layout beneath the outer plates many shells get absorbed and deal zero damage -- the side armor is nearly impenetrable to HEAT rounds because of this. R151 Object 257 2   Over-angling while sidescraping is very forgiving and track shots are less likely to do damage because of the very high ground clearance. R151 Object 257 2 
+
+The Object 257 tends to lose its ammo rack and driver when penetrated in the pike nose, so safe stowage is a skill you might keep in mind (the IS-7 also needs it). R151 Object 257 2 
+
+|InTheGame_research=
+* The R-113 carries over from the IS-3 so mount it right away
+* The 122mm BL-13-1 A gives you an extra 23mm average penetration with standard ammo (which is APCR) and has better aim time at the cost of 0. R151 Object 257 2 2 added to dispersion, so it should be next on the research list
+* The Object 257 turret gives an extra 10m to the view range and an increase in armor, it is also required on the route to the IS-7 so should probably be next
+* The suspension should be unlocked next
+* Finally, research the 2x V-16 (1000) engine (note: If you get the Obj. R151 Object 257 2  263 first it will unlock the top engine on the 257 for free)
+
+|InTheGame_equipment=
+<gallery>
+File:Rammer. R151 Object 257 2 png|Large-Calibre Tank Gun Rammer
+File:AimingStabilizer. R151 Object 257 2 png|Vertical Stabilizer Mk 2
+File:ImprovedVentilation. R151 Object 257 2 png|Improved Ventilation Class 3
+</gallery>
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+'''Object 257: The First IS-7
+'''
+
+The IS-7 heavy tank is well known to armour enthusiasts. R151 Object 257 2   A combination of impressive armour, a powerful gun, and an engine that could propel the 70 ton tank at 60kph made it the pinnacle of its class. R151 Object 257 2   At the same time, no less than seven vehicles existed under the IS-7 index, and three of them were called "Object 260". R151 Object 257 2   The creation of this vehicle is shrouded in mystery, partially due to the conditions of secrecy created at the factory #100 design bureau. R151 Object 257 2   Thanks to recently discovered archive materials, we can now see how the IS-7 (back then, still Object 257) developed in its early stages. R151 Object 257 2 
+
+
+'''Neighbourly Competition
+'''
+
+New German armoured vehicles that arrived at the front lines in 1943, particularly the Ferdinand, caused serious changes in prospective Soviet heavy tank designs. R151 Object 257 2   In November of 1943, GABTU created tactical-technical requirements for a 55 ton heavy tank. R151 Object 257 2   Soviet designers did not simply increase the thickness of armour like their foreign colleagues. R151 Object 257 2   Work started on determining the optimal angles for the turret and hull that would allow a drastic increase in protection with a minimal increase in thickness. R151 Object 257 2 
+
+Work on this new tank coincided with the beginning of direct competition between the SKB-2 design bureau headed by N. R151 Object 257 2 L. R151 Object 257 2  Dukhov and experimental factory #100 headed by J. R151 Object 257 2 Ya. R151 Object 257 2  Kotin. R151 Object 257 2   This competition was similar to what happened in Leningrad in 1938-40 between the Kirov factory and factory #185. R151 Object 257 2 
+
+Now the fierce competitors were not only in the same city, but in the same organization. R151 Object 257 2   Factory #100 was defined within ChKZ in March of 1942 and began working on experimental development, inheriting the 200 index for its creations from the Kirov factory (Objects 233, 237, etc). R151 Object 257 2   ChKZ's SKB-2 began using 700 indices. R151 Object 257 2   Its first tank was the Object 701, a proposed replacement for the IS-2 (Object 240). R151 Object 257 2 
+
+Meanwhile, instead of working on a modernization for the IS-2, factory #100 began working on its own prospective tank, later indexed IS-6. R151 Object 257 2   This tank was developed in close cooperation with NII-48, which promoted the use of sloped armour. R151 Object 257 2   In order to keep information about the IS-6 from surfacing too soon, work was performed in strictest secrecy. R151 Object 257 2   A special room was allotted where only certain designers were allowed to enter (Shashmurin, Neidman, Turchaninov, Mitskevich, etc), as well as Kotin himself. R151 Object 257 2   Military representative at factory #100 Vovk was not allowed into the room, and he raised a ruckus on this subject in April of 1944. R151 Object 257 2 
+
+The IS-6 design -- proposed in early June 1944 -- was quite controversial. R151 Object 257 2   The attempt to make a tank in the IS-2's weight class failed. R151 Object 257 2   The IS-6 weighed over 50 tons. R151 Object 257 2   Meanwhile, the thickness of its armour was closer to that of the IS-2 than the Object 701. R151 Object 257 2   Kotin managed to arrange for the construction of the tank in two variants (Object 252 with a mechanical transmission and Object 253 with an electric transmission), but the results of the trials were unsatisfactory. R151 Object 257 2   The tanks had trouble with their suspensions and their top speeds were less than those of the heavier competitor. R151 Object 257 2   The electric transmission was also quite unreliable. R151 Object 257 2   The tank had no advantages over the SKB-2 design. R151 Object 257 2   Nevertheless, Kotin managed to send the tank to Moscow for a demonstration alongside the Object 701, but this did not affect the fate of the IS-6. R151 Object 257 2 
+
+Meanwhile, in late November, the IS-6 was radically redesigned. R151 Object 257 2   This is linked to research from NII-48. R151 Object 257 2   The tank received a new hull with a pike front and a new turret. R151 Object 257 2   Since the IS-6 had no future in late 1944, the modernization project stopped there and it was never built in metal. R151 Object 257 2   The time spent on the tank was not wasted: work on a new tank began in the winter of 1945 with it as the foundation. R151 Object 257 2 
+
+'''Armour at its Limit
+'''
+
+The first efforts toward creating a new generation tank to replace the Object 701 began in early February of 1945. R151 Object 257 2   On February 6th, order #66 was issued to the People's Commissariat of Tank Production. R151 Object 257 2   According to this order, SKB-2 was supposed to develop a new tank on the basis of the requirements initially issued for the Object 701. R151 Object 257 2   The design bureau had no time for new concepts. R151 Object 257 2   Work on the Object 701 was going at full throttle, the configuration of the hull and turret kept changing, and there was no light at the end of the tunnel. R151 Object 257 2   Work on finishing up the Kirovets-1 IS-2 modernization (blueprint index 703, or Object 703) also began to ramp up around that time. R151 Object 257 2   One month later the Object 703 was accepted into service under the index IS-3, further delaying the Object 701. R151 Object 257 2 
+
+The factory #100 design bureau was in a completely different position. R151 Object 257 2   As of 1945 work on the IS-6 ended and the factory was mostly testing out new assemblies. R151 Object 257 2   The factory also attempted to make itself independent of ChKZ, who always delayed shipments. R151 Object 257 2   The competition reached the point of absurdity where the factory, only a few hundred meters away, refused to turn over even mass produced components despite direct orders from the People's Commissar of Tank Production, V. R151 Object 257 2 A. R151 Object 257 2  Malyshev. R151 Object 257 2   This situation was not helped by the IS-6, which was so aggressively promoted by Kotin and still lost out to the Object 701. R151 Object 257 2 
+
+Most likely work on the new tank began as Order #66 was issued in February of 1945. R151 Object 257 2   There is no precise information about this since Kotin once again opted for secrecy. R151 Object 257 2   A new chapter in the drama titled "Representative Vovk and the Chamber of Secrets" began on March 28th, 1945, when the military representative sent a letter to GBTU complaining about the events. R151 Object 257 2 
+
+''"I began my role as senior representative of the GBTU TU at factory #100 in April of 1944. R151 Object 257 2   I already reported that my work at this factory is made difficult by factory management constantly concealing all experimental works at the factory from me. R151 Object 257 2   At first, this was displayed by the organization of a special room where entry was permitted only to those on a list created by comrade Kotin, in which I was not included (this was concealing the design of the IS-6 from me). R151 Object 257 2 '' 
+
+''Lately (since comrade Kotin was appointed factory director), this secret room concept was expanded. R151 Object 257 2   All new projects are developed in secret rooms where access is restricted to workers of that project. R151 Object 257 2   Each group in the design bureau selected a special subgroup from its staff to work on a new heavily armoured tank and an ISU-122 with two D-25S guns. R151 Object 257 2 ''
+
+''I attempted to discover the reason for these measures and talked to comrade Kotin on several occasions. R151 Object 257 2   From these discussions, I learned that the main reason was the fear of discovery of factory #100's designs by the Kirov factory, as as a representative of GBTU, I could pass information onto the Kirov factory. R151 Object 257 2 "''
+
+Vovk's attempts to bring order to experimental work and to stop the battle between two design bureaus were unsuccessful. R151 Object 257 2   As mentioned above, SKB-2 had no time for an experimental tank, and factory #100 got its chance. R151 Object 257 2   On April 7th, 1945, technical specifications for a 122mm gun with a muzzle velocity of 1000 m/s for a heavy tank were signed. R151 Object 257 2   The gun would have a coaxial DShK machinegun and would fire four rounds per minute with two-piece ammunition. R151 Object 257 2 
+
+These characteristics revived work on the 122 mm BL-13 gun, which had started back in December of 1943. R151 Object 257 2   The gun was designed at OKB-172 based on the D-25T gun and the barrel from the OBM-50 (BL-9) tank destroyer gun. R151 Object 257 2   The technical project of the BL-13 was jointly developed by OKB-172 and factory #100 in February of 1944, and the first results appeared in July. R151 Object 257 2   For several reasons, the IS-6 used the D-30 gun instead, which wasn't much better than the D-25. R151 Object 257 2   Now, the BL-13 had a second chance at life. R151 Object 257 2 
+
+The new tank with factory code 257 (Object 257) and index IS-7 started taking shape by late May of 1945. R151 Object 257 2   P. R151 Object 257 2 P. R151 Object 257 2  Isakov's design group took the modernized IS-6 as the foundation for their work, but the design was radically changed. R151 Object 257 2   Some influence from the IS-6 can be seen in the hull and turret, commander's cupola, driver's hatch, and the turret traverse mechanism. R151 Object 257 2   Despite the fiasco during trials (a fire broke out during the first start), the electric transmission was used from the Object 253. R151 Object 257 2 
+
+One of the main objectives for the Object 257 was the strengthening of armour. R151 Object 257 2   Since the tactical-technical characteristics remained at the level of the Object 701 (55 tons), the engineers had to seek out nonstandard solutions. R151 Object 257 2   The driving forces behind the project were engineers G. R151 Object 257 2 N. R151 Object 257 2  Moskvin and V. R151 Object 257 2 I. R151 Object 257 2  Tarotko -- the people who came up with the pike nose and other solutions that influenced Soviet and worldwide tank building practice. R151 Object 257 2 
+
+The thickness of the upper front plate grew to 150mm, and the shape changed somewhat. R151 Object 257 2   The vulnerable "step" around the driver's hatch was removed by slightly increasing the slope of the upper front plate, but increasing its thickness improved protection. R151 Object 257 2   The hull was shortened, which compensated for the increased weight. R151 Object 257 2   The mass of the hull grew from the IS-6's 21 tons to 23 tons, while the armour became significantly more powerful. R151 Object 257 2   According to calculations, the BL-13 gun would not be able to penetrate it at point blank range. R151 Object 257 2 
+
+The lower part of the hull was changed even more radically. R151 Object 257 2   The use of suspensions with internal elements forces engineers to make at least some part of the side of the tank vertical. R151 Object 257 2   This weakened the structure of the hull. R151 Object 257 2   On the Object 257 the suspension was removed from the hull and the sides were located at an angle. R151 Object 257 2   The sides of the tank were impenetrable for the German 105mm Flak 39 gun even at point blank range and increased resistance to anti-tank mines. R151 Object 257 2   However, laying out the fighting compartment and engine compartment became more difficult. R151 Object 257 2 
+
+Another problem was that the currently used torsion bar suspension did not fit into a hull shaped like this. R151 Object 257 2   The solution was the use of a bogey suspension with buffer springs. R151 Object 257 2   This solution was similar to that used on the American M4A2 medium tank, but the Soviet design differed significantly from the original. R151 Object 257 2 
+
+The Object 257 used the 122mm BL-13-1 gun. R151 Object 257 2   The difference from the original design included a mechanical rammer. R151 Object 257 2   According to calculations this would increase the rate of fire to 8-10 rounds per minute. R151 Object 257 2   In June of 1945 the BL-13-1 autoloader was tested and worked reliably, but at a speed of 7-8 RPM. R151 Object 257 2  
+
+The turret that the gun was installed in had its roots in the IS-6, but it changed drastically. R151 Object 257 2   The armour protection was increased to match the hull. R151 Object 257 2   The shape was also changed. R151 Object 257 2   As in the IS-6, ammunition was located in the bustle, but now the 30 round rack was made more comfortable for the loader. R151 Object 257 2 
+
+According to calculations the 55 ton tank would reach a speed of 50 kph. R151 Object 257 2   It would be propelled by the V-16 engine developed at factory #77. R151 Object 257 2   This was an attempt at a modernization of the V-2, and work on it was going on since 1944. R151 Object 257 2   As with the Object 253, the engine was in one block with an electric transmission. R151 Object 257 2   The power of the engine was not listed in the design, but it was expected to show similar characteristics to the V-12 used in the IS-6 and Object 701. R151 Object 257 2 
+
+'''Maus Corrections
+'''
+
+Final materials on the Object 257 were prepared on June 6th, 1945. R151 Object 257 2   The overall design was approved by Malyshev, but requirements for heavy tanks started changing around this time. R151 Object 257 2 
+
+Initially, the weakest link was the engine. R151 Object 257 2   Trials of the V-16F in March-May of 1945 showed that the engine was unreliable. R151 Object 257 2   It was not even supercharged to the level of the V-12, and supercharging it to 600 hp already showed many defects. R151 Object 257 2   There were also defects at 520 hp, and it was already unacceptable for a heavy tank at this point. R151 Object 257 2   At that power it was inferior to the V-2IS engine. R151 Object 257 2   Work on the V-16 continued and it was finally struck out of the IS-7 project in early 1946. R151 Object 257 2   By then, the configuration of the tank changed. R151 Object 257 2 
+
+Information about the Maus super-heavy tank found near Zossen that arrived in GABTU on June 4th, 1945 caused even more changes. R151 Object 257 2   Another tank was found at the Kummersdorf proving grounds. R151 Object 257 2   Also, a functional Jagdtiger was captured in Austria. R151 Object 257 2   It was clear that protection from the 122mm BL-13 gun from the front was inadequate. R151 Object 257 2   Now the armour of prospective heavy tanks would have to protect from the 12. R151 Object 257 2 8cm Pak 44 and Kw. R151 Object 257 2 K. R151 Object 257 2  44, used on the Jagdtiger and Maus respectively. R151 Object 257 2   This meant that the armour had to get thicker. R151 Object 257 2 
+
+The armament was also revised. R151 Object 257 2   The armour of the discovered German tanks was the limit for the BL-13. R151 Object 257 2   A substitute was needed, which was found quickly in the form of the S-26 130mm gun, designed at TsAKB under the supervision of V. R151 Object 257 2 G. R151 Object 257 2  Grabin. R151 Object 257 2   But there was a new problem: the existing turret of the Object 257 could not fit the new gun. R151 Object 257 2 
+
+On June 11th, 1945 the requirements for a new heavy tank were designed. R151 Object 257 2   The mass was set at 60 tons and the crew increased to five (a second loader was added). R151 Object 257 2   The armour must protect from the 128mm German gun. R151 Object 257 2   The armament was either a 122mm or 130mm gun with a muzzle velocity of 1000 m/s. R151 Object 257 2   The torsion bar suspension was again made a priority, but under the condition that it would be outside of the hull. R151 Object 257 2   The Object 257 did not meet these requirements and the factory #100 design bureau had to build a new tank on its base. R151 Object 257 2   The story of the IS-7 was just beginning. R151 Object 257 2 
+
+|HistoricalGallery= 
+File:Object_257_cross_section_close_up. R151 Object 257 2 jpg{{!}}Close-up of an Object 257 cross-section
+File:Object_257_cross_section. R151 Object 257 2 jpg{{!}}Full blueprint of the above cross-section
+File:Object_257_cross_section_2. R151 Object 257 2 jpg{{!}}Another cross-section of the Object 257
+File:Russian_Heavy_tank_hull_comparisons. R151 Object 257 2 jpg{{!}}Comparisons of the hulls of various Soviet heavy tanks
+File:122mm_BL_13. R151 Object 257 2 jpg{{!}}Blueprint of 122mm BL-13, which served as the base of the 122mm BL-13-1
+File:V-16F_engine. R151 Object 257 2 jpg{{!}}V-16F engine
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://tankarchives. R151 Object 257 2 blogspot. R151 Object 257 2 com/2016/06/object-257-first-is-7. R151 Object 257 2 html
+* https://tankarchives. R151 Object 257 2 blogspot. R151 Object 257 2 com/2016/06/is-7-take-one. R151 Object 257 2 html
+
+}}

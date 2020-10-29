@@ -1,0 +1,89 @@
+{{TankData|Tank=Object263
+| The Object 263 was once among the ranks of Tier X Russian Tank Destroyers (before replaced with [[Tank:R149_Object_268_4|Object 268 Version 4]] in 9. R93 Object263 22 patch). R93 Object263  Also known as "'''The Sandal of Stalin"''' or '''"Yolo Wagon"''' as it was well-known for its rapid-firing gun with high DPM, and unexpected strong frontal armor. R93 Object263 
+
+The Object 263 is now downtiered into Tier IX position with toned down stats. R93 Object263  It has become a cumbersome "Assault Gun" with very poor accuracy, pitiful DPM, and weaker side armor. R93 Object263  It retains the good top speed but poor traverse speed and very strong frontal armor. R93 Object263 
+
+Always avoid getting flanked when playing this tank, as your sides and rear won't stand any shots. R93 Object263  It's also good to take into account that side scraping is not advisable, due to the extremely weak ammo rack that the tank has, making it dangerous if you're over angling. R93 Object263 
+Face hugging other tanks is not recommended as your gun mantlet is easily penetrated by very high penetrating guns, making it an easy target. R93 Object263 
+
+Hugging tall tanks, like the Maus, is also a dangerous idea, as they can easily overmatch your weak hull roof and out trade you easily. R93 Object263  
+If the enemy is using premium ammunition, then it's better to take cover as the enemy can penetrate your front most of the time. R93 Object263 
+The mobility on the Object 263 is rather flexible, with great acceleration and top speed, allowing it to get into position very quickly and support your team where needed. R93 Object263  Another serious defect of this tank is the non-enclosed superstructure, exposing the entire crew and critical interior components. R93 Object263  Direct hits from artillery will pretty much devastate you in one shot, or leave you extremely damaged. R93 Object263  This often leaves you with injured crew members and a damaged ammo rack. R93 Object263 
+
+|Gallery=
+
+|InTheGame_pros= 
+* Very good aim time and gun handling for a large caliber TD gun
+* Excellent frontal armor, resilient even against premium rounds
+* Decent concealment for a rather large tank
+* Excellent forward/reverse speed and acceleration
+* Excellent at ramming other tanks thanks to its speed, armor and weight
+
+|InTheGame_cons=
+* Inferior alpha damage and penetration compared to [[Object 704]]
+* Thin side-rear armor and no roof armor, very vulnerable to artillery
+* Poor gun depression and limited horizontal guidance
+* Poor accuracy, even at mid range
+* Poor hull traverse speed, vulnerable to flanking
+
+|InTheGame_performance=
+Formerly a Tier 10 tank, the Object 263 was relegated to Tier 9 with the introduction of the [[Object 268 Version 4]]. R93 Object263  As far as high tier tank destroyers go, it is rather unusual in that it has excellent gun handling, a very high speed with good power to weight ratio to boot, and a somewhat underpowered gun with decent yet unspectacular alpha damage and penetration (comparable to the German [[Jagdtiger]] and the Chinese [[WZ-111-1G FT]]), a fairly limited gun arc with poor gun depression and, most annoying of all, a disappointingly low accuracy. R93 Object263 
+
+That said, the Object 263 performs quite well in the role of an "assault gun" - rather than sit in bushes and be an ambusher, it can keep up with medium and heavy tanks thanks to its good speed, and proper positioning makes it a very tough target on the frontlines, where its excellent frontal armor and good hitpoint pool will provide decent survivability. R93 Object263  Unfortunately, everything good about this tank is concentrated on the frontal arc - it has no roof armor (which makes it incredibly vulnerable to artillery), and its sides and rear are poorly armored and vulnerable to any tank that can be met in the Tier 9 matchmaker spread (including Tier 7 tanks). R93 Object263  Also, while its upper plate and frontal superstructure are tough, the Object 263 has a rather vulnerable lower frontal plate. R93 Object263 
+
+Overall, the Object 263 rewards well-thought aggression. R93 Object263  Overcommitting or being flanked is usually a death sentence, so the player will need to mind their positioning and the presence of allied cover at all times. R93 Object263  The tank also lacks accuracy to hit weakspots, and penetration to go through the frontal armor of tougher targets (unless one opts to keep the stock gun and use a lot of premium ammunition), so challenging extremely durable tanks such as the [[Type 5 Heavy]] or its own successor the [[Object 268 Version 4]] in frontal engagements is ill advised. R93 Object263  
+
+Against same or lower-tiered tanks however, the Object 263 can be a nightmare to encounter, especially in a corridor where its flanks are covered. R93 Object263 
+
+|InTheGame_research=
+
+* The R-113 radio carries over from the SU-101 and can be installed immediately
+* The 10RT-26 radio can be researched on other tanks such as the Object 416 and T-54 ltwt. R93 Object263 
+* Research the 130mm S-70A gun, it is lighter than the stock gun
+* Research the suspensions
+* Research the engine
+* If not already unlocked from other lines, research the top radio
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Binocular Telescope
+
+|History=
+
+At the end of the 40-ies of the last century in the Russian Union was created by the heavy tank IS-7. R93 Object263  He had an awesome time for your own weapons and a decent hotel. R93 Object263  But a series of events associated with the emergence of new armor-piercing ammunition and features of the road network in the country, led to the closure of the project. R93 Object263  IS-7 and has not been put into service. R93 Object263  At the same time, chassis languid IS-7 has earned a number of positive reviews, and some representatives of the military control of the country in no hurry to turn away from it. R93 Object263  Well, the 130-mm gun was pretty tasty piece. R93 Object263 
+
+In this regard, in 1950 the designers of the Leningrad Kirov Plant got the job done on the basis of the JS-7 languid self-propelled artillery. R93 Object263  The project received the designation of "Object 263", and the lead designer of conceptual design was named VS Starovoytov. R93 Object263  At first it was created three versions of the newest self-propelled guns, differing from each other by certain aspects of the design. R93 Object263  While working on "object 263" these choices are "shared" by different aspects of the design and, ultimately, in the program there is only one version, and which was intended for a great future. R93 Object263 
+
+Since one of the main requirements for the latest ACS was the largest unification with the tank IS-7, its chassis was taken virtually without changes. R93 Object263  Motor and transmission group remained the same: 12-cylinder V-type diesel M-50T capacity of 1,050 horsepower and a six-speed gearbox. R93 Object263  The same can be said about the suspension, wheels and tracks. R93 Object263  With all of this general assembly of the housing has been substantially adjusted. R93 Object263  Reinforced cutting self-propelled guns had to be placed in the rear of the chassis because the engine and gearbox have been moved to the front. R93 Object263  Fuel tanks, in turn, is now placed in the middle of the armored hull. R93 Object263  Changing the alignment of the machine associated with the relinking was offset by the increase in thickness of the armor. R93 Object263  First, it should be noted forehead "Object 263". R93 Object263  In contrast to the forehead of the tank IS-7, He was made not by the "pike nose", and represents a single combination of straight panels. R93 Object263  The main plus of the location of armor panels at an angle to each other is to increase the level of protection in relation to "direct". R93 Object263  For this reason, the "Object 263" offered to equip the front plate of a width of 300 mm. R93 Object263  The sides of the housing in the project were still the smallest thickness of 70 to 90 mm. R93 Object263  As for the armored cabin, then she had a formidable defense: the frontal plate of 250 mm and 70 mm on the side. R93 Object263  With such armor "Object 263" could withstand fire from all available guns medium tanks and a number of more severe guns. R93 Object263 
+
+The main armament of self-propelled artillery "Object 263" was to be gun C-70A. R93 Object263  Practically, this was the future development of the C-70 gun set up for the JS-7. R93 Object263  This project, Made in the Central Artillery Design Bureau under the VG Grabin risen to more pre-revolutionary naval gun B-7-caliber 130 mm. R93 Object263  It should be noted that in several of the deepest modernization construction tool has been substantially modified and C-70A had almost nothing in common with the original B-7 except caliber. R93 Object263  Cannon C-70A had a decent size, caused first a barrel length of 57. R93 Object263 2 caliber. R93 Object263  In addition, the larger were the breech and recoil device. R93 Object263  Because of this assembly is cutting out quite unusual. R93 Object263  The breech of the gun almost reached the back wall cutting. R93 Object263  For this reason, the last had to make a flap. R93 Object263  It was assumed that before the fight crew will drop this item and are able to work without fear of damage to logging. R93 Object263  In addition, lean back a little back sheet increased the floor space of the crew compartment, which could significantly facilitate the work of the crew. R93 Object263 
+
+130-mm gun had a very great impact. R93 Object263  Because a slotted muzzle brake system and recoil mechanism had to add a reference Lift Up a device resembling a dozer blade. R93 Object263  Existing photo layout "Object 263" shows that in the last bottom position he held up to discover the lowered aft leaf cuttings. R93 Object263  Along the sides of the cabin, on the inner side of them were located holders for ammunition. R93 Object263  Shots were fixed separately loaded by seven on each side. R93 Object263  For convenience, the shells were placed in a holder sleeve — in the other. R93 Object263  Loading of the gun was the duty of 2-crew: loader and his assistant. R93 Object263 
+
+All in all, the crew SAU "Object 263" was to go 5 people: the commander, a driver, gunner and two loaders. R93 Object263  For direct fire crew had sight of TP-47, and to fire from concealed positions offered to equip the self-propelled gun TS-46. R93 Object263  The estimated rate of "Object 263" was not great — in a minute the crew could manage to do less than one-half shots. R93 Object263  The main premise of this was specific cutting assembly that prevented access those features that were in the JS-7 (about 6 shots). R93 Object263  The low rate of fire, according to the views of military and developers should be compensated by the highest firing features a long-barrel gun. R93 Object263  So, from a distance of two thousand meters-70A instrument with the use of armor-piercing projectile BR-482 was to punch up to 160-170 mm homogeneous armor (at an angle of meetings at 90 °). R93 Object263 
+
+First, in 1951 the latest conceptual design of self-propelled gun was ready, and he was presented to the commission of the Ministry of Defence. R93 Object263  The military brass acquainted with the works of designers LCZ, then started assembling the full-scale mock ACS. R93 Object263  On the model was planned to test some ideas and identify prepyadstviya assembly, ergonomics, etc. R93 Object263  Just weeks after the end of the assembly layout "Object 263" order came from Moscow: finish work on the project. R93 Object263  Of course, a 130-mm gun was a very good argument on the battlefield. R93 Object263  But the calculated mass of the newest self-propelled artillery was at 60 tons. R93 Object263  It was 8000 pounds less than that not so long ago closed the project IS-7, but still a lot of practical use in the existing criteria. R93 Object263  The design of self-propelled, on a theoretical level, could be eased. R93 Object263  But only at the cost of reducing the level of protection that it would be far not the most sensible solution. R93 Object263  On the totality of the advantages and shortcomings main armored management decided that the Russian army, this technique is not necessary. R93 Object263  The only built mock "Object 263" was dismantled, while the construction of the "in metal", it never came. R93 Object263 
+
+
+
+|HistoricalGallery=
+image:Objekt_263_001. R93 Object263 jpg{{!}}Object 263 Back View
+image:Objekt_263_002. R93 Object263 jpg{{!}}Object 263 Front View
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://survincity. R93 Object263 com/2010/11/victim-of-its-own-weight-sau-object-263/
+* Nickname source: https://youtu. R93 Object263 be/bArJTtAk6bY?t=7m33s
+
+|Sidebar_Camostop=14. R93 Object263 3
+|Sidebar_Camomove=8. R93 Object263 9
+|Sidebar_Camofire=4. R93 Object263 0
+|Sidebar_Passhard=1. R93 Object263 151
+|Sidebar_Passmed=1. R93 Object263 342
+|Sidebar_Passsoft=2. R93 Object263 205
+|Sidebar_DispTurret=0. R93 Object263 077
+|Sidebar_DispRecoil=3. R93 Object263 356
+|Sidebar_DispAccel=0. R93 Object263 163
+|Sidebar_DispTurning=0. R93 Object263 163
+}}

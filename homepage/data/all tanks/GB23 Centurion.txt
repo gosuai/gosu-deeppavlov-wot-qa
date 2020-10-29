@@ -1,0 +1,86 @@
+{{TankData|Tank=GB23_Centurion}
+|A notable step up from the Comet, featuring a great gun selection and still very agile, just like its predecessors, the Centurion Mk. GB23 Centurion  I is a good tank for its tier. GB23 Centurion  Although notably bulky and with spectacularly poor hull armor, it is quick on its feet and its 20-pounder gun features equally spectacular penetration. GB23 Centurion  It appears to have something of a weakness in that its ammunition rack and driver are both vulnerable to frontal hits. GB23 Centurion 
+
+|Gallery=
+
+|Sidebar_Camostop=11. GB23 Centurion 40
+|Sidebar_Camomove=8. GB23 Centurion 60
+|Sidebar_Camofire=2. GB23 Centurion 90
+|Sidebar_Passhard=0. GB23 Centurion 959
+|Sidebar_Passmed=1. GB23 Centurion 055
+|Sidebar_Passsoft=1. GB23 Centurion 822
+|Sidebar_DispTurret=0. GB23 Centurion 153
+|Sidebar_DispRecoil=3. GB23 Centurion 356
+|Sidebar_DispAccel=0. GB23 Centurion 192
+|Sidebar_DispTurning=0. GB23 Centurion 192
+
+|InTheGame_pros=
+* Excellent penetration on the top 20-pdr gun
+* Great gun depression
+* Strong mantlet on the upgraded turret
+* Good view range
+* Good hp/t ratio and acceleration, good at climbing hills
+
+|InTheGame_cons=
+* Poor hull armor
+* Large size for a medium with low camo values
+* Very susceptible to module and crew damage (especially the ammo rack, which can be damaged even by frontal hits)
+* Terrible stock grind due to horrible guns. GB23 Centurion 
+
+|InTheGame_performance=
+Centurion Mk. GB23 Centurion  I continues the trend on British mediums line where tanks transform from fast flankers like Cromwell more to hull-down snipers starting with Comet. GB23 Centurion  Centurion  Mk. GB23 Centurion  I  is woefully under-armored on the hull, yet the cannons it has access to somehow make up for it &ndash; it has arguably the best gun complement of all Tier 8 medium tanks, being able to deal almost the same damage as a Panther II, while having more penetration, accuracy and better aim time. GB23 Centurion  Even the 17-pounder (which you may research on the Black Prince or Firefly) could be considered an "adequate" gun because of its higher DPM, provided that you can stand the low penetration. GB23 Centurion  Just don't be foolish enough to go head-to-head with an enemy tank with high HP or you will lose the fight. GB23 Centurion 
+
+The Centurion I is very much a long-range fighter, and thrives around hills. GB23 Centurion  The reasons for this are self-evident; it is large and bulky for a medium, has atrocious hull armor, poor camouflage, and is prone to module and crew damage. GB23 Centurion  The size of Centurion MK. GB23 Centurion 1 even rivals some heavy tanks (its bigger than the M103) in size, which means you, like the E50, will be very vulnerable to artillery fire. GB23 Centurion  However, thanks to its amazing guns, cannon depression and well-armored upgraded turret, it can make beautiful use of cover. GB23 Centurion  Stock, you are going to have huge problems with performing if you do not already have the 17-pounder gun from the Black Prince or Firefly. GB23 Centurion  But, when fully upgraded and properly handled, this tank can support like none other at its tier. GB23 Centurion 
+
+|InTheGame_research=
+* If possible, research the 17-pounder on the Black Prince or Firefly before acquiring this tank
+* Upgrade the suspension
+* Research the second turret
+* Get the OQF 20-pounder A
+* Upgrade the engine
+* Go from there
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents, Wet Ammo Rack
+
+|External_Reviews=
+*{{VideoYT|RZsUTVDaYXw}}
+
+|History=
+In 1943, the Directorate of Tank Design was asked to produce a new design for a heavy cruiser tank under the General Staff designation A41. GB23 Centurion  After a series of fairly marginal designs in the A series in the past, and bearing in mind the threat posed by the German 88 mm gun, the War Office demanded a major revision of the design requirements, specifically: increased durability and reliability, and the ability to withstand a direct hit from the German 88 mm gun with a maximum weight of 40 tons. GB23 Centurion  The hull was to offer more protection against mines and top speed was not vital while agility was to be equal to that of Comet. GB23 Centurion  A high reverse speed was also required. GB23 Centurion 
+
+==Development history==
+
+The department responded by extending the long-travel five-wheel suspension used on the Comet with the addition of a sixth wheel and an extended spacing between the second and third wheels. GB23 Centurion  The Christie suspension, with vertical spring coils between side armour plates, was replaced by a Horstmann suspension with external horizontal springs. GB23 Centurion  The hull was redesigned with welded, sloped armour and featured a partially cast turret with the highly regarded 17 pounder as the main gun and a 20 mm Polsten cannon in an independent mounting to its left. GB23 Centurion  With a Rover-built Rolls-Royce Meteor as used on the Comet and Cromwell, the new design would have excellent performance. GB23 Centurion 
+
+Shortly after the programme commenced, it became clear that the requirement to withstand 88 mm weapons would be impossible to meet within the permitted weight. GB23 Centurion  The original specification had been set so that the A41 could be carried on the existing Mark I and Mark II transport trailers, which were limited to a 40-ton load. GB23 Centurion  The War Ministry decided it would be wiser to build new trailers, rather than hamper what appeared to be a superb design. GB23 Centurion  Even before prototypes of the original 40-ton design were completed, the design of a heavier version was well under way. GB23 Centurion  The new version carried armour equal to the heaviest infantry tanks, and cross-country performance was superior to even the early cruiser tanks. GB23 Centurion  The A41 was the first British tank that could "do it all", leading to the new designation "universal tank". GB23 Centurion  The design mockup built by AEC Ltd was viewed in May 1944. GB23 Centurion  Subsequently twenty pilot models were ordered with various armament combinations: ten with 17 pdr and 20mm Polsten gun of which half had a Besa machine gun in the turret rear and half an escape door, five with 17pdr and forward Besa and escape door, and five with QF 77mm gun and driver-operated hull machine gun. GB23 Centurion  Prototypes of the original 40-ton design, the Centurion Mark I, had 76 mm of armour in the front glacis, which was thinner than the then current infantry tank designs such as the Churchill which had 101 mm, but the glacis plate was highly sloped and so the effective thickness of the armour was very high—a design feature shared by other effective designs such as the German Panther tank and Soviet T-34. GB23 Centurion  The turret was extremely well armoured at 152 mm. GB23 Centurion  The tank was also highly mobile, and easily outperformed the Comet in most tests. GB23 Centurion  The uparmoured Centurion Mark II soon arrived; it had a new 118 mm-thick glacis and the side and rear armourhad been increased from 38 mm to 51 mm. GB23 Centurion  Only a handful of Mk I Centurions had been produced when the Mk II replaced it on the production lines. GB23 Centurion  Full production began in November 1945 with an order for 800 on production lines at Leyland Motors, Lancashire the Royal Ordnance Factories at Leeds and Woolwich, and Vickers at Elswick. GB23 Centurion  The tank entered service in December 1946 with the 5th Royal Tank Regiment. GB23 Centurion 
+
+Soon after the Centurion's introduction, Royal Ordnance finished work on the Ordnance QF 20 pounder (84 mm) tank gun. GB23 Centurion  By this point the usefulness of the 20 mm Polsten had been called into question, it being unnecessarily large for use against troops, so it was replaced with a Besa machine gun in a completely cast turret. GB23 Centurion  The new Centurion Mark III also featured a fully automatic stabilisation system for the gun, allowing it to fire accurately while on the move, dramatically improving battlefield performance. GB23 Centurion  Production of the Mk 3 began in 1948. GB23 Centurion  The Mk 3 was so much more powerful than the Mk 1 and Mk 2 that the earlier designs were removed from service as soon as new Mk 3s arrived, and the older tanks were then either converted into the Centurion Armoured Recovery Vehicle (ARV) Mark 1 for use by the Royal Electrical and Mechanical Engineers or upgraded to Mk 3 standards. GB23 Centurion  Improvements introduced with the Mk 3 included a more powerful version of the engine and a new gunsight and gun stabiliser. GB23 Centurion  The 20 pounder gun was used only for a short time, until the Royal Ordnance Factories introduced the now legendary 105 mm L7 gun. GB23 Centurion  All later variants of the Centurion, from Mark 5/2 on, used the L7. GB23 Centurion  Design work for the Mk 7 was completed in 1953 with production beginning soon afterwards. GB23 Centurion 
+
+The Centurion was used as the basis for a range of specialist equipment, including combat engineering variants with a 165 mm demolition gun Armoured Vehicle Royal Engineers (AVRE). GB23 Centurion  It is one of the longest-serving designs of all time, serving as a battle tank for the British and Australian armies from the Korean War (1950–1953) to the Vietnam War (1961–1972), and as an AVRE during the Gulf War in January–February 1991. GB23 Centurion 
+{{VideoYT|LLCJqdZL2b0}}{{VideoYT|638QflWLdWE}}
+
+|HistAcc=
+The Centurion Mk. GB23 Centurion  I entered service in 1946, not 1947 as the in-game description says. GB23 Centurion 
+* British Centurions were powered by a 600-650 hp engine. GB23 Centurion  More powerful engine configurations were only done by foreign users of the Centurion like South Africa and Israel, but these were diesel and not gasoline. GB23 Centurion  Thus the 750 hp engine configuration is fake. GB23 Centurion 
+* The OQF 77 mm gun was only fitted to the [[Comet]]. GB23 Centurion  Its configuration on the Centurion is fake. GB23 Centurion 
+* Due to the lack of multi-gun controls in World of Tanks, the independently elevating 20 mm Polsten autocannon on the stock (Centurion Mk. GB23 Centurion  I) turret is merely cosmetic. GB23 Centurion 
+* The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Centurion Mk. GB23 Centurion  I entered service in December 1946. GB23 Centurion 
+* Overall dark green paint scheme is missing. GB23 Centurion 
+* United Nations white star recognition mark is also missing. GB23 Centurion 
+
+|HistoricalGallery=image:Cent1HG1. GB23 Centurion jpg
+image:Cent1HG2. GB23 Centurion jpg
+image:Cent1HG3. GB23 Centurion jpg
+
+
+|Ref_references=
+
+
+|Ref_sources=*https://en. GB23 Centurion wikipedia. GB23 Centurion org/wiki/Centurion_tank
+
+
+|Ref_links=
+
+}}
+
+[[Category:British Tanks]]

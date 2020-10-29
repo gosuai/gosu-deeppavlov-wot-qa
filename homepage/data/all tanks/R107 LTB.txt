@@ -1,0 +1,81 @@
+{{TankData|Tank=R107_LTB
+|More or less the T-50-2 with physics applied. R107 LTB 
+
+|Gallery=
+
+File:ЛТТБ scr 1. R107 LTB jpg
+File:ЛТТБ scr 2. R107 LTB jpg
+File:ЛТТБ scr 3. R107 LTB jpg
+File:ЛТТБ scr 4. R107 LTB jpg
+
+
+|InTheGame_pros=
+* Well armored and highest HP pool for its tier and class. R107 LTB 
+* Downright amazing power to weight ratio with top engine, accelerates in a snap and can go 30-35 km/h up rather steep hills. R107 LTB 
+* Good top speed with top engine (Though with the hp/t, expect speeds more in the range of 73-75). R107 LTB 
+* Turns well at high speeds and turns very quickly at low speeds; stops in a snap. R107 LTB 
+* Very good penetration and alpha with top gun; can exploit most higher tier tanks weak spots with ease. R107 LTB 
+* Updated guns have decent accuracy and very good aiming time
+
+
+|InTheGame_cons=
+* Bad gun elevation arc (-5°/+15°). R107 LTB 
+* Somewhat large silhouette, especially from side
+
+
+|InTheGame_performance=
+In some respects this tank is nearly as odd as the T-28 in terms of its role, except unlike the T-28 it has more going for it. R107 LTB  It actually has both good hull armor ''and'' turret armor unlike virtually all of the other light tanks in its tier, those who were frustrated by the MT-25's firepower will begin to really like the LTTB's top gun, as it fares unbelievably better against more heavily armored foes. R107 LTB  The top gun also has good accuracy and the exact same aim time as the Ru-251. R107 LTB 
+
+However the poor elevation and depression angles mean that you will very often struggle to hit the enemies in front of you, or miss them because you drive onto a bump at the time you shoot. R107 LTB  Try to avoid ridge lines and hilly terrain because you will be completely outplayed there. R107 LTB 
+
+The good speed and fantastic horsepower per ton on the top engine make actually harassing a armored opponent all the more tempting, but remember, you still are outmatched in armor even with the LTTBs surprisingly good armor ratings. R107 LTB  The armor of the LTTB simply allows you to harass for somewhat longer periods of time (to a point it almost seems like your just directly engaging) before you have to escape with the LTTB's good agility and amazing acceleration. R107 LTB 
+
+The good top radio means that this seemingly perfect all-rounder light tank can even scout, and it does have a decent enough size to do so pretty well. R107 LTB  However the LTTB appears at first glance to be played more as a precision ambusher, coming out of nowhere to unload multiple shots into a tanks exposed weak spots and then darting away before anyone can react. R107 LTB  The LTTB, when looking at it on paper, also appears to be able to hunt down and eliminate other light tanks with relative success. R107 LTB 
+
+If you do wish to use this tank in such a role, getting light spall liner can help the LTTB much more easily survive other tanks that try to kill it via ramming. R107 LTB  Enhanced suspension will also make getting tracked due to collisions more difficult. R107 LTB 
+
+|InTheGame_research=
+*The Radio R-113 from the MT-25 and LTB
+*First research the tracks; you can replace it with engine but mounting engine first will limit remaining weight for equipment significantly
+*Then research the engine
+*Finally the gun
+
+|InTheGame_equipment=
+Coated Optics, Tank gun rammer, Vents, Spall Liner, Enhanced Suspension, Binocular Telescope, Camouflage Net
+
+|External_Reviews=
+{{VideoYT|kfsarcttZ6E}}
+
+|History=
+The LTTB (legkij tank tyazhelnogo bronirovanya – “light tank with heavy armor”)  was proposed by the Kirov Leningrad Plant No. R107 LTB  174 as a replacement of the T-80 light tank in February 1944. R107 LTB  The tank was proposed to have a hull in a shape that was as armored as the T-44 (90mm frontal armor, 62 degrees), it had a bigger turret ring than the T-34/85 though and its suspension resembled the T-100 heavy tank. R107 LTB  It should be armed by an 85mm S-53 gun and powered by a 400hp V8 engine. R107 LTB  No prototypes of this tank were built. R107 LTB   The only thing that actually existed was a drawing of the hull. R107 LTB  The turret was not designed. R107 LTB  Wargaming is using a regular T-34/85 turret with slightly enlarged turret ring (1600 to 1660mm) for the LTTB. R107 LTB 
+
+|HistoricalGallery=
+image:LTTB. R107 LTB jpeg{{!}}Drawing of the LTTB  hull. R107 LTB  A turret was not designed
+
+|HistAcc=
+A turret was never designed for the LTTB. R107 LTB 
+*Planned 85 mm ZiS-S-53 gun is missing. R107 LTB  The other gun configurations are fake. R107 LTB 
+*The 85 mm D5T-85BM was only developed for the SU-85. R107 LTB 
+*Its only intended powerplant is a 400 hp V8 engine. R107 LTB  The 660 and 770 hp engine configurations are fake. R107 LTB 
+
+|Ref_references=
+
+
+|Ref_sources=
+https://ftr. R107 LTB wot-news. R107 LTB com/2014/05/14/soviet-tier-8-light-tank-confirmed/
+https://world-of-kwg. R107 LTB livejournal. R107 LTB com/31931. R107 LTB html
+
+|Ref_links=
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=
+|Sidebar_Camomove=
+|Sidebar_Camofire=
+|Sidebar_Passhard=
+|Sidebar_Passmed=
+|Sidebar_Passsoft=
+|Sidebar_DispTurret=
+|Sidebar_DispRecoil=
+|Sidebar_DispAccel=
+|Sidebar_DispTurning=
+}}

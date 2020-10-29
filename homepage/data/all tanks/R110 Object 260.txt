@@ -1,0 +1,59 @@
+{{TankData|Tank=R110_Object_260|The Object 260 is earned after completing the fourth set of Personal Missions (The Long Awaited Backup Campaign). R110 Object 260  In game update 1. R110 Object 260 3, Object 260 received several buffs to gun handling, reload, aim time, gun depression, ammo rack capacity and turret armor (especially the roof weakspot). R110 Object 260 
+
+|Gallery=
+
+File:Объект 260 scr 1. R110 Object 260 jpg
+File:Объект 260 scr 2. R110 Object 260 jpg
+File:Объект 260 scr 3. R110 Object 260 jpg
+File:Object_260 screen1. R110 Object 260 jpg
+File:Object_260 screen2. R110 Object 260 jpg
+File:Object_260 screen4. R110 Object 260 jpg
+File:Object_260 screen5. R110 Object 260 jpg
+File:Object_260 screen6. R110 Object 260 jpg
+File:Object_260 screen7. R110 Object 260 jpg
+File:Object_260 screen8. R110 Object 260 jpg
+File:Object_260 screen11. R110 Object 260 jpg
+File:Object_260 screen12. R110 Object 260 jpg
+
+
+|InTheGame_pros=
+* Strong frontal hull armor and turret armor
+* Great gun handling and DPM
+* 3rd highest standard penetration of all heavy tanks (default ammunition is APCR!)
+* Superior top speed and less weight than [[IS-7]], giving it excellent mobility similar to mediums
+* High speed and good armor make it good for ramming
+* Front of the turret has the thickest displayed armor value in the game
+
+|InTheGame_cons=
+* Turret has a cupola weakspot unlike the IS-7's turret (it is small, though). R110 Object 260 
+* Lower plate is easily penned like the IS-7's, but the thick beak from IS-7 is absent. R110 Object 260 
+* Armor is preangled, like on IS-7, so angling makes UFP much weaker. R110 Object 260 
+* Extremely low HP pool for a heavy tank, tied for 2nd worst HP pool out of all tier X heavies. R110 Object 260 
+* Requires completion of all four sets of Personal Missions to earn. R110 Object 260 
+
+|InTheGame_performance=
+The tank feels a lot like a faster IS-7 with better gun handling and standard ammo penetration. R110 Object 260  In exchange it has lower health pool, slightly weaker side armor, a cupola weakspot, and lower alpha damage. R110 Object 260  This tank can reach high speeds with an excellent pw/wt ratio of nearly 20, and is very similar to medium tanks in terms of mobility. R110 Object 260 
+
+|InTheGame_research=
+Special vehicle, comes elite in its stock configuration. R110 Object 260 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, GLD, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+Review Romana
+{{#ev:youtube|PQMPFI2xdKA}}
+
+|History=
+
+|HistoricalGallery=
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

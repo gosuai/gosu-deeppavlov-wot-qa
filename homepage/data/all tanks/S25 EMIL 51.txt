@@ -1,0 +1,66 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Three-shot clip can quickly deal over 1K damage in a few seconds
+* Decent mobility
+* Outstanding -12 degrees of gun depression
+* Bouncy turret
+
+|InTheGame_cons= 
+* Poor gun handling
+* Can be easily penetrated through the front of the turret by premium shells or high-penetration vehicles
+* Somewhat weakly armored hull
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Enhanced Gun Laying Drive, Improved Ventilation Class 3
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+In 1951, the Swedish army decided to start a new tank project with the goal of replacing the obsolete Strv m/42 medium tank. S25 EMIL 51  Previous ideas for new tanks after WW2 had often been outdated and too light for the modern battlefield. S25 EMIL 51  The new project was to be based around the ideas that emerged in 1950 during the development of the Lansen light tank, mainly that a modern tank would need to be heavier, better armed and protected than previously thought. S25 EMIL 51  Another thing, that influenced the project, was that the technologies such as autoloaders and gyro-stabilization became more viable. S25 EMIL 51  These factors resulted in the EMIL 1951 proposal, which was to mark the start of Swedish heavy tank development. S25 EMIL 51 
+
+The requirements for the proposal made it clear that the vehicle was to be able to function as both an infantry support weapon and a tank destroyer. S25 EMIL 51  To make this possible, the tank was to mount a 12cm autoloaded gun. S25 EMIL 51  This would allow the tank to fire rapidly, it would give it good high-explosive round performance and better performance with HEAT rounds. S25 EMIL 51  There were also considerations for subcalibre rounds, but the main ammo types considered were the HEAT and the HE rounds. S25 EMIL 51  The idea of a tank sharing the medium and anti-tank roles had been considered before, but only now was such a vehicle possible within the weight limit, set by the Swedish army due to strategic mobility. S25 EMIL 51  The use of an autoloader made it possible to reduce the crew of the tank to 3. S25 EMIL 51  The requirements also made it clear that the new tank would need a lot more armour than previous Swedish projects. S25 EMIL 51  The main worry was the appearance of the Soviet IS-3 and its 122mm gun. S25 EMIL 51  To keep the weight down, the heavier armour of the tank was put on the turret front, here it reached a maximum thickness of 200mm at the gun-mantle (with 150mm and 125mm sloped armour at the rest of the turret front). S25 EMIL 51 
+
+
+This thick front turret armour was made possible by the use of a protective frontal “shield” instead of the French oscillating turrets, which had the turret split into the upper and the lower section. S25 EMIL 51  This also allowed for much better gun depression, that reached a maximum of 14dg. S25 EMIL 51  However, the rest of the turret armour was pretty weak with 35mm and 20mm side and rear armour respectively. S25 EMIL 51  The hull armour was a bit more interesting. S25 EMIL 51  The front had 120mm of armour – but only on the lower plate, the upper plate was better sloped, but only reached 70mm. S25 EMIL 51  The greater thickness of the lower plate would also be kept in future revisions of the EMIL project. S25 EMIL 51  The rest of the hull armour was really weak with only 20mm side and 30mm rear armour. S25 EMIL 51 
+
+Frontal and rear schematics
+
+[[File:Front_and_rear_Emil_1951_schematics. S25 EMIL 51 jpg]]
+
+Perhaps the most interesting thing about the projected tank was its size. S25 EMIL 51  The height was only 2,35m, which meant it had lower profile than tanks like the T-44 or IS-3. S25 EMIL 51  All in all, the tank was only slightly bigger than the previously projected light tank. S25 EMIL 51  This in turn meant that the tank only weighed 28 tons. S25 EMIL 51  However, later studies concluded that a vehicle of the performance described in the 1951 proposal would most likely weigh at least 32 tons. S25 EMIL 51  The main reason for the small size and low weight was the Swedish military believing that the mobility of a vehicle heavier than 30 tons would be very limited in Swedish terrain. S25 EMIL 51  The tank was to be powered by a 550hp air-cooled boxer engine built by Svenska Flygmotor AB, a producer of aircraft engines. S25 EMIL 51  This would allow the power to weight ratio of 19,5 hp/t for the 28 ton tank, but with the projected 32 ton weight this would be closer to 17hp/t. S25 EMIL 51  The good power to weight ratio also allowed the top speed of 55kph. S25 EMIL 51 
+
+Rough size comparison with a T-44
+
+[[File:Emil_1951_size_comparison_with_T-44. S25 EMIL 51 jpg]]
+
+The suspension of the vehicle was based on the Lvkv 42 self-propelled anti-aircraft gun, developed by Bofors. S25 EMIL 51  This meant that the tank would have hydraulic springs, that would later be used on the S-tank. S25 EMIL 51  Other alternatives were also considered however, such as an interleaved suspension. S25 EMIL 51  The hull of the tank was designed by Landsverk, who had been the main Swedish tank manufacturer since the 30′s and the turret was designed by Bofors, who had plenty of experience with guns and turrets for ships and coastal defence, but little experience with turrets for actual tanks. S25 EMIL 51  The project would continue in 1952, when the fear of the IS-3 would turn the EMIL project into more of a heavy tank project. S25 EMIL 51 
+
+|HistoricalGallery= 
+File:Emil_1951_Blueprints_1. S25 EMIL 51 jpg
+File:Emil_1951_Engineers%27_notes_on_interleaved_suspension_1. S25 EMIL 51 jpg{{!}}The engineers' notes on interleaved suspension
+File:Emil_1951_Engineers%27_notes_on_interleaved_suspension_2. S25 EMIL 51 jpg{{!}}The engineers' notes on interleaved suspension
+File:Emil_1951_Turret_Schematics_1. S25 EMIL 51 jpg{{!}}Turret Schematics
+File:Emil_1951_Turret_Schematics_2. S25 EMIL 51 jpg{{!}}Turret Schematics
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S25 EMIL 51 wot-news. S25 EMIL 51 com/2014/06/01/swedish-tanks-part-xii-emil-1951/
+* https://tanks. S25 EMIL 51 mod16. S25 EMIL 51 org/2013/12/07/project-emil-a-summary/
+* https://tanks. S25 EMIL 51 mod16. S25 EMIL 51 org/2014/02/12/the-beginnings-of-project-emil/
+* [https://ritastatusreport. S25 EMIL 51 live/2016/11/21/the-lies-about-the-swedish-heavies/ List of inaccuracies of the Swedish heavy tanks], written by one of the people who created by the Swedish tech tree in the first place
+
+}}

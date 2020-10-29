@@ -1,0 +1,82 @@
+{{TankData|Tank=R104_Object_430_II
+|A peer of the [[T-54]], the Object 430 II is a flexible multipurpose medium. R104 Object 430 II  Sporting bouncy armor, respectable firepower, and good mobility on a small, well camouflaged chassis, this is balanced by  the clumsiness that comes with the limited turret and poor gun depression. R104 Object 430 II  
+
+|Gallery=
+
+File:Объект 430 Вариант II scr 1. R104 Object 430 II jpg
+File:Объект 430 Вариант II scr 2. R104 Object 430 II jpg
+File:Объект 430 Вариант II scr 3. R104 Object 430 II jpg
+
+
+|InTheGame_pros=
+* Good DPM, aim time and AP (standard) penetration
+* Excellent HEAT (premium) penetration
+* Excellent agility and above average top speed
+* Low profile, good camouflage values
+* Good view range
+
+|InTheGame_cons=
+* Low alpha damage for a Tier 9 medium tank
+* Accuracy and shell velocity are merely decent
+* Weak hull armor and unreliable turret armor
+* Rear-mounted turret with poor gun depression 
+* Turret can only traverse 90 degrees on each side
+
+|InTheGame_performance=
+
+The Object 430 Version II is a natural evolution from the [[Object 416]], but distinguishes itself in more than a few ways as well. R104 Object 430 II  It is armed with effectively the same guns as the T-54, but possesses even higher penetration on AP rounds; despite the 248mm of penetrating power is still surpassed by RO L7 guns, it could also be offset to a lesser extent by their premium HEAT rounds, which boost the penetration to a ridiculous 330 mm. R104 Object 430 II  This is, however, very expensive to run, and HEAT rounds are not without their own limitations. R104 Object 430 II  The M-63 has worse gun handling compared to the D-54, and also loses in terms of RoF; but since both guns have the same HEAT round, the M-63 can be considered decent enough for a stock vehicle. R104 Object 430 II  The D-54's higher base penetration is useful, as is its much higher shell velocity, but the experience cost is no small amount. R104 Object 430 II 
+
+Unlike the fragile Object 416, the 430 II is blessed with adequate armor for a sniper-supporter tank. R104 Object 430 II  Unlike most other cast dome-shape turrets, the 430 II has the same 180mm thickness running across the entire turret front, making unaimed shots likely to bounce off. R104 Object 430 II  It does not have any real weakspots beside the somewhat small turret roof, which means lights and many lower tier vehicles will have trouble trying to penetrate that. R104 Object 430 II  The upper glacis is very sloped, but way less armored than that of the T-54. R104 Object 430 II  In addition, the lower plate is not well-angled, and can be penetrated by even Tier 6s, both should be hidden whenever possible. R104 Object 430 II  The side armor is thick enough to pull off auto-bounce against all but the largest calibres, which can be life saving. R104 Object 430 II  The 430 II is also blessed with a small silhouette and great camouflage values, giving a survivable package. R104 Object 430 II 
+
+The 430 II has a lower power/weight ratio than the T-54, but this is partially compensated for with better terrain resistance values. R104 Object 430 II  Its mobility is mostly comparable to the T-54's, although it will struggle somewhat more when climbing hills. R104 Object 430 II  The agility also helps compensate for the limited traverse of the turret. R104 Object 430 II 
+
+Overall, the 430 II plays similarly to the previous vehicle, but with two very important improvements in mind. R104 Object 430 II  Firstly, the better gun can fend off intruding hostiles easier with its more accurate and higher penetrating shot, as the extra degree of gun depression and narrower turret profile enables the utilization of many unique defensive positions; while the improved armor profile is no less than tricky to handle well, it does enable a more aggresive mindset. R104 Object 430 II 
+
+|InTheGame_research=
+===== If one finds the stock gun handling acceptable and premium HEAT sustainable =====
+* Research the Object 430 II Enhanced turret. R104 Object 430 II 
+* The upgraded 430 II Enhanced tracks should be your next target. R104 Object 430 II 
+* Next, the 4TDF engine should be equipped. R104 Object 430 II 
+* Research the 100mm D-54U. R104 Object 430 II 
+* If you have not already done so, finalize the grind by researching the 10RT-26 radio. R104 Object 430 II 
+
+===== Alternatively =====
+* Choose equipments carefully. R104 Object 430 II  Stock tracks cannot carry the top configuration and full set of equipments, otherwise consider mounting the ETB. R104 Object 430 II 
+* Grind and mount the 100mm D-54U gun. R104 Object 430 II 
+* Grind the Object 430 II Enhanced turret for better gun handling, view range and hitpoint. R104 Object 430 II 
+* Grind the tracks for better agility and weight capacity. R104 Object 430 II 
+* Finish by researching the top engine, then the radio. R104 Object 430 II 
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+
+|History=
+Success with the Object 416 encouraged factory #75's design bureau to continue working on similar layouts, this time with the Object 430. R104 Object 430 II  The draft was ready in 1953 in two variants. R104 Object 430 II  The first was classical: engine and transmission in the rear, turret in the front, driver in the front of the hull. R104 Object 430 II  The second was similar to the Object 416: the crew was in the turret, which was in the rear, the engine was in the front. R104 Object 430 II  The more conservative version of the tank was approved. R104 Object 430 II  As for variant #2, it inspired the Object 430 II in World of Tanks. R104 Object 430 II 
+
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+https://tankarchives. R104 Object 430 II blogspot. R104 Object 430 II hk/2017/08/soviet-rear-turret-tanks. R104 Object 430 II html
+
+|Ref_links=
+
+|Sidebar_GunAlt= 100mm M-63
+|Sidebar_Camostop=16. R104 Object 430 II 6
+|Sidebar_Camomove=12. R104 Object 430 II 4
+|Sidebar_Camofire=2. R104 Object 430 II 6
+|Sidebar_Passhard=0. R104 Object 430 II 671
+|Sidebar_Passmed=0. R104 Object 430 II 767
+|Sidebar_Passsoft=1. R104 Object 430 II 534
+|Sidebar_DispTurret=0. R104 Object 430 II 115
+|Sidebar_DispRecoil=3. R104 Object 430 II 356
+|Sidebar_DispAccel=0. R104 Object 430 II 134
+|Sidebar_DispTurning=0. R104 Object 430 II 134
+}}
+
+[[Category:Force's Muddling Attempts at Self-Actualization]]

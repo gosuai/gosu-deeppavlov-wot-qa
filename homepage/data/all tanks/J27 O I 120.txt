@@ -1,0 +1,96 @@
+{{TankData|Tank= J27_O_I_120
+| The '''O-Ho''' continues the Japanese superheavy line from O-Ni. J27 O I 120  The most noticeable improvement is significantly better rate of fire: both of O-Ho's 10cm guns have quick reload for their calibers (sadly, 15cm still reloads slow). J27 O I 120  O-Ho finally received improved side armor; while it is still unimpressive, it makes sidescraping a bit more reliable option. J27 O I 120  Furthermore, O-Ho's cheeks and miniturrets are no longer weaker than hull. J27 O I 120 
+
+The downside is it's extremely limited gun depression on front so one must learn to how to position O-Ho correctly in order to use it effectively. J27 O I 120  Furthermore, it still has same old downsides compared to its peers, such as poor mobility, gigantic size and flat armor that doesn't offer much protection against higher tier vehicles or premium (especially HEAT) ammo. J27 O I 120  O-Ho can feel really akward at first and is arguably harder to play than other Japanese superheavy tanks, but after learning how to compensate for limited gun depression on front, it can be very rewarding. J27 O I 120 
+
+|Gallery=
+
+File:O-Ho scr 1. J27 O I 120 jpg
+File:O-Ho scr 2. J27 O I 120 jpg
+File:O-Ho scr 3. J27 O I 120 jpg
+
+
+|InTheGame_pros= 
+- Very thick frontal armor with multiple angled parts can create lots of troll bounces; 2nd highest HP of all tier 8 tanks after KV-5, tied with KV-4 and VK 100. J27 O I 120 01P
+
+- The top 10cm gun has a very fast reload for its caliber
+
+- 15 cm gun has extremely good gun handling compared to similar guns and O-Ho is one of the few tanks with 15cm howitzer that gets access to vertical stabilizator to improve gun handling even further
+
+- Very high mass and engine power let you easily push others and makes O-Ho resistant to ramming
+
+- Great gun depression over sides
+
+- Very easy stock grind as all of the modules apart from top radio, top 10cm and tracks are researchable from earlier tanks
+
+- Gun is located extremely high on turret which means that O-Ho can shoot over almost any allied tank and many hills that other tanks wouldn't be able to
+
+
+|InTheGame_cons= 
+
+- Mini-turrets heavily limit forward gun depression to as little as -1°
+
+- Both guns have below average accuracy and aim time, 15cm cannon has only slightly higher rate of fire over O-Ni
+
+- Huge profile; priority target to artillery and terrible camo values
+
+- Armor is very flat, making it vulnerable to guns with high penetration
+
+- Ammo rack is large and easily damaged. J27 O I 120 
+|InTheGame_performance= 
+
+O-Ho is a natural evolution of O-Ni, with some major improvements. J27 O I 120  Armor is all around tougher, miniturrets and cheeks are now tough as front itself, and health is increased. J27 O I 120  Most notably, 10cm guns have significantly quicker reload. J27 O I 120 
+
+You have two gun options: the 10cm and 15cm. J27 O I 120  The 10cm gun has above average DPM, making it very effective when top tier. J27 O I 120  Penetration is average at tier 8 considering the top gun, at 215. J27 O I 120  This is great at top tier matches, but might come back to bite you at higher tiers, where premium shells might have to be utilized to compensate for the pen of standard rounds. J27 O I 120  Among with that, the 10cm gun has horrendous aim time and accuracy, with gun handling being only marginally better than that of the 15cm derp, other than the accuracy which is still better. J27 O I 120  Also the 10cm has 2 extra degrees of gun depression than the 15cm above the miniturrets, which makes the gun depression slightly less wonky, though -3 is still utterly abysmal considering the extremely high gun placement. J27 O I 120 
+
+The derp gun gives O-Ho unique play style as a bulky support tank. J27 O I 120  The derp gun has better stats than O-Ni and you can even use vertical stabilizer. J27 O I 120  The derp gun has pretty good gun handling, which allows O-Ho to snapshot effectively. J27 O I 120  Of course, the raw accuracy is very low, and reload is still quite slow. J27 O I 120  However, the 15cm gun can hurt even tier 10 heavies if shots are aimed carefully. J27 O I 120  O-Ho's extreme height and gun location allows it to hit most roofs or engine decks of tanks, doing nice damage. J27 O I 120  One of the most major issues of O-Ho is gun depression on front. J27 O I 120  Face hugging can be tricky, but with some practice by angling the tank just right amount, it's still possible. J27 O I 120  The mini-turrets are located more on left than right, so it is recommended to fight always on your right side if possible. J27 O I 120  
+
+
+|InTheGame_research=
+
+Most of modules are shared with O-Ni. J27 O I 120  Mount derp gun and engine instantly. J27 O I 120  Neither of them requires tracks to be mounted. J27 O I 120  Then Research 10 cm experimental gun. J27 O I 120  You can go ahead to Type 4 without researching tracks. J27 O I 120  But, If you want to equipping some equipment for this tank, tracks are necessary. J27 O I 120  You can use either 15cm or 10cm, both are viable. J27 O I 120  
+
+|InTheGame_equipment=Vents, Spall Liner, Tank Gun Rammer, Wet Ammo rack, Vertical Stabilizer, Coated Optics
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+N/A - '''the O-Ho never existed. J27 O I 120 '''
+
+The "O-Ho" is based on misconceptions of the O-I super-heavy tank. J27 O I 120  Post-war speculations about the mysterious O-I resulted in that it was commonly accepted that there were at least two variants of the tank:
+
+* 100 ton O-I, 3 turrets, built in 1941-1943 (known in-game as "O-Ni")
+* 120 ton O-I, 4 turrets, built in 1944 and shipped to Manchuria. J27 O I 120  (known in-game as "O-Ho")
+
+The 120 ton O-I supposedly mounted a 105 mm gun on it's main turret, had two turrets in front and one in back, and up to 200 mm thick armor. J27 O I 120 
+
+However, with more information now available to public, it is known that '''all of this is false, and that there is only one version of the O-I - the 150 tonne O-I with 15 cm howitzer''' (with prototype being "only" 97 tons, as it lacked turrets, main armament and additional 75 mm armor plates). J27 O I 120  The 100 ton O-I is based on misleading information of the O-I combined with it's design being based on very early sketch of the O-I. J27 O I 120 
+
+It is however interesting to note how the information of the O-I 120t came up. J27 O I 120  It has been mentioned on multiple ocassions that it was supposedly "shipped to Manchuria in 1944" and "had 200 mm armor" - neither of these fitting the description of the O-I. J27 O I 120  It is possible that this misleading information might actually refer to Type 4/5 super-heavy tanks that may have existed, as a turret that possibly was originally meant to be used on these tanks was used in Manchuria on a bunker. J27 O I 120 
+
+|HistAcc=
+
+* O-Ho is based on the drawings from the book “Imperial Japanese Army Ground Weapon Guide 1872-1945”. J27 O I 120  Unlike the drawings of "O-I 100t", which is what the tier 7 Japanese heavy tank O-Ni is based on, the dawings of the "O-I 120t" has basically no basis on them; they are *purely* based on false information and rumors. J27 O I 120  Due to this, the O-I 120t/O-Ho '''never actually existed'''. J27 O I 120 
+
+* In-game name is incorrect. J27 O I 120  The name "O-Ho" means "fifth (super) heavy tank". J27 O I 120  There however are no third and fourth super-heavy designs, as the O-I was the first and the Type 4/5, if they existed, the second design. J27 O I 120  If the O-Ho actually existed, a more realistic designation would be "O-I III" (as the both O-I 100t (O-Ni) and O-I 120t are based on designs that were earlier designs than the Type 4/5, they most likely would have been referred as "altnerate" designs to the O-I - O-I 100t and O-I 120t as O-I II and O-I III, respectively). J27 O I 120 
+
+|HistoricalGallery= 
+File:O-I super heavy tank. J27 O I 120 jpg{{!}}The drawing of "O-I 120", which is results of misconceptions. J27 O I 120  Note that the tank never existed. J27 O I 120 
+File:Type_92_105_mm_cannon. J27 O I 120 jpg{{!}}The Type 92 105mm cannon. J27 O I 120 
+File:10_cm_experimental_tank_gun. J27 O I 120 jpg{{!}}The 10cm experimental tank gun. J27 O I 120  
+
+|Ref_references=
+
+|Ref_sources=
+* “Japanese Tanks” Hara no Tomio 1978. J27 O I 120  日本の戦車　原乙未生
+* “Tank and Tank Battles” 2012 戦車と戦車戦
+* “Imperial Japanese Army Ground Weapon Guide 1872-1945” 1997帝国陸軍陸戦兵器ガイド　1872-1945
+* “Pacific War Secrets: All Japanese Secret Weapons” 2008 太平洋戦争秘録　日本・秘密兵器大全
+* “Japanese Ground Cannons: Heavy Field Cannons” Sayama Jiro 2012 日本陸軍の火砲　野戦重砲
+
+|Ref_links=
+* https://ftr. J27 O I 120 wot-news. J27 O I 120 com/2013/11/19/superheavy-japanese-tanks/
+
+}}

@@ -1,0 +1,84 @@
+{{TankData|Tank=Ram-II
+|Better armored but with a lighter gun than the [[M4 Sherman]], the Ram-II is durable for its tier and plays like a faster [[Matilda Black Prince]] or [[Churchill III]]. A62 Ram-II  The QF 6 Pounder Mk IIIA has a very high rate of fire, allowing the Ram-II to handle multiple smaller threats more easily than other tanks of its tier. A62 Ram-II  However, its penetration is not very good, though it is enough against most tanks of its tier. A62 Ram-II  This, combined with increased armor and more health, leads to greater survivability than the M4 Sherman. A62 Ram-II 
+The Ram II was removed from the game as of 8/6/15 [https://worldoftanks. A62 Ram-II eu/en/news/pc-browser/premium/prem-tanks-removal-sale/ Removal of Premium Tanks From Shop] as part of the WG retirement plan. A62 Ram-II 
+
+|Sidebar_Camostop=12. A62 Ram-II 9
+|Sidebar_Camomove=9. A62 Ram-II 7
+|Sidebar_Camofire=3. A62 Ram-II 7
+|Sidebar_Passhard=0. A62 Ram-II 988
+|Sidebar_Passmed=1. A62 Ram-II 093
+|Sidebar_Passsoft=1. A62 Ram-II 64
+|Sidebar_DispTurret=0. A62 Ram-II 077
+|Sidebar_DispRecoil=3. A62 Ram-II 836
+|Sidebar_DispAccel=0. A62 Ram-II 24
+|Sidebar_DispTurning=0. A62 Ram-II 24
+
+|InTheGame_pros=
+* Extremely high rate of fire, good DPM
+* Very large healthpool for tier/class
+* Very large ammo capacity
+* Excellent APCR (premium) penetration
+* Fairly good acceleration and agility
+
+|InTheGame_cons=
+* Poor alpha damage
+* Poor gun handling and accuracy
+* Bad aim time for such a fast-firing gun, fires faster than it can aim
+* Poor forward/reverse speed
+* Poor viewrange
+
+|InTheGame_performance=
+This tank has good armor, a rapid-fire gun, and good maneuverability, but it's not very fast. A62 Ram-II  It's very effective at taking on lower tier opponents and can do fairly well against its own tier, it can often win, either by using its superior armor or its better agility; all the while pounding away with its 6pdr (one shot every 2 seconds approximately). A62 Ram-II  However the low penetration of its gun leaves it relatively ineffective against higher tier opponents. A62 Ram-II  This can be compensated for somewhat by using premium shells, but whether it's worth it or not is up to you. A62 Ram-II  Typically you see the Ram-II serving a support role. A62 Ram-II  Its high rate of fire makes it good at taking out enemy scouts that try to take out friendly artillery. A62 Ram-II  In some higher tier matches, it may serve in a scouting role. A62 Ram-II  
+
+The Ram-II has a glaring weak spot on the front armor, in the form of the small machine gun turret. A62 Ram-II  Knowing this, it is best to keep the hull hidden behind solid cover when engaging enemies. A62 Ram-II  Also, like the [[T26E4 Super Pershing]], there is a weakspot where the axles join the hull which quickly leads to engine damage and fire if you opponent can hit it. A62 Ram-II   Try to keep it hidden if at all possible. A62 Ram-II 
+
+The Ram-II's matchmaking is not as good as its heavier counterpart, the [[T14]]. A62 Ram-II  With this in mind, the QF 6 Pounder will quickly become obsolete if put in higher tier matches, as it cannot penetrate anything with 120+mm armor. A62 Ram-II  Instead of frontal attacks, hit enemy tanks on the flank or on any prominent weak spot in these situations. A62 Ram-II  Sniping is negated due to the relative inaccuracy of the tank. A62 Ram-II 
+
+Compared to the [[M7]], the Ram-II trades speed for a huge increase in survivability and keeps roughly the same firepower. A62 Ram-II  It functions much like the T1 Heavy Tank: as a slow support tank that utilizes its high rate of fire to pound away at enemy armor. A62 Ram-II  It is also comparable to a faster, lighter Churchill III. A62 Ram-II  
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD
+
+|Gallery=
+image:Ram-II screen 01. A62 Ram-II jpg
+image:Ram-II screen 02. A62 Ram-II jpg
+image:Ram-II screen 03. A62 Ram-II jpg
+image:Ram-II screen 04. A62 Ram-II jpg
+image:Ram-II screen 05. A62 Ram-II jpg
+image:Ram-II screen 06. A62 Ram-II jpg
+
+|History=
+The idea for producing cruiser tanks in Canada first arose on 15 July 1940 during a conversation between Maj. A62 Ram-II  Gen. A62 Ram-II  V. A62 Ram-II V. A62 Ram-II  Pope, Deputy Director Staff Duties (AFVs), British War Office and Col. A62 Ram-II  E. A62 Ram-II I. A62 Ram-II N. A62 Ram-II  Burns, General Staff Branch, National Defence Headquarters (NDHQ) Ottawa. A62 Ram-II  During this conversation, Col. A62 Ram-II  Burns was informed by Maj. A62 Ram-II  Gen. A62 Ram-II  Pope that the British Armoured Divisions would be reequipped solely with cruiser tanks, as opposed to the mix of infantry and cruiser tanks used previously, and that it would be excellent if Canada could produce such tanks. A62 Ram-II  A month later, on 15 August 1940, the first Canadian Armoured Corps was formed, and on 27 August 1940, the NDHQ requested that the Canadian Military Headquarters (CMHQ) in London confirm that it was indeed official War Policy to equip British Armoured Divisions solely with cruiser tanks, and, if so, proposed that they be produced in Canada if possible. A62 Ram-II  
+
+On 5 September 1940, the CMHQ affirmed this and suggested that Canada plan to produce the new British Cruiser Tank Mk VI Crusader, which was also being produced in the United Kingdom at the time, with first deliveries to units scheduled for December 1940. A62 Ram-II  However, based on previous difficulties encountered with Canadian manufacture of British Valentine infantry tanks, the NDHQ decided that Canadian production should concentrate on the American Medium Tank M3, suitably modified to reflect British military practice. A62 Ram-II  The British had already made heavy commitments to purchase the M3 via orders by the British Purchasing Commission, plus the heavy components, most notably the engine and transmission, were readily available from the United States. A62 Ram-II  Later that month, discussions between the Canadian Department of Munitions and Supply (DMS) and the British Purchasing Commission resulted in the decision that all British tanks would be built in the United States, not in Canada, but the British Purchasing Commission agreed to obtain transmissions, engines, and machine guns at Canada's expense from the United States for the Canadian tanks. A62 Ram-II 
+
+At the time the decision was reached, only Canadian Pacific Railway's Angus Shops in Montreal had any experience assembling tanks. A62 Ram-II  It was proposed that four other Canadian companies  be approached to produce the M3. A62 Ram-II  One of them was the Montreal Locomotive Works. A62 Ram-II  Its parent organisation, the American Locomotive Company in the United States, was at the time engaged in production of the M3 for the United States Army, and expressed its willingness to provide invaluable assistance to the Canadian company should it receive an order to produce the M3. A62 Ram-II  This made it the obvious choice for producing the M3 and in October 1940, the DMS authorised the Montreal Locomotive Works to build the Tank Arsenal, which was to be capable of producing two tanks a day. A62 Ram-II  The first 300 tanks were to be identical to the vehicles being produced by the American Locomotive Company, while modifications were to be implemented from late 1941 onward. A62 Ram-II 
+
+Unfortunately, during the first week of January 1941, British and Canadian representatives inspected the Medium Tank M3 hull, and was considered to be very disappointing. A62 Ram-II  The vehicle was judges to be too tall and cumbersome, while its right sponson-mounted gun was considered unsatisfactory for a tank. A62 Ram-II  It was apparent that the M3 tank, as approved by the United States Ordnance, was not satisfactory to the British and Canadians, and it was decided that the Canadians would develop and produce a tank utilising the M3's mechanical components, but with a more conventional layout. A62 Ram-II  In order to ease coordination, Canadian tank production was placed under the U. A62 Ram-II S. A62 Ram-II  Ordnance Department. A62 Ram-II 
+
+The first pilot model of the so-called Modified M3 Cruiser Tank came off the assembly line on 30 June 1941. A62 Ram-II  The U. A62 Ram-II S. A62 Ram-II  War Department had expressed keen interest in the new Canadian tank, and requested that one be loaned to the U. A62 Ram-II S. A62 Ram-II  Ordnance Department for study. A62 Ram-II  The pilot model was thus sent to the Aberdeen Proving Grounds in Maryland to undergo trials on 18 June 1941, and returned to Montreal in October 1941. A62 Ram-II  It was planned that 99 tanks, including the pilot model, were to be built by the end of 1941. A62 Ram-II  On 4 October 1941, the Canadian Corps Commander recommended that the name "'''Ram'''" be adopted for the Modified M3 Cruiser Tank in accordance with War Office policy to give names to existing, and all future tank types in order to prevent confusion. A62 Ram-II  The interim 2-pounder gun tank were to be  known as the Ram I, while the definitive 6-pounder gun tank was to be known as Ram II. A62 Ram-II  This was approved by the NDHQ, and the policy also established that future tanks produced in Canada would be named after animals. A62 Ram-II 
+
+By February 1942, 50 Ram I tanks had been produced before production switched over to the Ram II. A62 Ram-II  Each Ram I tank cost between $50,000 and $100,000. A62 Ram-II  In early 1942, the U. A62 Ram-II S. A62 Ram-II  War Department asked the British if they were prepared to accept the Ram tank as Lend-Lease tanks. A62 Ram-II  Having received their acceptance, the U. A62 Ram-II S. A62 Ram-II  placed an order for 1,351 Ram tanks through War Supplies Limited (a Canadian Crown Company set up in May, 1941 to negotiate munitions orders placed by the United States in Canada). A62 Ram-II  Unfortunately for the Ram, the British Tank Commission changed their minds on 26 March 1942 and decided that the Montreal Locomotive Works should produce the new American Medium Tank M4A1 instead for British use, and early in 1943, the U. A62 Ram-II S. A62 Ram-II  order for 1,351 Ram tanks was cancelled. A62 Ram-II  Having been freed from the British requirements, the Ram tanks were instead distributed to meet the needs of the Canadian Army. A62 Ram-II  The Ram tank programme was rearranged, and a production order was placed for 1,899 Ram tanks to be completed at a rate of 150 a month by 15 June 1943, whereupon the Montreal Locomotive Works would concentrate production on the M4 Grizzly. A62 Ram-II  A total of 1,948 (1,949 according to the DMS) Ram tanks were produced, of which 1,671 were shipped to the U. A62 Ram-II K. A62 Ram-II , while 277 stayed in Canada. A62 Ram-II 
+
+The Ram cruiser tank never actually saw combat during World War II as a battle tank, but served in the valuable role of training the very first Canadian armoured divisions. A62 Ram-II  The Ram was eventually modified, and saw combat as the Ram Kangaroo armoured personnel carrier, the Badger flamethrower tank, and also served as the basis of the widely-used Sexton self-propelled gun. A62 Ram-II  Following the end of World War II, the Ram tanks in Dutch territory were given to the Royal Netherlands Army, and used to equip the very first Dutch tank units, where they served until replaced by Centurions in 1952. A62 Ram-II 
+ 
+|HistoricalGallery=
+image:RAMII1. A62 Ram-II jpg‎{{!}}Ram tank at Cavalry Museum Amersfoort
+image:RAMII2. A62 Ram-II jpg{{!}}Ram Mk I
+image:RAMII3. A62 Ram-II jpg{{!}}Ram Mk II at Base Borden Military Museum
+image:Ram II. A62 Ram-II jpg
+image:Ram II (2). A62 Ram-II jpg
+
+|HistAcc=
+The Ram II was primarily operated by Canada, a British Commonwealth nation. A62 Ram-II  It was never used by the United States. A62 Ram-II 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. A62 Ram-II wikipedia. A62 Ram-II org/wiki/Ram_tank
+
+}}

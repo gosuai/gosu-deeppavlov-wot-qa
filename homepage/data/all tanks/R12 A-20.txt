@@ -1,0 +1,65 @@
+{{TankData|Tank=A-20
+|The A-20 is a very fast tank with a high top speed, but suffers from poor maneuverability at high speed. R12 A-20  It's considered one of the most agile tanks in the game in terms of speed. R12 A-20  However, high agility comes with paper armor. R12 A-20  It is sloped and there will be a chance to block some lower-tier shots, but it's useless when facing more armed opponents. R12 A-20 
+|Gallery=
+
+|InTheGame_pros=
+* Above average engine power, top speed, and traverse speed
+* Good rate of fire, aim time, and accuracy
+* Above average signal range
+
+|InTheGame_cons=
+* Poor agility at high speeds
+* Somewhat large for a light tank
+* Worst penetration of all the Tier 5 light tanks
+* Hull armor is auto-penned by many same- and higher-tier tanks
+
+|InTheGame_performance=
+On paper, the A-20 seems to be a decent Tier 5 light tank. R12 A-20  While its gun selection is lacking in terms of penetration, it seems to have a very high top speed and good hull traverse. R12 A-20  Unfortunately, the A-20 has issues which are not immediately obvious from just looking at the in-game statistics. R12 A-20 
+
+The A-20's mobility statistics are a lie. R12 A-20  It has a tendency to bleed an incredible amount of speed on turns, and its acceleration and maneuverability are nowhere near as good as other lights. R12 A-20  Active scouting is very dangerous, and requires a lot of skill and forethought, although the turning radius and speed are surprisingly tight (much like the BT-7). R12 A-20   The A-20's view range is average for passive scouting, tying with the Covenanter and only 10 meters worse than the other Tier 5 light tanks. R12 A-20  However, despite the A-20's camouflage bonuses as a light tank, investment in the Camouflage skill is still required in order to negate its rather large size. R12 A-20  Mounting equipment like Coated Optics will also help in passive scouting. R12 A-20 
+
+Firepower-wise, the A-20 was badly hurt by its move to Tier 5. R12 A-20  The stock guns, the '''45 mm 20K''', and the '''37 mm ZiS-19''', which were previously used on the Tier 2 [[BT-2]] and Tier 4 [[BT-7]], were excellent and mediocre on those tanks, respectively. R12 A-20  At Tier 5, they are completely useless, and should be gotten rid of as quickly as possible. R12 A-20  There are three viable weapons. R12 A-20  The '''37 mm Automatic SH-37''' is, as the name suggests, a magazine-fed autocannon. R12 A-20  It is good enough to kill lightly armoured artillery, tank destroyers, and light tanks, but little else. R12 A-20  The '''45 mm VT-42''' offers good accuracy, rate-of-fire, and aim time, as well as the best penetration of all the A-20's guns, in exchange for low alpha damage, making it an ideal sniper weapon. R12 A-20  The '''76 mm L-11''' is the complete opposite, with terrible accuracy, aim time, and a low rate-of-fire, but good alpha damage. R12 A-20  It works better at close ranges. R12 A-20  Despite its disadvantages, against Tier 4, 5, and even 6 tanks, the A-20 can still do some damage. R12 A-20 
+
+Unsurprisingly, since it is a light tank, the A-20 has no armor to speak of, and despite the good sloping, it should never rely on its armor to save it from enemy fire (although the armor can occasionally bounce some shots from lower-tier tanks). R12 A-20 
+
+*NOTE: As of Update 1. R12 A-20 9. R12 A-20 1 the A-20 has received a health increase, from 500 to 560, while also having view range boosted from 350 to 360 and 3 km/h more reverse speed. R12 A-20 
+|InTheGame_research=
+* The '''37 mm ZiS-19''' and '''12LL''' radio carry over from the BT-7, and should be installed immediately. R12 A-20 
+* The '''SP-3''' turret is absolutely necessary to mount the viable guns, as well as providing an increase to view range. R12 A-20 
+* Depending on playstyle, the '''76 mm L-11''' or '''45 mm VT-42''' should be researched next. R12 A-20 
+* The '''V-2-34''' engine provides a small, but not insignificant, increase in horsepower. R12 A-20 
+* The '''37 mm Automatic SH-37''' can be researched next, or may be skipped entirely if there is no intention to use it. R12 A-20 
+* Finally, the '''A-20 mod. R12 A-20  1940''' suspension should be researched last. R12 A-20  It allegedly provides a 2 d/s increase in hull traverse, but practically has no noticeable benefits to the A-20's agility. R12 A-20 
+
+|InTheGame_equipment=
+Improved Ventilation Class 1, Medium-Caliber Tank Gun Rammer, Cyclone Filter, Coated Optics, Binocular Telescope
+
+|History=
+'''Origin'''
+[[image:A-20 pic 01. R12 A-20 jpg|thumb|200px|left|A-20 during trials]]
+Once it was realized that the BT tanks didn't have sufficient armor or armament, a new design was developed for a fast medium tank. R12 A-20  In 1937, the Kharkov factory was ordered to design a new tank, and the design work started in November 1937. R12 A-20  The chief designer was Mikhail Koshkin and his deputy, Alexsandr Morozov. R12 A-20 
+
+'''Design features'''
+The A-20 had sloping sides and a small angular turret with 25mm of armor. R12 A-20  The tracks could be removed and could be run on just the wheels. R12 A-20  The chassis itself was based on the BT-7M. R12 A-20  The hull had a V-shaped glacis plate and was angled at 60°. R12 A-20  The A-20's hull also overhung the tracks with the sides angled at 25°. R12 A-20  In 1939, a 76. R12 A-20 2 mm gun was installed and the vehicle was designated as the A-30. R12 A-20  This was the same gun that was installed in the BT-7. R12 A-20  There was an attempt to place a short barrelled 76. R12 A-20 2 mm gun in the A-20's turret, but it just didn't work, as the turret ring couldn't absorb the recoil. R12 A-20  
+
+'''Prototype'''
+In May 1938, a wooden model of the A-20 was shown to the Defense Council of the Soviet People's Commissars (Soviet Narodnykh Komissarov, or SNAKE). R12 A-20  Some didn't like the wheel / tracks feature carried over from the BT series, and Koshkin said it added weight that just wasn't necessary. R12 A-20  The design had a 45 mm gun, which Koshkin said should be replaced by a 76. R12 A-20 2 mm gun, as it was inadequate. R12 A-20  Stalin was at this presentation and ordered that the Kharkov factory build not only a full-size prototype of the A-20, but also make the requested design changes and build a prototype that would be designated the A-30. R12 A-20  In August 1938, the High War Council, let by the People's Commissar for Defense, K. R12 A-20  J. R12 A-20  Voroshilov, discussed the A-20 and T-32. R12 A-20  Many on the Council disliked the T-32. R12 A-20  In July 1939, the Kharkov Locomotive Factory had completed the prototypes for the A-20 and T-32. R12 A-20  They were both then tested and it was decided to go with the T-32. R12 A-20  On December 19, 1939, the People's Commissariat for Defense released the T-32 to the Red Army. R12 A-20  It was soon designated the T-34. R12 A-20 
+
+In 1939, tests were conducted with the T-32 and A-20: the T-32 was selected as it had better fire power and armor. R12 A-20 
+
+
+|HistoricalGallery=
+image:A-20 BT-7M, A-20, T-34 Model 1940 and Model 1941. R12 A-20 jpg{{!}}Side by side, BT-7M, A-20, T-34 Model 1940 and Model 1941
+image:A-20 side view. R12 A-20 jpg{{!}}A-20 side view
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://www. R12 A-20 wwiivehicles. R12 A-20 com/ussr/tanks-medium/a-20. R12 A-20 asp
+}}
+
+[[Category:USSR Tanks]]

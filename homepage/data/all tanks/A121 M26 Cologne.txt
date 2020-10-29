@@ -1,0 +1,67 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Strong gun mantlet, great for going hull-down
+
+* Nice alpha of 240 on average per shot
+
+* Great gun depression of -10 degrees
+
+* Fairly cheap ammo cost makes it a decent credit earner
+
+* Armour will hold up against lower tiers (mostly)
+
+* Good view range: can reach 445m with optics and crew skills easily
+
+* High ammunition count, more than enough for a variety of loadouts
+
+|InTheGame_cons= 
+
+* Slow and sluggish: crawls up hills
+
+* Low DPM: even lower-tiers can easily out-trade it in straight-up shootouts
+
+* Low shell velocity and mediocre accuracy makes hitting fast moving targets difficult
+
+* Premium AP rounds only provide a modest increase in penetration; hardly any use in high tier matches
+
+* Machinegun port is an obvious weakpoint even Tier 5's can pen easily
+
+* A juicy artillery target when caught in the open
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+* Review Romana
+{{#ev:youtube|CKACz64qa7I}}
+
+|History= 
+{{VideoYT|CBYU7Vcua9Q}}
+On 6 March, just after the 3rd Armored Division had entered the city of Cologne, a famous tank duel took place. A121 M26 Cologne  A Panther tank on the street in the front of Cologne Cathedral was lying in wait for enemy tanks. A121 M26 Cologne  Two M4 Shermans were supporting infantry and came up on the same street as the Panther. A121 M26 Cologne  They ended up stopping just before the Cathedral because of rubble in the street and didn't see the enemy Panther. A121 M26 Cologne  The lead Sherman was knocked out, killing three of the five crew. A121 M26 Cologne  A T26E3 was in the next street over and was called over to engage the Panther. A121 M26 Cologne  What happened next was described by the T26E3 gunner Cpl. A121 M26 Cologne  Clarence Smoyer: <br />
+"We were told to just move into the intersection far enough to fire into the side of the enemy tank, which had its gun facing up the other street [where the Sherman had been destroyed]. A121 M26 Cologne  However, as we entered the intersection, our driver had his periscope turned toward the Panther and saw their gun turning to meet us. A121 M26 Cologne  When I turned our turret, I was looking into the Panther's gun tube; so instead of stopping to fire, our driver drove into the middle of the intersection so we wouldn't be a sitting target. A121 M26 Cologne  As we were moving, I fired once. A121 M26 Cologne  Then we stopped and I fired two more shells to make sure they wouldn't fire at our side. A121 M26 Cologne  All three of our shells penetrated, one under the gun shield and two on the side. A121 M26 Cologne  The two side hits went completely through and out the other side. A121 M26 Cologne "<br />
+Four of the Panther's crew were able to successfully bail out of the stricken tank before it was destroyed. A121 M26 Cologne  The action was recorded by a Signal Corps cameraman T/Sgt. A121 M26 Cologne  Jim Bates. A121 M26 Cologne 
+
+|HistAcc=
+The 90 mm M3 is in fact the same gun on the [[T20]] and [[M26 Pershing]], yet the penetration and weight values are inconsistent. A121 M26 Cologne 
+* The only tank/anti-tank designations of the 90 mm gun were M3 and M3A1. A121 M26 Cologne  The "M3E" designation is fake. A121 M26 Cologne 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

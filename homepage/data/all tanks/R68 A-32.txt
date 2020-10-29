@@ -1,0 +1,52 @@
+{{TankData|Tank=R68_A-32
+|Originally available as part of the game's Light Pre-Order Package. R68 A-32  It was also briefly available from the [https://worldoftanks. R68 A-32 com/personal/gifts/ Gift Shop] before being withdrawn. R68 A-32  Classified as a light tank at the game's release, it was reclassified as a medium tank a few months later. R68 A-32  It's basically an improved version of the [[A-20]] that has more health, armor and a decent gun that has noticeably higher penetration than the A-20's stock gun. R68 A-32  Even with these upgrades, it cannot win a head-on fight against most proper mediums. R68 A-32  Instead, it should be used as a scout tank. R68 A-32  Presently this vehicle is only available for purchase on the RU server. R68 A-32 
+
+
+|Gallery=
+image:A32_01. R68 A-32 jpg{{!}}A-32 01
+image:A32_02. R68 A-32 jpg{{!}}A-32 02
+image:A32_03. R68 A-32 jpg{{!}}A-32 03
+image:A32_04. R68 A-32 jpg{{!}}A-32 04
+
+|InTheGame_pros=
+* More hit points and better armour than the A-20, could resist autocannon or early tier howitzers with some reliability
+* Very powerful engine and high speed limit of 70km/h - fastest Medium Tank in the game, also reduced chance of engine fire
+* Damage per shot is quite good, with acceptable aim time and -7° of gun depression 
+* Preferential Matchmaking - Will never see Tier 6s
+* Has workable 20t weight and a strip of 60mm thick "ram bar" on glacis
+
+
+|InTheGame_cons=
+* Despite increased armor, proper tier 4 and above guns will still shred it
+* Gun is inaccurate, fires only low-velocity shells that don't penetrate much
+* Gun also has lowish RoF and noticeable dispersion penalty, requires patience to work well
+* Radio range and view range are both painfully low, greatly limiting its use as scout
+* Very wide turning radius at high speed
+
+|InTheGame_performance=
+
+Due to the rather subpar performance of the gun and poor view range, this tank functions well as a mid to late game brawler, cleaning up the wounded enemies. R68 A-32  It also excels at close range drive bys, where your gun's inaccuracy is negated. R68 A-32  Zoom by the enemies' flanks and derp their thinner side armor. R68 A-32  As a last resort or for entertainment, your extreme speed and decent weight could cause astounding ramming damage to many low to mid tier vehicles. R68 A-32 
+
+|InTheGame_research=
+Premium vehicle, elite in its stock configuration. R68 A-32 
+
+|InTheGame_equipment=
+Coated Optics, Enhanced Gun Laying Drive, Tank Gun Rammer, Improved Ventilation Class 2, Enhanced Christie Suspension
+
+|History=
+==Production history of the T-34, A-32 being T-34's prototype==
+Koshkin convinced Soviet leader Joseph Stalin to let him develop a second prototype, a more heavily armed and armoured "universal tank" which could replace both the T-26 and the BT tanks. R68 A-32  The second prototype Koshkin named A-32, after its 32 millimetres (1. R68 A-32 3 in) of frontal armour. R68 A-32  It also had a 76. R68 A-32 2 mm (3 in) gun, and the same model V-2 diesel engine. R68 A-32  Both were tested in field trials at Kubinka in 1939, with the heavier A-32 proving to be as mobile as the A-20. R68 A-32  A still heavier version of the A-32 with 45 millimetres (1. R68 A-32 8 in) of front armour and wider tracks was approved for production as the T-34. R68 A-32  Koshkin chose the name after the year 1934 when he began to formulate his ideas about the new tank, and to commemorate the decree expanding the armoured force and the appointment of Sergo Ordzhonikidze to head tank production. R68 A-32 
+
+|HistoricalGallery=
+image:A-32 1. R68 A-32 jpg|160px|A-32
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

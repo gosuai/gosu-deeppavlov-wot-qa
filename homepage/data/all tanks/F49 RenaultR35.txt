@@ -1,0 +1,253 @@
+{{TankData|Tank= 
+| 
+
+|Gallery= 
+renault_r35_1. F49 RenaultR35 jpg
+renault_r35_2. F49 RenaultR35 jpg
+renault_r35_4. F49 RenaultR35 jpg
+
+|InTheGame_pros=
+* Heavy sloped armor in front
+* Good overall armor
+* Good traverse speed
+* Excellent gun depression and elevation
+
+|InTheGame_cons= 
+* Very slow when stock
+* 25 mm Raccourci mle. F49 RenaultR35  1934 gun can't shoot beyond 400m
+* Howitzers will destroy you
+* Poor accuracy
+
+|InTheGame_performance= 
+Whereas the H35 arguably has, arguably, the better firepower, the R35 has, arguably, the better armour profile. F49 RenaultR35  This allows the R35 to be slightly more survivable than the H35. F49 RenaultR35  But it's playstyle is virtually identical. F49 RenaultR35 
+|InTheGame_research= 
+* The only thing that carries over from the Renault FT is the 25 mm Raccourci mle. F49 RenaultR35  1934 gun. F49 RenaultR35  Mount it immediately. F49 RenaultR35  
+* Start by researching the Renault V4 engine, if you don't already have it. F49 RenaultR35 
+* Next research the upgraded suspension for increased weight capacity and slightly faster traverse. F49 RenaultR35  This is necessary if you want to add equipment, but is otherwise optional. F49 RenaultR35 
+* Research the ER 54 radio so you'll have a better idea of what's going on around you. F49 RenaultR35 
+* Lastly research the 37 mm SA38 gun and the APX-R1 turret for slightly higher view range and a few more hit points. F49 RenaultR35 
+
+|InTheGame_equipment=Vents, Spall Liner, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+<div class="thumb tright">{{VideoYT|tMqbkQcDe9E|320}}</div>
+The French light tank development after WW1 consisted of a number of improvements to the original Renault FT. F49 RenaultR35  After a long line of experiments (one of the results of which was the Renault NC light tank), the French Infantry Command decided to develop a tank in the 12 ton category. F49 RenaultR35  This program culminated with the development of the 14 ton Renault D1, which was – size- and weight-wise – more like a medium tank. F49 RenaultR35 The D1 was plagued by a number of technical issues and was never a serious Renault FT replacement – 160 were made, which was only a drop in the sea of 3500 Renault FTs. F49 RenaultR35  The Infantry Command had to find another solution and the result was the R35 by Renault, a light tank that played a sad role in the French defeats of 1940. F49 RenaultR35 
+
+One of the most important reasons for further development of French tanks were the new discoveries and improvements to the armor-making technology. F49 RenaultR35  At that time, the armor plates were attached to each other usually by riveting. F49 RenaultR35  As far as bullet protection went, riveted armor was quite fine, but making it more resistant in order to withstand more serious hits was complicated. F49 RenaultR35  The first nation to partially utilize welding in armor assembly were the Germans in the 1920s, but since their tank program was still a secret by then, no-one actually knew about it. F49 RenaultR35 
+
+Another alternative approach to armor creation was casting. F49 RenaultR35  Even the first Renault FT’s had cast hull parts and turrets, but for a number of reasons this technology did not immediately become widespread. F49 RenaultR35  The French returned to it only in the early 1930s and even then it was limited to turrets. F49 RenaultR35  Using cast hull parts was actually a promising technology with the perspective of simplifying hull production – and cast hull parts were much sturdier than equal parts assembled by riveting. F49 RenaultR35  The first people who proposed to en masse introduce casting to tank production were the engineers from the Hotchkiss company from St. F49 RenaultR35 Denis (today, this town north of Paris is in fact one of the Parisian suburbs). F49 RenaultR35 
+
+Hotchkiss was a massive arms manufacturer at that time, introducing its first combat vehicle as early as in 1909 – but that was an armored car, Hotchkiss wasn’t initially interested in tank manufacturing. F49 RenaultR35  Nevertheless, the casting procedure technology, as proposed by the Hotchkiss engineers, caught the eye of the Infantry Command, since the technology was more suitable than anything else for 30mm armor or thicker. F49 RenaultR35  In addition to the technology itself, the Hotchkiss company also proposed to make a tank that the French infantry sorely lacked. F49 RenaultR35 
+
+[[image:Renault_ZM_mock-up. F49 RenaultR35 jpg|thumb|200px|left|Renault ZM mock-up (pay attention to the turret, that pattern was only used on the mock-up)]]
+
+
+
+
+
+
+
+The Hotchkiss project was great and all that, but the French Army wasn’t as reckless as to award such a project to a company that had never built tanks before. F49 RenaultR35  Instead, they formulated the demands for the new light infantry tank and issued them on 2. F49 RenaultR35 8. F49 RenaultR35 1933. F49 RenaultR35  This future tank was specifically intended to replace the hopelessly obsolete Renault FT and largely overlapped with the requirements issued for the Renault D1. F49 RenaultR35  These included:
+
+
+- 30mm of armor
+- armament consisting of either 2 MGs or a 37mm cannon
+- weight of 6 tons
+- crew of 2
+- maximum speed of 8-10 km/h (hardly an improvement over the Renault FT)
+
+Basically what the military ordered was in effect to be a better protected Renault FT, capable of withstanding heavy machinegun fire. F49 RenaultR35 
+
+[[image:Renaultr35s02-0e8dd0cec124e210b47ca5390605ddaa. F49 RenaultR35 jpg|thumb|200px|left|Renault ZM prototype during trials, the end of 1934]]
+
+
+
+
+
+
+
+This was not an accident of course – the infantry tactics haven’t practically changed since the First World War until the 1930s. F49 RenaultR35  The successes of Renault FT from 1918 created an illusion that using light infantry tanks en masse was the most effective way of tank use. F49 RenaultR35  This logic implied that the more tanks were produced, the better – but at the same time the wartime military budgets were cut drastically. F49 RenaultR35  Under these circumstances, large numbers of tiny cheap 2-man crew infantry tanks with relatively thick armor looked really attractive to the army. F49 RenaultR35  The fact that the rest of the world at that point started preferring speed and started considering tanks to be a separate military branch instead of just the means to support the infantry was something the French tacticians either completely missed, or wilfully ignored. F49 RenaultR35 
+
+14 companies in total reacted to the specifications from 2. F49 RenaultR35 8. F49 RenaultR35 1933, Renault being one of the first ones. F49 RenaultR35  At that time, Renault was the workhorse of the French tank industry and worked on a number of projects in parallel. F49 RenaultR35  One of them was the Renault VM tankette, built for cavalry used and later accepted in service under the designation of AMR-33. F49 RenaultR35  At the same time, Renault worked on yet another cavalry vehicle – Renault VO (the second project to bear the same name). F49 RenaultR35  These prototypes tested the new Renault concept of a light vehicle with transmission located in the front of the vehicle, which became the foundation for Renault’s new infantry tank. F49 RenaultR35  By the way, this concept was “borrowed” from the British – Renault VM was based on the Renault UE tractor, which in turn was based on the famous British Carden-Loyd tankette. F49 RenaultR35 
+
+[[image:Renaultr35s03-3284af9a2f268365e5ebea0d38ee101d. F49 RenaultR35 jpg|thumb|200px|left|The vehicle had good terrain passability despite the weight increase from 6 to 7. F49 RenaultR35 5 tons]]
+
+
+
+
+
+
+
+This new light infantry tank by Renault received the Renault ZM designation in 1934 when the development begun. F49 RenaultR35  The designers didn’t opt for any novel solutions and reworked the older Renault VM concept instead. F49 RenaultR35  The tank received a hull consisting mostly of cast parts and initially it was quite like a bloated cavalry tankette. F49 RenaultR35  The drive sprocket and transmission were located in the front of the vehicle, the combat compartment was moved a bit to the back. F49 RenaultR35  The driver was located in the hull, his position was shifted a bit to the left from the vehicle axis. F49 RenaultR35 
+
+This approach allowed the French to make the vehicle really compact. F49 RenaultR35  It was for example just a bit longer than the original Renault FT. F49 RenaultR35  Regardless of the combat compartment shift to the back, the engine was not located (unlike in Renault VM) directly next to the crew. F49 RenaultR35  The gearbox and transmission shaft were located on the right side and not under the crew compartment, allowing the designers to bypass one of the biggest flaws of this concept – excessive height. F49 RenaultR35  The suspension was not made from scratch either, the developers used the one from Renault VO. F49 RenaultR35 
+
+[[image:Renaultr35s04-0d4b842dad192d65c02d318565ba5296. F49 RenaultR35 jpg|thumb|200px|left|Renault ZM with APX-R turret, the Spring of 1935]]
+
+
+
+
+
+
+
+The prototype was armed with a pair of machineguns. F49 RenaultR35  The initial turret design (the turret was designed to be armed with a gun) resembled a hemisphere, shifted to the right of the vehicle axis, but the Renault engineers concluded after running some numbers that this setup would leave too little space inside. F49 RenaultR35  They overhauled the turret completely, an effort which resulted in a completely different design, resembling that of the Renault VM – only it used casting. F49 RenaultR35  Crew hatches were located on the back and on the top of the turret. F49 RenaultR35  The vehicle with this new turret underwent trials in the December of 1934, surpassing all competition – it’s true though that the requirements changed by that time already a bit. F49 RenaultR35 
+
+On the 22nd of May 1934, the equirement specifications were changed to an infantry support light tank. F49 RenaultR35  This included the following changes:
+
+- armor thickness increased from 30mm to 40mm (in order for the vehicle to withstand 25mm gun fire)
+- the requirement for a MG-only armament was removed
+- the maximum speed was increased to 15-20 km/h
+
+At that point, only 7 design companies were still in the “race” out of the original 14 and in reality the contracts were only signed with 4 of them:
+
+- Delaunay Belleville
+- Compagnie générale de Construction de Locomotives (Batignolles-Châtillon)
+- Forges et Chantiers de la Méditerranée (FCM)
+- Renault
+
+[[image:Renaultr35s05-9681f4fc3790514f13fa7d6eaa59f6d7. F49 RenaultR35 jpg|thumb|200px|left|Renault ZM improved design drawing with 40mm of armor
+]]
+
+
+
+
+
+
+
+Because Renault was already working on a prototype by the time the specs were changed, the initial Renault ZM prototype was based on the original specs. F49 RenaultR35  Renault did not bother to build another prototype – instead, they introduced on 20. F49 RenaultR35 12. F49 RenaultR35 1934 the reworked first prototype with 30mm armor to the appropriate military committee. F49 RenaultR35  Only the turret was made thicker (to 40mm), resulting in a weight increase from 6 to 7. F49 RenaultR35 5 tons. F49 RenaultR35  After the demonstration, additional changes were made to the prototype – for example, mudguards were installed and the exhaust muffler was moved from the back of the hull to the left side. F49 RenaultR35 
+
+[[image:Renaultr35s06-7f2c6e3a2cc4c5d14ca4388fddedb8ff. F49 RenaultR35 jpg|thumb|200px|left|Renault R35 No. F49 RenaultR35 50004]]
+
+
+
+
+
+
+
+The main change however was the new turret, installed on the vehicle in early 1935. F49 RenaultR35  It was developed by the engineers from APX (Ateliers de Puteaux), another important arms-making company. F49 RenaultR35  APX initially intended to present a 6-ton prototype light tank of its own, but failed to secure the funding for building of a prototype. F49 RenaultR35  This did not prevent APX from funding it on its own and on 18. F49 RenaultR35 4. F49 RenaultR35 1934 the APX engineers unveiled their APX-R turret. F49 RenaultR35  It was this turret that was eventually mated to the Renault ZM prototype. F49 RenaultR35  It was considerably better than Renault’s own design, but – what was more important – carried an armament based on the later specs: one 37mm SA18 gun and one MAC Mle. F49 RenaultR35 1931 MG. F49 RenaultR35 
+
+One thing that needs to be discussed separately is the tanks armament. F49 RenaultR35  The thing is, the SA18 gun, used on the Renault FT light tank, was already obsolete by 1926. F49 RenaultR35  The reasons why this gun appeared on this new vehicle were purely economic ones. F49 RenaultR35  The first reason was that the notoriously underfunded French infantry branch had to save money on practically everything, even on the metal for new tanks production. F49 RenaultR35  This was in fact one of the reasons for the appearance of what was basically just an improved version of Renault FT with thicker armor but in roughly the same weight category. F49 RenaultR35 
+
+The second reason was that there was a very large number of these guns produced and they were used in the obsolete FT’s. F49 RenaultR35  When in 1934 the French started re-arming the FT’s with MAC Mle. F49 RenaultR35 1931 machineguns, they didn’t re-arm only the machinegun variants but also the FT variants that carried guns before that. F49 RenaultR35  That left them with thousands of “free” guns. F49 RenaultR35  At the same time, those Renault FT’s that were too worn-out were phased out as well for scrap. F49 RenaultR35  This process also became a source of “free” guns. F49 RenaultR35 
+
+[[image:Renaultr35s07-67370a426559e9072a59f92e44b39e82. F49 RenaultR35 jpg|thumb|200px|left|Renault R35 – Front]]
+
+
+
+
+
+
+
+Eventually, the weight of the vehicle was increased even more, something that naturally had influence on its mobility. F49 RenaultR35  And finally, another big issue of the vehicle was the fact that it was actually really short, which meant that it had trouble crossing even average-sized trenches. F49 RenaultR35  This was eventually “solved” the same way it was nearly two decades ago – the vehicle received a “tail”, the same kind the Renault FT was equipped with. F49 RenaultR35 
+
+Regardless of these issues, the modified Renault ZM became the victor of the design competition – not that it was that great of a feat, mind you: Hotchkiss (the same company that was at the birth of the competition for next French light infantry tank) gave up and left the contest and all the other competitors were even worse compared to Renault’s design, requiring many changes and fixes to be suitable. F49 RenaultR35  Under the circumstances, the Infantry Command had no choice but to declare Renault the winner. F49 RenaultR35  Renault ZM was thus on 29. F49 RenaultR35 4. F49 RenaultR35 1935 accepted officially in service under the designation of Char léger Modèle 1935 R. F49 RenaultR35 
+
+The first production run was to consist of 300 vehicles that had registration numbers starting with 50001. F49 RenaultR35  Another production run followed and the French infantry finally received the long-awaited replacement for the obsolete Renault FTs. F49 RenaultR35 
+
+[[image:Renaultr35s08-18a186c8246e0e945c9864079859d3b6. F49 RenaultR35 jpg|thumb|200px|left|Renault R35 quickly became the working horse of French tank units]]
+
+
+
+
+
+
+In the meanwhile however, the vehicle suffered from more issues than just weak armament. F49 RenaultR35  Due to the changes made to the vehicle, the initial weight of 6 tons was actually increased to almost 11 tons. F49 RenaultR35  The original engine – 85hp Renault 447 – was sufficient to make the original variant mobile, but for nearly 5 extra tons it was woefully inadequate with only 7. F49 RenaultR35 7 hp/t. F49 RenaultR35 
+
+[[image:Renaultr35s09-8142895cc4c266ba9bd72c1f47bb6554. F49 RenaultR35 jpg|thumb|200px|left|Renault R35 during Normandy training in 1937
+]]
+
+
+
+
+
+
+Another issue turned out to be the suspension, originally developed for a cavalry tankette and more suitable for plains and hard surfaces than rough terrain. F49 RenaultR35  It clearly had trouble during off-road driving – five roadwheels were obviously not enough, the suspension itself had trouble crossing various ditches and other obstacles. F49 RenaultR35  Regardless, the total number of R35s produced was 1540 vehicles. F49 RenaultR35  The military actually ordered even more (1800 + 500 immediately after the war began) but these plans were never realized due to complicated circumstances. F49 RenaultR35 
+
+The Infantry Command partially “woke up” in 1937 and realized that the Renault R35 wasn’t exactly the best thing on the battlefield. F49 RenaultR35  They did not miss the lessons learned from the Spanish Civil War, lessons that would positively haunt them in the future. F49 RenaultR35  It turned out that during the war, large numbers of anti-tank guns were used by both sides, especially the German 37mm PaK. F49 RenaultR35  In the June of 1937, one R35 underwent firing trials where it was fired at from at first a 25mm AT gun and then from the 37mm PaK. F49 RenaultR35  The results were – to put it mildly – a nasty surprise. F49 RenaultR35 
+
+[[image:Renaultr35s10-ccf3e368e2311d80d723f98221bd9082. F49 RenaultR35 jpg|thumb|200px|left|Renault R35, shot up by AT guns during testing]]
+
+
+
+
+
+
+The tests have clearly shown that armor thickness by itself cannot guarantee solid protection. F49 RenaultR35  The issue with cast armor was that when compared to rolled armor plates of equal thickness, their durability was 10-15 percent lower. F49 RenaultR35  From 18 shots by 37mm PaK, 14 ended in penetrations. F49 RenaultR35  Neither the hull nor the turret posed a serious problem to the German gun. F49 RenaultR35 
+
+What was even worse however was the fact that out of 22 shots from the French 25mm AT gun, 13 also ended in penetrations. F49 RenaultR35  It’s no wonder that after such unexpected results, the French Infantry Comnmand started paying much more attention to the FCM 36 – although this vehicle was twice as expensive, it was protected by welded and well-sloped rolled armor plates. F49 RenaultR35  In addition to that, the FCM suspension turned out to be more suitable for off-road terrain. F49 RenaultR35 
+
+[[image:Renaultr35s11-76b34e0da5ee7eae2d18c52efacafec8. F49 RenaultR35 jpg|thumb|200px|left|Renault R35, experimentally equipped with a FCM turret (Tourelle FCM)]]
+
+
+
+
+
+
+But the deed was already done and under the circumstances there was no time for significant changes. F49 RenaultR35  Even though the FCM 36 would have been nice, it was also expensive and the production capacities of Forges et Chantiers de la Méditerranée were limited. F49 RenaultR35  Even Renault itself had issues with fulfilling the military contract, as a result of which the French Infantry Command also ordered 100 Hotchkiss H35 tanks (a roughly similar vehicle to R35). F49 RenaultR35 
+
+One of the most common solutions was – after the production of 1350 APX-R turrets – to equip the R35 tanks with FCM turret, originally used on FCM 36, which was considerable more protected than the original APX-R. F49 RenaultR35  Another issue came up however. F49 RenaultR35 
+
+[[image:Renaultr35s12-d3fecc8219633800d13c8bcd211b154d. F49 RenaultR35 jpg|thumb|200px|left|One of the few R35s equipped with the SA38 gun]]
+
+
+
+
+
+
+With the constant increases in armor, the French suddenly realized that the old SA18 gun cannot penetrate even light tanks on the battlefield. F49 RenaultR35  The answer to that was the rushed development of 37mm SA38, penetrating 29mm of armor at 100 meters. F49 RenaultR35  Of course, that was too little even for 1938 (by this time, the Germans started producing tanks with 30mm frontal armor) but it was nevertheless more than SA18′s 20mm penetration. F49 RenaultR35  Another thing that was later found out was the fact that the welds of the FCM turret would break under intensive shelling. F49 RenaultR35 
+
+As a result of these two factors, it was decided to install the new gun into the old APX-R turret. F49 RenaultR35  True, even this change took quite long, because apart from the R35, the H35 and H39 tanks by Hotchkiss also required the same re-arming. F49 RenaultR35  As a result, the SA38 became available for the R35 only at the end of its production run. F49 RenaultR35  One of the tanks that received this new gun was the vehicle registration number 51295. F49 RenaultR35  From that number alone, it’s possible to make the conclusion that there were fewer than 250 of these re-armed R35s in total. F49 RenaultR35  It’s however likely that there were even fewer than that – the analysis of photoghraphs shows that approximately one half of the vehicles produced after number 51295 were armed with the SA18 still. F49 RenaultR35 
+
+[[image:Renaultr35s13-1d3ac1b7434f40d0f9b41e11bd4b4ca4. F49 RenaultR35 jpg|thumb|200px|left|R35, destroyed by the Germans in May-June 1940]]
+
+
+
+
+
+
+The results of the obsolete French tank doctrine (based on First World War) became obvious during the French campaign of the Second World War. F49 RenaultR35  Interestingly enough, the first soldiers to actually try the R35s in battle were the Polish – the Polish army received 50 such vehicles, but for a number of reasons (including insufficient training) the results of these vehicles in Polish service during the Polish campaign were very poor. F49 RenaultR35  A part of these vehicles were captured by the Germans and the Red Army in working condition. F49 RenaultR35  Generally it can be said that the Polish 7TP tanks had higher combat value as they were more mobile and were able to penetrate any German tanks of that period. F49 RenaultR35 
+
+As for the results of the R35 in France – the R35 was the most common French tank during WW2 (with the exception of the completely obsolete Renault FT), but it was a war it was not ready or suitable for. F49 RenaultR35  There were no massive attacks of hundreds of small light tanks against fixed lines like they were in WW1, and the enemy the R35 had to fight was highly mobile. F49 RenaultR35  The tank battalions equipped with R35s were mostly static with little hanging on their performance. F49 RenaultR35 
+
+An improved version, the Renault R40, was developed to address these shortcomings. F49 RenaultR35  The main issue was the suspension, as the R35's was designed for a much lighter tank. F49 RenaultR35  The R40 had a new suspension system developed by AMX with 12 road wheels per side as well as the 37mm SA38 gun. F49 RenaultR35  This new suspension allowed for much greater off-road performance. F49 RenaultR35  At least 130 were built, starting in March 1940. F49 RenaultR35  None survive to this day. F49 RenaultR35 
+
+
+|HistoricalGallery= 
+image:Renault-R-35-latrun-2. F49 RenaultR35 jpg{{!}}R 35 in the Yad La-Shiryon museum
+image:Renault_R35_KingFerdinandMuseum. F49 RenaultR35 JPG{{!}}A Renault R35 tank on display at King Ferdinand National Military Museum, Bucharest. F49 RenaultR35 
+File:R35_with_37mm_SA38. F49 RenaultR35 jpg{{!}}Close-up of a Renault R35 equipped with the 37mm SA38 at the Musée des Blindés
+File:R40_with_40th_tank_battalion. F49 RenaultR35 jpg{{!}}Renault R40 of the 40th Tank Battalion (BCC, Bataillon de Chars de Combat) in May 1940
+File:Renault_R40_from_the_48th_BCC. F49 RenaultR35 jpg{{!}}Renault R40 from the 48th BCC
+File:Vânătorul_de_Care_R-35. F49 RenaultR35 jpg{{!}} A Romanian modification of the R35 with a Soviet 45mm 20K gun, known as the Vânătorul de Care R-35
+File:Vânătorul_de_Care_R35_at_Znojmo_Railway_in_1945. F49 RenaultR35 jpg{{!}}Vânătorul de Care R-35 at Znojmo Railway in 1945
+File:Vanatorul_de_care_R35_turret. F49 RenaultR35 jpg{{!}}The only known remaining part of a Vânătorul de Care R-35 
+
+|HistAcc=
+Uses the same SA38 gun as the [[Pz. F49 RenaultR35 Kpfw. F49 RenaultR35  38H 735 (f)]], yet their penetration values are inconsistent. F49 RenaultR35 
+* Uses the same APX-R1 turret as the Pz. F49 RenaultR35 Kpfw. F49 RenaultR35  38H 735 (f), yet their rate of fire, dispersion and aiming time values are inconsistent. F49 RenaultR35 
+* The 25 mm gun configuration is fake. F49 RenaultR35 
+* The R40 suspension refers to a variant of the R35 with an improved suspension similar to the [[AMX 38]]. F49 RenaultR35  In World of Tanks, however, mounting the R40 suspension does not alter the R35's in-game model; it still uses the original horizontal rubber cylinder springs. F49 RenaultR35 
+
+|Ref_references=
+
+|Ref_sources=
+*Centre des archives de l'Armement et du personnel civil (CAAPC)
+*Renault R35/R40, Pascal Danjou, TRACKSTORY №4, 2005
+*Renault R35/R40, Pascal Danjou, Focus №7, 2010
+*The Encyclopedia of French Tanks and Armoured Fighting Vehicles: 1914–1940, Franзois Vauvillier, Histoire & Collections, 2014
+
+|Ref_links=
+*https://ftr. F49 RenaultR35 wot-news. F49 RenaultR35 com/2016/06/28/renault-r35-development-part-1/
+*https://ftr. F49 RenaultR35 wot-news. F49 RenaultR35 com/2016/06/29/renault-r35-development-part-2/
+*https://warspot. F49 RenaultR35 ru/6356-menshe-da-bolshe
+*https://ftr. F49 RenaultR35 wot-news. F49 RenaultR35 com/2016/07/06/renault-r35-variants-in-german-service-part-1/
+*https://ftr. F49 RenaultR35 wot-news. F49 RenaultR35 com/2016/07/16/renault-r35-variants-in-german-service-part-2/
+*https://warspot. F49 RenaultR35 ru/6407-uslovno-godnyy
+*https://tankarchives. F49 RenaultR35 blogspot. F49 RenaultR35 com/2017/06/renault-r-40-incorrigible. F49 RenaultR35 html
+*https://www. F49 RenaultR35 tanks-encyclopedia. F49 RenaultR35 com/ww2/romania/vanatorul-de-care-r35/
+
+}}

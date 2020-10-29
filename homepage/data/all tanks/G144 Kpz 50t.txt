@@ -1,0 +1,40 @@
+{{TankData|Tank=
+| 
+
+| Gallery=
+File: = Kampfpanzer 50 t art 1. G144 Kpz 50t jpg
+
+| InTheGame_pros=
+* Good penetration, shell velocity and accuracy
+* Strong turret face and thick, pike-nosed upper glacis
+* Good gun depression
+* Excellent top speed and good acceleration
+* Good camouflage
+
+|InTheGame_cons=
+* Low alpha damage and DPM
+* Not the best gun handling
+* Very poor side and rear armor
+* Fairly slow hull traverse speed
+* Very difficult to obtain
+
+|InTheGame_performance=
+
+|InTheGame_research=
+This is a premium vehicle, it comes elite in its stock configuration. G144 Kpz 50t 
+
+|InTheGame_equipment=
+Coated Optics, Tank Gun Rammer, Vents, Vertical Stabilizer
+
+|External_Reviews=
+
+|History=
+
+|HistAcc=
+
+|HistoricalGallery=
+
+}}
+
+= Links =
+{{Wotreplays|1431|Kampfpanzer 50 t}}

@@ -1,0 +1,72 @@
+{{TankData|Tank=G_Panther
+|It is a good artillery for its tier, with the widest (along with the [[M37|M37]]) gun traverse arc of any non-turreted artillery thanks to its limited turret rotation - making it easy to move to new targets without having to move the hull of your tank. G49 G Panther  The GW Panther starts with the [[Hummel]]'s gun, but gets a more accurate and powerful gun once researched. G49 G Panther  The GW Panther cannot excel in the role of a [[Tank Destroyers|tank destroyer]], as the Hummel did due to its size and lack of gun depression, but it can do the job in an emergency. G49 G Panther  The GW Panther is decently mobile for a tier 7 SPG, which gives the player a chance to relocate in the event of detection. G49 G Panther  It is nicknamed "Dracula", due to its Dracula cape-like armour on the rear and side of its gun. G49 G Panther  
+
+|Gallery=
+image:GW Panther front view 1. G49 G Panther jpg‎{{!}}GW panther front left view
+image:GW Panther front view 2. G49 G Panther jpg‎{{!}}GW Panther front right view
+image:GW Panther back view 1. G49 G Panther jpg‎{{!}}GW Panther back left view
+image:GW Panther back view 2. G49 G Panther jpg‎{{!}}GW Panther back right view
+image:Ingame_GW_Panther-1. G49 G Panther jpg{{!}}GW Panther, map Siegfried line
+image:Ingame_GWPanther-2. G49 G Panther jpg{{!}}GW Panther, Prokhorovka map
+image:Ingame_GWPanther-3. G49 G Panther jpg{{!}}GW Panther, Prokhorovka map
+image:GWPanther-1. G49 G Panther jpg{{!}}GW Panther, map Ensk
+
+|InTheGame_pros=
+* Very good accuracy allows consistent team supporting fire
+* Good mobility for an artillery piece, able to relocate and move around the map
+* Wide firing arc means minimal aiming resets
+* Low shell arc means low shell travel time
+* Decent reload speed (Good crew can get below 22 seconds)
+* Can mount everything without top suspension
+
+|InTheGame_cons=
+* Not the best camouflage value
+* Low shell arc makes shooting over cover difficult
+* Not the best splash or stun, but much better than Pre-9. G49 G Panther 18
+* 5 man crew, no Radio Operator, makes crew transfers to and from SPG to other SPGs in the line difficult
+
+|InTheGame_performance=
+Slightly more sluggish than the Hummel, the GW Panther trades some mobility for firepower. G49 G Panther   Thankfully however, it doesn't give much away for a large gain in power; maintaining maneuverability and speed compared to the other Tier 7 SPGs. G49 G Panther   
+
+The G. G49 G Panther W. G49 G Panther  Panther is a very solid SPG, having struggled a bit after the 8. G49 G Panther 6 SPG nerfs (though not as much as the other SPG's) the 9. G49 G Panther 18 SPG rebalance turned this SPG back into a truly formidable opponent. G49 G Panther  With a skilled crew and equipment, a player can expect to have an under 22-second reload time, the best in tier for Artillery, and 0. G49 G Panther 58 accuracy without food (0. G49 G Panther 62 originally). G49 G Panther  This is better accuracy than a standard KV-2 running the 152mm, and the best accuracy in tier for SPGs. G49 G Panther  And with the 3rd best Aim Time in tier for SPGs at 5. G49 G Panther 1 coupled with your semi-turret gun arc means that a well-positioned, and well-versed G. G49 G Panther W. G49 G Panther  Panther driver can provide accurate long-range support for his/her team with ease. G49 G Panther 
+
+And when the going gets tough, the SPG has the second best-in-class top speed for its tier, making a quick get-away possible. G49 G Panther  That said, the Power-to-Weight ratio is the 3rd worst in class at tier 7. G49 G Panther  The SPG tank traverse however is 2nd in class for its tier, meaning that you do not lose as much speed when cornering, compared to some of the other SPGs. G49 G Panther  Coupled with 'Clutch Braking' and 'Off Road Driving' you can up this to 30+ degrees a second allowing you to further maintain your hard-gained speed when escaping from a fallen flank. G49 G Panther 
+
+This SPG is often a favourite in class at this tier for avid SPG players and a "keeper" tank due to its reliable and accurate gun, decent mobility, and good Rate of Fire. G49 G Panther  This is also coupled with the fact that the Commander is playing as your Radio Operator making this a 5 man SPG rather than the 6 man crew of the Hummel and G. G49 G Panther W. G49 G Panther  Tiger P, G. G49 G Panther W. G49 G Panther  Tiger, and G. G49 G Panther W. G49 G Panther  E-100. G49 G Panther  This means that it is possibly in ones best interest to train a new crew for just this SPG unless they are willing to let one crew man go without one whole tank grinds worth of Skill/Perk experience which is generally considered to not be a good idea. G49 G Panther . G49 G Panther . G49 G Panther 
+
+|InTheGame_research=
+* Research and mount upgraded 15 cm s. G49 G Panther F. G49 G Panther H. G49 G Panther  43 gun
+* Research Engine
+* Research Suspension
+
+
+|InTheGame_equipment= Medium-Caliber Artillery Shell Rammer, Enhanced Gun Laying Drive, Camouflage Net
+
+
+|History=
+
+In 1942, German designers started the development of a new series which would utilize chassis and components of various tanks and use them as mountings for various heavy weapons. G49 G Panther  Designs of the Grille Series incorporated many new technical modifications in order to mount heavy weapons. G49 G Panther  Some vehicles of the Grille Series were designed to be weapon carriers - Waffenträger. G49 G Panther  Some of those vehicles reached prototype stage, but none of them entered production that was planned for mid 1945. G49 G Panther  The Grille 12/15 was one such project, and was to be based on a Panther chassis. G49 G Panther 
+
+
+The Grille 12/15 had wooden models ready in January 1943, and prototype vehicles were to be ready by September 1943. G49 G Panther  However, it was decided in April that year to only produce one prototype, and eventually the Grille was cancelled late in 1943. G49 G Panther  Only a wooden mock-up was ever produced. G49 G Panther 
+
+|HistAcc=
+* The G. G49 G Panther W. G49 G Panther  Panther's historical name was the “12,8cm K. G49 G Panther  43 (Sfl. G49 G Panther ) Kp. G49 G Panther II” or the Grille 12/15
+* The SPG historically had a 128 mm K43 gun, but was up-gunned to the 15 cm gun used by other Krupp Panther SPG proposals. G49 G Panther 
+
+|HistoricalGallery=
+image:GW Panther 1. G49 G Panther jpg{{!}}Drawing of the mock-up of the G. G49 G Panther W. G49 G Panther  Panther. G49 G Panther 
+File:Removable_G. G49 G Panther W. G49 G Panther _Panther_turret. G49 G Panther jpg{{!}}Blueprint of the G. G49 G Panther W. G49 G Panther  Panther. G49 G Panther  Its turret could be removed and used as a fixed emplacement. G49 G Panther 
+File:G. G49 G Panther W. G49 G Panther _Panther_turret_as_emplacement. G49 G Panther jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://ftr. G49 G Panther wot-news. G49 G Panther com/2014/08/19/gw-panther/
+* https://ftr. G49 G Panther wot-news. G49 G Panther com/2013/07/11/special-panthers-part-ii-waffentrager-panther/
+
+}}

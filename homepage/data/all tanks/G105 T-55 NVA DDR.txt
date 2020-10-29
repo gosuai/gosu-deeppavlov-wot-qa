@@ -1,0 +1,58 @@
+{{TankData|Tank=
+|The T-55A is available as a reward for completing the third set of Personal Missions. G105 T-55 NVA DDR 
+
+|Gallery=
+
+File:T 55A scr 1. G105 T-55 NVA DDR jpg
+File:T 55A scr 2. G105 T-55 NVA DDR jpg
+File:T 55A scr 3. G105 T-55 NVA DDR jpg
+
+
+|InTheGame_pros=
+* Arguably superior gun to both the D-54 and vanilla D-10T2S, has high RoF yet retains good pen, accuracy and handling
+* Vastly superior ground resistance to the T-54 while retaining the same power to weight ratio
+* Retains excellent turret and side armor of the T-54
+* Slightly better view range than the T-54
+* Above-average sized HP pool, tied for 2nd in tier
+
+|InTheGame_cons=
+* Weaker hull armor than T-54, similar to [[WZ-120]]
+* Lower top speed than the T-54
+* Bad gun depression and even worse elevation. G105 T-55 NVA DDR 
+* Prone to driver death and ammo rack damage
+* Doesn't work well as credit OR crew grinder due to high ammo cost and unique crew setup
+
+|InTheGame_performance=
+The T 55A is similar to the T-54, yet has more in common with the [[T-62A]]. G105 T-55 NVA DDR  The noticeably weaker hull armor doesn't allow you to be as aggressive as in a T-54, however, your turret armor and side armor are the same, so you still can sidescrape or stay hull down if possible and needed. G105 T-55 NVA DDR  Your superior gun handling gives you the edge and makes snap shots extremely potent and likely to hit even on the move. G105 T-55 NVA DDR  Therefore, you should focus more on flanking and quick snap shots, however, your short aim time combined with the very good accuracy also makes long range fights a real option. G105 T-55 NVA DDR  If caught in a close encounter, fear not -- the D-10T2S gun also has a high rate of fire only seconded by the same gun on the T-54 (that doesn't handle really well), the Obj. G105 T-55 NVA DDR  430 II (which is a sniping tank with limited gun traverse, not so competitive in this case) or a few smaller calibre guns on other tanks. G105 T-55 NVA DDR  There will always be some advantage to exploit: either to trade, to simply outgun, or to land the crucial first shot with more precision. G105 T-55 NVA DDR  
+
+The reduced top speed in comparison is perceptible, but not dramatic. G105 T-55 NVA DDR  In most cases, your quick acceleration and very good terrain resistance values make you no less as mobile. G105 T-55 NVA DDR 
+
+Beware of ammo costs - this tank is not a true "premium", it is just a reward "Elite" tank with the ability to train crews from other German mediums, and still retains very expensive ammo like the T-54. G105 T-55 NVA DDR  Especially premium ammo. G105 T-55 NVA DDR  Shooting pure premium ammo will burn your credits considerably faster than any other tank in the game. G105 T-55 NVA DDR 
+
+|InTheGame_research=
+Special vehicle, comes elite in its stock configuration. G105 T-55 NVA DDR 
+
+|InTheGame_equipment=Vertical Stabilizer, Coated Optics, Tank Gun Rammer, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+{{VideoYT|PbPyUBXFprw|320}}{{VideoYT|TEDhB9evPvw|320}}{{VideoYT|eWsxae3a9eY|320}}
+
+|HistAcc=
+Uses the same D-10T2S gun as the [[T-54]], yet the penetration values of the armor-piercing shell are inconsistent. G105 T-55 NVA DDR 
+* The T-55A is considerably more faster than in reality, with an engine power of 750 hp compared to the historical 580. G105 T-55 NVA DDR 
+
+|HistoricalGallery=
+File:Technical_drawing_T55A_right_up_front. G105 T-55 NVA DDR jpeg{{!}}Technical drawing of T55A front right up
+File:Tank_scrapping_T55a_east_germany_1989. G105 T-55 NVA DDR jpeg{{!}}Tank scrapping T55a East Germany 1989
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

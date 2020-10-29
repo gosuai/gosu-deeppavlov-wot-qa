@@ -1,0 +1,62 @@
+{{TankData|Tank=SU-5
+|It can be considered as the worst of the whole USSR branch if in the hand of a low-skilled player, but it is actually much better than its predecessor [[SU-26]] due to its 3rd weapon upgrades, the 152mm mortar NM mod. R14 SU-5  1931, a lethal weapon conbining huge alpha damage with incredible penetration value and explosion radius, as well as a ridiculously high vertical shell arc, best of all tier IV SPGs, even better than many tier V ones. R14 SU-5  However, the 152mm mortar has two significant disadvantage: very short range and low ammo count. R14 SU-5  Stock, it starts with the underpowered 76mm Howitzer. R14 SU-5  Prior to 8. R14 SU-5 6, you could have spent the effort to get the 122mm howitzer with the SU-26 and thus, can start with that. R14 SU-5  Considering that the 122mm was removed from the SU-26, however, this would perhaps make the grind somewhat more difficult. R14 SU-5  Some players even prefer the 122mm howitzer to the 152mm mortar, because of its higher ammo count, and also it's increased rate of fire. R14 SU-5 
+
+|InTheGame_pros=
+* Long gun range coupled with decent ammo capacity and respectable damage when mounting the 122mm howitzer. R14 SU-5 
+* Insanely high gun elevation, especially with the 152mm mortar. R14 SU-5 
+* With the 152mm mortar, the SU-5 lobs shell at a high vertical arc. R14 SU-5 
+* Acceptable mobility for relocation. R14 SU-5 
+
+|InTheGame_cons=
+* Inadequate 76mm howitzers, painful stock grind due to the 76mm's low alpha damage and the SU-5's narrow horizontal gun arc. R14 SU-5 
+* Quite sluggish. R14 SU-5  Any tank that has spotted the SU-5, can destroy it with ease. R14 SU-5 
+* Poor view range. R14 SU-5 
+* Poor ammo capacity when mounting the 152mm mortar. R14 SU-5 
+* Very slow shell travel time on all its guns. R14 SU-5 
+* 122mm howitzer and 152mm mortar both have terrible dispersion and aim time for a tier 4 SPG. R14 SU-5 
+
+|InTheGame_performance=
+At first, this SPG doesn't seem so good compared to its tier 4 counterparts. R14 SU-5  It has neither the Pz. R14 SU-5  Sfl. R14 SU-5  4B's versatility, nor the AMX 105AM's mobility, nor even the M37's ammo capacity to back its rate of fire. R14 SU-5  This is because its most powerful advantages are not easily figured out - high shell arc, accuracy and high penetration HE. R14 SU-5 
+
+At stock, the SU-5 is a terrible SPG to play, coupling the 76mm howitzer's low alpha damage with the SU-5's narrow gun traverse. R14 SU-5  It is highly recommended that you research and mount the 122mm howitzer as soon as possible, otherwise you will just be dead weight for your team. R14 SU-5 
+
+With the 122mm howitzer, you have good range that can cover a large portion of the map, however, the horrible accuracy makes long-range fire risky. R14 SU-5  You should move up with your team, choose a good firing spot, lock hull and patiently aim at large, sluggish heavy tanks - larger target size means more chance for a direct hit. R14 SU-5  The 122mm combines many good points for a SPG gun: good range, acceptable ammo capacity, average rate-of-fire and average vertical shell arc. R14 SU-5  If you like the 122mm, you do not need to move on, but it is recommended to try out the 152mm mortar that the SU-5 is famous for, before choosing your favorite among the two. R14 SU-5 
+
+With the 152mm mortar, you have only 12 rounds in the rack, so you must make every shot count. R14 SU-5  The 152mm mortar nullifies cover with a high arc, so you can expect a lot of good shots on enemies who think that they are safe from SPG fire. R14 SU-5  Be patient, wait for the aim circle to shrink to its minimum size while predicting enemy movements is the only way to guarantee a hit. R14 SU-5  Your rounds deals around 160 damage to tier V, VI and some VII heavy tanks; however, there is a chance that you will hit a weak spot and deal about 400 damage - a slap in the face to tier V heavy tanks. R14 SU-5  Against light tanks, medium tanks, TDs, SPGs and certain "soft" heavies, like the KV-1S, KV-85, you can reliably derp them for 450 damage every shell. R14 SU-5  Due to the gun's short range, move up one flank and calculate so that enemies are right within the outer part of your range - your vertical shell arc is highest there. R14 SU-5  With the top radio, calculating your range is easy since the radio range is roughly equal to your gun range. R14 SU-5  Choose the flank where more allies are flocking to, you do not want the front line to break before you can land a shot. R14 SU-5  Aim behind cover where enemies tend to hide, picking on still targets, especially bigger ones. R14 SU-5  Moving tanks are much harder to shoot at, but if one is moving predictably, like in and out of cover, you can easily land a calculated shot. R14 SU-5  Thanks to the high damage, high penetration, good explosion radius and decent accuracy at such range, you can damage anyone you see. R14 SU-5  As long as you aim carefully and plan your shots, your SU-5 can contribute greatly to the team. R14 SU-5  After 9. R14 SU-5 18 changes the first two guns became somewhat usable because of high Rate of fire, but they still aren't very good choices 
+
+
+|InTheGame_research=
+* All of the radios and engines carry over from the SU-26, though not the 122 mm Howitzer mod. R14 SU-5  1930 gun as of 8. R14 SU-5 6. R14 SU-5  Install the T-26F engine and 12LL radio immediately. R14 SU-5 
+* Everything can be mounted without upgrading the suspension (Upgrading everything except the suspension brings it to a total weight of 10. R14 SU-5 35t out of 10. R14 SU-5 49t) so research the 152 mm Mortar NM mod. R14 SU-5  1931 quickly, though it will take a long time due to the terribly inadequate 76 mm gun. R14 SU-5 
+* You can now research the suspension
+* Depending on your play style, you can either stay with the 122mm or switch to the 152mm mortar for improved damage/penetration. R14 SU-5 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+image:Su5a. R14 SU-5 jpg{{!}}Front right
+image:Su5b. R14 SU-5 jpg{{!}}Front left
+image:Su5c. R14 SU-5 jpg{{!}}Rear right
+image:Su5d. R14 SU-5 jpg{{!}}Rear left
+
+|History=
+[[image:SU-5_SU-5-1. R14 SU-5 jpg|thumb|200px|right|Self-propelled gun SU-5-1 armed with 76. R14 SU-5 2 mm divisional gun mod. R14 SU-5  1902/30. R14 SU-5 ]]
+The SU-5 is another T-26 variant. R14 SU-5   Three prototypes were built in 1934 with a further 30 vehicles produced in 1936. R14 SU-5 
+
+* SU-5-1 — Self-propelled gun armed with the 76. R14 SU-5 2 mm divisional gun mod. R14 SU-5  1902/30 (open-top type, the single vehicle was built in 1934). R14 SU-5 
+* SU-5-2 — Self-propelled gun armed with 122 mm howitzer mod. R14 SU-5  1910/30 (open-top type; a single vehicle was built in 1934 and a further 30 vehicles in 1936). R14 SU-5 
+* SU-5-3 — Self-propelled gun armed with 152. R14 SU-5 4 mm divisional mortar mod. R14 SU-5  1931 (open-top type, a single vehicle was built in 1934). R14 SU-5 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://en. R14 SU-5 wikipedia. R14 SU-5 org/wiki/T-26_variants#Self-propelled_guns Wikipedia]
+}}

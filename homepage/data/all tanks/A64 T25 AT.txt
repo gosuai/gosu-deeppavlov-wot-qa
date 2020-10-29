@@ -1,0 +1,110 @@
+{{TankData|Tank=T25_AT
+|When stock, the 90 mm AT Gun M3 is adequate for its tier and the speed is able to get you where you need to go in short time. A64 T25 AT  When fully upgraded, the T25 AT is a fantastic tank destroyer to play, being very fast, and armed with the 105 mm AT Gun T5E1, it can provide fire support wherever needed. A64 T25 AT  The T25 AT's armor is quite lacking, but the mantlet is not small and can bounce higher tier shells. A64 T25 AT  Because of its lack of armor and hitpoints, it is recommended that you avoid direct firefights with higher tier tanks. A64 T25 AT  One thing that is impressive on this tank destroyer is its deep gun depression, which can come in handy in certain situations. A64 T25 AT  The relative rarity of the T25 AT, compared to similar vehicles like the [[Jagdpanther]], is most likely due to its position in the Tech tree. A64 T25 AT  Many players who wish to play the turretless American TDs grind the other, more popular, American TD line to the [[T28 Prototype]] and go from there to the [[T28]]
+
+|Sidebar_Camostop=19. A64 T25 AT 7
+|Sidebar_Camomove=12. A64 T25 AT 0
+|Sidebar_Camofire=6. A64 T25 AT 0
+|Sidebar_Passhard=1. A64 T25 AT 151
+|Sidebar_Passmed=1. A64 T25 AT 342
+|Sidebar_Passsoft=2. A64 T25 AT 205
+|Sidebar_DispTurret=0. A64 T25 AT 115
+|Sidebar_DispRecoil=3. A64 T25 AT 836
+|Sidebar_DispAccel=0. A64 T25 AT 221
+|Sidebar_DispTurning=0. A64 T25 AT 221
+
+|InTheGame_pros=
+* Very mobile, top speed, acceleration and traverse are all outstanding, on par with same tier medium tanks
+* Good penetration, alpha, aiming time, RoF and DPM on top gun
+* Good gun handling on all guns, good gun arc and deep gun depression, favorable gun placement 
+* Good camouflage value, between Su-122-44 and Jagdpanther
+* Easier stock grind than the [[T25/2]]
+* Adequate mantlet armor; the sloped frontal armor becomes even more angled when using the gun depression to the max
+
+|InTheGame_cons=
+* The slope and the thickness of the frontal armor is not enough to bounce same-tier shells when on level ground, and littered with obvious weakspots
+* Poor side and rear armor
+* Mediocre viewrange (350 m); medium and light tanks can sometimes outspot you
+* Expensive shell cost; poor gameplay can hurt your currency
+* Generally outclassed by [[Jagdpanther]], being only marginally faster
+
+|InTheGame_performance=
+If you have played the [[Jagdpanther]], you will find they play fairly similarly. A64 T25 AT  The T25AT is a tank that can do several jobs decently well, but is not truly a master of any. A64 T25 AT 
+
+The tank is great for locating to an excellent spot in which is can provide sniper support, as it's 105mm has both good damage and penetration (though aiming for the sides of tanks is still highly recommended). A64 T25 AT  But with tanks such as the Hellcat in similar MM, those spots may get taken before you get there, forcing you to move on to possibly less-then optimal locations. A64 T25 AT 
+
+The tank is a good urban brawler and flank tank. A64 T25 AT  It's speed and acceleration, combined with its high maneuverability allow it to quickly relocate behind the enemy to attack when their attention is drawn to the heavies and mediums in front of them. A64 T25 AT  Again, though it maybe good at this, other lighter tanks, especially with turrets are better in this respect as they don't need to traverse the entire corner to shoot, thus reducing the opening the enemy has to fire. A64 T25 AT 
+
+Due to it's very nice gun depression, the tank makes an excellent hill shooter. A64 T25 AT  On maps defined by their hilly terrain that can be driven up and shot over, the T25AT (thanks in part to it's powerful engine) has no problem climbing these hills to quickly pop over and shoot with it's gun aimed full down. A64 T25 AT  Once more, while the tank does well in this regard, it unfortunately means exposing itself to enemy fire that if the driver isn't quick enough, and with it's lack of armour, can mean being severely damaged. A64 T25 AT 
+
+The tank can be an excellent end game hunter and scout. A64 T25 AT  Whether the enemy team has only its SPGs left, or has a few speedy and pesky lights and mediums, either scooting around or pushing a base cap, the T25AT can hold its own very well in terms of speed as the driver tries to find them and mark their locations known to their team, and with firepower that outshines many mediums and lights at it's tier, can also quickly finish them off. A64 T25 AT  But again, with speedier light tanks and mediums with potentially better armour should a firefight ensue, there sits the potential for the tank to be out-maneuvered and over run, there are again better choices that can be had. A64 T25 AT 
+
+The T25AT's combination of speed, gun depression, firepower and maneuverability make it a tank that shouldn't be taken lightly by people facing off against one, yet it's lack of armour and turret mean that it's also a tank that can be exposed to great risk and can easily be exploited by those attacking it. A64 T25 AT 
+
+Players must be aware of the tank's limitations so as to play the tank to its fullest -a well played T25AT can easily do upwards of 1800+ damage a match- but at the same time not let the limitations hold them back from fully utilizing its strengths to their advantages. A64 T25 AT  The lack of a turret -usually the biggest complaint lodged against the T25AT- should not deter anyone from picking one up and playing it, as the T25AT is one the most rewarding and fun tanks in the game. A64 T25 AT 
+
+
+N. A64 T25 AT B. A64 T25 AT  The 105 mm gun is also used on the [[T28 Prototype]]. A64 T25 AT  Unlocking it on the T25 AT will make the grind on the [[T28 Prototype]] much easier. A64 T25 AT 
+
+
+|InTheGame_research=
+*Radio carries over from the Jackson. A64 T25 AT 
+
+*Get the 105mm as fast as you can. A64 T25 AT  
+*Get the upgraded suspension, as it is necessary to mount any equipment weighing more than 100kg. A64 T25 AT 
+*Finish by researching the AV-1790-1 engine. A64 T25 AT 
+
+
+Alternatively, if you wish to use equipment (gun rammer/binoculars and camouflage net) at all times:
+
+*Start by researching the T15E2 gun. A64 T25 AT  This will need to be researched before the 105 can be researched. A64 T25 AT  It will help you get to the next upgrades a little easier. A64 T25 AT 
+*Get the upgraded suspension, as it will be necessary to equip the 105mm with equipment of more than 100kg. A64 T25 AT 
+*Get the 105mm. A64 T25 AT 
+*Finish by researching the engine. A64 T25 AT 
+
+|InTheGame_equipment= Tank Gun Rammer, Enhanced Gun Laying Drive, Binocular Telescope, Camouflage Net, Improved Ventilation class 2
+
+ 
+|Gallery=
+image:T25_AT_001. A64 T25 AT jpg{{!}}T25_AT_001
+image:T25_AT_002. A64 T25 AT jpg{{!}}T25_AT_002
+image:T25_AT_003. A64 T25 AT jpg{{!}}T25_AT_003
+image:T25_AT_004. A64 T25 AT jpg{{!}}T25_AT_004
+
+|History=
+
+With encounters with German Tiger tanks in Tunisia, tanks crews were wanting a tank with bigger guns than 75 mm and 76 mm. A64 T25 AT 
+In March 1943 a new turret was fitted with a 90 mm AA gun and put onto a T23 model. A64 T25 AT 
+
+The Army Service Forces placed an order for 50 of these tanks. A64 T25 AT 1 10 of these were to be T26s. A64 T25 AT  The first T25s were completed until early 1944. A64 T25 AT 
+
+A request for 8,000 T25s and T26s with 75 mm and 76 mm guns was rejected. A64 T25 AT 
+
+Development
+
+The T23 medium tank was a development of the T20 medium tank, with a Ford GAN V8 engine with electric transmission. A64 T25 AT  The T20 medium tank would eventually develop into the M26 Pershing. A64 T25 AT 
+
+The T25 tank destroyer comes from 1943 models of a T23 medium tank chassis mounting a modified version of a 90 mm AA gun which eventually became the M3 90 mm gun. A64 T25 AT  
+
+|HistAcc=
+* The in-game model appears different from the wooden model, presumably to make the chassis and suspension more resemble the T23 rather than the T1/M6 that it does in the wooden model. A64 T25 AT 
+* The wooden model upon which the T25 AT is based was never named. A64 T25 AT  The name T23 AT would have been more appropriate, as the vehicle is based on the T23 medium tank rather than the (American) T 25. A64 T25 AT 
+* The wooden model is described as having been fitted with a 90mm gun. A64 T25 AT  There are no known plans to have mounted the 105mm gun on it. A64 T25 AT 
+
+|HistoricalGallery=
+image:T23 wooden. A64 T25 AT jpeg{{!}}The wooden model upon which the T25 AT is based, described in '''<i>Pershing: A History of the American Medium Tank T20 Series</i>''' as a T23 chassis mounted with a 90mm gun. A64 T25 AT 
+File:T23_with_vertical_volute_suspension. A64 T25 AT jpg{{!}}T23 medium tank with vertical volute suspension. A64 T25 AT  Note the similarities in the suspension with the T25 AT. A64 T25 AT 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Hunnicutt, R. A64 T25 AT P. A64 T25 AT , 1971, '''<i>Pershing: A History of the American Medium Tank T20 Series</i>''', Presidio Press, 240p,  ASIN:B0006CEM9W
+
+|Ref_links=
+
+* [https://www. A64 T25 AT wwiivehicles. A64 T25 AT com/usa/tanks-medium/t25. A64 T25 AT asp '''T25 and T26'''] Photos & history. A64 T25 AT 
+* [https://ftr-wot. A64 T25 AT blogspot. A64 T25 AT cz/2013/04/fake-american-vehicles. A64 T25 AT html] Inaccuracies of the in-game tank along with other American tanks
+* [https://ftr-wot. A64 T25 AT blogspot. A64 T25 AT cz/2013/06/the-t23-medium-tankhistory-and. A64 T25 AT html] History of the T23 medium tank, upon which the T25 AT is based. A64 T25 AT 
+
+}}

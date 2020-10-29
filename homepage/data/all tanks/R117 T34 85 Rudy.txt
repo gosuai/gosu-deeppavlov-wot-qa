@@ -1,0 +1,73 @@
+{{TankData|Tank= 
+| 
+
+|Gallery= 
+File:34_85_Rudy_1. R117 T34 85 Rudy jpg
+File:34_85_Rudy_2. R117 T34 85 Rudy jpg
+File:34_85_Rudy_3. R117 T34 85 Rudy jpg
+File:34_85_Rudy_4. R117 T34 85 Rudy jpg
+File:34_85_Rudy_5. R117 T34 85 Rudy jpg
+File:T35-85 rudy 6. R117 T34 85 Rudy jpg
+
+|InTheGame_pros= 
+- Slightly better aim time and view range than the regular T-34-85
+
+- Less terrain resistance and better mobility than the regular T-34-85
+
+- Significantly higher ammo capacity, at 56 rounds compared to the T-34-85's 48 rounds
+
+- Stock crew have "Zero-Skill" BIA
+
+- Four-man crew configuration; works well for training higher-tier Russian medium tank crews
+
+- Multinational vehicle; can switch the tank nation between Soviet and Poland, allowing it to train the crew from both nations
+
+
+
+|InTheGame_cons= 
+- Fragile engine, very vulnerable to damage and fires
+
+- Prominent commander's hatch, easier to hit compared to that on the T-34-85
+
+- Limited customization options; emblems & inscriptions are fixed
+
+- Lack of a radio operator limits its value as a crew trainer for low tier Russian medium tanks
+
+|InTheGame_performance= 
+
+Essentially a buffed version of the regular [[T-34-85]], the "Rudy" has exactly the same playstyle. R117 T34 85 Rudy  Players who are familiar with the basic tactics for the T-34-85 will find the Rudy much to their liking; more so for experienced players. R117 T34 85 Rudy  The Rudy moves faster, aims faster, detects farther, and packs more ammo than the regular T-34-85. R117 T34 85 Rudy  In most respects what the T-34-85 can do, the Rudy can do slightly better. R117 T34 85 Rudy  
+
+For all the improvements, there is one downside the player must pay attention to: the engine. R117 T34 85 Rudy  With only 145 module HP, a module damaging hit to the engine from a 75mm caliber tank gun is enough to damage it (yellow state) and slow you down. R117 T34 85 Rudy  You can mitigate this disadvantage by careful positioning. R117 T34 85 Rudy  The transmission like the engine is located in the back, so frontal hits won't damage your engine in the first place. R117 T34 85 Rudy  Proceed with care, when exposing sides and rear. R117 T34 85 Rudy 
+
+Despite the weak engine the Rudy actually has better effective P/W ratio after applying ground resistances (hard / medium / soft terrain):
+
+# T-34-85: 16. R117 T34 85 Rudy 33 / 13. R117 T34 85 Rudy 82 / 8. R117 T34 85 Rudy 55 
+# Rudy: 17. R117 T34 85 Rudy 23 / 15. R117 T34 85 Rudy 51 / 8. R117 T34 85 Rudy 62 
+
+
+
+Overall, the Rudy is a solid improvement of the T-34-85 with premium tank status, albeit the noticeably weaker and fragile engine. R117 T34 85 Rudy 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vents ,Binocular Telescope, Camouflage Net, Tank Gun Rammer
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|HistAcc=
+Actual crew layout is five, of whom the radio operator is currently missing. R117 T34 85 Rudy 
+* The [[Gun/USSR#85 mm ZiS S-53|85 mm ZiS-S-53]] is the same gun on the [[T-34-85]], yet the penetration and damage values are inconsistent. R117 T34 85 Rudy 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,96 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good mobility. S04 Lago I 
+* Good gun depression. S04 Lago I 
+
+|InTheGame_cons= 
+* Poor armour. S04 Lago I 
+* Bad stock gun, with a terrible 4 sec. S04 Lago I  aim time with the first turret. S04 Lago I 
+
+
+|InTheGame_performance= 
+With the upgraded turret the Lago looks surprisingly modern compared to other tier 4 vehicles. S04 Lago I  However, the appearance is deceptive. S04 Lago I  
+An extremely mediocre tank, the Lago does not shine in any category. S04 Lago I  Both the top guns perform reasonably well. S04 Lago I  The difference in penetration is largely negligible, so a player is free to choose between DPM  and alpha damage, though it should be noted that neither is particularly good. S04 Lago I  The stock gun with the first turret has a terrible aim time of 4 seconds, but once upgrading at the second turret the aim time decreases by 2 seconds making the tank less painful to play. S04 Lago I 
+
+|InTheGame_research= 
+* The last radio carries over from the Strv m/40L, so mount that immediately. S04 Lago I 
+* First, start by researching the second turret, for increased aim time, view range, reload time and hitpoints. S04 Lago I 
+* Then, research the better tracks, Lago 2. S04 Lago I 
+* Then, research the 57mm pvkan m/43. S04 Lago I 
+* Then, the engine 2 st Scania-Vabis L 603/1. S04 Lago I 
+* Then, the last gun 7. S04 Lago I 5cm kan m/41 strv. S04 Lago I 
+
+
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+In the mid-1930′s, after only moderate Swedish interest in their designs, Landsverk decided to start working on a medium tank for the export market. S04 Lago I  By 1936, the first drafts were ready and the marketing process has begun. S04 Lago I  The design was based on an upscaled version of the L-60 light tank and was fairly modern for its time – the new tank was designated “Lago” by Landsverk. S04 Lago I  The weight of the vehicle was 15 tons, its armor was fully welded and was 34mm thick. S04 Lago I  Armament consisted of a 47mm gun and its two 140hp engines gave the tank the top speed of 45kph, with its power to weight ratio of 18,6 hp/t. S04 Lago I 
+
+
+The attempts to sell the vehicle continued, but little interest was shown until 1939, when Hungary decided to buy the L-60 light tank. S04 Lago I  Hungary was also interested in a new medium tank design and contacted Škoda, Praga and Landsverk about their medium tank designs. S04 Lago I  Landsverk received an order for one prototype to be ready by 1940, but after numerous delays and with the increasing involvement of Hungary on the Russian front, it was decided by the Hungarians that they couldn’t wait for the Swedish prototype. S04 Lago I  Instead, the Škoda T-21 prototype was modified and turned into the M40 Turán medium tank. S04 Lago I 
+
+Landsverk´s 18 ton Lago prototype
+
+[[File:Lago_Prototype. S04 Lago I jpg]]
+
+By this time, Sweden was desperately looking for a medium tank design of its own. S04 Lago I  The Swedish force of 37mm armed light tanks was quickly becoming obsolete and because of the war, foreign designs were now mostly out of reach. S04 Lago I  Therefore, it was decided that the Lago prototype would become the basis for the new Swedish medium tank. S04 Lago I 
+
+In early 1941, a committee started discussing the requirements for the new tank, which was to be based on the newly completed 18 ton Lago prototype. S04 Lago I  After a while, an agreement was reached that the tank would not be heavier than 22 tons and would have the armour of 55mm at the front and 30 at the sides. S04 Lago I  A new turret with a new 7,5cm gun was also chosen, there were however other options discussed for armament, including a high velocity 5,7cm gun or a 10,5cm howitzer. S04 Lago I  Pherhaps the most impressive feature was the -15dg of gun depression for the main gun. S04 Lago I 
+
+Although the design was pretty modern when it was concieved, it was not exactly perfect. S04 Lago I  The tank had been built disproportionately tall compared to its width to allow it to be transported easily on railroads. S04 Lago I  This however meant that it had a small turret ring, that had a hard time carrying a bigger gun, or turret. S04 Lago I  Another problem was the choice of armament, the short 75mm gun was not powerful enough to reliably penetrate other medium tanks from frontal angles. S04 Lago I  The use of difficult to change torsion bars and the use of an unreliable German transmission in some models was also a major cause of problems. S04 Lago I 
+
+Strv m/42
+
+[[File:Strv_m_42_1940s. S04 Lago I jpg]]
+
+In early 1943, the production of the newly designated Strv m/42 finally started. S04 Lago I  It was produced by Landsverk and Volvo, the latter of which refused to equip the tank with the engine from their competitor, Scania, and therefore started development on their own of a more powerful engine. S04 Lago I  In the end, the army had to point out that they could make Volvo assemble the vehicles with the Scania engine until development of the Volvo engine was complete. S04 Lago I  Volvo reluctantly agreed and in the end, only 57 of the Strv m/42 tanks would be equipped with the 410hp Volvo engine instead of the two 162hp Scania engines. S04 Lago I 
+
+It was realized fairly early on during the tank production that the current armament was not sufficient and therefore discussions about rearming the tank started in 1944. S04 Lago I  Proposals were made for the lengthening of the 75mm or replacing it with the newly developed 5,7cm Pvkan m/43 anti-tank gun. S04 Lago I  Instead of these options, it was decided to start the development on a new turret, which would be able to mount a high velocity 75mm gun. S04 Lago I 
+
+Turret schematics
+
+[[File:Strv_m42_turret_schematics. S04 Lago I jpg]]
+
+Mockup turret
+
+[[File:Strv_m42_mockup_turret. S04 Lago I jpg]]
+
+The new turret had 60mm frontal and 30mm side armor and was armed with the 7,5cm Pvkan m/43 anti-tank gun. S04 Lago I  But its most interesting feature was a 3 round magazine for an “automatic rammer”, that would allow the tank fire 3 rounds in short bursts. S04 Lago I  A mock-up of the turret was made and at some point after that a functional prototype was created as well, but by 1946, the tests had bad results and the project was cancelled. S04 Lago I 
+
+A few special variations of the Strv m/42 existed, the first of which was a command version, which carried a 70W Sv m/43 radio, which replaced the machineguns in the turret. S04 Lago I  A total of 26 tanks were converted to this command version. S04 Lago I  Experiments were also made with a recovery version, which was equipped with a crane, capable of lifting 12 tons. S04 Lago I  Only two were made and both were delivered in 1944. S04 Lago I  There were also some attempts to create a bridgelayer version, but after disastrous performance in rough terrain due to the disproportionately tall chassis, the project was cancelled. S04 Lago I  It would later be tested again without a turret, but the results were the same and the project was cancelled once again. S04 Lago I 
+
+BBV m/42 recovery vehicle and a Strv m/41
+
+[[File:Bbv_m42_recovery_vehicle_and_strv_m41. S04 Lago I jpg]]
+
+Brobv m/42 experimental bridgelayer
+
+[[File:Brobv_m42_experimental_bridgelayer. S04 Lago I jpg]]
+
+Strv m/42 was produced from April 1943 to January 1945 with a total of 287 units produced. S04 Lago I  It was the most powerful tank to serve with the Swedish army from 1943 until 1953, when it was replaced with the Centurion Mk. S04 Lago I 3. S04 Lago I  The Strv m/42 would however continue its service until 1957, when most were rebuilt with a new turret and gun to become Strv 74, but that is a story for another time. S04 Lago I  The rest of the vehicles was refitted with a new Ra 121 radio and some, mostly visual, changes happened as well, like the removal of the hull mounted machinegun and the addition of more equipment. S04 Lago I  The vehicle was redesigned to Ikv 73 and was used as an infantry support vehicle until 1973. S04 Lago I 
+
+[[File:Ikv_73. S04 Lago I jpg]]
+
+
+|HistoricalGallery= 
+File:Lago_Prototype. S04 Lago I jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S04 Lago I wot-news. S04 Lago I com/2014/04/18/swedish-tanks-part-vii-strv-m42/
+
+}}

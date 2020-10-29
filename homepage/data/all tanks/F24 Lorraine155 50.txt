@@ -1,0 +1,74 @@
+{{TankData|Tank=Lorraine155_50
+|
+
+|Gallery=
+image:Ingame_Lorraine155_50-1. F24 Lorraine155 50 jpg{{!}}Lorraine155 50, Prokhorovka map
+
+
+|InTheGame_pros=
+* Gun range: 1350 m for both available guns. F24 Lorraine155 50 
+* Good acceleration. F24 Lorraine155 50 
+* Nice top speed maintainable on flat road. F24 Lorraine155 50 
+* Quick aim time. F24 Lorraine155 50 
+* Split best signal range for the tier. F24 Lorraine155 50 
+
+|InTheGame_cons=
+* Low accuracy an rate of fire for the guns' alpha and caliber
+* No gun depression, arty-standard reticule bloom combined with high speed makes self-defense at short range impossible
+* Instead of a second Loader (like its predecessor and successor) it needs a Radio Operator. F24 Lorraine155 50  This breaks the BIA perk. F24 Lorraine155 50  (if you have it). F24 Lorraine155 50 
+* Bit low shell trajectory makes obstacles interfering. F24 Lorraine155 50 
+* Terrible firepower for its tier
+
+
+|InTheGame_performance=  This arty sacrifices (a lot of) firepower for mobility better than all but the fastest mediums. F24 Lorraine155 50  Since you use arty's firepower 90% of the time and 1% for mobility, this is considered one of the worst arty within its tier. F24 Lorraine155 50 
+
+
+|InTheGame_research=
+* The SCR 528F radio carries over from the AMX 13 F3 AM. F24 Lorraine155 50  Mount it immediately. F24 Lorraine155 50 
+* Research the Lorraine 155 mle. F24 Lorraine155 50  50 bis Suspension, followed by the Obusier de 155 mm mle. F24 Lorraine155 50  1950 gun. F24 Lorraine155 50 
+* Research the Maybach HL 230 TRM P30 engine last, as the performance gain is minimal. F24 Lorraine155 50 
+
+|InTheGame_Equipment_Builds=
+Instead fo retraining the second loader from the AMX 13 F3 AM as your radio operator, it is best to keep him in barracks. F24 Lorraine155 50  You'll need him again for the Lorraine 155 54. F24 Lorraine155 50 
+
+|InTheGame_equipment= Artillery Shell Rammer, GLD, Camouflage Net
+
+
+|History=
+[[image:Lorraine155_01_prototype_no1. F24 Lorraine155 50 jpg|thumb|200px|left|Lorraine 155 mm model 1950]]
+In 1950, Lorraine started the development of its own self-propelled gun. F24 Lorraine155 50  Lorraine’s engineers proposed two different concepts on the same chassis, although at certain point of the development even a wheeled chassis was considered as an alternative to the tracked one. F24 Lorraine155 50  Official names of the prototypes were “1a” (model 1950) and “2a” (model 1951). F24 Lorraine155 50  The main armament of both prototypes was 155 mm howitzer. F24 Lorraine155 50  First prototype, marked as “model 1950” had its howitzer mounted in the centrally placed casemate, while the “model 1951” had the structure pushed to the front of the veichle. F24 Lorraine155 50  Early versions had a Talbot made engine, but by the year 1951 a Maybach engine was installed. F24 Lorraine155 50  
+
+Trials revealed a number of serious design flaws, so in 1954 a model with a fully rotatable turret was considered. F24 Lorraine155 50  As at the time Batignolles Chatillon was already involved in development of similar project, Lorraine’s ideas were rejected, and all further development was canceled. F24 Lorraine155 50 
+
+
+
+
+Specifications:
+
+Weight: 30. F24 Lorraine155 50 30 tons 
+
+Dimensions: L: 7,96 m, W: 3,30 m, H: 2,77 m 
+
+Ground clearance: 0. F24 Lorraine155 50 40 m 
+
+Armament: one 155 mm howitzer (28 rounds) and one 20 mm (250 rounds) gun for self defense
+
+Engine: Engine Maybach HL 230 with 685 hp 
+
+Maximum speed: 62 km/h
+
+
+|HistoricalGallery=
+image:Lorraine155_01_prototype_no1. F24 Lorraine155 50 jpg
+image:Lorraine155 50. F24 Lorraine155 50 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. F24 Lorraine155 50 chars-francais. F24 Lorraine155 50 net/2015/index. F24 Lorraine155 50 php/liste-chronologique/de-1945-a-1990?task=view&id=1306
+
+}}

@@ -1,0 +1,101 @@
+{{TankData|Tank=T67
+|The T67 is considered a very fun and overall good tank to play. A58 T67  Its best features are its guns, particularly the 76mm M1A1, along with its superior speed and acceleration (acceleration has been nerfed as of Update 1. A58 T67 9). A58 T67  When first purchased, it is very weak and has low engine power, but once fully upgraded, it is a force to be reckoned with. A58 T67  It can maintain its 61 kph top speed quite easily over all terrain and though the turret traverse is incredibly slow, the tank excels at flanking and exposing weak sides and rear. A58 T67  Although it has low penetration, its gun can penetrate almost any armor it comes across by hitting weak spots, and by the time they've been hit you'll most likely have had time to run away. A58 T67  In higher tiers, it can even be used as a heavily armed scout. A58 T67  Like most turreted TDs, its armor is sloped but incredibly thin, so don't expect to bounce much. A58 T67  In fact, if you try to use it as a classic stationary sniper TD, you'll probably be mercilessly destroyed. A58 T67  However, you will be very successful if you use this tank's superior speed and maneuverability to its best. A58 T67  A good example of this fact is that due to your high speed, you can "chase" enemy scouts, and get some damage done before the scout escapes. A58 T67 
+
+|Sidebar_Camostop=20. A58 T67 9
+|Sidebar_Camomove=12. A58 T67 6
+|Sidebar_Camofire=8. A58 T67 0
+|Sidebar_Passhard=0. A58 T67 959
+|Sidebar_Passmed=1. A58 T67 055
+|Sidebar_Passsoft=2. A58 T67 014
+|Sidebar_DispTurret=0. A58 T67 077
+|Sidebar_DispRecoil=3. A58 T67 836
+|Sidebar_DispAccel=0. A58 T67 201
+|Sidebar_DispTurning=0. A58 T67 201
+
+|InTheGame_pros= 
+* Top gun has deadly rapid rate-of-fire and excellent damage per minute for Tier V
+* Has a turret; that makes it more versatile on the battlefield than a normal casemate TD
+* Very low profile and rather small size, meaning excellent camouflage values
+* Good top speed and respectful acceleration (acceleration nerfed in Update 1. A58 T67 9, more on par with LT's) due to the low weight and powerful engine
+* Good gun depression at 10 degrees, and relatively good view range, especially for a TD
+* Extremely fast gun reload time with the okay alpha means it can be a certain death to enemy if you aim well
+* Shooting may not disclose your location if you are at second-line
+
+
+|InTheGame_cons=
+* Very thin armor, every vehicle it faces can damage it and it is easily crippled by HE shells
+* Low HP pool, some Tier VI tanks with high alpha, and tanks using a 105mm or 122mm howitzer, can one-shot it (1. A58 T67 9 brings its health to 470)
+* Limited ammo capacity at 45 shells (70 as of update 1. A58 T67 9), means you cannot afford to waste too many shells
+* Poor hull and turret traverse speed for its dynamics, along with mediocre terrain resistances
+* Top gun has mediocre accuracy and below average penetration for a Tier 5 TD
+* The Pros of this tank makes this tank a Primary target when facing. A58 T67  However, its armor can stop nothing from penetrating it on the hull apart from Luchs autocannon and below 75mm guns on frontal turret. A58 T67 . A58 T67 
+
+|InTheGame_performance=
+The T67 is very similar to its parent tank the M8A1 in many ways. A58 T67  It maintains similar speed and agility characteristics, in fact improving slightly on overall agility, while at the same time gaining some firepower; and while slow, the turret traverse is still faster than that of the M8A1. A58 T67  Its acceleration is as good or better than most light tanks at tier. A58 T67 
+
+In terms of gun selection, sticking with the 57mm until the 76mm M1A1 is available is seriously worth considering, as the 76mm L/50 lacks in penetration. A58 T67  Additionally, the 57mm's rate of fire more than compensates for its lack of alpha damage. A58 T67  The top tier gun for the T67, the 76mm M1A1, excels in nearly all areas in terms of damage, rate of fire, and penetration over both the 76mm L/50 and the 57mm. A58 T67  
+
+If you've played through the American medium tree at all you'll find that the engine will carry over. A58 T67  Be aware that despite the similarity in name, the 76 mm AT Gun M1A1 used by the T67 has "AT" in the name. A58 T67  It is different from the M1A1 used by the M4 Sherman and T1 Heavy, and the gun does not carry over from the medium/heavy line. A58 T67 
+
+The T67 can be used to scout to some extent. A58 T67  Use this as your advantage and with your speed, locate enemy tanks, report their location to your team, track and do damage to them and escape before they even realize you were there. A58 T67  However, you are still a tank destroyer and your gun is too powerful to be wasted by dying too early in game, so be careful. A58 T67  Also note that you don't have the same camo rating when moving as light tanks even if your camo holds well when sitting stationary in a bush. A58 T67 
+
+The T67, once fully upgraded, can almost be played in a manner similar to that of a scout or flanker. A58 T67  You're fragile (very important to remember this), you have excellent firepower for your tier, and you retain the ability to sneak up on the enemy. A58 T67  Play the T67 as a second line tank and you will succeed. A58 T67  Don't lead a push, as your armor can't take the hits. A58 T67  Simply follow the main push, support the tanks that are pushing, and clean up the stragglers. A58 T67  Or you can snipe at long range with the excellent gun. A58 T67 
+
+As of Update 1. A58 T67 9, the T67 is still a good tank, although nerfed from 1. A58 T67 8 to 1. A58 T67 9. A58 T67  It has roughy 0. A58 T67 20 seconds more of aim time, 0. A58 T67 03 more dispersion on moving and turret rotation, 3 less reverse speed, 80 less engine power (power-weight ratio/acceleration from 31. A58 T67 14 to 25. A58 T67 72) and 7/6/3 worse effective traverse speed on hard, medium and soft terrain, respectively. A58 T67  As with the majority of other Tier I-VI tanks, however, it has more health (by 110 points) while also having 25 more shells, bringing its average potential damage from 5,175 to 8,050, leaving it roughly the same as it was but much less likely to be one-shotted. A58 T67 
+
+|InTheGame_research=
+* The radios carry over from the M8A1 and the best one should be installed immediately. A58 T67  The 76 mm AT Gun M7 L/50 also carries over but requires the second suspension and turret. A58 T67 
+* The 76 mm AT Gun M1A1 carries over from the [[T40]] if you played it previously, but again it requires the second suspension and turret. A58 T67 
+* Research the Wright Continental R-975C4 engine first if you don't already have it unlocked. A58 T67 
+* Next research the upgraded suspension. A58 T67 
+* Now you can research the second turret in preparation for the 76 mm AT guns. A58 T67 
+* Go from there. A58 T67 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Binocular Telescope, Coated Optics, Camouflage Net
+
+|Gallery=
+image:T49a. A58 T67 png{{!}}Front right
+image:T49b. A58 T67 png{{!}}Front left
+image:T49c. A58 T67 png{{!}}Rear left
+image:T49d. A58 T67 png{{!}}Rear right
+
+|History=
+The T67 Gun Motor Carriage was a variant of the M18 Hellcat. A58 T67 
+
+== Design ==
+On April 18, 1942, it was agreed to construct two prototypes that would be identified as the T67 Gun Motor Carriage. A58 T67  It was to be mobile, weigh around 12 tons, have a crew of five, reach a speed of 50 mph, armor was to be 7/8" on the turret, and 3/8" all around on the hull. A58 T67 
+
+The first prototype was tested and as a result the Tank Destroyer Command and the Ordnance Department wanted the second prototype to have a 75 mm M3 gun. A58 T67  This became the T67 Gun Motor Carriage. A58 T67  It was to have its armor increased to 1" in front. A58 T67  The side armor was reduced and the top and bottom was increased. A58 T67 
+
+The prototypes had helical coil suspensions. A58 T67  Two Buick 320 cubic inch gasoline engines produced a total of 330 HP. A58 T67 
+
+In late 1942, after the testing of a prototype at the Aberdeen Proving Ground, the Special Armored Vehicle Board recommended that the T67 have a standard engine, a 76 mm gun, and a torsion bar suspension. A58 T67  The Secretary of War approved the building of six prototypes. A58 T67  These would carry the 76 mm M1 in an open turret without a basket. A58 T67  The Continental R975-C1 engine was used. A58 T67  These prototypes were designated the T70 Gun Motor Carriage. A58 T67 
+
+|HistAcc=
+75 mm M3 gun is missing. A58 T67  This configuration was known as the 75 mm Gun Motor Carriage T67. A58 T67 
+* The T67 was only fitted with the Buick engine. A58 T67  The Wright Continental engine configuration is fake. A58 T67 
+* The Continental R975 engine is considerably more powerful than it is in real life, with 460 horsepower compared to the historical 350-400. A58 T67 
+
+|HistoricalGallery=
+image:Tank Destroyer T49 1. A58 T67 jpg{{!}}T49_1
+image:Tank Destroyer T49 2. A58 T67 png{{!}}T49_2
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A58 T67  and C. A58 T67  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A58 T67 
+
+Forty, G. A58 T67 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A58 T67 
+
+Zaloga, S. A58 T67 J. A58 T67 , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A58 T67 
+
+
+|Ref_links=
+
+
+}}
+
+[[Category:USA Tanks]]

@@ -1,0 +1,82 @@
+{{TankData|Tank=KV-13
+|The tank benefits from being faster than the [[KV-1S]] while its hull armor roughly matches that of the [[KV-3]] and [[IS]], both heavy tanks, making it able to bounce quite a few shots from lower tier tanks. R46 KV-13   The KV-13's top gun does not match the penetration of comparable medium tanks, but it does have a relatively quick rate of fire. R46 KV-13 
+
+|Gallery=
+image:KV13-a. R46 KV-13 jpg{{!}}KV-13 front right
+image:KV13-b. R46 KV-13 jpg{{!}}KV-13 front left
+image:KV13-c. R46 KV-13 jpg{{!}}KV-13 rear right
+image:KV13-d. R46 KV-13 jpg{{!}}KV-13 rear left
+
+|InTheGame_pros=
+* Effective armor for its tier, practically equal to the [[IS]] with arguably better turret & upper front hull armor 
+* Most of the previous ''shoulder'' weakspot got reinforced to 120mm after HD remake
+* Good maneuverability, reasonable top speed, and decent acceleration
+* High rate-of-fire on the 85 mm D-5T-85BM and above average alpha
+* Great for hounding slower tanks
+* Good at ramming
+
+|InTheGame_cons=
+* Worse view range and gun depression than the other Tier 7 mediums
+* Lower part of the side (behind tracks) is only 60mm, meaning experienced players with fast firing guns can permatrack you easily
+* Horrible stock grind
+* Mediocre penetration; below average
+
+|InTheGame_performance=
+The KV-13 rests in a unique place on the Soviet tech tree, representing a transition point through which players can go from the medium line to the IS heavy tank line or vice versa. R46 KV-13  As such, it is not a very common tank, since most players do not need to go through it. R46 KV-13  It offers a unique combination of unusually heavy frontal armor, especially for a medium tank, decent mobility, and acceptable firepower. R46 KV-13  The tank is able to combine the armor of the IS and the fast-firing 85mm of the T-43 to create a tank that can really bully lower tiers. R46 KV-13 
+
+Out of the box, the KV-13 is equipped with the '''76 mm ZiS-5''', a gun that was barely usable on the [[KV-1]] (a Tier 5 heavy tank) and is, unsurprisingly, completely useless on the KV-13. R46 KV-13  The '''76 mm S-54''' is not much better, but is the only other gun that can be used until the KV-13M turret is fitted. R46 KV-13  After the turret has been upgraded, the '''122 mm U-11''' howitzer becomes available for use. R46 KV-13  Players should be fairly familiar with it after using it on the [[KV-1]] and/or the [[T-34-85]]. R46 KV-13  The '''85 mm D-5T''' and '''85 mm D-5T-85BM''' are also available from the KV-85 and T-34-85, respectively. R46 KV-13  Of these, the D-5T-85BM is probably the most reliable option. R46 KV-13  While an excellent weapon on the T-34-85, it is not quite as effective on the KV-13, especially against the heavily armored tanks that start to appear at Tiers 8 and 9. R46 KV-13  In order to make effective use of the gun, the KV-13 must use its mobility to get around to the softer parts of enemy tanks. R46 KV-13 
+
+The KV-13's most outstanding feature is its armor, which is only slightly weaker than the [[IS]] heavy tank's. R46 KV-13  This makes it an effective "bully" against lower tier tanks, in cases of favorable matchmaking. R46 KV-13  Do not get too complacent, however, for the armor is not impenetrable and does have weak spots, and there do exist lower tier tanks that are capable of penetrating it regardless (most notably the [[KV-85]] and [[ARL 44]]). R46 KV-13  In higher tier matches, the KV-13's armor is not effective and cannot be depended on to save it, and it must be played like a normal medium tank. R46 KV-13  Also, be careful when sidescraping as the KV-13's side armor, behind the tracks, is only 60mm and your tank can get easily tracked and damaged through that area if you're not careful. R46 KV-13 
+
+Despite having such thick armor, the KV-13 can still maintain a respectable power-to-weight ratio, only slightly worse than the other Soviet Tier 7 medium, the [[T-43]]. R46 KV-13  It also has a better hull traverse speed than the T-43. R46 KV-13  The mobility is quite usable, although not particularly outstanding. R46 KV-13 
+
+One important thing to know, since this tank is a '''Transition Tank''', meaning going from one line to another, it is not seen as much in battles as the other tier 7 soviet tanks. R46 KV-13  Thus, making this tank a high priority target for those players needing to destroy it for the Expert U. R46 KV-13 S. R46 KV-13 S. R46 KV-13 R. R46 KV-13  badge, making those of us who play this tank shell magnets, so you need to play smart to survive. R46 KV-13 
+
+|InTheGame_research=
+Coming from the [[A-43]]:
+* Only the '''76 mm S-54''' can be unlocked on the A-43. R46 KV-13 
+* Priority must first go to the '''KV-13M suspension''', which is needed to mount the second turret. R46 KV-13  Alternatively, the Enhanced Suspension equipment may be used in order to get the turret first. R46 KV-13 
+* Next, the '''KV-13M turret''' is needed to mount the '''122 mm U-11''' and '''85 mm D-5T-85BM''', and unlocks the A-44. R46 KV-13 
+* The '''85 mm D-5T''' and the '''85 mm D-5T-85BM''' guns should be unlocked next, which is also used on the IS. R46 KV-13  It greatly eases your grind to the next tank. R46 KV-13 
+* The '''12RT''' radio can then be unlocked, which is also used on the IS. R46 KV-13 
+* Finally, the '''122 mm U-11''' should be saved for last, since the gun has poor performance compared to '''85 mm D-5T-85BM'''on this tier. R46 KV-13 
+Note: Researching the '''V-2IS''' engine seperately will cost 11,000 exp, while researching into [[IS]] with 22,400 exp will automatically unlock it. R46 KV-13  Thus this expenditure might be superfluous unless the extra mobility is urgently needed. R46 KV-13 
+
+Coming from the KV-85:
+* The '''122 mm U-11''', '''85 mm D-5T''', and '''V-2IS''' engine can be unlocked on the KV-1 and KV-85. R46 KV-13 
+* You should probably unlock the '''76 mm S-54''' to slightly ease the stock grind, as the stock gun is absolutely inadequate at this point. R46 KV-13 
+* Priority must go to the '''KV-13M suspension''', which is needed to mount the second turret. R46 KV-13  Alternatively, the Enhanced Suspension equipment may be used in order to get the turret first. R46 KV-13 
+* Next, the '''KV-13M turret''' is needed to mount the '''122 mm U-11''' and '''85 mm D-5T''', and unlocks the A-44. R46 KV-13 
+* The '''85 mm D-5T-85BM''' gun should be unlocked next, which is also used on the IS. R46 KV-13 
+* The '''12RT''' radio can then be unlocked, which is also used on the IS. R46 KV-13 
+
+|InTheGame_equipment=
+GLD, Medium-Caliber Tank Gun Rammer, Improved ventilation Class 2, Toolbox, Enhanced Torsion Bars 5+ t class
+
+|History=
+The predecessors of the IS-1 and IS-2 tanks were the KV-1 Heavy Tank and KV-13 Heavily Armored Medium Tank. R46 KV-13  KV-13 (and its subsequentversion — Object 233) became the first major independent project of the Experimental Tank Factory, created in March 1942 in Chelyabinsk from Design Bureau No. R46 KV-13 2. R46 KV-13  N. R46 KV-13  V. R46 KV-13  Tseits, who had been recently released from a Gulag, was appointed head designer of the project. R46 KV-13 
+
+Other members of the design team were K. R46 KV-13  I. R46 KV-13  Kuzmin (hull), N. R46 KV-13  M. R46 KV-13  Sinev (turret), S. R46 KV-13  V. R46 KV-13  Mitskevich (chassis) and G. R46 KV-13  N. R46 KV-13  Moskvin (general assembly). R46 KV-13  KV-13 was designed as a universal tank — medium tank weight and heavy tank protection. R46 KV-13  This project was distinguished by its extensive use of cast armour. R46 KV-13  Casting was used not only for the turret, but also for the main elements of its hull — the glacis, turret ring and rear. R46 KV-13  This reduced the usable internal space, but increased the effective armour protection whilst reducing the amount of armour needed for its manufacture. R46 KV-13  The last point was especially important in light of the State Defense Committee's decree of 1942 to minimise the consumption of armour materials. R46 KV-13 
+
+The first test unit was designed and produced in an extremely short period of time and in May of 1942 it was delivered to the factory testing facilities. R46 KV-13  The tank weighed 31. R46 KV-13 7 tonnes and was armed with a 76. R46 KV-13 2 mm ZiS-5 gun and a coaxial DT TMG. R46 KV-13  The maximum front armour thickness of its hull was 120 mm, that of its turret — 85 mm. R46 KV-13  Its V-2K 600 h. R46 KV-13 p. R46 KV-13  engine allowed it to reach speeds of up to 55 km/h. R46 KV-13  Elements of the T-34's chassis, including tracks, were used, whilst the road wheels were taken from the KV. R46 KV-13  The KV-13 had an improved (U-shaped) radiator similar to the one previously used on the Kirov Factory variant of the T-50 tank. R46 KV-13  This allowed for a more efficient engine block configuration and also increased the efficiency of its air intake. R46 KV-13 
+
+Several flaws surfaced during the testing of the first experimental unit of the KV-13: poor acceleration due to transmission problems, tracks and rollers easily damaged, tracks being thrown while making turns, etc. R46 KV-13  In July 1942, in the middle of its testing, the head designer N. R46 KV-13  V. R46 KV-13  Tseits died and N. R46 KV-13  F. R46 KV-13  Shamshurin was appointed in his place. R46 KV-13  On his initiative the KV-13 received the transmission developed by F. R46 KV-13  A. R46 KV-13  Marishkin for the KV-1S, as well as some other parts of its chassis. R46 KV-13  However, even after these improvements, the tank did not pass its tests and the military quickly lost interest in it. R46 KV-13 
+Despite these early failures, in December of 1942 the assembly of two new variants of the KV-13 began at the Experimental Tank Factory. R46 KV-13  The new vehicles shared only the hull, torsion bar suspension, and chassis from the first version. R46 KV-13  The turrets and many other elements were completely new designs. R46 KV-13  The transmission used was significant in its use of a planetary 2-step travesing gear designed by A. R46 KV-13  I. R46 KV-13  Blagonravov. R46 KV-13  The cooling system was improved, while the track links were lightened by making every other link flat (the so-called «Chelyabinsk tracks»). R46 KV-13 
+
+The appearance of the German heavy Tigers on the Eastern Front played a direct and decisive role in increasing the speed of development of these new models. R46 KV-13  Kirov factory in Chelyabinsk and factory No. R46 KV-13 100 (the new name of the Experimental Tank Factory) of of NKTP were to manufacture two experimental tanks of the new «Josef Stalin» (IS) class, based on the two latest models of the KV-13, and prepare them for testing. R46 KV-13  The model armed with a 76. R46 KV-13 2 mm gun was designated IS-1 (Object 233). R46 KV-13  The second model, armed with a 122 mm U-11 tank howitzer  was designated JS-2 (Object 234). R46 KV-13 
+
+Both models were tested between March 22 and April 19, 1943 and in general performed quite well. R46 KV-13  The state commission noted that both JS tanks weighed less than the KV-1S, could achieve higher speeds, had better armour protection and had equal (IS-1) or better (IS-2) armament. R46 KV-13 
+
+|HistoricalGallery=
+image:KV-13 1. R46 KV-13 jpg{{!}}KV-13 Front View
+image:KV-13 2. R46 KV-13 jpg{{!}}KV-13 Rear View
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://www. R46 KV-13 battlefield. R46 KV-13 ru/en/tank-development/28-heavy-tanks/32-js1-js2. R46 KV-13 html
+}}

@@ -1,0 +1,73 @@
+{{TankData|Tank=
+|It uses the same gun as the [[Sturmpanzer I Bison]], although it has more than twice as many shells and a better rate of fire. G22 Sturmpanzer II   Despite looking significantly different from the Sturmpanzer I Bison, the Sturmpanzer II has many of the same statistics. G22 Sturmpanzer II   The extremely narrow horizontal arc and unimpressive range make it necessary to move this vehicle frequently, which can be annoying due to the long aim time and risk of being spotted. G22 Sturmpanzer II   However these balance the vehicle, as the gun is extremely powerful -- capable of doing very large amounts of damage to even some Tier VI enemies. G22 Sturmpanzer II 
+
+|Gallery=
+image:Sturmpanzer II front view 1. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II front left view
+image:Sturmpanzer II front view 2. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II front right view
+image:Sturmpanzer II back view 1. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II back left view
+image:Sturmpanzer II back view 2. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II back right view
+
+|InTheGame_pros=
+* Large splash radius for its tier 
+* High damage and penetration 
+* High shell trajectory 
+* Decent accuracy, at least at the ranges you'll probably have to be firing from. G22 Sturmpanzer II 
+
+|InTheGame_cons=
+* Poor acceleration and top speed
+* Narrow gun arc
+* Poor aim time
+* Slow shell speed 
+* Short range (600 m)
+
+|InTheGame_performance=
+When fully upgraded this SPG can reach a decent speed to reach its firing position much more quickly than the Bison, though its traverse speed is a major handicap. G22 Sturmpanzer II   Its traverse speed and slow reload time also make it extremely vulnerable in close quarters fights, making support or excellent positioning essential. G22 Sturmpanzer II   
+
+With highly trained crew members and a [[Equipment#Performance|medium-caliber artillery shell rammer]] this SPG can get a much faster reload rate than without. G22 Sturmpanzer II   The crew training also significantly decreases the aim time. G22 Sturmpanzer II   When combined with the great damage and penetration of the more expensive 450-damage HE ammunition, with a 30 round carry capacity, this SPG can be a very dangerous foe and can often do more damage than any other SPG on the battlefield. G22 Sturmpanzer II    
+
+When facing high speed tanks it is recommended one takes a very large lead on the target. G22 Sturmpanzer II   Ideally, this SPG should not even attempt to hit these targets, as hitting the right location at the right time is very difficult when having to frequently turn the vehicle. G22 Sturmpanzer II 
+
+When facing lower speed tanks that are moving it is recommended to center the tank facing the targets and then lock the tracks, otherwise very minor aim adjustments will often result in very large aiming penalties. G22 Sturmpanzer II 
+
+Of note is that the ammunition is highly effective against the sides of the [[KV-1S]], with reliable 400-damage hits. G22 Sturmpanzer II 
+
+(Although Additional Grousers are available for this vehicle the additional one ton of weight on its meager engine slows it down more than the Additional Grousers help, making their purchase for this tank pointless. G22 Sturmpanzer II  )
+
+|InTheGame_research=
+* First, research the Büssing NAG L8V/GS 39 engine
+* Next, research the upgraded suspension
+* Lastly, research the FuG Spr. G22 Sturmpanzer II  A radio
+
+|InTheGame_equipment=
+Artillery Shell Rammer, Camouflage Net
+
+|History=
+[[image:Sturmpanzer_II_pic1. G22 Sturmpanzer II jpg|thumb|200px|right|Sturmpanzer II in North Africa]]
+[[image:Sturmpanzer_II_pic2. G22 Sturmpanzer II jpg|thumb|200px|left|Sturmpanzer II preparing for deployment]]
+Even before the Sturmpanzer I entered service, plans were made to develop an improved version based on the PzKpfw II's chassis and components. G22 Sturmpanzer II  Panzerkampfwagen II became obsolete in 1941, but the large number produced made it a perfect base for conversions. G22 Sturmpanzer II  The first improvised prototype was tested at Kummersdorf on June 13th of 1940. G22 Sturmpanzer II  In October of 1940, Alkett completed the first prototype based on Panzerkampfwagen II Ausf B's chassis, but did not provide adequate space for the large gun as well as its inability to absorb the recoil. G22 Sturmpanzer II 
+
+On February 18th of 1941, it was decided to built Sturmpanzer II on modified and turretless chassis/hulls of Panzerkampfwagen IIs. G22 Sturmpanzer II  In July/August of 1941, the first Sturmpanzer II Bison (lenghtened version) was produced. G22 Sturmpanzer II  By January of 1942, a total of twelve (versuchserie - trial series) were produced by Alkett; 7 were produced in 1941 and 5 in 1942. G22 Sturmpanzer II  
+
+The chassis was slightly widened (by 32cm) and lenghtened (by 60cm) in order to make room for the gun, and an additional sixth roadwheel was added. G22 Sturmpanzer II  For a vehicle being based on the Panzerkampfwagen II , it had few components in common with the base tank variant. G22 Sturmpanzer II  It was powered by a Bussing-NAG engine instead of the usual Maybach. G22 Sturmpanzer II  Unlike the Wespe, there were no protecting sides along the entire length of the superstructure. G22 Sturmpanzer II  A 150mm sIG 33 L/11. G22 Sturmpanzer II 4 heavy infantry gun was mounted in the shield that extended straight across the full width of the superstructure. G22 Sturmpanzer II  The gun had a range of 4700 meters and could be elevated vertically by 75 degress. G22 Sturmpanzer II  The main armament could be used as a heavy infantry gun or as a heavy mortar, depending on the elevation and initial speed of the projectile. G22 Sturmpanzer II  Sturmpanzer II was operated by the crew of 4 (commander, two gunners, and driver) and it weighed approximately 16 tons. G22 Sturmpanzer II  Its performance was poor as its weak engine overheated and the vehicle had poor maneuverability. G22 Sturmpanzer II  
+
+All vehicles were grouped into the 707th and 708th sIG Kp (Sfl. G22 Sturmpanzer II ) heavy infantry gun companies and were shipped to Libya, North Africa, from February to April of 1942. G22 Sturmpanzer II  They proved prone to constant mechanical breakdowns, and only a few were operational by using other ones as sources for spare parts. G22 Sturmpanzer II  Eight were lost by December 2nd of 1942, while six others served with DAK - Deutsches Afrika Korps until the spring of 1943, when last of them was eliminated (abandoned). G22 Sturmpanzer II  
+
+It is reported that the British captured six abandoned and dismantled Sturmpanzer IIs in one of Germany's workshops. G22 Sturmpanzer II  It is also reported that a single Sturmpanzer II was pressed in service by the Egyptian Army and saw combat once again in the war with Israel in 1948. G22 Sturmpanzer II  Based on experiences with the Sturmpanzer II, the more practical and successful Wespe was developed and produced. G22 Sturmpanzer II 
+
+|HistoricalGallery=
+image:Sturmpanzer II pic1. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II Bison in North Africa
+image:Sturmpanzer II pic2. G22 Sturmpanzer II jpg‎{{!}}Another Sturmpanzer II Bison in North Africa
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. G22 Sturmpanzer II achtungpanzer. G22 Sturmpanzer II com/sig33. G22 Sturmpanzer II htm#sig33
+* https://www. G22 Sturmpanzer II wwiivehicles. G22 Sturmpanzer II com/germany/vehicle/self-propelled/sig-33-self-propelled-gun. G22 Sturmpanzer II asp
+
+}}
+
+[[Category:German Tanks]]

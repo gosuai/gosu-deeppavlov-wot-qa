@@ -1,0 +1,54 @@
+{{TankData|Tank=GB51_Excelsior
+|Unique among heavy tanks of its tier, the Excelsior possesses many great strengths contrasted by an equal number of great weaknesses. GB51 Excelsior   Some of these features include strong front and rear armour yet paper-thin side armour, a fast firing yet poor handling gun, and greater side gun depression than front or rear gun depression. GB51 Excelsior  Heavily dependent on circumstance as well as the prowess of its driver, an Excelsior can be either an easy kill or an unstoppable juggernaut. GB51 Excelsior 
+
+|InTheGame_pros=
+* Frontal and rear armour is tough, on both the turret and hull with no frontal weakspots. GB51 Excelsior 
+* One of the most manoeuvrable Tier V heavies, drives more like a medium tank. GB51 Excelsior 
+* Gun depression from the sides is great, however, this is risky due to the thin sides. GB51 Excelsior 
+* Spaced armour on the sides actually beefs the thickness to 60mm. GB51 Excelsior 
+* Preferential matchmaking, just like the similar performing T14. GB51 Excelsior 
+* Cheap ammo & repair costs: high credit-making potential
+
+|InTheGame_cons=
+* 75mm gun is, like most premium tanks, equivalent to the second best gun of the regular tanks. GB51 Excelsior 
+* Angling the armour is not a viable option, as that will expose the fragile sides. GB51 Excelsior 
+* 90mm guns will overmatch the side armour (>90mm guns are thankfully rare at tier V and VI). GB51 Excelsior 
+* The excellent gun depression is lacking at the front and rear. GB51 Excelsior 
+* Tracks get easily destroyed. GB51 Excelsior 
+
+|InTheGame_performance=
+The Excelsior has a number of odd characteristics that lend to its situation-dependent nature. GB51 Excelsior   With roughly 115mm of frontal armour and no considerable weak spots, the Excelsior's frontal hull and turret are completely impenetrable to many tier Vs without the use of premium rounds. GB51 Excelsior   This armour has almost no sloping however, and the Excelsior's side armour is so thin that it's easily overmatched and penetrated even by sub-par guns. GB51 Excelsior  What this means is that should an Excelsior come face to face with an enemy that can penetrate its frontal armour, there is almost no way the Excelsior can be safely angled to make the armour more effective than it already is. GB51 Excelsior  In addition, the Excelsior's large, flat, mantlet-less turret prevents it from being any more well protected hull-down than it is when fully exposed. GB51 Excelsior  Accordingly, it works best in city streets, where the front and rear armour is far more exposed than the side armour. GB51 Excelsior  On narrow streets there is little room for flankers to exploit the thin side armour. GB51 Excelsior 
+
+The Excelsior is quick for a heavy and is capable to keep pace with many mediums. GB51 Excelsior  Since the Excelsior's 75mm gun has mediocre penetration, a player must take full advantage of the tank's speed to attack weaker flanks of heavily armoured enemies. GB51 Excelsior  The gun is also has average accuracy and suffers from poor aim spread on the move. GB51 Excelsior  Because of this, the Excelsior is not good for taking shots on the move unless at close range . GB51 Excelsior 
+
+====Compared to Similar Tanks====
+The Excelsior is very similar to the [[T14]], the American tier V premium heavy tank. GB51 Excelsior   Both are well armoured, quick (for heavies), and feature similarly weak 75mm armaments. GB51 Excelsior   Generally speaking, the T14 is less "lopsided" than the Excelsior. GB51 Excelsior   Its hull armour is weaker, yet it can be angled more effectively. GB51 Excelsior   In addition, the T14's turret is smaller and well sloped, which allows it to take advantage of hull-down positions unlike the Excelsior. GB51 Excelsior   Although both are fairly quick in a straight line, the Excelsior easily outmanoeuvres the T14 with 12 degrees/sec more traverse speed. GB51 Excelsior   The T14 accelerates faster overall due to a slightly greater power/weight ratio and far superior terrain resistance values. GB51 Excelsior 
+
+|InTheGame_research=
+All modules are researched with the tank. GB51 Excelsior 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Enhanced Gun Laying Drive, Improved Ventilation, Toolbox,
+
+|InTheGame_Equipment_Builds=
+The Excelsior benefits much from an enhanced gun laying drive, which mitigates the 75mm gun's poor accuracy and movement spread. GB51 Excelsior   A gun rammer and vents are also help to make the most of the mediocre gun. GB51 Excelsior   The Excelsior can be played either as a medium or a heavy, and if the player chooses to play it like a heavy then a toolbox can be used instead of the rammer or vents if the player finds that they're having their tracks blown off often. GB51 Excelsior 
+
+|Gallery=
+
+|History=
+After the Dieppe Raid in August 1942, there was concern that the Churchill was not as good as expected and a tank to combine the infantry and cruiser tank roles was planned. GB51 Excelsior 
+While two lines of tanks were still policy, there was interest in standardizing on common components. GB51 Excelsior  The design used the Cromwell's combination of Rolls-Royce Meteor engine and Merrit-Brown transmission. GB51 Excelsior  English Electric built two prototypes on a Cromwell tank hull the first with the suspension of the US M6 Heavy Tank and the second with a widened Cromwell track and armoured skirts. GB51 Excelsior  The design included extra armour and an Ordnance QF 75 mm gun. GB51 Excelsior  When the problems of the early Churchill models were worked out, the project was dropped. GB51 Excelsior  The second prototype vehicle is on display at the Bovington Tank Museum, UK. GB51 Excelsior 
+
+|HistoricalGallery=
+image:Exc 1. GB51 Excelsior jpg
+image:Exc 2. GB51 Excelsior jpg
+image:Exc 3. GB51 Excelsior jpg
+
+|Ref_references=
+
+|Ref_sources=
+https://www. GB51 Excelsior aviarmor. GB51 Excelsior net/tww2/tanks/gb/heavy_a33. GB51 Excelsior htm
+
+}}
+
+[[Category:British Tanks]]

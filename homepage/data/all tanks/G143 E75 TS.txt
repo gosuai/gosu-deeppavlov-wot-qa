@@ -1,0 +1,42 @@
+{{TankData|Tank=E75_TS
+|
+
+|InTheGame_pros=
+* Good shell velocity and penetration
+* Very strong turret armor, the mantlet is nigh-impenetrable
+* Good gun depression
+* High top speed and acceleration for such a heavy vehicle
+* Huge mass and high speed make the tank good at ramming
+
+|InTheGame_cons=
+* Thin frontal hull armor, reliable only when properly angled, armor scheme makes it a poor brawler
+* Slower turret traverse than the [[Tank:G16_PzVIB_Tiger_II|Tiger II]] and worse accuracy, but similar aim time. G143 E75 TS 
+* DPM is rather underwhelming, but better than the [[Tank:G16_PzVIB_Tiger_II|Tiger II]]. G143 E75 TS 
+* Very large, can be difficult to properly hide
+* Hits to the lower plate can lead to engine damage
+
+|InTheGame_performance=
+From initial appearances, it might be easy to think of this tank as a German version of the [[Tank:R81_IS8|T-10]] at tier 8, having iffy armor but a surprisingly decent gun for its tier. G143 E75 TS  It is more akin to a slightly altered [[Tank:G51_Lowe|Löwe]]. G143 E75 TS  Using the recommended equipment and other crew skill boosters, the reload can be brought down to just under 9 seconds. G143 E75 TS  identical to the [[Tank:GB12_Conqueror|Conqueror]] with its top gun and an identical setup. G143 E75 TS 
+
+In essence, the E75 TS can be seen as combination of the [[Tank:G51_Lowe|Löwe]] and the [[Tank:G16_PzVIB_Tiger_II|Tiger II]], with a support capability not too far removed from the [[Tank:GB12_Conqueror|Conqueror]]. G143 E75 TS  The Shell velocity and penetration will allow some surprising hits from a distance, and if a commander can keep their distance and avoid brawling, they should be able to rack up a respectable amount of damage and even kills. G143 E75 TS  The Alpha of the gun is a middle ground between the Conqueror's top gun and the Tiger II's top gun, giving it a rather peculiar DPM. G143 E75 TS  
+
+In short, this heavy tank is best used at a distance, though can be effective if placed like a Medium tank. G143 E75 TS 
+|InTheGame_equipment=Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|History=
+The E-75 TS is a peculiar tank, but it does seem to have a historical basis. G143 E75 TS   After the cancellation of the [[Tank:G51_Lowe|Löwe]] project in the summer of 1942, Krupp continued development of new heavy tanks. G143 E75 TS   Apparently, one such project designated simply "TS" emerged during the development of the [[Tank:G16_PzVIB_Tiger_II|Tiger II]], and would use components from the [[Tank:G16_PzVIB Tiger II|Tiger II]] and former [[Tank:G51_Lowe|Löwe]] projects. G143 E75 TS   In addition it would use a gas-turbine engine, a 105mm L/70 or L/73 gun, and would have the option of additional turret armor and removable sideskirts (Schürzen). G143 E75 TS   Eventually, Krupp made a request to utilize suspension and transmission components from the E-series tanks in this project, essentially making it an E-75 proposal from Krupp. G143 E75 TS   However, the project was soon cancelled in favor of developing the E-100 Tiger-Maus project. G143 E75 TS 
+
+While this information desperately needs further verification, in any case, the E-75 TS is almost certainly a reconstruction from a set of specifications which represent what the project was supposed to be. G143 E75 TS   Whether or not this constitutes a "fake" or "real" tank remains up for its commander to decide. G143 E75 TS 
+
+|HistAcc=
+There's no known information about an "improved" design of the [[Tank:G55_E-75|E-75]] exists. G143 E75 TS  The only known sketch of the original E-75 only featured a hull and without turret, there's no information about improved turret design of the E-75 either. G143 E75 TS  So, this think is a complete fabrication created by Wargaming. G143 E75 TS 
+* Despite the description stated that it was an "improved" version of the E-75, the E-75 TS's statistics are way worser than the original E-75 in almost every aspect, save for turret armor and top speed. G143 E75 TS 
+
+|HistoricalGallery=
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

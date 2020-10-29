@@ -1,0 +1,60 @@
+{{TankData|Tank=GB31_Conqueror_Gun
+|The Conqueror Gun Carriage Or "CGC", nicknamed as the "Conqueror Orbital Laser Carriage," is the final advancement of the British SPG line. GB31 Conqueror Gun  Unlike other SPGs, it is wise to position it closer to the front lines, for several reasons. GB31 Conqueror Gun  First of all, it has short range, and takes a long time to lob its shells to their target location. GB31 Conqueror Gun  However, it is possible to get away with being close to the action due to the Gun Carriage having the best frontal hull armor of any SPG in the game. GB31 Conqueror Gun  Its gun also has monstrous alpha damage and splash radius, giving its shells quite the punch. GB31 Conqueror Gun 
+
+|Gallery=
+
+|InTheGame_pros= 
+* Upper front plate can deflect rounds capable of penetrating 250+ mm of armor. GB31 Conqueror Gun 
+* Large splash radius and high damage. GB31 Conqueror Gun 
+* Very wide gun traverse arc and high mobility make getting shots easy. GB31 Conqueror Gun 
+* Extremely high shell arc, making it easy to hit enemies behind cover. GB31 Conqueror Gun 
+* Accuracy is pretty good for it's caliber. GB31 Conqueror Gun 
+* Acceptable mobility. GB31 Conqueror Gun  
+
+
+
+|InTheGame_cons=
+* Painful reload speed. GB31 Conqueror Gun 
+* The armor is only on the UFP, the superstructure that houses the gun is only 50 mm. GB31 Conqueror Gun 
+* No gun depression combined with bad view range make self-defense difficult
+* Gun range can be a problem on larger maps. GB31 Conqueror Gun 
+* Despite its mediocre reload time, it has somewhat low damage per shot compared to the T92. GB31 Conqueror Gun 
+
+
+
+|InTheGame_performance=
+The Conqueror GC is much like a buffed, (armour wise), T92 in some ways. GB31 Conqueror Gun  Unfortunately, the gun is worse in all hard statistics except ammunition capacity. GB31 Conqueror Gun   This includes the better armor, as well as H. GB31 Conqueror Gun P. GB31 Conqueror Gun  pool. GB31 Conqueror Gun  However, the gun has shorter range as well as slower shell travel time than other tier X SPG's. GB31 Conqueror Gun  This forces you to get slightly closer to the front lines on larger maps, but this shorter range allows you to reach the maximum range much more easily on most maps, which causes your rounds to fall at steeper angles than other tier X SPG's. GB31 Conqueror Gun   This allows you to land shells behind cover that other artillery pieces would be unable to. GB31 Conqueror Gun   However, the Conqueror Gun Carriage pays for this by having the slowest reloading single-shot gun in the game, requiring you to pick your shots carefully, as you do not have many. GB31 Conqueror Gun   The mobility is acceptable, allowing you to re-position around the battlefield and quickly switch your aim to the other side of the map, but the low top speed of 35 km/h means you can't outrun scouts or mediums that break through. GB31 Conqueror Gun   If forced into T. GB31 Conqueror Gun D. GB31 Conqueror Gun  mode, it is a good idea to set up an ambush. GB31 Conqueror Gun   Scouts and some mediums can also bounce off your upper front plate if they do not aim properly. GB31 Conqueror Gun   Use your H. GB31 Conqueror Gun P. GB31 Conqueror Gun  pool to absorb a shot or two from whatever is shooting you to give your gun more aim time and increase your chance of a hit, because if you miss, you won't get a second shot. GB31 Conqueror Gun 
+
+|InTheGame_research=
+
+|InTheGame_equipment=Large-Caliber Artillery-Shell Rammer,Improved Ventilation Class 3,GLD
+
+|History=
+
+|HistAcc=
+In-game description is false. GB31 Conqueror Gun  The Conqueror Gun Carriage never existed, not even in blueprints. GB31 Conqueror Gun  There were no plans to mount the BL 9. GB31 Conqueror Gun 2 inch Mark II gun on a Conqueror chassis. GB31 Conqueror Gun  Nor was there any plan to make a self-propelled version of the BL 9. GB31 Conqueror Gun 2 inch siege howitzer at all, it being an outdated weapon that was built in 1916 and retired even from the coastal battery artillery role before the end of World War II on account of its ponderous size and nearly all of the ammunition having already been expended. GB31 Conqueror Gun 
+
+The BL 9. GB31 Conqueror Gun 2 inch Mark II howitzer also had a much higher muzzle velocity than the in-game version at 490m/s; the in-game 360m/s velocity is based on the even older BL 9. GB31 Conqueror Gun 2 inch Mark I that was introduced in 1914 and retired in the 1920s. GB31 Conqueror Gun 
+
+|HistoricalGallery=
+
+|Ref_references=N/A
+
+|Ref_sources=N/A
+
+|Ref_links=N/A
+
+
+|Sidebar_Camostop=6. GB31 Conqueror Gun 6
+|Sidebar_Camomove=3. GB31 Conqueror Gun 3
+|Sidebar_Camofire=0. GB31 Conqueror Gun 4
+|Sidebar_Passhard=1. GB31 Conqueror Gun 247
+|Sidebar_Passmed=1. GB31 Conqueror Gun 438
+|Sidebar_Passsoft=2. GB31 Conqueror Gun 397
+|Sidebar_DispTurret=0. GB31 Conqueror Gun 69
+|Sidebar_DispRecoil=5. GB31 Conqueror Gun 753
+|Sidebar_DispAccel=0. GB31 Conqueror Gun 345
+|Sidebar_DispTurning=0. GB31 Conqueror Gun 345
+}}
+
+[[Category:British Tanks]]

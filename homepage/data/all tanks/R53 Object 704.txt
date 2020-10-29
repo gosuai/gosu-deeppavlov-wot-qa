@@ -1,0 +1,95 @@
+{{TankData|Tank=
+|A direct upgrade from the [[ISU-152]], the Object 704 feels like an improvement in all aspects over its predecessor, save perhaps for top speed, enabling the player to do much more than what the ISU would normally allow. R53 Object 704  The first noticeable difference is the fact that the 704 has an even lower vertical profile. R53 Object 704  Therefore, your crew's top priority should be a maximized camouflage skill. R53 Object 704  This tank is incredibly difficult to spot when masked by terrain, and a crew proficient in camouflage will make it almost invisible, staying undetected and unspotted while unleashing a devastating salvo on clueless opponents who will have no idea where the shots are coming from. R53 Object 704  The devastating salvo is, of course, courtesy of your new top gun, the dreaded BL-10, which is a significant improvement over the previous top gun of the ISU-152. R53 Object 704  It has better accuracy, better aim-time and better rate of fire. R53 Object 704  
+
+The armor of the Obj. R53 Object 704  704 is another breath of fresh air for weary ISU drivers. R53 Object 704  While it is thicker, boasting a 120mm frontal plate as opposed to the ISU's 90mm, its true advantage is in the sharp, acute angles which comprise its layout. R53 Object 704  Because of these extremely angled surfaces, the Object 704 is littered with hard-points and voids of spaced armor which will infuriate enemy players as their perfectly placed shots do no damage even when scoring direct hits. R53 Object 704  Despite this, it is inadvisable to allow your tank to be the main target of enemy guns. R53 Object 704  You are, after all, an ambushing tank destroyer not a front line vanguard. R53 Object 704  Position yourself in a spot which allows for maximum use of the 704's camouflage rating and in turn has good line of sight to possible enemy pathways. R53 Object 704  As your teammates light up enemy vehicles, let loose with the BL-10 and watch from cover as the enemy team buckles under the pressure of your high alpha damage. R53 Object 704  Combined with its improved maneuverability, a well driven Obj. R53 Object 704  704 will spell an ill fated assault for its opposition and enable the player to wreak havoc and reap the rewards. R53 Object 704 
+|Gallery=
+
+image:704a. R53 Object 704 jpg{{!}}Front right
+image:704b. R53 Object 704 jpg{{!}}Front left
+image:704c. R53 Object 704 jpg{{!}}Rear right
+image:704d. R53 Object 704 jpg{{!}}Rear left
+image:Obj. R53 Object 704 704-a. R53 Object 704 jpg{{!}}Obj. R53 Object 704  704, map Arctic Region
+
+|InTheGame_pros=
+
+* Amazing damage per shot and penetration. R53 Object 704 
+* Numerous armor hardpoints/spaced armor voids
+* Exceptional camouflage values like ISU-152
+* Far superior acceleration & turning to the ISU-152
+* Excellent DPM potential in addition to the high alpha
+
+|InTheGame_cons=
+
+* Long aim time and average accuracy
+* Poor traverse speed
+* Wider horizontal profile, though lower vertical, when compared to the ISU-152
+* Lower speed limit when compared to the ISU-152
+* High priority target, will attract an overwhelming amount of attention if spotted
+
+|InTheGame_performance=
+
+The Object 704 is, for the most part, a direct upgrade to the ISU-152. R53 Object 704  Everything you learned from the ISU-152 you will make use of in the 704, and you get some pros and lose some cons. R53 Object 704 
+
+The best upgrade you get is your gun. R53 Object 704  You get the BL-10 which is a much more superior gun than the D-4S top gun on the ISU-152. R53 Object 704  Boasting better accuracy, aim time, and Penetration (from 260mm to a whopping 286mm), it is much easier to play the role of a sniper in this tank destroyer. R53 Object 704 
+
+Secondly, the armor is a surprising upgrade. R53 Object 704  On paper, it only has 120mm of armor, but it is very well sloped. R53 Object 704  The sides of the front are also spaced armor, and landing a shot there does no damage. R53 Object 704  As an even bigger plus, your gun mantlet is EVEN BIGGER than on the ISU, making half of this tank's front effectively immune to damage. R53 Object 704 
+
+While it's not designed as such or treated by many as if it can, being an assault gun (peek-a-booming, getting in close, etc. R53 Object 704 ) is very much a viable play-style under the right circumstances, and is favored by many of the server's best players to ensure that they have a direct impact on a match's outcome. R53 Object 704  This is a big difference from the ISU, which lacked the armor, modicum of agility, and hit-points to really pull this off. R53 Object 704  However, a sniping-oriented play-style is still very much viable with the excellent camouflage, like in the ISU-152, and the area denial inherent to that play-style can be highly effective, as no one at any Tier wants to be the first to round a corner and get hit by 750 alpha damage. R53 Object 704 
+
+However, you trade some things from the ISU. R53 Object 704  Firstly, the tank is wider to each side and is more prone to getting hit. R53 Object 704  You also lose 4 km/h top speed, which effectively makes the tank slower than the ISU in long-distance relocation. R53 Object 704 
+
+Other than that, its a good tank destroyer for its tier. R53 Object 704 
+
+|InTheGame_research=
+* You should have researched the D-4S from the [[ISU-152]] so put it on right away, so you don't need to play with the inaccurate derp cannon. R53 Object 704  You should also be able to add the better engine and the 12RT radio. R53 Object 704 
+* Unlock the infamous BL-10 gun to bring out its true potential, receiving even higher penetration, reload rate and also better gun handling. R53 Object 704 
+* This leaves only the tracks and radio to research. R53 Object 704  You should research the tracks first, because with stock tracks turning is very sluggish, then the radio. R53 Object 704 
+
+
+|InTheGame_equipment= Tank Gun Rammer, GLD, Binoculars, Improved Ventilation
+
+|History=
+
+[[image:Object 704 1. R53 Object 704 jpg|thumb|200px|left|Object 704]]
+One prototype, developed in 1945, used elements of the IS-2 and IS-3 tanks. R53 Object 704  The overall height of the vehicle was reduced to 2240 mm, which was compensated with an increased width of the superstructure. R53 Object 704  The factory designation was Object 704 (Объект 704). R53 Object 704  It was armed with the 152. R53 Object 704 4 mm ML-20SM model 1944 (МЛ-20СМ обр. R53 Object 704  1944 г. R53 Object 704 ) gun-howitzer, with a barrel length of over 4. R53 Object 704 5 meters (29. R53 Object 704 6 calibers) and no muzzle brake, which further increased the firepower of the gun. R53 Object 704  
+
+It had a maximum range of 13,000 meters. R53 Object 704  The self-propelled gun carried 20 rounds of two piece (shell and charge) armor-piercing and high explosive ammunition. R53 Object 704  The armor-piercing round, weighing 48. R53 Object 704 78 kg, had a muzzle velocity of 655 m/s. R53 Object 704  The rate of fire was 1-2 round/min. R53 Object 704  The ISU-152 model 1945 had four hatches at the superstructure roof and one emergency hatch at the bottom of the hull behind the driver's seat, which had an armored cover. R53 Object 704  
+
+The self-propelled gun carried two external fuel tanks (90 liters each) not connected to the supply system. R53 Object 704  The secondary armament of the fighting vehicle consisted of two 12. R53 Object 704 7 x 108 mm DShK machine guns, one anti-aircraft and one co-axial. R53 Object 704  
+
+The protection was increased by placing thicker armor at more radical angles. R53 Object 704  In the area of the gun, where the mantlet combined with the hull front behind it and the housing of the recoil mechanism, the armor thickness was 320 mm. R53 Object 704  The ISU-152 model 1945 (ИСУ-152 обр. R53 Object 704  1945 г. R53 Object 704 ) was the best protected of all experimental or production Soviet self-propelled guns of the Second World War. R53 Object 704  However, the radical incline of the superstructure walls combined with the increased recoil of the gun, due to the lack of a muzzle brake, significantly complicated the work of the crew, and for this reason mainly wasn't adopted. R53 Object 704  Today, the self-propelled gun is exhibited at the Kubinka Tank Museum. R53 Object 704 
+{{VideoYT|yE7U1M4MMHs}}{{VideoYT|pce3DPc2f_4}}
+
+|HistAcc=
+* The Object 704 was only fitted with the 152 mm ML-20SM mod. R53 Object 704  1944. R53 Object 704  The 152 mm BL-10 was only ever tested on the ISU-152. R53 Object 704 
+* Like many soviet tanks in game the Obj. R53 Object 704 704 has increased gun depression. R53 Object 704  In reality it had -3° instead of -6°
+* Both engine choices are fictional, the only prototype of the Obj. R53 Object 704 704 used the 520 hp V-2IS engine. R53 Object 704 
+
+|HistoricalGallery=
+image:Object 704-2. R53 Object 704 jpg{{!}}Object 704, side view
+image:Object-704. R53 Object 704 jpg{{!}} Object 704, front view
+image:Object 704 is ISU-152. R53 Object 704 jpg{{!}}Object 704 become ISU-152
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+*(Wikipedia)[https://en. R53 Object 704 wikipedia. R53 Object 704 org/wiki/ISU-152]. R53 Object 704  Scroll to: ISU-152 model 1945
+
+|Sidebar_Camostop=17. R53 Object 704 7
+|Sidebar_Camomove=10. R53 Object 704 9
+|Sidebar_Camofire=4. R53 Object 704 3
+|Sidebar_Passhard=1. R53 Object 704 055
+|Sidebar_Passmed=1. R53 Object 704 342
+|Sidebar_Passsoft=2. R53 Object 704 205
+|Sidebar_DispTurret=0. R53 Object 704 077
+|Sidebar_DispRecoil=3. R53 Object 704 836
+|Sidebar_DispAccel=0. R53 Object 704 182
+|Sidebar_DispTurning=0. R53 Object 704 182
+}}
+
+[[Category:USSR Tanks]]

@@ -1,0 +1,73 @@
+{{TankData|Tank=JagdPantherII
+|The Jagdpanther II, along with its tech-tree cousin, the [[Ferdinand]], are two of Germany's three non-premium tier 8 tank destroyers. G71 JagdPantherII  Possessing the same 12,8 gun, they are all extremely powerful and pack a great punch. G71 JagdPantherII  It has a very thick and sloped frontal casemate armor that can bounce even Tier X shells. G71 JagdPantherII  It is also much faster than most Tank destroyers of its tier, due to its powerful engine and good ground resistance values. G71 JagdPantherII  Keep in mind though, the hull armor is still quite thin, and to best utilize your tank you should employ ambush or sniping tactics, using the element of surprise as your weapon. G71 JagdPantherII  The JagdPanther II will be able to inflict substantial damage and dart away before the enemy gets a clear shot. G71 JagdPantherII  With proper use, the Jagdpanther II can become a fearsome opponent. G71 JagdPantherII 
+
+Many players compare this tank with its cousin, the [[Ferdinand]] as it carries the same guns and has (almost) the same reload time, but the Jadgpanther II puts emphasis on its maneuverability over hull armor allowing it to move and relocate surprisingly fast on the battlefield, while being much faster than the Ferdinand. G71 JagdPantherII  It doesn't have a very good gun traverse and gun depression (compared that of the Ferdinand), requiring to move more often to readjust the aim against an enemy, but it makes no less of a threat. G71 JagdPantherII 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Very powerful and accurate top gun
+* Well armored superstructure
+* Excellent top speed and hull traverse speed
+* Good at ramming thanks to its weight and speed
+
+|InTheGame_cons=
+* Bad hull armor, similar to the [[Panther II]] medium tank
+* Large target with bad camouflage 
+* Low hitpoint pool
+* Vulnerable engine and ammo rack modules
+* Limited gun depression
+
+|InTheGame_performance= The JagdPanther II is a very versatile TD, much more so than [[Ferdinand]]. G71 JagdPantherII  It can fit and perform adequately in pretty much every situation. G71 JagdPantherII  It's not limited to sniping and supporting the main force like typical tank destroyers, but can also be used as a brawler and flanker if needed. G71 JagdPantherII  You can even wolfpack with mediums and support them with your firepower if you want. G71 JagdPantherII  The 128mm gun can easily penetrate any tier 8 and below without any trouble. G71 JagdPantherII  Another good thing is because of your agility, it is very hard for a medium tank to circle. G71 JagdPantherII 
+
+However do note that its weaknesses which is its tall stature and poor hull armor. G71 JagdPantherII  Due to its size, it has mediocre camouflage value (on par with same tier mediums) and thus it is easy to be spotted. G71 JagdPantherII  Its armor is similar to that of the Panther II however due to the fact that it is a non-turret TD, you are unable to angle while returning fire. G71 JagdPantherII  Your only hardpoint is the casemate, at 150mm sloped back at 60 degrees, it is a very tough nut to crack. G71 JagdPantherII  Abuse hulldown positions and/ or elevated platforms, enemies will have a very hard time damaging you while you punish them with your high alpha. G71 JagdPantherII  
+
+Overall, it's a very fun tank to play, and in the hands of a skilled player that knows how to maximize its strength, it is easily one of the most feared tank in tier 8. G71 JagdPantherII 
+
+
+|InTheGame_research=
+* Research the the 12,8cm PaK 44 L/55. G71 JagdPantherII  
+* Research suspension. G71 JagdPantherII 
+* Go for the upgraded engine. G71 JagdPantherII 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Camouflage Net, Vents, Coated Optics, Wet Ammo rack
+
+|History=
+The Jagdpanther II was conceived in November of 1944 by Krupp to up-arm the Jagdpanther with an 12. G71 JagdPantherII 8 cm PaK 80. G71 JagdPantherII  Since it was impossible to mount the 12. G71 JagdPantherII 8 on the Jagdpanther in its current layout, Krupp redesigned the Jagdpanther with a new crew compartment which was to be very cramped. G71 JagdPantherII  It was to weigh 51 tons and was to have a long reload. G71 JagdPantherII  It was cancelled because the Jagdpanther with the 8. G71 JagdPantherII 8 L/71 was more than adequate. G71 JagdPantherII 
+
+It is a myth that the Panther II chassis was to be used for the 12. G71 JagdPantherII 8 armed Jagdpanther, as the Panther II was cancelled months before the 12. G71 JagdPantherII 8 Jagdpanther. G71 JagdPantherII  In fact, the designation "Jagdpanther II" was never used for this vehicle. G71 JagdPantherII  Instead, it should be called the Jagdpanther mit 12. G71 JagdPantherII 8 cm PaK 80. G71 JagdPantherII  
+
+
+|HistoricalGallery=
+image:JagdPanther II 1. G71 JagdPantherII jpg{{!}}Jagdpanther mit 12. G71 JagdPantherII 8 cm Pak 80 technical drawing
+
+|HistAcc=
+The Jagdpanther II's actual name is, Jagdpanther mit 12. G71 JagdPantherII 8 cm Pak 80. G71 JagdPantherII 
+*This tank destroyer was developed on the basis of the [[Panther]] hull, not [[Panther II]]. G71 JagdPantherII  Its hull armor values should be 85/50/40 mm, not 100/60/40. G71 JagdPantherII 
+*The actual Jagdpanther II project was simply a [[Jagdpanther]], but based on the Panther II chassis. G71 JagdPantherII 
+*The Panther II project had been dead for around a year before the Jagdpanther mit 12. G71 JagdPantherII 8 cm Pak 80 project began. G71 JagdPantherII 
+
+|Ref_references=
+
+|Ref_sources=
+''Panzer Tracts 20-1'',Jentz & Doyle, pg 49, Panzer Tracts, 2001. G71 JagdPantherII 
+
+
+|Ref_links=
+
+|Sidebar_Camostop=10. G71 JagdPantherII 3
+|Sidebar_Camomove=6. G71 JagdPantherII 3
+|Sidebar_Camofire=2. G71 JagdPantherII 9
+|Sidebar_Passhard=0. G71 JagdPantherII 767
+|Sidebar_Passmed=0. G71 JagdPantherII 959
+|Sidebar_Passsoft=2. G71 JagdPantherII 014
+|Sidebar_DispTurret=0. G71 JagdPantherII 077
+|Sidebar_DispRecoil=2. G71 JagdPantherII 877
+|Sidebar_DispAccel=0. G71 JagdPantherII 173
+|Sidebar_DispTurning=0. G71 JagdPantherII 172
+}}
+
+[[Category:German Tanks]]

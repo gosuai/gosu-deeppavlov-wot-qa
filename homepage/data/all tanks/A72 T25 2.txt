@@ -1,0 +1,98 @@
+{{TankData|Tank=T25_2
+|When fully upgraded, the T25/2 has similar speed and maneuverability to the [[T25 AT]]. A72 T25 2  However, unlike the T25 AT, the T25/2's turret cannot mount the powerful [[Gun#105 mm AT Gun T5E1|105 mm AT Gun T5E1]]. A72 T25 2  The combination of only being able to use the 90 mm AT Gun T15E2 gun along with poor armor limits the T25/2 to the second line on the battlefield. A72 T25 2  The T25/2 does get a fully enclosed turret upgrade, which increases its ability to withstand HE and artillery rounds. A72 T25 2  Using your speed to get into positions and provide fire support to your allies quickly while avoiding enemy fire is key to playing this tank destroyer. A72 T25 2 
+
+|Sidebar_Camostop=18. A72 T25 2 3
+|Sidebar_Camomove=11. A72 T25 2 1
+|Sidebar_Camofire=6. A72 T25 2 6
+|Sidebar_Passhard=1. A72 T25 2 151
+|Sidebar_Passmed=13. A72 T25 2 42
+|Sidebar_Passsoft=2. A72 T25 2 205
+|Sidebar_DispTurret=0. A72 T25 2 115
+|Sidebar_DispRecoil=3. A72 T25 2 068
+|Sidebar_DispAccel=0. A72 T25 2 221
+|Sidebar_DispTurning=0. A72 T25 2 221
+
+|InTheGame_pros=
+* Turret mantlet is surprisingly bouncy and the addition of a roof cover on 2nd turret reduces artillery and HE damage
+* Good speed and reasonable mobility once upgraded
+* Great aim time on both guns
+* Good for hulldown, thanks to its small and surprisingly bouncy turret, excellent gun depression and relatively low hull
+* Good camouflage
+
+
+|InTheGame_cons=
+* Armour is almost useless when in battles of higher tier 
+* Worst top gun of its tier; bad penetration and alpha damage with poor ballistics. A72 T25 2 
+* Poor turret traverse
+* Turret is easily damaged 
+* Can be an extremely painful stock grind
+* Not much of an improvement from the t6 TD line, Jackson
+
+
+|InTheGame_performance=
+It is important not to think of this tank as a progression from the Hellcat, but rather as a larger Jackson as the TD plays much more like the slower Jackson than the speedy Hellcat. A72 T25 2  Its highest gun is adequate for its own tier, though it is rare to be at the top of the list. A72 T25 2  It is best to use this as a second line tank, sniping at already engaged tanks or hitting them from out of their range before relocating. A72 T25 2  The depression of its guns is excellent, allowing you to make shots that most opponents wouldn't expect, especially if you are on higher or lower ground, and can save you from some difficult encounters. A72 T25 2  It is imperative to aim for the weak spots on opponents as the T15E2 gun has poor penetration for its tier, and avoid fighting alone or spearheading an attack. A72 T25 2  If possible, try to remain undetected whilst killing off low-health targets. A72 T25 2  If detected, use its speed to relocate before taking too much damage. A72 T25 2  
+Coming from the M18 Hellcat, to which it is inferior in most ways, despite being a tier higher, the T25/2 may seem like a let-down, especially when it is stock. A72 T25 2  However, when viewed objectively, it is still a good TD that can perform well. A72 T25 2  
+One major advantage over the Hellcat is the smaller dispersion after moving, turning the turret, or firing. A72 T25 2  This makes the T25/2 more capable of taking snapshots and gives it a limited dogfighting ability when caught by enemy tanks at close range. A72 T25 2 
+Unfortunately, the stats are pretty much the same as the T6 M36 Jackson. A72 T25 2   The only difference is the engine power. A72 T25 2  It also does not get the 105mm like its brethren. A72 T25 2 
+
+Keep in mind that, although the top gun has good stats on paper, it might be quite frustrating to use it due to the way its shells arch towards the target. A72 T25 2  You'll find perfectly aimed shots going over the spot you aimed at frequently. A72 T25 2 
+
+|InTheGame_research=
+* The SCR 506 radio carries over from the T82, and should be equipped immediately. A72 T25 2 
+* Next, go for the engine, as it greatly increases your maneuverability. A72 T25 2 
+* The stock suspension cannot hold anything else now, so go for the next suspension upgrade. A72 T25 2 
+* Then, the upgraded turret to hold the upgrade 90mm. A72 T25 2 
+* Last, the upgrade 90mm, for an increase of 10 millimeters of penetration. A72 T25 2 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|Gallery=
+image:T252-a. A72 T25 2 png{{!}}T25/2 front right
+image:T252-b. A72 T25 2 png{{!}}T25/2 front left
+image:T252-c. A72 T25 2 png{{!}}T25/2 rear left
+image:T252-d. A72 T25 2 png{{!}}T25/2 rear right
+image:T252game. A72 T25 2 jpg{{!}}T25/2, Siegfried line map 
+
+
+|History=
+With encounters with German Tiger tanks in Tunisia, tanks crews were wanting a tank with bigger guns than 75 mm and 76 mm. A72 T25 2 
+
+In March 1943 a new turret was fitted with a 90 mm AA gun and put onto a T23 model. A72 T25 2 
+
+The Army Service Forces placed an order for 50 of these tanks. A72 T25 2 1 10 of these were to be T26s. A72 T25 2  The first T25s were completed until early 1944. A72 T25 2 
+
+A request for 8,000 T25s and T26s with 75 mm and 76 mm guns was rejected. A72 T25 2 
+== Development ==
+The T25 and T26 lines of tanks came into being in the midst of a heated internal debate within the U. A72 T25 2 S. A72 T25 2  Army in the mid-1943 to early 1944 over the need for tanks with greater firepower and armor. A72 T25 2  A 90 mm gun mounted in a massive new turret was installed in both series. A72 T25 2  The T26 series were given additional frontal hull armor, with the glacis plate increased to 4 in (10 cm). A72 T25 2  This increased the weight of the T26 series to over 40 short tons (36 t) and decreased their mobility and durability as the engine and powertrain were not improved to compensate for the weight gain. A72 T25 2  
+
+|HistoricalGallery=
+
+|HistAcc=
+The T25 prototype number 2 is actually an upgraded T23E3 with HVSS suspension, 90 mm gun and cast turret. A72 T25 2  The version depicted in World of Tanks is fake. A72 T25 2  See [https://wiki. A72 T25 2 wargaming. A72 T25 2 net/en/Tank:A111_T25_Pilot T25 Pilot Number 1] for the historical version. A72 T25 2 
+* Actually a medium tank, not a tank destroyer. A72 T25 2 
+* Large cast turret derived from the T23E3 is missing. A72 T25 2  The M36 Jackson turret configuration is fake. A72 T25 2 
+* Additionally, the in-game T25/2 mounts the M36 Jackson turret with the 90mm gun. A72 T25 2  However, the T25 medium tank itself was able to equip the 90mm gun without the need of the M36 turret. A72 T25 2 
+* The Continental AV-1790 engine was only mounted on the M26E2/M46. A72 T25 2  Its configuration on the T25 is fake. A72 T25 2 
+* The T25's engine is considerably more powerful than in reality, with 704 hp compared to the historical 470. A72 T25 2 
+* The T15E2 gun was only mounted on the [[T26E4 SuperPershing]]. A72 T25 2  Its configuration on the T25 is fake. A72 T25 2 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A72 T25 2  and C. A72 T25 2  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A72 T25 2 
+
+Forty, G. A72 T25 2 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A72 T25 2 
+
+Zaloga, S. A72 T25 2 J. A72 T25 2 , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A72 T25 2 
+
+
+|Ref_links=
+* https://ftr-wot. A72 T25 2 blogspot. A72 T25 2 com/2013/04/fake-american-vehicles. A72 T25 2 html
+
+}}
+
+[[Category:USA Tanks]]

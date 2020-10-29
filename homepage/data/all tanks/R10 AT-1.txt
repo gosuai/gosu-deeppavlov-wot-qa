@@ -1,0 +1,71 @@
+{{TankData|Tank=AT-1
+|The AT-1 marks the beginning of the Soviet tank destroyer line. R10 AT-1  It is quite maneuverable for a tank destroyer, has good acceleration, and can turn on a dime. R10 AT-1  The AT-1's 57 mm ZiS-8S is a Tier 4 gun that can destroy Tier 2-3 tanks with rapid-fire volleys. R10 AT-1  Unfortunately, it has a deplorable view range, so it cannot snipe at all without spotters. R10 AT-1 
+
+|Gallery=
+image:AT-a. R10 AT-1 jpg{{!}}Front right
+image:AT-b. R10 AT-1 jpg{{!}}Front left
+image:AT-c. R10 AT-1 jpg{{!}}Rear right
+image:AT-d. R10 AT-1 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Very small silhouette and good camouflage values
+* Good hull traverse speed
+* Superb firepower
+* Good alpha damage with the 75mm
+* Good sustained damage with the 57mm
+
+|InTheGame_cons=
+* Very weak armor
+* Terrible view range (one of the shortest in the game)
+* Long aim time and poor accuracy on the 76mm
+
+|InTheGame_performance=
+The AT-1 has some of the most powerful guns available at Tier 2, balanced by its atrocious view range, long aim times, and poor armor. R10 AT-1  Unlike the old American T18 (which is no longer in the game), with its fantastically thick 51 mm of armor, the AT-1 is poorly suited to the assault gun role, with even worse armor than its predecessor, the Tier 1 [[MS-1]]. R10 AT-1 
+
+To start with the AT-1 receives the '''45 mm 20KS''', which for all intents and purposes is the same as the 45 mm mod. R10 AT-1  1932 on the MS-1, except with somewhat better aim time and accuracy. R10 AT-1  It is quite adequate against most Tier 2 tanks, but will struggle against the T18's frontal armor or the heavily armored French tanks. R10 AT-1  The '''37 mm ZiS-19S''' is significantly more accurate and has somewhat more penetration, but also deals slightly less damage. R10 AT-1  The '''76 mm L-10S''' is a very powerful gun, with damage comparable to a tier 5 TD, comparable to the T18's 75 mm Howitzer M1A1. R10 AT-1  Unfortunately, like all howitzers, it is very inaccurate and has a long aim time. R10 AT-1  While the T18 can nullify these disadvantages using its excellent armour at close range, the AT-1 cannot. R10 AT-1  However, the L-10S on the AT-1 can be used as a form of pseudo-artillery, especially with HE rounds. R10 AT-1  The '''57 mm ZiS-8S''' is probably the best weapon for the AT-1. R10 AT-1  With 75 mm of penetration, it is easily capable of dispatching any tank the AT-1 will normally encounter, but is not as accurate and has a longer aim time than the ZiS-19S. R10 AT-1 
+
+Mobility-wise, the AT-1 is quite good. R10 AT-1  It turns better than the T18, though it is not as fast in a straight line. R10 AT-1  This can occasionally be very helpful, especially at the fast pace at which Tier 2 and Tier 3 matches tend to take place, although close combat in the AT-1 is to be avoided. R10 AT-1 
+
+The AT-1 has thin 15 mm armor that is almost vertical, with nearly no sloping. R10 AT-1  Bouncing an enemy projectile is a very rare event, and with only 125 HP, the AT-1 absolutely cannot afford to take hits. R10 AT-1 
+
+Probably the AT-1's greatest weakness is its view range. R10 AT-1  250 m is one of the shortest view ranges in the game, and the AT-1 is almost completely dependent on other tanks to spot targets for it. R10 AT-1 
+
+=='''Crew Skills'''==
+* Like on most other tank destroyers with weak armor, '''Camouflage''' is absolutely necessary on all crew members and should be prioritized over other skills. R10 AT-1 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly recommended, especially given the AT-1's poor view range. R10 AT-1 
+* Once Camouflage and Sixth Sense have been trained, more specialized skills may be considered. R10 AT-1  '''Situational Awareness''' is almost mandatory for the commander (who is also the radio operator), since it helps increase that atrocious view range, if only by a small amount. R10 AT-1  '''Snap Shot''' on the gunner (who is also the loader) provides less accuracy bonuses on limited-traverse tank destroyers like the AT-1, but is helpful nonetheless. R10 AT-1  '''Smooth Ride''' is probably the best skill for the driver, since it reduces the accuracy penalty incurred after moving in a straight line. R10 AT-1  
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R10 AT-1  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R10 AT-1  It should be saved for later on the AT-1, at least until after Camouflage and Sixth Sense have been fully trained. R10 AT-1 
+
+|InTheGame_research=
+* No modules carry over from the MS-1, but the engines and radio can be researched on the [[T-26]]. R10 AT-1 
+* The 37 mm ZiS-19S is not required to unlock anything and is not used on future tanks, so it may be skipped entirely. R10 AT-1 
+* The AT-1 bis suspension is required to mount the L-10S and all but the lightest of equipment, and should be researched first. R10 AT-1 
+* Priority should then be given to either the 76 mm L-10S or the 57 mm ZiS-8S first for a dramatic increase in firepower. R10 AT-1  The ZiS-8S is also required to unlock the [[SU-76]]. R10 AT-1 
+* The T-26M engine provides negligible benefits, and it will be more economical to simply wait to unlock and buy the final T-26F engine. R10 AT-1 
+* The 71-TK-3 radio's longer range is important, allowing the AT-1 to communicate with spotters. R10 AT-1 
+
+|InTheGame_equipment=
+Vents, Binocular Telescope, Camouflage Net, GLD
+
+|History=
+The AT-1 was an self-propelled gun ('AT' stood for 'Artilleriskiy Tank' - 'Artillery Tank') in reality, not a tank destroyer. R10 AT-1  See [https://en. R10 AT-1 wikipedia. R10 AT-1 org/wiki/T-26_variants https://en. R10 AT-1 wikipedia. R10 AT-1 org/wiki/T-26_variants]. R10 AT-1 
+
+The prototype AT-1 was only ever equipped with the 76mm PS-3. R10 AT-1  Although both the 76mm KT-28 and 76mm L-10 was considered and would've replaced the PS-3 had the tank developed further. R10 AT-1 
+
+|HistoricalGallery=
+image:AT-1 1. R10 AT-1 jpg{{!}}AT-1 Front
+image:AT-1 2. R10 AT-1 jpg{{!}}AT-1 Rear
+image:AT-1 3. R10 AT-1 jpg{{!}}AT-1 Side
+image:AT-1 4. R10 AT-1 gif{{!}}AT-1 Technical Drawing
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. R10 AT-1 wikipedia. R10 AT-1 org/wiki/T-26_variants
+* https://warspot. R10 AT-1 ru/16425-lyogkiy-arttank-bez-bashni
+}}

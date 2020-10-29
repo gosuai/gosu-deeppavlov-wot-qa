@@ -1,0 +1,96 @@
+{{TankData|Tank=
+|The unique tank that shares traits with [[Tank:Crusader 5. GB44 Archer 5-in. GB44 Archer  SP|Crusader SP]] for mounting the gun backwards on a Valentine chassis. GB44 Archer  That makes its reverse speed much higher than forward speed (12/35 KM). GB44 Archer  This means that for travelling, you must drive backwards. GB44 Archer  However, this awkward gun placement can save your life from flanking (Especially because it's thinly armored). GB44 Archer  It can mount a deadly 17 pdr gun aka nightmare in Tier 5. GB44 Archer  
+
+|Gallery=
+
+File:Archer scr 1. GB44 Archer jpg
+File:Archer scr 2. GB44 Archer jpg
+File:Archer scr 3. GB44 Archer jpg
+
+
+|InTheGame_pros=
+- Can mount the 17 pdr gun, boasting phenomenal penetration against all but the toughest of targets. GB44 Archer 
+
+- Very good traverse; low flanking risk
+
+- Very wide gun arc compared to the AT 2
+
+-  Good view range for a tier V
+
+- Very fast reverse speed, allows to reposition quickly and doesnt need to turn in order to retreat into another position
+
+- High rate of fire on top gun plus aforementioned hitting power can tear most enemies to shreds with ease at long ranges. GB44 Archer 
+
+|InTheGame_cons=
+- Stupidly placed gun means you have to go backwards to reach its top speed(32 KM/H)
+
+- Awful forward speed  (12 KM/H; even worse than the TOG II!), and its top (reverse) speed isn't impressive either
+
+- The tank is a glass cannon with virtually no armor; any large calibre howitzer will decimate you
+
+- Loses accuracy very badly when turning. GB44 Archer 
+
+- Poor shell velocity, often misses long-range targets
+
+|InTheGame_performance=
+The Archer is an unusual vehicle in many respects, while also being rather typical in others. GB44 Archer  Because the gun was placed backwards on the chassis, the reverse speed is faster than the forward speed. GB44 Archer  This trait makes it a perfect ambush vehicle; after opponents at range get too close or you are spotted, it will reverse safely back into cover. GB44 Archer  Practising backwards driving will be of great benefit in this vehicle. GB44 Archer  
+
+Aside from the unusually high reverse speed relative to the forward speed, it is a fairly typical open-topped thinly-shielded tank destroyer. GB44 Archer  Do not get shot at at all: while derived from the Valentine chassis, it does not share the armour (due to the rear armor now being the frontal armor), and will be destroyed quickly if cover it not sought. GB44 Archer  
+
+However, the appalling speed driving forwards combined with the good backwards speed means that the Archer should not participate in pushes. GB44 Archer  The top speed of 12 kph means you are too slow to participate properly (and be very vulnerable if caught in the open), and driving backwards is not recommend if at risk at engaging enemies. GB44 Archer  This means that when playing the Archer, you should pick a good spot to hide and snipe, and only relocate within a short distance. GB44 Archer  
+
+The powerful top gun and fast turning radius make the Archer an excellent artillery guard, as it can engage both heavily armoured targets at a distance as well as fast moving lights relatively close up. GB44 Archer  But as always with the Archer: don't get into attrition-based firefights. GB44 Archer   
+
+As a side note, when playing the Archer, be prepared to take the reactions of other players graciously. GB44 Archer  The Archer seem to attract a lot of ire from team mates, as there seem to be more than a few players which don't understand the limitations and playing style of the Archer, i. GB44 Archer e. GB44 Archer  that you need to camp and can't very well participate in pushes. GB44 Archer  
+
+|InTheGame_research=
+
+Stock suspension is very close to load limit and upgraded suspension or Enhanced Coil Springs Class 1 equipment (20 000 credits) is required is mount even both camo-net and binocular telescope. GB44 Archer  Stock gun is totally inadequate too and should be upgraded immediately. GB44 Archer 
+
+You may already have the top 17-pounder gun, since it's shared with AT 8 and Challenger. GB44 Archer  You still have to research first 17-pounder too, since its required to advance to next tank. GB44 Archer 
+
+Radios are shared with many British tanks and can be installed immediately. GB44 Archer  Upgraded engine is not used anywhere else and gives only minor buff to mobility, but is very cheap to research. GB44 Archer 
+
+|InTheGame_equipment=Camouflage Net, Binocular Telescope, Medium-Caliber Tank gun rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+{{VideoYT|7dns-rFYTVE}}{{VideoYT|ZdzRusXonAM}}
+The '''Self Propelled 17pdr, Valentine, Mk I, Archer''' was a [[UK|British]] [[Tank_Destroyers|Tank Destroyer]] of the [[World War II|Second World War]] based on the [[Tank:GB04_Valentine|Valentine]] [[infantry tank]] [[chassis]] fitted with an [[Ordnance QF 17 pounder]] gun. GB44 Archer 
+
+==Design and development==
+The [[Ordnance QF 17 pounder|17 pounder anti-tank gun]] was a very powerful gun but also very large, heavy, and could only be moved about the battlefield by a vehicle, which made the gun more effective in defence than in the attack. GB44 Archer   A version of the Churchill tank had been tested as a self-propelled gun; the "3-inch Gun Carrier" and the US was expected to be able to provide the [[Tank:A30_M10_Wolverine|M10 ''Wolverine'']] through [[Lend-lease]]. GB44 Archer  Other projects were considered using obsolete tank chassis; possible vehicles included the Valentine for its reliability and low profile; and the [[Tank:GB20_Crusader|Crusader]] for its good power-to-weight ratio. GB44 Archer  In development were tank designs using the 17-pdr, which led to the [[Tank:GB41_Challenger|Challenger]] (and its post-war variant the Avenger) derived from the [[Tank:GB21_Cromwell|Cromwell]] cruiser tank, and the [[Tank:GB19_Sherman_Firefly|Sherman Firefly]] conversion of Sherman tanks. GB44 Archer 
+
+The Valentine chassis was soon chosen, as it was in production but obsolescent as a tank in British use and was also one of the few chassis that could accommodate such a large gun. GB44 Archer {{Citation needed|date=March 2008}}The engine in the Archer had a higher power rating than in the Valentine. GB44 Archer <ref>Fletcher, ''Universal Tank''</ref> The Valentine had a small hull and it was not possible to use a turret, the gun was mounted in a simple, low, open-topped armoured box, very much like the early ''[[Panzerjäger]]'' German self-propelled guns in appearance, with the gun facing to the rear which kept the length of the Archer short. GB44 Archer  The mounting allowed for 11 degrees of traverse to either side with elevation from -7. GB44 Archer 5 to +15 degrees. GB44 Archer <ref>''British Anti-tank guns 1939-1945'' Osprey p22</ref>
+
+On firing, the gun breech recoiled into the driver's space, with the driver staying in position, in case the vehicle needed to move quickly. GB44 Archer  The rear mounting had the advantage that combined with its low silhouette, the Archer made an excellent ambush weapon, allowing its crew to fire, then drive away without turning round. GB44 Archer 
+
+The first prototype was completed in 1943, with firing trials carried out in April 1943. GB44 Archer  Vickers were given orders for 800 vehicles. GB44 Archer 
+
+==Service==
+[[File:Abandoned Egyptian Archer. GB44 Archer jpg|thumb|left|This Archer tank destroyer was abandoned by the [[Egyptian Army]] during the [[Suez Crisis]], 1956. GB44 Archer ]]
+
+Production started in mid-1943 and the Archer entered service in October 1944. GB44 Archer  It was used in [[Western Front (WWII)|North-West Europe]] and (in 1945<ref>White p17<!--pages not numbered but is the 17th page--></ref>) [[Italian Campaign (World War II)|in Italy]]. GB44 Archer  By the end of the war, 655 of them had been produced. GB44 Archer  The Archer was classified as a self-propelled anti-tank gun and as such was operated by the [[Royal Artillery]] (RA) rather than by [[Royal Armoured Corps]] units - as were British [[M10 Wolverine|3in SP, Wolverine]] and [[17pdr SP Achilles|17pdr SP. GB44 Archer  Achilles]] - during the war. GB44 Archer 
+
+Post-war the Archer served with the [[Egyptian Army]]. GB44 Archer  Surviving vehicles are preserved at the [[Yad La-Shiryon]] museum in [[Latrun]], [[Overloon War Museum|National War and Resistance Museum, Overloon]] in the Netherlands, and the [[Bovington Tank Museum]] in the UK. GB44 Archer  The Archer served with some units of the Royal Armoured Corps in the [[British Army of the Rhine]] (BAOR) in the early 1950s. GB44 Archer 
+
+|HistAcc=
+SCC No. GB44 Archer  15 Olive Drab paint scheme is missing. GB44 Archer  This was the base colour on all British AFVs in Europe from April 1944. GB44 Archer 
+* Allied star identification marking is missing. GB44 Archer  The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Archer entered service in September 1944. GB44 Archer 
+
+|HistoricalGallery=
+Archer. GB44 Archer jpg{{!}}Archer tank destroyer providing fire support near Goch, Germany on 19 February 1945
+Archer (2). GB44 Archer jpg{{!}}Archer tank destroyer in the flooded streets of Kranenburg, Germany on 11 February 1945
+Archer (3). GB44 Archer jpg{{!}}Egyptian Archer in Rafah during the Suez Crisis
+SurvivingArcher. GB44 Archer jpg{{!}}A preserved Archer in the Bovington Tank Museum
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,85 @@
+{{TankData|Tank=
+|
+
+This tank was available as a reward tank along with the [[Tank:M60|M60]], [[Tank:VK7201|VK 72. R95 Object 907 01K]], and [[Tank:A95_T95_E6|T95E6]] for the top 3000 players on the NA server and top 11000 players on the EU server who had gained the most fame points during the 3rd, 4th and 5th Clan Wars Campaigns. R95 Object 907 
+
+|Gallery=
+
+File:Объект 907 scr 2. R95 Object 907 jpg
+File:Объект 907 scr 3. R95 Object 907 jpg
+File:Объект 907 scr 4. R95 Object 907 jpg
+File:Object_907_11. R95 Object 907 jpeg|Об. R95 Object 907 907 в ангаре в наградном камуфляже
+
+
+|InTheGame_pros=
+- Extremely trollish armor layouts: this tank actually has V-shaped hull, which absorbs shot in corners of lower plate and most portions of the suspension; upper glacis is curved, with very thick weld seam on edges. R95 Object 907  Sides may able to bounce some shots when angled
+
+- Very strong turret, also bouncy even from the sides; has strip of spaced armor protecting the turret ring and hull roof
+
+- 3rd highest DPM among all mediums, also decent penetration and good gun handling
+
+- Very strong side armor on the hull
+
+- Decent all-around mobility and great agility
+
+|InTheGame_cons=
+- Poor alpha damage and below average depression on gun
+
+- Turret roof is rather large, easily overmatched by mid-large calibre, and marked clearly by a line for easy targeting. R95 Object 907 
+
+- Exceptionally vulnerable ammo rack due to weak module HP and tight internal emplacement
+
+- Low ammunition count
+
+|InTheGame_performance=
+|InTheGame_research=
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+|External_Reviews=
+
+|History=
+
+'''History''' 
+
+On 20. R95 Object 907 5. R95 Object 907 1952, Ministry of Defense industry of USSR organized a meeting with tank constructors and with the marshal of tank forces, I. R95 Object 907 S. R95 Object 907 Bogdanov, to discuss the future of armored forces development. R95 Object 907  The result of this meeting was a set of tank requirements from 18. R95 Object 907 6. R95 Object 907 1952. R95 Object 907  The resulting tank was to be better than T-54 - that was however no easy tasks and several teams (notably from plants no. R95 Object 907  75, 174, 183 and research institute no. R95 Object 907 100) were tasked to make a preliminary study. R95 Object 907  The design, produced by the research institute was designated "Object 907" and - as requested - its armor was significantly better than the one of the T-54. R95 Object 907  From 1954 to 1956 the metal prototypes of the hull and turret were manufactured in order to conduct armor tests and to find ways to improve the protection even more (see the T-22 medium history section for more details on the metal prototypes). R95 Object 907 
+
+
+There two variants of the hull. R95 Object 907  The first hull was cast as whole, the second was welded from cast components. R95 Object 907  After the tests, the protection levels of the vehicle were found to be significantly higher than the ones of the T-54 (by as much as 30 percent). R95 Object 907  The turret was (thanks to its angles) as well protected as the one of the T-10 heavy tank. R95 Object 907 
+
+The vehicle was to be equipped with the 100mm D-10T gun, but there was a plan to install even the 122mm M-62 gun. R95 Object 907  It was to be propelled by the 700hp B12-5 diesel engine with two transmission types: hydrodynamic (like in T-54) and mechanical (like in T-34). R95 Object 907 
+
+The vehicle stayed in the semi-prototype phase, apparently because by the time it was introduced, the production of T-54 tanks was already underway. R95 Object 907 
+
+'''Characteristics'''
+
+Armor:
+* frontal hull plate (upper part): cca 162mm
+* frontal hull plate (middle part): cca 150mm
+* frontal hull plate (lower part): cca 30mm
+* hull sides: 60-124mm
+* rear hull: 45mm
+* turret sides: cca 144mm 
+
+Gun: D-10T or 122mm M-62
+
+Engine: B12-5 engine at 700hp
+
+Speed: 55 km/h (45 in rough terrain)
+
+|HistoricalGallery=
+File:A-22_hull. R95 Object 907 jpg{{!}}A-22 hull, the metal prototype of the Object 907
+File:Object_907_blueprint. R95 Object 907 jpg{{!}}Object 907 blueprint
+File:Object_907_armor_scheme. R95 Object 907 png{{!}}Object 907 armor schematics
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr-wot. R95 Object 907 blogspot. R95 Object 907 com/2013/02/leaked-object-907-will-be-implemented. R95 Object 907 html
+* https://survincity. R95 Object 907 com/2013/07/experienced-medium-tank-object-907/
+* https://thearmoredpatrol. R95 Object 907 com/2015/07/11/%D1%82-22%D1%81%D1%80-%D0%B0-22/
+
+}}

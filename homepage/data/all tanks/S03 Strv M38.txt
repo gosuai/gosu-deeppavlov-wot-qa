@@ -1,0 +1,127 @@
+{{TankData|Tank= 
+Developed on the basis of the L-60 light tank by AB Landswerk. S03 Strv M38  During mass production, the vehicle underwent several modifications. S03 Strv M38  A total of 216 vehicles of different variants were produced from 1939 through 1944. S03 Strv M38  The vehicle remained in service of the Swedish Army until the 1960s. S03 Strv M38 
+
+| 
+
+|Gallery= 
+image:strv38_frontleft. S03 Strv M38 png{{!}}Strv m/38 front-left view
+image:strv38_rearleft. S03 Strv M38 png{{!}}Strv m/38 rear-left view
+image:strv38front. S03 Strv M38 png{{!}}Strv m/38 front view
+image:strv38_rear. S03 Strv M38 png{{!}}Strv m/38 rear view
+image:str38_side. S03 Strv M38 png{{!}}Strv m/38 side view
+
+|InTheGame_pros= 
+* Fantastic depression
+* Good penetration and alpha values
+* Low dispersion on the move and on turret rotation
+* Decent maneuverability
+|InTheGame_cons= 
+* Paper thin armour
+* Below average DPM
+
+|InTheGame_performance= 
+Crew: If you are planning to purchase the tank without crew, only the commander and driver can be carried over from tier 1. S03 Strv M38   You will need to recruit a gunner as 4th crew member in tier 1 is a loader. S03 Strv M38 
+
+|InTheGame_research= 
+* First, research the 37 mm kan m/38 strv gun for much needed penetration
+* Next research the Strv m/39 suspension as the stock suspension is overloaded
+* Research the Strv m/39 turret next 
+* Lastly, research the engine Büssing NAG L8V/36 TR	 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The story of the L-60 begins in 1934, when Landsverk was contacted by the Irish Ministry of Defence, that took notice of their advanced tank designs. S03 Strv M38  Soon, it was decided, that Landsverk would produce two prototypes of their most advanced tank yet. S03 Strv M38 
+
+
+This new tank design was called L-60. S03 Strv M38  It was further development of their previous L-10 design, but was smaller and it incorporated what experience Landsverk gained during the Swedish tests of the Strv m/31. S03 Strv M38  It was armed with a 20mm autocannon and a 8mm machinegun in fully traverseable turret. S03 Strv M38  The tank’s hull and turret was fully welded and equipped with state-of-the-art optics – in fact, it was one of the most modern designs in the world at that time, using in full the important lessons, learned from the Swedish trials L-10 trials. S03 Strv M38 
+
+First, the rear mounted transmission got moved to the front to resolve the problem with track tension, caused by the rear-mounted transmission on the L-10. S03 Strv M38  Second, the unreliable spring suspension got replaced with a newly developed torsion bar suspension, this is one of the first times (if not the first) it has ever been fitted to a tank. S03 Strv M38 
+
+L-60 schematics from 1934
+
+[[File:L-60_schematics_from_1934. S03 Strv M38 jpg]]
+
+The first prototype was finished just a year after – in 1935 – and soon it attracted the attention of Switzerland, leading to the order of six L-60 and L-120 tanks. S03 Strv M38  This however led nowhere, as Switzerland decided to buy the Czech TNH instead. S03 Strv M38  In late 1935, an Irish committee came to Landsverk to check on the progress on the prototypes, but during the visit, because of a driver error, one of the prototypes backfired and burned out, despite best efforts to put the fire out. S03 Strv M38  Landsverk offered to produce third prototype as soon as possible, but as a result, only one L-60 got shipped to Ireland in 1935. S03 Strv M38 
+
+Irish L-60 prototype
+
+[[File:Irish_L-60_prototype. S03 Strv M38 jpg]]
+
+In 1935, one of the Irish tanks was also shown to Swedish delegation. S03 Strv M38  The tank soon became the preferred alternative for a new tank to other designs, such the British Vickers 6 ton and the Czech TNH. S03 Strv M38  Soon after, the tank was redesigned to Swedish standards. S03 Strv M38  Swedish engine was put in, new bigger turret with a radio was installed as well and a new 37mm Bofors gun was also implemented. S03 Strv M38  In 1936, two Swedish prototypes were ordered – one complete and one hull for trials. S03 Strv M38  At the same time, Austria ordered one prototype for evaluation. S03 Strv M38  Austria ended up not buying the tank – instead, the austrian prototype was sent to Hungary. S03 Strv M38  In Hungary, the tank (as well as the L-62 (SPAAG based on the L-60 chassis)) are evaluated and after comparative trials with the Strussler V4, the design was chosen for licensed production, which started in 1940. S03 Strv M38  The L-60 and L-120 got also shown during a Polish visit to Landsverk in 1937, but nothing came of it. S03 Strv M38 
+
+Hungarian Toldi tank
+
+[[File:Hungarian_Toldi_Tank. S03 Strv M38 jpg]]
+
+Swedish L-60 prototype
+
+[[File:Swedish_L-60_prototype. S03 Strv M38 jpg]]
+
+By 1937, the Swedish prototypes were finished and not long after, a modified version is ordered into production under the designation of Strv m/38, with Lansverk designation “L-60-S”. S03 Strv M38  In total, 16 tanks were delivered from 1938-1939, one of which was a prototype, rebuilt to production specifications. S03 Strv M38  The tank was relatively modern for 1938 with its 15mm of armour and 37mm gun, but in 1939, World War Two breaks out and it became apparent that the design was quickly becoming obsolete. S03 Strv M38 
+
+Strv m/38
+
+[[File:Strv_m_38_old. S03 Strv M38 jpg]]
+
+In 1939, after the annexation of Czechoslovakia, it became clear that more tanks were needed. S03 Strv M38  Therefore, second production run of tanks was ordered. S03 Strv M38  Despite the demands for increased armour protection, the new model of the tank went in production without much improvement due to its fragile suspension. S03 Strv M38  The main change on this new model was the new turret, which had sloped frontal armor. S03 Strv M38  The tanks were seriously delayed by the failure of Bofors to produce enough 37mm guns. S03 Strv M38  The tank was designated as Strv m/39, with the Lansverk designation of “L-60-S II”. S03 Strv M38  A total of 20 of these tanks were made from 1939 to 1941. S03 Strv M38  By this time however, it was absolutely clear that the armour was completely irrelevant and after a lot of arguing, Landsverk agreed to finally increase the armor of the tank, but only using additional applique armor kits. S03 Strv M38 
+
+Strv m/39, note the early gun mantlet
+
+[[File:Strv_m39_with_early_mantlet. S03 Strv M38 jpg]]
+
+Sweden was now in really bad situation. S03 Strv M38  Its neighbor, Finland was already involved in its war with the Russians and in 1940, its other neighbor, Norway got invaded by the Germans. S03 Strv M38  To top it all, the previously ordered 90 Czech TNH tanks (the order was made before the invasion of 1939) were now cancelled by the Germans, who seized the tanks for their own army. S03 Strv M38  This meant that Sweden was cut off from the outside world and would have to rely on its own tank designs. S03 Strv M38  Therefore, the L-60 was modified once again, this time with mass production in mind. S03 Strv M38  The tank was largely the same as the L-60-SII, but was now equipped with an automatic gearbox, some vehicles could even mount a mortar on the back for infantry support in addition to the applique armor, but mainly the tank was simplified for mass production. S03 Strv M38  The vehicle was designated Strv m/40L (“L-60-S III” by Landsverk). S03 Strv M38  A total of 100 tanks of this type were produced between 1941 and 1942. S03 Strv M38 
+
+Strv m/40L with applique armour
+
+[[File:Strv_m_40L_with_applique_armour. S03 Strv M38 jpg]]
+
+And its armor schematics
+
+[[File:Strv_m40L_armor_schematics. S03 Strv M38 jpg]]
+
+By 1943, Landsverk started to produce a heavier tank design and no longer had the capacity to produce the L-60 series of tanks, so instead, their production shifted to Karlstad Mekaniska Werkstad. S03 Strv M38  The L-60 design recieved another overhaul and the suspension was finaly improved to the point where the applique armour could be built in from the start. S03 Strv M38  Other than that, new, more powerful engine was fitted, the result of which was making the vehicle longer. S03 Strv M38  This tank model was designated Strv m/40K by the army (and L-60-SV by Landsverk). S03 Strv M38  An interesting thing to note is that there is no information on the previous L-60-S IV design, other than it weighed 12 tones and had the same armament as well as an unknown 180hp engine. S03 Strv M38  Anyhow, 80 Strv m/40K tanks were produced between 1943 and 1944 and this was the final version of the L-60 to be produced during the war. S03 Strv M38 
+
+Strv m/40K
+
+[[File:Strv_m40K. S03 Strv M38 jpg]]
+
+Armour schematics
+
+[[File:Strv_m40K_armour_schematics. S03 Strv M38 jpg]]
+
+After the war, some models of the tank wer still in active service during the 50′s, there were even plans to re-equip the tanks with a new turret with a 57mm gun. S03 Strv M38  The idea was kicked around since 1944, but the first prototype was only ready by 1949-1950. S03 Strv M38  The prototype hull was that of the Strv m/40L and the turret mounted the 5,7cm Pvkan m/43 gun. S03 Strv M38  The vehicle was designated Pvkv IV “Värjan” (Pvkv meaning “tank destroyer 4″, it was named “Värjan” after some kind of sword, used by the Swedish Carolean army in 16th century). S03 Strv M38  The new turret and the gun increased the weight by 500kg, but this was compensated by the removal of the applique armour. S03 Strv M38  The turret was poorly armored to keep the weight down, with a 20mm gun mantlet and 12mm of armor everywhere else. S03 Strv M38  The trials of the prototype showed that there were big problems with the aiming system and the project was discontinued. S03 Strv M38 
+
+Pvkv IV “Värjan”
+
+[[File:Pvkv_IV_Varjan. S03 Strv M38 jpg]]
+
+The last model of the L-60 to serve with the Swedish army was the Strv m/40K, which was retired in 1957. S03 Strv M38  However, a few years later, 25 Strv m/40′s were sold to Dominican Republic. S03 Strv M38  There, some of them would serve until the 1990s! In fact, three of these tanks were lost while fighting the American marine corps, one was even destroyed by a M48 Patton. S03 Strv M38 
+
+Strv m/40 in service with Dominican forces
+
+[[File:Strv_m40_in_service_with_dominican_forces. S03 Strv M38 jpg]]
+
+
+|HistoricalGallery= 
+image:strvm38. S03 Strv M38 jpg{{!}}Stridsvagn m/38
+image:strv38dominican. S03 Strv M38 jpg{{!}}Strv m/38 in Dominican service. S03 Strv M38  About 25 tanks were sold to the Dominican Republic in 1956. S03 Strv M38 
+image:strv38helsingborg. S03 Strv M38 jpg{{!}}Strv m/38 on display in Helsingborg. S03 Strv M38 
+|Ref_references=
+
+|Ref_sources=
+* Pansar issue 1 year 2013
+* Pansar issue 2 year 2013
+* Pansar issue 3 year 2013
+
+|Ref_links=
+* https://en. S03 Strv M38 wikipedia. S03 Strv M38 org/wiki/Stridsvagn_L-60
+* https://www. S03 Strv M38 tanks-encyclopedia. S03 Strv M38 com/ww2/sweden/L60_stridsvagn_M38-39-40. S03 Strv M38 php
+* https://ftr. S03 Strv M38 wot-news. S03 Strv M38 com/2014/03/21/swedish-tanks-part-iv-landsverk-l-60/
+* https://www. S03 Strv M38 ointres. S03 Strv M38 se/strv_m38_instruktionsbok. S03 Strv M38 pdf
+* https://www. S03 Strv M38 ointres. S03 Strv M38 se/pansar. S03 Strv M38 htm
+}}

@@ -1,0 +1,81 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+Sherman Firefly screenshot. GB19 Sherman Firefly jpg
+Sherman Firefly screenshot (2). GB19 Sherman Firefly jpg
+Sherman Firefly screenshot (3). GB19 Sherman Firefly jpg
+
+|InTheGame_pros=
+*Highest AP and APCR shot penetration among all tier 6 medium tanks
+*Fairly good accuracy and aim time
+*Hull and turret have welded patches of appliqué armor
+*Top 17 pounder has high rate of fire
+*Perfect hull and turret turning speed
+   
+
+|InTheGame_cons=
+*Abysmal gun depression and dispersion bloom while on move or during turret rotation. GB19 Sherman Firefly  
+*Shell velocity on all guns, especially the 17 pdr, is somewhat too slow for sniping
+*2nd lowest speed compared to other tier 6 Medium tanks (after the Jumbo) [36kph]
+*Tall target with weak armor and fragile modules, especially the engine. GB19 Sherman Firefly  Very vulnerable to SPGs. GB19 Sherman Firefly 
+*Inferior to most tier 6 mediums in every aspects except gun performance. GB19 Sherman Firefly 
+
+|InTheGame_performance=
+While the hit point pool, turret and hull traverse and armor are comparable to flankers such as the [[M4A3E8 Sherman]], the [[Cromwell]] and the [[T-34-85]], it is significantly slower, slightly faster than a [[M4A3E2 Sherman Jumbo]], but lacking the Jumbo's armor. GB19 Sherman Firefly  It also lacks their higher-powered engines. GB19 Sherman Firefly  Therefore, it should be treated as a secondline support tank, sniping behind concealment, teammates and if possible, terrain features or wrecked vehicles. GB19 Sherman Firefly 
+
+Best practice is to stay behind the front picking up targets of opportunity, softening up the enemy allowing your brawlers to create breaks in the enemy lines and using your functional mobility to maintain covering positions and taking cover when engaged by heavy hitting opponents. GB19 Sherman Firefly  As your armor is thin, try remain concealed; relocate well ahead of time due to the relatively low mobility. GB19 Sherman Firefly  Hull-down positions are practical, but significantly harder compared to other variants of the Sherman due to uncharacteristically poor gun depression. GB19 Sherman Firefly 
+
+The OQF 17-pdr Gun Mk. GB19 Sherman Firefly  VII and your excellent turret and hull traverse, comparable to the [[M4A3E8 Sherman]], does give sufficient performance for brawling when the need arises. GB19 Sherman Firefly  While this tactic may work against isolated heavy tanks in a fashion similar to more dedicated flankers, it will be easily dispatched by more dedicated flankers in this role, as its sole advantage, armor penetration, is irrelevant against tanks with negligible protection, and its slow top speed and modest engine will work against you. GB19 Sherman Firefly 
+
+|InTheGame_research=
+*The Wright Continental R-975C4, Radios 76 mm Gun M1A1, and 105 mm M4 carry over from the Sherman III
+*Mount the Wright Continental R-975C4, WS No. GB19 Sherman Firefly  19 Mk. GB19 Sherman Firefly  IIIand the 76 mm Gun M1A1
+*If you want to install additional equipment research the suspension
+*If better view range is your priority then research the turret, it is actually 100kg lighter with the same armour and improved view range
+*you need both of the above to mount the 17 pdr cannons
+*Research from there
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer,Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+{{VideoYT|kBrOomoQJyc}}{{VideoYT|__Y8YJeas4I}}
+As Britain struggled to develop tanks capable of equaling the superior German panzers, the decision was made to convert existing stocks of [[M4 Sherman]] tanks into a more powerful variant. GB19 Sherman Firefly  In late August 1943, the British began developing a variant of the Sherman mounting the 17 pounder anti-tank gun. GB19 Sherman Firefly  The so-called Sherman Firefly featured a long-barreled 17-pdr gun that was much more effective than the original 75 mm gun, capable of penetrating a [[Tiger]] I's frontal armour at a distance of 1,000 metres using regular ammunition. GB19 Sherman Firefly  In order to successfully mount the 17-pdr gun into the turret, various modifications had to be made, such as replacing gun mantlet, moving wireless set to armoured box at rear of turret, installing loaders hatch on turret roof and welding left side pistol port shut. GB19 Sherman Firefly 
+
+The first several months worth of Fireflies were adapted from M4A4 tanks, designated Sherman V by the British, but soon the viability of other models was explored. GB19 Sherman Firefly  By May 1944, the M4 variant, or Sherman I, was being converted in modest numbers. GB19 Sherman Firefly  The Sherman VC and IC variants were easily distinguished by their lower hulls; the VC having a riveted lower glacis with a curved shape while the IC has a welded and angled lower glacis. GB19 Sherman Firefly  The IC Hybrid can be distinguished by its upper cast hull, giving it a distinctive curved look. GB19 Sherman Firefly  Tanks rearmed with the 17-pdr gun were given the suffix C, with the resulting units being designated Sherman VC, IC and IC Hybrid. GB19 Sherman Firefly  Of the 600 Fireflies in service by D-Day, the vast majority were VCs, but they were eventually outnumbered two-to-one by Sherman ICs. GB19 Sherman Firefly  A total of 2,139 Firefly tanks were built by February 1945. GB19 Sherman Firefly 
+
+|HistoricalGallery=
+Sherman Firefly. GB19 Sherman Firefly jpg{{!}}Sherman IC Hybrid in Normandy during Operation Overlord
+Sherman Firefly (2). GB19 Sherman Firefly jpg{{!}}Abandoned Sherman VC being inspected by German crews following the Battle of Villers-Bocage in June 1944
+Sherman Firefly (3). GB19 Sherman Firefly jpg{{!}}Sherman Firefly of the Irish Guards during Operation Market Garden on 17 September 1944
+Sherman Firefly (4). GB19 Sherman Firefly png{{!}}Sherman IC (foreground) & IC Hybrids of the Polish 2nd Armoured Division in Italy at the end of the war. GB19 Sherman Firefly  The camouflage on the gun barrel was to disguise its length
+Sherman Firefly (5). GB19 Sherman Firefly jpg{{!}}Sherman IC Hybrid of 11th Armoured Division advancing towards Gemert in Holland on 26 September 1944
+Sherman Firefly (6). GB19 Sherman Firefly jpg{{!}}Sherman VC of 22nd Armoured Brigade, 7th Armoured Division on Gold Beach on 7 June 1944
+Sherman Firefly (7). GB19 Sherman Firefly jpg{{!}}Sherman IC Hybrid in Namur, Belgium during the Battle of the Bulge
+Sherman Firefly (8). GB19 Sherman Firefly jpg{{!}}Sherman IC Hybrid of the 2nd Irish Guards in Northwestern Europe on 31 August 1944
+
+|HistAcc=
+Three different Sherman models were converted to Fireflies: the M4, M4 Composite and M4A4. GB19 Sherman Firefly  The British designated them as Sherman I, Sherman I Hybrid and Sherman V respectively. GB19 Sherman Firefly  The Firefly depicted is a converted M4 Composite/Sherman I Hybrid, or Sherman IC Hybrid, judging by its rounded cast front welded to the hull. GB19 Sherman Firefly  The most commonly converted tank was the M4A4/Sherman V, which had a Chrysler A57 Multibank engine and a different welded and lengthened hull with sharp edges. GB19 Sherman Firefly <!--Please note: The M4A1 was not acceptable for Firefly conversion because the rounded contours of the cast hull could not accommodate the arrangement of the Firefly's interior stowage. GB19 Sherman Firefly  This was obviously not an issue with the Composites, and the D78461 turrets saved them a lot of time and effort since they already had loader's hatches. GB19 Sherman Firefly -->
+* In-game model is a [https://3. GB19 Sherman Firefly bp. GB19 Sherman Firefly blogspot. GB19 Sherman Firefly com/-CcmaDxo77uU/WdH4UGmB5uI/AAAAAAACv1A/LgNyYhz5XzoGGXu8eC1JOKSU_7EmQYRRwCLcBGAs/s1600/22046841_1935905399996152_2135550445112324335_n. GB19 Sherman Firefly jpg IC Hybrid]. GB19 Sherman Firefly  The IC does not exist in World of Tanks while the VC only appears as a [[Tank:GB95_Ekins_Firefly_M4A4|premium tank]]. GB19 Sherman Firefly 
+* While the Sherman Firefly was capable of carrying 77 rounds of ammunition, design features of the tank meant only 23 rounds were easily and readily available when the tank was in action. GB19 Sherman Firefly 
+* The Sherman Firefly was succeeded by the [[Comet]]. GB19 Sherman Firefly  In World of Tanks, however, the Firefly leads to the Challenger instead. GB19 Sherman Firefly 
+* Sherman Fireflies rarely, if ever, carried a machine gun on the turret. GB19 Sherman Firefly 
+* SCC No. GB19 Sherman Firefly  15 Olive Drab paint scheme is missing. GB19 Sherman Firefly  This was the base colour on all British AFVs in Europe from April 1944. GB19 Sherman Firefly 
+* Allied star identification marking is missing. GB19 Sherman Firefly  The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Firefly entered service in May 1944. GB19 Sherman Firefly 
+* There is no option to camouflage the 17-pdr gun barrel with the countershading pattern. GB19 Sherman Firefly 
+* The suffix "C" was to indicate Sherman tanks rearmed with the 17-pdr gun (e. GB19 Sherman Firefly g. GB19 Sherman Firefly  Sherman IC). GB19 Sherman Firefly  Thus the other gun configurations are fake. GB19 Sherman Firefly 
+* The Firefly has the same Chrysler A57 engine as the [[M3 Lee]]. GB19 Sherman Firefly  However, their horsepower and weight values are inconsistent. GB19 Sherman Firefly 
+<!-- The Sherman Firefly's top speed in real life was actually 40 km/h. GB19 Sherman Firefly   note: it's possible some later models that were converted had higher top speed -->
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

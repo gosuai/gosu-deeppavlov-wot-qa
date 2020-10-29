@@ -1,0 +1,82 @@
+{{TankData|Tank=Sturer_Emil
+
+|The Sturer Emil is somewhat of a departure from the previous two German tank destroyers, the [[Tank:Pz. G43 Sturer Emil Sfl. G43 Sturer Emil  IVc|Pz. G43 Sturer Emil Sfl. G43 Sturer Emil  IVc]] and the [[Tank:Nashorn|Nashorn]]. G43 Sturer Emil  Unlike its predecessors, it has absolutely no problems with gun depression. G43 Sturer Emil  In fact, the gun depression is so amazing, it allows the use of tactics other tanks could only dream of. G43 Sturer Emil  However, it has a very low top speed and poor acceleration due to a measly, weak engine, making it a somewhat inflexible machine. G43 Sturer Emil  It also retains the very poor armor and large size of its predecessors, making it a vulnerable target. G43 Sturer Emil  Its top gun has extreme alpha damage and penetration for its tier, almost matching those of tier 9 heavy tanks, but it can only carry 15 rounds of ammunition. G43 Sturer Emil  If the driver of this tank is using this gun, they must be absolutely sure to make every shot count. G43 Sturer Emil  Beware - the Sturer's win rate is among the lowest in the game. G43 Sturer Emil  This is most likely due to the long grind to unlock the top gun. G43 Sturer Emil  The stock gun performs better than most other stock guns at this tier, although it will be mediocre in tier VIII and IX battles, as even the tank two tiers earlier has better penetration on its best gun. G43 Sturer Emil 
+
+|Gallery=
+
+File:Sturer Emil scr 1. G43 Sturer Emil jpg
+File:Sturer Emil scr 2. G43 Sturer Emil jpg
+File:Sturer Emil scr 3. G43 Sturer Emil jpg
+
+
+|InTheGame_performance=
+The Sturer Emil is a rather inflexible tank. G43 Sturer Emil   It is fragile, '''very slow''', and slow to turn. G43 Sturer Emil   Its open top and light armor means that it's very vulnerable to artillery. G43 Sturer Emil  However, this tank can excel by using its amazing gun depression on maps with hills and ridges. G43 Sturer Emil   It is best at peeking over the top of a rise, taking a shot with that awesome alpha, and then pulling back down out of sight. G43 Sturer Emil  If ridges are not available, the Sturer Emil can also play a traditional tank destroyer role and use its 370m view range to out-spot the enemy at extreme distances. G43 Sturer Emil  With its poor acceleration, slow rotation speed, and light armor, the Sturer Emil is not good at peek-a-boo around corners, nor at retreating if it is spotted. G43 Sturer Emil   On a city map it is often best to stay behind a line of heavies and '''carefully''' shoot over and around them as they move back and forth. G43 Sturer Emil   Use their armor to protect you as much as possible. G43 Sturer Emil  
+
+The grind to the top gun is not fun. G43 Sturer Emil   The stock 105 mm, which is the same as the tier 6 premium TD [[Dicker Max]] lacks penetration and has neither good alpha damage nor high Damage per Minute, although the gun is good for a stock one at tier VII. G43 Sturer Emil   As a result, it requires the Sturer Emil to be exposed more often to deal damage. G43 Sturer Emil  This leads to an uncomfortable situation where the St Emil under performs in all departments: firepower, protection and maneuverability. G43 Sturer Emil  With the 128 mm top gun the alpha damage is great. G43 Sturer Emil   Getting to a place that you can inflict that damage is the challenge. G43 Sturer Emil  The more that you can leverage this tank destroyer's amazing gun depression, the better: hills are a Sturer Emil's best friend and should be relentlessly abused. G43 Sturer Emil  Maps with a lot of flanking and movement will be a trial, though. G43 Sturer Emil   Try to stay near friendlies who can keep you from being overrun. G43 Sturer Emil   Your primary job is to support your friendly tanks so they can keep you alive. G43 Sturer Emil 
+
+The aim time on the 128 mm is an okay 2. G43 Sturer Emil 5 seconds. G43 Sturer Emil  With only 15 shells available you want to ensure that you hit with every one possible. G43 Sturer Emil  Don't underestimate the value of a 630 damage HE shell on the rare enemies that are too hard for you to penetrate. G43 Sturer Emil  Keep in mind that it only takes 2 or 3 hits for a reasonably good game. G43 Sturer Emil   Get 4 or more hits, and you'll be having fun!
+
+
+|InTheGame_pros=
+-The only tank in its tier to offer both huge alpha damage (490) and excellent penetration (231 mm) with its top gun
+
+-Godlike -15 degrees of gun depression - coupled with the Dicker Max and FT AC for the best gun depression among all TDs in the game
+
+-Good accuracy on both guns
+
+-Excellent view range
+
+
+|InTheGame_cons=
+-Poor armor, with almost none on the superstructure
+
+-Terrible mobility: low top speed, acceleration and traverse speed, very vulnerable to flanking
+
+-Big profile and bad camouflage values - relies on its view range for out-spotting
+
+-Open-topped, vulnerable to artillery and high explosive shells - can't equip vents
+
+-Very narrow and uneven gun arc (-5/7) coupled with only decent aim time
+
+-On top of that, bad gun elevation of 10 degrees
+
+-Atrocious shell count of 15 shells on the top gun
+
+-No premium shells available on the top gun
+
+-Bad stock gun leading to a long, arduous grind
+
+
+|InTheGame_research=
+*Nothing carries over from the Nashorn. G43 Sturer Emil  You might have the radios unlocked from other German tanks, but the gun and engine are unique to the Sturer Emil. G43 Sturer Emil 
+*Unlock the gun first. G43 Sturer Emil  You absolutely want that damage and especially the penetration. G43 Sturer Emil  You may need to demount gear once you unlock the gun, however, as with the stock suspension you will only have roughly 100 kg left over for equipment
+*Unlock the suspension so you can equip everything you want. G43 Sturer Emil 
+*The engine can be unlocked whenever: It's a minimal boost but 1200 exp is gotten on a single decent 2x so researching it won't slow you down a whole lot. G43 Sturer Emil 
+
+|InTheGame_equipment=
+Large-Caliber Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+
+|History=The 12. G43 Sturer Emil 8 cm Selbstfahrlafette auf VK30. G43 Sturer Emil 01(H) "Sturer Emil" (German for "Stubborn Emil") was an experimental World War II German self-propelled anti-tank gun. G43 Sturer Emil  It was based on the Henschel VK30. G43 Sturer Emil 01 chassis and both armed with a Rheinmetall 12. G43 Sturer Emil 8 cm K L/61 gun (based on the 12. G43 Sturer Emil 8 cm FlaK 40). G43 Sturer Emil  This gun could traverse 7° to each side, elevate 10° and depress -15°. G43 Sturer Emil  It carried 15 rounds for the main gun. G43 Sturer Emil 
+
+The chassis was left over from Henschel's submission for the canceled VK30. G43 Sturer Emil 01 heavy tank program, but the hull was stretched and an extra road wheel added to accommodate the large gun, which was mounted on a pedestal ahead of the engine. G43 Sturer Emil  A large, open-topped, fighting compartment was built where the turret was intended to go in the original design. G43 Sturer Emil 
+
+Two vehicles (named Max and Moritz) were built, both of which served on the Eastern Front. G43 Sturer Emil  One vehicle was destroyed, the other captured at Stalingrad in January 1943, with 22 kill marks painted on the barrel. G43 Sturer Emil  This captured vehicle is now displayed in the collection on the Kubinka Tank Museum. G43 Sturer Emil 
+
+{{VideoYT|27Cbh5XIQRY}}
+
+|HistoricalGallery=image:SturerI. G43 Sturer Emil jpg{{!}}Sturer Emil at Kubinka
+image:SturerII. G43 Sturer Emil jpg
+image:SturerIII. G43 Sturer Emil jpg
+
+|Ref_references=
+    *Chamberlain, Peter, and Hilary L. G43 Sturer Emil  Doyle. G43 Sturer Emil  Thomas L. G43 Sturer Emil  Jentz (Technical Editor). G43 Sturer Emil  Encyclopedia of German Tanks of World War Two: A Complete Illustrated Directory of German Battle Tanks, Armoured Cars, Self-propelled Guns, and Semi-tracked Vehicles, 1933–1945. G43 Sturer Emil  London: Arms and Armour Press, 1978 (revised edition 1993). G43 Sturer Emil  ISBN 1-85409-214-6
+
+
+
+|Ref_sources=*https://en. G43 Sturer Emil wikipedia. G43 Sturer Emil org/wiki/Sturer_Emil
+
+
+|Ref_links=
+
+}}

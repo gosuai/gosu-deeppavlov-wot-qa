@@ -1,0 +1,45 @@
+{{TankData|Tank= GB86_Centurion_Action_X
+|Replaced the [[Tank:GB70_N_FV4202_105|FV4202]] in patch 9. GB86 Centurion Action X 12. GB86 Centurion Action X  Hard-hitting medium tank with great aiming time and decent mobility, While Action X turret provides decent protection. GB86 Centurion Action X  But, With its large size, It was vulnerable especially against SPG if you're not moving around. GB86 Centurion Action X 
+
+|Gallery=
+
+File:Centurion Action X scr 1. GB86 Centurion Action X jpg
+File:Centurion Action X scr 2. GB86 Centurion Action X jpg
+File:Centurion Action X scr 3. GB86 Centurion Action X jpg
+
+
+|InTheGame_pros= 
+*Good top speed, high P/W ratio, good mobility; turns quickly and has good terrain values
+*Powerful and accurate L7 gun with excellent gun depression
+*HESH rounds are of decent penetration; can be very effective against thinly armored targets
+*Thick sloped turret armour, mostly proof against non-premium rounds except for top tier TDs
+
+
+|InTheGame_cons= 
+*Prone to module damage, especially the ammoracks in the front hull and sides, often losing the tracks by the same hit. GB86 Centurion Action X 
+*Turret armour is not reliable enough to deflect all shots
+*Very large size makes it a common target for artillery
+*Somewhat lousy dispersion penalty on movement by tier X standard
+
+|InTheGame_performance=
+The Centurion Action X is a significant upgrade from the Centurion 7/1 in every aspect and a further refinement of the play style. GB86 Centurion Action X  It retains the excellent gun depression and powerful L7 gun of its predecessor, but with greatly improved mobility, greater accuracy on the move, and even better turret armour. GB86 Centurion Action X  All this combines to make a tank well suited to the hull-down style of its predecessors, but now with the option for rapid flanking and firing on the move as well. GB86 Centurion Action X  Still, the Centurion Action X does not have the armour to stand up in a prolonged fight against powerful tier 10 guns, even hull down, so making use of the upgraded speed and mobility is essential. GB86 Centurion Action X  However, while the Centurion AX's upgraded mobility can allow it to brawl if necessary, the Centurion AX is a long range fighter at heart. GB86 Centurion Action X  Its large size coupled with moderate DPM compared with other tier 10 mediums make brawling a dubious proposition at best. GB86 Centurion Action X  The Centurion Action X is best suited for combat on hilly terrain; by making use of its 10 degrees of gun depression, the Centurion Action X can hide its massive lower glacis, and significantly increase its turret armour. GB86 Centurion Action X  When using all ten degrees of gun depression, even weak spots such as a plate just above the gun, or the plate directly below the gun, can reliably bounce shots from most tanks. GB86 Centurion Action X  Though it has an abundance of hitpoints, the Centurion AX is best suited for the second or third line of tanks, supporting the team's heavies, or playing like a turreted td. GB86 Centurion Action X  Players who love the Centurion 7/1 will find the Centurion AX a most satisfying tank to play, allowing a greater array of play styles due to its good maneuverability, at the expense of a large chassis with mediocre armour. GB86 Centurion Action X  
+
+|InTheGame_equipment=
+Vertical Stabilizer Mk 1, Medium-Caliber Tank Gun Rammer, Coated Optics, Improved Ventilation Class 2 
+
+|History=
+
+The history of the Centurion Action X started in 1955 - as a part of the development work on the vehicle a new turret was proposed. GB86 Centurion Action X  The main difference between the old Centurion turret and this new one was the absence of gun mantlet (that on the Centurion covered most of the frontal turret area). GB86 Centurion Action X  This solution allowed the frontal turret part to have much more sloping, which significantly improved the shell protection. GB86 Centurion Action X  This turret was tested with both the 84mm 20pdr and the 105mm L7. GB86 Centurion Action X 
+
+
+
+The Action X program assumed only the development of a new turret, the hull was supposed to be the same as the one of the contemporary Centurions. GB86 Centurion Action X  Two turrets were made as a part of the program: one, fully equipped, was put on a Centurion Mk. GB86 Centurion Action X 7 hull and underwent series of complete mobility trials. GB86 Centurion Action X  As far as we know, this vehicle didn't survive to this day. GB86 Centurion Action X  The second turret however did - this one may have been used for firing trials (shells were fired at it to determine how resistant it is). GB86 Centurion Action X  It suffered only minimal damage and currently sits at Bovington. GB86 Centurion Action X 
+
+|HistoricalGallery=
+File:Centurion_Action_X_photo. GB86 Centurion Action X jpg
+ActionXTurretBallisticTrials. GB86 Centurion Action X jpeg{{!}}The surviving Action X Turret. GB86 Centurion Action X 
+ActionXCenturion. GB86 Centurion Action X jpeg{{!}}The Action X Centurion during trials. GB86 Centurion Action X 
+
+|Ref_links=
+
+}}

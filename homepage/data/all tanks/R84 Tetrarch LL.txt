@@ -1,0 +1,61 @@
+{{TankData|Tank=Tetrarch_LL
+|The Tetrarch was given as a New Years gift from Wargaming at the beginning of 2012 and has since appeared in gift shop bundles on a few occasions. R84 Tetrarch LL   Historically a [[Britain|British]] design, it was one of a number models provided to the [[USSR]] under the Lend-Lease Act and therefore appears in the USSR tech tree. R84 Tetrarch LL   Though the Tetrarch is extremely fragile, its incredible speed and powerful armament make it a highly dangerous tank capable of damaging anything it meets. R84 Tetrarch LL 
+
+|Gallery=
+image:Tetrarch_001. R84 Tetrarch LL jpg{{!}}Tetrarch_001
+image:Tetrarch_002. R84 Tetrarch LL jpg{{!}}Tetrarch_002
+image:Tetrarch_003. R84 Tetrarch LL jpg{{!}}Tetrarch_003
+image:Tetrarch_004. R84 Tetrarch LL jpg{{!}}Tetrarch_004
+
+|InTheGame_pros=
+* Very good acceleration and top speed
+* Good hull and turret traverse
+* Powerful gun with great penetration (APCR rounds have more penetration than you will ever need for its matchmaking tier. R84 Tetrarch LL )
+
+|InTheGame_cons=
+* Very fragile, even more so than other lights
+* Poor view range
+* Low ground clearance; regularly bottoms-out on small bumps
+* Low ammo capacity
+
+|InTheGame_performance=
+The Tetrarch is a tank that combines gameplay aspects of [[Light Tanks|light tanks]] and [[Tank Destroyers|tank destroyers]] of its tier. R84 Tetrarch LL   Its 2-pounder gun has more than A LOT of penetration to deal with most tier II-III enemies, if not all of them because of its superb APCR rounds, and is great for sniping. R84 Tetrarch LL   Unlike many other snipers at the tier however, the Tetrarch is incredibly fast and maneuverable. R84 Tetrarch LL   This, combined with its turret-mounted armament means that the Tetrarch can quickly relocate to different sniping positions or flank unsuspecting enemies easily. R84 Tetrarch LL   This combination of speed and firepower make it a very effective tank when played correctly, many times even in in tier III games. R84 Tetrarch LL 
+
+Despite its strong points, the Tetrarch is not without its drawbacks. R84 Tetrarch LL   With little to no armor and a small hitpoint pool, an exposed Tetrarch will not survive long against autoloaders, machine guns, and anything shooting large HE shells. R84 Tetrarch LL   For this reason, the Tetrarch is usually best played at a distance. R84 Tetrarch LL   Unfortunately, while the Tetrarch is adept at taking out targets from such a distance, it is usually dependent on its team to spot them. R84 Tetrarch LL   The Tetrarch's poor spotting range often necessitates the use of [[Equipment#Coated_Optics|coated optics]] to see targets at a safe distance. R84 Tetrarch LL   Another thing worth noting is the Tetrarch's low ground clearance, which leaves it prone to bottoming-out on rough terrain and slows it down considerably when this happens. R84 Tetrarch LL 
+
+|InTheGame_research=
+All modules are researched with the tank. R84 Tetrarch LL 
+
+|InTheGame_equipment=
+Vents, Enhanced Gun Laying Drive, Coated Optics
+
+|InTheGame_Equipment_Builds=
+What equipment a player chooses depends mostly on how aggressively they plan on playing the tank. R84 Tetrarch LL   Players who chose to play the Tetrarch more as a stationary sniper will benefit more from the extra concealment and view range provided by the coated optics. R84 Tetrarch LL  The third slot in such an equipment build can be occupied by either the enhanced gun laying drive (to counter the large aim bloom after shots) or vents to provide a small boost to all attributes. R84 Tetrarch LL 
+
+Players who chose to play the Tetrarch more aggressively should try to use equipment that increases survavibility,like the spall liner or toolbox. R84 Tetrarch LL   The decrease in aim time provided by an enhanced gun laying drive will radically decrease the Tetrarch's high aim spread when on the move. R84 Tetrarch LL 
+
+|History=
+MkVII Tetrarch - A World War II air transportable British light tank. R84 Tetrarch LL  Developed by Vickers between 1938-1940 on its own initiative, initially as a reconnaissance tank, to replace the obsolete Mk VI. R84 Tetrarch LL  However, because of poor results shown by light tanks in the first year of World War II, the production of the Tetrarch, which began in 1940, was soon stopped. R84 Tetrarch LL  Interest in the Mk VII began again in 1941 when it was decided to use it as an air transportable tank. R84 Tetrarch LL  Series production of the Tetrarch was resumed and continued from 1941 to 1942. R84 Tetrarch LL  Total production amounted to 177 vehicles. R84 Tetrarch LL  The Tetrarch saw limited use by British troops in battle during the years 1942-1945 and remained in service after the war until the end of the 1940s. R84 Tetrarch LL  The MkVII was also available in the USSR in small quantities during the war under the Lend-Lease program. R84 Tetrarch LL  
+
+|HistoricalGallery=
+image:Tetrarch-001. R84 Tetrarch LL jpg{{!}}Light Tank Mk. R84 Tetrarch LL  VII Tetrarch
+image:Tetrarch-002. R84 Tetrarch LL jpg{{!}}Light Tank Mk. R84 Tetrarch LL  VII Tetrarch
+image:Tetrarch-003. R84 Tetrarch LL jpg{{!}}Light Tank Mk. R84 Tetrarch LL  VII Tetrarch Mk I with Little John adaptor
+image:Tetrarch-004. R84 Tetrarch LL jpg{{!}}General Sir Alan Brooke, Commander-in-Chief Home Forces (5th from right, facing camera) inspecting a Light Tank Mk VII (Tetrarch) at the Army Staff College at Camberley, 6 January 1941. R84 Tetrarch LL 
+image:Tetrarch-005. R84 Tetrarch LL jpg{{!}}Tetrarch light tank at the Armoured Fighting Vehicle School, Gunnery Wing at Lulworth in Dorset, 25 March 1943. R84 Tetrarch LL 
+image:Tetrarch_1. R84 Tetrarch LL jpg{{!}}
+
+|HistAcc=
+Since its introduction as a Soviet premium seven years ago, the Tetrarch is still missing from the UK tech tree. R84 Tetrarch LL  In British service its official name was Light Tank Mk VII (A17). R84 Tetrarch LL 
+
+|Ref_references=
+
+
+|Ref_sources=
+Historical info paraphrased from a Google Translate version of the [https://wiki. R84 Tetrarch LL worldoftanks. R84 Tetrarch LL ru/MkVII_Tetrarch/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F RU WoT Wiki] entry on the MkVII. R84 Tetrarch LL  
+
+|Ref_links=
+
+}}
+
+[[Category:USSR Tanks]]

@@ -1,0 +1,79 @@
+{{TankData|Tank= ''Please leave space after ''='' blank except in specific circumstances''
+
+
+|Gallery= ''Gallery of (ingame) tank images''
+
+|InTheGame_pros= ''
+- Relatively fast, both forwards and in reverse. F109 AMD Panhard 178B 
+
+- Suspension is great, almost no fall damage. F109 AMD Panhard 178B 
+
+- High ROF, great -12 degrees of gun depression. F109 AMD Panhard 178B 
+
+- Aiming guide (easier to click autoaim. F109 AMD Panhard 178B )
+
+- Decent camouflage. F109 AMD Panhard 178B 
+ ''
+
+|InTheGame_cons= ''
+- No armour, HE is your enemy. F109 AMD Panhard 178B 
+
+- Pitiful alpha damage on 47mm gun. F109 AMD Panhard 178B  
+- Horrible stock grind. F109 AMD Panhard 178B 
+
+- Extremely prone to ramming due to low weight. F109 AMD Panhard 178B 
+
+- Poor spotting range. F109 AMD Panhard 178B 
+
+- Large turning circle. F109 AMD Panhard 178B 
+
+- Unlike tracked vehicles, it cannot turn on the spot. F109 AMD Panhard 178B 
+
+''|InTheGame_performance= ''
+The AMD 178B rewards smart, active play. F109 AMD Panhard 178B  Players should avoid charging into groups of enemies early in the battle, instead using the unique gun (high-penetration HE with good reload) and speed/acceleration (likely the best of all tanks you will meet) to annoy and destroy enemies. F109 AMD Panhard 178B <br />
+
+One option is to use the exceptional reverse speed to poke (peek-a-boo) ridgelines with its -12 degrees of gun depression and retreat from enemy fire: drive forward, spot, then reverse to safety. F109 AMD Panhard 178B  Driving along a ridgeline invites fire from skilled enemies, and suspension damage reduces forward speed to 40kph or less, too slow for a light to play a ridge and escape. F109 AMD Panhard 178B  The key is to never stop moving and to watch carefully for obstacles (rocks, dead tanks, buildings, your allies) that will bring you to a stop. F109 AMD Panhard 178B  If you crash, immediately reverse and escape in the other direction until you are no longer spotted. F109 AMD Panhard 178B <br />
+
+This same peek-a-boo tactic applies to entire flanks, as you can quickly transition a wise retreat into a flanking attack of the same or other side of the map. F109 AMD Panhard 178B  Boundaries like the mountains or ridges on many maps, or wide blocks in the city, no longer mean you have to support one flank, and indeed this tank is not very rewarding when played mainly as a passive spotter/sniper. F109 AMD Panhard 178B  Mid to late game, you will have many opportunities to "go hunting" and kill vulnerable enemies. F109 AMD Panhard 178B <br />
+
+The AMD 178B has unique close-quarters capabilities. F109 AMD Panhard 178B  First, you want to find an enemy without close support to flank or circle. F109 AMD Panhard 178B  Use your speed to get around map obstacles to the sides or backs of tanks that are attacking your allies, but avoid circling enemies in tight spaces or city streets because the AMD 178B is hard to maneuver if you make a mistake and crash. F109 AMD Panhard 178B  The -12 degrees of gun depression allow you to put more shots on an enemy when circling or flanking on uneven ground, such as many hull-down positions that are typically safe from less aggressive play-styles. F109 AMD Panhard 178B  Second, you can choose to poke enemies, taking one shot and reversing, or commit to a full attack of their sides and rear, destroying them. F109 AMD Panhard 178B <br />
+
+This tank can beat many vehicles in a 1v1 simply by using surprise flanking attacks or raw speed to stay out from under an enemy gun, however you should avoid situations where the enemy can get a first shot because this tank trades damage poorly without the advantage of surprise and confusion. F109 AMD Panhard 178B  However, the speed at which this tank crosses the map and attacks positions means you can create advantageous situations at your own pace. F109 AMD Panhard 178B <br />
+
+Many players will find staying alive challenging in the AMD 178B, but a good player that balances offensive advantages (speed and surprise) with defensive (reverse speed and dangerous gun) will easily cripple or destroy several tanks over the course of a battle while avoiding situations where the enemy is ready to fire or can aim in time. F109 AMD Panhard 178B  
+''
+
+|InTheGame_research= 
+- First, research the Panhard AMD 178B FL 1 turret. F109 AMD Panhard 178B <br/>
+- Research the engine and suspension, as the stock gun is usable enough and the top 75mm cannout be mounted without the suspension upgraded. F109 AMD Panhard 178B  <br/>
+- Research the 75 mm Gun M6B gun, although it might be worth waiting to mount the top 75mm because of its inferior stats. F109 AMD Panhard 178B <br/>
+- Get the 75 mm SA49 (EBR) gun. F109 AMD Panhard 178B <br/>
+- Research the radios. F109 AMD Panhard 178B <br/>
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vents, Coated Optics, Vertical Stabilizer Mk 1
+
+|InTheGame_Equipment_Builds=
+
+|InTheGame_builds=
+(both will activate the same section)
+
+|External_Reviews= ''For external review links (Youtube, etc)''
+{{VideoYT|OipHH4jEpkE}}
+
+|History= ''In December 1931, the French Cavalry conceived a plan for the future production of armoured fighting vehicles. F109 AMD Panhard 178B  One of the classes foreseen was that of an Automitrailleuse de Découverte[1] or AMD, a specialised long range reconnaissance vehicle. F109 AMD Panhard 178B  The specifications were formulated on 22 December 1931, changed on 18 November 1932 and approved on 9 December 1932. F109 AMD Panhard 178B  They called for a weight of 4 metric tons (4. F109 AMD Panhard 178B 0 t), a range of 400 kilometres (250 mi), a speed of 70 km/h, a cruising speed of 40 km/h, a turning circle of 12 metres (39 ft), 5–8 mm armour, a 20 mm gun and a 7. F109 AMD Panhard 178B 5 mm machine gun. F109 AMD Panhard 178B ''
+
+|HistAcc=
+Historical 25 mm SA 35 and 47 mm SA 35 guns are missing. F109 AMD Panhard 178B 
+* The only 75 mm gun designed for the Panhard 178 is the SA 45 L/32. F109 AMD Panhard 178B  The M6B and SA49 gun configurations are fake. F109 AMD Panhard 178B 
+* The 47 mm SA 37 is the same gun used on the [[D2]], [[Somua S35]] and [[B1]]. F109 AMD Panhard 178B  Yet the penetration values are inconsistent. F109 AMD Panhard 178B 
+
+|HistoricalGallery= 
+File:Panhard armored car in Vietnam. F109 AMD Panhard 178B jpg{{!}}A Panhard 178B in Vietnam
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

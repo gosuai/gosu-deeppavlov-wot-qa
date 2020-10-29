@@ -1,0 +1,143 @@
+{{TankData|Tank=Ch02_Type62
+|The Type 62 was made available from the gift shop (Last available for purchase March 4-7, 2017). Ch02 Type62  It has also been given away as an award tank (usually as second prize to the [[Type 59]]), and was given away as a mission tank for completing the month long medium mission 25 times from September 1st to October 8th of 2014. Ch02 Type62  Designed as a light tank and by all means an appearance almost like the [[Type 59]], but that's as far as the comparison goes. Ch02 Type62  In terms of performance, this premium tank comes equipped with a 85mm gun with decent penetration, accuracy (better than its tech-tree counterpart, the [[WZ-131]]) and reload, which is well suited for flanking tactics, firing on the move or sniping the sides and rear of enemy tanks. Ch02 Type62  It has better mobility and acceleration than the Type 59 with a top speed of 60 km/h. Ch02 Type62  However, the armor is very weak despite having the same frontal slopes as the 59 and its not enough to protect the tank from incoming fire from most sources. Ch02 Type62 
+
+The Type 62 also shares the same module weaknesses as the [[Type 59]], with a large ammunition rack at the back of the turret. Ch02 Type62   It is not uncommon to find frontal hits to the turret damage both the gun and the ammunition rack. Ch02 Type62  Despite this heartfelt weakness, the Type 62 can be a solid support tank as a good flanker and artillery hunter when the opportunity presents. Ch02 Type62  It also earns very good credit income and its repair cost is very low unlike any other light tanks. Ch02 Type62 
+
+It used to see tier 10 battles but after the 9. Ch02 Type62 18 update, all light tanks received the same matchmaking as other tank classes, and the Type 62 now only sees up to tier 9. Ch02 Type62 
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=16. Ch02 Type62 6
+|Sidebar_Camomove=16. Ch02 Type62 6
+|Sidebar_Camofire=4. Ch02 Type62 3
+|Sidebar_Passhard=0. Ch02 Type62 575
+|Sidebar_Passmed=0. Ch02 Type62 671
+|Sidebar_Passsoft=1. Ch02 Type62 342
+|Sidebar_DispTurret=0. Ch02 Type62 115
+|Sidebar_DispRecoil=3. Ch02 Type62 836
+|Sidebar_DispAccel=0. Ch02 Type62 153
+|Sidebar_DispTurning=0. Ch02 Type62 153
+
+|Gallery=
+File:Type 62 (1). Ch02 Type62 jpg{{!}}Type 62 in HD following update 9. Ch02 Type62 9
+File:Type 62 (3). Ch02 Type62 jpg
+File:Type 62 (5). Ch02 Type62 jpg
+
+|InTheGame_pros=
+* Acceptable penetration and damage
+* Good rate of fire
+* Solid accuracy on the move and good aiming time (0. Ch02 Type62 2 seconds faster than [[WZ-131]])
+* Low profile; above average camouflage values
+* Always profitable due to its Premium Credit Income
+* Has the best DPM of any tier VII light tank. Ch02 Type62 
+* Better viewrange than the WZ-131
+* Better damage per minute than the WZ-131
+* Good premium round for tier 7
+* Rounded turret can pull off troll bounces; the upper plate can autobounce 105mm guns
+
+|InTheGame_cons=
+* Very weak armor
+* Vulnerable ammo rack 
+* Engine gets frequently knocked out from the rear
+* Struggles until crew develops appropriate skills
+* Somewhat sluggish compared to other tier 7 lights
+* Gets lit on fire easily
+
+|InTheGame_performance=
+*Thanks to the low profile, the Type 62 greatly benefits from camouflage modules and camouflage crew training, and it will find excellent performance as passive scout. Ch02 Type62 
+*Also, the good accuracy of the gun in consonance of the vertical stabilizer module can transform the Type 62 into an excellent flanker support tank. Ch02 Type62 
+*The Type 62 should '''not''' perform scout rushes, as it lacks the top speed and maneuverability to survive solo unlike other light tanks
+*There are many solid module combinations for this tank
+*Since Patch 9. Ch02 Type62 18, with the rebalancing of every light tank from tier V and up, the Type 62 has the best DPM, followed by the [[AMX 13 57 GF]] at 2nd and the [[LTG]] and [[T71]] coming at 3rd. Ch02 Type62 
+
+
+-For the flanker: a vertical stabilizer, gun rammer and ventilation module. Ch02 Type62  
+
+-For passive scouting: Camouflage net, Binoculars and Coated optics
+
+-For hybrids: Camouflage Net, Vertical Stabilizer, Coated Optics. Ch02 Type62 
+
+The tank frequently goes on sale during Christmas. Ch02 Type62  
+
+The [[WZ-131]] performs similarly to the Type 62, sharing the same battle tiers and exact appearance with the exception of colour and emblem position. Ch02 Type62  However, a fully upgraded WZ-131 is more mobile than the Type 62, though loses in dpm and viewrange. Ch02 Type62  The Type 62 is also much more profitable to run due to its status as a premium tank. Ch02 Type62 
+
+== '''Crew Skills''' ==
+* The preferential crew training for scouting will be Sixth Sense for the commander with Camouflage for the loader, gunner and driver. Ch02 Type62  Stealth is a light tank's best defense, and the Type 62 is no exception. Ch02 Type62   Recommend waiting until the third set of skills to choose Brothers in Arms. Ch02 Type62  Once the first set of training is complete, switch to crew specific training. Ch02 Type62   For the gunner, Snap Shot first then Deadeye to make every shot count. Ch02 Type62   The Type 62 has adequate mobility, so Smooth Ride to increase shooting skill on the move is more important than Off-Road Driving or Clutch Breaking. Ch02 Type62  Given the chances of ammunition rack damage, Safe Stowage followed by Adrenaline Rush for the Loader is important, however as the Loader is also the radio operator the Situational Awareness skill should not be overlooked. Ch02 Type62   As a scouting tank, increased view range is essential, so the Commander should train in Recon. Ch02 Type62 
+
+* For a flanker, you will still want Sixth Sense so you don't run into traps. Ch02 Type62   Instead of training all of you crew for Camouflage, you will want some with Repair so the you can fix you tracks faster when needed. Ch02 Type62   Smooth Ride for the driver and Snap Shot for the Gunner improve the accuracy on the move. Ch02 Type62 
+
+Recommended crew training progression:
+
+ '''Crewman     First Set   Second Set            Third Set                 Fourth Set'''
+ Commander:  Camo        6th/Camo              BiA/6th/camo              BiA/6th/Camo/Recon
+ Gunner:     Camo        Snap Shot/Camo        BiA/Snap Shot/Camo        BiA/Deadeye/Snap Shot/camo
+ Driver:     Camo        Smooth Ride/Camo      BiA/Smooth Ride/Camo      BiA/Smooth Ride/Camo/Off Road Driving
+ Loader:     Camo        Safe Stowage/Camo     BiA/Safe Stowage/Camo     BiA/Safe Stowage/Camo/Situational Awareness
+ 
+|InTheGame_research= No research required as it is a premium tank. Ch02 Type62 
+
+|InTheGame_equipment= Coated Optics, Vertical Stabilizer, Medium-Caliber Tank Gun Rammer, Vents, Binocular Telescope, Camouflage Net
+
+|History=
+
+The Norinco Type 62 is a Chinese light tank developed in the early 1960s and is based on the Chinese Type 59 with a reduced main gun caliber, lighter armour and a smaller suite of electronics and other equipment to help reduce weight. Ch02 Type62  The Type 62 is still used by the Chinese People's Liberation Army Ground Forces and other nations. Ch02 Type62  It has recently been upgraded to modern standards and provides the PLA with a dedicated light tank. Ch02 Type62  It is also known under its industrial designation, WZ-131. Ch02 Type62 
+
+== Development History ==
+When the Type 59 main battle tank was being developed it became apparent that because of high weight of the tank it would have difficulties operating in areas of southern China. Ch02 Type62  These areas mostly consist of mountain ranges, hills, rice paddy fields, lakes and multiple rivers which many times are without a bridge or with bridges which couldn't withstand the weight of the Type 59 tank. Ch02 Type62  Therefore in the late 1950s the PLA Ground Force submitted requirements for a light tank which could be successfully deployed in the areas of southern China. Ch02 Type62  The development of the Type 62 light tank began at Factory 674 (Harbin First Machinery Building Group Ltd) in 1958. Ch02 Type62  Construction of the first Type 62 light tank prototype, Type 59-16, began in 1960 and ended in 1962. Ch02 Type62  The tank officially entered production and service with the PLA in 1963. Ch02 Type62 
+
+Based on experience gathered during the Sino-Vietnamese War an update for Type 62 was designed, consisting 33 different improvements and was designated Type 62-I. Ch02 Type62 
+
+After an unsuccessful attempt at fitting the Type 62 light tank with the turret from the Type 63A amphibious light tank a new turret was designed and fitted on the Type 62. Ch02 Type62  This new variant was designated Type 62G. Ch02 Type62 
+
+The Type 62 light tank was designed to be a downscaled Type 59 main battle tank, armed with a smaller 85 mm Type 62-85TC rifled main gun and with a much simpler gunner sight and thinner armour in order to reduce overall weight. Ch02 Type62  As such it has a typical tank layout: steering compartment at the front, fighting compartment in the center and the engine compartment in the back. Ch02 Type62  Although the Type 62 light tank is similar to the Type 59 main battle tank in appearance, it has a smaller hull and turret. Ch02 Type62  The Type 62 light tank was given a four man crew configuration, with the driver seated on the left hand side of the front of the hull, the tank commander and gunner seated on the left side of the turret in a tandem formation and the loader on the right hand side of the rear of the turret. Ch02 Type62  The driver's hatch is located on the left hand side of the front of the hull, directly in front of the turret. Ch02 Type62  It has three periscope vision blocks which provide the driver with forward vision. Ch02 Type62  The center vision block may be removed and replaced with a low-light periscope with a 50 m vision range. Ch02 Type62  The left hand side turret hatch also has a periscope vision block on top of it and is most probably used by the commander. Ch02 Type62  There's another periscope vision block in the front of each turret hatch. Ch02 Type62  Apart from his usual duty of reloading the gun after it has been fired by the gunner, the loader is also responsible for operating the 12. Ch02 Type62 7 mm Type 54 anti-aircraft heavy machine gun mounted on the turret's roof. Ch02 Type62 
+
+Primary armament consists of 85 mm Type 62-85TC rifled main gun with fume extractor almost at the end of the barrel. Ch02 Type62  It is the same gun as the one used in Type 63 amphibious light tank and can fire AP, APHE, HE, Frag-HE, HEAT, APFSDF-T and smoke rounds. Ch02 Type62  The gun has maximum range of 12,200 m and maximum aimed range of 1,870 m and has a rate of fire of 3 to 5 round per minute. Ch02 Type62  The HEAT projectile can penetrate 495 mm of armour at 1,000 m while the APFSDF-T projectile can penetrate 360 mm of armour at 1,000 m. Ch02 Type62  The Type 62 light tank is characterized by having poor accuracy, given the primitive optical gun sights that the gunner has to use and lack of a gun stabilizer (which differs it from Chinese main battle tanks), a fire control system and night vision equipment. Ch02 Type62  As a secondary armament the Type 62 light tank was given the 12. Ch02 Type62 7 mm Type 54 anti-aircraft heavy machine gun (Chinese copy of Soviet 12. Ch02 Type62 7 mm DShK 1938/46 heavy machine gun) mounted on a rotatable mount on top of the loader's hatch on the right hand side of the roof of the turret and two 7. Ch02 Type62 62 mm Type 59T medium machine guns, one mounted coaxially with the main gun and the other one mounted at the bow of the tank. Ch02 Type62  Also a 7. Ch02 Type62 62 mm Type 59T anti-aircraft medium machine gun can be additionally fitted to left hand side turret hatch. Ch02 Type62  The cast turret features the Soviet-style half-egg shape. Ch02 Type62  The tank carriers 47 rounds for the 85 mm Type 62-85TC rifled main gun, 2,000 rounds for the two Type 59T medium machine guns and 1,250 rounds for 12. Ch02 Type62 7 mm Type 54 anti-aircraft heavy machine gun. Ch02 Type62 
+
+The Type 62 light tank uses the torsion bar suspension which consists of five road wheels on each side with a prominent gap between the first and second road wheel and an even space between second, third, forth and fifth road wheel. Ch02 Type62  The road wheels are smaller and lighter than those from the Type 59 main battle tank. Ch02 Type62  The track is driven by a drive sprocket at the rear, with an idler at the front. Ch02 Type62  There are no return rollers. Ch02 Type62  In effort to reduce the overall weight of the tank the original 12150L 12-cylinder liquid-cooled diesel engine from Type 59 main battle tank was powered down from 523 hp (390 kW) to 430 hp (321 kW). Ch02 Type62  This modified version of the 12150L engine weights considerably less and was designated 12150L-3. Ch02 Type62  This new engine gave the Type 62 a maximum road speed of 60 km/h, maximum cross country speed of 35 km/h, maximum road operational range of 500 km and power-to-weight ratio of 20. Ch02 Type62 5 hp/tonne (15. Ch02 Type62 3 kW/tonne). Ch02 Type62  The tank can cross 0. Ch02 Type62 8 m high vertical obstacles, 2. Ch02 Type62 85 m trenches, 30° side slopes and ford 1. Ch02 Type62 4 m deep water obstacles (5 m when equipped with a snorkel). Ch02 Type62 
+
+The Type 62 light tank is protected by steel armour. Ch02 Type62  The front armour on the turret is 50 mm thick while armour thickness on the hull armour varies from 15 mm to 35 mm. Ch02 Type62  The armour of the Type 62 is so thin that any light anti-tank weapon (like hand-held rocket-propelled grenade (RPG) launchers) can perforate the frontal plate. Ch02 Type62 
+
+the Type 62 light tank is equipped with a radio for which it has an antenna on the left hand side of the turret, in front of the left hand side turret hatch. Ch02 Type62  It is also equipped with a dome shaped ventilator on the right hand side of the turret in the front of the loader's hatch. Ch02 Type62  The tank can be fitted with Type 762 light mine clearance system and Type 762A light multi-purpose mine-clearance system in the front of the hull. Ch02 Type62  There are spots for stowage boxes and additional duel tanks on both fenders. Ch02 Type62  Four on the right hand side fender and three on the left hand side fender. Ch02 Type62  Like the Type 59 main battle tank the Type 62 light tank has a capability to make its own smoke screen by injecting raw diesel fuel into the exhaust manifold. Ch02 Type62 
+
+== Service History ==
+Type 62 light tank officially entered production and service with the PLA in 1963. Ch02 Type62  More than 1,393 vehicles were produced between 1963 and 1989 when it ended. Ch02 Type62  The Type 62 was primarily deployed in Southern China, where it remains in active service to this day. Ch02 Type62  The most famous unit to operate the Type 62 light tanks is the recon battalion directly attached to the 43rd Army Group HQ, Guangzhou MR. Ch02 Type62 
+
+It first saw combat during Vietnam War. Ch02 Type62  The PRC supplied the Type 62 light tanks to the NVA before the invasion of Kampuchea. Ch02 Type62  They were widely used by the Vietnam People's Army in 1960s and 1970s and took part in the Ho Chi Minh Campaign in 1975. Ch02 Type62  In 1979 it again saw combat in Vietnam but during the Sino–Vietnamese War. Ch02 Type62  PLA used about two hundred tanks in Vietnam during this conflict and most of these were Type 62 light tanks. Ch02 Type62  They suffered severe losses in combat due to tank's poor protection as the tank’s thin armour could be easily penetrated by hand-held rocket-propelled grenade (RPG) launchers. Ch02 Type62  An upgrade package was developed for the Type 62 soon after the war and was designated Type 62-I. Ch02 Type62  Based on the improvement programs after the Sino–Vietnamese War the Type 62 was found to be too lightly armoured and too poorly armed to be used as a normal tank. Ch02 Type62  Of the two hundred tanks which invaded Vietnam about half were knocked out, underscoring the Type 62's lack of armour and armament. Ch02 Type62  Since then the Type 62 has been shifted to secondary duties in Southern China, such as reconnaissance, fire support and combat with enemy lightly armoured vehicles. Ch02 Type62 
+
+Most of 400 Type 62 light tanks which are now in service with PLA Ground Forces have been upgraded to Type 62-I and Type 62G standard. Ch02 Type62  The upgrading to Type 62-I standard started in 1979 and upgrading to Type 62G standard started in 2000. Ch02 Type62  It is unknown exactly how many Type 62 light tanks were upgraded or what units operate the upgraded variants but in January 2005 CCTV showed two Type 62G light tanks belonging to an artillery regiment, Guangzhou MR and the tanks are serving as the recon coy of this regiment. Ch02 Type62  There aren't any indications that suggest retirement of the Type 62 light tank from the Chinese military in the near future. Ch02 Type62 
+
+The Type 62 has also been exported widely. Ch02 Type62  Foreign nations which field, or have fielded, the Type 62 include North Korea, Vietnam, Cambodia, Bangladesh, Tanzania, Democratic Republic of Congo, Republic of the Congo, Mali, Albania and Sudan. Ch02 Type62  There is a lot of confusion concerning the North Korean Ch'ŏnma-ho main battle tank which is sometimes considered to be an upgrade of Type 62 light tank. Ch02 Type62  This is incorrect as the Ch'ŏnma-ho main battle tank is based on the Soviet T-62 main battle tank. Ch02 Type62  This originated from the fact that many times tanks like Type 59 and Type 62 are listed as T-59 and T-62. Ch02 Type62  This leads to many confusions which in turn lead to, for example, listing the Albania as T-62 main battle tank operator and calling the Ch'ŏnma-ho main battle tank an upgrade of Type 62 light tank. Ch02 Type62  Its not clear which nations still have them in service, although based on available knowledge it seems that all original users still have it either on active or reserve status except for North Korea which didn't have them in service as of 1995. Ch02 Type62 
+
+The Upgraded New version of the tank was seen in the Chinese television series Soldiers Sortie. Ch02 Type62 
+
+== Variants ==
+'''Bangladesh'''
+*Type 62 light tank converted into a tracked armoured personnel carrier. Ch02 Type62 
+*Type 62 light tank converted into a tracked self-propelled gun
+
+'''People's Republic of China'''
+*Type 59-16 - Prototype of Type 62. Ch02 Type62 
+*Type 62 - Scaled down, lightly armed and thinly armoured variant of the Type 59. Ch02 Type62  It is also known under its industrial designation, WZ132. Ch02 Type62 
+*Type 62-I - Type 62 upgrade designed basing on the experience gathered during the Sino-Vietnamese War. Ch02 Type62  It features 33 different improvements including an external double lens laser range finder mounted above the mantlet of the 85 mm Type 62-85TC rifled main gun for better firing accuracy and a shield for the 12. Ch02 Type62 7 mm Type 54 anti-aircraft heavy machine gun. Ch02 Type62  It is also known under its industrial designation, WZ132-1. Ch02 Type62 
+*Type 62-I fitted with external turret storage racks and hull sideskirts for additional protection against HEAT projectiles and anti-tank missiles. Ch02 Type62  It is a late model. Ch02 Type62 
+*Type 62G (G stands for Gai - "Improved") - Most recent Type 62 light tank upgrade with improved armour layout and original cast turret replaced by a new welded flat-plate turret which also incorporates an improved armour layout as well as four smoke grenade dischargers on each side of the turret. Ch02 Type62  It is armed with a more powerful 105 mm rifled main gun with fume extractor in center of barrel, vertical stabilization system, primitive fire-control system, and night vision equipment. Ch02 Type62  Adopted by Pakistan in Al-Zarrar and Al-Khalid tank. Ch02 Type62 
+*Type 70 - Rebuild Type 62 and like the Type 62-I it is fitted with an external double lens laser range finder mounted above the mantlet of the 85 mm Type 62-85TC rifled main gun but without the shield around the AA HMG. Ch02 Type62  It also has improved sights and a gun stabilization system. Ch02 Type62 
+*Type 79 - Experimental armoured recovery vehicle based on Type 62 light tank. Ch02 Type62 
+*GJT 211 - Armoured bulldozer based on Type 62 light tank chassis. Ch02 Type62 
+*GSL 131 - Mine clearing variant of the GSL 211. Ch02 Type62  It is also known as Type 82. Ch02 Type62 
+
+|HistAcc=
+The People's Liberation Army roundel has the ''Eight One'' emblem inside the star. Ch02 Type62  In World of Tanks, however, the roundel consists of only the red star with yellow fimbriation. Ch02 Type62 
+
+|HistoricalGallery=
+image:WZ-131 his 01. Ch02 Type62 jpg
+image:Type 62 (2). Ch02 Type62 png
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

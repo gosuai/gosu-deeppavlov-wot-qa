@@ -1,0 +1,52 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Outstanding DPM, penetration and shell velocity, and good accuracy
+* Oddly shaped turret can be surprisingly bouncy
+* Low profile, great camouflage values
+* Good top speed, acceleration and agility
+* Very good gun depression (only over the sides)
+
+|InTheGame_cons= 
+
+* Low alpha damage 
+* The turret is rear-mounted, with a limited traverse arc
+* Gun depression is a mere -5° over the hull
+* Significant shell velocity difference between APCR (standard) and HEAT (premium)
+* Different playstyle compared to standard medium tanks, more similar to a tank destroyer
+
+|InTheGame_performance= 
+This tank is all about the gun - it is hands down one of the best medium guns in the game, with the only lacking stat being alpha damage. R144 K 91  It possesses the highest standard penetration of any Tier X medium (capable of reliably penetrating Maus cheeks or Type 5 cupola) along with simply absurd DPM, accuracy and aim time. R144 K 91  The K-91 is hilariously effective when played at range, having amazing camo values and a fantastic sniping gun, you can easily whittle health of enemies down without them even knowing where you are, in a similar manner to a high tier Swedish TD. R144 K 91 
+
+However, the tank is let down by the platform the gun sits on. R144 K 91  The armour is not on the same level as the other Soviet Tier X meds, with a bulge in the turret that is easy to penetrate and a poorly armoured hull - most tanks that shoot you will penetrate you unless your oddly shaped turret pull off some miracle ricochets. R144 K 91  Furthermore, the tank cannot turn its turret a full 360 degrees, which makes it very risky to brawl with. R144 K 91  This tank is often compared to the Leopard 1 due to the similarities in play styles, with the K-91 being better for sniping and raw damage output, and the Leopard 1 having the higher alpha, peek-a-boo capability and flexibility due to the fully traversable turret. R144 K 91 
+
+Stay back, use your speed to take advantageous positions, and abuse the camouflage and sublime gun and the K-91 is a serious force to be reckoned with. R144 K 91 
+
+|InTheGame_research= None,elite by default. R144 K 91 
+
+|InTheGame_equipment= Medium-Caliber Tank Gun Rammer, Camouflage Net, Vertical Stabilizer Mk 1, Improved Ventilation Class 2
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= {{VideoYT|mymQGZ0Orus}}
+
+|History= 
+
+|HistoricalGallery= 
+
+|HistAcc=
+
+* K-91 was historically designated as a heavy tank. R144 K 91  The Soviets never considered it a medium tank. R144 K 91 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

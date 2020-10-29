@@ -1,0 +1,82 @@
+{{TankData|Tank=GB10_Black_Prince
+|The Black Prince is essentially an elongated, widened, up-gunned, and somewhat up-armored Churchill VII. GB10 Black Prince  While the powerful engine makes the vehicle respectably agile while maneuvering, partially due to its excellent terrain resistance, it retains the terrible cruising speed of the Churchill VII, traveling at a maximum speed of 20 kph. GB10 Black Prince 
+
+The tank's first engine is woefully inadequate, and must be upgraded. GB10 Black Prince  The Black Prince features very thick but very flat front and side armor that must be angled to be effective. GB10 Black Prince  Even some higher-tier tanks will have trouble penetrating an angled Black Prince without the use of premium ammunition. GB10 Black Prince  Under NO CIRCUMSTANCES WHATSOEVER must the Black Prince be driven into an open area, because its size and speed makes it an easy target for artillery and tank destroyers. GB10 Black Prince 
+
+When ported to HD, the tank suffered a reduction in its frontal turret armor, making it somewhat less effective. GB10 Black Prince  However, its good armor and excellent hit point pool make it a tough adversary when driven by a skilled tanker. GB10 Black Prince 
+
+|Gallery=
+
+
+|InTheGame_pros=
+
+* Low tiers will struggle against the armor. GB10 Black Prince 
+* Tracks absorb a lot of damage; sidescraping can be effective. GB10 Black Prince 
+* Armor is very effective when angled. GB10 Black Prince 
+* Good rate of fire, accuracy, and depression (-8°); good when hull-down. GB10 Black Prince 
+* Large hit point pool. GB10 Black Prince 
+* The first British heavy tank to have a gun mantlet, which greatly enhances the effectiveness of the turret armour. GB10 Black Prince 
+
+|InTheGame_cons=
+* Worst Alpha and penetration amongst T7 heavy tanks. GB10 Black Prince 
+* Second worst DPM amongst T7 heavy tanks. GB10 Black Prince 
+* Very low top speed. GB10 Black Prince 
+* Extremely painful grind to research this tank from the Churchill VII. GB10 Black Prince 
+* Armor is very flat and will struggle to withstand even concurrent tanks (like Tiger 1). GB10 Black Prince 
+
+|InTheGame_performance=
+The Black Prince has a similar playstyle to the preceding Churchill series of tanks. GB10 Black Prince   It used to be the only tank of the Churchill series that had working armor, but sadly the HD transformation did change that. GB10 Black Prince  Not to mention that credible threats will simply load gold and easily penetrate your average armor. GB10 Black Prince 
+
+Unlike the first two UK heavies, the Black Prince has better agility than it seems on paper (most likely due to its better terrain resistances), and when used tactically it can make a brawler in a pinch, though it is generally a better idea to avoid close combat in order to fully utilize the advantages of your gun, what little there are. GB10 Black Prince  It is vital especially in close quarters to angle your armor, preferably slightly to the right at around thirty degrees. GB10 Black Prince  If you can jam your front end against a rock or other cover with just your sharply angled side and your turret exposed to enemy fire, you can also become a frustrating blockade for any tank at your tier (this tactic is known as sidescraping). GB10 Black Prince  While the Black Prince's armor can often bounce shots from [[KV-3]]' and [[IS]]'s 122 mm gun. GB10 Black Prince . GB10 Black Prince 
+
+Note that once you're set in a direction, it will be rather difficult to backtrack as the Black Prince's awful top speed won't get you there in time; instead, you should consider where your allies are going and where you can be of most use. GB10 Black Prince  If you are close to the bottom tier, stick to the second line and provide support with the accurate 17 pounder, which can penetrate weak spots on most high tier tanks easily thanks to its great accuracy and aim time and good penetration with premium rounds. GB10 Black Prince  The damage will seem lacking but the rate of fire is acceptable and the gun will drain all but the largest health pools in a short time. GB10 Black Prince  Be ready to take the initiative though and to lead an assault through where the enemy lines are weak. GB10 Black Prince   Given the fast reload of your gun, you can charge through enemy fire and get into their faces as your allies follow you up. GB10 Black Prince 
+
+No matter what the fight, don't stray too far from your support. GB10 Black Prince  The Black Prince can fight a lot of opponents and win head to head, but if you enter combat with more than one agile, well-armed tank in close quarters your chances of victory plummet. GB10 Black Prince  Shots to your exposed sides and rear carry a high chance of injuring a crew member, track your tank, or worse destroy your ammo rack. GB10 Black Prince  This will more than double your reload time and make your cannon far less potent due to its low alpha damage. GB10 Black Prince 
+
+Take note that when cornering or making tight turns your sides will be exposed long before your turret and gun, allowing enemies to potentially cause extensive damage to your exposed hull. GB10 Black Prince  Instead of making tight turns, you should take corners from far off the edge and angle yourself diagonally. GB10 Black Prince  This makes it harder for enemies hiding around the corner to penetrate you due to the shallow angle of your sides, and will leave your gun clear to fire at the enemy. GB10 Black Prince  This tactic is valid on all Churchill Tank Models. GB10 Black Prince 
+
+Despite it's flaws though, Black Prince is basically a TOG that has thicker armor, more health, a tier higher, ''more mobility'', and the same gun. GB10 Black Prince  So if you like the TOG, this is for you. GB10 Black Prince  When put into tier 7 battles, it is usefull. GB10 Black Prince  Above that not so much, the 17 Pdr has no business being on a Tier 7 heavy tank. GB10 Black Prince  
+
+|InTheGame_research=
+The tank doesn't have many research options, and those don't make any big differences, including the unrequired suspension. GB10 Black Prince  The choices will depend if you favour fire-power over mobility, but once again, no change will have outlandish results. GB10 Black Prince  The 2nd engine is MUCH lower weight than the first, so you can easily mount a full set of equipment without ever upgrading the weight limit. GB10 Black Prince  The upgrade to your gun seems small on paper but the performance in battle is noticeably improved, especially against thick armor. GB10 Black Prince 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Improved Ventilation Class 3
+
+|History=
+Tank, Infantry, Black Prince (A43) was the name assigned to an experimental development of the Churchill tank with a larger, wider hull and a QF 17-pounder (76 mm) gun. GB10 Black Prince  It was named after Edward, the Black Prince, a famous 14th century military leader. GB10 Black Prince 
+
+=Development=
+As a development from the Churchill, the Black Prince was a continuation of the line of Infantry tanks, that is slower, heavier tanks intended to operate in close support of infantry. GB10 Black Prince  The parallel development in British tank design were the Cruiser tanks, which were intended for more mobile operations. GB10 Black Prince  A43 was the General Staff Specification number issued in 1943, for an interim tank that would eventually be superseded by a "Universal tank" that would replace both Infantry and Cruiser tanks. GB10 Black Prince 
+ 
+The cruiser line led to the Cromwell tank (and the 17 pounder armed Challenger variant) and then the Comet tank, (which had a variant of the 17 pounder gun) entering service during the war. GB10 Black Prince  While not as heavily protected as the Churchill, the Comet showed the way tank development was going. GB10 Black Prince  This led to the last of the cruiser line and the first of the Universal tanks, the very successful Centurion tank. GB10 Black Prince 
+ 
+A larger gun than a conventional Churchill required a larger turret on a wider turret ring and consequently a widening of the tank hull to carry this. GB10 Black Prince  The Black Prince weighed around ten tons more than the Churchill so the suspension was modified and the tracks widened by 10 inches to carry the extra load. GB10 Black Prince  However, the Churchill's 350-horsepower (260 kW) engine was retained, leading to the tank being underpowered and slow, with maximum speeds of 10. GB10 Black Prince 5 mph (16. GB10 Black Prince 9 km/h) on roads and 7. GB10 Black Prince 5 mph (12. GB10 Black Prince 1 km/h) cross country. GB10 Black Prince  This was so slow that the tank's tactical usefulness would have been limited. GB10 Black Prince  Consideration was given to the use of the Rolls-Royce Meteor engine; this would have increased the available power to 600 hp (450 kW), but the idea never left the drawing–board. GB10 Black Prince  Likewise, plans to fit the Black Prince with the turret from the Centurion were never carried out. GB10 Black Prince 
+ 
+By the time the Black Prince prototypes had appeared in May 1945, the Sherman Firefly had acquired a proven combat record, the Comet tank was in service and the introduction of Centurion was imminent. GB10 Black Prince  All these tanks carried the QF 17-pounder or a derivative; all had better mobility than the Black Prince and the Centurion had frontal armour of comparable effectiveness. GB10 Black Prince  The Black Prince had become redundant and the project was abandoned. GB10 Black Prince 
+ 
+The Black Prince marked the end of the development of the Churchill tank, and the end of the Infantry tank concept in British tank design. GB10 Black Prince 
+
+=Survivors=
+The only surviving Black Prince tank is held by the Bovington Tank Museum in Bovington, UK; it is the fourth of the six prototypes that were built. GB10 Black Prince  It has recently been restored to running condition. GB10 Black Prince 
+
+
+|HistoricalGallery=
+image:A43 Infantry Tank Black Prince 1. GB10 Black Prince jpg{{!}}The A43 Infantry Tank Black Prince Side View
+image:A43 Infantry Tank Black Prince 2. GB10 Black Prince jpg{{!}}The A43 Infantry Tank Black Prince Front View
+
+|HistAcc=
+The OQF 77 mm Gun Mk II gun was only mounted on the [[Comet]] tank. GB10 Black Prince  Its configuration on the Black Prince is fake. GB10 Black Prince 
+*The Rolls-Royce Meteor engine was merely a proposal that never left the drawing board. GB10 Black Prince 
+*Actual top speed is 16. GB10 Black Prince 9 km/h, not 20 km/h. GB10 Black Prince 
+*Actual gun depression is -10°, not -8°. GB10 Black Prince 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

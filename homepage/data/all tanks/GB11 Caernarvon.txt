@@ -1,0 +1,95 @@
+{{TankData|Tank=GB11_Caernarvon
+|
+A big change in the British heavy tank line, the Caernarvon marks the beginning of the '''"Universal Tank"''' era of the tree. GB11 Caernarvon  Therefore, its mobility is much better than that of the Black Prince. GB11 Caernarvon  However the hull armor is not as thick despite being sloped which is something previous tanks lacked. GB11 Caernarvon  The top gun is an improvement of the one from its predecessor in terms of aim time, accuracy and rate of fire and has an ideal role for hulldown tactics as its large and well-armoured (269. GB11 Caernarvon 9mm) gun mantlet can eat most shots tier-for-tier with no consequence. GB11 Caernarvon  
+This playstyle has been improved with patch 9. GB11 Caernarvon 20. GB11 Caernarvon 1 which upgraded the top gun from a twenty pounder to the 32 pounder. GB11 Caernarvon 
+
+Unfortunately, it takes quite a while to realize this tank's potential if one has not previously unlocked modules on the British Medium tree. GB11 Caernarvon  This tank has low alpha damage (280) and weak hull armor - therefore it is absolutely crucial to exploit this tank's strengths to the maximum in order to be successful in it, most notably its incredibly high rate of fire combined with tough turret and nice gun depression. GB11 Caernarvon  When played to its strengths, this tank can indeed be fearsome and after the latest buffs in patch 9. GB11 Caernarvon 20. GB11 Caernarvon 1 it is now widely considered to be among the best tier 8 heavy tanks. GB11 Caernarvon 
+
+|Gallery=
+
+
+|InTheGame_pros=
+
+* Gun has insanely good RoF combined with reasonable penetration and accurate firing on the move, can fire and advance
+* Good gun depression combined with strong armor on second turret
+* Best DPM of all T8 heavies (near 2700 stock, 3300 max)
+* Improved speed over lower tier British heavies and good view range
+* Upper frontal armor is well angled and can bounce several shells from same tier tanks
+
+|InTheGame_cons=
+
+* Lower plate is easily hit and penetrated, especially on flat ground, poor roof armor and speed make it an easy target for SPG
+* Low traverse speed
+* Ammo rack is weak and can be damaged frontally. GB11 Caernarvon 
+* High ammo cost for average alpha rounds
+* Poor alpha damage for a heavy tank
+
+
+|InTheGame_performance=
+The Caernarvon is a huge departure from the Black Prince in terms of playstyle; this tank is a '''FULLY''' dedicated support unit, and requires a different set of tactics. GB11 Caernarvon  No longer are you able to act as a battering ram, zig-zagging your way up the front with your forward armor more or less exposed. GB11 Caernarvon  While this tank might be played successfully with something approaching the same maneuvers as the Black Prince, it is let down by its inferior hull, which is this tank's foremost weakness. GB11 Caernarvon  It is poorly armored, fragile, and with a large silhouette which attracts plenty of artillery fire. GB11 Caernarvon  The Caernarvon also sports a terrible traverse speed and lackluster acceleration, often making it a pain to position correctly. GB11 Caernarvon 
+
+However, experienced players will recognize the strengths of its hard turret and incredibly high rate of fire, combined with good gun handling, nice gun depression and excellent accuracy. GB11 Caernarvon  In practice, you can shoot 2 or sometimes even 3 times before your enemy reloads (with right modules and crew, it is possible to reduce reload time below 5s!). GB11 Caernarvon  Your DPM is higher than many tier 9 tanks, so put this to use. GB11 Caernarvon  Keeping enemy tanks permatracked is a viable tactic in this tank. GB11 Caernarvon  Also, deadeye perk can make a great deal of difference to the fight if you pick your shots. GB11 Caernarvon  DO NOT trade shots in peek-a-boom tactics, as your alpha simply isn't sufficient for this. GB11 Caernarvon  
+
+Carrying over the support tank philosophy, focused mentality as well as good utilisation of the tanks base strengths when driving the Caernarvon tank with mobility-optimised crew, it is highly effective against multiple targets: the exceptional RoF of the tank allows it to become a thorn in the side of any opponent whom stands in front of an attentive Caernarvon user on any flank with good ridge-lining positions ideally. GB11 Caernarvon  In a well-utilised ridge-lining position, the Caernarvon's biggest enemy is typically artillery and well-placed shots with high-penetrating guns, as a static target. GB11 Caernarvon 
+
+This tank should be driven with a great deal of care and attention to detail. GB11 Caernarvon  Use your slightly tall turret seat to peek over hills and the rear of other tanks' hulls, make plentiful use of cover, and always move a step or two behind the main front. GB11 Caernarvon  Note that if you are careful about exposing your lower plate Wet Ammo Rack is certainly not required, and picking Safe Stowage perk instead is usually enough. GB11 Caernarvon  Skilled players will find Coated Optics to improve on your excellent view range or vents to maximize your DPM a bigger benefit. GB11 Caernarvon 
+
+|InTheGame_research=
+* The WS No. GB11 Caernarvon  22 radio carry over from the Black Prince and can be installed immediately. GB11 Caernarvon 
+* FV221A suspension must be researched/mounted before upgrading the turret, unless you use your Class 3 Enhanced Mounting Springs. GB11 Caernarvon  (Taking into account that you want a gun rammer, stabilizer and vents on it. GB11 Caernarvon )
+* Start by researching the upgraded turret. GB11 Caernarvon  The extra meters of view range, additional 100 hit points and strong armor can make a difference. GB11 Caernarvon 
+* Researching the OQF 32-pdr next will really boost firepower. GB11 Caernarvon 
+* Researching Rolls-Royce Meteor Mk. GB11 Caernarvon  IVC engine, than can choose between Rolls-Royce Meteor M120 engine to improve speed or FV221A suspension to improve agility. GB11 Caernarvon 
+* NOTE: If you already played through the British medium line, you should have Rolls-Royce Meteor Mk. GB11 Caernarvon  IVC already unlocked. GB11 Caernarvon  In that case, it is a viable option to completely skip the last engine (M120) because it will not be needed on Conqueror - you will already have the even more powerful Rolls-Royce Griffon engine unlocked for it, and doing so will shorten the grind to Conqueror by 27000 exp. GB11 Caernarvon  You can still research it later, either on Caernarvon if you wish to elite/keep it, or the Conqueror to elite it once you have all the other modules. GB11 Caernarvon 
+* The SR C42 radio to improve range. GB11 Caernarvon 
+ 
+|InTheGame_equipment= Tank gun rammer, Vertical Stabilizer, Coated Optics, Improved Ventilation, Wet Ammo rack
+
+
+|History=
+
+The Caernarvon was a British heavy tank of the post-war era. GB11 Caernarvon  It's name was based on the namesake of the royal town of Caernarfon, an historical port town in Gwynedd, North Wales. GB11 Caernarvon  It was developed in a post war period to rival the Soviet IS-3 heavy tank. GB11 Caernarvon  Compared to the Centurion's 20-pounder gun, the Caernarvon was equipped with a much more powerful 120 mm gun. GB11 Caernarvon  Its main role was to provide long range anti-tank support for Centurion tanks. GB11 Caernarvon  They were issued at nine for each regiment in Germany; usually grouped in three tank troops. GB11 Caernarvon 
+
+
+==Development history==
+
+
+The chassis was from the A45 Infantry Support Tank, started in 1944 shortly after that of the A41 Centurion. GB11 Caernarvon  After the war the project was relocated to that of the "Universal Tank" design of the FV 200 series. GB11 Caernarvon  The 200 series was to have used a common hull for all uses (self-propelled artillery, armoured personnel carrier, three varieties of tank, etc. GB11 Caernarvon ). GB11 Caernarvon  One tank type was to be the heavy FV 201 of 55 tonnes, armed with an 83. GB11 Caernarvon 4 mm gun. GB11 Caernarvon 
+
+In 1949 it was decided to bring the armament up to 120 mm. GB11 Caernarvon  As this delayed the project, in 1952 the FV 201 hull was combined with a 17 pounder-armed Centurion Mk 2 turret to give the FV 221 Caernarvon Mark I. GB11 Caernarvon  Twenty-one were built with the Mk III 20 pounder turret as the Caernavon Mk II. GB11 Caernarvon  The FV 221 may originally have been intended to be the "Main Battle Tank" member of the FV 201 series, but with the success of the A41 Centurion such a vehicle was no longer required. GB11 Caernarvon  In either event, the Caernarvon was only used for chassis development work serving in troop trials. GB11 Caernarvon  In 1955 the first Conqueror was produced. GB11 Caernarvon  Twenty Mark 1 and 165 Mark 2 Conquerors were built including conversions of Caernavon MkIIs. GB11 Caernarvon  Production continued until 1959. GB11 Caernarvon  It had lost much enthusiasm once the Centurion was upgraded to an L7 105 mm gun. GB11 Caernarvon 
+
+The gun design was American, the same as used on the US M103 heavy tank; with separate charge and projectile, as would also be the case in the Chieftain that followed. GB11 Caernarvon  The charge was not bagged but in a brass cartridge, which offered some safety advantages, but reduced shell capacity to 35. GB11 Caernarvon The armour was very heavy for the time, especially in the front, where it was seven inches (178 mm) in the horizontal plane. GB11 Caernarvon  Unfortunately, this, along with the weight of the huge turret required to house the large gun and the very large hull volume, made the vehicle very heavy, giving it a relatively low top speed and making it mechanically unreliable. GB11 Caernarvon  Also, few bridges could support its weight. GB11 Caernarvon  However, rather like the Second World War Churchill tank, the Conqueror had exceptional terrain handling characteristics and proved to be as capable cross country as the lighter (and on paper slightly faster) Centurion tank. GB11 Caernarvon 
+
+One feature of particular note was the rotating commander's cupola, which was at the heart of the Conqueror's fire control system, advanced for its time. GB11 Caernarvon  The commander could align the cupola on a target independently of the turret, measure the range with a Coincidence rangefinder, and then direct the gunner on to the new lay mechanically indicated to him by the cupola. GB11 Caernarvon  In theory, when the gunner traversed to the new lay he would find the target already under his sights, ready to be engaged. GB11 Caernarvon  Meanwhile, the commander was free to search for the next target. GB11 Caernarvon  (The Soviet bloc also used similar devices, such as the TPKU-2 and TKN-3, on all of their post–World War II tanks though theirs did not use a rangefinder. GB11 Caernarvon ) The system may have been inspired by a similar device, without range finder, installed in WWII German Panzers which was apparently highly successful, but was not repeated in subsequent tanks until an updated electronic version of the same idea appeared in the American M60A2 variant of the Patton series. GB11 Caernarvon 
+
+|HistoricalGallery=
+image:FV 221 Caenarvon 1. GB11 Caernarvon JPG{{!}}The Caernarvon on trials
+image:FV 221 Caernarvon 2. GB11 Caernarvon JPG{{!}}The Caernarvon
+
+|HistAcc=
+The Caernarvon's upgraded turret configuration is fictitious. GB11 Caernarvon 
+* Historical [[Gun/UK#OQF 20-pdr Type B Barrel|OQF 20-pdr]] gun is missing. GB11 Caernarvon 
+* The 32-pdr gun was only fitted on the [[Tortoise]]. GB11 Caernarvon  Its configuration on the Caernarvon is fake. GB11 Caernarvon 
+* The M120 engine was only fitted on the [[Conqueror]]. GB11 Caernarvon  Its configuration on the Caernarvon is also fake. GB11 Caernarvon 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+
+|Sidebar_Camostop=5. GB11 Caernarvon 4
+|Sidebar_Camomove=2. GB11 Caernarvon 9
+|Sidebar_Camofire=1. GB11 Caernarvon 4
+|Sidebar_Passhard=1. GB11 Caernarvon 055
+|Sidebar_Passmed=1. GB11 Caernarvon 247
+|Sidebar_Passsoft=2. GB11 Caernarvon 205
+|Sidebar_DispTurret=0. GB11 Caernarvon 134
+|Sidebar_DispRecoil=3. GB11 Caernarvon 356
+|Sidebar_DispAccel=0. GB11 Caernarvon 134
+|Sidebar_DispTurning=0. GB11 Caernarvon 134
+}}

@@ -1,0 +1,65 @@
+{{TankData|Tank= 
+
+| This tank is literally a ''"Heavy Medium"'' tank with various characteristics from both a heavy tank and a medium tank mixed together. R148 Object 430 U  It has decent mobility, but not as good as other mediums, good armour protection, but not as good as other heavies, and relatively good gun handling considering its mobility and armour. R148 Object 430 U  It's best played as spearhead tank that can lead a charge , or as an anti-medium that can fight well against lights and mediums due to its good armour, mobility and firepower. R148 Object 430 U  
+
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Great DPM, joint highest alpha damage among Tier 10 medium tanks
+* Strong turret and upper glacis armor, hull sides are covered with spaced armor
+* Large hitpoint pool
+* Very good hull traverse speed and ground resistance, great agility
+* Excellent camouflage values
+
+|InTheGame_cons= 
+* Bad gun depression, as is common for most Russian tanks
+* Average top speed and low engine power, poor acceleration
+* Bad accuracy
+
+|InTheGame_performance= 
+The Object 430U is perhaps the most extreme example of the "heavy medium" concept - a tank that combines the best features of both heavy and medium tanks with few shortcomings. R148 Object 430 U 
+
+It carries a 122mm gun with excellent damage per shot (best in tier and class, tied with the Chinese [[121]] and the Swedish [[UDES 15/16]]), decent penetration, good enough reload speed to break 3k DPM with only standard equipment, and good aim time for such a big gun. R148 Object 430 U  Another advantage is that the Object 430U's ammo capacity is very generous at 50 rounds total, allowing players to carry a good amount of each shell type to suit their needs in battle. R148 Object 430 U 
+
+In terms of survivability, the Object 430U is excellent. R148 Object 430 U  While its lower plate is fairly weak, its upper glacis has an effective thickness above 270mm, and the turret face is even stronger, being 300mm at its thinnest. R148 Object 430 U  The turret cupolas are also not weakspots at all, being around 300mm effective each. R148 Object 430 U  The side armor is somewhat thin, but inversely angled and covered with spaced armor, making sidescraping very effective. R148 Object 430 U  One should be cautious not to overangle the tank though, as that would allow observant players to shoot the frontal roadwheel, tracking the tank and dealing damage at the same time. R148 Object 430 U  Lastly, Object 430U has great camouflage values, further adding to its survivability. R148 Object 430 U 
+  
+Mobility-wise, the Object 430U enjoys excellent hull traverse and agility, but its speed is merely average and its acceleration is poor for a medium tank. R148 Object 430 U  
+
+Overall, Object 430U is one of the better Tier 10 tanks currently available in the techtrees, and is an especially recommended choice for new players and players of average skill. R148 Object 430 U  It is powerful and forgiving, and is right at home at mid-short range where its armor and powerful gun allow it to slug against same tier opponents well. R148 Object 430 U  Against lower tiers, this tank can be an absolute brute, and one any player should be wary of. R148 Object 430 U  
+
+|InTheGame_research= 
+This vehicle comes elites in its stock configuration. R148 Object 430 U 
+
+|InTheGame_equipment=
+
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+*{{VideoYT|UVVm5A76x0g}}
+
+|History= 
+
+Object 430U (“uluchennij” – improved, or “usilenij” – strenghtened) was – although designated a medium tank – a Soviet take on how heavy and heavily armored a Soviet medium tank can get. R148 Object 430 U  It was (as the name suggest) a development of the Object 430 itself, but with improved armor and a 122mm D-25T gun. R148 Object 430 U 
+
+The Object 430 itself was a result of the early 50′s program to find something better than the T-54. R148 Object 430 U  It was designed by A. R148 Object 430 U A. R148 Object 430 U Morozov in Kharkov between 1954-1955. R148 Object 430 U  More details on its history are in the [[Object 430]] history section
+
+In 1954, the construction bureau of the Kharkov plant No. R148 Object 430 U 75 made another medium tank preliminary project on its own initiative, under the designation of Object 430U. R148 Object 430 U  The frontal hull armor was improved to 160mm (120mm on original Object 430). R148 Object 430 U  The turret was also reworked in order to improve its protection and to install the 122mm D-25T gun (some sources suggest that a 130mm gun was also considered). R148 Object 430 U  Suspension was also reworked and the weight of the tank increased from 35,5 tons to 42 tons. R148 Object 430 U 
+
+In a number of parameters (ammunition rack, ground pressure, power-to-weight ratio), the Object 430U was better than serially produced IS-3 and IS-4 heavy tanks and also the heavy experimental Object 730. R148 Object 430 U  As a result of the Object 430U, it was demonstrated that not only do the medium tanks have development potential, they can also achieve and surpass the parameters of heavy tanks. R148 Object 430 U  However, at this stage, the development of the Object 430U was stopped: by its parameters, it was effectively a heavy tank and the Soviets already had a post-war heavy tank program (which resulted in T-10) and didn’t need another one. R148 Object 430 U 
+
+|HistoricalGallery= 
+File:Object_430U_mock_up. R148 Object 430 U jpg{{!}}Mock-up of the Object 430U
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. R148 Object 430 U wot-news. R148 Object 430 U com/2013/08/16/object-430u-possible-tier-10-vehicle/
+* https://ru. R148 Object 430 U wikipedia. R148 Object 430 U org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_430
+* 
+
+}}

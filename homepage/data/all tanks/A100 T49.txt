@@ -1,0 +1,77 @@
+{{TankData|Tank= T49
+|Imagine the KV-2 with small size and agile speed; This is the result of insane combination of the deadly "derp gun" and mobility. A100 T49  When stock, The T49 is just a [[Bulldog]] with higher hit points, lower speed and camo ratings. A100 T49  But when it received the deadly 152mm gun, The T49 becomes one of the most dangerous enemy you'll face in Tier 9 - 10 ranks, especially if you played lightly armored tanks (Such as in the French line). A100 T49  Its deadly gun can deal up to 1000 damage and can do serious module damage to your tank if lands a critical hit. A100 T49  In exchange, it only has mediocre speed for a light tank and very poor accuracy. A100 T49 
+
+Recent gameplay changes has now allowed the T49 be a consistent damage dealer with the changes to the 90mm gun allowing it to fight with other light tanks or medium tanks without resorting to expensive HEAT rounds. A100 T49 
+
+|Gallery=
+T49 scr 1. A100 T49 jpg
+T49 scr 2. A100 T49 jpg
+T49 scr 3. A100 T49 jpg
+T49 scr 4. A100 T49 jpg
+
+|InTheGame_pros=
+*152mm can easily damage multiple modules on tanks with large areas of paper armor, capable of doing 1k damage
+*One of few tanks in the game that gets non-premium HEAT shells (for 152mm howitzer)
+*With the recent game changes the 90mm receives a decent APCR round instead of the HEP round
+*Great gun depression
+*Good top speed
+
+
+|InTheGame_cons=
+*Mediocre camo ratings and rather large in comparison to other tier 9 light tanks
+*Ammo rack prone to damage
+*152's low accuracy means that you have to get dangerously close to your enemy to reliably land shots
+*90mm gun has a rather low ammo count in consideration of its fast reload
+*Hull is derived from the Bulldog at tier 8, meaning ramming and HE shells can critically damage this tank
+*Turret often gets damaged if not jammed entirely 
+
+|InTheGame_performance=
+With the top gun, this tank is the ultimate aggressive ambusher. A100 T49  To play this tank well will require for most players a lot of practice due to a playstyle unlike any light tank in the game. A100 T49   You have to get close to an enemy tank to have a shot at hitting with such low accuracy. A100 T49  Because you are a light tank and a rather large one at that, you must time your run perfectly since you will only get one shot before you have to retreat while your gun reloads. A100 T49   That being said if you can make contact with a low armor face of a enemy (such as a french tank or many tanks rear armor) you will take at least half their HP pool with a pen. A100 T49   With such a unique play-style this tank is sure to become a favorite of many tankers, though beginners might want to avoid this tank. A100 T49 
+
+More battle value for T49 w/ 152mm gun comes from the fact that with it T49 can damage frontally literally any tank in the game without penetration concerns (using the HE rounds). A100 T49  Turning the tide on deadlock situations on tight corridor maps, even badly aimed hits on the most heavily armored targets deal damage (120 pts minimum). A100 T49  However due to the long reload weak sides should be hit to have notable dps. A100 T49  
+
+If you dont like "derp ambushing" with the 152mm, the changed 90mm gun can be used as a more reliable way to hit and damage targets, though frontally penetrating heavies can be a challenge pr even impossible. A100 T49  
+The change brought about the replacement of the default HEP round with an APCR which now provides the T49 with a 'normal' gun. A100 T49  Players now have a consistent way to deal damage to heavily armored targets without resulting to the more expensive, but higher penetrating, HEAT round. A100 T49  With reload time of 5,31s with gun rammer you have essentially a great DPM potential (2600pts(w/rammer) with the APCR/HEAT round, it however has basically lost its ability to do a maximum of 3600pts with the 102mm pen HEP round as it is left with a 45mm pen HE round. A100 T49  
+
+|InTheGame_research=
+The T49 stock grind is now generally painless and upgrades are only minor. A100 T49 
+* Engine and radio carries over from the Bulldog
+* Turret for better view range, Hp, gun depression and dpm as well as the possibility to mount the the 152mm 
+Now its a a choice if you want
+* The 152mm for the funny but unreliable HE durp gun
+* or the tracks which are not needed to mount anything, but should be taken sometime due to improved traverse
+
+|InTheGame_equipment= Large-Caliber Tank Gun Rammer, Vents, Vertical Stabilizer, GLD, Coated Optics
+
+|External_Reviews= 
+{{VideoYT|U762nPsCf3o}}
+
+|History=
+T49 was an attempt to upgun M41 Walker-Bulldog in order to stay relevant against more heavily armored tanks such as T-54 which appeared after the introduction of M41. A100 T49  To create T49, M41 was upgraded with a 90mm gun and a larger turret. A100 T49  This tank later served as the test bed for the 152mm M8E1 rifled gun/launcher. A100 T49  This tank was later adapted into the M551 Sheridan. A100 T49 
+
+|HistoricalGallery=
+image:T49_90mm. A100 T49 jpg
+image:T49 152 mm. A100 T49 jpeg
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+*[https://worldoftanks. A100 T49 com/en/tankopedia/a100_t49/ T49 @ WOT Tankopedia]
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=
+|Sidebar_Camomove=
+|Sidebar_Camofire=
+|Sidebar_Passhard=
+|Sidebar_Passmed=
+|Sidebar_Passsoft=
+|Sidebar_DispTurret=
+|Sidebar_DispRecoil=
+|Sidebar_DispAccel=
+|Sidebar_DispTurning=
+}}

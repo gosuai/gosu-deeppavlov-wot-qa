@@ -1,0 +1,68 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Hydropneumatic suspensions - can achieve better gun depression and elevation while stationary or at low speed
+* Good alpha damage, penetration and shell velocity
+* Upper glacis is extremely sloped and can ricochet some poorly aimed shots
+* Good top speed and acceleration
+* Fairly small and short, good camouflage values
+
+
+|InTheGame_cons= 
+* Bad reload speed, DPM is low
+* Thin armor all over, very vulnerable to HE damage
+* Very bad on the move gun handling
+* Average accuracy at range
+* The first Swedish medium with hydropneumatic suspensions, can take time to master its gimmick
+
+
+|InTheGame_performance= 
+This tank is best played as a medium range support vehicle. S29 UDES 14 5  The lack of meaningful hull armour and bad traverse speeds both on the hull and turret means you cannot brawl and deflect shots (outside of deflecting some 105mm and lower shells) however the lack of turret armour also means you cannot be a hull down area control medium in the same way the Centurion or the Pershing can. S29 UDES 14 5  Do not be fooled by the incredible gun depression this tank has - the best way to use it is to peek over, fire off a shot and retreat to cover, not to sit out and allow enemies to get shots into you. S29 UDES 14 5  Your camouflage value should be your best friend in this regard, because as soon as you are spotted you will take damage. S29 UDES 14 5 
+
+The punchy gun and lack of armour do give some advantages though - your p/w ratio is excellent for a medium and allows quick relocating to put the gun to use. S29 UDES 14 5  360 alpha isn’t the highest for a medium at this tier, however you fire significantly quicker than most mediums with higher alpha and so don’t have to sacrifice too much DPM. S29 UDES 14 5  The APCR shells are incredibly useful for sniping out light tanks and your hydropneumatic suspension allows you to tip the hull forward to depress the gun to -12 degrees, allowing for some positions that other tanks couldn’t even imagine. S29 UDES 14 5  
+
+The gun with the suspension is what makes this tank. S29 UDES 14 5  Being able to utilise creative positions with the amazing gun depression, abusing it with camouflage to spot with the decent view range and getting early shots off with the high alpha is what this tank is all about. S29 UDES 14 5  The mediocre accuracy means that long range sniping isn’t the most efficient way of using the gun (although you can still pull it off) so using the good camo with bushes and the gun depression to appear in unexpected places is what this tank is good for. S29 UDES 14 5  Remember that nearly everything that hits you damages you, and because of the way the armour is sloped you present a lovely thin flat target for artillery to get some juicy damage farming from, so plan accordingly. S29 UDES 14 5 
+
+Stock, this tank is not great. S29 UDES 14 5  The stock engine makes your traverse and agility even worse and while the stock gun has decent DPM and gun handling, the penetration and alpha damage do not suit a vehicle that cannot allow itself to be spotted, and upgrading the gun (and even putting equipment
+on) requires a suspension upgrade. S29 UDES 14 5   The mid gun is adequate for a tier VIII medium, having higher penetration than the T-44 and Pershing but still lacks alpha damage. S29 UDES 14 5  Luckily, the two stock guns have good HEAT ammunition which can be used to compensate somewhat, which makes the grind a little easier. S29 UDES 14 5 
+
+|InTheGame_research= 
+
+- The suspension is NECESSARY to get first to mount anything, even a gun rammer. S29 UDES 14 5 
+
+- Getting the middle gun is a good idea next, as it gives you acceptable performance for a medium, comparable to the older medium penetration values at Tier VIII
+
+- Next you can choose to get either the engine upgrade first to make the traverse speed bearable (although even with the stock engine the p/w is still pretty good) or get the 105mm gun, which greatly enhances the tank performance 
+
+- Lastly get the top radio, which is shared with the high tier Swedish tank destroyers
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|kpQa89J2kSA}}
+{{#ev:youtube|qGjVld73NmE}}
+
+|History= 
+
+|HistoricalGallery= 
+File:Udes_14_alt_5_blueprint. S29 UDES 14 5 jpeg{{!}}Blueprint of the UDES 14 alt 5
+File:Udes_14_proposals. S29 UDES 14 5 jpeg{{!}}Sketches of other proposals for the UDES 14 project
+File:Udes_14_proposals_2. S29 UDES 14 5 jpeg{{!}}Blueprints of the different proposals
+File:Udes_14_proposals_specs. S29 UDES 14 5 jpeg{{!}}Planned specifications for the different proposals
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [//forum. S29 UDES 14 5 worldoftanks. S29 UDES 14 5 com/index. S29 UDES 14 5 php?/topic/284927-european-tank-discussion/page__st__1060__pid__8642472#entry8642472 '''UDES 14 archive material'''] posted by SP15 on the forums
+* https://www. S29 UDES 14 5 ointres. S29 UDES 14 5 se/udes. S29 UDES 14 5 htm
+* https://tanks-encyclopedia. S29 UDES 14 5 com/coldwar/Sweden/Swedish-prototypes-paper-projects. S29 UDES 14 5 php
+* https://ritastatusreport. S29 UDES 14 5 blogspot. S29 UDES 14 5 com/2015/03/swedish-tanks-part-xxii-udes. S29 UDES 14 5 html
+* https://ritastatusreport. S29 UDES 14 5 blogspot. S29 UDES 14 5 com/2015/03/swedish-tanks-part-23-udes-part-2. S29 UDES 14 5 html
+}}

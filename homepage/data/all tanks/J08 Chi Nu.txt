@@ -1,0 +1,73 @@
+{{TankData|Tank=Chi_Nu
+|
+Make no mistake, the Chi-Nu is much more a mobile fire support tank than a real medium. J08 Chi Nu  Neither its speed nor its armor makes it a close quarters fighter. J08 Chi Nu  However, thanks to its accurate and deadly gun, the Chi-Nu makes a great second line sniper. J08 Chi Nu  Be warned though, if spotted, it is highly advised to seek cover as the Chi-Nu makes for a soft and attractive target. J08 Chi Nu 
+
+|Gallery=
+
+File:Type 3 Chi-Nu scr 1. J08 Chi Nu jpg
+File:Type 3 Chi-Nu scr 2. J08 Chi Nu jpg
+File:Type 3 Chi-Nu scr 3. J08 Chi Nu jpg
+
+
+|InTheGame_pros=
+* Features Great gun depression like many other Japanese tanks. J08 Chi Nu 
+* Impressive firepower with the top 75mm gun. J08 Chi Nu 
+* Reasonably small size give the Chi-Nu a good camo factor. J08 Chi Nu 
+* Top guns accuracy and aimtime are surprisingly good. J08 Chi Nu 
+* Modest agility, despite it's mediocre top speed. J08 Chi Nu 
+
+|InTheGame_cons=
+* Absolutely pathetic armor and no gun mantlet(Howitzers & Autocannons will be your demise)
+* Unimpressive top speed of just 38 KM/H (Most mediums can do at least 40 KM/H)
+* Very fragile modules and crew. J08 Chi Nu  You can expect at least 1 crew member to be disabled when hit (assuming you survive). J08 Chi Nu  
+* Very light weight (less than 20 tons!) means even light tanks can ram you for a good amount of damage. J08 Chi Nu 
+* Bad stock grind. J08 Chi Nu  First 75mm gun is bad on Chi-Nu. J08 Chi Nu  57mm is a little better though. J08 Chi Nu 
+
+
+|InTheGame_performance=
+The Chi-Nu is in many ways considered a below average medium tank. J08 Chi Nu  However, it makes up for it with the Type 5 75mm gun, arguably one of the best medium tank guns at Tier V. J08 Chi Nu  One must keep in mind, however, the disappointing soft stats on the Japanese tanks; for example, be sure to aim completely, or you will usually miss horribly. J08 Chi Nu 
+ 
+The armor and mobility are quite bad when compared to the Sherman and Panzer IV H, and trying to get to some of the locations they can may land you in trouble. J08 Chi Nu  The Chi-Nu is sluggish for a medium tank, but nimble enough to deal with most heavies. J08 Chi Nu  You will easily be penetrated by High-Explosive shells from 105mm/10. J08 Chi Nu 5cm howitzers, and module damage is almost guaranteed when hits are taken. J08 Chi Nu  A Chi-Nu taking fire from any and all enemies will wither quickly unless it can find cover. J08 Chi Nu  Here, the gun-depression is your crucial asset as it allows you to take advantage of most kinds of terrain. J08 Chi Nu 
+
+What the Chi-Nu excels at is sniping and support. J08 Chi Nu  The Type 5 75mm gun easily delivers on this role with its solid balance of penetration, alpha damage, accuracy, aim-time, and reload-time. J08 Chi Nu  Stick to the second line and place accurate fire into the enemies distracted by your heavies, pushing up with them as needed. J08 Chi Nu  Alternatively, you can take up well-concealed positions and provide fire from there. J08 Chi Nu  The Chi-Nu is graced with decent camo-rating due to its small size. J08 Chi Nu  Finding terrain and foliage to blend into is not too difficult. J08 Chi Nu  Because its turret turn speed is the slowest for tier V non-premium mediums, it can be safely played like an American TD, albeit much slower. J08 Chi Nu  With that said, the Chi-Nu will never fail to reward players who can take advantage of its strengths and mitigate its weaknesses. J08 Chi Nu 
+ 
+|InTheGame_research=
+* First you should research the tracks (you need the weight support). J08 Chi Nu 
+* Then get the turret and gun, because your grind will be very frustrating if you do not have at least the third gun. J08 Chi Nu  Turret adds 40HP, which can make the difference from being One-Hit-Killed and surviving to get that final shot in. J08 Chi Nu 
+* Engine is a very welcome improvement to acceleration, and you can maintain your top speed easier. J08 Chi Nu 
+* The top radio carries over from the Chi-He. J08 Chi Nu 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Coated Optics, Vents, Camouflage Net, Binocular Telescope
+
+|History=
+
+In 1942, Japan initiated a new medium tank program of 3 projects, each being a different class of medium tank: a 47mm medium tank, a 57mm medium tank, and a 75mm medium tank. J08 Chi Nu  These tanks were supposed to be a new breed of anti-tank capable medium tanks. J08 Chi Nu  In short time, the 47mm class was seen obsolete and was upgrading to a 57mm tank project, whereas the remaining two projects merged into a single 75mm tank project. J08 Chi Nu  This 57mm tank project and 75mm tank project were the Chi-To and Chi-Ri tanks respectively. J08 Chi Nu  In 1943, development was being hindered to resource issues, thus the Japanese feared it would take too much time until either the Chi-To or the Chi-Ri could be ready. J08 Chi Nu  Thus a quick solution was devised, a stop gap tank which would become the Chi-Nu. J08 Chi Nu 
+
+
+In May 1944, the Chi-Nu development started and was completed in the same year. J08 Chi Nu  The hull of the Chi-He was taking, the turret ring enlarged, and the prototype Chi-Ri Plan I's turret was taken and mounted on the hull. J08 Chi Nu  It retained the same engine from the Chi-He, a 240 horsepower diesel engine. J08 Chi Nu  The top speed was 38. J08 Chi Nu 8kph. J08 Chi Nu  The Type 90 75mm field gun was modified and became the Type 3 75mm tank gun and mounted onto the tank. J08 Chi Nu  And thus production began in Japan in anticipation of an inevitable land invasion of Japan itself. J08 Chi Nu  A total of 166 Type 3 Chi-Nu tanks were produced, 55 in 1944 and 111 in 1945. J08 Chi Nu  The Type 3 Chi-Nu was the last mass-produced Japanese tank of the Second World War. J08 Chi Nu 
+
+Variants included 4 tanks that were up-armored, as the Chi-Nu's 50mm of frontal armor wasn't enough to withstand shells from M4's and T-34's. J08 Chi Nu  Another project was the mounting of the much larger Type 5 75mm cannon onto the Chi-Nu. J08 Chi Nu  There were two plans to do so - either by mounting the Type 5 directly into the Chi-Nu's turret, or by mounting the Type 4 Chi-To's turret on the Chi-Nu chassis. J08 Chi Nu  Ultimately, the latter was chosen due to design flaws in the Chi-Nu's turret, such as insufficient ventilation ports, leading to build-ups of gasses from the main cannon. J08 Chi Nu 
+
+In March 19, 1945, a Chi-To prototype turret mounted onto a Chi-Nu chassis, later known as the Chi-Nu Kai, was tested on the Irago Firing Ground’s. J08 Chi Nu  Trials were shown to be a success, and the modified Chi-Nu was ordered for production. J08 Chi Nu  However, the somewhat smaller production model Chi-To's turret was chosen for this, with its armor reduced from 75mm to 50mm to reduce the stress on the chassis. J08 Chi Nu  This model of the Chi-Nu, unofficially known as the Chi-Nu II, only had a few tanks produced before the war ended. J08 Chi Nu 
+
+
+|HistoricalGallery=
+File:Mass_Produced_Chi_Nu_held_in_Japan. J08 Chi Nu jpg{{!}}Mass-produced Chi-Nu, held in Japan out of fear of invasion
+File:Type_3_Chi_Nu_at_JGSDF_Ordance_School_in_Tsuchiura_Japan. J08 Chi Nu jpg{{!}}The only known preserved Type 3 Chi-Nu, located at the JGSDF Ordnance School in Tsuchiura, Kanto, Japan. J08 Chi Nu 
+File:Chi_Nu_Kai_top_and_Production_version_of_Chi_Nu_bottom. J08 Chi Nu jpg{{!}}The Chi-Nu Kai at the top, mounting the prototype Chi-To turret. J08 Chi Nu  On the bottom is the production version of the Chi-Nu - unofficially called the Chi-Nu II - mounting a modified production model Chi-To turret. J08 Chi Nu  Both were fitted with the  Type 5 75mm cannon. J08 Chi Nu 
+File:Chi-Nu_AA_machine_gun. J08 Chi Nu jpg{{!}}Chi-Nu with its AA machine gun in place. J08 Chi Nu 
+
+|Ref_references=
+
+|Ref_sources=
+* “Japanese Tanks” Hara 1978
+* Maru December 2012
+
+|Ref_links=
+* https://ftr. J08 Chi Nu wot-news. J08 Chi Nu com/2013/09/23/type-3-chi-nu-upcoming-tier-4-medium-tank/
+* https://en. J08 Chi Nu wikipedia. J08 Chi Nu org/wiki/Type_3_Chi-Nu
+* https://sensha-manual. J08 Chi Nu blogspot. J08 Chi Nu com/2016/11/wt-type3-chi-nu. J08 Chi Nu html
+* https://sensha-manual. J08 Chi Nu blogspot. J08 Chi Nu com/2017/01/wt-type3-chi-nu-ii. J08 Chi Nu html
+
+}}

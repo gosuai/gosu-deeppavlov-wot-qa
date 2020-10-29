@@ -1,0 +1,43 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Good alpha damage
+* Very strong turret armor and preangled, bouncy upper glacis
+* Very good top speed for a heavy tank
+* Preferential matchmaking (won't see Tier 10 matches)
+* Ideal crew trainer for the Chinese heavy tank line
+
+|InTheGame_cons= 
+
+* Low penetration
+* Bad gun depression
+* Subpar accuracy and aim time
+* Lower side armor (behind the tracks) is only 80mm thick
+* Frequent fuel tank, ammo rack and engine critical damage
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

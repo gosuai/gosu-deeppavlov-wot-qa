@@ -1,0 +1,232 @@
+{{TankData|Tank=Ltraktor
+|The first German tank available to the player, the Leichttraktor starts with an underpowered 85hp engine and the 3. G12 Ltraktor 7 cm KwK 36 L/46. G12 Ltraktor 5, although this can be quickly upgraded. G12 Ltraktor  Adequate armor and performance characteristics make it a very good starting tank. G12 Ltraktor  The tank is nicknamed "LoLTraktor" and is the basis of a fan-made comic series. G12 Ltraktor 
+
+|InTheGame_pros=
+* Second most hit points of any Tier 1 tank. G12 Ltraktor  Tracks are covered from the sides and allow some side scraping actions. G12 Ltraktor 
+* Very good traverse speed. G12 Ltraktor 
+* Good gun selection - 2cm has good reload, penetration and damage. G12 Ltraktor  3. G12 Ltraktor 7 cm has excellent penetration, accuracy, damage and aim time. G12 Ltraktor 
+* Best view range of any Tier 1 tank. G12 Ltraktor 
+* Free repairs and very good stock gun with free ammunition means 100% profit margin when using this tank without consumables. G12 Ltraktor 
+
+|InTheGame_cons=
+* Fairly large silhouette and the big lower hull plate is a favourite place for enemies to shoot. G12 Ltraktor 
+* Somewhat poor damage. G12 Ltraktor 
+* Front-mounted engine. G12 Ltraktor 
+* Poor mobility in stock configuration. G12 Ltraktor 
+* Rear-mounted turret creates some peculiarities in handling and fighting. G12 Ltraktor 
+
+
+|InTheGame_performance=
+The Leichttraktor boasts easily the best stock gun of all the Tier 1 tanks in the form of the '''3. G12 Ltraktor 7 cm KwK 36 L/46. G12 Ltraktor 5''', which has excellent penetration, superb aim time and rate-of-fire, and good accuracy for a Tier 1 tank. G12 Ltraktor  It remains a viable option even after the '''2 cm Breda''' autocannon has been unlocked. G12 Ltraktor  Overall the Breda is more useful in most situations as an autocannon, but the KwK 36 does have much better peekaboo potential and is much better if one must engage at longer ranges. G12 Ltraktor   Still, being nowhere near as agile as the T1, it makes more sense to stick with the 37mm gun as an all rounder, allowing very good sniping abilities, and still allowing some urban combat if needed. G12 Ltraktor   The Breda is the best of the two for supression, but suffers at peekaboo due to the very long firing time especially when shooting all 12 rounds, best weapon for mid range shooting and more reliable penetration then the KwK. G12 Ltraktor 
+
+The armor is in between the thickness of the [[MS-1]] and [[T1 Cunningham]], thick enough to bounce shots and yet light enough to keep the tank at a weight of 7 tons. G12 Ltraktor  At Tier 1, armor is generally not something to be relied on, although the Leichttraktor's rear-mounted turret allows it to make use of reverse-angling to increase the chance of bouncing incoming shots. G12 Ltraktor  In exchange, the Leichttraktor generally should not drive forwards around, corners, as it allows the enemy to shoot the tank before it is capable of responding, or worse, detracking it, leaving it helpless. G12 Ltraktor  Instead, it is generally better to reverse the tank to take a peek around a corner. G12 Ltraktor   Sidescraping is perhaps very good in this tank, and the only spot that can be reliably penetrated when sidescraping is the turret and the top hatch (if it is even exposed). G12 Ltraktor 
+
+The engine is powerful enough, slightly more sluggish than the 100 hp it used to have, but 85 will easily be enough for most purposes. G12 Ltraktor 
+
+The only main weakness of the Leichttraktor is its huge front crew hatches, which is nearly unprotected and can be easily hit by enemy fire. G12 Ltraktor  The engine is located at the front, meaning that it is extremely easy to knock it out from a frontal hit, and while fires do happen, they don't seem all that common to bother bringing a fire extinguisher unless one is truly competitive. G12 Ltraktor 
+
+One of the Leichttraktor's best features is its view range, which is 30 m more than any other Tier 1 tank. G12 Ltraktor  This allows it to spot enemy tanks and get its shot off first. G12 Ltraktor   Although this may be overkill for a tier I, coated optics turn this tank into one of the best scouts in this tier, with a view range of ~341m (excluding perks ect), being just under another tier I tank with binos mounted and above most if not all tier2 tanks without them using equipment. G12 Ltraktor   While binos are even better, they are overkill in most situations as the maps wont allow straight line sight that far, so optics are preferable if you are willing to spend 500K credits on such a low tier. G12 Ltraktor 
+
+Please note the [[Battle_Mechanics#Map_Restrictions|Map Restrictions]] for Tier 1 tanks if you consider purchasing a camouflage skin/paint job for this tank, mostly summer maps are ever seen. G12 Ltraktor  With the addition of Winter Himmelsdorf however, consider winter camouflage on all tier 1 tanks now. G12 Ltraktor 
+
+|InTheGame_research=
+* As only one module is available for research, get the gun and move on. G12 Ltraktor 
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, Camouflage Net, Toolbox
+
+|Gallery=
+image:Leichttraktor Swedish Bofors 37mm screen 01. G12 Ltraktor jpg{{!}}Leichttraktor Swedish Bofors 37mm
+image:Leichttraktor Swedish Bofors 37mm screen 02. G12 Ltraktor jpg{{!}}Leichttraktor Swedish Bofors 37mm
+image:Leichttraktor Vesserteturm 37mm screen 01. G12 Ltraktor jpg{{!}}Leichttraktor Vesserteturm 37mm
+image:Leichttraktor Vesserteturm 37mm screen 02. G12 Ltraktor jpg{{!}}Leichttraktor Vesserteturm 37mm
+image:Leichttraktor Vesserteturm 37mm screen 03. G12 Ltraktor jpg{{!}}Leichttraktor Vesserteturm 37mm
+
+
+|History=
+<p> </p>
+<br />
+== Development in Secret ==
+[[image:Rapallo Treaty 1922. G12 Ltraktor jpg|thumb|right|140px|Signing the Rapallo Treaty (1922)]]
+Germany was severely restricted in its ability to develop new military equipment and armaments by the Treaty of Versailles that ended World War I. G12 Ltraktor  
+
+To avoid this inconvenience, Germany implemented a secret program, disguised as the development of a tracked agricultural "Kleintraktor", or "Small Traktor". G12 Ltraktor  In truth, the Kleintraktor program was intended to research and develop a suitable chassis and propulsion system for tanks and other armored military vehicles. G12 Ltraktor  Development of turrets and armaments was to follow closely under utmost secrecy. G12 Ltraktor 
+
+Two German-Soviet treaties, the Treaty of Rapallo signed in 1922 and the Berlin Friendship Treaty of 1924, enabled Germany to test their "Kleintraktor" designs in the Soviet Union, not only under high security and secrecy but with the Soviet's direct encouragement and joint participation. G12 Ltraktor  These treaties would later prove to be ones the Soviet Union would regret. G12 Ltraktor 
+
+The testing facility was operational from 1926 to 1933. G12 Ltraktor  It was called Panzertruppenschule Kama, and was located near Kazan in the USSR. G12 Ltraktor  The location was a joint military testing ground and tank school for the Red Army and the Reichswehr. G12 Ltraktor  It was codenamed Kama from the two words ''kazan'' and ''malbrandt''. G12 Ltraktor   Oberstleutenant Malbrandt was assigned to select the location for testing. G12 Ltraktor  
+
+A secret motorization program or Kraftfhr Ruestungsprogramm, dated 17 April 1928, ordered the delivery of the first prototypes by October 1929 in order to begin testing in 1930. G12 Ltraktor   Additionally, beginning in 1931, a company of 17 vehicles were ordered at a cost of 50,000 Marks per "Kleintraktor". G12 Ltraktor  '''[1]'''
+
+
+== Requirements and Preliminary Design ==
+
+Inspecktorat 6 (K) of the Wehramt prepared its requirements for basic functional characteristics for a light tank. G12 Ltraktor  These functional requirements were then given to Heereswaffenamt Pfuefwesen 6 for trial pieces (Versuchssteucke). G12 Ltraktor  Waffenpruefwesen 6 (Wa Prw 6) then created conceptual guidelines and technical specifications to provide a basis for detailed designs, and awarded development contracts to design companies. G12 Ltraktor  
+<table style="border: 1px solid;float:right">
+<caption>Krupp's specs for the preliminary design:</caption>
+<tr><th>Full weight(with crew):</th><td>6000kg</td></tr>
+<tr><th>Length: </th><td>3900mm</td></tr>
+<tr><th>Width:</th><td> 1850mm</td></tr>
+<tr><th>Height:</th><td>2000mm</td></tr>
+<tr><th>Engine:</th><td>100hp</td></tr>
+<tr><th>Speed:</th><td>4-40km/h</td></tr>
+<tr><th>Climb</th><td>65%</td></tr>
+<tr><th>Track width:</th><td>250mm</td></tr>
+<tr><th>Track contact:</th><td>2x2500mm</td></tr>
+<tr><th>Ground Pressure:</th><td>0. G12 Ltraktor 48kg/cm2</td></tr>
+<tr><th>Ground Clearance:</th><td>300mm</td></tr>
+<tr><th>Step:</th><td>600mm</td></tr>
+<tr><th>Ford:</th><td>800mm</td></tr>
+<tr><th>Trench:</th><td>1400mm</td></tr>
+<tr><th>Fuel:</th><td>150liters</td></tr>
+<tr><th>Armor:</th><td>14mm</td></tr>
+</table>
+The design contractors prepared overview drawings and general descriptions of their proposed design. G12 Ltraktor  The proposals were reviewed and changed by Wa Prw 6 and In 6 (K) prior to awarding development contracts. G12 Ltraktor  The requesting organization controlled the funding, in this case, In 6 (K). G12 Ltraktor  In 6 (K), development and procurement programs for new combat vehicles were approved as line items in the annual budget for overall military expenditures. G12 Ltraktor  Development of a light tank was initiated on 14 March 1928, under the program codename "Kleintraktor", later renamed "Leichttraktor". G12 Ltraktor 
+
+Preliminary requirements (25 April 1928) at a meeting between the representatives of the Wehramt and prospective developers outlined the basic need for a fully-tracked vehicle with a fully-rotating turret, which should be equipped with a semi-automatic 37mm gun and one auxiliary 7. G12 Ltraktor 92mm light machine gun. G12 Ltraktor  The vehicle should be equipped with an engine that has an output of at least 60hp. G12 Ltraktor  
+
+Further specifications and changes were spelled out on 25 May and 10 June 1928, and the project name changed from "Kleintraktor" to "Leichttraktor". G12 Ltraktor   The project required the development of a multipurpose platform, which should not only form the chassis of a battle tank, but also a ration supply vehicle (Verflegungsnachshub), ammunition transport (Munitionstransport), and industrial applications vehicle (Wirtshaft). G12 Ltraktor 
+
+Weapons were to consist of a semi-automatic 37mm cannon housed together with a light machine-gun in a fully-rotating turret. G12 Ltraktor   The ammunition supply was to be a minimum of 150 rounds for the cannon and 3000 rounds for the machine-gun. G12 Ltraktor  
+The crew were to consist of four members: a gunner (Kampfwagen-Schuetze), commander (Kampfwagen-Kommandante), driver (Fahrer), and radio operator (Funker). G12 Ltraktor 
+
+Armor was designed to resist S. G12 Ltraktor m. G12 Ltraktor K. G12 Ltraktor  steel core armor-penetrating rifle shells, and important equipment was to be protected against 13mm cannon shells. G12 Ltraktor   Front and side armor had thicknesses of 14mm. G12 Ltraktor   Road speed was to be around 25-30 km/h, and soft-ground speed to be 20km/h. G12 Ltraktor   The Leichttraktor was to carry 150 liters of fuel and have a range of 150 km or 6 hours of operation time. G12 Ltraktor   The vehicle was to be able to climb a 60% (31°) pitch for no less than a 1 km stretch with a speed of at least 3 km/h, as well as climb a step and ford a river depth of 60 centimeters. G12 Ltraktor   Additionally, the tank was to cross trenches of 1. G12 Ltraktor 5 meters in depth and have a ground clearance of 30 centimeters. G12 Ltraktor   The specific ground pressure was to be a maximum of 0. G12 Ltraktor 5 kg/cm^2. G12 Ltraktor  
+
+The vehicle was to be equipped with a radio (with telegraph key) (Funk-Telegraphie-Geraet) with a stationary range of 3 km, a mobile radio range of 2 km, and a Morse code range of 17 km. G12 Ltraktor    Additionally, the vehicle needed to have a smoke dispensing device (Vernebelungspapparat) with the ability to dispense smoke for 20 minutes, and a poison gas filter (Gasfilter). G12 Ltraktor   Finally, the design was not to exceed 7. G12 Ltraktor 5 tons in weight. G12 Ltraktor 
+The first designs were based on the lessons learned from the development of the Leichte Kampfwagen I and II (LK I and LK II) (1918-1919), which only existed as prototypes. G12 Ltraktor  
+
+Krupp prepared preliminary drawings very quickly (preliminary drawings were dated 3 July 1928). G12 Ltraktor  Besides the tank design, Krupp also proposed a platform for commercial and civilian applications called Leicht Zugmaschine (LZ) to maintain the cover story the development was an agricultural "traktor". G12 Ltraktor  The platform would be able to be equipped with plows, winches, and could serve as a truck. G12 Ltraktor  
+[[image:Leichttraktor Rheinmetall Leichttraktor 1930. G12 Ltraktor jpg|thumb|left|140px|Leichttraktor Rheinmetall (1930)]]
+[[image:Leichttraktor Krupp 1930 Diag. G12 Ltraktor jpg|thumb|left|140px|Leichttraktor Krupp (1930)]]
+One of the proposals was for a transport vehicle that would be able to transport 15 people, including the driver. G12 Ltraktor  
+
+A modification for an artillery spotting vehicle (Beobachtungswagen) was also proposed. G12 Ltraktor   This variant had no turret, but had a fully-armored superstructure and retractable observation instruments. G12 Ltraktor   This modification was also proposed as an ambulance, whose crew would consist of two drivers, a physician, and two assistants. G12 Ltraktor  A self-propelled gun was also designed with a 7. G12 Ltraktor 5cm field gun, but its ultimate production was considered unlikely as the vehicle had very limited space for the crew and ammo. G12 Ltraktor  
+
+Krupp had to choose between the 100hp Maybach engine or the 15/70/100hp Daimler engine with injectors. G12 Ltraktor  The Maybach engine was quieter because of its lower speed (1900rpm versus Daimler's 2800rpm) but was significantly larger and weighed more (400kg versus Daimler's 362kg). G12 Ltraktor  The Maybach was also more expensive, but more fuel efficient. G12 Ltraktor  In the end, the Daimler engine was selected for the design as it would keep the engine compartment smaller. G12 Ltraktor 
+
+In the designs, the engine was positioned in the front with cooling on the right, and was protected by an armored grate; fuel and steering were on the left. G12 Ltraktor  The engine had a starter magneto and an electrical generator. G12 Ltraktor  If the starter failed, the engine could be started using a crank. G12 Ltraktor  Cooling was provided by twin fans with an engine-driven belt. G12 Ltraktor   A Krupp 4-speed, 3-ton, truck transmission with a 2-speed transfer case provides eight forward and two reverse gears. G12 Ltraktor  
+
+A drive shaft with two universal joints connected the transfer case to the rear drive housing that, with the aid of a differential and two spur gears, transferred power to the rear track drive-wheels. G12 Ltraktor  For steering and braking, there were two brake drums with Cletrac auxiliary wheels on both sides of the differential, which help slow the track when the brake is applied. G12 Ltraktor  
+
+Two rubber tracks (Gummiraupen) were used. G12 Ltraktor  Later experimentation with cable or transfers would decide which type to implement. G12 Ltraktor  2x3 road wheel pairs were mounted on each side that, with swinging arms and springs, were designed to provide a soft suspension for driving on roads and crossing obstacles. G12 Ltraktor  An additional fixed road wheel was located below the idler wheel and provided the track with good support while crossing obstacles. G12 Ltraktor  Both idler wheels were adjustable, and had spring tensioners to prevent the track from breaking when driving over obstacles. G12 Ltraktor  The track returned forward over a track box and two support rollers. G12 Ltraktor  The track box itself was bolted to the hull and served to hold the springs and to stow equipment. G12 Ltraktor  
+
+The driver would sit on the left and have vision slits (optical glass) in an armored head-housing (Kopfgehause). G12 Ltraktor  The 3. G12 Ltraktor 7cm Geschütz-Turm was mounted on the roof of the armored hull behind the driver. G12 Ltraktor  The gunner (Richtkanonier), commander (Kommandant), and loader (Landekanonier) sat in the turret. G12 Ltraktor  150 rounds of 3. G12 Ltraktor 7cm ammunition were stowed in armored panniers to the left and right, between the tracks. G12 Ltraktor  Three 20 rounds were stowed in removable holders, and two 15 rounds were stowed horizontally in individual packing. G12 Ltraktor  The ammunition for the machine gun was stowed under the floor plates and in the track boxes, where the smoke dispensers were also located. G12 Ltraktor  
+
+The radio operator (Funker) sat close to the floor to the right and somewhat behind the driver. G12 Ltraktor   The radio sender and receiver sat directly in front of him. G12 Ltraktor  An 80amp-hour battery for vehicle lighting and air filtration was located on the floor directly behind the driver. G12 Ltraktor  The air filter was mounted on the rear access hatch, and the hatch was sealed with a rubber gasket. G12 Ltraktor 
+
+A firewall in the instrument panel for the driver completely sealed the engine compartment from the rest of the hull, allowing positive-pressure to be maintained in the crew compartment by the filter. G12 Ltraktor  Due to the high mounting of the cooling system, the vehicle was able to ford rivers up to 80cm deep. G12 Ltraktor  
+
+After review by Wa Prw 6, the 80/100hp, 6 cylinder/7 liter Daimler-Benz Lkw. G12 Ltraktor -Motor Type M36 was favored because it was able to achieve 50hp at 800rpms to 100hp at 1900rpms, with a maximum torque of 45 mkg @ 600-1200rpm. G12 Ltraktor  It was also decided that a 3-speed Friedrichshafen-Soden-Getriebe with claw shifting was be installed with a Krupp auxiliary gear instead of the Stroboskop. G12 Ltraktor  An observation cupola (Beoboachtungskuppel) with protective glass (Kinonglass) was also decided to be used. G12 Ltraktor 
+
+
+== Contracts ==
+On 16 June 1928, Oberstlt Gaissert (head of Wa Prw 6) sent a letter to Fried. G12 Ltraktor  Krupp A. G12 Ltraktor G. G12 Ltraktor ,Abt. G12 Ltraktor  A. G12 Ltraktor K. G12 Ltraktor , Essen, Rheinmetall, Duesseldorf, Daimler-Benz, z. G12 Ltraktor Hd. G12 Ltraktor , and Dr. G12 Ltraktor  Porsche, Stuttgart-Unterturkheim, with a proposed contract between the Heereswaffenamt and the firms for the design and production of two Klien-Traktoren. G12 Ltraktor  
+[[image:Leichttraktor Rheinmetall Leichttraktor 40 suspension mod 1932. G12 Ltraktor jpg|thumb|left|140px|Leichttraktor Rheinmetall Nr. G12 Ltraktor 40 (1932)]]
+[[image:Leichttraktor Krupp 38 1933 photo. G12 Ltraktor jpg|thumb|left|140px|Leichttraktor Krupp Nr. G12 Ltraktor 38 (1933)]]
+Krupp agreed, and the contract was signed between Generalmajor Buchholz from Heereswaffenamt(15 October 1928) and Herr Hageloch from Krupp (24 October 1928). G12 Ltraktor  However, Krupp's contract stated they would not include parts of military nature, consisting of the armament, 14mm thick armor, and additional technical equipment. G12 Ltraktor  Carbon-steel was to be used for the hull and a fixed price of 230,000 Goldmark was established for the contract/construction of two prototypes. G12 Ltraktor  Rheinmetall also accepted the contract for two prototypes, as well as the secret development of the armaments for all four prototypes. G12 Ltraktor  
+
+In July 1928, Daimler-Benz emphatically declined the specific development contract, but would draw up the prototype for the supply vehicle (Nachschubfahrzeug). G12 Ltraktor 
+
+Krupp, in cooperation with Rheinmetall-Borsig, began work on the four contracted prototypes. G12 Ltraktor  Both Krupp's and Rheinmetall's 4-man prototypes were powered by a 6-cylinder, 100hp, Daimler-Benz M36 truck engine and were were very similar in design, the main difference being the type of suspension: Krupp used coil springs and Rheinmetall used leaf springs. G12 Ltraktor  Both vehicles were known as Leichttraktors (VK 31) and were armed with a 37mm KwK L/45 with a -10/+30 degree vertical movement and a light machine-gun on a rear-mounted turret (designed and produced by Swedish AB Landsverk and Bofors). G12 Ltraktor  
+
+The Rheinmetall-designed Leichttraktor (L. G12 Ltraktor Tr. G12 Ltraktor Rhm) differs from Krupp's in that: 1) the fuel tanks were located in the track boxes; 2) the driver and radio man could sit beside the engine, allowing a better view and access to the engine; 3) the hull bottom was reinforced with ribs; 4) the use of a heavy-duty model 4-speed Soden transmission, assembled with the transfer case (with two short shift levers on top of the lid); 5) final drives for the track-drive wheels were located outside the hull; and 6) large brake drums for brake bands were mounted on the inside of the hull side. G12 Ltraktor  Additionally, there was a hatch in the hull rear-wall, a hatch above the radio operator, and a hinged rectangular vision cupola (Sehkuppel) above the driver. G12 Ltraktor  Kinonglas-blocks were mounted behind vision slits on three sides of the Sehkuppel. G12 Ltraktor  The width of these vision slits could be adjusted from 3 to 20 mm wide by sliding the adjustable plates. G12 Ltraktor  
+The weight of the Sehkuppel was counterbalanced by the coil spring. G12 Ltraktor  
+
+
+== Testing ==
+Preliminary tests at Krupp (without turret, which was to be assembled by Rhienmetal) proved to be a huge success. G12 Ltraktor  Inspecktorat 6 (K) and Wa Prw 6 were very pleased with the speed and maneuverability of the vehicle, and expressed special thanks to Krupp for such good service. G12 Ltraktor  
+
+Four prototypes were built: two from Krupp and two from Rheinmetall. G12 Ltraktor  All four prototypes were finally assembled in the Rheinmetall facilities in Unterluess because Rheinmetall was also responsible for all four turrets. G12 Ltraktor  The prototypes were ready in May of 1930. G12 Ltraktor  
+
+Rheinmetall-Borsig also produced a third prototype, an early Panzerjager, which was a three-man self-propelled mild-steel mount for a 37mm PaK L/45 gun. G12 Ltraktor  
+
+All four prototypes were sent to Russia for testing. G12 Ltraktor  The Leichttraktors by Krupp were designated Nr. G12 Ltraktor 37 and Nr. G12 Ltraktor 38, and those by Rheinmetall as Nrs. G12 Ltraktor 39 and Nrs. G12 Ltraktor 40. G12 Ltraktor  The prototypes arrived at the Kana testing grounds in June 1930. G12 Ltraktor  Overall, the Leichttraktor vehicles were considered a success during testing and were subsequently used for training in Kama, but were not seen as fully-ready for combat. G12 Ltraktor  
+
+In 1930, based on the testing at Kama, the radiator was strengthened and the Soden transmission was replaced with an Aphon one. G12 Ltraktor  The Leichttraktors were converted to dry steering brakes, the driving brakes were modified, the suspension was strengthened, and the drive wheels were replaced with harder ones. G12 Ltraktor  Cables were replaced with hydraulically-actuated steering brakes. G12 Ltraktor   
+
+Daimler modified the Nachshub-Fahrzeug suspension to nine double road wheels, a 2575mm track contact length (weight increased to 8400kg), and the Krupp Leichttraktor had spring suspension installed. G12 Ltraktor 
+
+In 1932, Rheinmetall widened its Leichttraktor's twelve double road wheels from 86 to 90mm. G12 Ltraktor  Later, one was experimentally modified with four large diameter road wheels with spring suspension. G12 Ltraktor 
+
+
+== Conclusion ==
+
+<table style="border: 1px solid;float:left;clear:left">
+<caption>Distances covered during testing</caption>
+<tr><th> </th><th>1930</th><th>1931</th><th>1932</th><th>total</th></tr>
+<tr><td>'''Nr. G12 Ltraktor 37'''</td><td>365</td><td>697</td><td>598</td><td>1660</td></tr>
+<tr><td>'''Nr. G12 Ltraktor 38'''</td><td>534</td><td>371</td><td>1095</td><td>1800</td></tr>
+<tr><td>'''Nr. G12 Ltraktor 39'''</td><td>382</td><td>708</td><td>775</td><td>1865</td></tr>
+<tr><td>'''Nr. G12 Ltraktor 40'''</td><td>290</td><td>513</td><td>932</td><td>1735</td></tr>
+</table>
+
+Testing at Kama showed that the position of the machine gun, as well as the limited diameter of the turret ring, made loading the main gun more difficult and slower. G12 Ltraktor   Additionally, the gunner had to take command of the tank in certain situations. G12 Ltraktor  This lowered the rate of fire, made the commander redundant, and ultimately lowered the efficiency of the entire crew. G12 Ltraktor   As a result, it was concluded that the commander needed to be in the main turret as per the original design, and that in the future, a 12-hour clock needed to be used to communicate between the commander and the gunner. G12 Ltraktor   Also, it was absolutely necessary for the turret to be both electrically and hand-driven. G12 Ltraktor 
+
+Deflector and spent cartridge sacks proved useful for both the machine gun and the cannon, as the crew was not hindered by the spent propellent gasses, even though the hatches were always open for safety at Kama. G12 Ltraktor  No experience was gained in the question of riveted versus welded steel, as the turret was not made of armored-steel but of normal steel. G12 Ltraktor  
+
+In 1931, 289 units were ordered, but in 1932, the project was canceled in favor of other developments, such as the Panzerkampfwagen I. G12 Ltraktor  Together, Krupp and Rheinmetall produced only 4 prototypes. G12 Ltraktor  In 1933, cooperation between the Soviet Union and Germany ended and all four vehicles were returned to Germany. G12 Ltraktor  The Leichttraktors were sent to Heereszeugamt Spandau for overhaul. G12 Ltraktor  Further tests took place in the summer of 1933. G12 Ltraktor  During the winters of 1934 and 1935, they were stored near Berlin. G12 Ltraktor  In the summer of 1935, all four Leichttraktors took part in major maneuvers at the troop training grounds (Truppenuebungsplatz Munster Lager) to test the concept of ''Panzerdivision''. G12 Ltraktor  
+
+At the conclusion of testing, the four prototype Leichttraktors were transferred to the newly established Tank Gunnery School (Panzerschiessschule Putlos) near Oldenburg/Holstein, where they were used to train crews for several more years. G12 Ltraktor  The tanks were continuously modified to aid in testing new designs for future light tank development. G12 Ltraktor  
+
+
+<div id="verticalTable">
+<table>
+<tr><th><p>Model</p></th><th><p>Number Built</p></th><th><p>Armament in turret</p></th><th><p>3. G12 Ltraktor 7cm ammunition</p></th><th><p>M. G12 Ltraktor G. G12 Ltraktor  ammunition</p></th><th><p>Armor (carbon steel)</p></th><th><p>Crew</p></th><th><p>Engine</p></th><th><p>Horsepower</p></th><th><p>Power to weight ratio</p></th><th><p>Maximum speed (km/h)</p></th><th><p>Fuel capacity</p></th><th><p>Range (km)</p></th><th><p>Transmission</p></th><th><p>Steering</p></th><th><p>Length (m)</p></th><th><p>Width (m)</p></th><th><p>Height (m)</p></th><th><p>Wheelbase (m)</p></th><th><p>Total Weight (metric tons)</p></th><th><p>Roadwheels per side</p></th><th><p>Pairing</p></th><th><p>Number of support points</p></th><th><p>Roadwheel diameter</p></th><th><p>Roadwheel width</p></th><th><p>Track Type</p></th><th><p>Track Width (mm)</p></th><th><p>Track Pitch (mm)</p></th><th><p>Track Links per side</p></th><th><p>Track length (m)</p></th><th><p>Track contact length (m)</p></th><th><p>Support length (m)</p></th><th><p>Ground Pressure (kg/cm2)</p></th><th><p>Ground Clearance (mm)</p></th></tr>
+
+<tr><td>L. G12 Ltraktor  Tr. G12 Ltraktor  Kp. G12 Ltraktor </td><td>2</td><td>3. G12 Ltraktor 7cm 1 s. G12 Ltraktor M. G12 Ltraktor G. G12 Ltraktor </td><td>150</td><td>3000</td><td>5-14mm</td><td>4</td><td>M36 Daimler 4-cyl 7. G12 Ltraktor 8 liter</td><td>100</td><td>11. G12 Ltraktor 5 hp/t</td><td>30</td><td>220</td><td>137</td><td>4-speed</td><td>Cletrac</td><td>4. G12 Ltraktor 350</td><td>2. G12 Ltraktor 370</td><td>2. G12 Ltraktor 350</td><td>1. G12 Ltraktor 810</td><td>8. G12 Ltraktor 7</td><td>9</td><td>2-4-2-1</td><td>4</td><td>400,260,300</td><td>95</td><td>Dry Pin</td><td>266</td><td>130</td><td>72</td><td>9. G12 Ltraktor 360</td><td>2. G12 Ltraktor 565</td><td>1. G12 Ltraktor 850</td><td>0. G12 Ltraktor 73</td><td>305</td></tr>
+
+<tr><td>L. G12 Ltraktor  Tr. G12 Ltraktor  Rhm. G12 Ltraktor </td><td>2</td><td>3. G12 Ltraktor 7cm 1 s. G12 Ltraktor M. G12 Ltraktor G. G12 Ltraktor </td><td>150</td><td>3000</td><td>5-14mm</td><td>4</td><td>M36 Daimler 4-cyl 7. G12 Ltraktor 8 liter</td><td>100</td><td>11. G12 Ltraktor 2/t</td><td>30</td><td>220</td><td>137</td><td>4-speed</td><td>Cletrac</td><td>4. G12 Ltraktor 320</td><td>2. G12 Ltraktor 260</td><td>2. G12 Ltraktor 270</td><td>1. G12 Ltraktor 800</td><td>8. G12 Ltraktor 96</td><td>12</td><td>3x4</td><td>3</td><td>210</td><td>85</td><td>Bearing</td><td>270</td><td>130</td><td>72</td><td>9. G12 Ltraktor 360</td><td>2. G12 Ltraktor 720</td><td>1. G12 Ltraktor 980</td><td>0. G12 Ltraktor 71</td><td>290</td></tr>
+</table></div>
+
+
+|HistoricalGallery=
+image:Leichttraktor Rheinmetall assembled 1930 front. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 side. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 sideC. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 back photo. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 front open. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 side open. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 back open photo. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall 1930
+image:Leichttraktor Rheinmetall assembled 1930 sideB. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall (1930)
+image:Leichttraktor Rheinmetall Leichttraktor expr suspension mod 1933 B. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall with expiremental suspention (1933)
+image:Leichttraktor Krupp measurements 1931 Diag. G12 Ltraktor jpg{{!}}Leichttraktor Krupp measurements (1931)
+image:Leichttraktor Rheinmetall Leichttraktor measurements 1932. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall measurements (1932)
+image:Leichttraktor Krupp suspension mod 1932 Diag. G12 Ltraktor jpg{{!}}Leichttraktor Krupp suspention mod (1932)
+image:Leichttraktor Rheinmetall interior MG. G12 Ltraktor jpg{{!}}Lecihttraktor Rheinmetall interior
+image:Leichttraktor Rheinmetall interior A. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall interior
+image:Leichttraktor Rheinmetall Leichttraktor 40 suspension mod 1932. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall Nr. G12 Ltraktor 40 suspension mod (1932)
+image:Leichttraktor Krupp 38 1933 photo. G12 Ltraktor jpg{{!}}Leichttraktor Krupp Nr. G12 Ltraktor 38 (1933)
+image:Leichttraktor Krupp radiator shield photo. G12 Ltraktor jpg{{!}}Leichttraktor Krupp with Reinforced Radiator
+image:Leichttraktor Krupp Russia Photo. G12 Ltraktor jpg{{!}}Leichttraktor Krupp in Russia
+image:Leichttraktor Rheinmetall Leichttraktor expr suspension mod 1933. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall experimental suspension mod (1933)
+image:Leichttraktor Rheinmetall assembled chassis front 1930. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall assembled chassis (1930)
+image:Leichttraktor Rheinmetall assembled chassis side 1930. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall assembled chassis (1930)
+image:Leichttraktor Krupp cog 1931. G12 Ltraktor jpg{{!}}Leichttraktor Krupp (1931)
+image:Leichttraktor Rheinmetall Leichttraktor 1930. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall (1930)
+image:Leichttraktor Rheinmetall cog 1931 Diag. G12 Ltraktor jpg{{!}}Leichttraktor Rheinmetall (1931)
+image:Leichttraktor Krupp 1930 Diag. G12 Ltraktor jpg{{!}}Leichttraktor Krupp (1930)
+image:Leichttraktor Photo. G12 Ltraktor jpg{{!}}Leichttraktor
+image:Rapallo Treaty 1922. G12 Ltraktor jpg{{!}}Rapallo Treaty (1922)
+image:Leichttraktor B Photo. G12 Ltraktor jpg{{!}}Leichttraktor
+
+[[File:Leichttraktor_krupp_a. G12 Ltraktor jpg|140px]]
+
+
+|Ref_references=
+
+Entire section on history including photos and diagrams drawn largely from:<br />
+
+1. G12 Ltraktor  Jentz and Doyle 2006, Panzer Tracts - No. G12 Ltraktor 3-1. G12 Ltraktor 
+
+
+|Ref_sources=
+
+* Jentz, T. G12 Ltraktor L. G12 Ltraktor  and H. G12 Ltraktor L. G12 Ltraktor  Doyle, 2006, '''<i>Panzer Tracts - No. G12 Ltraktor 3-1 Panzerkampfwagen-III Ausführung A, B, C, und D development and production from 1934 to 1938 plus the Leichttraktor and Krupp's M. G12 Ltraktor K. G12 Ltraktor A. G12 Ltraktor </i>''', Jentz, Boyds, MD, 76p, ISBN:9780977164349. G12 Ltraktor 
+
+
+|Ref_links=
+[https://forum. G12 Ltraktor valka. G12 Ltraktor cz/viewtopic. G12 Ltraktor php/t/36251 valka. G12 Ltraktor cz]
+
+[https://www. G12 Ltraktor wwiivehicles. G12 Ltraktor com/germany/vehicle/light-tank/leichttraktor-vk-31-light-tank. G12 Ltraktor asp wwiivehicles. G12 Ltraktor com]
+
+
+}}

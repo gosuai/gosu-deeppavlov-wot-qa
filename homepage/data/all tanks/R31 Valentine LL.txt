@@ -1,0 +1,90 @@
+{{Alert 
+|i
+|content = This page is about the Soviet Lend-Lease Valentine. R31 Valentine LL   The British Valentine can be found [[Tank:GB04_Valentine|here]]. R31 Valentine LL 
+}}
+{{TankData|Tank=R31_Valentine_LL
+|This is the Valentine that was provided to the [[USSR]] through the Lend-Lease Act. R31 Valentine LL   It's available for purchase in the standard store and tech tree and was given away as a promotion for joining the 2nd phase of closed beta. R31 Valentine LL 
+
+|Gallery=
+image:Valentine screen 01. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 02. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 03. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 04. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 05. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 06. R31 Valentine LL jpg{{!}}Valentine II
+
+|InTheGame_pros=
+* Very good armour for its tier combined with a high HP pool -- can stand up to those pesky autocannon lights
+* Small size, low profile along with fast gun/track traverse
+* Rapid rate of fire, reasonable accuracy, adequate penetration against tier threes
+* Only sees tier 4 battles, unlike the regular [[Valentine]]
+* Very good camo and unlike the [[Valentine]], it retains full camo value on the move
+
+|InTheGame_cons=
+* Nearly useless penetration for its tier, has serious problems penning some tier 4s even with APCR
+* Only three crew members and dependence on APCR ammo make it poor for both crew training and making credits
+* Weak engine, low speed limit, sluggish reverse, crawls uphill
+* Low ammo capacity
+* Can't use a gun rammer to improve rate of fire
+
+|InTheGame_performance=
+
+The Valentine II is a another heavy tank disguised as a light, having the 2nd best armor of its tier and a shared third place with the two Tier IV French tanks for the most hit points, but also the worst acceleration and top speed, superior to only the ponderous AMX 40. R31 Valentine LL   Its low horsepower is less hampered by rough terrain than most and has admirable camouflage values, being only marginally more visible than the T-50 while shooting. R31 Valentine LL   The jagged armor protects you from most Tier II and III small caliber AP rounds, but only slows down the bigger guns of tank destroyers. R31 Valentine LL   The rear hull armor is listed as 60mm, but it only applies to the vertical "rear bumper" part -- your corrugated engine compartment is much thinner in reality. R31 Valentine LL   You're armed with the BT-2's 45mm gun with a slightly improved accuracy, fire rate and aim time that struggles to penetrate the better protected Tier IV's. R31 Valentine LL   Your AP rounds are still adequate for knocking around the Tier III lights you encounter, but you cannot fight fair against a Lee or a Hetzer -- your rate of fire is fast enough to keep a tank permanently tracked while you put every other round through a weak point in the side or rear. R31 Valentine LL   The tank's small dimensions helps a little, but your low mobility still puts you at risk against sniping tank hunters and artillery. R31 Valentine LL   You can push through ordinary lights or mediums with ease, but you still can't spearhead an assault alone. R31 Valentine LL   Advance together, force yourself in the face of anyone trying to peek and poke at your more fragile, better-armed teammates and absorb the first hit or two while your backup tears the retreating snipers to shreds. R31 Valentine LL 
+
+This tank is one of only two premium tanks (the other being the famed Pz B2) that see only Tier IV matches, and being that the Pz B2 tend to only go up for sale rarely, the Valentine II is an excellent choice for anyone who prefers low to mid-tier game play. R31 Valentine LL   However it does need an almost excessive use of APCR rounds to be effective, but when used properly, the Valentine II can be just as effective as a Pz B2 . R31 Valentine LL  . R31 Valentine LL  . R31 Valentine LL   possibly more because no one expects a Valentine II to be effective. R31 Valentine LL   Use that to your advantage and wreck havoc on the enemy team. R31 Valentine LL 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=
+Vents, GLD, Spall Liner, Camouflage Net
+
+|History=
+
+There are several proposed explanations for the name Valentine. R31 Valentine LL   According to the most popular one, the design was presented to the War Office on St. R31 Valentine LL  Valentine's Day, 14 February 1940, although some sources say that the design was submitted on 10 February. R31 Valentine LL   According to another version the tank was called Valentine in honor of Sir John Valentine Carden, the man who led the development of the A10 and many other Vickers vehicles, and had died three years before. R31 Valentine LL   Another version says that Valentine is an acronym for Vickers-Armstrong Ltd Elswick & (Newcastle-upon) Tyne. R31 Valentine LL   The "most prosaic" is that it was just an in-house codeword of Vickers with no other significance. R31 Valentine LL 
+
+== History ==
+
+The Valentine was an infantry tank produced in the United Kingdom during the Second World War. R31 Valentine LL   Acounting for approximately a quarter of wartime British tank production, more than 8,000 of these tanks were produced in 11 different marks, including various purpose-built variants. R31 Valentine LL   Over its lifetime it went from a riveted construction to entirely welded, and from a petrol powerplant to a two-stroke diesel engine produced by GMC, which was less likely to catch fire. R31 Valentine LL   It was supplied to the USSR and built under license in Canada. R31 Valentine LL   Developed by Vickers it proved to be both strong and reliable. R31 Valentine LL 
+
+Based on the A10 Cruiser tank, the Valentine was privately designed by Vickers-Armstrongs (hence its lack of a General Staff "A" designation) and was submitted to the War Office on 10 February 1938. R31 Valentine LL   The development team tried to match the lower weight of a cruiser tank (allowing the suspension and transmission parts of the A10 heavy cruiser to be used) and coupled this with the greater armor of an infantry tank. R31 Valentine LL   The result is a very compact vehicle with a cramped interior and two-man turret. R31 Valentine LL  Its armor was weaker than the Infantry Tank II Matilda but, due to a weaker engine, the lighter tank had the same top speed. R31 Valentine LL   However the new design was easier to produce and much less expensive. R31 Valentine LL 
+
+The War Office was initially deterred by the size of the turret, since they considered a turret crew of three necessary to free the vehicle commander from direct involvement in operating the gun. R31 Valentine LL   Concerned by the situation in Europe, however, it finally approved the design in April 1939. R31 Valentine LL   The vehicle reached trials in May 1940, which coincided with the loss of much of Britain's materiel in France during the evacuation at Dunkirk. R31 Valentine LL   The trials were successful and the vehicle was rushed into production as the Infantry Tank III Valentine. R31 Valentine LL   No pilot models were required, as much of the mechanics had been proven on the A10, and it entered service from July 1940. R31 Valentine LL 
+
+image:Valentine_mkII-IWM-KID. R31 Valentine LL jpg‎{{!}}Valentine In Russia
+The first Valentines used a petrol engine with conventional steering. R31 Valentine LL   The Mark II used a diesel version of the engine, and the Mark IV a GMC diesel; these were the majority of those used in the desert campaigns. R31 Valentine LL   Improved tracks were added and the No. R31 Valentine LL  19 Wireless replaced the No. R31 Valentine LL  11. R31 Valentine LL 
+The Valentine remained in production until April 1944, becoming Britain's most-produced tank during the war with 6,855 units manufactured in the UK (by Vickers, Metropolitan-Cammell Carriage and Wagon, and Birmingham Railway Carriage and Wagon), and a further 1,420 in Canada. R31 Valentine LL  
+
+
+== Combat history ==
+image:Valentine_Mk3_desert. R31 Valentine LL jpg{{!}}VA Valentine in North Africa, carrying infantry from a Scottish regiment
+The tank first served in Operation Crusader in the North African desert, where it began to replace the Matilda. R31 Valentine LL   It was extensively used in the North African Campaign, earning a reputation as a reliable and well-protected vehicle. R31 Valentine LL   The Valentine shared the common weaknesses of the British tanks of the period: its 2-pounder gun lacked high-explosive (anti-personnel) capability, and soon became outdated as an anti-tank weapon as well. R31 Valentine LL   The small size of the turret and turret ring made mounting larger guns a difficult task. R31 Valentine LL   Although versions with the 6-pounder, and then with the Ordnance QF 75 mm gun were developed, by the time they were available in significant numbers better tanks had reached the battlefield. R31 Valentine LL   Another weakness was the small crew compartment and the turret for only two men. R31 Valentine LL   A larger turret with a loader position added was used in some of the 2-pounder versions, but the position had to be removed again in variants with larger guns. R31 Valentine LL 
+By 1944 the Valentine had been almost completely replaced in front-line units of the European Theatre by the Infantry Tank IV Churchill and the US-made Sherman. R31 Valentine LL   In the Pacific the tank was employed in limited numbers at least until May 1945. R31 Valentine LL   It was used in New Zealand's service, some with the main armament replaced by the 3 inch howitzer taken from Australian Matilda CS tanks. R31 Valentine LL '''[citation needed]''' in the Solomons in 1943. R31 Valentine LL 
+In Soviet service the Valentine was used from the Battle of Moscow until the end of the war. R31 Valentine LL   Although criticized for its low speed and weak gun the Valentine was liked due to its small size, reliability, and generally good armor protection. R31 Valentine LL 
+
+== Lend Lease ==
+The Valentine was the Commonwealth's main export to the Soviet Union under the Lend-lease Act, with 2,394 of the British models and 1,388 of the Canadian Pacific-built models being sent: the remaining 30 being kept for training. R31 Valentine LL   The Soviet Union conducted various modifications to the original Valentine tank, including the installation of the 45 mm F-95 gun with a modified turret, additional Applique armor plating on the front of the vehicle, and improved spurs to increase the performance of the Valentine in the snow. R31 Valentine LL   While the first modification was cancelled the other two were carried out with several of the Soviet Valentines. R31 Valentine LL 
+
+|HistAcc=
+* The single Valentine fitted with a 45 mm cannon used the 45 mm F-95 cannon and could carry up to 91 rounds of ammunition, while in-game the Valentine uses the 45 mm 20KL and has only 61 rounds of ammunition. R31 Valentine LL 
+* The in-game Valentine II does not have the extra 30mm of applique armor on the front plates or the turret, though it should be mentioned that not all Soviet Valentines underwent this modification. R31 Valentine LL 
+
+|HistoricalGallery=
+image:Valentine_II_Kubinka. R31 Valentine LL jpg{{!}}Valentine II with additional armour, registration number T. R31 Valentine LL 27543, Patriot Park at Kubinka Tank Museum, Russia
+File:Valentine_II_with_45mm_gun. R31 Valentine LL jpg{{!}}Valentine II tested with the 45 mm F-95 gun
+File:45_mm_f-95_gun. R31 Valentine LL jpg{{!}}45 mm F-95 gun
+File:Valentine_with_additional_armor_in_Vilnius_1944. R31 Valentine LL jpg{{!}}Valentine with additional armor in Vilnius 1944
+File:Valentines_improved_spurs. R31 Valentine LL jpg{{!}}Improved spurs designed for the Valentine
+
+|Ref_references=
+
+|Ref_sources=
+The complete guide to tanks & armoured vehicles. R31 Valentine LL  p. R31 Valentine LL  98. R31 Valentine LL  
+
+|Ref_links=
+* https://en. R31 Valentine LL wikipedia. R31 Valentine LL org/wiki/Valentine_tank
+* https://tankarchives. R31 Valentine LL blogspot. R31 Valentine LL com/2016/03/valentine-mods-in-ussr. R31 Valentine LL html
+* https://warspot. R31 Valentine LL ru/5305-valentine-na-prokachke
+* https://tankarchives. R31 Valentine LL blogspot. R31 Valentine LL com/2017/04/end-of-rearmament. R31 Valentine LL html
+
+}}

@@ -1,0 +1,64 @@
+{{TankData|Tank=AMX_AC_Mle1946
+|The AMX AC 46 is a completely different vehicle to the preceding ARL V39. F35 AMX AC Mle1946  It has some decent frontal armour, a decent gun selection, and unprecedented mobility in the French tank destroyer line. F35 AMX AC Mle1946  Unfortunately, these good traits are marred by numerous flaws that are not apparent in the garage. F35 AMX AC Mle1946 
+
+|Gallery=
+File:AMX Automoteur Canon Mle. F35 AMX AC Mle1946  1946 1. F35 AMX AC Mle1946 png
+
+|InTheGame_pros=
+* Decently sloped frontal armor, up to 120 mm thick
+* High speed and acceleration
+* Good gun selection, with some of the highest penetration guns of its class and tier
+* Great gun depression
+* Can mount all upgrades and equipment without improving the suspension, which makes for a painless grind
+
+|InTheGame_cons=
+* Poor gun placement, with absurdly narrow gun traverse angles and poor hull traverse speed
+* Extremely thin side & rear armor with massive weak spots that are fairly easy to hit from the front
+* Large size with poor camouflage rating and subpar view range
+* Poor gun dispersion values coupled with long aim times
+* Lowest damage-per-minute for a Tier 7 tank destroyer when using the 100 mm
+
+|InTheGame_performance=
+The AC Mle. F35 AMX AC Mle1946  46 is most comparable to the Jagdpanther on paper, but is generally inferior in practice. F35 AMX AC Mle1946  It suffers from exceptionally poor hidden statistics such as gun dispersion and terrain resistance which hinder it substantially. F35 AMX AC Mle1946  The AC 46 does have better armor than the Jagdpanzer, but it is not enough to completely guarantee protection against the more powerful guns of Tier 7, although lower tier guns will struggle. F35 AMX AC Mle1946  To add insult to injury, the AC 46 has two massive weakspots on top of the tank, which are impossible to hide. F35 AMX AC Mle1946  They also allow enemies to hit the AC 46 before it can reply while cresting a hill. F35 AMX AC Mle1946  The side, rear, and top armor is utter trash, and cannot be expected to bounce anything. F35 AMX AC Mle1946  It is also highly vulnerable to artillery. F35 AMX AC Mle1946 
+
+Much like the Jagdpanther, it has a choice of two viable guns. F35 AMX AC Mle1946  The 90 mm DCA 45 carries over from the ARL V39, and is roughly comparable to the 8,8 cm KwK 43 L/71 on the Jagdpanther, with higher penetration but a significantly lower rate-of-fire. F35 AMX AC Mle1946  The AC 46 can also mount the 100 mm SA 47, which boasts the second highest penetration of Tier 7, easily capable of dispatching Tier 8s or some Tier 9s, and higher shell damage than the 90 mm, but it is hampered by the long aim time, horrid dispersion, and the low rate-of-fire. F35 AMX AC Mle1946  As a result, the AC 46 is completely useless at performing snap shots, and it cannot afford to sit and trade with enemies either. F35 AMX AC Mle1946  The absurdly narrow gun traverse arc of 6 degrees to each side means that the AC 46 must reposition itself often, and every time it has to do that, this resets the aiming cycle, exacerbating the already terrible gun dispersion problems. F35 AMX AC Mle1946  It does, however, have 10 degrees of gun depression, and is the only French tank destroyer that can somewhat effectively fight on hilly terrain. F35 AMX AC Mle1946  
+
+Mobility-wise, the AC 46 has a pretty powerful engine despite being much heavier than the Jagdpanzer, giving good acceleration and a high top speed, comparable to medium tanks. F35 AMX AC Mle1946  Unfortunately, the hull traverse speed is disappointing, and once a fast tank gets on its side, it is all over for the AC 46 if it has noone to support it. F35 AMX AC Mle1946 
+
+The AC 46 functions best as a medium/long range sniper, as it is too vulnerable, cumbersome, and doesn't have the frontal armor for close quarters. F35 AMX AC Mle1946  It suffers massively when it is top tier, as the advantages it has over a vehicle like the Jagdpanzer are completely meaningless in that case. F35 AMX AC Mle1946  Conversely, the AC 46 should not be underestimated as a bottom tier tank, as its powerful gun can shine in those situations. F35 AMX AC Mle1946 
+
+Overall, the AC 46 is one of the weaker tank destroyers of its tier, and its exceptionally poor 'hidden' statistics can make it a very frustrating tank to play. F35 AMX AC Mle1946  Despite this, thanks to its high penetration guns, it is not as helpless in Tier 8 or 9 games. F35 AMX AC Mle1946 
+
+|InTheGame_research=
+* The stock suspension is sufficient to hold all module upgrades and equipment, so players should equip the 90 mm AC DCA 45 and upgraded radio. F35 AMX AC Mle1946 
+* Research the 2nd and 3rd engine next. F35 AMX AC Mle1946   The additional power will make it a lot more nimble. F35 AMX AC Mle1946  If you have already played the [[ARL 44]] the second engine is already available, while the third engine is also on the [[AMX M4 mle. F35 AMX AC Mle1946  45]]. F35 AMX AC Mle1946 
+* Next, the suspension should be upgraded for the increased traverse speed and better hull movement gun dispersion values. F35 AMX AC Mle1946 
+* Finally, grind the 100 mm. F35 AMX AC Mle1946  Although it is a poor choice for the AX AC mle. F35 AMX AC Mle1946  46, it is also used on the AMX AC mle. F35 AMX AC Mle1946  1948. F35 AMX AC Mle1946 
+
+
+|InTheGame_equipment= Vents,Tank Gun Rammer, GLD
+
+
+|History=
+The AMX AC de 120 mm mle. F35 AMX AC Mle1946  1946 was a proposal for a self-propelled gun based on the AMX M 4 heavy tank project. F35 AMX AC Mle1946  It was to provide long-range fire support to the 90 mm-equipped M 4. F35 AMX AC Mle1946  As the M 4 project would evolve into the AMX 50, so too would the AC mle. F35 AMX AC Mle1946  1946, eventually leading to the AMX 50 Foch. F35 AMX AC Mle1946 
+
+For balance reasons, the AC mle. F35 AMX AC Mle1946  1946 in the game is only equipped with an unhistorical 100 mm gun. F35 AMX AC Mle1946 
+
+|HistoricalGallery=
+image:AMX Automoteur Canon Mle. F35 AMX AC Mle1946  1946 1. F35 AMX AC Mle1946 png{{!}}AMX AC 120 mm Mle. F35 AMX AC Mle1946  1946 Technical Drawing
+File:AMX_46_AC_blueprint. F35 AMX AC Mle1946 jpg{{!}}AMX AC 120mm Mle. F35 AMX AC Mle1946 1946 blueprint. F35 AMX AC Mle1946  Note the thickness of the frontal armor compared to later designs
+
+|HistAcc=
+Actual name is AMX AC de 120 mm mle. F35 AMX AC Mle1946  1946, the "120" indicating the caliber of the gun. F35 AMX AC Mle1946  The other gun configurations are fake. F35 AMX AC Mle1946 
+* Actual planned [[Gun/France#120 mm AC SA46|120 mm]] gun is missing. F35 AMX AC Mle1946  This historical version does not exist in World of Tanks. F35 AMX AC Mle1946 
+* The AMX AC 46 had much thicker frontal armor than later designs, reaching 280mm of thickness (the same as on the [https://wiki. F35 AMX AC Mle1946 gcdn. F35 AMX AC Mle1946 co/images/c/c7/AMX_M4_49_with_absurdly_thick_armor. F35 AMX AC Mle1946 jpg most heavily armored AMX M4 blueprints])
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

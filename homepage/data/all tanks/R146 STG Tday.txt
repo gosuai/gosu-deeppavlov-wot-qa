@@ -1,0 +1,40 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros=
+* Highest alpha damage of any tier 8 medium tank in the game except for the Chimera. R146 STG Tday 
+* Good accuracy
+* Strong frontal and turret armour
+
+|InTheGame_cons= 
+* Poor DPM, one of the lowest for tier 8 medium tanks
+* Poor gun depression
+* Low power to weight ratio
+* Thin side armour, can bet overmatched by any 150+ mm gun
+* Upper frontal plate is very thin, vulnerable to artillery
+
+
+|InTheGame_performance= 
+{{VideoYT|dx6ONxHWgik}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

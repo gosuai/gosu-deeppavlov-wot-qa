@@ -1,0 +1,57 @@
+{{TankData|Tank= 
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good alpha damage
+* Good speed and mobility for a Russian heavy
+* Better gun handling on its 122 compared to other Russian heavies
+* Surprisingly good traverses, very agile
+* Decent view range for its tier
+
+|InTheGame_cons= 
+* Low rate of fire, substandard DPM
+* Weak hull armour, fragile tracks
+* Small health pool for a Russian heavy
+* Slow shell speed, ranged combat is difficult
+* Low ammo supply common to most Russian heavies using a 122mm gun
+
+|InTheGame_performance= 
+Compared to the other Russian Tier 7 premium tank, the IS-2 Berlin the KV-122 trades a lower rate of fire for improved accuracy and gun handling and weaker hull armor for better speed and maneuverability. R133 KV 122  It is very similar to a KV-85 carrying its 122, except that the KV-122 has notably better rate of fire and gun handling than the KV-85. R133 KV 122 
+
+The KV-122 is oddly similar to what the KV-1S was ages ago; a surprisingly fast and mobile heavy with a terrifying 122mm gun, trading a slightly weaker armor profile for the privilege of massive alpha damage. R133 KV 122  While the KV-122 is still a terror to any unfortunate tier 5 vehicle that encounters it, it is far less powerful when placed in a tier 9 matchup. R133 KV 122 
+
+The KV-122's hull is identical to the KV-85 and inherits that vehicle's weakness, in the form of a flat and thin upper plate that is easy to hit. R133 KV 122  The 75mm plate can only present roughly 100mm of armor when angled, which is insufficient in a tier 7 battle let alone a tier 9 one. R133 KV 122  The turret front also suffers from this problem, as while the turret is well rounded, the gun mantlet does not share any coverage with the turret's actual armor. R133 KV 122  This plus its large cupola demand that the KV-122 be played in a supporting role rather than a brawling one. R133 KV 122  Lacking the protection to deflect higher-tier enemy fire, it must use its superior mobility to move around enemies and punish them with 390 points of alpha damage per shot, pulling back to reload and punish enemies again. R133 KV 122  In this way KV-122 is less of a pure heavy tank and more like an oversized medium, thanks to its better-than-average power ratio, traverses, and terrain resistances for a Soviet heavy. R133 KV 122  Flanking shots also mean that its mediocre penetration is not as much of an issue against weaker side or rear armor. R133 KV 122 
+
+As a result, this tank is something of a glass cannon and must be supported by its teammates, allowing larger or more resilient allies to absorb shots while it rolls forward and blasts a hole in the enemy. R133 KV 122  While its gun handling is better than its other peers using a 122 gun, it is still breathtakingly mediocre compared to other members of its tier, requiring care to effectively use its high alpha damage to its advantage. R133 KV 122 
+
+Equip a gun rammer as soon as possible, as it saves 1. R133 KV 122 27 seconds of time off the reload. R133 KV 122  Vents can bring the reload down to just over 11 seconds and provide a DPM of around 2100, while vents plus a gun laying drive will bring the aim time down from a lengthy 3. R133 KV 122 07 seconds down to a somewhat more tolerable 2. R133 KV 122 7 seconds. R133 KV 122  A more support and survival oriented player may elect to equip a toolbox or spall liner, but this choice is uncommon and most KV-122s encountered will be set up to support the gun. R133 KV 122 
+
+Investment in the Repairs crew skill is highly recommended, as a major weakness of the tank is its tracks. R133 KV 122  The tracks are weaker and easily broken compared to other heavies in its tier, as it uses the KV-85 tracks instead of the tougher IS tracks. R133 KV 122  Since this tank relies on its mobility to survive, it cannot afford to remain exposed for long. R133 KV 122  
+
+Taken all together, the KV-122 is ''not'' a proper heavy tank, in spite of its classification and use of a KV-85 hull. R133 KV 122  Using it as such will often lead to destruction. R133 KV 122  On the other hand, experienced medium tank players can use its often surprising mobility to react to opportunities and take advantage of distracted opponents at close range. R133 KV 122 
+
+|InTheGame_research= 
+As a premium vehicle, this tank comes elite in its stock configuration. R133 KV 122 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox, Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+* Review Romana
+{{#ev:youtube|HaxWSlDsIy0}}
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

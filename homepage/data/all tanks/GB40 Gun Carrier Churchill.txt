@@ -1,0 +1,58 @@
+{{TankData|Tank=GB40_Gun_Carrier_Churchill
+|The Churchill Gun Carrier is a transitional [[Tank Destroyers|Tank Destroyer]] that can only be researched through the [[Churchill I]] Tier V [[Heavy Tanks|Heavy Tank]], allowing players to move from the British heavy line to the British tank destroyer line. GB40 Gun Carrier Churchill  It has a very powerful 32-pounder anti-tank gun, one of the most powerful guns available in its tier, but is limited by its poor mobility and armor. GB40 Gun Carrier Churchill 
+
+|Gallery=
+
+|InTheGame_pros=
+* Accurate and high-penetration guns (top gun has the best penetration of any tier 6 tank). GB40 Gun Carrier Churchill 
+* Great gun depression. GB40 Gun Carrier Churchill 
+* 32-pdr can be used on the AT 15 and by default on the Tortoise. GB40 Gun Carrier Churchill 
+* Fast aim time. GB40 Gun Carrier Churchill 
+
+|InTheGame_cons=
+* Thin and flat armor all around combined with extremely narrow gun arc prevent the driver from angling the tank. GB40 Gun Carrier Churchill 
+* Very bad mobility, struggles even on flat surfaces. GB40 Gun Carrier Churchill 
+* Poor camouflage values. GB40 Gun Carrier Churchill 
+* Crew members are all up front and often get knocked out. GB40 Gun Carrier Churchill 
+* Gun depression is useless due to bad gun placement on the hull. GB40 Gun Carrier Churchill 
+
+|InTheGame_performance=
+This thing is the definition of a "glass cannon" as the Churchill GC's fixed superstructure is only 88 mm thick, totally flat and tall allowing all tier 5 tanks and even some lower penetrate it frontally. GB40 Gun Carrier Churchill  Its narrow gun arc and slow hull traverse makes it ill-adapted at dealing with moving tanks. GB40 Gun Carrier Churchill  Do not engage in close quarters as tanks like the [[KV-1]] and [[KV-85]] will make short work of the GC with their high alpha guns. GB40 Gun Carrier Churchill  Choose your position on the map carefully as the GC is ultimately slow and will not be able to quickly relocate. GB40 Gun Carrier Churchill  Sniping from behind foliage will have almost no effect as the GC is easily detected due to its very poor camouflage rating even if it's not moving. GB40 Gun Carrier Churchill 
+
+The 32-pdr gun is accurate and deals significant damage. GB40 Gun Carrier Churchill  Although it also has a short aiming time (2. GB40 Gun Carrier Churchill 1 seconds), the narrow gun arc means it must move its hull a lot. GB40 Gun Carrier Churchill  It is strongly recommended to wait until the reticle is fully aimed to fire, as missing a shot can prove to be a costly mistake. GB40 Gun Carrier Churchill  Prioritize heavy tanks whenever possible, as the Churchill GC is one of the two tier 6 TDs that has a good chance of penetrating them frontally (the other being the [[ARL V39]] with its 90 mm gun). GB40 Gun Carrier Churchill 
+
+This vehicle also has surprisingly good gun depression, on par with most American tanks, which means it can crest over a hill, fire, and quickly retreat. GB40 Gun Carrier Churchill  Doing this will still expose most of the tank to enemy fire due to the low placement of the gun, but this allows it to peek and shoot far more quickly than attempting to round a corner. GB40 Gun Carrier Churchill  Peeking over a hill will also protect the tracks fairly well, preventing the GC from being tracked while it's exposed. GB40 Gun Carrier Churchill 
+
+Overall, this vehicle can be frustrating to play, but if it manages to avoid enemy fire, the Churchill GC can quickly decimate almost any vehicle within its line of sight. GB40 Gun Carrier Churchill  NEVER let this tank get to the front line. GB40 Gun Carrier Churchill 
+
+|InTheGame_research=
+* If you elited the Churchill 1 then you should have the top engine and radio unlocked, equip them first
+
+* The 40. GB40 Gun Carrier Churchill 0 ton weight limit of the stock suspension allows you to mount the QF 3. GB40 Gun Carrier Churchill 7-inch AT Gun with . GB40 Gun Carrier Churchill 3 tons left to spare
+
+* Research the suspension
+
+* Research the OQF 32-pdr AT Gun
+
+* Go from there
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vents, Binocular Telescope, Coated Optics
+
+|History=
+Coming out of a General Staff request in 1941 to investigate fitting high velocity guns tanks. GB40 Gun Carrier Churchill  Neither the Churchill or Valentine could mount a turret with anything larger than the 6-pdr but it was proposed that a fixed superstructure could carry a larger gun with limited traverse. GB40 Gun Carrier Churchill  Vauxhall were provided with 100 guns and given the task of producing the vehicle. GB40 Gun Carrier Churchill  The pilot vehicles were ready for testing in early 1942 and found to be satisfactory but progress with the 17-pdr Challenger cruiser tank and refocussing on a general purpose role (and 75mm gun) for the Churchill led to a reduced order. GB40 Gun Carrier Churchill  A fixed 88 mm (3. GB40 Gun Carrier Churchill 5 in) thick superstructure with the gun in a ball mount. GB40 Gun Carrier Churchill  The gun was an otherwise obsolete QF 3-inch 20 cwt anti-aircraft gun. GB40 Gun Carrier Churchill  Fifty were built in 1942 but none are known to have been used in combat- the 17 pounder anti-tank gun gave the British the necessary firepower. GB40 Gun Carrier Churchill  Some were adapted for experimentation and training with the "Snake" mine-clearing line charge device. GB40 Gun Carrier Churchill 
+
+|HistoricalGallery=
+image:CGC 1. GB40 Gun Carrier Churchill jpg{{!}}A Churchill Gun Carrier awaiting restoration at the Bovington Tank Museum
+image:CGC 2. GB40 Gun Carrier Churchill jpg{{!}}Churchill Gun Carrier
+image:CGC 3. GB40 Gun Carrier Churchill jpg{{!}}Churchill Gun Carrier
+
+|HistAcc=
+Neither the 3. GB40 Gun Carrier Churchill 7-inch nor 32-pdr gun were proposed for the Churchill Gun Carrier. GB40 Gun Carrier Churchill  Both guns were developed only for the [[Tortoise]]. GB40 Gun Carrier Churchill 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

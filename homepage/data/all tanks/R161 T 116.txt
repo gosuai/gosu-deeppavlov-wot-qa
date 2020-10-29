@@ -1,0 +1,38 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+*fast and speeds up quick
+*small silhouette
+*great mobility at 48º per second
+*great reload time (2. R161 T 116 2 seconds)
+*good aim time
+|InTheGame_cons= 
+*poor accuracy
+*mediocre AP penetration
+*terrible armor
+
+|InTheGame_performance= 
+The T-116 is a great scout, whether active or passive. R161 T 116   The speed and small size are helpful when actively scouting, though be careful to use terrain to your advantage. R161 T 116  Passive scouting is workable also, but be ready to run. R161 T 116  This Light tanks mediocre penetration with standard rounds confines it to flanking and distracting duties, much like a bulldog or Chaffee. R161 T 116  Autocannons are the bain of this little tank, especially the Pz I C. R161 T 116  Due to only 15 mm of armor, it will quickly be turned into swiss cheese. R161 T 116  SPG raids are out of the question: the radio range is a dismal 300 meters. R161 T 116  When played right, this tank is very fun to use. R161 T 116 
+|InTheGame_research= 
+Its a premium. R161 T 116  None needed. R161 T 116 
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+“In 1937, the head of the ABTU initiated the creation of a new reconnaissance tank. R161 T 116  New tactical and technical requirements were issued in the Autumn of 1937, it was stated the tank should not be amphibious and have the same wheel-track type of the BT series. R161 T 116  Work on the project was carried out by the design bureau of the Plant Nº 185. R161 T 116  It was planned to use an aircraft air-cooled engine and transmission of the PT-1 and T-29 tanks. R161 T 116  Work on the project was cancelled and the tank never left the design stage. R161 T 116 ” * Sourced from https://wargaming. R161 T 116 fandom. R161 T 116 com/wiki/T-116
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,44 @@
+{{TankData|Tank=AMX_Ob_Am105
+|This is the first typical French arty available for the players. F66 AMX Ob Am105  The powerful, accurate gun, and the great mobility makes this tank a fearful enemy, and a fun to play SPG. F66 AMX Ob Am105 
+
+|InTheGame_pros=
+* Gun range: stock: 980 m, top: 1280 m 
+* Very wide gun arc
+* High ammo count (40 shells)
+* Good mobility and top speed
+* Easy to hide
+* Works well in TD mode
+ 
+|InTheGame_cons=
+* Flat shell trajectory
+* Tiny splash radius
+* No gun depression with the 2nd gun
+ 
+|InTheGame_performance=
+
+
+|InTheGame_research=
+* Nothing transfers from the Lorraine 39L AM. F66 AMX Ob Am105 
+* First research the AMX 105 AM mle. F66 AMX Ob Am105  47 modifié Suspension, then the 105 mm obusier mle. F66 AMX Ob Am105  1950 Gun. F66 AMX Ob Am105 
+* Second research the SCR 528F Radio. F66 AMX Ob Am105 
+* Finally research the MATHIS Engine, as it is necessary to research the AMX 13 105 AM mle. F66 AMX Ob Am105  50. F66 AMX Ob Am105 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+
+
+|History=
+
+
+|HistoricalGallery=
+image:Amx105mle47 1. F66 AMX Ob Am105 jpg{{!}}AMX 105 AM mle. F66 AMX Ob Am105  47 plans
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+}}

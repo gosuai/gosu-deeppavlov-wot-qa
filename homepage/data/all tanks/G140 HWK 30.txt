@@ -1,0 +1,42 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good all-around gun with good alpha, reload and penetration
+* Great gun depression
+* Premium HEAT ammo has high velocity and HE ammo has high penetration
+* Great base viewrange
+* Good mobility, acceleration and top speed
+
+|InTheGame_cons= 
+* Non-existent armor, vulnerable to all sources of damage
+* Camouflage value is average for a light tank
+* Cannot depress its gun when facing the rear, as the engine deck prevents it
+* Overshadowed by stronger competitors such as the [[LT-432]]
+
+|InTheGame_performance= 
+Just like an Ru 251. G140 HWK 30  More or less a lighter version of Leopard Prototyp A that is designed for recon, keep moving with your amazing speed and maneuver when you can, but make sure not to turn around too much as this will slow you down a lot. G140 HWK 30  Avoid crashing into other tanks when at high speed as you'll lose a lot of health due to your light weight and thin armor. G140 HWK 30  Use your DPM and fire APCR or HEAT at enemies whenever you're not scouting. G140 HWK 30  If you're spotted, never stand still, as any shot that hits you will penetrate, or at best HE not penetrate for full damage. G140 HWK 30  Play it like a standard issue light tank with few - if any - downsides, but remember that it offers a lot more mobility and gun depression than most other lights, especially at this tier. G140 HWK 30  
+|InTheGame_research= 
+Premium vehicle, comes elite in stock configuration. G140 HWK 30 
+
+|InTheGame_equipment=
+Coated Optics, Tank Gun Rammer, Vents, Vertical Stabilizer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,52 @@
+{{TankData|Tank= 
+| 
+
+|Gallery= 
+File:121B scr 1. Ch25 121 mod 1971B jpg
+File:121B scr 2. Ch25 121 mod 1971B jpg
+File:121B scr 3. Ch25 121 mod 1971B jpg
+
+|InTheGame_pros= 
+* Good DPM, accuracy, penetration and shell velocity
+* Excellent premium ammo penetration 
+* Thick, well angled turret and decent upper glacis armor
+* Good acceleration and agility
+* Joint best viewrange in the game at 420 base
+
+|InTheGame_cons= 
+* Lower DPM, gun caliber and alpha damage compared to [[121]]
+* Average top speed
+* Bad gun depression, as is typical for Chinese tanks
+* Expensive, requires 15. Ch25 121 mod 1971B 000 bonds to purchase
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+As a reward tank there is no research to perform. Ch25 121 mod 1971B 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+See the history of the [[121]]
+
+|HistAcc=
+Despite the description, this tank is fake - while the 121 did exist as a prototype medium tank, the Royal Ordnance 105mm L7 did not become available to the Chinese until after the 121 project was cancelled. Ch25 121 mod 1971B  Note that this should not be confused with the Type 79 (also designated WZ-121D), which is an entirely different tank. Ch25 121 mod 1971B 
+*The 105 mm L7 did not become available to China until 1978; all 121 prototypes were destroyed in the 1960s. Ch25 121 mod 1971B 
+*The first Chinese tank to be armed with the 105 mm L7 was in 1981. Ch25 121 mod 1971B  This variant was known as the Type 59-II (WZ-120B), which doesn't exist in World of Tanks. Ch25 121 mod 1971B 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. Ch25 121 mod 1971B wot-news. Ch25 121 mod 1971B com/2015/01/25/chinese-tank-121-and-t-34-x-series-part-1/
+
+}}

@@ -1,0 +1,60 @@
+{{TankData|Tank= 
+| The old tier 3 American TD, it was replaced by the [[Tank:A109 T56 GMC|T56 GMC]] and moved to the SPG line in 9. A27 T82 12
+
+|Gallery=
+
+File:T82 HMC scr 1. A27 T82 jpg
+File:T82 HMC scr 2. A27 T82 jpg
+File:T82 HMC scr 3. A27 T82 jpg
+
+
+|InTheGame_pros= 
+* Good damage per shot
+* Relatively accurate gun 
+* Small profile and high speed makes it easy to escape from side losses
+* Quick reload, at least compared to its successor
+|InTheGame_cons=
+* Short range (covers barely half of the map without a particularly high arc)
+* Long aiming time
+* No stunning unlike its successor
+* Absolutely no splash damage, if you miss you miss
+* Lack of stunning and low caliber makes it pathetic against anything in tier 6
+|InTheGame_performance=
+The SPG can damage vehicles of its own tier effectively but struggles against anything higher. A27 T82  The splash isn't too impressive (read: next to nonexistent), but better than its counterparts such as the SU-26. A27 T82  If you have played the FV304 already, this SPG will feel very familiar. A27 T82  If you have played the Hummel instead. A27 T82 . A27 T82 . A27 T82  well, wait until tier 5. A27 T82 
+
+
+|InTheGame_research=
+* The tracks improve traverse speed, which is much needed on this vehicle, get it first. A27 T82 
+* Next, get the top gun, which improves aim time and accuracy. A27 T82 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+Development of the T82 started in December 1943. A27 T82  The vehicle was put on trials in August 1944, but was never mass-produced, nor saw service. A27 T82 
+
+The T82 was a SPG built by the Heil Company to a specific Ordnance Department requirement for a light vehicle for Pacific theatre of operations. A27 T82  This vehicle was equipped with the M3 105mm howitzer which could fire a 30 pound projectile about 5 miles. A27 T82  The T82 was based on the M5A1 Stuart chassis and could carry 58 rounds of 105mm ammunition. A27 T82 
+
+|HistoricalGallery=
+image:Img_40_3805_16. A27 T82 jpg
+image:M82book1. A27 T82 jpg
+image:M82book2. A27 T82 jpg
+image:M82book3. A27 T82 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A27 T82  and C. A27 T82  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A27 T82 
+
+Forty, G. A27 T82 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A27 T82 
+
+Zaloga, S. A27 T82 J. A27 T82 , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A27 T82 
+
+|Ref_links=
+
+}}

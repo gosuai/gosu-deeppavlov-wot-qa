@@ -1,0 +1,67 @@
+{{TankData|Tank=VK2801
+
+|
+
+|InTheGame_pros=
+* Good view range
+* Great gun depression
+* Good at ramming lighter and poorly armored tanks 
+* Good mobility, speed and acceleration
+* Decently armored for a light tank 
+
+|InTheGame_cons=
+* Large size for a light tank, can be difficult to hide
+* Somewhat bad camouflage for its class
+* Bleeds a lot of speed when turning
+
+|InTheGame_performance=
+Originally, the VK 28. G66 VK2801 01 offered a unique gameplay experience thanks to its ability to mount a howitzer, which turned it into a miniature version of the [[T49]]. G66 VK2801  However, with patch 9. G66 VK2801 18 this option has been removed from the game. G66 VK2801  What is left is an adequate, but unremarkable light tank with good view range and decent frontal armour. G66 VK2801  
+
+|InTheGame_research=
+
+VK-2801-Ketten Ausf. G66 VK2801  B, Maybach HL 210 P 30, FuG 12
+
+
+|InTheGame_equipment=
+
+Improved Ventilation Class 1, Coated Optics, Medium-Caliber Tank Gun Rammer
+
+|Gallery=
+
+image:VK 2801 1. G66 VK2801 jpg{{!}}VK 2801 front left view
+image:VK 2801 2. G66 VK2801 jpg{{!}}VK 2801 front right view
+image:VK 2801 3. G66 VK2801 jpg{{!}}VK 2801 Leopard rear left view
+image:VK 2801 4. G66 VK2801 jpg{{!}}VK 2801 Leopard rear right view
+File:VK2801a. G66 VK2801 jpg{{!}}
+File:VK2801b. G66 VK2801 jpg{{!}}
+File:VK2801c. G66 VK2801 jpg{{!}}
+
+|History=
+
+The VK 28. G66 VK2801 01 project started in June of 1943 by Gen. G66 VK2801  Guderian. G66 VK2801  He wanted a multipurpose tank(mehrweckpanzer) to replace the Panzer IV. G66 VK2801  The VK 28. G66 VK2801 01 was to be the basis of light tank destroyers, flak panzers, recon vehicles, and other panzer variants. G66 VK2801  In particular, Krupp proposed the Mehrzweckpanzer mit Vierling 2cm VK 2801 anti-aircraft tank armed with quad 20mm Flak guns. G66 VK2801  The VK 28. G66 VK2801 01 was to weigh approximately 28 tons (hence the VK 28. G66 VK2801 01). G66 VK2801  The top speed of the VK 28. G66 VK2801 01 was to be slightly over the maintainable speed of ~30 km/h. G66 VK2801  The planned ~550 hp Argus engine would power the VK 28. G66 VK2801 01 and give it nearly a 20 hp/t ratio(very good p/w ratio). G66 VK2801 
+
+
+Krupp envisioned the VK 28. G66 VK2801 01 with a modified Pz IV turret. G66 VK2801  The Hull armor of the VK 28. G66 VK2801 01 was to be 50/30/30. G66 VK2801  The 50 mm upper front plate was sloped at 55 degrees while the lower plate of the same thickness was sloped at 45 degrees. G66 VK2801  The turret armor was to be 50/30/30 protection and was nearly identical to the panzer IV turret. G66 VK2801  The only distinguishing feature was the cupola which was based off the Panther's cupola. G66 VK2801 
+
+In July of 1943 it was thought that the VK 28. G66 VK2801 01 Mehrzweckpanzer would not see production until April of 1945. G66 VK2801  In October of 1943 the Germans cancelled the VK 28. G66 VK2801 01 project. G66 VK2801  
+
+|HistAcc=
+Actual planned [[Gun/Germany#7,5 cm KwK 40 L/43|75 mm KwK 40 L/43]] gun is missing. G66 VK2801  The current gun configurations are both fake. G66 VK2801 
+* The turret is the same Ausf G model used on the [[Tank:G81_Pz_IV_AusfH|Panzer IV Ausf H]], yet the view range and weight values are inconsistent. G66 VK2801 
+* The [[Gun/Germany#7,5 cm KwK 40 L/48|75 mm KwK 40 L/48]] and [[Gun/Germany#5 cm KwK 39 L/60|5 cm KwK 39 L/60]] are the same guns used on the Panzer IV Ausf H and [[Tank:G10_PzIII_AusfJ|Panzer III Ausf J]] respectively, yet the penetration values of the AP shell are inconsistent. G66 VK2801 
+* Actual Argus 12LD330H	engine is more powerful than in reality, with 580 hp compared to the historical 550. G66 VK2801 
+* The Argus 12LD330H was its only intended engine. G66 VK2801  The Argus 12LD330HL is fake. G66 VK2801 
+
+|HistoricalGallery=
+File:VK_2801. G66 VK2801 jpeg{{!}}Page 11 from Panzer Tracks 20-1, including history and sketch of VK 28. G66 VK2801 01. G66 VK2801  The sketch is drawn by H. G66 VK2801  Doyle. G66 VK2801 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+* Panzer Tracks 20-1 by Thomas Jentz
+
+|Ref_links=
+
+}}

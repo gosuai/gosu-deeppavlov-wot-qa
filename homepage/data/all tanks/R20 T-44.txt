@@ -1,0 +1,150 @@
+{{TankData|Tank=T-44
+|The T-44 can be considered an evolution of the playstyle previously showcased by the [[T-43]]. R20 T-44  Sporting better agility, firepower, and armor than the T-43, it still plays very much as a flanking medium tank, using its low profile and excellent mobility to make up for its mediocre armor and poor gun penetration. R20 T-44 
+
+|Gallery=
+image:T44a. R20 T-44 jpg{{!}}Front right
+image:T44b. R20 T-44 jpg{{!}}Front left
+image:T44c. R20 T-44 jpg{{!}}Rear left
+image:T44d. R20 T-44 jpg{{!}}Rear right
+image:T44-1. R20 T-44 jpg{{!}}Destroyed T44's, map El Haluf 
+
+|InTheGame_pros=
+* Superb all-round mobility, among the best in Tier 8
+* Low profile and good camouflage 
+* Decent hull armor
+* Good aim time, accuracy, depression and decent DPM with the LB-1 gun
+
+|InTheGame_cons=
+* Second worst penetration of all Tier 8 medium tanks with both the LB-1 and D-25-44
+* Vulnerable ammo rack layout (next to the driver)
+* Poor hitpoint pool
+* Average view range
+* Poor gun dispersion values and shell velocities relative to its peers
+
+|InTheGame_performance=The T-44 is very much a flanking medium in the tradition of the [[T-43]], and the later [[T-54]]. R20 T-44  Its mobility is among the best of any Tier 8 medium tank, and is essential in making up for the otherwise poor firepower that it has. R20 T-44  With a maximum penetration of 190 mm with AP on any of its guns, it is almost impossible to penetrate many higher tier opponents from the front, and some may even give problems from the sides. R20 T-44 
+
+The armor, while unreliable against anything Tier 8 and above at best, can be very difficult for a Tier 6 and many Tier 7 medium tanks to break through when angled properly. R20 T-44  Care must be taken to avoid exposing the ammo rack too much (located to the right of the driver), as it is quite vulnerable to damage. R20 T-44  The Safe Stowage perk is especially recommended, although a Wet Ammo Rack is not really necessary. R20 T-44  The T-44's turret is its best armored part, but while it does have the gun depression to utilize some hull down tactics, the armor is not nearly as reliable as the [[T-54]], [[M26 Pershing]] or [[Type 59]]'s, for example. R20 T-44 
+
+The primary weakness of the T-44 is in its firepower. R20 T-44  The 85 mm guns first encountered on the [[T-34-85]] two tiers previously are by now completely inadequate, even with APCR. R20 T-44  The '''100 mm D-10T''' is the first decent gun that the T-44 can mount. R20 T-44  Unfortunately, it is quite inaccurate, and has a poor aim time. R20 T-44  The '''100 mm LB-1''' is generally considered the preferred gun option. R20 T-44  It is considerably more accurate than the D-10T and aims faster, making it more competitive at longer ranges. R20 T-44  Unfortunately, the slow shell of the Soviet 100 mm guns generally makes long range fighting less than optimal. R20 T-44  The '''122 mm D-25-44''' is something of a novelty option, giving a fantastic damage-per-shot, but is completely awful in nearly all other respects. R20 T-44  It is completely inferior to the 122 mm gun on the [[T-34-2]] except for slightly better base accuracy. R20 T-44  In fact, the T-44 with the 122 mm gun is inferior in many aspects, including aim-time, rate of fire and ammunition capacity to the [[T-34-3]], which gets preferential match making. R20 T-44  All the guns on the T-44 have a fairly low rate-of-fire for their damage. R20 T-44 
+
+Given the unreliable armor and low damage-per-minute, the T-44 is not as well-suited to taking and holding positions in advance of heavy tanks, the usual role of medium tanks, especially compared to the T-54. R20 T-44  However, it makes an excellent support and distraction tank, using its camouflage and mobility to strike from unexpected directions and minimize its exposure. R20 T-44  It can also fulfill the scout role in a pinch, though this is hampered by the mediocre view range. R20 T-44 
+
+
+
+
+|InTheGame_research=
+
+*Equip the 85 mm D5T-85BM immediately upon purchase. R20 T-44  
+*Following that, upgrade the suspension to improve load capacity and for a general improved mobility. R20 T-44 
+*Upgrade the turret to the T-44-100. R20 T-44 
+*Upgrade your weaponry to the 100mm D-10T. R20 T-44 
+*Unlock the V-2-54
+*Then unlock the 100 mm LB-1. R20 T-44 
+*Unlock the V-54-6 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics, "Wet" Ammo Rack
+
+|External_Reviews=
+*{{VideoYT|HYv5itQbl8U}}
+
+|History=
+[[image:T-44 8. R20 T-44 jpg|thumb|200px|left|Second generation T-44-85 prototype during trials at NIBT proving grounds near Kubinka, summer 1944. R20 T-44  Notice  the driver's vision flap was reduced to a plain square flap with rounded lower corners, in line with the glacis plate, a prominent collar at the base of the gun tube, and the splashboard on the glacis plate. R20 T-44 ]]
+==== Development history ====
+The T-44 Medium Tank wasn't in large-scale production like the T-26, or in widespread use like the T-34, nor was it the main battle tank for the post-war period like the T-54 and T-55, but it took a worthy place in the history of Soviet tank development. R20 T-44 
+
+In the autumn of 1943, the design bureau of the Stalin Ural Tank Factory No. R20 T-44  183, located in Nizhny Tagil, started working on a vehicle that would have improvement opportunities in the future, under a direct order from Stalin. R20 T-44  Main requirements for the project: retain the high mobility of the T-34 and provide it with heavier armor protection against modern tank guns. R20 T-44  In November of 1943, the chief designer, A. R20 T-44  A. R20 T-44  Morozov, presented the overall design and a model of the tank which received the designation Object 136. R20 T-44  The first prototype was completed by January 1944, and two more were completed in February. R20 T-44  The first two prototypes received the designation T-44-85 (as they were armed with 85 mm D-5T guns). R20 T-44  The third prototype was armed with the 122mm D-25-44T tank gun and received the designation T-44-122. R20 T-44  The D-25-44T tank gun was an analog to the basic D-25 field gun, but there were differences in some minor details; fixed single-piece ammunition to increase the rate of fire, and a double-baffle muzzle brake. R20 T-44  The construction of the hull with an innovative placement of the engine allowed fitting such powerful armament in a medium tank weighing 30 tons. R20 T-44  The engine of the T-44 was placed perpendicular to the axis of the tank. R20 T-44  Armor plating: 75 mm on the front of the hull and 90 mm on the front of the turret. R20 T-44  The side armor was 45 mm thick and could be reinforced by additional 30 mm thick armor plates. R20 T-44  All three prototypes were powered by the V-2IS diesel engine which developed 500 hp (373 kW). R20 T-44 
+
+
+
+==== Morozov Alexander Alexandrovich ====
+Morozov's new medium tank design received a skeptical response. R20 T-44  It was believed that putting a high-speed V-12 engine with a working displacement of almost 40 liters perpendicular to the direction of travel would cause problems, including breaking of the connecting rods. R20 T-44  It was also believed that decreasing the displacement of the engine compartment for the purpose of enlarging the fighting compartment was unnecessary, and that moving the turret rearwards would limit the elevation angle of the main gun. R20 T-44 
+
+The first trials of the T-44-122 prototype took place in February and March 1944, but were unsuccessful due to gun failure: the gun was returned to the No. R20 T-44  9 factory for repair. R20 T-44  In April and May 1944, the trials resumed. R20 T-44  Aside from standard trials, the T-44-122 was put in competitive trials against the captured German Panzerkampfwagen V Panther medium tank and the second of two first-generation T-44-85 prototypes. R20 T-44  However, the practical rate of fire was two to three rounds per minute due to the cramped turret and long, heavy ammunition. R20 T-44  In addition, the vehicle had a very limited stowage of only 24 rounds and this was considered insufficient for a medium tank. R20 T-44  As a result, all further development of the T-44-122 prototype was canceled. R20 T-44 [[image:T-44 14. R20 T-44 jpg|thumb|200px|right|T-44-122 prototype during comparative trials against captured German Panther]]
+Like the T-44-122 prototype, one of the two first generation T-44-85 prototypes went through competitive trials against the captured German Panzerkampfwagen V Panther medium tank. R20 T-44  Additionally, the second of the two first-generation T-44-85 prototypes was put in competitive trials against the T-44-122 prototype. R20 T-44  By May 1944, two second-generation prototypes were being built. R20 T-44  These two prototypes also have differences between each other. R20 T-44  One prototype had a splashboard on the glacis plate, while the other had a smooth uncluttered glacis plate. R20 T-44  One of these prototypes passed trails at NIBT proving grounds near Kubinka in June and July 1944. R20 T-44  This prototype weighed 31. R20 T-44 3 tons and was armed with an 85 mm ZiS-S-53 gun. R20 T-44  The turret front armor thickness was increased to 115 mm. R20 T-44  Hull side armor thickness was increased to 75 mm. R20 T-44 
+The third generation prototype, which received the designation T-44A, was completed after the Morozov Design Bureau had moved back to Kharkov in the Ukraine. R20 T-44  The hull upper front armor (glacis plate) thickness was increased to 90 mm and the turret front armor thickness was increased to 120 mm. R20 T-44  Even though it was more heavily armored, the weight went down to 30. R20 T-44 7 tons. R20 T-44  This vehicle also had a new V-44 12-cylinder 4-stroke diesel engine of 520 hp (388 kW) at 1,800 rpm, which allowed the tank to travel at a speed of 60. R20 T-44 5 km/h. R20 T-44  This prototype had the splashboard on the glacis plate like one of the second generation T-44-85 prototypes. R20 T-44  After trials conducted in August and September 1944, and after it received several upgrades (which increased the weight of the vehicle to 32 tons), the T-44A officially entered service with the Red Army on the 23rd of November 1944. R20 T-44 
+
+==== Description ====
+[[image:T-44 16. R20 T-44 jpg|thumb|200px|left|T-44-122 Note the huge 122 mm round. R20 T-44 ]]
+The T-44 was a tank with a typical layout: the driving compartment at the front, the fighting compartment in the middle, and the engine compartment in the rear. R20 T-44  The intention was to retain the high mobility and speed of a T-34 and to provide the T-44 with heavier armor protection against large-caliber tank guns as well. R20 T-44  This goal was accomplished by adding thicker armor, but reducing the internal volume of the hull. R20 T-44  The T-44 also had a lower profile than the T-34, and was potentially simpler to manufacture. R20 T-44  Although the T-44 used many components of the T-34, it had a new hull, modified V-2 engine, suspension, and transmission. R20 T-44 
+
+Reflecting trends in other designs of this period, the T-44 was designed without the hull radio operator/machine gunner position present in many older designs. R20 T-44  This was done for a number of reasons. R20 T-44  The extensive machine gun firing port in the glacis plate (which was present in the T-34 medium tank) was a weak spot of the glacis plate. R20 T-44  In the T-34, this firing port, along with driver's hatch which also weakened the glacis plate, were exploited during WWII by the Germans fighting the T-34 medium tanks. R20 T-44  Shooting from such machine gun ports was also ineffective, as it was inaccurate due to obscured vision. R20 T-44  It was also considered ineffective to transfer reports through an additional member of the crew and therefore, these duties were transferred to the commander and allowed more effective communication. R20 T-44  The space saved was used for both a fuel tank and an increased ammunition load. R20 T-44  The driver's hatch was on the left side of the hull roof. R20 T-44  The tank had an improved hull design, longer and wider than the T-34, but slightly lower thanks to the relocation of the air-filter, thicker armor, and was simpler to construct. R20 T-44  The hull had a sloped glacis plate, vertical sides, and slightly beveled rear. R20 T-44  Most tanks had a splashboard on the glacis plate, although there are pictures of T-44A tanks without them. R20 T-44  It protected the upper part of the vehicle from splashes of mud. R20 T-44  There were three mounts for rectangular stowage bins on the fenders (two on the right-hand side fender and one on the left-hand side fender). R20 T-44  There were also four mountings for cylindrical fuel tanks on the fenders (two per side). R20 T-44  This was changed in the T-44M, which used rectangular fuel cells. R20 T-44 
+
+During its service, the tank proved to be not entirely adapted to winter conditions due to an incomplete draining of the cooling systemand was caused by a water pump system that had been modified to reduce engine height: a small shaft could break after an impeller pump would freeze. R20 T-44  The repair of the shaft, considering the field conditions, proved very unpractical and required three people to do. R20 T-44  Two people had to hold a third person by the legs and lower him into the engine bay, where he had to loosen the fastening and remove the broken shaft. R20 T-44  Then, he was pulled out and lowered back down to install the new shaft. R20 T-44  If he could not complete the job in two attempts, he was repeatedly lowered until the new part was secured. R20 T-44  The other serious problem discovered during the winter conditions was that crews of the T-44A medium tanks suffered from frostbite because of a complete lack of a heating system for the crew. R20 T-44  During driving, the driver was supposed to be protected from rain and snow by a removable tarp cover with a small glass window. R20 T-44  However, this was not successful and its use was deemed impractical. R20 T-44 
+
+The T-44A medium tank was armed with an 85 mm ZiS-S-53 tank gun, as well as two 7. R20 T-44 62 mm DTM light machine guns. R20 T-44  One of these machine guns was mounted to fire through a tiny hole in the center of the glacis plate. R20 T-44  Because the tank's crew didn't include a radio operator/machine gunner, the driver operated this light machine gun. R20 T-44  Because this light machine gun was mounted in a fixed position, it could only be aimed by turning the tank. R20 T-44  The main gun was installed in a centrally placed turret along with a coaxially-mounted 7. R20 T-44 62 mm DTM light machine gun. R20 T-44  The ZiS-S-53 tank gun could penetrate around 100 mm of armour at range of 1000 m. R20 T-44  The gun could be elevated or lowered between -5° and +25°. R20 T-44  It wasn't stabilized. R20 T-44 
+
+Production history
+[[image:T-44 Second generation prototype during trials. R20 T-44 JPG|thumb|200px|right|T-44 Second generation prototype during trials]]
+The T-44A medium tank officially entered service with the Red Army on November 23, 1944, but the production started in October. R20 T-44  Production took place at the new Factory No. R20 T-44  75 (Zavod 75) in Kharkiv, which used the buildings of the old KhPZ Factory No. R20 T-44  183 which were recaptured from the Germans on August, 23, 1943. R20 T-44  To resotre them into working order, engineers, workers, machines, and tools arrived from Stalin Ural Tank Factory No. R20 T-44  183, located in Nizhny Tagil. R20 T-44  The original plans were for the factory to produce 300 T-44A medium tanks a month. R20 T-44  However, only 25 T-44A medium tanks were built by the end of 1944. R20 T-44  In 1945, 940 T-44A medium tanks were built, making a total of 965 T-44A medium tanks (190 tanks built in 1944 and 1945 were completed by the end of the war). R20 T-44  An additional 858 T-44A medium tanks were made in 1946-1947. R20 T-44  The T-34 continued to account for 85% of medium tank production through 1950, and development of a more advanced medium tank with a more powerful 100 mm gun proceeded. R20 T-44  The relatively brief production run ended in 1947 with a total of 1,823 T-44A medium tanks built. R20 T-44  The reasons for such a brief production run included mechanical teething problems, the end of the war which reduced the Red Army's need for a new tank, and the design's inability to successfully fit a 100 mm tank gun. R20 T-44  It was replaced on the production lines by the T-54-1 main battle tank, which was more mechanically reliable and could mount a 100 mm gun. R20 T-44  The superior T-54-2 would replace T-34 production at the Omsk Factory No. R20 T-44  183 in 1950, and the T-54/55 main battle tank series would remain in production until 1981. R20 T-44 
+
+==== Service history ====
+The T-44 was issued to three tank brigades mustered on September 15, 1944, for training purposes, but these formations were re-equipped with T-34-85 medium tanks prior to entering the Battle of Berlin and the Prague Offensive. R20 T-44  These were the 6th Guards, 33rd Guards, and 63rd Guards Tank Brigades. R20 T-44  The T-44A medium tank was not used operationally during WWII in Europe for several reasons, including the fact that the Red Army wasn't ready to accept a new tank due to lack of sufficient supplies and technical specialists who could repair and maintain the new tanks as well as many of the tank crews were inexperienced. R20 T-44  However, three tanks were sent to the 100th Special Tank Company, which tested them on the Eastern Front. R20 T-44  Many T-44A medium tanks were sent immediately after they were produced to the Far East regions of the Soviet Union. R20 T-44  The first tanks arrived before the end of the war and were used operationally during the last three days of fighting. R20 T-44  They continued to arrive after the war and eventually, around 600 T-44A medium tanks were stationed there. R20 T-44 
+
+Due to the Cold War, the USSR decided to keep the tank secret. R20 T-44  It was never shown publicly during military parades and all pictures of it were never shown publicly until the coat of secrecy was dropped. R20 T-44  Also, theres almost no photographic evidence of T-44s stationed in East Germany or during the Soviet invasion of Hungary in 1956, although it is known that T-44s were sent there (theres only one photograph of T-44A medium tank in Hungary in existence). R20 T-44 
+
+After the cloak of secrecy was lifted in 1960s snd the tank was already becoming obsolete, it was used in two Soviet war movies; Father of a Soldier and Act by situation. R20 T-44  In the first one, for reasons which remain unknown, it was used to portray a T-34. R20 T-44  In the second one, it was visually modified with additional plates to look like the Tiger I heavy tank. R20 T-44  Some T-44 medium tanks along with some T-34 medium tanks were visually modified to represent German Panzerkampfwagen IV medium tanks. R20 T-44  They were made for Soviet era film studios and were used in a number of movies about battles on the Eastern Front. R20 T-44  They were also used during the 2004 Reenactment of the Battle of Moscow. R20 T-44  Some T-44A medium tanks were later given to military museums, including one in Brest in today's Belarus. R20 T-44  One of two T-44-100 prototypes is in the Kubinka Tank Museum. R20 T-44 
+
+
+==== Combat history ====
+World War II, briefly fielded in 1944–45, but kept out of combat. R20 T-44 
+
+Hungarian Revolution, not known to have seen combat. R20 T-44 
+
+==== Variants ====
+T-44-85 (1944) – Designation for two first generation prototypes armed with the 85 mm D-5T tank gun and two second generation prototypes armed with the 85 mm ZiS-S-53 tank gun. R20 T-44 
+
+T-44A (1944) – Designation for the third generation prototype and the production model. R20 T-44 
+
+T-54-1 (1946) - Main battle tank which was a further development of T-44A. R20 T-44 
+
+T-44S (1966) – T-44A fitted with "Cyclone" two-plane gun stabilization system. R20 T-44 
+
+T-44M (1961) – T-44A modernization incorporating a drive train upgraded to match the one used in T-54 including the V-54 12-cylinder 38. R20 T-44 88 liter water-cooled diesel engine developing 523 hp (390 kW), gearbox, tracks, 'starfish' road wheels, and a conventional toothed drive sprocket flush with the outer track edge. R20 T-44 
+
+T-44MK (1963) – T-44M converted into a command tank. R20 T-44  Apart from standard T-44M equipment, it is equipped with the R-112 radio set. R20 T-44  The ammunition stowage was reduced by 15 rounds to 46 rounds. R20 T-44 
+
+T-44MS (1966) - T-44M fitted with "Cyclone" two-plane gun stabilization system. R20 T-44  It also has increased maximal operational range. R20 T-44 
+
+T-44 tanks converted into fixed fortifications. R20 T-44  This process usually involved the removal of the engine and the gearbox while burying the tank up to the top of the hull and covering the turret in concrete to break up the outline and to give it a rock like appearance. R20 T-44 
+
+T-44-122 (1944) – First generation prototype armed with D-25-44T 122 mm tank gun. R20 T-44  It carried 24 rounds for it. R20 T-44 
+
+T-44-100 (1945) – Prototype fitted with a new modified turret which would allow fitting the 100 mm D-10T gun or 100 mm LB-1 gun (LB stands for Lavrenty Beria). R20 T-44  The tank carries 36 rounds for the 100 mm tank gun. R20 T-44  This prototype also had the 12. R20 T-44 7 mm DShK anti-aircraft heavy machine gun fitted to the loader's hatch, 6 mm thick sideskirts protecting the sides, and two cylindrical fuel tanks in the back giving it a fuel capacity of 1035 l. R20 T-44  The longer tank gun barrel increased the overall length of the vehicle to 8. R20 T-44 04 m. R20 T-44  Also, the new turret, new armament, and sideskirts made the vehicle heavier as it then weighed 34. R20 T-44 55 tons. R20 T-44 
+
+|HistoricalGallery= image:T44HG1. R20 T-44 jpg
+image:T44HG2. R20 T-44 jpg
+image:T44HG3. R20 T-44 jpg
+image:T44HG4. R20 T-44 jpg
+image:T44HG5. R20 T-44 jpg
+
+|HistAcc=
+Like many Soviet tanks in game the T-44 has increased gun depression. R20 T-44  In reality it had -5° with the 85mm ZiS-S-53 and -3° with both the 100mm LB-1 and 122mm D-25-44
+* The 85 mm D5S-85BM gun was only fitted to the SU-85; it never entered service because of the appearance of the SU-100 project. R20 T-44  T-44s were actually armed with the [[Gun/USSR#85 mm D-5T|85 mm D-5T]] (no relation to the D5S-85BM), its gun mantlet similar to the [https://wiki. R20 T-44 gcdn. R20 T-44 co/images/2/23/T-34-85_11. R20 T-44 jpg T-34-85 Model 1943]; this variant does not exist in World of Tanks. R20 T-44 
+* The T-44's engine is considerably more powerful than in reality, with 760 hp compared to the historical 520. R20 T-44 
+* The 122 mm gun has a higher rate of fire than in reality, with almost four rounds per minute (without 100% crew) compared to the historical three. R20 T-44  The weapon itself was rejected because of the insufficient rate of fire, cramped turret and abysmal storage space. R20 T-44 
+
+|Ref_references=
+* Zaloga, Steven J. R20 T-44 ; James Grandsen (1984). R20 T-44  Soviet Tanks and Combat Vehicles of World War Two. R20 T-44  London: Arms and Armour Press. R20 T-44  ISBN 0-85368-606-8. R20 T-44 
+* Zaloga, Steven J. R20 T-44 ; Hugh Johnson (2004). R20 T-44  T-54 and T-55 Main Battle Tanks 1944–2004. R20 T-44  Botley, Oxford: Osprey Publishing. R20 T-44  ISBN 1-84176-792-1. R20 T-44 
+* Zaloga, Steven J. R20 T-44 , Jim Kinnear, Andrey Aksenov &amp; Aleksandr Koshchavtsev (1997). R20 T-44  Soviet Tanks in Combat 1941-45: The T-28, T-34, T-34-85, and T-44 Medium Tanks, Hong Kong: Concord Publication. R20 T-44  ISBN 962-361-615-5. R20 T-44 
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://english. R20 T-44 battlefield. R20 T-44 ru/t-44. R20 T-44 html '''T-44 Medium Tank'''] at battlefield. R20 T-44 ru. R20 T-44 
+
+|Sidebar_GunAlt= 100mm LB-1
+|Sidebar_Camostop=16. R20 T-44 3
+|Sidebar_Camomove=12. R20 T-44 3
+|Sidebar_Camofire=3. R20 T-44 1
+|Sidebar_Passhard=0. R20 T-44 959
+|Sidebar_Passmed=1. R20 T-44 151
+|Sidebar_Passsoft=1. R20 T-44 918
+|Sidebar_DispTurret=0. R20 T-44 134
+|Sidebar_DispRecoil=3. R20 T-44 836
+|Sidebar_DispAccel=0. R20 T-44 192
+|Sidebar_DispTurning=0. R20 T-44 192
+}}

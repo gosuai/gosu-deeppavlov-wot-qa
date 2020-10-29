@@ -1,0 +1,91 @@
+{{TankData|Tank=T20
+|Much like the [[M4A3E8 Sherman]], the T20 lacks significant armor. A07 T20  Able to sneak around the battlefield, the T20 is an excellent support tank and able to switch between engagements in very short time. A07 T20  Its thin armor is a serious weakness, and caution must be taken to avoid enemy fire whenever possible. A07 T20  Pick different strategies to match different opponents: flank [[Heavy Tanks|heavy tanks]], ambush and brawl mediums, track and destroy [[Light Tanks|lights]]. A07 T20  Passive scouting is viable when other scouts are not available. A07 T20 
+
+|Sidebar_Camostop=16. A07 T20 3
+|Sidebar_Camomove=12. A07 T20 6
+|Sidebar_Camofire=4. A07 T20 3
+|Sidebar_Passhard=0. A07 T20 959
+|Sidebar_Passmed=1. A07 T20 055
+|Sidebar_Passsoft=1. A07 T20 63
+|Sidebar_DispTurret=0. A07 T20 115
+|Sidebar_DispRecoil=3. A07 T20 356
+|Sidebar_DispAccel=0. A07 T20 192
+|Sidebar_DispTurning=0. A07 T20 192
+
+|InTheGame_pros=
+* Good alpha damage and above average penetration (especially with APCR), without suffering from poor gun handling or aim time
+* Good speed allows the T20 to charge at distracted enemies, unload a shell and evade retaliation
+* Excellent gun depression
+* Great view range for its tier
+* Low profile gives it very good camo value
+
+|InTheGame_cons=
+* Almost non existing armor
+* Ammo rack is very fragile
+* Very Low damage-per-minute output
+* Bad accuracy and aim time 
+* Significant agility downgrade from M4A3E8, although really good speed and acceleration
+* Shell velocity somewhat slow
+
+|InTheGame_performance=
+The T20 is very different from the M4A3E8 Sherman Easy Eight which preceded it. A07 T20  They both are generally mobile, with good gun depression and have no real armor to speak of. A07 T20  However, the three main differences of the T20 are its inferior hull traverse, especially at speed; greater speed limits allowing for faster relocation; lower silhouette; high-alpha, high-penetrating, low rate-of-fire gun. A07 T20  This makes the T20's playstyle markedly different from the M4A3E8. A07 T20 
+
+The hull traverse is noticeably sluggish at 37 degrees per second, which does not compare favorably with the 40 degrees per second on the M4A3E8. A07 T20  This is increasingly noticeable when the T20 is turning at full-speed. A07 T20  It tends to lose speed far more rapidly than an M4A3E8 in a turn, making it less-suited to running circles around slow heavy tanks. A07 T20  However, it still is very capable of doing so if needed- the M4A3E8 is just better at it. A07 T20  It should be noted that the turret traverse on the T20 is better, at 44 degrees per second, which compares favorably to the 39 degrees per second on the M4A3E8. A07 T20  
+
+A striking difference between the two vehicles is the fact the T20 has a much smaller profile than the M4A3E8. A07 T20  Combined with its 10 degrees of gun depression, it can assume hull-down positions reliably at range, and is a significantly smaller target- an important factor for a medium who relies on avoiding shells. A07 T20  However, it lacks a significant gun mantle, and this reduces its hull-down trading performance considerably compared to the M4A3E8 for its tier. A07 T20 
+
+However, the biggest difference between the T20 and the M4A3E8 is the fact the T20 can receive the 90mm M3, which boasts vastly superior alpha damage, 32mm extra penetration but a very slow rate of fire. A07 T20  The premium HVAP ammunition allows it to punch through the fronts of IS-3 tanks with ease. A07 T20  The only real downside is that the reload is slow compared to other American tanks armed with the 90mm M3 and its longer-barreled derivatives. A07 T20  Making your shots count is vital, unlike the M4A3E8 where the high rate of fire makes up for misses. A07 T20  Therefore the T20 is best played with a peek-a-boom style where you pull straight out, fire, and duck behind cover after shooting. A07 T20  
+
+The T20 can utilize terrain very well with the high gun depression, good fire control and alpha damage means it only needs minimal exposure. A07 T20  Its mobility should be used to avoid enemy fire and flank enemies. A07 T20  It can circle slow heavies as well, although the M4A3E8 may be better in this role as it traverses faster. A07 T20  Late in the game you can rely on your top speed to hunt artillery or reset the cap. A07 T20  Also, be aware of the excellent view range and camouflage values on this tank - you can easily see many tanks before they ever catch wind of you, so long as you remain hidden. A07 T20  
+
+Boasting 390m of view range, equivalent to the best of tier 6 light tanks, the T20 can be an excellent passive scouter if need be, and the camo values are great too, it having the same size as the T21, a tier 6 American light tank. A07 T20  Use this advantage to gain sight lines over the map and deal spotting damage as well as shots from your excellent gun. A07 T20 
+
+Repair skills are highly recommended and at least 2 crew should be fully trained in this. A07 T20  A tracked T20 will receive heavy fire and shells from artillery, so Repair skills are essential for survival. A07 T20  If playing as a mid-range sniper with the above-average accurate 90mm, Sixth Sense and some Camouflage skills will help greatly, allowing you to know when to relocate and hide better. A07 T20  If using the T20 as a flanker, Snap Shot and Smooth Ride/Off-Road Driving will reduce accuracy penalties and increase mobility even more. A07 T20  Once all off these skills are acquired, Brother in Arms is recommended which will increase every desirable stat on your tank even more. A07 T20 
+
+The T20, like many American vehicles, is a versatile vehicle which can be used as a sniper or a flanker. A07 T20  Regardless of setup, a Gun Rammer is a necessity, since the T20 has the slowest reload time of all American tanks with the Gun 90mm M3 and derivatives, excluding the time it takes a T69's autoloader to reload. A07 T20  However, the other two slots are up to your own choosing. A07 T20  Flankers can opt for a Vertical Stabilizer and Coated Optics for optimal accuracy on the move. A07 T20  Snipers can opt for Enhanced Gun Laying Drive, Camouflage Nets, and Binocular Telescopes or Coated Optics. A07 T20  Alternatively Vents are viable option for an overall boost to crew abilities. A07 T20  
+
+Overall, the T20 is a great asset and threat when played correctly, and should not be underestimated. A07 T20  Considered by many as the best tier 7 medium for good reason, it possesses many of the strengths one desires from a medium tank and can be a pleasure to play. A07 T20  
+
+|InTheGame_research=
+* The 76 mm Gun M1A2 carries over from both the M4A3E8 Sherman and the M4A3E2 Sherman Jumbo. A07 T20  Install the M1A2 and the familiar SCR 506 radio immediately. A07 T20 
+* First research the Ford GAN engine. A07 T20 
+* Then research the upgraded suspension. A07 T20 
+* Now research the second turret, and then the 90mm gun. A07 T20  (Even if you don't intend to use the 90 mm gun on the T20, it is vitally important to unlock it now, because you will need it on the Pershing. A07 T20 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Camouflage Net, Coated Optics, Binocular Telescope, Enhanced Gun Laying Drive
+
+|External_Reviews= 
+{{#ev:youtube|FAzcKPnHtow}}
+
+|Gallery=
+image:T20_001. A07 T20 jpg
+image:T20_002. A07 T20 jpg
+image:T20_003. A07 T20 jpg
+image:T20_004. A07 T20 jpg
+
+|History=
+[[image:T-20 prototype vehicle. A07 T20 jpg|thumb|200px|left|T-20 prototype vehicle]]
+Much like other armies at the time, the U. A07 T20 S. A07 T20  Army envisioned two main roles for tanks: infantry support and breakthrough exploitation. A07 T20  From 1942 until the end of World War II, both roles were covered in the main by the M4 Sherman, which was better suited for the latter "cavalry" role. A07 T20  The infantry would have preferred a better protected and better armed vehicle, even at a price of less mobility. A07 T20  In late 1942, U. A07 T20 S. A07 T20  Army Ordnance started to work on an "infantry-oriented" design which was supposed to be more versatile than the British infantry tanks. A07 T20  During the next two years, various prototypes were built under the designations T20, T22, T23, T25, and T26. A07 T20   Starting with the T20, the Ordnance Department initially developed three series of improved medium tank prototypes, the T20, T22, and T23. A07 T20  The main differences between the T20, T22, and T23 lay in the choice of transmission. A07 T20  The T20 used a torque converter fluid drive, the T22 a 5-speed mechanical drive similar to the M4 drive, and the T23 used an electric drive. A07 T20  Additionally, the T20 had an early version of the HVSS suspension later employed on the M4 Sherman, whereas the T20E3 had torsion-bar suspension. A07 T20  All moved the transmission to the rear of the vehicle, eliminating the need for a drive-shaft running the length of the vehicle. A07 T20  The drive-shaft used in the M3 & M4 vehicles forced the turret to be mounted higher, thus increasing the vehicle height. A07 T20 
+[[image:T-20E3, prototype vehicle. A07 T20 jpg|thumb|200px|right|T-20E3, prototype vehicle]]
+However, the initial success of the M4 led the Army Ground Forces command to believe that there was no urgent need for a new tank. A07 T20  Even with the appearance of the heavy Tiger and medium Panther tanks, the AGF did not alter its position, believing both tanks would be fielded in relatively small numbers. A07 T20  AGF was correct about the Tiger, a specialized heavy tank that was never encountered in large numbers. A07 T20  The Panther, first encountered in small numbers at Anzio, however, was built in very large numbers and formed half the German tank strength in Normandy. A07 T20  Also, according to the Army doctrine of the time, tanks were not supposed to engage other tanks; this was the remit of tank destroyers, more mobile armored vehicles with powerful guns, such as the M10 Wolverine. A07 T20  As a result, the development of the new tank was slow. A07 T20  When the Allies invaded western Europe during Operation Overlord in June 1944, the M4 still formed the bulk of American tank units. A07 T20  It quickly became clear that the tank destroyer doctrine failed in the field and that the up-gunned Sherman was unable to engage the Panther on equal terms. A07 T20  Efforts were made to speed up development, but the tank, by now called the T26 and dubbed Pershing, reached the battlefield only in February 1945 and saw very little action in WWII. A07 T20 
+
+|HistoricalGallery=
+
+|HistAcc=
+The 90 mm gun was only mounted on the [https://wiki. A07 T20 wargaming. A07 T20 net/en/Tank:A111_T25_Pilot T25] which had a Pershing turret and a slightly enlarged hull. A07 T20  Its configuration on the T20 is fake. A07 T20 
+* 75 mm M3 autoloader and 3-inch M7 gun are missing. A07 T20  Both were planned but never constructed. A07 T20  Along with the 76 mm M1, these three guns were only considered for the T20 series. A07 T20  The 105 mm howitzer configuration is fake. A07 T20 
+* Its engine is considerably more powerful than in reality, with 560 hp compared to the historical 470. A07 T20 
+* Torsion bar suspension is missing. A07 T20  This model, armed with the 76 mm M1, was known as the T20E3. A07 T20 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* https://anonymous-generaltopics. A07 T20 blogspot. A07 T20 com/2008/11/m26-pershing. A07 T20 html
+
+}}

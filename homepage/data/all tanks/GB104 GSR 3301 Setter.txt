@@ -1,0 +1,67 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Excellent top gun penetration on all types of ammunition
+* Second best Power/weight ratio in class, only below [[Tank:F107_Hotchkiss_EBR|Hotchkiss EBR]]
+* Great gun depression
+* Small size and above average camo
+
+|InTheGame_cons= 
+
+* Worst in class DPM
+* Worst in class alpha
+* Second worst traverse speed in class
+* Second worst top speed in class
+* Very vulnerable to ramming
+* Sniping hampered by subpar accuracy and poor dispersion values
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Coated Optics, Improved Ventilation Class 1, Medium-Caliber Tank Gun Rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|S5l3-yD7hpE}}
+{{#ev:youtube|jxOp95TYwIQ}}
+
+|History=
+
+Prototype, around 17 total constructed. GB104 GSR 3301 Setter 
+
+My primary reference for these vehicles is this image. GB104 GSR 3301 Setter  This appears to be the CVR(T) prototype pictured here, which would be adopted into service under the much better known name "FV101 Scorpion". GB104 GSR 3301 Setter 
+
+The name comes from General Staff Requirement (GSR) 3301, which was issued in August 1964 for the Combat Vehicle Reconnaissance (CVR). GB104 GSR 3301 Setter  I have no idea where the moniker "Setter" comes from. GB104 GSR 3301 Setter 
+
+The CVR took two directions with the separate development of Tracked and Wheeled vehicles. GB104 GSR 3301 Setter  These were to be highly mobile and light enough to be both air-droppable and air-transportable; this allowed for a weight of around 8 tons. GB104 GSR 3301 Setter  Additionally, a maximum width of 2. GB104 GSR 3301 Setter 1m was specified. GB104 GSR 3301 Setter 
+
+The FVRDE (Fighting Vehicle Research and Development Establishment) had been working on a next-generation of vehicles for some time, having just finished the TV 15000 test vehicle, which they used as the basis of a new vehicle to meet this requirement. GB104 GSR 3301 Setter  This featured many innovations, such as aluminum armor and a hydropneumatic suspension. GB104 GSR 3301 Setter  The transmission was adapted from the one used in the Chieftain tank, and reportedly its designer had a nervous breakdown trying to figure out how he had made it work. GB104 GSR 3301 Setter  The mobility test rig was ready in 1966, with a contract for 17 prototypes being issued the following year. GB104 GSR 3301 Setter  Trials began in 1969, with the vehicle ultimately being accepted into service in 1970. GB104 GSR 3301 Setter 
+
+
+|HistoricalGallery= 
+File:Mobile Test Rig 01SP66 Front. GB104 GSR 3301 Setter jpg{{!}}Mobile Test Rig 01SP66 Front
+File:Mobile Test Rig 01SP66 Rear. GB104 GSR 3301 Setter jpg{{!}}Mobile Test Rig 01SP66 Rear
+
+|HistAcc=
+*Setter is prototype of FV101 Scorpion
+*6. GB104 GSR 3301 Setter pdr gun is fake configuration
+*75mm HV L/40 gun is incorrect configuration
+*Real gun was 76mm Lightweight gun L23A1
+*The vehicle is much slower in the game, 58 kph in game, 80 kph in real life
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://www. GB104 GSR 3301 Setter reddit. GB104 GSR 3301 Setter com/r/WorldofTanks/comments/c6sgpb/new_british_lts_expanding_to_a_full_line/
+}}

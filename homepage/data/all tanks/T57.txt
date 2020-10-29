@@ -1,0 +1,85 @@
+{{removedTank}}
+{{sidebar|Tank=T57|nation=usa|class=spg|tier=2}}
+[[File:AnnoT57. T57 png|left]]
+The '''T57''' is an [[USA|American]] tier II [[Self-Propelled Gun]]. T57  Possibly the most well-rounded artillery in tier II. T57  It has decent gun performance, mobility (though traverse is not very good), and top speed. T57  It's the only one to have good armor. T57  
+
+{{InTheGame
+|pros=
+* Gun range: 550 m
+* Highest engine power and top speed for its tier
+* Slight angling greatly increases the efficiency of its armor, showing one hard to hit plate only
+* Good view range
+* High ammo capacity
+* Superb signal range
+* Due to the sloping of its armor, its effective armor thickness is 45mm, very hard to penetrate for many vehicles of its tier. T57 
+* 41 mm thick LFP
+* Armor and weight allow ramming
+* 10 second reload allows it to bombard enemies quickly, even if you miss. T57 
+* Top engine carries on to many mid tier tanks
+
+|cons=
+* Lower gun elevation than other tier 2 artillery
+* Large dispersion when moving/turning
+* Less accurate and aims slower than most tier 2 artillery
+* Horrible traverse speed
+* Top radio needs more experience to research than the M7 Priest!
+* Barely any splash damage
+
+|performance=
+For its tier the T57 has some of the best armor around, a high rate of fire and it does good damage, though as with all tier 2 SPGs, the splash damage is negligible. T57  With most self-propelled guns, you have to worry about [[Light Tanks|light tanks]] getting close, but in the T57 they pose far less of a threat and can be dispatched in "tank destroyer" mode (direct fire) with the T57's cannon. T57  It's a great vehicle to begin learning about how to play artillery. T57 
+
+With a wide arc of fire, the T57 is good in large open maps, especially when the enemy has a lot of medium tanks. T57  The T57 has a weakness that's uncommon in other SPG's: its gun has a low vertical arc of fire. T57  As a result urban maps are more challenging than they usually are for artillery. T57  Also if the target is above you, then there isn't much you can do. T57  Despite this, the T57 still allows you to be a major contribution to your team. T57 
+
+With its significantly thicker armor than other SPGs of similar tier, the T57 can actually benefit from a Spall Liner. T57  This is primarily to protect against ramming by enemy scouts, but it will also offer some protection against splash damage from enemy artillery fire. T57  However, it's not enough to save you from a direct hit. T57  A Gun Laying Drive is very helpful, but not worth it at this low of a tier unless you are keeping it long after researching its successor. T57 
+
+Many players love the T57 so much they decide to keep it in their garage. T57 
+
+|research=
+* Nothing carries over from the [[T1 Cunningham]]. T57  However, engines and radios carry over from the Stuart line, as well as the first two tank destroyers. T57 
+* If you have engines or radios unlocked from other American tanks, install them right away. T57 
+* Your first priority for research should be upgrading the suspension. T57  Since you have no turret, you need to be able to turn quickly. T57 
+* Go from here. T57 
+
+|equipment=
+GLD, Spall Liner, Camouflage Net
+}}
+
+{{Gallery|content=
+image:T57a. T57 png{{!}}Front right
+image:T57b. T57 png{{!}}Front left
+image:T57c. T57 png{{!}}Rear left
+image:T57d. T57 png{{!}}Rear right
+}}
+
+{{History|info=
+The 3in Gun Motor Carriage T57 was based on the Light Tank M3A3 chassis with an M7 gun and a Continental engine. T57 [1]  The engine was moved to the middle of the hull and a 3-inch gun was mounted in a superstructure in the rear. T57  The project started in September 1942 and was abandoned in February 1943. T57 
+}}
+
+{{Gallery|title=<h3>Historical Gallery</h3>|style=collapsed|content=
+image:T57_001. T57 jpg{{!}}T57_001
+image:T57_002. T57 jpg{{!}}T57_002
+image:T57_003. T57 jpg{{!}}T57_003
+image:T57_004. T57 jpg{{!}}T57_004
+}}
+
+{{HistoryAcc|info=
+The actual T57 was a tank destroyer, not a self-propelled gun. T57 
+}}
+
+==References==
+# a b c Hunnicutt, R. T57  P. T57  - Stuart: A History of the American Light Tank, p 298-301. T57 
+
+==Sources==
+* Hunnicutt, R. T57  P. T57  - Stuart: A History of the American Light Tank, Presidio Press 1992, ISBN 0-89141-462-2. T57 
+
+{{#gw_nav_table:
+name = USA |
+Light Tanks#{{#gw_vehicle_list:wot: nation = usa | class = lightTank | order = level | style = text | divider = • }} |
+Medium Tanks#{{#gw_vehicle_list:wot: nation = usa | class = mediumTank | order = level | style = text | divider = • }} |
+Heavy Tanks#{{#gw_vehicle_list:wot: nation = usa | class = heavyTank | order = level | style = text | divider = • }} |
+Tank Destroyers#{{#gw_vehicle_list:wot: nation = usa | class = AT-SPG | order = level | style = text | divider = • }} |
+Self-Propelled Artillery#{{#gw_vehicle_list:wot: nation = usa | class = SPG | order = level | style = text | divider = • }}
+}}
+{{SPG}}
+[[Category:Self-Propelled_Guns]]
+[[Category:USA Tanks]]

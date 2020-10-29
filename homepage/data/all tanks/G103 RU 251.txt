@@ -1,0 +1,77 @@
+{{TankData|Tank=G103_RU_251 
+|The second true scout in the German line, (the first being the Luchs) the Ru 251 has the best mobility of all tier 9 scouts. G103 RU 251  Unfortunately, in patch 9. G103 RU 251 18, its maximum speed was decreased to 70 KM/H, but it's still quite fast. G103 RU 251  The gun is another strength of the tank, combining high pen, good accuracy on the move, and high DPM. G103 RU 251  The biggest con of the tank would be its large size and lack of armor, making bounces extremely rare. G103 RU 251  As a true scout, it can both passive and active spot very well with a great base view range of 410 m. G103 RU 251  You will want practice in lower tier lights before playing this though, as most guns you will be facing have the accuracy to hit you when going full speed. G103 RU 251 
+
+|Gallery=
+
+File:Spähpanzer Ru 251 scr 1. G103 RU 251 jpg
+File:Spähpanzer Ru 251 scr 2. G103 RU 251 jpg
+File:Spähpanzer Ru 251 scr 3. G103 RU 251 jpg
+
+
+|InTheGame_pros=
+* Even after the nerf in patch 9. G103 RU 251 18, its speed is still excellent for tier 9 lights at 70 KM/H. G103 RU 251 
+* The best gun for scouts in tier: good accuracy and handling, decent penetration, DPM and shell velocity
+* Very useful HE with high penetration at 102 mm. G103 RU 251 
+* The top gun and turret come stock with the tank, making the grind very easy. G103 RU 251 
+* Good at hull-down: great gun depression of -10 degrees tied with the T49, turret is somewhat small too. G103 RU 251 
+
+|InTheGame_cons=
+* Very thin armor; any gun with a caliber of over 76 mm will triple overmatch your armor (a guaranteed penetration). G103 RU 251 
+* Larger profile than most other lights, despite the large HP pool compensates. G103 RU 251 
+* Gun depression only reaches its full -10 degrees when aiming to the sides. G103 RU 251 
+* Not a lot of shells carried for its rate of fire. G103 RU 251 
+* Unique crew setup in it's tech branch (has dedicated loader). G103 RU 251 
+
+|InTheGame_performance=
+More or less a lighter version of Leopard Prototyp A that is designed for recon, keep moving with your amazing speed and maneuver when you can, but make sure not to turn around too much as this ''will'' slow you down a lot. G103 RU 251  Avoid crashing into other tanks when at high speed as you'll lose a lot of health due to your light weight and thin armor. G103 RU 251  Use your DPM and fire APCR or HEAT at enemies whenever you're not scouting. G103 RU 251  If you're spotted, never stand still, as any shot that hits you will penetrate, or at best HE not penetrate for full damage. G103 RU 251 
+Play it like a standard issue light tank with few - if any - downsides, but remember that it offers a lot more mobility and gun depression than most other lights, especially at this tier. G103 RU 251 
+
+
+
+
+
+This tank has both the top gun and turret right out the box, making this an easier grind than most tanks. G103 RU 251  
+
+
+
+|InTheGame_research=
+Tracks first, then the engine, last the radio. G103 RU 251 
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 1, Coated Optics, Improved Ventilation Class 1
+
+|External_Reviews= 
+{{#ev:youtube|gl5iExI0jOk}}
+
+|History=
+The Spähpanzer Kette was designed to replace the Germany Army’s old American M41 light tanks in the reconnaissance role. G103 RU 251  Its development began in 1960 and a prototype was completed in 1963. G103 RU 251  It mounted a Rheinmetall turret armed with the 90mm Bordkanone as used in the Jagdpanzer Kanone. G103 RU 251 
+
+By the middle of the 1960s the Leopard tank was in production and it was decided that reconnaissance units did not need their own specialist vehicles. G103 RU 251  The development of the Spähpanzer Kette was dropped without any further vehicles being built and its role was given over to the Leopard. G103 RU 251  With hindsight, this may have been a hasty move as the wheeled Spähpanzer Luchs was eventually developed to take back this role from the Leopard. G103 RU 251  
+
+The materials concerning this tank are actually still considered confidential by the Bundeswehr. G103 RU 251 
+
+|HistoricalGallery=
+RU251 1. G103 RU 251 jpeg
+RU251 2. G103 RU 251 jpeg
+RU251 3. G103 RU 251 jpeg
+
+|Ref_references=
+* https://preservedtanks. G103 RU 251 com/Types. G103 RU 251 aspx?TypeCategoryId=370&Select=1
+* https://ftr. G103 RU 251 wot-news. G103 RU 251 com/2014/07/28/ru251-historical-characteristics/
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=
+|Sidebar_Camomove=
+|Sidebar_Camofire=
+|Sidebar_Passhard=
+|Sidebar_Passmed=
+|Sidebar_Passsoft=
+|Sidebar_DispTurret=
+|Sidebar_DispRecoil=
+|Sidebar_DispAccel=
+|Sidebar_DispTurning=
+}}

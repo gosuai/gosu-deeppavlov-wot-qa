@@ -1,0 +1,159 @@
+{{TankData|Tank=IS
+|It is the first of the Iosef Stalin class tanks available to the player. R01 IS  The IS represents both the IS-1 and the early model IS-2. R01 IS  The IS can be researched from the [[Tank:R106 KV85|KV-85]] or from the [[KV-13]], which is sometimes is used as an easy grind bridge. R01 IS 
+
+The stock tank is the IS-1, equipped with the 85mm gun also available on the [[Tank:R106_KV85|KV-85]]. R01 IS  The IS is a continuation of the KV-85 and will thus feel very similar in terms of agility and speed. R01 IS  When equipped with a 122mm gun, it technically becomes an IS-2, which will feel much more potent when engaging other heavies. R01 IS  Like most Soviet heavy tanks, the IS fares much better engaging enemies at close range where the IS can hug cover and back off when it is reloading. R01 IS  Thus, the IS is better for maps such as Himmelsdorf where there are mostly close-quarters fighting and no big open areas. R01 IS 
+
+The frontal armor on the IS is adequate to bounce lower-tiered vehicles somewhat consistently and can pull off surprising bounces from higher tiered hostiles. R01 IS  Play this tank intelligently, choose the correct moments to fire at enemies, retreat to reload, and then unleash your gun upon hostiles once more. R01 IS  The IS is the exact definition of an adequately armored heavy tank that trades extreme protection (at least in World of Tanks) for mobility and firepower. R01 IS 
+
+|Gallery=
+image:IS-a. R01 IS jpg{{!}}Front right
+image:IS-b. R01 IS jpg{{!}}Front left
+image:IS-d. R01 IS jpg{{!}}Rear right
+image:IS-c. R01 IS jpg{{!}}Rear left
+
+|InTheGame_pros=
+* The 122mm D-25T is an excellent gun for the vehicle's purpose, with 390 alpha damage and a very fast (for the caliber) reload
+* Very mobile vehicle for a heavy tank, especially with the upgraded engine and it can flank enemies if need be
+* Side armor of the tank is quite good at allowing side-scraping when dealing with lower-tier and equal tier vehicles
+* Tricky (to the enemy) armor package, the IS can wiggle its hull to cause first fire or returning enemy fire to bounce
+* The IS is an effective support tank in higher tier matches, as long as it can land shots and stay out of danger
+
+
+|InTheGame_cons=
+* Unfortunately the gun is quite terrible in all other regards besides DPM and alpha damage
+* The D-2 guns on the IS have some of the worst penetration values for tier VII heavy tanks and MUST be aimed carefully
+* The IS has somewhat of a terrible stock grind, but it can handle itself against lower tiers even when stock
+* The turret is rather horrendous overall with horribly formatted armor zones that are thin and poorly angled
+* The IS has a rather prevalent front cheek plate that can completely ruin the side-scraping ability of the vehicle
+
+|InTheGame_performance=
+In comparison with the KV-3, the design philosophy for the IS shifted away from the same structure of armored protection. R01 IS  As a result, the IS is one of the more maneuverable heavy tanks. R01 IS  While not quite fast enough to flank enemy tanks on a regular basis, this tank is terrific for "peek-a-boom" maneuvers from behind cover. R01 IS 
+
+On paper, the stats for the second 122mm gun do not appear much better than the first 122mm, but the increased fire rate often makes the difference between life and death. R01 IS  Against higher tier heavy tanks and tank destroyers, the 122mm guns threat factors are greatly reduced, if blatantly ignored by tanks like Object 705, E 75, VK 45. R01 IS 02 (P) Ausf. R01 IS  B and Type 4. R01 IS  In these situations, switch to a target with weaker armor if possible. R01 IS  Many low tier tanks fear the IS due to its capability to one-shot some lower tier tanks. R01 IS  It has one of the highest "Fear Factors" among the tier VII heavies (although challenged in that regard by the O-Ni and T29 for sheer intimidation). R01 IS 
+
+For a more medium tank play-style, use the 100mm "1D10T" D10T gun. R01 IS  It does do less alpha damage than the D-2 series guns, but it has a good rate of fire, better accuracy and better aim time, making a great scout-killer gun that can also engage at a longer range than the D-2 guns. R01 IS  Be aware that the T-44 tier VIII medium tank uses a similar gun as its top gun. R01 IS  Also, the credit cost per round is only a quarter that of the D-2 guns, making it more profitable to use, which in turn makes grinding more enjoyable. R01 IS  It is recommended for the grind towards the IS-3 for the more trigger-happy, as the far lower cost per round will allow you to retain credits more easily. R01 IS  The epitome of IS game-play is based on the D-2's alpha, allowing you to play "peek-a-boom" and survive longer. R01 IS  However, its poor accuracy may render the tank effectively useless at long range, with insufficient penetration to deal with enemy armor. R01 IS  It is unable to hit weak spots without exposing the tank for a dangerously long time, whereas the 100 mm gun can be used to target weak spots even when taking snapshots. R01 IS 
+
+However, for those who stick to the course of the 122mm guns, the higher tier of the two, especially with a 100% crew and tank gun rammer, can easily be seen as a pre-9. R01 IS 4 KV-1S, and KV-85 skilled operator's heaven. R01 IS  The gun takes about 10. R01 IS 1-3 seconds to reload with these modifiers in place. R01 IS  Very few heavy tanks with similar guns will be able to fire as quickly as you can, save for the Tiger specifically. R01 IS  Despite the below-average penetration, the IS, with the D-25T mounted, can still lay down some serious firepower. R01 IS  The IS has drastically improved gun depression compared to the KV-85. R01 IS  Because of the decent reload speed, it is also viable to switch between rounds without endangering yourself nearly as bad as it was when doing the same with the 122mm on the KV-85. R01 IS 
+
+Yet another thing to note is that the IS does not lose any of the agility from the KV-85. R01 IS  In fact, with the top engine, the IS enjoys an additional 100 horsepower, which improves acceleration and the ability to climb inclines. R01 IS  The IS can also turn its hull 5 degrees faster than the KV-85, allowing it to react quickly to emerging threats. R01 IS  The only major flaw with the IS's 122mm guns is the horrible accuracy and the relatively inflexible nature. R01 IS 
+
+When in tier VII matches, you can subjugate the opposing team's tanks with your punishing blows and rapid-fire, especially against those that ignore the threat you pose. R01 IS  Keep in cover if there are SPGs present. R01 IS  Do not expose your tank and try to brush off the incoming fire from hostiles using buildings or terrain, especially at higher tiers. R01 IS  Be careful of more agile mediums and light tanks, you may be fast, but they are faster, and most can put several shots into for each you put into them. R01 IS  The Peek-a-Boom tactic makes the IS in tier VII a very formidable opponent, even against tanks like the T29. R01 IS  The Tiger I will challenge your DPM but will stand no chance against your very heaving hitting D-25T as the tier VII German's armor profile is extremely ineffective against you. R01 IS 
+
+Tier VIII is deadly, although you are still relatively capable and able to compete against tier VIII tanks. R01 IS  Tier VIII is where the devious Waffentrager Borsig, imposing T34, frustratingly bouncy IS-6, and other deadly tanks lurk. R01 IS  If you are stuck in the open with any such tanks present, you will be quickly dispatched. R01 IS  Yet on the other side of the coin, the IS still has one ace up its sleeve: its agility. R01 IS  With the correct playstyle, the IS can abuse hardcover and retain hitpoints for dire situations. R01 IS  Tier IX will eat the IS alive (your armor, gun, and mobility are sometimes useless due to the overwhelming odds and armor you'll encounter) and the tank should be used exclusively as a support tank that can flank the much more dangerous tanks when they are preoccupied with your allies. R01 IS  Unfortunately, even premium ammunition contained in the vehicle (APCR; 217mms) will be barely useable for the front of higher tiered heavies, so spare use is required. R01 IS 
+
+Overall the IS can be a fun and interesting tank to play, especially if you understand where enemy tanks are weakest and when to pounce on opportunities when they arise. R01 IS 
+
+|InTheGame_research=
+* Unfortunately the only usable module that carries over from the KV-85 is the 122 mm D-2-5T gun, and it is not immediately usable, so you have to fight stock for a while (unless you have unlocked the 85 mm D5T-85BM or 100 mm D10T via the medium line). R01 IS  The engine may also be unlocked from the ISU-152 TD line. R01 IS 
+* Your first step should be to research the 2nd turret (if you have not done so already) in order to mount the 122 mm D-2-5T (the 1st 122mm). R01 IS  Alternatively, you could research the 100 mm D10T. R01 IS 
+* Next the tracks are good for the increased traverse speed and because the engine costs so much more, it also helps to slightly improve overall agility. R01 IS 
+* Go from there. R01 IS 
+* Note the V-2-54IS engine, the 12RT radio, and the 122 mm D-25T gun are also upgrades on the IS-3, the more you research here, the better later, as many modules will carry over. R01 IS 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox
+
+|History=
+The IS ("Iosef Stalin"), with its 122mm gun, was an unpleasant surprise for the Germans. R01 IS  Produced from October 1943, through June 1945, with a total of 3,483 IS-2 and 107 IS-1. R01 IS 
+
+
+== Development and Preliminary Design ==
+
+At the beginning of Operation Barbarossa, the [[KV]] was the Soviet's Heavy tank. R01 IS  German tanks of the time had difficulties engaging it but after the [[Pz. R01 IS Kpfw. R01 IS  VI Tiger|Tiger]] appeared, the heavy KV proved inadequate. R01 IS  The tank was heavy, but poorly armed with the same gun as the much more mobile [[T-34]] medium tank. R01 IS  Thus, a replacement was ordered. R01 IS  N. R01 IS V. R01 IS  Tseits, recently released from a GULag, was appointed head designer of the new project. R01 IS 
+
+The project first led to the [[KV-13]] universal tank, which was supposed to have medium weight and heavy protection, with both turret and hull protected by cast armor. R01 IS  By sacrificing internal space, the consumption of materials was minimized for given armor protection, following instructions of the State Defense Committee's decree of 1942. R01 IS  The KV-13 was equipped with a 600hp engine, capable of reaching speeds up to 55 km/h, and used parts from both the T-34 and the KV. R01 IS  However, acceleration was poor and the tank suffered severe reliability problems. R01 IS  Despite improvements, the Soviet military lost interest in the project. R01 IS 
+
+Despite this, the Experimental Tank Factory continued research and testing, led by N. R01 IS F. R01 IS  Shamshuring after the death of Tseits. R01 IS  The design was now more based on the KV-1S. R01 IS  After the appearance of the German heavy Tiger tanks, the speed of development was increased and orders were placed for two Iosef Stalin (IS) prototypes, based on the design of the KV-13. R01 IS  One of the prototypes, the IS-1 (factory designation: Object No. R01 IS 233), was armed with a 76. R01 IS 2mm gun, the other, the IS-2 (factory designation: Object No. R01 IS 234) was armed with the 122mm U-11 howitzer. R01 IS  Both tanks had better armor protection, higher speed and equal or better armament than the KV-1S. R01 IS  Problems with the engine and transmission were solved while factories prepared for the production of the new vehicles. R01 IS 
+
+After the first data about the German Tiger tank became available, it turned out that the 85mm AA-gun 52-K model 1939 was the most effective against its armor. R01 IS  It could penetrate the 100mm frontal armor from 1000m. R01 IS  New 85mm guns based on the 52-K model were developed, the D-5T gun ultimately being the chosen gun for further development. R01 IS  The IS-1 was ordered into production, together with an order for the development of an IS with a 122mm gun, based on the 122mm Field Cannon A-19 Model 1931, which proved to be the most effective anti-tank gun in the battle of Kursk. R01 IS  During tests, the 122mm was able to throw a Panther several meters back with a penetrating shot in its side armor. R01 IS  Other tests were done with a 100mm gun, but this gun was not available in large numbers and ultimately scrapped. R01 IS 
+
+The first IS-1s (85mm) were produced in October 1943, the first IS-2s (122mm) in December. R01 IS  Production of the IS-1 was quickly stopped in January 1944, in favor of the IS-2. R01 IS  Only 107 IS-1s would be produced. R01 IS 
+
+In combat, the 122mm with regular sharp-nosed APHE ammunition did not prove to be very effective against Tigers (penetration from 1200 meters) and the sloped Panthers (penetration from 600-700 meters). R01 IS  Soviet designers noticed that the blunt-nosed HE ammunition was much more effective against sloped armor. R01 IS  It caused cracking of the armor and could tear off the whole front armor plate at the seam weld. R01 IS  However, in 1944 the problems of the APHE round also disappeared as the German tanks decreased in armor quality due to lack of materials and the Soviet ammunition improved in quality. R01 IS  The IS-2 also improved in quality: from 1944 onwards, the front armor was tempered to a very high hardness, leading to better protection, but higher production costs. R01 IS 
+
+Despite this, the armor protection of the IS-2 was still lower than expected: a Soviet 76. R01 IS 2 mm Gun ZiS-3 could penetrate it from all sides at a distance of 600-700 meters. R01 IS  Not all shots penetrated, but the impacts also caused armor splintering and fragmentation inside the turret. R01 IS  As a result, many many ISs were lost during the winter and spring of 1944. R01 IS  Further modifications meant the German 88mm guns could not penetrate its front armor at point-blank range from an angle of 30 degrees. R01 IS  The turret could not be further modified. R01 IS  The 122mm already caused major imbalances (as the turret was designed for the 85mm gun) and increased armor would result in even more problems. R01 IS  Some smaller improvements to the turret led to an AA-gun and an improved periscope. R01 IS 
+
+
+== Production ==
+
+Soviet tank doctrine focused on only two tanks, the Medium T-34 tank and successors, and the Heavy IS-2 tank. R01 IS  In total 3,483 IS-2s and 107 IS-1s were produced. R01 IS  Afterward, production shifted to its successors, the [[IS-3]] and [[IS-4]]. R01 IS 
+
+
+== Combat Deployment ==
+
+The IS-2 tank was designed as a breakthrough tank and proved very effective during the course of the war. R01 IS  The separate breakthrough regiments, previously equipped with KV tanks, could field the new tanks from February 1944 onwards, receiving the "Guards" status in the process. R01 IS  Each regiment of 375 men in total consisted of 21 tanks (4 companies of 5 tanks and a commander tank), an SMG infantry company (riding on the tank), an anti-aircraft battery, a sapper platoon, a medical platoon, and a signal platoon. R01 IS 
+
+The tank crew was, due to formations of new regiments, partly inexperienced. R01 IS  Each tank had four crew members: two lieutenants (the tank commander and the driver) and two sergeants (the loader and the gunner). R01 IS  The big disadvantage of this setup was that the tank commander had a secondary task: operating the radio. R01 IS  This meant that he could not fully concentrate on the battlefield. R01 IS 
+
+The new tanks first saw action on February 15, 1944, during the Korsun-Shevcheskovsk Operation. R01 IS  5 IS-1 tanks were ordered to help the 109th tank brigade in the assault on Lisyanka village in Ukraine. R01 IS  When the Soviet tanks approached within 600-700 meters, the Germans opened fire and knocked out all Soviet tanks. R01 IS  However, the village was captured the next day. R01 IS 
+
+The first IS versus Tiger battle occurred on the first of March 1944. R01 IS  1 IS-1 was destroyed and two were crippled after the German Tigers opened fire at a distance of 1500 to 1800 meters. R01 IS  Two Tiger tanks were damaged. R01 IS  More IS-1s were damaged by artillery and field guns and as a result, the Soviet military demanded higher armor quality and the cancellation of the 85mm gun. R01 IS 
+
+The IS-2 was more successful. R01 IS  The 72nd regiment took part in fighting near Oberlin between April 20 and May 10 and destroyed 41 Tiger I and Ferdinand tanks (it should be noted, however, that all German tank destroyers were labeled Ferdinand by the Soviets, most likely the Ferdinands were Stug IIIs in reality). R01 IS  Only 8 IS-2s were lost in the battle. R01 IS 
+
+The [[Pz. R01 IS Kpfw. R01 IS  Tiger II|Tiger II]] and the IS-2 only met on a few occasions. R01 IS  Generally, these encounters resulted in high losses on both sides. R01 IS  The first and most successful battle happened between a single IS-2 and 7 King Tigers. R01 IS  The IS-2 ambushed the Tiger IIs and destroyed three of them. R01 IS  The other four retreated. R01 IS  
+
+However, the main task of the IS-2 was not tank versus tank combat. R01 IS  The tank was especially potent against soft targets with its 25 kg HE shells. R01 IS  The appearance of the IS-2 meant the Soviets were now able to break through enemy lines defended by bunkers and AT-guns. R01 IS  At the very end of the war, the IS-2 was successful as a breakthrough tank in the Battle of Berlin, as it was able to destroy buildings with a single shot. R01 IS  At that point in the war, the main enemy of the IS-2 was not the Panther or King Tiger, but infantry with Panzerschrecks or Panzerfausts. R01 IS  70% of the IS-2s destroyed in that battle were destroyed with these kinds of weapons. R01 IS 
+
+
+== IS-2 After The War ==
+
+In May 1945, the production of the IS-2 stopped in favor of the new IS-3. R01 IS  However, the IS-2 was used until the 1970s by the Soviet, Chinese, and North Korean army. R01 IS  The last time the IS-2 was used was during the training in 1982, but the vehicle was only definitely scrapped in the 1990s. R01 IS 
+ 
+
+== Conclusion ==
+
+
+During the later stages of the war, the IS series was a primary Soviet tank, mainly used to break through enemy lines. R01 IS  It was the first Soviet tank that was able to face a Tiger or King Tiger one on one. R01 IS  In that role, it did not only have tactical value but also acted as the model for the turn of the war. R01 IS  Soviet morale received a boost after the employment of these tanks. R01 IS 
+
+The IS-2 was on paper a Heavy tank, but it was more mobile and agile than its predecessor, the KV. R01 IS  Internal space was sacrificed for performance and cost-saving. R01 IS 
+
+The IS-2 was the main tank in the final battle on the Soviet front, the Battle of Berlin. R01 IS  It proved to be an excellent fighter in the streets of the German capital. R01 IS 
+
+<div id="verticalTable">
+<table>
+<tr><th><p>Model</p></th><th><p>Number Built</p></th><th><p>Armament in turret</p></th><th><p>3. R01 IS 7cm ammunition</p></th><th><p>M. R01 IS G. R01 IS  ammunition</p></th><th><p>Armor (carbon steel)</p></th><th><p>Crew</p></th><th><p>Engine</p></th><th><p>Horsepower</p></th><th><p>Power to weight ratio</p></th><th><p>Maximum speed (km/h)</p></th><th><p>Fuel capacity</p></th><th><p>Range (km)</p></th><th><p>Transmission</p></th><th><p>Steering</p></th><th><p>Length (m)</p></th><th><p>Width (m)</p></th><th><p>Height (m)</p></th><th><p>Wheelbase (m)</p></th><th><p>Total Weight (metric tons)</p></th><th><p>Roadwheels per side</p></th><th><p>Pairing</p></th><th><p>Number of support points</p></th><th><p>Roadwheel diameter</p></th><th><p>Roadwheel width</p></th><th><p>Track Type</p></th><th><p>Track Width (mm)</p></th><th><p>Track Pitch (mm)</p></th><th><p>Track Links per side</p></th><th><p>Track length (m)</p></th><th><p>Track contact length (m)</p></th><th><p>Support length (m)</p></th><th><p>Ground Pressure (kg/cm2)</p></th><th><p>Ground Clearance (mm)</p></th></tr>
+
+<tr><td>IS-1</td><td>107</td><td>85mm D-5T</td><td>59</td><td>2,520</td><td>60-160mm</td><td>4</td><td>W-2-IS V-12</td><td>600</td><td>14. R01 IS 1 hp/t</td><td>37</td><td>800</td><td>150</td><td>8-speed</td><td>Clutch brake</td><td>8. R01 IS 56</td><td>3. R01 IS 07</td><td>2. R01 IS 73</td><td>-</td><td>44</td><td>6</td><td>1-2-2-1</td><td>3</td><td>-</td><td>-</td><td>Steel</td><td>650</td><td>159</td><td>87-90</td><td>-</td><td>4. R01 IS 3</td><td>-</td><td>0. R01 IS 78</td><td>460</td></tr>
+
+<tr><td>IS-2</td><td>3,483</td><td>122mm D-25T</td><td>28</td><td>2,520</td><td>60-160mm</td><td>4</td><td>W-2-IS V-12</td><td>600</td><td>11. R01 IS 3 hp/t</td><td>37</td><td>800</td><td>150</td><td>8-speed</td><td>Clutch brake</td><td>8. R01 IS 83</td><td>3. R01 IS 07</td><td>2. R01 IS 73</td><td>-</td><td>46</td><td>6</td><td>1-2-2-1</td><td>3</td><td>-</td><td>-</td><td>Steel</td><td>650</td><td>159</td><td>87-90</td><td>-</td><td>4. R01 IS 3</td><td>-</td><td>0. R01 IS 8</td><td>460</td></tr>
+</table></div>
+
+|HistoricalGallery=
+image:IS-2 1. R01 IS jpg{{!}}IS-1 with 85mm gun
+image:IS2 2. R01 IS jpg{{!}}IS-2 with 122mm gun
+image:IS. R01 IS jpg{{!}}IS-2 with infantry
+image:IS-2 Berlin. R01 IS jpg{{!}}IS-2 in Berlin
+image:IS-2M_at_Hradec_Kralove_in_Bohemia,_Czechoslovakia,_May_1945. R01 IS png{{!}}IS-2M at Hradec Kralove in Bohemia, Czechoslovakia, May 1945
+image:IS2_Tank_in_Berlin,_April_1945. R01 IS png{{!}}IS2 Tank in Berlin, April 1945. R01 IS png{{!}}
+image:IS2_Tank_at_Aberdeen_tank_Museum. R01 IS png{{!}}IS2 Tank at Aberdeen tank Museum
+image:IS-2_Marching_in_East_Germany. R01 IS png{{!}}IS-2 Marching in East Germany
+image:IS2_in_the_battle_of_Berlin. R01 IS png{{!}}IS2 in the battle of Berlin
+image:IS-2_Heavy_Tank. R01 IS png{{!}}IS-2 Heavy Tank
+image:IS-2_Front_view. R01 IS png{{!}}IS-2 Front view
+image:IS_tank_with_85_mm_gun,_rear_view. R01 IS png{{!}}IS tank with 85 mm gun, rear view
+
+|HistAcc=
+Like many Soviet tanks in-game, the IS has increased gun depression. R01 IS  In reality, it had -3° with the 100mm and 122mm guns and -5° with the 85mm. R01 IS 
+* The 85 mm D5T-85BM gun was only fitted to the [[SU-85]]. R01 IS  Its configuration on the IS is fake. R01 IS 
+* The IS' engine is considerably more powerful than in reality. R01 IS  with 700 hp compared to the historical 600. R01 IS 
+* Historical V-2 IS liquid-cooled V-12 diesel engine with 520 hp is missing. R01 IS 
+* Same tank as the Chinese [[IS-2]], yet the engine power values are inconsistent. R01 IS 
+
+|Ref_references=
+Crow, Duncan. R01 IS  "Tanks of World War II. R01 IS " Bookthrift Co, 1979. R01 IS  Print. R01 IS 
+
+|Ref_sources=
+
+
+|Ref_links=
+[https://www. R01 IS wwiivehicles. R01 IS com/ussr/tanks-heavy/is-1. R01 IS asp wwiivehicles. R01 IS com IS-1]
+
+[https://www. R01 IS wwiivehicles. R01 IS com/ussr/tanks-heavy/is-1. R01 IS asp wwiivehicles. R01 IS com IS-2]
+
+[https://en. R01 IS wikipedia. R01 IS org/wiki/Iosif_Stalin_tank wikipedia. R01 IS com]
+
+[https://www. R01 IS battlefield. R01 IS ru/en/tank-development/28-heavy-tanks/32-js1-js2. R01 IS html battlefield. R01 IS ru]
+}}
+
+[[Category:USSR Tanks]]

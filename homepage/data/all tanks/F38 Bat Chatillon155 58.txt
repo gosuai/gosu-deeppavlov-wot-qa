@@ -1,0 +1,82 @@
+{{TankData|Tank=Bat_Chatillon155_58
+| Like the [[Bat. F38 Bat Chatillon155 58 -Châtillon 155 55]] the Bat. F38 Bat Chatillon155 58 -Châtillon 155 58's gun has a 360° traverse making the vehicle very flexible in terms of positioning, as well as very quick to aim when changing its focus of fire. F38 Bat Chatillon155 58  It has a 3 round drum auto-loader, giving it an advantage in rapid strikes on an exposed target before it retreats to cover. F38 Bat Chatillon155 58  As with most French tanks, it is quite mobile, making counter battering this vehicle nearly impossible if played carefully. F38 Bat Chatillon155 58  To balance these abilities, its main gun is only a 155mm howitzer, which does very poor damage compared to the [[T92]], [[Object 261]], [[Conqueror Gun Carriage]] or [[G. F38 Bat Chatillon155 58 W. F38 Bat Chatillon155 58  E 100]]. F38 Bat Chatillon155 58  While it can't dish out as much damage per shot as the other Tier X artillery, it can defend itself well due to its fully traversable gun and good mobility. F38 Bat Chatillon155 58  Be aware that the magazine reload time is extraordinarily long and the reload inside the magazine is longer then most tanks need to reload their single shot even when stunned. F38 Bat Chatillon155 58  
+
+|Gallery=
+image:Ingame_Batchatarty-1. F38 Bat Chatillon155 58 jpg{{!}}Bat Chatillon 155, Siegfried line map
+image:Bat_Chatillon_155-a. F38 Bat Chatillon155 58 jpg{{!}}Bat Chatillon 155, map Arctic Region
+image:BC155-1. F38 Bat Chatillon155 58 jpg{{!}}Bat Chatillon 155 58, map Mountain pass
+
+
+|InTheGame_pros=
+- Gun range : 1400 m
+
+- Very high mobility, as it's based on Bat. F38 Bat Chatillon155 58 -Châtillon 25 t chassis
+
+- Gun has 360° traverse
+
+- It is the ''Only'' SPG in the Game that features an Autoloader. F38 Bat Chatillon155 58 
+
+- Relatively good accuracy and aim time for an artillery piece
+
+|InTheGame_cons=
+- Very long magazine reload time (50 seconds with a 100% crew and Consumables, the longest reload in the game)
+
+- Lowest damage per shell of the Tier 10 artillery, along with the lowest splash. F38 Bat Chatillon155 58  Barely does any damage against spall-lined superheavies. F38 Bat Chatillon155 58 
+
+- Lowest penetration of the Tier 10 artillery, even Leopard 1 has a chance of taking a direct hit without getting full-penetrated. F38 Bat Chatillon155 58 
+
+- Tricky stun duration: insufficient against heavily armored vehicles, also wasted upon continual supression unless firing at certain interval. F38 Bat Chatillon155 58 
+
+- Gun only traverses at 10 degrees/s, barely an autoloader (20 seconds to fire 3 shells, as opposed to 18 previously to fire 4). F38 Bat Chatillon155 58 
+
+- Low vertical shell arc due to its high range (Tied with the T92 for second worst artillery arc at tier 10)
+
+- Inadequate 10 secs intra-clip reload for close-quarters, with stunned crew many lights and meds still reload faster than you do. F38 Bat Chatillon155 58 
+
+- Horribly low view range of only 280 meters, gets easily outspotted (just like all other non-leFH18B2 SPGs) 
+
+|InTheGame_performance=
+
+The 3 rounds provided by the auto-loader coupled with speed, flexibility, and an accurate gun mounted on a turret make this SPG a blast to play. F38 Bat Chatillon155 58   While the 155 58 may not the hardest hitting of the tier 10 artillery pieces, it is certainly the most flexible and most maneuverable. F38 Bat Chatillon155 58  A good tactic to utilize when playing this SPG is to turn your hull perpendicular to your current firing arc. F38 Bat Chatillon155 58  This allows you to move side to side in relation to your line of fire, making it substantially more difficult to be hit by counter-battery fire, though at the expense of your clipping speed. F38 Bat Chatillon155 58 
+
+As a result of this SPG having a 360° traversable gun, it is also possible to simply play like a TD and provide direct fire support for your allies, though in many cases (especially in higher tier battles which this SPG will most certainly be a part of) this isn't always the brightest idea. F38 Bat Chatillon155 58   Many tanks can easily two shot you, and unless you have a full magazine of rounds, you're toast. F38 Bat Chatillon155 58   The armor on this SPG is very thin even by SPG standards. F38 Bat Chatillon155 58   
+
+The reload on the autoloader for this SPG really is quite horrid, it takes 50 seconds to load a magazine if running a full BiA + Food crew. F38 Bat Chatillon155 58   That said, once you're loaded, you can really keep some heads down. F38 Bat Chatillon155 58   The speed at which you can fire is very bad, 20 seconds to unload a potential of at most around 2700 damage if all 3 shots penetrate with high rolls, which allows you to put some substantial hurt on the enemy. F38 Bat Chatillon155 58   However, it has nearly no splash, so firing right at the reload in the clip is inadvisable, as your shells will most likely miss. F38 Bat Chatillon155 58   If the enemy attempts to counter-battery you, you are easily spotted if you remain in one location to fire your clip at maximum speed, but moving after each shot pushes your time to fully aim above 10 seconds, greatly reducing your effective damage output. F38 Bat Chatillon155 58   This SPG does not see much clan wars use except in very specific circumstances where its extreme mobility is required due to its 50 second clip reload, which gives your enemy plenty of time to determine the outcome of the game while you have no influence on it. F38 Bat Chatillon155 58  
+|InTheGame_research=
+
+
+
+|InTheGame_equipment=GLD, Binocular Telescope, Coated Optics, Camouflage Net
+
+
+|History=
+[[image:Bat chatillon 155 mm. F38 Bat Chatillon155 58 jpg|thumb|200px|left|Batignolles Chatillon 155mm]]
+Following Lorraine’s project of a self propelled howitzer, Batignolles Chatillon started work on a self propelled artillery vehicle with a fully rotatable turret. F38 Bat Chatillon155 58  The main feature was to be a drum based automatic loading system installed in the turret. F38 Bat Chatillon155 58  In late 1958 all development was cancelled and the project was abandoned with only one prototype built. F38 Bat Chatillon155 58 
+
+
+|HistoricalGallery=
+image:Bat chatillon 155 mm. F38 Bat Chatillon155 58 jpg
+image:Batignolles_Chatillon155_mm_side_view. F38 Bat Chatillon155 58 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. F38 Bat Chatillon155 58 chars-francais. F38 Bat Chatillon155 58 net/2015/index. F38 Bat Chatillon155 58 php/liste-chronologique/de-1945-a-1990?task=view&id=40
+
+|Sidebar_Camostop=12. F38 Bat Chatillon155 58 0
+|Sidebar_Camomove=6
+|Sidebar_Camofire=1. F38 Bat Chatillon155 58 7
+|Sidebar_Passhard=1. F38 Bat Chatillon155 58 055
+|Sidebar_Passmed=1. F38 Bat Chatillon155 58 247
+|Sidebar_Passsoft=2. F38 Bat Chatillon155 58 014
+|Sidebar_DispTurret=0. F38 Bat Chatillon155 58 575
+|Sidebar_DispRecoil=4. F38 Bat Chatillon155 58 315
+|Sidebar_DispAccel=0. F38 Bat Chatillon155 58 384
+|Sidebar_DispTurning=0. F38 Bat Chatillon155 58 384
+}}
+
+[[Category:French Tanks]]

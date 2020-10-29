@@ -1,0 +1,63 @@
+{{TankData|Tank=AMX_12_t
+|This tank is the first [[Automatic Loader|automatic loader]] [[France|French]] [[light tank|light tank]]. F15 AMX 12t  The automatic loader is connected to two (only one of these is used in WoT for game balance) 6-shell drums in the back of the turret which are loaded with shells from the storage compartment in the rear of the tank's hull. F15 AMX 12t 
+
+Due to game balance, this has been further reduced to 4 shells in a drum, fully loaded. F15 AMX 12t  This allows the autoloader to rapidly unload the main gun four times in a row (on average 540 damage). F15 AMX 12t  The tank may then head for cover, whilst the drum refills. F15 AMX 12t  Since there is no need to manually reload the main gun during the actual combat, there is no need for a designated loader. F15 AMX 12t 
+
+|InTheGame_pros=
+* Compact size and excellent concealment values. F15 AMX 12t  With maximum concealment, it can remain undetected even at close ranges. F15 AMX 12t 
+* 4-round autoloader. F15 AMX 12t 
+* Excellent signal range (750 upgraded). F15 AMX 12t 
+* Best pen for a tier 6 light tank, good accuracy and fast shell velocity. F15 AMX 12t 
+* Good acceleration. F15 AMX 12t 
+
+|InTheGame_cons=
+* Terrible accuracy on the move, abysmal dispersion when moving the turret, long aim time. F15 AMX 12t 
+* Very low ammo count, only carrying 36 ammunition with the top gun. F15 AMX 12t 
+* Delicate modules; A hit to almost any part of the tank can cause significant module damage, including engine and ammo rack. F15 AMX 12t 
+* Very poor gun elevation and mediocre depression; This can prevent you from shooting at targets on overly uneven terrain. F15 AMX 12t 
+* Below average view range; It's tied with the MT-25 for the second lowest view range, with only the 59-16 having lower (350)
+
+
+
+|InTheGame_performance=This tank introduces the concept of using an automatic loader to rapidly feed the gun with shells from a magazine, which in this case are two 6-round drums in the back of the turret. F15 AMX 12t  Due to an older update affecting light tanks, this tank was changed to having a 4-round drum instead. F15 AMX 12t  The drum enables the tank to fire four shots rapidly, with the unfortunate side effect of taking a considerably long time to reload the whole drum. F15 AMX 12t  This would not be a problem if the game allowed firing shells from a partially reloaded drum, but it does not. F15 AMX 12t  The general tactic for this tank while in combat is to circle or flank an opponent, firing shells into their sides and rear, followed by a hasty retreat while you reload. F15 AMX 12t 
+
+This tank only holds 36 rounds of ammunition with the stock and upgraded cannon. F15 AMX 12t  It works best as a scout and flanker, quickly zipping in and out getting spotting, and circling weaker/slower/lightly armored enemies putting shots in them, then retreating to safety and repeating. F15 AMX 12t  Be sure that you don't take on opponents by yourself that you cannot take out in a single clip, or quickly make a getaway from. F15 AMX 12t  The AMX has paper-thin armor and won't bounce shots outside of the occasional gun or track absorption, and a single shot can easily take our your tracks or engine leaving you vulnerable. F15 AMX 12t 
+
+If you're fortunate enough to be in a top tier match, use your concealment values to your advantage. F15 AMX 12t  You can easily out-spot all lower tier tanks, and safely hide within bushes, taking shots at passing tanks rather safely, making this a perfect assassin when on top. F15 AMX 12t  It also rather easily out-speeds other tanks, allowing for rapid maneuvers for dodging shots or getting out of dangerous situations. F15 AMX 12t  With the exception of a few heavy tanks, it can also clip all tier 5 and under tanks with relative ease. F15 AMX 12t 
+
+If you find yourself in a bottom tier match, your best bet is to either find a safe bush to spot from, or make quick passes over ridges  and around houses to spot opponents, and then fall back once spotted until you're unspotted again, before making another run. F15 AMX 12t  If you have to engage with an opponent, try to rely on your speed to avoid shots and circle opponents with slow turret traverse speeds, hugging up to them in some cases to lessen the appeal to artillery attempting to aim at you. F15 AMX 12t 
+
+In summary, the AMX 12t is a fun little light tank to play, often taking on a more offensive stance than most other light tanks. F15 AMX 12t  Use it's advantages in it's excellent concealment values, rear-mounted turret, autoloader, good penetration, and speed, and help to compensate for others such as the lack of accuracy on the move or lower view range through equipment and skills. F15 AMX 12t  
+
+|InTheGame_research=
+* Unfortunately, no modules carry over from the AMX ELC Bis. F15 AMX 12t 
+* First, research the suspension. F15 AMX 12t 
+* Second, research the engine. F15 AMX 12t 
+* Third, research the gun. F15 AMX 12t 
+* Fourth and finally, research the radio. F15 AMX 12t 
+
+|InTheGame_equipment=
+Coated Optics, Vents, Vertical Stabilizer
+
+|External_Reviews= 
+{{#ev:youtube|VQcuBLu6kOY}}
+
+|Gallery=
+
+File:AMX 12 t scr 1. F15 AMX 12t jpg
+File:AMX 12 t scr 2. F15 AMX 12t jpg
+File:AMX 12 t scr 3. F15 AMX 12t jpg
+
+
+|History=
+AMX 12t is the older brother of the legendary AMX-13. F15 AMX 12t  The design weight of the tank was 12 tons. F15 AMX 12t  The AMX-13 chassis was designed as an example of this very light tank. F15 AMX 12t  The rear support roller was an idler wheel. F15 AMX 12t  However, this design caused problems with the tension of the tank tracks and, in general, there was less reliable. F15 AMX 12t  Subsequently, it was been taken into account when designing the AMX-13: A separate chassis was jacked up and the idler was extended, causing the hull to be lengthened. F15 AMX 12t 
+
+|HistAcc=
+Planned 200 hp engine is missing. F15 AMX 12t  The current engine configurations on the 12t are fake. F15 AMX 12t 
+* Actual ammo capacity is 22 rounds, 10 in the turret and 12 reserve. F15 AMX 12t  In World of Tanks, however, the 12t can carry 36 rounds. F15 AMX 12t 
+
+|HistoricalGallery=
+image:AMX_12t_Plans_Full. F15 AMX 12t jpg{{!}}AMX 12 t
+
+|Sources=
+}}

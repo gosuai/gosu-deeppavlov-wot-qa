@@ -1,0 +1,70 @@
+{{TankData|Tank=M12
+|This SPG gains increased alpha and a very fast shell travel time compared to the M44 but it has a narrower gun traverse and slower reload and aim time. A32 M12    As is par for the American SPGs it has a slow hull traverse speed, but a respectable top speed and acceleration. A32 M12  
+
+|Sidebar_Camostop=12. A32 M12 0
+|Sidebar_Camomove=6. A32 M12 0
+|Sidebar_Camofire=1. A32 M12 7
+|Sidebar_Passhard=1. A32 M12 247
+|Sidebar_Passmed=1. A32 M12 438
+|Sidebar_Passsoft=2. A32 M12 397
+|Sidebar_DispTurret=0. A32 M12 575
+|Sidebar_DispRecoil=5. A32 M12 573
+|Sidebar_DispAccel=0. A32 M12 403
+|Sidebar_DispTurning=0. A32 M12 403
+
+|InTheGame_pros=
+* Gun range: stock: 1350 m, top: 1400 m 
+* Decent damage for a tier 7 artillery
+* Decent accuracy
+* Decent gun arc
+
+
+|InTheGame_cons=
+* Horrible traverse speed
+* Low vertical shell arc
+
+|InTheGame_performance=
+This tank is quite a change from the M44. A32 M12    The reload and aimtime are much slower and due to the narrow gun traverse you will be forced to move the hull more often than you would like. A32 M12    Considered a lackluster artillery piece before the nerf of 8. A32 M12 6, the M12 received further nerfs. A32 M12   Considered one of the worst artillery pieces in a tier full of bad artillery pieces, the M12 does not have much going for it. A32 M12   It is merely average in most important stats:  Average accuracy, average damage, average reload, average mobility. A32 M12   It's only real advantage is its decent horizontal gun arc, but this is surpassed by the G. A32 M12 W. A32 M12  Panther and the Lorraine 155 50. A32 M12   However, it is worth noting that it has the best aiming time in its tier, making it truly shine when it can dedicate to counter-battery enemy artillery. A32 M12  
+
+
+|InTheGame_research=
+* Install Radio from previous SPG (M44)
+* Install Engine researched by T40 or M3 Lee
+* Research suspension first
+* Research gun next
+
+|InTheGame_equipment= Artillery Shell Rammer, GLD, Camouflage net
+
+
+|Gallery=
+image:M12_001. A32 M12 jpg{{!}}M12_001
+image:M12_002. A32 M12 jpg{{!}}M12_002
+image:M12_003. A32 M12 jpg{{!}}M12_003
+image:M12_004. A32 M12 jpg{{!}}M12_004
+
+|History=
+[[image:M12_France. A32 M12 jpg|thumb|200px|right|M12 155mm self-propelled gun firing across the Moselle River in France, 1944. A32 M12 ]]
+The 155 mm Gun Motor Carriage M12 was a U. A32 M12 S. A32 M12  self-propelled gun developed during the Second World War. A32 M12  Only 100 were built; 60 in 1942 and a further 40 in 1943. A32 M12  It mounted a 155 mm gun M1917, M1917A1, or M1918 M1, depending upon availability: a weapon derived from the nearly identical French 155 mm GPF gun of World War I vintage. A32 M12  The M12 was built on the chassis of the M3 Lee tank (some sources claim that later M12 used the M4 Sherman chassis, but this might be a confusion with the M12's use of "Sherman-style" bogie trucks with trailing idlers). A32 M12  It had an armored driver's compartment, but the gun crew were located in an open topped area at the back of the vehicle. A32 M12  An earth spade (similar to a bulldozer blade) at the rear was employed to absorb recoil. A32 M12  This layout, a large gun mounted in an open mount at the rear with a spade, was the pattern adopted for many years by other heavy self-propelled artillery. A32 M12 This tank was also used to destroy small fortifications and pill boxes, and it was highly succesful. A32 M12 
+
+During 1943, the vehicles were used for training or put into storage. A32 M12  Before the invasion of France, 74 M12s were upgraded in preparation for combat operations. A32 M12  They were employed successfully throughout the campaign in NW-Europe. A32 M12  Although designed primarily for indirect fire, during assaults on heavy fortifications, the M12s were sometimes employed in a direct-fire role. A32 M12 
+
+Limited storage space meant that only 10 projectiles and propellant charges could be carried on the vehicle. A32 M12  Given this, a similar vehicle, but without the gun, was produced as the Cargo Carrier M30. A32 M12  This was designed to transport the gun crew and additional ammunition. A32 M12  In operational conditions, the M12 and M30 would serve in pairs. A32 M12  The M30 was armed with a . A32 M12 50-caliber Browning M2 machine gun. A32 M12  It could carry 40 rounds of 155 mm ammunition. A32 M12 
+
+The sole surviving M12 GMC is displayed at the Fort Sill museum [1]. A32 M12  It was stored at the United States Army Ordnance Museum in Aberdeen, Maryland, USA, before being transferred to Fort Sill in November 2010. A32 M12 
+
+|HistoricalGallery=
+image:M12 1. A32 M12 jpg{{!}}The M12
+image:M12 2. A32 M12 jpg{{!}}M12 deployed on the field
+image:M12 3. A32 M12 jpg{{!}}M12 in Germany
+
+|Ref_references=
+
+
+|Ref_sources=
+* Leland Ness(2002)Janes World War II Tanks and Fighting Vehicles, Harper Collins, ISBN 0-00-711228-9
+
+|Ref_links=
+* [[https://www. A32 M12 wwiivehicles. A32 M12 com/usa/self-propelled-guns/m12. A32 M12 asp WWII vehicles]]
+* [[https://afvdb. A32 M12 50megs. A32 M12 com/usa/155mmgmcm12. A32 M12 html AFV database]]
+
+}}

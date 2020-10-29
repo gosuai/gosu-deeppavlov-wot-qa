@@ -1,0 +1,42 @@
+{{TankData|Tank=Panzer58_BF
+|Swiss project for a medium tank with improved combat characteristics and ability to fight in mountainous terrain, developed in 1958. G119 Panzer58 BF  The plans called for using the gun from the British Centurion tank. G119 Panzer58 BF  A total of two prototypes and ten vehicles were produced, but the vehicle never saw mass production. G119 Panzer58 BF 
+
+This tank is identical to the Panzer 58 Mutz except the unique paintjob. G119 Panzer58 BF 
+
+|Gallery=
+image:
+
+|InTheGame_pros= 
+*High penetration with values that are on par with the gun on the AMX CDC 
+*Decent accuracy 
+*Decent mobility and excellent traverse speed 
+*High shell-velocity, excellent for sniping 
+|InTheGame_cons= 
+*Low HP pool 
+*Lower DPM than most of the mediums at tier 8 
+*Mediocre turret armor, large and easily penetrated from the front 
+*Horrible hull armor, vulnerable even to Tier VI Mediums 
+|InTheGame_performance= 
+The Panzer 58 Mutz is a Swiss tank (though placed in the German tech-tree) that plays very similar to other Tier VIII support mediums like the Indien-Panzer or the Centurion Mk. G119 Panzer58 BF  I. G119 Panzer58 BF  Using what is essentially the Indien-Panzer's 9cm gun, the Panzer 58 Mutz should be played as such; picking off targets from long range, using terrain as cover, and giving fire support where it is needed. G119 Panzer58 BF  The accurate and high-penetrating 9cm gun can hold its own even in Tier X matches, but a careful balance of AP and APCR ammo is needed as the Mutz can only carry 48 rounds. G119 Panzer58 BF  The Mutz is fairly mobile for a medium tank, but close-range brawls are far from recommended; the armor on this tank cannot take sustained amounts of punishment. G119 Panzer58 BF  Flanking heavier opponents is a viable tactic so long as backup is at hand. G119 Panzer58 BF  
+
+There are some aspects to the Mutz that need specific attention. G119 Panzer58 BF  The turret, while rounded, offers a large profile and is poorly-armored. G119 Panzer58 BF  The gun-mantlet is small and unreliable for bouncing shots, while the hull is horribly lacking in armor. G119 Panzer58 BF  The highly sloped front of the tank does get a surprising number of ricochets. G119 Panzer58 BF  Beware of artillery and tanks with large-calibre guns. G119 Panzer58 BF  They are liable to take out huge chunks of your HP with HE rounds, if not kill you outright with one shot. G119 Panzer58 BF  These problems are offset by the Mutz's mobility and gun-depression. G119 Panzer58 BF  As with other support mediums, expose yourself only when needed and find cover as a matter of habit. G119 Panzer58 BF  The 9cm gun rewards players who know how to keep this tank alive and firing in any match it may see. G119 Panzer58 BF  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

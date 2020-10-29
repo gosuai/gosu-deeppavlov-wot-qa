@@ -1,0 +1,63 @@
+{{TankData|Tank=T80
+|Built at the Kirov factory starting from March 1942, the T-80 is a modified version of the [[T-70]] light reconnaissance tank, with the old 1-man turret replaced with a larger 2-man turret to improve combat effectiveness. R44 T80  The T-70 and T-80 replaced the [[T-60]], which was originally intended as a replacement for the aging PT-38 amphibious scout tank and the sophisticated but expensive and complex [[T-50]]. R44 T80  The T-70 and T-80 addressed the main issue of the T-60 which had poor cross-country mobility and a weak 20mm main gun. R44 T80  All light tank production was stopped in October 1943 after only 180 T-80s being built, since the Red Army tactics no longer included the use of light tanks. R44 T80  The T-70 and T-80 chassis was used as a basis for the [[SU-76]] and [[SU-85B]] tank destroyers which were used throughout the war. R44 T80 
+
+|Gallery=
+
+|InTheGame_pros=
+* Very good traverse and good power-to-weight ratio
+* 45mm VT-43 has good penetration, great handling and tied for the best accuracy in tier 
+* Bouncy sloped frontal armor when top tier
+* Compact size with exceptional gun vertical arc, good at hull-down
+
+|InTheGame_cons=
+* Completely outclassed by higher tier vehicles
+* You turret and gun are highly prone to get knocked out
+* Limited top speed and bad view range, doesn't scout well
+* Unusual asymmetrical layout, troublesome to angle or side-scrape 
+* Crew setup is different to the next vehicle, the [[T-34]]
+
+|InTheGame_performance=
+The T-80 at first may seem like a pretty bad tank with its average speed and low view range. R44 T80  However, the gun fires very quickly, and is capable of using that rate of fire at greater ranges thanks to its good aim time and top level accuracy. R44 T80   It is a rather small light tank, so not only does it have good camo, it keeps that camo when moving too. R44 T80   However, this does not mean you should try scout in it like you would in the [[A-20]] or other similar tanks. R44 T80   The 45 km/h speed limit and average acceleration make this a bad idea. R44 T80  
+
+What this tank excels at is a sniping or supporting role. R44 T80   The T-80 can provide constant and accurate firepower from respectable ranges. R44 T80   If someone decides to ignore the 55 damage shots hitting them every 2 seconds, they will soon regret letting you chew through their tank. R44 T80   It also has enough speed to follow the push. R44 T80   Remember, it is only slow compared to other scout-specialized light tanks. R44 T80 
+
+|InTheGame_research=
+* The '''45 mm VT-42''' gun carries over from the T-70. R44 T80  Install it immediately to improve your fire power. R44 T80 
+* Next, research the '''T-80 reinforced''' chassis. R44 T80  It will improve the manoeuvrability and is necessary to install the better engine. R44 T80 
+* Research the '''GMC 6004''' engine to improve its dynamics. R44 T80 
+* Next, research the '''9RM''' radio to be a more effective scout. R44 T80 
+* Finally research the better version of your gun, the '''45 mm VT-43''', with improved accuracy and rate of fire. R44 T80 
+
+|InTheGame_equipment=
+Vents, Enhanced Torsion Bars 1 t Class, GLD, Binocular Telescope
+
+
+|History=
+The T-70 was a light tank used by the Red Army during World War II, replacing both the T-60 scout tank for reconnaissance and the T-50 light infantry tank for infantry support. R44 T80  The T-80 light tank was a more advanced version of the T-70 with a two-man turret—it was only produced in very small numbers when light tank production was abandoned. R44 T80  
+
+==Development history==
+[[image:T-80(light tank)Kubinka museum. R44 T80 jpg |thumb|200px|left|T-80 Light tank in Kubinka museum ]]
+The T-70 was armed with a 45-mm L/46 gun Model 38 with forty-five rounds carried, and a coaxial 7. R44 T80 62-mm DT machine gun. R44 T80  The tank was operated by a driver and a commander who loaded and fired the gun. R44 T80  Armour thickness on the turret front was 60 mm, hull front and sides: 45 mm, rear and turret sides: 35 mm, roof and bottom: 10 mm. R44 T80 
+By 1942, light tanks were considered inadequate by the Red Army, unable to keep up with the T-34 medium tank and unable to penetrate the armour of most German tanks, but they could be produced by small factories which were unable to handle the large components of medium and heavy tanks. R44 T80  The T-70 was an attempt to remedy some of the shortcomings of the T-60 scout tank, which had very poor cross-country mobility, thin armour, and an inadequate 20-mm gun. R44 T80  It also replaced the very short production run of the T-50 light infantry tank, which was more sophisticated, but also much too complicated and expensive to produce. R44 T80  The T-70 was designed by Nicholas Astrov's design team at Factory No. R44 T80  38 in Kirov. R44 T80 
+The first batch of T-70s were built with a GAZ-202 automotive engine on each side of the hull, one driving each track. R44 T80  This arrangement was seen to be a serious problem, even before the first tanks were issued. R44 T80  It was quickly redesigned as the T-70M (although it continued to be referred to as just T-70), with the engines in-line on the right side of the tank and a normal transmission and differential. R44 T80  The conical turret was replaced by one more easily welded out of plate armour, and moved to the left side of the hull. R44 T80  Curiously, even after the T-70's production line was redesigned, SU-76 self-propelled guns started to be built with the same unsatisfactory unsynchronized two-engine layout, and all of them were later recalled for factory rebuilding as SU-76Ms. R44 T80 
+T-70s were put into production in March 1942 at Zavod No. R44 T80  37, and along with T-60 production at GAZ and Zavod No. R44 T80  38. R44 T80  They completely replaced T-60 production in September 1942, although that tank remained in use until the end of the war. R44 T80  Production ended in October 1943, with 8,226 vehicles completed. R44 T80  In April 1942, the conical turrets on early-production machines were replaced with new welded turrets. R44 T80  The end of the T-70's production run was built with two 85-hp GAZ-203 engines, a Mark 4 commander's periscope replacing a vision slit, and other improvements. R44 T80 The T-70 remained in service until 1948. R44 T80 
+
+==Limitations==
+
+The one-man turret of the Soviet light tanks made co-ordinating a tank platoon nearly impossible, because the commanders were kept busy acquiring targets, loading and firing the main gun and machine gun, and commanding their drivers. R44 T80  The infantry tank role was already considered obsolete. R44 T80  The SU-76 self-propelled gun was better suited for infantry support, its 76. R44 T80 2-mm gun capable of firing a larger high explosive shell. R44 T80  Industrial resources could be redirected from light tanks to building SU-76s. R44 T80  In an attempt to compensate, the T-80 light tank was designed, a more robust version of the T-70 with a two-man turret. R44 T80  But there was enough lend-lease equipment available to fulfill the reconnaissance role of the light tanks, and armoured cars were better suited for light scouting and liaison. R44 T80  All light tank production was cancelled in October 1943, after only about 120 T-80s were built. R44 T80  No further light tanks would be built during the war. R44 T80 
+In November 1943 Red Army tank units were reorganized: light tanks were replaced by the T-34 and new T-34-85, which started production the following month. R44 T80  Light tanks continued to be used in self-propelled artillery and some other units. R44 T80  The Soviets did start development work on an amphibious light tank in 1945, resulting in the post-war PT-76, introduced in 1954. R44 T80 
+
+|HistoricalGallery=
+image:T-80(light tank)Kubinka museum. R44 T80 jpg{{!}}T-80 at Kubinka Tank Museum
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+* [https://www. R44 T80 wwiivehicles. R44 T80 com/ussr/tanks-light/t-80. R44 T80 asp '''T-80 Light Tank'''] Photos & history. R44 T80 
+
+}}
+
+[[Category:USSR Tanks]]

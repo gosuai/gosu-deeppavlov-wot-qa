@@ -1,0 +1,64 @@
+''For the Chinese Standard counterpart of this tank, see [[Tank:Ch10_IS2|IS-2 (Chinese Heavy Tank)]]''
+
+{{TankData|Tank= 
+| 
+
+|Gallery= 
+
+|InTheGame_pros= * 122mm gun hits hard allowing peek-a-boom tactics where this tank excels
+* Has the potential to generate a large amount of credits
+* Relatively quick and nimble which helps getting into the face of enemies
+* Strongest sloped upper plate of all 3 IS counterparts - 165mm effective with no additional angling
+* Higher HP than regular [[IS]] - 1280 vs. R71 IS 2B  1230
+
+
+|InTheGame_cons= * No limited MM, however, sees same opponents as regular IS
+* While generally sound, armor should not be completely relied on due to somewhat obvious weakspots (lower plate, cupola)
+* Expensive premium APCR ammunition eats into credits if used excessively
+* Poor accuracy and somewhat long aim time can make aiming for weak spots difficult
+* Less engine power and worse radio range compared to regular [[IS]]
+
+|InTheGame_performance= 
+Generally speaking, the IS-2 plays like the regular [[IS]] with the top 122 mm gun. R71 IS 2B  It has a weaker engine, but this is partially compensated by improved ground-resistance. R71 IS 2B  It's hull armour is weaker at the front, but has better angling and sloping. R71 IS 2B  Otherwise the only difference is the reduced signal range. R71 IS 2B 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+<div class="thumb tright">{{VideoYT|I3TGDi7SpOQ|320}}</div>
+The Iosif Stalin tank was a series of heavy tanks developed as a successor to the KV-series by the Soviet Union during World War II. R71 IS 2B The tanks were based off of the KV tanks. R71 IS 2B  The heavy tank was designed with thick armour to counter the German 88 mm guns, and carried a main gun that was capable of defeating the German Tiger and Panther tanks. R71 IS 2B At first, it was to be armed with a 85mm cannon, later, a 100 mm, and finally a 122mm. R71 IS 2B  It was mainly a breakthrough tank, firing a heavy high-explosive shell that was useful against entrenchments and bunkers. R71 IS 2B  It could easily destroy the Tiger I's and Panthers. R71 IS 2B  The IS-2 was put into service in April 1944, and was first used as a spearhead in the Battle of Berlin by the Red Army in the final stage of the war. R71 IS 2B 
+
+==Armament==
+
+Two candidate weapons were the A-19 122 mm gun and the BS-3 100 mm gun. R71 IS 2B  The BS-3 had superior armour penetration (185 mm compared to 160 mm), but a less useful high explosive round. R71 IS 2B  Also, the BS-3 was a relatively new weapon in short supply, while there was excess production capacity for the A-19 and its ammunition. R71 IS 2B  Compared to the older 76. R71 IS 2B 2 mm tank gun, the A-19 had very good armour penetration, similar to that of the effective 75 mm high velocity gun mounted on the German Panther, and delivered 3. R71 IS 2B 5 times the kinetic energy of the older F-34. R71 IS 2B  After testing both BS-3 and A-19 guns, the latter was selected as the main armament of the new tank, primarily because of its ready availability and the effect of its large high-explosive shell when attacking German fortifications. R71 IS 2B  The A-19 used a separate shell and powder charge, resulting in a lower rate of fire and reduced ammunition capacity, both serious disadvantages in tank-to-tank engagements. R71 IS 2B  The gun was very powerful, and while its 122 mm armour-piercing shell had a lower muzzle velocity than similar late-issue German 75 mm and 88 mm guns, Soviet proving-ground tests established that the A-19 could penetrate the front armour of the German Panther tank, and it was therefore considered adequate in the anti-tank role. R71 IS 2B 
+
+German Army data on the penetration ranges of the 122 mm A-19 gun against the Panther tank showed it to be much less effective when the Panther stood at a side angle of 30 degrees to the incoming round: the A-19 gun was unable to penetrate the glacis plate of the Panther at any distance, and could only penetrate the bottom front plate of the hull at 100 m. R71 IS 2B  It was the large HE shell the gun fired which was its main asset, proving highly useful and destructive in the anti-personnel role. R71 IS 2B  The size of its gun continued to plague the IS-2, and the two-piece ammunition was difficult to handle and slow to reload (the rate of fire was only about two rounds per minute). R71 IS 2B  Another limitation imposed by the size of its ammunition was the payload: only 28 rounds could be carried inside the tank. R71 IS 2B 
+
+==Production==
+
+The IS-122 prototype replaced the IS-85, and began mass production as the IS-2. R71 IS 2B  The 85 mm guns could be reserved for the new T-34-85 medium tank, and some of the IS-1s built were rearmed before leaving the factory, and issued as IS-2s. R71 IS 2B  The main production model was the IS-2, with the powerful A-19. R71 IS 2B  It was slightly lighter and faster than the heaviest KV model 1942 tank, with thicker front armour and a much-improved turret design. R71 IS 2B  The tank could carry thicker armour than the KV series, while remaining lighter, due to the better layout of the armour envelope. R71 IS 2B  The KV's armour was less well-shaped and featured heavy armour even on the rear, while the IS series concentrated its armour at the front. R71 IS 2B  The IS-2 weighed about the same as a German Panther and was lighter than the German heavy Tiger tank series, and was slightly lower than either. R71 IS 2B  Western observers tended to criticize Soviet tanks for their lack of finish and crude construction. R71 IS 2B  The Soviets responded that it was warranted considering the need for wartime expediency and the typically short battlefield life of their tanks. R71 IS 2B  
+
+Early IS-2s can be identified by the 'stepped' front hull casting with its small, opening driver's visor. R71 IS 2B  The early tanks lacked gun tube travel locks or antiaircraft machine guns, and had narrow mantlets. R71 IS 2B  Later improved IS-2s (model 1944) had a faster-loading version of the gun, the D25-T with a double-baffle muzzle brake and better fire-control. R71 IS 2B  It also featured a simpler hull front without a 'step' in it (using a flat, sloping glacis armour plate). R71 IS 2B  Some sources called it IS-2m, but it is distinct from the official Soviet designation IS-2M for a 1950s modernization. R71 IS 2B  Other minor upgrades included the addition of a travel lock on the hull rear, wider mantlet, and, on very late models, an antiaircraft machine gun. R71 IS 2B  In the mid-1950s, the remaining IS-2 tanks (mostly model 1944 variants) were upgraded to keep them battle-worthy, producing the IS-2M, which introduced fittings such as external fuel tanks on the rear hull (the basic IS-2 had these only on the hull sides), stowage bins on both sides of the hull, and protective skirting along the top edges of the tracks. R71 IS 2B 
+
+==Operational history==
+
+The IS-2 tank first saw combat in early 1944. R71 IS 2B  IS-2s were assigned to separate heavy tank regiments, normally of 21 tanks each. R71 IS 2B  These regiments were used to reinforce the most important attack sectors during major offensive operations. R71 IS 2B  Tactically, they were employed as breakthrough tanks. R71 IS 2B  Their role was to support infantry in the assault, using their large guns to destroy bunkers, buildings, dug-in crew-served weapons, and other 'soft' targets. R71 IS 2B  They were also capable of taking on any German AFVs if required. R71 IS 2B  Once a breakthrough was achieved, lighter, more mobile T-34s would take over the exploitation. R71 IS 2B 
+By the 1950s the emergence of the main battle tank concept—combining medium-tank mobility with the firepower and later armour of the heavy tank—had rendered heavy tanks obsolete in Soviet operational doctrine. R71 IS 2B  In the late 1960s the remaining Soviet heavy tanks were transferred to Red Army reserve service and storage. R71 IS 2B  The IS-2 Model 1944 remained in active service much longer in the armies of Cuba, China and North Korea. R71 IS 2B  A regiment of Chinese IS-2s was available for use in the Korean War, but saw no service there. R71 IS 2B  In response to border disputes between the Soviet Union and China, some Soviet IS-3s were dug in as fixed pillboxes along the Soviet-Chinese border. R71 IS 2B  
+
+
+|HistoricalGallery=
+image:Ch IS-2 1. R71 IS 2B jpg{{!}}IS-2 at the Museum of the Great Patriotic War in Kiev
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

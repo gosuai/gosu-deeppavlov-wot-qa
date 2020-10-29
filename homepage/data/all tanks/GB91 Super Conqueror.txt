@@ -1,0 +1,76 @@
+{{TankData|Tank= Super Conqueror
+
+| Replaced [[FV215b]] in 9. GB91 Super Conqueror 20. GB91 Super Conqueror 1 patch. GB91 Super Conqueror  The '''Super Conqueror''' is basically the [[Conqueror]] covered with very thick spaced armor. GB91 Super Conqueror  It is less similar to [[Tanks_of_USA|American]] counterparts due the fact that its hull can take much more damage, and it has capabilities to angle the hull which makes it much harder to penetrate. GB91 Super Conqueror  But, oddly similar to [[Tanks_of_Germany|German]] Super-Heavy tanks, its lower plate is a weak spot and is easily penetrated if not covered or not angling your hull correctly. GB91 Super Conqueror 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- All-around thick spaced armor protect it from HE/HESH/HEAT effectively (HE still bleeds through considerably), It provides fairly tough upper plate protection (270mm+ effective when not angled) and also able to absorb a shot from side when angling the hull, as the side armor is no longer the abysmal 51mm that used to be part of British heavies, it is twice that. GB91 Super Conqueror 
+
+- Paper stats don't count amount of thick spaced armor over the hull and turret. GB91 Super Conqueror  This may fool many players who never encounter this tank, a HEAT firing enemy should would not recognize this vehicle's defensive capabilities until they see their shot get absorbed. GB91 Super Conqueror 
+
+- Extremely tough turret; frontal arc is covered with thick spaced armor, and rangefinder is counted as spaced armor. GB91 Super Conqueror  The turret weakspot is somewhat harder to hit and is generally less of a weakspot overall when compared to FV215b or Conqueror. GB91 Super Conqueror 
+
+- Decent gun handling; Fast aiming time, very good gun depression and good accuracy. GB91 Super Conqueror  The vehicle it replaces - FV215b still has better aim time and gun handling, though. GB91 Super Conqueror 
+
+- Good rate of fire and alpha damage, same as FV215b. GB91 Super Conqueror 
+
+|InTheGame_cons= 
+- Lower plate and rear are very weak and aren't covered with spaced armor; easily cripped by HE rounds. GB91 Super Conqueror  Ammo rack is also located behind lower plate. GB91 Super Conqueror  Still, it can provide some lucky bounces at awkward angles as the lower plate is a bit thicker than the usual 76mm. GB91 Super Conqueror 
+
+- Side armor is very weak when not angled; very vulnerable against flankers, but this is nothing new or unique for British heavies. GB91 Super Conqueror  Still, better than previous tiers and twice as thick as FV215b. GB91 Super Conqueror 
+
+- Poor gun elevation. GB91 Super Conqueror 
+
+- Generally slow to get around, slower than FV215b, but still fast enough to not feel like your mobility will kill you. GB91 Super Conqueror 
+
+- Somewhat low ammo capacity (40 rounds), can be a pain to balance between round types, but not as bad as FV215b. GB91 Super Conqueror 
+
+|InTheGame_performance= 
+The super Conqueror is a logical development from its tier 9 counterpart. GB91 Super Conqueror  It's main improvement is in its frontal armour (both turret and hull). GB91 Super Conqueror  This allows it to be played more as a standard heavy tank and less as a sniper. GB91 Super Conqueror  However, this should only be done in an emergency. GB91 Super Conqueror  The extremely thin side and rear armour makes it vulnerable in close range brawls. GB91 Super Conqueror  Compared to the FV215B, which it replaced as the top tier British heavy tank, the Super Conqueror is a far more traditional tank. GB91 Super Conqueror  It also has the advantage of carrying 5 more rounds of ammunition, which simplifies ammo-selection. GB91 Super Conqueror 
+Anyone who manages to get behind this tank should immediately load high explosives. GB91 Super Conqueror  The rear armour is only 38 milimeters thin and can be penetrated by nearly all HE and HESH shells
+
+|InTheGame_research= This tank requires no research
+
+|InTheGame_equipment= Coated optics, vertical stabilizer, tank gun rammer, vents
+
+|InTheGame_Equipment_Builds= Verticle stabilizer and gun rammer are logical choices. GB91 Super Conqueror  For the third equipment slot, one can either use coated optics (in order to play as a sniper tank, or vents for more traditional heavy tank play)
+
+|External_Reviews= 
+
+|History= 
+
+The Super Conqueror as it appears in World of Tanks is a fictitious combination of two historically separate projects developed from the Conqueror heavy tank. GB91 Super Conqueror 
+
+
+==Proposed Improved Conqueror Turret==
+The turret of the in-game Super Conqueror is taken from an improved version of the standard Conqueror's turret that never left the blueprint phase. GB91 Super Conqueror  This new turret had the gunner's position moved next to the commander's in an enlarged cupola. GB91 Super Conqueror  In addition, the hatch to throw away spent casings were moved to the middle, right of the turret instead of the left, rear. GB91 Super Conqueror  The frontal armor thickness was 13. GB91 Super Conqueror 5 inches while the sides were 7 inches. GB91 Super Conqueror 
+
+==Conqueror Range Target==
+The more thickly-armored hull of the Super Conqueror comes from a single Conqueror that had 20mm of extra armor welded to the upper glacis. GB91 Super Conqueror  This tank also had 14mm Burster plates on the hull and turret to add as spaced armor, though it should be noted that all Conquerors were capable of having these Burster plates attached. GB91 Super Conqueror  Unlike the turret proposal, this tank was only ever meant as a target vehicle and was never intended to see combat. GB91 Super Conqueror 
+
+Five handpicked T42 “Dart” warheads were fired at the Conqueror and the results yielded that the performance of the warhead on heavy tanks were “extremely marginal”. GB91 Super Conqueror  It did not produce much mechanical damage both on the exterior and interior of the tank. GB91 Super Conqueror  In order for the warhead to produce a “kill” (the British, at the time, defined ‘kill’ as the main gun being destroyed, no crew is available to man the main gun, or an immobilization), it would rely on ammunition combustion and crew lethality via fragmentation and burns. GB91 Super Conqueror  Overall, the British concluded that the T42 would make an effective weapon if the aluminum conical liner was exchanged with a copper conical liner. GB91 Super Conqueror  The single experimental uncapped “Malkara” warhead produced a kill on its single trial, though it was concluded that a single trial is not enough to determine the lethality of the warhead. GB91 Super Conqueror  After the tests, this uparmored Conqueror was scrapped. GB91 Super Conqueror 
+
+|HistoricalGallery= 
+File:Improved_Conqueror_Turret. GB91 Super Conqueror jpg{{!}}Sketch of the improved Conqueror turret, found in British archives by historian David Lister. GB91 Super Conqueror 
+File:Uparmored_Conqueror_Field_Target. GB91 Super Conqueror jpg{{!}}Uparmored Conqueror used as a target
+File:Uparmored_Conqueror_after_being_fired_upon. GB91 Super Conqueror jpg{{!}}The uparmored Conqueror after being fired upon. GB91 Super Conqueror 
+
+|HistAcc=
+ The name "Super Conqueror" does not exist in any historical records, plans, or documents, and was frequently misattributed to the uparmored firing target Conqueror even before the existence of the Super Conqueror in World of Tanks. GB91 Super Conqueror 
+* The turret and hull of the Super Conqueror were never planned to be used together. GB91 Super Conqueror 
+** Furthermore, the uparmored firing target Conqueror itself was never meant to be used in combat. GB91 Super Conqueror 
+* Historical HESH round with 152 mm penetration is missing. GB91 Super Conqueror 
+* The armor-piercing shell is considerably weaker than in reality, with only 259 mm of penetration compared to the historical 361. GB91 Super Conqueror 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. GB91 Super Conqueror live/2016/12/06/new-caernarvon-and-super-conqueror-renders/
+* https://overlord-wot. GB91 Super Conqueror blogspot. GB91 Super Conqueror com/2015/09/paper-work. GB91 Super Conqueror html?m=1
+* https://overlord-wot. GB91 Super Conqueror blogspot. GB91 Super Conqueror cz/2014/08/unconquerable. GB91 Super Conqueror html?m=1
+* https://thearmoredpatrol. GB91 Super Conqueror com/2017/09/17/what-is-the-super-conqueror-in-world-of-tanks/
+
+}}

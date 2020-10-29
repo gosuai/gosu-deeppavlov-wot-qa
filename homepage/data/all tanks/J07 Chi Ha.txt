@@ -1,0 +1,101 @@
+{{TankData|Tank=Chi_Ha
+|
+
+|Gallery=
+
+File:Type 97 Chi-Ha scr 1. J07 Chi Ha jpg
+File:Type 97 Chi-Ha scr 2. J07 Chi Ha jpg
+File:Type 97 Chi-Ha scr 3. J07 Chi Ha jpg
+
+
+|InTheGame_pros=
+
+* Best alpha damage and penetration on its tier, coupled with good rate of fire and DPM
+* Good view range
+* Versatile, can fit multiple roles
+
+|InTheGame_cons=
+* Low engine power, struggles to reach its top speed even with top engine
+* Below average agility
+* Relatively large silhouette and lacking in armor
+
+|InTheGame_performance=
+Functionally similar to the Type-2597 Chi-Ha in the Chinese Tree, one should adopt a similar play style when using this tank. J07 Chi Ha  While this tank is designated as a medium tank, this versatile machine is capable of taking on multiple roles in a match. J07 Chi Ha 
+
+As a scout, the Chi-Ha possesses excellent view range (on par with light scouts, like the Luchs and M3 Stuart) and arguably the best radio of its tier, with a range of 700 meters. J07 Chi Ha  Unfortunately, these advantages are mitigated by its dismal speed limit of 40 km/h (a limit that even the top engine must struggle to reach) and its large silhouette (which discourages passive scouting). J07 Chi Ha  As a combat tank or TD, the Chi-Ha benefits from an ample health reservoir and its excellent top gun, which provides a good balance of penetration, alpha damage and reload time (arguably the best in its tier). J07 Chi Ha  Its thin armor, however, will do little to protect it in a brawl, and while you may be blessed with a lucky bounce, the Chi-Ha cannot be relied on to win battles against its (predominately faster and more maneuverable) peers, never mind Tier IVs and Vs. J07 Chi Ha  The Chi-Ha has an excellent gun for its tier, capable of penetrating anything it will face in its tier and most of the tier after from the front. J07 Chi Ha  Combined with a reasonably good firing rate, the Chi-Ha would come off as a good surrogate TD were it not for its dismally large silhouette and its underwhelming maneuverability. J07 Chi Ha 
+
+Due largely to its uncomfortable position, the Chi-Ha is forced to adapt as necessary to its situation, switching between those three roles when necessary. J07 Chi Ha  The Chi-Ha's low speed will prevent it from adequately moving ahead of the team as a passive scout compared to its friskier scout peers, and so during this time, the Chi-Ha best shines as a support tank, hanging behind and using its powerful gun to discourage enemy scouts or pick off unwary targets thanks to its great radio range. J07 Chi Ha  In the mid game, the Chi-Ha can take up the task of scouting if other scouts are unavailable, or can continue as a second-line sniper. J07 Chi Ha  By the endgame, the Chi-Ha's great gun and health pool will allow it to easily pick off weakened enemies before they can do enough damage. J07 Chi Ha  Provided that it supports and is supported by its peers, the Chi-Ha can fill multiple roles comfortably as a second-line scout or combat tank. J07 Chi Ha  If players using this tank support offensives instead of spearheading them, they will be more useful and will rack up more kills. J07 Chi Ha  Let the lighter tanks soften up targets, and then pound them into oblivion with the top gun. J07 Chi Ha  The tank is also useful when clearing light tanks bogging up an attack (they can be powerful with autocannons!). J07 Chi Ha  The Chi-Ha will easily bounce most auto-cannon rounds, and easily blast away enemy light tanks or send them running. J07 Chi Ha 
+
+Although it has a rather steep learning curve, the Chi-Ha is a versatile tank that has a very powerful gun for its tier, and will reward anyone who plays cautiously and takes calculated risks. J07 Chi Ha  It has been said that the maneuverability and speed is bad, but it is still faster than tanks like the AMX 38. J07 Chi Ha  If played like a medium tank instead of a light tank, the Chi-Ha will prove itself time and time again. J07 Chi Ha 
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+Improved Ventilation Class 1, Enhanced Gun Laying Drive, Binocular Telescope
+
+|History=
+
+The Kyunana-shiki chu-sensha Chi-Ha, with nearly 2100 units built (including the improved Shinhoto), was the second most produced tank in Japanese history, after the smaller Ha-Go. J07 Chi Ha  It was found everywhere in Asia, soldiering from the cold steppes of northern Manchuria and Mongolia to the soaky jungles of New Guinea, Burma, the Eastern Indies, and all around the Pacific. J07 Chi Ha 
+
+The Chi-Ha (“medium tank third”), or ordnance Type 97, referring to the imperial year 2597, was first preceded by a thorough examination of the main IJA medium tank by 1935, the Type 89 Chi-Ro. J07 Chi Ha  It had proven to be too slow to operate effectively on the wide expenses of China, and did not suit well with the new tactical requirements of motorized warfare, as seen particularly during the invasion of Manchuria. J07 Chi Ha  As a result, a new specification was issued to Japanese companies, among those Mitsubishi, which responded quickly with a design of its own, inspired by the fast light tank Ha-Go. J07 Chi Ha  The Tokyo Mitsubishi Heavy Industries complex delivered and tested the first prototype as early as April 1937, followed by a second one in June. J07 Chi Ha  As required by the ordnance, it had the same 57 mm (2. J07 Chi Ha 24 in) gun featured on the Type 89B. J07 Chi Ha  Meanwhile, Osaka Arsenal also delivered its prototype. J07 Chi Ha  Although cheaper than the former, it was ultimately rejected because of the end of all peacetime budgetary limitations, following the second Sino-Japanese war of June 1937. J07 Chi Ha 
+
+==Design of the Chi-Ha==
+The Mitsubishi design heavily relied on previous features present on the Ha-Go, as well as some innovations. J07 Chi Ha  These included a set of 12 buttons situated in the turret, linked to a corresponding set of buzzers which acted as instructions for the driver, as there was no intercom. J07 Chi Ha  The driver sat on the right and hull gunner to the left. J07 Chi Ha  The tank commander was also the gunner, sited inside the turret, and assisted by a loader/radioman/rear machine-gunner. J07 Chi Ha  Like previous models, the turret had no coaxial machine-gun, but a rear turret ballmount, housing a Type 97 machine-gun. J07 Chi Ha  The turret was equipped with a relatively large commander cupola. J07 Chi Ha  Later, a horse-shoe radio was mounted. J07 Chi Ha  This feature is unique among Japanese tanks, being very useful in identifying Chi-Ha vehicles in pictures. J07 Chi Ha  No machine-gun turret mount was provided for AA defense. J07 Chi Ha 
+
+The suspension was a virtual repeat of the bell-crank system, but with an extra bogie. J07 Chi Ha  This gave a total of six road wheels on each side, two paired and two independent. J07 Chi Ha  This crude system was meant for easy maintenance, not comfort. J07 Chi Ha  The long, bolted hull, was still relatively low and narrow, making this model less maneuverable, but faster, more stable and more difficult to hit. J07 Chi Ha  The main gun, the Type 97 57 mm (2. J07 Chi Ha 24 in), was an infantry support piece of artillery, with low velocity and poor antitank capabilities. J07 Chi Ha  However, these were sufficient against most Chinese tanks of the time. J07 Chi Ha  It had no elevation gear. J07 Chi Ha  An interesting feature is that the gun had a limited traverse (10 degrees) inside the turret. J07 Chi Ha  Armor was slightly thicker than on the Ha-Go, ranging from 8 mm on the bottom (0. J07 Chi Ha 31 in), to 26 mm (1. J07 Chi Ha 02 in) for the turret sides, and up to 33 mm (1. J07 Chi Ha 3 in) on the gun mantlet. J07 Chi Ha  This was sufficient against 20 mm (0. J07 Chi Ha 79 in) and most 37 mm (1. J07 Chi Ha 46 in) weapons. J07 Chi Ha  However, the propulsion system was quite revolutionary, with a brand new V12, 21. J07 Chi Ha 7 liter diesel, air-cooled engine, developing 170 bhp at 2000 rpm (factory designation SA12200VD). J07 Chi Ha  This proved sturdy enough to be produced until 1943. J07 Chi Ha  and the Chi-Ha chassis-propulsion was successfully reused for other derivatives. J07 Chi Ha 
+
+==Chi-Ha production and evolution==
+By September 1939, around 300 units had been produced, and quickly tried in China. J07 Chi Ha  A more violent baptism of fire was received against Russian armor at Nomonhan Plateau (Battle of Khalkin Gol). J07 Chi Ha  Despite having good performances, these tanks proved themselves ill-matched against most Russian tanks, including lightly protected models like the BT-5/7. J07 Chi Ha  The Soviet models possessed high velocity 45 and 37 mm (1. J07 Chi Ha 77-1. J07 Chi Ha 46 in) main guns, which outranged the Japanese tanks. J07 Chi Ha  The Type 97 infantry gun proved useless during these engagements. J07 Chi Ha  The reports made after these events prompted an upgunning and upgrade effort inside the army. J07 Chi Ha  A new 47 mm (1. J07 Chi Ha 85 in) high velocity gun was developed and tried at the beginning of 1941. J07 Chi Ha  This new Type 1 gun required turret modifications, which resulted in the main variant of the type, the Type 97 kai. J07 Chi Ha  The Chi-Ha production ended early in 1942, with a total of 1162 being delivered. J07 Chi Ha  The production line was adapted for the new improved model. J07 Chi Ha 
+
+==The wartime evolution: Chi-Ha Shinhoto==
+The Type 97 Kai Shinhoto Chi-Ha was simply a rearmed model, using the new Type 1 47 mm (1. J07 Chi Ha 85 in) army gun. J07 Chi Ha  This long-barrel (2. J07 Chi Ha 5 m), high muzzle velocity (730 m/s) gun was developed when the Type 94 model proved insufficient to defeat the armor of most Russian tanks of the 1939-40 generation. J07 Chi Ha  The gun itself had been tested since 1938, and was at first rejected because of poor performance. J07 Chi Ha  But, after some improvements, it was quickly adopted by the IJA general staff as the new main antitank gun. J07 Chi Ha  A tank variant was developed by Osaka Arsenal, most being given to the new Shinhoto Chi-Ha. J07 Chi Ha  It had better performance, a muzzle velocity of 830 m/s (2,723 ft/s) and a maximum range of 6,900 m (7,546 yd). J07 Chi Ha  A total of 2300 of these guns were produced until 1945. J07 Chi Ha  The first Shinhoto prototype was ready only at the end of 1941, and production began early in 1942. J07 Chi Ha  This new model completely replaced the Chi-Ha on the factory line. J07 Chi Ha  When production finally stopped in 1943, 930 had been delivered, despite an army request for more than 2500. J07 Chi Ha  This was mostly due to the lack of raw materials the Japanese industry suffered daily. J07 Chi Ha  However, the Chi-Ha design was largely incorporated into the new Type 1 Chi-He and derivatives. J07 Chi Ha 
+
+==Variants and succession of the Chi-Ha==
+As the most largely produced and tested medium tank, the chassis was found suitable to create countless specialized variants during the war. J07 Chi Ha 
+– The amphibious Ka-Chi (19 built) and Ka-Tsu (6?), as well as the experimental To-Ku and Ka-Sha. J07 Chi Ha 
+– Many SPGs, starting with the turretless Type 1 Ho-Ni I and Ho-Ni II, and the Ho-Ni III tank destroyer (around 250 built). J07 Chi Ha 
+– The Type 2 Ho-I infantry support tank (30 converted by 1945), propelled by a new Type 100 diesel engine, and armed with a 75 mm (2. J07 Chi Ha 95 in) howitzer. J07 Chi Ha 
+– Heavy naval infantry support variant equipped with a 120 mm (4. J07 Chi Ha 72 in) short barreled gun for close support. J07 Chi Ha  An experimental long barrel was also tested with the naval Type 10 120 mm (4. J07 Chi Ha 72 in) AA Gun. J07 Chi Ha 
+– The Type 4 Ho-Ro howitzer carrier (about 25 produced), with a 150 mm (5. J07 Chi Ha 9 in) short-barrel Type 38 howitzer. J07 Chi Ha 
+– The Type 4 Na-To tank destroyer (2 built), used a chassis derived from the the Type 4 Chi-So tracked transport vehicle, itself derived from the Chi-Ha. J07 Chi Ha 
+– At least a dozen prototype SPGs and medium tanks until 1945. J07 Chi Ha 
+The Chi-Ha Shinhoto was also noted as the blueprint for the next generation of IJA tanks, notably the improved Type 1 Chi-He (around 170 produced) and Type 3 Chi-Nu (166). J07 Chi Ha 
+
+==Active service==
+The Chi-Ha was, along with the Ha-Go, the bulk of IJA and Navy armored forces in eastern Asia. J07 Chi Ha  They were the most often encountered Japanese tanks by the Allies during the entire conflict. J07 Chi Ha  It was largely deployed in China after the second invasion of 1937, easily outmatching the ill-equipped tank battalions of the National Revolutionary Army of China. J07 Chi Ha  Things began the become serious with the first deployment on the Russian border, during the incidents which led to the large scale battle of Nomonhan plateau, in September 1939. J07 Chi Ha  Here, only four Type 97s were incorporated into the 3rd Tank Regiment of the 1st Tank Corp under Lt. J07 Chi Ha  General Yasuoka Masaomi’s command. J07 Chi Ha  One of these, serving as the command tank, was stuck in a tank trap and burst into flames after being shot by several BT-5s, BT-7s and AT guns. J07 Chi Ha  Others were disabled, proving their main gun was no match for the Russian long range, high muzzle velocity weapons. J07 Chi Ha  Manchurian Type 97s that remained, once again fought against Soviet forces, in August 1945. J07 Chi Ha  By then, most Russian tanks were one generation ahead. J07 Chi Ha 
+
+During the battle of Malaya and of Singapore, Yamashita’s 3rd Tank Group comprised dozens of Type 97. J07 Chi Ha  The 3rd Tank Company under First Lieutenant Yamane (Saeki Detachment) distinguished itself, spearheading the attack on the British defenses. J07 Chi Ha  The Chi-Ha proved capable of fending off thick jungle and seemingly impassable terrain, as did Guderian’s Panzers in the Ardennes, and were key to Yamashita’s victory. J07 Chi Ha  The 2nd and 14th Tank Regiments, also largely composed of Chi-Has, participated in the Burma campaign. J07 Chi Ha  In the Philippines, in May 1942, the first Shinhoto Chi-Ha entered in action against Wainwright’s armored forces, comprising mainly light M3 tanks. J07 Chi Ha  Their improved gun proved lethal, enabling the engaged Japanese units to conclude the battle of Corregidor with a crushing victory. J07 Chi Ha 
+
+The next step was in the Eastern Indies (Indonesia), against the combined ABDA ground forces. J07 Chi Ha  Despite the muddy, hilly terrain, thick, soaky jungle, and scorching heath, some Type 97s participated in the operations, although in limited numbers. J07 Chi Ha  They were to be used in Papua/New Guinea, and some fought at Guadalcanal during the offensive of the Solomon islands. J07 Chi Ha 
+
+Later, during the Pacific campaign, many Type 97s of the IJ Marines were posted in strategic islands, and found themselves engaged in desperate defensive actions. J07 Chi Ha  Their most notable intervention occurred during the combined offensive of Colonel Takashi Goto’s 9th Tank Regiment and Colonel Yukimatsu Ogawa’s 136rd Infantry Regiment, combining nearly sixty Chi-Ha and Ha-Go tanks, along with many tankettes, at Saipan, against the US 6th Marine Regiment. J07 Chi Ha  They were broken by a hellish fire from land (tanks and field artillery), sea (naval guns) and air. J07 Chi Ha  This was the last and largest Japanese offensive involving such armor during the conflict. J07 Chi Ha  On many other islands, Chi-Ha tanks were simply half buried in the ground, as defensive positions, since their armor proved largely inferior to the M4 Sherman and most Allied tanks sent in this sector. J07 Chi Ha  Numerical inferiority proved to be an issue too often. J07 Chi Ha  At Peleliu, Iwo Jima, and Okinawa, the few Type 97s left were outnumbered six up to ten to one, and a single infantry battalion counted several bazooka operators, all deadly against the Chi-Ha. J07 Chi Ha 
+
+The last production batches of the Shinhoto Chi-Ha, in 1943, were kept inside mainland Japan, provisioned for the future expected invasion. J07 Chi Ha  Other served as testbeds for many new vehicles, or converted for other purposes. J07 Chi Ha  Few have survived to this day. J07 Chi Ha  A sizable force of captured Chi-Has had been used against the communists, after the war, in China by Nationalist forces, and many have been captured during the war. J07 Chi Ha  Some possibly saw action during the Korean war, and some were retained in service by the new Indonesian army. J07 Chi Ha  Surviving examples today can be seen in the Japan Yushukan Museum (Tokyo) and Wakajishi Shrine (Fujinomiya, Shizuoka), Brawijaya Museum at Malang (Indonesia), at the People’s Liberation Museum, Beijing, China, and one was at the Aberdeen Proving Grounds in the United States. J07 Chi Ha  Countless rusty wrecks still haunt many Pacific islands today. J07 Chi Ha 
+
+|HistoricalGallery=
+Type 97 Chi-Ha. J07 Chi Ha jpg{{!}}Type 97 Chi-Ha
+Type 97 Chi-Ha (2). J07 Chi Ha jpg{{!}}Type 97 Chi-Ha Shinhoto
+Type 97 Chi-Ha (3). J07 Chi Ha jpg
+File:Chi-Ha_120mm_short_naval_gun_1. J07 Chi Ha png{{!}}Chi-Ha with the 12cm short naval gun. J07 Chi Ha 
+File:Chi-Ha_120mm_short_naval_gun_2. J07 Chi Ha jpg
+File:Chi-Ha_120mm_long_naval_gun. J07 Chi Ha png{{!}}Experimental SPG conversion of the Chi-Ha, carrying the 12 cm/45 10th Year Type naval gun. J07 Chi Ha 
+
+|Ref_references=
+
+Chant, Christopher. J07 Chi Ha  (1996). J07 Chi Ha  Armoured Fighting Vehicles of the 20th Century, Tiger Books International, London. J07 Chi Ha 
+Coox, Alvin D. J07 Chi Ha  (1985). J07 Chi Ha  Nomonhan; Japan Against Russia, 1939 (Two volumes). J07 Chi Ha  Stanford, California: Stanford University Press. J07 Chi Ha  ISBN 0-8047-1160-7. J07 Chi Ha 
+Foss, Christopher (2003). J07 Chi Ha  Great Book of Tanks: The World's Most Important Tanks from World War I to the Present Day. J07 Chi Ha  Zenith Press. J07 Chi Ha  ISBN 0-7603-1475-6. J07 Chi Ha 
+Foss, Christopher (2003). J07 Chi Ha  Tanks: The 500. J07 Chi Ha  Crestline. J07 Chi Ha  ISBN 0-7603-1500-0. J07 Chi Ha 
+Gander, Terry J. J07 Chi Ha  (1995). J07 Chi Ha  Jane's Tanks of World War II. J07 Chi Ha  Harper Collins. J07 Chi Ha  ISBN 0-00-470847-4
+Tomczyk, Andrzej (2007) [2002]. J07 Chi Ha  Japanese Armor Vol. J07 Chi Ha  2. J07 Chi Ha  AJ Press. J07 Chi Ha  ISBN 978-8372371119. J07 Chi Ha 
+Tomczyk, Andrzej (2005). J07 Chi Ha  Japanese Armor Vol. J07 Chi Ha  4. J07 Chi Ha  AJ Press. J07 Chi Ha  ISBN 978-8372371676. J07 Chi Ha 
+Zaloga, Steven J. J07 Chi Ha  (2007). J07 Chi Ha  Japanese Tanks 1939–45. J07 Chi Ha  Osprey. J07 Chi Ha  ISBN 978-1-8460-3091-8. J07 Chi Ha 
+
+|Ref_sources=
+
+|Ref_links=
+* https://www. J07 Chi Ha tanks-encyclopedia. J07 Chi Ha com/ww2/jap/Type_97_Chi-Ha_Shinhoto. J07 Chi Ha php
+* https://en. J07 Chi Ha wikipedia. J07 Chi Ha org/wiki/Type_97_Chi-Ha
+* https://www. J07 Chi Ha reddit. J07 Chi Ha com/r/Warthunder/comments/6d5hhj/naval_long_12cm_chiha_experimental/
+
+}}

@@ -1,0 +1,58 @@
+{{TankData|Tank=Ch14_T34_3
+|Gallery=
+T-34-3 render. Ch14 T34 3 jpg
+T-34-3 render (2). Ch14 T34 3 jpg
+
+|InTheGame_pros=
+* 390 alpha damage gun on a tier 8 medium
+* Tough, rounded turret
+* Decent mobility, good terrain resistance, excellent traverse
+* Preferential matchmaking (tier 9 max, no tier 10 battles)
+
+|InTheGame_cons=
+* Poor aim time and accuracy making mid-long range engagements difficult
+* Slow to accelerate, sluggish
+* Very expensive for a tier 8 premium medium
+* Penetration with AP shells is low when compared among tier 8 mediums 
+
+|InTheGame_performance=
+The T-34-3 has high alpha and gives this tank very good damage potential. Ch14 T34 3  Penetration is poor so use the mobility to flank and get to sides of heavy tanks. Ch14 T34 3  Unfortunately accuracy of the Chinese gun is even lower than similar Soviet guns. Ch14 T34 3 
+
+Turret armor is strong like similar tanks. Ch14 T34 3  One of the best ways to play this tank is to find a shell hole or depression in the ground and sit it in while only exposing your turret armor and watching the other teams shots just bounce. Ch14 T34 3  (Just remember to move before arty gets you). Ch14 T34 3  If you can't find a hole to hide in, play carefully as your hull armor while good, it won't save you in a brawl with other tanks. Ch14 T34 3  If you do find yourself in a brawl, try to keep your very thin side armor covered so they have to shoot your turret. Ch14 T34 3  Also try not to get flanked as while you have decent mobility, other tanks have better and can circle you to death by shooting you weak side armor. Ch14 T34 3  With your low pen with basic ammo, try to hit weak spots or shoot tanks in the side. Ch14 T34 3  If you try to circle them, don't get tracked or you will die fast as your reload is slow compared to other tanks. Ch14 T34 3  
+
+Facehugging can be a viable tactic while using this tank, especially against opponents with bad gun depression. Ch14 T34 3 
+
+Because of its long reload, having a shell rammer is a must for this tank. Ch14 T34 3  Other than that it's advisable to try to improve your aim time and equip a Vertical Stabilizer and Enhanced Gun Laying Drive. Ch14 T34 3  
+
+Also should be noted that this tank has very good camouflage values. Ch14 T34 3  Training crew with camo skills can keep the tank hidden until its gun is fired. Ch14 T34 3  Training Brothers in Arms for all crew gives extra 5% crew skill which helps slightly with aiming time, accuracy and reload. Ch14 T34 3 
+
+|InTheGame_research=
+
+|InTheGame_equipment=Large-Caliber Tank Gun Rammer,Vertical Stabilizer,"Wet" Ammo Rack,GLD,Improved Ventilation Class 2,Coated Optics
+
+|History=
+The T-34-3 was a different version of the T-34-2 project which aimed to create T-54-esque tanks at a time when China only had IS-2s and a T-34s. Ch14 T34 3  It came very close to looking like a T-54 and had a 122mm gun, modified and taken from an IS-2 heavy tank. Ch14 T34 3 
+The project never saw service. Ch14 T34 3 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=14. Ch14 T34 3 9
+|Sidebar_Camomove=11. Ch14 T34 3 2
+|Sidebar_Camofire=2. Ch14 T34 3 9
+|Sidebar_Passhard=0. Ch14 T34 3 863
+|Sidebar_Passmed=0. Ch14 T34 3 959
+|Sidebar_Passsoft=1. Ch14 T34 3 918
+|Sidebar_DispTurret=0. Ch14 T34 3 153
+|Sidebar_DispRecoil=3. Ch14 T34 3 836
+|Sidebar_DispAccel=0. Ch14 T34 3 173
+|Sidebar_DispTurning=0. Ch14 T34 3 173
+}}

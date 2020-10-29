@@ -1,0 +1,55 @@
+{{TankData|Tank=T1_E6
+|The T1E6 was [https://worldoftanks. A74 T1 E6 com/en/news/pc-browser/22/holiday-events-preview/ a New Year's gift tank given to players at the beginning of 2013] and has since appeared in gift shop bundles on a few occasions. A74 T1 E6   A more advanced iteration of the [[T1 Cunningham]], the T1E6 shares its thin armor, good speed, and 37mm semiautomatic gun. A74 T1 E6   Unsurprisingly, the T1E6 behaves much like an improved T1, with upgraded speed, maneuverability, and gun handling characteristics. A74 T1 E6 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Good acceleration, top speed, and maneuverability
+* Free AP ammo
+* Five-shot magazine with large burst damage and a short reload
+* Great gun depression
+
+|InTheGame_cons=
+* Overturns very easily
+* Poor penetration
+* Poor accuracy
+* Thin armor
+* Poor view range
+
+|InTheGame_performance=
+
+The T1E6 at Tier II is a later and more advanced version of the T1 Cunningham available at Tier I. A74 T1 E6   Players accustomed to the T1 will find that the T1E6 behaves similarly. A74 T1 E6   The T1E6 is a typical light tank, with great speed, acceleration, and maneuverability. A74 T1 E6   Its armor is thin, and will only protect the tank from occasional machinegun fire at certain angles. A74 T1 E6   The T1E6 may be a typical light tank in these regards, but its poor view range will prevent it from being an effective scout like some other lights. A74 T1 E6 
+
+The T1E6 is armed with the same 37mm semiautomatic gun available on the T1 Cunningham and [[Tank:T2_med|T2 Medium tank]]. A74 T1 E6   The gun is highly inaccurate and has poor penetration and is thus only effective at close range. A74 T1 E6   At close range however, the gun's five-shot magazine enables the T1E6 to do an average of 150 hitpoints of damage in just 2 seconds, assuming all shots hit. A74 T1 E6   Combined with a short reload of just 5 seconds, the T1E6 is capable of repeatedly dumping clips into enemy tanks quickly and efficiently. A74 T1 E6   Capable of taking out most (or in some cases, all) of a Tier II tank's health in one clip, the T1E6 is most dangerous late in the game where it can use its speed and maneuverability to single out damaged enemy tanks and quickly kill them with one clip. A74 T1 E6   Also, with free AP ammunition, premium tank income bonuses, and cheap repair costs, the T1E6 can be extremely profitable to run. A74 T1 E6 
+
+
+|InTheGame_research=
+All modules are researched with the tank. A74 T1 E6 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics
+
+|History=
+After tests with the T1 light tanks, it determined that a frontal engine was not desired. A74 T1 E6  In 1931, the Cunningham corporation presented its design for an improved version of the T1 Cunningham, called the T1E4. A74 T1 E6  Testing began in 1932 and the tank originally had a 110hp engine. A74 T1 E6  The weak engine caused the vehicle to stall when turning and other various problems. A74 T1 E6  It was then equipped with a more powerful 140hp V-8 Cunningham engine. A74 T1 E6  Eventually, it was decided to give the tank a 244hp engine. A74 T1 E6  This new tank was called the T1E6. A74 T1 E6  However, even with the enlarged engine compartment, it was very crowded and difficult to service the engine. A74 T1 E6  The project was eventually dropped. A74 T1 E6 
+
+|HistoricalGallery=
+<!--image:T1E6 1. A74 T1 E6 jpg{{!}}T1E6-->
+image:T1E6 2. A74 T1 E6 jpg{{!}}T1E6
+<!--image:T1E6 3. A74 T1 E6 jpg{{!}}The engine compartment of the T1E6-->
+<!--image:T1E6 4. A74 T1 E6 jpg{{!}}The T1E4-->
+
+|HistAcc=
+Actual top speed is 32 km/h. A74 T1 E6 
+* Actual power to weight ratio is 24. A74 T1 E6 5 hp/ton. A74 T1 E6 
+
+|Ref_references=
+
+
+|Ref_sources=
+R. A74 T1 E6 P. A74 T1 E6  Hunnicutt - A History of the American Light Tank: Stuart, 1992 Presidio Press, ISBN 0891414622
+
+|Ref_links=
+[https://www. A74 T1 E6 aviarmor. A74 T1 E6 net/tww2/tanks/usa/cunningham_t1e4. A74 T1 E6 htm aviarmor. A74 T1 E6 net (Russian)]
+
+}}

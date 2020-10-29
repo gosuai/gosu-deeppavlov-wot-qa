@@ -1,0 +1,109 @@
+{{TankData|Tank=GB30_FV3805
+|
+
+|Gallery=
+
+File:FV3805 scr 1. GB30 FV3805 jpg
+File:FV3805 scr 2. GB30 FV3805 jpg
+File:FV3805 scr 3. GB30 FV3805 jpg
+
+
+|InTheGame_pros= 
+* Gun range: first: 1300 m, second: 1400 m, top: 1350 m 
+* Very good gun arc
+* Very mobile for it's size
+* Second gun is accurate and has a good RoF, at the expense of low damage
+* Good balance of damage, accuracy, and reload on the upgraded gun
+
+|InTheGame_cons=
+* Big size
+* Low damage on non-top guns
+* Crew does not match FV207 and Conqueror Gun Carriage (one less gunner)
+
+|InTheGame_performance=
+The FV3805 is the tier 9 artillery piece in the British line. GB30 FV3805   It is often overshadowed by the Conqueror Gun Carriage, but it is also a capable artillery piece. GB30 FV3805   It has two guns, which allows for two different playstyle setups. GB30 FV3805   One can mount the upgraded gun for high damage and splash per shot, or one can opt for the FV207's gun with it's high rate of fire and good accuracy. GB30 FV3805   It is far more mobile than the 212a and the G. GB30 FV3805 W. GB30 FV3805  Tiger, but less mobile than the Bat Chatillion 155 55 and M53/55. GB30 FV3805   Most people consider the M53/55 to the superior artillery piece, thus the FV3805 does not see much Clan Wars use. GB30 FV3805 
+
+|InTheGame_research=
+* The Q. GB30 FV3805 F. GB30 FV3805  6-in. GB30 FV3805  Gun Mk. GB30 FV3805  V, Rolls-Royce Meteor Mk. GB30 FV3805  IVC Engine, and SR C42 Radio carry over from the FV207. GB30 FV3805  Mount them immediately. GB30 FV3805 
+* First research the FV3806 Suspension. GB30 FV3805 
+* Finally research the B. GB30 FV3805 L. GB30 FV3805  7. GB30 FV3805 2-in. GB30 FV3805  Howitzer Mk. GB30 FV3805  6. GB30 FV3805 
+
+|InTheGame_equipment=Large-Caliber Artillery-Shell Rammer,Improved Ventilation Class 2,GLD
+
+|History=
+[[image:FV_3805_side_view. GB30 FV3805 jpg|thumb|200px|left|FV 3805 side view]]
+Shortly after the Brits created the FV Centurion, the engineers did what all great engineers so, they worked out how to stick bigger and more powerful guns onto this time proven chassis. GB30 FV3805  The FV 3805 was developed to complete the idea of the Universal tanks that Britain had been seeking for some time, in this case; the medium gun self propelled version. GB30 FV3805  It was a Centurion tank with a casemate replacing the turret, reversed transmission and what looks like a short barrel version of the BL 5. GB30 FV3805 5" Mk 3 medium gun firing over the engine deck. GB30 FV3805  The Israelis also have an SPG based on the Centurion with NATO name M-72 wielding a M-71 155mm ordnance in a new turret on a new upper hull. GB30 FV3805  It had a hatch in the front glacis beside the driver's position for easier access and escape. GB30 FV3805  Only the FV3802 and FV3805's were prototyped. GB30 FV3805  And none were put into production and I don’t know why, maybe the Abbot design was deemed better, or maybe the War  office, now known as the MOD decided that heavy SPG’s were a soviet thing and by Jove they were not going to go down that route. GB30 FV3805  It would appear from further rooting around in my library that it was more an issue of standardisation within NATO, and the upcoming joint European SPG project that was never completed but ran behind the scenes to produce the AS90 while the Abbot served as out primary Arty. GB30 FV3805 
+
+The FV3805 prototype was completed in 1957 and had hydraulic brakes and steering. GB30 FV3805  Along with the features mentioned above the driver was positioned above the level of the engine bay roof to the left of the ordnance and the vehicle's forward direction was to the rear of a Centurion tank, for those of you who have read my previous posts, this is not an uncommon trait, the Archer tank destroyer had a similar method of driving and shooting, so this Arty piece wont come as a shock to some players. GB30 FV3805  The barrel of the main gun was much shorter than the BL 5. GB30 FV3805 5” Mk 3 medium gun and was considered a howitzer designed for shorter high angled shots, while its bigger cousin with the 5. GB30 FV3805 5 could counter Soviet heavy guns. GB30 FV3805  Crew was only four with driver, commander, gunner and single loader, who manually loaded the large shells; at this time I have no info on the rate of fire. GB30 FV3805 
+
+==Design featuers==
+
+'''Power'''
+[[image:Rolls_Royce_Meteor_Engine. GB30 FV3805 jpg|thumb|200px|left|Rolls Royce Meteor Engine]]
+The similar looking FV3802 was the opposite of its 3805 brother in some respects; It retained the original Centurion tank's driver position and transmission arrangement and had the QF 25 Pounder gun-howitzer like above. GB30 FV3805  The length was shortened and the running gear was modified and only two full twin wheels per side with an additional single wheel arrangement filling in for the rest, Both vehicles kept the Rolls-Royce Meteor engine 650 hp (480 kW) , and “frontal” armour was still believed to be at 180mm (including slope) speed would have been slightly faster than the Centurions 22mphm due to less turret weight/power, but only marginally due to heavier ammo and rear casemate. GB30 FV3805  Both designs look to use the Horstman suspension type for durability and ease of repair (Horstman Suspension is named after the engineer Sidney Horstman who designed the self contained coil spring bogie system, In this patent he refers to the use of a torsion bar to support the vehicle weight. GB30 FV3805  This was around 9 years before Ferdinand Porsche founded his design company, while long dead the company now survives as: Horstmann Defence Systems Ltd – and there looking for engineers in fluid suspension. GB30 FV3805  anyway I digress)
+
+'''Superstructore'''
+
+From the images of the FV3802 it would appear to have a semi turret within the casemate and not a ball and socket type joint, from guesswork until I can have a root in the deeper archives I would estimate it has a traverse of about 140 degrees with 70 to either side and an elevation of about 45-50 degrees the FV3805 seems to very similar but with a (and again guess work) longer recoil I would think its elevation is more limited to 40-45 degrees. GB30 FV3805  From the Photos and comparing it to known parts of the Centurion hull, the front of the casemate appears to me 7cm dovetail and welded plate, so 70mm of frontal turret armor and 180 effective on the hull. GB30 FV3805   frontal shots can be harder for scouts than expected, obvious weak spots: (which are a novelty for Arty, who generally consist of any bit on the screen as a weak spot) are the large loaders hatch on the casemate side, and the spotting and viewing “bucket” on the casemate top. GB30 FV3805  There would also appear to be a large loading bay or door on the back of the casemate. GB30 FV3805  The commander appears to be in the top left  of the FV3802. GB30 FV3805 
+
+'''Firepower'''
+[[image:FV3805_on_trials. GB30 FV3805 jpg|thumb|200px|left|FV3805 on trials]]
+The FV3805 mounted the 5. GB30 FV3805 5 inch 140mm gun was based on the BL 5. GB30 FV3805 5 Inch medium gun introduced in 1941 to North Africa as a towed piece. GB30 FV3805  It fired to separate rounds the heavy and light the heavy shell weighed 100 lb shell and with 4 charges in two cartridges gave it a MV of 1675 feet per second and a range of about 16km. GB30 FV3805  In 1944 an 82 lb shell was introduced with the Super charge round giving a maximum range table MV of 1950 feet per second of 18Km The lighter shell contained 1. GB30 FV3805 5 lbs more HE and gradually replaced the heavier shell, for gaming purposes I would say the heavier shell is used for AP, and use the KE from its weight of impact? In addition to HE there were several chemical (90 – 98 lbs) and colored smoke shells (100 lb only), colored flare was developed, which would be good for those night battles I’ve been after. GB30 FV3805 
+
+==5. GB30 FV3805 5 inch howitzer==
+The 5. GB30 FV3805 5-inch Gun was one of the two British medium guns of World War 2, which both used the same carriage (the other was the 4. GB30 FV3805 5-inch Gun). GB30 FV3805   It first entered service in 1942 replacing 6-inch Howitzers in medium regiments. GB30 FV3805   It had limited service in Indian regiments and equipped a South African and three Canadian regiments in Europe. GB30 FV3805   It was popular and recognized as an effective gun, however, there was a problem with bore premature, particularly in Burma and in late 1944 some 5. GB30 FV3805 5-inch were temporarily replaced by old 6-inch howitzers in that theatre. GB30 FV3805  Initially it had a 100 lb shell but later in the war an 80 lb shell was introduced and this eventually replaced the 100 lb. GB30 FV3805  It left British service in the mid-1970s, UK last used them operationally in Borneo and Radfan in the mid-1960s and the last round was fired in UK was in 1995. GB30 FV3805   Its last operational use seems to have been with the South African Defence Force in Angola in the 1980s. GB30 FV3805  In European countries it was referred to as the 140-mm (or 14-cm) gun. GB30 FV3805 
+
+==Self propelled varians==
+No SP versions ever entered service although an SP was the highest priority equipment at the end on WW2. GB30 FV3805   After WW2 there was an open SP built on the Crusader gun tractor, some design work on FV 305, a 5. GB30 FV3805 5-inch SP using the proposed FV 300 series carriage, it was cancelled in 1948. GB30 FV3805   However, in 1950 a new SP design started, FV 3805, based on a Centurion tank chassis. GB30 FV3805  A prototype was built,  it had a fully enclosed fighting compartment and a barbette mounted gun. GB30 FV3805  It was cancelled in about 1958. GB30 FV3805  
+
+==Proposed variants==
+
+FV3801 - Gun Tractor
+
+FV3802 - 25pdr SP Artillery Field Equipments
+
+FV3803 - Command Post Vehicle
+
+FV3804 - Ammonution Vehicle
+
+'''FV3805 - 5. GB30 FV3805 5 inch SP Gun - built two prototypes'''
+
+FV3806 - 7. GB30 FV3805 2 inch SP Gun
+
+FV3807 - 120mm SP AT Gun
+
+FV3808 - SP Mounting, Medium
+
+FV3809 - 155mm SP AT Gun
+
+|HistAcc=
+The FV3805 was only fitted with the 650 hp engine. GB30 FV3805  The 750 hp engine configuration is fake. GB30 FV3805 
+* The 7. GB30 FV3805 2-inch howitzer variant never progressed beyond the stages of feasibility discussions and/or mock-ups, and was quickly discounted. GB30 FV3805 
+* The Q. GB30 FV3805 F. GB30 FV3805  6-in. GB30 FV3805  Gun Mk. GB30 FV3805  V was a naval gun that was fitted to HMS Cumberland and the Tiger-class cruisers. GB30 FV3805  Its configuration on the FV3805 is fake. GB30 FV3805 
+
+|HistoricalGallery=
+image:Fv3805. GB30 FV3805 jpg{{!}} FV3805
+image:Rolls_Royce_Meteor_Engine. GB30 FV3805 jpg{{!}} Rolls Royce Meteor Engine
+image:The_Sole_FV_3805_survivor. GB30 FV3805 jpg{{!}} The only Surviving FV3805 vehicle
+image:FV_3805_side_view. GB30 FV3805 jpg{{!}} FV 3805 side view
+image:FV3805_on_trials. GB30 FV3805 jpg{{!}} FV3805 on trials
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+
+|Sidebar_Camostop=8. GB30 FV3805 2
+|Sidebar_Camomove=4. GB30 FV3805 1
+|Sidebar_Camofire=0. GB30 FV3805 9
+|Sidebar_Passhard=1. GB30 FV3805 151
+|Sidebar_Passmed=1. GB30 FV3805 342
+|Sidebar_Passsoft=2. GB30 FV3805 205
+|Sidebar_DispTurret=0. GB30 FV3805 499
+|Sidebar_DispRecoil=5. GB30 FV3805 753
+|Sidebar_DispAccel=0. GB30 FV3805 345
+|Sidebar_DispTurning=0. GB30 FV3805 345
+}}

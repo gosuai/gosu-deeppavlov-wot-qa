@@ -1,0 +1,84 @@
+{{TankData|Tank=M40M43
+
+|The M40/M43 SPG was built on a widened and lengthened M4A3 medium tank chassis. A37 M40M43  The vehicle is designated as the M40 Gun Motor Carriage in a version that mounts the 155mm M1A1 "Long Tom" gun. A37 M40M43  The version that mounts the 8-inch (203mm) Howitzer is designated the M43 Howitzer Motor Carriage. A37 M40M43 
+
+|InTheGame_pros=
+* Gun range: stock: 1400 m, top: 1330 m 
+* Relatively fast and mobile
+* Good horizontal gun arc
+* Good damage for its tier
+
+|InTheGame_cons=
+* Mediocre accuracy and slow aim time (can be mitigated with a strong crew and premium food consumable)
+* Slow RoF
+* Low Camouflage Rating
+* Low vertical shell arc
+* Low ammo capacity
+
+|InTheGame_performance=
+The M40/M43 has excellent mobility compared to the other hard hitters in tier 8, [[Tank:GW_Tiger_P|G. A37 M40M43 W. A37 M40M43  Tiger P. A37 M40M43 ]] and [[Tank:SU-14|SU-14-2]]. A37 M40M43  It is on the higher end for shell damage in its tier, with higher shell damage than the [[Tank:Lorraine155_51|Lorraine 155 51]] and [[Tank:GB79_FV206|FV207]], tied with the SU-14-2 and only outclassed by the G. A37 M40M43 W. A37 M40M43  Tiger P. A37 M40M43   However, it has lower mobility than the Lorraine 155 51 and FV207. A37 M40M43   Due to its high damage combined with adequate accuracy, reload, and good mobility when fully kitted out, the M40/43 is arguably the best tier 8 artillery piece, and thus sees Clan Wars use during events with a tier 8 cap. A37 M40M43   Brothers in Arms and Snap Shot are highly recommended crew skills to train. A37 M40M43   
+
+|InTheGame_research=
+* Both upgrade engines and both upgrade radios carry over from the M12 if researched there. A37 M40M43 
+* The suspension upgrade is necessary to handle the weight of the top engine and gun. A37 M40M43 
+* Research the 8 in howitzer ASAP
+* Not necessarily tank research, but train "Brothers in Arms" and "Snap Shot" on your crew. A37 M40M43   these skills greatly help this artillery piece. A37 M40M43 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Camouflage Net
+
+
+|Gallery=
+image:M40-M43_001. A37 M40M43 jpg{{!}}M40-M43_001
+image:M40-M43_002. A37 M40M43 jpg{{!}}M40-M43_002
+image:M40-M43_003. A37 M40M43 jpg{{!}}M40-M43_003
+image:M40-M43_004. A37 M40M43 jpg{{!}}M40-M43_004
+image:Ingame_M40-43-1. A37 M40M43 jpg{{!}}M40/43, map Port
+image:M4043-1. A37 M40M43 jpg{{!}}M40/43, map Mountain pass
+image:M40-43-a1. A37 M40M43 jpg{{!}}M40/43, map Lakeville
+
+|History=
+[[image:M40_GMC_Aberdeen. A37 M40M43 JPG|thumb|200px|right|M40 in the US Army Ordnance Museum]]
+The 155 mm Gun Motor Carriage M40 was a US self-propelled artillery vehicle built on a widened and lengthened Medium Tank M4A3 chassis, but with a Continental engine and HVSS (Horizontal Volute Spring Suspension) that was introduced at the end of the Second World War. A37 M40M43  Equipped with a 155 mm M2 gun, it was designed to replace the earlier M12 Gun Motor Carriage. A37 M40M43  Its prototype designation was the T83, but this was changed to the M40 in March 1945. A37 M40M43 
+
+A single pilot vehicle was used in the European Theatre in 1945 by the 991st Field Artillery Battalion, along with a related 8-inch Howitzer Motor Carriage T89, which was sometimes also equipped with a 155 mm barrel. A37 M40M43 [1] From there, it was deployed during the Korean War. A37 M40M43 
+
+After World War II, the M40 was used by the British Army, who designated it the 155mm SP M40. A37 M40M43 
+
+
+A version on the same chassis mounted an 8-inch (203 mm) howitzer and was designated the M43 Howitzer Motor Carriage. A37 M40M43  It was standardized in August 1945, 48 were built. A37 M40M43  The M43 saw action in the Korean War. A37 M40M43 
+
+'''Variants'''
+
+The Army planned to use the same T38 chassis for a family of SP artillery:
+* Cargo Carrier T30- a few built before cancellation in December 1944 to make more chassis' available for GMCs. A37 M40M43 
+* 8 inch Howitzer Motor Carriage M43- 8 in (203 mm) HMC, standardized August 1945, 48 were built. A37 M40M43 
+
+|HistoricalGallery=
+image:M40 1. A37 M40M43 jpg{{!}}The M40 variant, with the 155 mm Gun M1A1
+image:M43 1. A37 M40M43 jpg{{!}}The M43 variant, with the 203 mm Howitzer M1
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+*[https://www. A37 M40M43 wwiivehicles. A37 M40M43 com/usa/self-propelled-guns/m40-m43. A37 M40M43 asp '''M40 Gun Motor Carriage and M43 Howitzer Motor Carriage'''] Photos & history. A37 M40M43 
+* [[https://en. A37 M40M43 wikipedia. A37 M40M43 org/wiki/M40_GMC Wikipedia]]
+
+
+
+|Sidebar_Camostop=10. A37 M40M43 57
+|Sidebar_Camomove=5. A37 M40M43 43
+|Sidebar_Camofire=0. A37 M40M43 91
+|Sidebar_Passhard=1. A37 M40M43 247
+|Sidebar_Passmed=1. A37 M40M43 438
+|Sidebar_Passsoft=2. A37 M40M43 397
+|Sidebar_DispTurret=0. A37 M40M43 614
+|Sidebar_DispRecoil=5. A37 M40M43 753
+|Sidebar_DispAccel=0. A37 M40M43 364
+|Sidebar_DispTurning=0. A37 M40M43 364
+}}

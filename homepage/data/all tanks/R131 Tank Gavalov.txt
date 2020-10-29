@@ -1,0 +1,69 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Good turret armor for its tier and class
+* Low profile and high camouflage value
+* Good mobility, very strong HE shell which shreds poorly armored vehicles
+* Fast turret traverse speed, combined with decent gun handling makes it very good at snapshots and hit-and-run
+* Relatively painless stock grind
+
+|InTheGame_cons= 
+
+* Fragile ammorack
+* Stock gun has subpar penetration
+* Poor gun depression 
+* Awful view range, the worst of any tier 7 light tank (360), albeit it has very high camouflage values
+* Somewhat sluggish when using stock engine
+
+
+|InTheGame_performance= 
+This tank, unlike other light tanks, has a very low profile, which in turn, gives the tank a good camouflage value; added with Camo net and Binoculars, will make it into a well equipped passive scout. R131 Tank Gavalov  The low profile will also allow side hugging taller tanks (But the turret size would be problematic). R131 Tank Gavalov  Keep in mind that firing will reveal your position, and the armor the tank has at Tier VII will not be very effective, unless its small arms fire (Eg. R131 Tank Gavalov  lower tier 75/76mm guns). R131 Tank Gavalov  Active scouting with this tank is not advised, as it has a weak ammo rack (As mentioned above) and poor view range. R131 Tank Gavalov  The most likely explosion rate is when the tank is exposing either side towards enemy fire; and the view range will force you to get closer to the enemy, as it will increase the risk of a trip to the garage. R131 Tank Gavalov  For this reason it is HIGHLY recommended to at least have Coated Optics. R131 Tank Gavalov 
+
+|InTheGame_research= 
+*The Radio R-113 Carries over from the MT-25 (If researched)
+*The tracks are necessary to mount any other modules, or even most equipment
+*If the 85 mm D-5T-85BMU was researched previously from the T-34-85, mount immediately, as it will give extra penetration and alpha damage. R131 Tank Gavalov  Otherwise, the gun is a priority to research
+
+|InTheGame_equipment=
+[[File:Stereoscope. R131 Tank Gavalov png|frameless|Recommended due to tank's below-par view range]]
+[[File:CoatedOptics. R131 Tank Gavalov png|frameless|Recommended due to tank's below-par view range]]
+[[File:CamouflageNet. R131 Tank Gavalov png|frameless|Optional for further increasing camo value]]
+[[File:ImprovedVentilation. R131 Tank Gavalov png|frameless|Improved Ventilation]]
+[[File:WetCombatPack. R131 Tank Gavalov png|frameless|Optional if the weak ammo rack is problematic]]
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The LTG, also known as the "Gavalov" tank, was a Soviet light tank design dating to 1944. R131 Tank Gavalov  It was designed by I. R131 Tank Gavalov V. R131 Tank Gavalov  Gavalov, who previously worked on other light tank designs including the T-70. R131 Tank Gavalov 
+
+
+In this project, the crew compartment was situated in the turret,w while the engine was apparently in the back in lying position. R131 Tank Gavalov  Fuel tanks and a part of stowed ammunition were located in the “nose” of the vehicle. R131 Tank Gavalov  In the turret, on the right side from the gun was the driver, the commander of the vehicle was behind him, and on the left side there was the gunner and loader. R131 Tank Gavalov  Furthermore, the engine was placed horizontally (the cylinders were horizontal), which, along with placing the crew in the turret, reduced the height of the vehicle. R131 Tank Gavalov 
+
+As mentioned earlier, the driver’s seat was “stabilized” – when the turret turned, the driver stayed looking forward – this was possible thanks to a special chain transmission and the fact that the whole turret was “sitting” on the bottom of the tank on a pivot, not unlike the one of the anti-aircraft lafettes. R131 Tank Gavalov  Effectively, the driver was sitting on the turret axis and the whole thing rotated around him. R131 Tank Gavalov  The driver was also sitting above the rest of the crewmembers, looking out via a roof-mounted periscope, which was also stabilized. R131 Tank Gavalov 
+
+As for the armament,in player-suggested trees, this tank is equipped with either a 57mm ZiS-5, or 76,2mm ZiS-4 and S-54 and characterised as a small, fast vehicle. R131 Tank Gavalov  Historically, it was to be equipped with a long-barelled 76mm gun and a machinegun. R131 Tank Gavalov  The vehicle was supposed to be 1,3m tall, 4m long and was supposed to have 7 large roadwheels. R131 Tank Gavalov  Armor was most likely probably non-existent. R131 Tank Gavalov 
+
+
+|HistAcc=
+* The armor values of the tank were most likely created by Wargaming, as there is no indication of what the values actually were. R131 Tank Gavalov 
+* The 85mm guns were not proposed for this tank. R131 Tank Gavalov 
+
+|HistoricalGallery= 
+File:Gavalov_Tank. R131 Tank Gavalov jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. R131 Tank Gavalov wot-news. R131 Tank Gavalov com/2013/07/08/possible-tier-67-soviet-lt-the-gavalov-tank/
+
+}}

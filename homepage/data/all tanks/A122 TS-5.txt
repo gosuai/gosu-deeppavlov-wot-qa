@@ -1,0 +1,43 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Strong frontal armor, has weakspots but they are decently armored as well
+* Large health pool for a tank destroyer, comparable to a heavy tank
+* Excellent DPM, among the best in tier
+* HEAT (premium) ammo have good shell velocity
+* Good gun handling and aim time
+
+|InTheGame_cons= 
+
+* Very bad accuracy makes even mid-range engagements frustrating
+* Poor gun depression and limited gun arc
+* Low top speed and sluggish mobility, struggles to relocate
+* Very vulnerable to artillery and flanking
+
+|InTheGame_performance= 
+{{VideoYT|dTAv9padxTQ}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Toolbox
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

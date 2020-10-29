@@ -1,0 +1,59 @@
+{{TankData|Tank= Somua SM
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* 5-round autoloader with good alpha damage and penetration
+* Good DPM for an autoloader, decent clip reload time
+* Good aim time and fast shell cycling
+* Great gun depression
+* Decently armored for a French autoloader heavy
+
+
+|InTheGame_cons= 
+
+* Poor speed and acceleration, much slower compared to the [[AMX 50 100]]
+* Inferior burst damage compared to the [[AMX 50 100]]
+* Average viewrange
+* Bad accuracy at range
+* Requires a different playstyle compared to techtree French autoloader heavies
+
+
+
+|InTheGame_performance= 
+The Somua SM works well as a frontline supporter-brawler. F84 Somua SM  Judging by the traditions of French autoloaders, its burst damage may not be that surprising, neither has it the necessary mobility to evade retaliate easily. F84 Somua SM  Yet American autoloader commanders will find this vehicle much accustomed: handy armor, quick reload and adaptive to terrains. F84 Somua SM  The only significant difference is that boxy, Germanic appearance than large cast pieces. F84 Somua SM  
+Tactics-wise, its slow pace suits those heavy brethren perfectly. F84 Somua SM  Play like an [[T57 Heavy Tank]]: finish off the damaged or devastate the fresh ones in no time, then retreat into cover. F84 Somua SM  Fear not when the situations call for your spearheading, you have some armor to boot. F84 Somua SM  Bullying meds is also an option, just be well-aware that the Somua can't relocate as one wishes easily, and probably won't survive any wolf-pack assault with depleted drum and little support. F84 Somua SM  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vents, Vertical Stabilizer, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The design office of the Société d'outillage mécanique et d'usinage d'artillerie (SOMUA) began work on the SM vehicle in 1946. F84 Somua SM  The development was based on knowledge of the construction of German medium and heavy tanks. F84 Somua SM  The main weapon became a long-barreled cannon caliber 100 mm stored in a swinging turret. F84 Somua SM  The photos indicate that the tower of the SOMUA SM tank was structurally identical to the tower of the AMX-50 tank. F84 Somua SM  Prototype delivered in October 1951. F84 Somua SM  Tests completed in July 1953. F84 Somua SM  Thanks to political machinations and the purchase of cheaper North American tank M47 Patton, SOMUA SM was not introduced into service. F84 Somua SM 
+
+|HistoricalGallery= 
+[[File:Somua-sm0001. F84 Somua SM jpg|800*503px|frameless|Somua SM]]
+
+|HistAcc=
+
+*Hull armour is probably incorrect, because parameters of hull armour is unknown
+*Somua SM had same turret like [[AMX 50 100]], but armour is inconsistent
+
+  
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://www. F84 Somua SM valka. F84 Somua SM cz/SOMUA-SM-t11226
+
+}}

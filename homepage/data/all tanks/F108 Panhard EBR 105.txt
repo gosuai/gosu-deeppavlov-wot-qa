@@ -1,0 +1,67 @@
+{{TankData|Tank= 
+|Currently the fastest vehicle in '''''World of Tanks'''''. F108 Panhard EBR 105   The Panhard EBR 105 features insane mobility that surpasses any tanks that were ever added in the game, with a whopping speed of 91km/h in rapid mode. F108 Panhard EBR 105  In the Common Test when the wheeled vehicles were unveiled, the EBR 105 had been able to achieve more than 100 km/h!  Although its penetration and protection are underwhelming it can utilize its mobility to harass its targets and bring them down one by one. F108 Panhard EBR 105 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Highest top speed in the game (91km/h in rapid mode), its top speed in normal mode is also very fast as well (70km/h)
+
+- Wheeled vehicle: very high reverse speed, and requires hitting 5 out of 8 wheels or disabling its engine to force the vehicle to stop. F108 Panhard EBR 105 
+
+- APCR provides very high shell velocity (1300m/s), allowing it to hitting moving targets with ease
+
+- Insane turret traverse speed and very low aim time, combined with "special target locking", means it can snap shot very effectively
+
+- Excellent Camouflage values
+
+- High pen on its HE round 
+
+|InTheGame_cons= 
+- Lowest HP of all tier X non-SPGs (1300) as well as having a larger but much weaker turret than its predecessor; extremely vulnerable to HE shells
+
+- Lowest penetration of all non-derp guns at tier X
+
+- Wheeled vehicle  -- cannot rotate the hull while stationary, and when any wheel(s) are damaged its speed deteriorates significantly
+
+- Low ammo capacity (36 rounds)
+
+- Poor DPM due to relatively long reload time (12 seconds)
+
+- Low view range (350m)
+
+- Very low weight (17 tons) -- extremely prone to ramming
+
+- High chance of catching fire (15%) -- second score of all tier X light tanks
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|zV4u5Z0E1AA}}
+
+|History= 
+
+|HistAcc=
+The Panhard EBR 105 is an unhistorical configuration of the Panhard EBR with a modified ERC 90 Sagaie retrofitted turret, recognizable with the yellow warning sticker for the laser rangefinder and the boxy gunner sight offering both day and night vision. F108 Panhard EBR 105  The ERC is armed with a 90 mm gun firing APFSDS and HEAT. F108 Panhard EBR 105  France started mass-producing the ERC 90 in the mid 70s, and has recently retired them from active service (although they are still used for training purposes), having replaced them with AMX 10 RCR wheeled reconnaissance tanks. F108 Panhard EBR 105 
+ 
+* HEAT is actually the standard ammunition of the 105 mm D. F108 Panhard EBR 105  1504 gun. F108 Panhard EBR 105  Other ammunition types were smoke, HE and APFSDS. F108 Panhard EBR 105  The APCR round is fake. F108 Panhard EBR 105 
+
+* The 105 mm D. F108 Panhard EBR 105  1504 is the same gun on the [[Tank:F73_M4A1_Revalorise|M4A1 Revalorisé]], [[Tank:F88_AMX_13_105|AMX 13 105]] and [[Tank:F18_Bat_Chatillon25t|Bat. F108 Panhard EBR 105 -Châtillon 25 t]], yet the penetration and weight values are inconsistent. F108 Panhard EBR 105 
+
+*105mm gun was never mounted on Panhard EBR 
+*Turret of this vehicle is from Panhard ERC, but ERC wasn't use 105mm too. F108 Panhard EBR 105 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

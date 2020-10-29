@@ -1,0 +1,87 @@
+{{removedTank}}
+{{TankData|Tank=Aufklärungspanzer Panther
+|Also known as "Awful Panther". G85 Auf Panther  The Aufklärungspanzer Panther was replaced by [[Tank:G113 SP I C |Spähpanzer SP I C. G85 Auf Panther ]] in patch 0. G85 Auf Panther 9. G85 Auf Panther 9 due to the fact that it had completely different playstyle than the rest of the line. G85 Auf Panther  However, WG are currently reworking this vehicle and planned to be released as Tier 8 premium light tank. G85 Auf Panther 
+
+|InTheGame_pros=
+- Fast acceleration and respectful top speed (despite size) allows for fast relocation to offer support where needed. G85 Auf Panther 
+ 
+- Good penetration (with great prem round) for a tier 7 scout. G85 Auf Panther 
+
+- Good aim time, high shell velocity and amazing accuracy. G85 Auf Panther  A blistering ROF (faster than 3 seconds reload with good crew and a rammer) means DPM is high as well. G85 Auf Panther 
+
+- Good Radio and good view range. G85 Auf Panther 
+
+- Retains camo bonus while moving. G85 Auf Panther 
+
+- Can mount 10. G85 Auf Panther 5cm howitzer if preferred. G85 Auf Panther 
+
+- Thick hull armor for a light tank (Panther hull). G85 Auf Panther  Front plate if angled can bounce guns with up to 160mm of pen. G85 Auf Panther  Side armor of 50mm avoids triple overmatch from <150mm caliber rounds. G85 Auf Panther  
+
+- Good for ramming lighter vehicles due to its weight. G85 Auf Panther 
+
+|InTheGame_cons=
+- Low alpha damage. G85 Auf Panther 
+
+- High cost of premium shells. G85 Auf Panther 
+
+- Frontally mounted transmission. G85 Auf Panther 
+
+- Can be ammo racked from frontal shots. G85 Auf Panther 
+
+- Very large silhouette, especially for a light tank. G85 Auf Panther 
+
+- Poor gun depression. G85 Auf Panther 
+
+- Atrocious stock grind due to weak gun. G85 Auf Panther  (Stock, the only way to consistently deal damage is ramming). G85 Auf Panther 
+
+|InTheGame_performance=
+The Aufklärungspanzer Panther comes after the VK 28. G85 Auf Panther 01 and requires a completely different playstyle. G85 Auf Panther   Think of the Auf P as a Passive Scout/Sniper/Flanker and you will get an idea of how to play it effectively in most fights. G85 Auf Panther 
+
+In early game your main goal is to spot the enemy or fire from safe distance. G85 Auf Panther  Take into account that the camo is not the best for a light (or even some mediums). G85 Auf Panther  When firing from distance, aim for weakpoints or use APCR for harder targets. G85 Auf Panther  Wait till a side/rear shot presents itself to take on tougher tanks. G85 Auf Panther  
+
+In late game your main role is flanking, creating local superiority by turning enemy guns or decimating them with superior damage per minute and solid pen. G85 Auf Panther  When not focused, the Auf P is a very dangerous tank that will silently (low alpha) take away large chunks of health. G85 Auf Panther  
+
+Keep in mind that you can ram and come out on top in many situations. G85 Auf Panther  This can be very effective, especially versus enemy light tanks. G85 Auf Panther  Just keep in mind that on average, ramming heavies is not a great idea. G85 Auf Panther  
+
+The key points are that you have a large profile and below average camo for a scout and that while you fire fast, your damage per shot (alpha) remains low. G85 Auf Panther   
+
+|InTheGame_research=
+* Free XP the upgraded suspension and turret straight off the bat if possible. G85 Auf Panther  You can mount the FuG12 with the stock tracks as well. G85 Auf Panther 
+
+* If the VK36. G85 Auf Panther 01 has been researched and the Waffe unlocked, mount it on the Aufklärungspanzer as soon as you have upgraded the suspension and turret. G85 Auf Panther  The Wafffe is the best gun for it and turns the Aufklärungspanzer into a formidable tank. G85 Auf Panther   It has an amazing muzzle velocity and penetration, 157mm with standard AP ammo and 221 mm with APCR, allowing you to damage almost every tank on the batlefield. G85 Auf Panther   
+
+* If you have researched the 30. G85 Auf Panther 01D and 30. G85 Auf Panther 02D, or you have pursued the Medium and Casemate TD lines via the Panther and JagdPanther, respectively, you should have unlocked the second engine for the A. G85 Auf Panther Panther. G85 Auf Panther  Mount it as soon as you can and you'll go from being a slightly faster Panther to almost as fast as an E-50. G85 Auf Panther  Unlock the top engine for 900hp at under 40 tonnes (22. G85 Auf Panther 5hp/t). G85 Auf Panther 
+
+====Suggested crew skills====
+* Commander: Sixth Sense, Camouflage, BIA (if you have gold, train camo first, then switch to Sixth Sense and train camo again)
+* Gunner: Camouflage, Designated Taraget, BIA
+* Driver: Camouflage, Off Road Driving, BIA
+* Loader: Camouflage, Safe Stowage, BIA
+* Radioman: Camouflage, Situational Awareness, BIA
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 1, Coated Optics
+
+|History=
+[[image:Aufklärungspanzer_Panther_front_left. G85 Auf Panther jpg|thumb|200px|left|Aufklärungspanzer Panther]]
+In 1942 Aufklärungspanzer Panther design was in debate between Hitler (who as always wanted a heavier, better armored design) and the Heer. G85 Auf Panther  After a rather lengthy debate, Hitler was finally persuaded to approve the lighter 21. G85 Auf Panther 9 ton design, while using many existing Panther components to ease production. G85 Auf Panther   Jumping on that, Speer said that the characteristics of the tank were so similar to the Panther that the latter could be used instead. G85 Auf Panther  This resulted in a somewhat lightened Panther that used the much smaller Leopard turret  (related to the wheeled Puma design) and the soon to be inadequate 5cm K. G85 Auf Panther W. G85 Auf Panther K 39. G85 Auf Panther  Apparently the small matter of tank size did not seem to bother him. G85 Auf Panther  Following on that idea, competition arose, leading Rheinmetall to offer its own interpretation on the design about a month later, an artillery observation vehicle with similar specification called the Panzerbeobachtungswagen Panther. G85 Auf Panther  Despite the bulkier design, it used the same 5cm cannon in a dummy barrel resembling the 7. G85 Auf Panther 5cm L/70, all in all being an equivalent design to M. G85 Auf Panther A. G85 Auf Panther N. G85 Auf Panther 's recon tank. G85 Auf Panther  Soon enough, battlefield realities made both designs obsolete when it was apparent that the 5cm cannon was inadequate for its task unless shooting expensive tungsten ammunition and Panther testing itself showed the base chassis was far from being mature, leading to a quiet termination. G85 Auf Panther 
+
+Ironically, Panther's chronically weak final drive and suspension would likely have been far more useful in a tank of about half the weight, which would end up being cheaper by using standardized components (an idea that would soon resurface with later Panther design and the paper E-series) and its armament could still have had a chance to either be refocused in a different role (20 and 30mm autocannons were still very useful against infantry and soft skinned vehicles) or recycled into a prime candidate for the 7. G85 Auf Panther 5cm PAK 50 gun project, which was an excellent way to transform 5cm cannons into low velocity 7. G85 Auf Panther 5cm howitzers using the 75mm L/24 ammo, useful both as HE round and decent against tanks with its HEAT warhead. G85 Auf Panther  Despite several other recon tank projects in 1943-44, in the end the old Skoda 38(t) had to soldier on in the light tank role, while the wheeled sdkfz 234 Puma with a similar turret design showed the usefulness of a well armed and flexible recon vehicle. G85 Auf Panther 
+
+|HistoricalGallery=
+File:Apanther1. G85 Auf Panther jpg
+
+|HistAcc=
+While the Aufklärungspanzer Panther project did exist in some form, there are no known records showing that it was to be mounted with the VK 28. G85 Auf Panther 01 Ausf. G85 Auf Panther  C turret, or any other armament other than the 5 cm Kw. G85 Auf Panther K. G85 Auf Panther  39 L/60. G85 Auf Panther 
+
+|Ref_references=
+
+|Ref_sources=
+* H. G85 Auf Panther L. G85 Auf Panther Doyle, T. G85 Auf Panther Jentz – Panther Variants 1942-1945
+
+|Ref_links=
+* https://ftr-wot. G85 Auf Panther blogspot. G85 Auf Panther com/2013/02/aufklarungspanzer-panther-tier-7-lt. G85 Auf Panther html
+* https://worldoftanks. G85 Auf Panther ru/encyclopedia/vehicles/germany/auf_panther/
+* https://zxhistory. G85 Auf Panther blogspot. G85 Auf Panther com/2013/03/aufklarungspanzer-panther-industrialist. G85 Auf Panther html
+
+}}

@@ -1,0 +1,99 @@
+{{TankData|Tank=M36_Slagger
+|It is very similar to the [[M10 Wolverine]], with increased armor values and the ability to mount the powerful 90 mm AT Gun M3. A31 M36 Slagger  However, it cannot mount the [[Gun#105 mm AT SPH M4 L23|105 mm AT SPH M4 L23]] that's available on the M10 Wolverine. A31 M36 Slagger  Even though it has a turret, remember that the M36 Jackson is a tank destroyer and not a medium tank. A31 M36 Slagger  By keeping the hull still and only rotating the turret to fire, [[Equipment|Camouflage Nets]] and [[Equipment|Binocular Telescopes]] won't reset, making it one of the more difficult tank destroyers to spot when used properly although you should not overestimate and rely on its camouflage values as, unlike the Hellcat, though its only few percentage lower. A31 M36 Slagger 
+
+|Sidebar_Camostop=17. A31 M36 Slagger 4
+|Sidebar_Camomove=10. A31 M36 Slagger 6
+|Sidebar_Camofire=6. A31 M36 Slagger 3
+|Sidebar_Passhard=1. A31 M36 Slagger 055
+|Sidebar_Passmed=1. A31 M36 Slagger 247
+|Sidebar_Passsoft=2. A31 M36 Slagger 205
+|Sidebar_DispTurret=0. A31 M36 Slagger 153
+|Sidebar_DispRecoil=3. A31 M36 Slagger 356
+|Sidebar_DispAccel=0. A31 M36 Slagger 221
+|Sidebar_DispTurning=0. A31 M36 Slagger 221
+
+|InTheGame_pros=
+* Good damage, accuracy, aim time for its tier; higher ammo capacity than Hellcat  
+* Strong lower glacis can bounce several shells over long distance
+* Good maneuverability and acceptable top speed
+* Good gun depression with decently armored turret and tough mantlet allow for hull-down tactics
+* Gold shells have 243mm of penetration, giving the Jackson one of the best standard round/gold penetration ratios in the game
+* Easier stock grind than the Hellcat 
+
+|InTheGame_cons=
+* Slow turret traverse
+* Very weak side and rear armor; unremarkable upper glacis armor, 114mm can be only found on the lower glacis
+* Poor camo index, especially when firing 90mm gun, compared to the Hellcat; upgrading the turret results in worse concealment
+* Worse mobility than previous [[M10 Wolverine]]
+* Gun tends to misbehave and 2nd worst AP penetration of all Tier 6 TDs, along with Hellcat. A31 M36 Slagger 
+* Shed roof on second turret has no collision model, artillery fire can plunge through and deal serious damage
+
+|InTheGame_performance=
+While the M18 Hellcat is built for speed and mobility, the M36 Jackson is built for sniping and hull-down positions. A31 M36 Slagger  Its gun depression is excellent, so it can often use small hills and terrain changes to expose only its turret to enemy fire. A31 M36 Slagger  The 90mm gun is very accurate and aims fast by mid-tier American standards, enabling the M36 to snipe to good effect. A31 M36 Slagger  Although the M36 does have a turret, the standard tank-destroyer rules still apply: keep a distance, use camouflage or cover, and always watch your flanks. A31 M36 Slagger  The M36 is fairly maneuverable, but the slow turret traverse means it can be circled and its response time is slow. A31 M36 Slagger  Climbing hills may also be a problem to this tank destroyer. A31 M36 Slagger 
+
+While better armored than its predecessor, the M36 is still mostly paper to the guns it faces. A31 M36 Slagger  Do not trust the shop statistics - the 114mm armour thickness is only on your transmission cover. A31 M36 Slagger  Your hull front is 60mm at 45 degrees and your turret sides 25mm at 45 degrees, and even your most armoured part, the gun mantlet has a total of only 150mm. A31 M36 Slagger  That said, the turret armor can take a beating if required and always use hulldown when possible. A31 M36 Slagger  In the end, the best way to play the Jackson is as a sniper. A31 M36 Slagger  However, since most of the good sniping spots have been removed in the past several patches, you will need to learn to streetfight. A31 M36 Slagger  That can be done by supporting the top tier heavies, securing their flanks, and scavenging any kills that they've missed. A31 M36 Slagger 
+
+This is a good tank to pickup to learn the ways of the mechanics for new players. A31 M36 Slagger  Standard rounds are enough to pen most frontal armor and usually side armor so it will make the player to choose their targets carefully. A31 M36 Slagger   Its camouflage its also decent enough that can be compared to Hellcat. A31 M36 Slagger  It has decent mobility to move around and to set up locations when needed. A31 M36 Slagger   Its armor is also strong enough to bounce most luchs and unaimed shots from low tier especially when the armor is angled  
+
+
+|InTheGame_research=
+
+* Engines and radio carry over from the M10 Wolverine - install immediately. A31 M36 Slagger 
+* Your tracks can't hold the 90mm gun. A31 M36 Slagger  Research that first. A31 M36 Slagger 
+* Research the 90mm gun. A31 M36 Slagger 
+* If you intend to keep the Jackson permanently, research the upgraded turret. A31 M36 Slagger  If you dont intend to keep it permanently it is recommended to skip the turret upgrade as it does offer only very minor advantages for its price in XP. A31 M36 Slagger  It does not get any increase in rate of fire nor extra armor. A31 M36 Slagger  The upgraded turret only offers a few extra hitpoint and small reduction of gun dispersion on turret traverse . A31 M36 Slagger   
+
+|InTheGame_equipment= Medium-Caliber Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|Gallery=
+image:M36_001. A31 M36 Slagger jpg{{!}}M36_001
+image:M36_002. A31 M36 Slagger jpg{{!}}M36_002
+image:M36_003. A31 M36 Slagger jpg{{!}}M36_003
+image:M36_004. A31 M36 Slagger jpg{{!}}M36_004
+
+|History=[[Image:Slugger. A31 M36 Slagger jpg|160px|right]]
+The M36 Tank Destroyer, formally 90 mm Gun Motor Carriage, M36, was an American Tank Destroyer used during World War II. A31 M36 Slagger  It was known as Jackson or Slugger by the British, after the Confederate general Stonewall Jackson. A31 M36 Slagger  American soldiers usually referred to them as TDs for 'Tank Destroyers'. A31 M36 Slagger  The M36 first served in combat in Europe in September 1944, and served until the end of the war; it also served during the Korean War, and in the armies of several other countries. A31 M36 Slagger  
+
+====Development====
+
+With the advent of heavy German armor such as the Panther and Tiger, the standard U. A31 M36 Slagger S. A31 M36 Slagger  Tank Destroyer, the 3in Gun Motor Carriage M10, was rapidly becoming obsolete, because its main armament, the 3in M7 gun, had difficulty engaging these new tanks past 500 meters. A31 M36 Slagger  This was foreseen, however, and in September, 1942 American engineers had begun designing a new Tank Destroyer armed with the M3 90 mm gun. A31 M36 Slagger  This was several months before any Allied unit encountered a Tiger in combat, as the British First Army in Tunisia was the first western Allied unit to encounter the Tiger I in the leadup to the Battle of the Kasserine Pass at the start of 1943, and well over a year before any US unit encountered a Panther in combat. A31 M36 Slagger  The first M36 prototype was completed in March 1943, with a new turret mounting the 90 mm M3 gun on a standard M10 chassis. A31 M36 Slagger  After testing, an order for 500 was issued. A31 M36 Slagger  The prototype was designated T71 Gun Motor Carriage; upon standardization the designation was changed to 90 mm Gun Motor Carriage M36 in June 1944. A31 M36 Slagger  Like all US Tank Destroyers, the turret was open-topped to save weight and provide better observation. A31 M36 Slagger  Postwar, a folding armored roof kit was developed to provide some protection from shell fragments, as with the M10. A31 M36 Slagger  The M36 had a large bustle at the rear of its turret which provided a counterweight for the main gun. A31 M36 Slagger  Eleven additional rounds of ammunition were stored inside the counterweight. A31 M36 Slagger 
+
+====Service====
+It was not until September 1944 that the vehicle first began to appear in the European Theater of Operations. A31 M36 Slagger  About 1,400 M36s were produced during the war. A31 M36 Slagger  The need for 90 mm gunned Tank Destroyers was so urgent that, during October-December 1944, 187 conversions of standard Medium Tank M4A3 hulls were produced by Grand Blanc Arsenal. A31 M36 Slagger  These vehicles, designated M36B1, were rushed to the European Theater of Operations and used in combat alongside standard M36s. A31 M36 Slagger  The M36 was well liked by its crews, being one of the few armored fighting vehicles available to US forces that could destroy heavy German tanks from a distance. A31 M36 Slagger  After World War II, the M36 was used in the Korean War. A31 M36 Slagger  It could destroy any Soviet-made AFV deployed in that theater of operations. A31 M36 Slagger  One postwar modification was the addition of a ball-mounted machine gun on the co-driver's side, as in many other armored fighting vehicles of the time. A31 M36 Slagger 
+
+M36s were also exported after World War II to various countries. A31 M36 Slagger  One of the recipients was Yugoslavia where the engine was replaced with the 500 hp Soviet-made diesel engine used in T-55 main battle tanks. A31 M36 Slagger  Yugoslavian M36s participated in the Croatian War of Independence (1991–1995) but they are no longer in service with the Croatian Armed Forces due to their withdrawal immediately after the war. A31 M36 Slagger  M36s were also used by Serbian forces in Bosnia and Croatia, and they were used during the Kosovo War as decoys for NATO air strikes. A31 M36 Slagger  The M36 was used by the French army, during the First Indochina War. A31 M36 Slagger  They were also supplied as part of U. A31 M36 Slagger S. A31 M36 Slagger  military aid to Pakistan in the 1950s and served in the Indo-Pakistani War of 1965. A31 M36 Slagger 
+
+The Republic of China Army acquired eight ex-French examples in 1955 and had them stationed in Kinmen island group, where they are deemed more maneuverable than the bigger M48A3 and later CM11/12 MBTs while being more powerful than M24 and M41 light tanks. A31 M36 Slagger  As of April 2001, at least two still remained in service with troops defending Lieyu Township. A31 M36 Slagger 
+
+|HistAcc=
+The M36 Jackson is depicted in-game as the M36B2: 90 mm gun turret on M10 hull. A31 M36 Slagger  Neither the M36 nor M36B1 variants exist in World of Tanks. A31 M36 Slagger  The M36 and M36B1 used the M10A1 and M4A3 Sherman hull respectively. A31 M36 Slagger  Both variants were powered by the [[Engine#Ford GAA|Ford GAA]] gasoline engine. A31 M36 Slagger 
+* The M36 was designed to carry the 90 mm gun, hence the name '''90 mm Gun Motor Carriage, M36'''. A31 M36 Slagger  There is absolutely no reason for the 76 mm M1 gun to exist on this tank. A31 M36 Slagger 
+* The 90 mm M3 is the same gun equipped on the [[Tank:A121_M26_Cologne|T26E3 Eagle 7]] (the premium equivalent of the [[M26 Pershing]]), yet the penetration and weight values are inconsistent. A31 M36 Slagger 
+
+|HistoricalGallery=
+image:Jackson1. A31 M36 Slagger jpg
+image:Jackson2. A31 M36 Slagger jpg
+image:Jackson3. A31 M36 Slagger jpg
+image:Jackson4. A31 M36 Slagger jpg
+image:Jackson5. A31 M36 Slagger jpg
+image:Jackson6. A31 M36 Slagger jpg
+image:M36 Jackson camo. A31 M36 Slagger jpg
+image:Jackson-a1. A31 M36 Slagger JPG{{!}}Right tank in Vukovar museum, Croatia
+image:Jackson-a2. A31 M36 Slagger JPG{{!}}Left tank in Vukovar museum, Croatia
+image:Jackson-aa. A31 M36 Slagger jpg{{!}}Warehouse Zagreb, Croatia
+image:Jackson2-aa. A31 M36 Slagger png{{!}}Warehouse Zagreb, Croatia
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Zaloga, S. A31 M36 Slagger J. A31 M36 Slagger , 2002, <i>'''M10 and M36 Tank Destroyers 1942–53'''</i>, New Vanguard Series 57, Osprey Publishing, Oxford, 48p,  ISBN:9781841764696. A31 M36 Slagger 
+
+
+|Ref_links=
+
+https://www. A31 M36 Slagger militaryfactory. A31 M36 Slagger com/armor/detail. A31 M36 Slagger asp?armor_id=251  '''M36 Jackson (aka Slugger) Gun Motor Carriage'''
+* [https://www. A31 M36 Slagger wwiivehicles. A31 M36 Slagger com/usa/tank-destroyers/m36. A31 M36 Slagger asp '''M36 Jackson aka Slugger'''] Photos & history. A31 M36 Slagger 
+
+}}

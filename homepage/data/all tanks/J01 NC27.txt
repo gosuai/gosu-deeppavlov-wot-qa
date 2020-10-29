@@ -1,0 +1,65 @@
+{{TankData|Tank=NC27
+|
+
+Combining aspects of its French roots and Japanese deployment, the Otsu is something of a hybrid. J01 NC27  combining the very French-like mobility, armor and aesthetics with the relatively weak turret and great gun depression of the other Japanese tanks. J01 NC27 
+|Gallery=
+
+File:Renault Otsu scr 1. J01 NC27 jpg
+File:Renault Otsu scr 2. J01 NC27 jpg
+File:Renault Otsu scr 3. J01 NC27 jpg
+File:Renault_Otsu_screen1. J01 NC27 jpg
+
+
+|InTheGame_pros=
+* Best Frontal and side armour (30 mm, sloped) in tier. J01 NC27 
+* Adequate agility. J01 NC27 
+* Choice between an autocannon (low pen) or gun (higher pen) with decent damage per shot, reload but bad accuracy and aim time. J01 NC27 
+* Amazing gun depression - best in game!
+* In team battle format rarely used as a counter to T1 cunningham's hispano autocannon. J01 NC27 
+
+|InTheGame_cons=
+* Slow top speed. J01 NC27 
+* Depending on choice of gun, poor pen (autocannon) or bad gun handling (37mm). J01 NC27  
+* Poor turret traverse speed. J01 NC27 
+* Large weak spot - driver's hatch on front of tank - armor thin and unangled. J01 NC27 
+* Turret is far less armored than the hull. J01 NC27       
+
+|InTheGame_performance=
+The Renault Otsu is the Japanese version of the [[Tank:RenaultFT|Renault FT]] French light tank. J01 NC27  As such, the Otsu shares the Renault FT series' sluggish top speed. J01 NC27  This makes the Otsu slower to react to changing battlefield conditions. J01 NC27  However, it is surprisingly nimble and easy to turn, owing to its 36 degree traverse speed fully upgraded. J01 NC27  
+
+The tank also boasts quite a lot of armour for a tier 1 tank, with 30 mm of armour at the front. J01 NC27  This allows you to bounce quite a number of enemy tank's guns. J01 NC27  Do not fool yourself into thinking that the Otsu can bounce everything, as most single-shot cannons can penetrate this armour, but machine guns and autocannons can struggle against the 30mm plate. J01 NC27 
+
+The selection of guns on the Otsu is pretty sub-par, all have mediocre penetration. J01 NC27  Its 37mm provides less penetration than most other single-shot tier 1 cannons, while the 23mm of penetration on its Machine Gun can leave it vulnerable at medium ranges and might bounce off enemies at closer ranges. J01 NC27 
+Overall, the Renault Otsu performs well as a brawler in close-combat cities, but is not very good at anything else. J01 NC27  Himmelsdorf is the best possible map for this vehicle. J01 NC27  The penetration on both guns is really only suitable for close-range engagements, where the 0. J01 NC27 5 /100 m accuracy does not matter much either. J01 NC27  Use the terrain for cover while you reload, and punish enemy tanks that try to take you out. J01 NC27  
+
+The tank suffers a lot when facing tier II tanks due to lacking pen / accuracy. J01 NC27  In tier II the armor also loses a lot of its value. J01 NC27  Due to low top speed, flanking is harder to achieve. J01 NC27  
+
+Please note the [[Battle_Mechanics#Map_Restrictions|Map Restrictions]] for tier 1 tanks and the Camouflage Type for those maps when purchasing a camouflage skin/paint job for this tank. J01 NC27  
+
+|InTheGame_research=
+* The 37 mm Sogekihou gun is the only module available for research, so get it. J01 NC27 
+
+|InTheGame_equipment=
+Vents, Enhanced Gun Laying Drive
+
+|History=  Louis Renault had obtained an order in 1923 to build two new prototypes as a parallel modification project, with the factory designation '''Renault NC'''; it was intended to feature not only an improved suspension system but also a stronger engine. J01 NC27  Like "FT", "NC" is a combination of code letters devoid of any meaning. J01 NC27  One prototype happened to be finished second, in December 1925, and was therefore called the '''NC2'''. J01 NC27  It was fitted with a modified Kégresse leaf spring suspension and a 62 hp engine. J01 NC27  It had as an alternative designation ''Renault Modèle 24/25'', because Renault proposed to build it as a possible "fast tank" as specified in Plan 1924 of the French Cavalry. J01 NC27  This line of development was discontinued however. J01 NC27  The first prototype to be ready, thus named the '''NC1''', had a different suspension system, with twelve wheels and three large vertical volute springs per side. J01 NC27  It allowed for a top speed of 18. J01 NC27 5 km/h, making it in 1926 the fastest French tank ever developed. J01 NC27  
+
+
+Renault also tried to open foreign markets. J01 NC27  In 1929 he obtained an order of ten vehicles for Japan, there called the Renault Otsu-Gata ("Type B"). J01 NC27  These tanks were modified in Japanese service, fitted with thicker armor including 30mm frontal armor plating, the 37mm Type 11 Sogekiho Infantry Gun, and 75 horsepower Mitsubishi diesel engine. J01 NC27 
+
+|HistoricalGallery=
+Renault Otsu. J01 NC27 jpg
+Renault Otsu (2). J01 NC27 jpg
+File:Otsu_Gata_tank. J01 NC27 jpg
+File:Renault_otsu_armor_profile. J01 NC27 png{{!}}Armor profile of the Renault Otsu
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links= 
+* https://en. J01 NC27 wikipedia. J01 NC27 org/wiki/Char_D1#Renault_NC
+* https://www. J01 NC27 reddit. J01 NC27 com/r/Warthunder/comments/5upgzt/japanese_renault_otsu_30mm_armour/
+* https://tankarchives. J01 NC27 blogspot. J01 NC27 com/2017/05/renault-nc-destined-for-export. J01 NC27 html
+
+}}

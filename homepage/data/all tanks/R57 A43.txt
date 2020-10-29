@@ -1,0 +1,58 @@
+<br />{{TankData|Tank=A43
+|
+
+|Gallery=
+
+
+|InTheGame_pros=
+*Very good mobility 
+*Good RoF and DPM with 76mm
+*Excellent RoF, DPM and good accuracy with 57mm
+*Good aim time gun handling, especially on the move
+*Not much to research, particularly if you already have the V-5 engine from the KV line
+*Easier stock grind compared to most same-tier mediums
+
+
+|InTheGame_cons=
+*Huge commander's hatch (which is pretty well armored though)
+*Lowest AP (APCR with 76mm) penetration compared to other Tier 6 mediums
+*Poor alpha
+*Mediocre accuracy when fully aimed with 76mm
+*Weak overall armor
+*The entire tank is an ammo rack on tracks!
+
+
+|InTheGame_performance=
+Great mobility, poor armor, lacklustre penetration and a 76mm gun putting out about 115 damage at 18. R57 A43 18 rpm and 1. R57 A43 9 second aim time (with the second turret). R57 A43  All these should scream "[[M4A3E8 Sherman]]" to the experienced player and in many ways, this is what this Soviet medium is. R57 A43  Featuring a better silhouette than its American counterpart but limited gun depression, drivers should strive for more active flanking encounters, as they cannot rely on their gun depression and/or mantlet like the Easy Eight can. R57 A43  Go for enemy heavies/TDs and make them spin helplessly as the 76mm (or 57mm) makes short work of their health. R57 A43  While players used to the T-34 version of the 76mm may be turned off, the penetration of the gun was buffed in patch 8. R57 A43 8 and the good RoF with the 2nd turret makes it a viable choice next to the 57mm. R57 A43  While the 57mm has a bit lower penetration than the 76mm, it makes up for it with better dpm (highest dpm of all tier 6 and 7 mediums, third highest to Obj 416 and T-34-85M including tier 8), higher premium penetration, and much better accuracy, so for players who are confident in shooting weakspots and picking the right target, the 57mm gun is the better choice. R57 A43 
+
+|InTheGame_research=
+* The good news is that this tank does not have that much to grind. R57 A43  All the guns and top radio carry over from the T-34. R57 A43 
+* Engine can be researched from the T-150, KV-2 and KV-3. R57 A43  If you don't have it, start with this - you need the agility!
+* Next comes the suspension for even more agility. R57 A43 
+* Finally, mount the turret for a HP, view range and an RoF buff. R57 A43 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics
+
+|History=
+In January 1941 the A43 project, a modernised variant of the T34, (also known under designation T34M) was proposed. R57 A43  Proposal came from Factory No. R57 A43  183 where  first two prototypes were scheduled for poduction at March 1941. R57 A43  The new tank was to be superior to T34, but this superiority in the end played a negative role in its fate. R57 A43  The Christie suspension was replaced by torsion bars which resulted in the ground clearance of the T34M being increased by an additional 50mm. R57 A43  In April 1941 there were three hulls ready, and in may there were as much as 50 pressed turrets for T-34M ready to be used. R57 A43  The problem was in the powerplant, as the used V5 diesel were not yet ready. R57 A43  This caused delay to the final assembly, and with the progress of the war, which put soviets in a desperate need for "numbers", the project was abandoned. R57 A43  It was concluded that any change in production plans would affect the current production which was out of the question. R57 A43 
+
+
+|HistoricalGallery=
+image:A_43_prototype_drawings. R57 A43 jpg
+image:A_43_prototype. R57 A43 jpg
+image:A43 . R57 A43 jpeg
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* М. R57 A43 Свирин “Броневой щит Сталина. R57 A43  История советского танка 1937-43 гг. R57 A43 ” Яуза/ЭКСМО. R57 A43  2006 г. R57 A43 
+* М. R57 A43 Свирин “Самоходки Сталина. R57 A43  История советской САУ 1919-45 гг. R57 A43 ” Яуза/ЭКСМО. R57 A43  2008 г. R57 A43 
+
+|Ref_links=
+* https://ftr. R57 A43 wot-news. R57 A43 com/2013/06/30/a-43-upcoming-tier-6-medium/
+* https://www. R57 A43 aviarmor. R57 A43 net/tww2/tanks/ussr/a-43. R57 A43 htm
+
+}}

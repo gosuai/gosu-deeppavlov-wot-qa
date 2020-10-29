@@ -1,0 +1,139 @@
+{{TankData|Tank=GB12_Conqueror
+|
+
+A potent continuation of the support tank class of heavy British tanks, the Conqueror plays like an overcharged version of the Caernarvon, featuring a significant jump in firing speed and some small improvements to general characteristics. GB12 Conqueror  The hull is exactly like the hull of the Caernarvon except that the upper plate was buffed from 130mm to 152. GB12 Conqueror 4mm, which significantly helps with surviving longer and blocking shots with the hull. GB12 Conqueror  But everything else is just just like the Hull of the Caernarvon, including the very weak lower plate. GB12 Conqueror  Like Centurions, it is also highly prone to ammo rack damage. GB12 Conqueror  However that would appear to simply be the price one has to pay for playing one of the best and most surely damaging support tanks in the game. GB12 Conqueror 
+
+The most surprising aspect of this tank is the introduction to HESH shells on its top gun, a nasty surprise for poorly armored tanks such as Lights, a few TDs, and some Medium tanks. GB12 Conqueror   Note that HESH, like all HE shells, does not have any normalization, which makes it difficult to penetrate sloped surfaces. GB12 Conqueror   In addition, tracks and other spaced armor easily block the HESH shells. GB12 Conqueror 
+|Gallery=
+
+|InTheGame_pros=
+
+* Good gun handling, accuracy, aim time and penetration
+* Strong turret and upper glacis armor
+* Great gun depression
+* Large hitpoint pool
+* Good viewrange
+
+|InTheGame_cons=
+
+* Rate of fire and DPM are not the best
+* Fairly sluggish mobility
+* Not counting the upper glacis, the hull armor is poor
+* Vulnerable to ammo rack damage
+* Ammo capacity is rather low
+
+|InTheGame_performance=
+
+The Conqueror is a fearsome tank once fully upgraded and is a significant improvement over its predecessor. GB12 Conqueror The top L1A1 gun does a respectable amount of damage and the high rate of fire means that you will often get a second shot in before your enemy has a chance to reload. GB12 Conqueror  Before the armor upgrade the Conqueror's L1A1 used to fire almost a full second faster than the M103's gun. GB12 Conqueror  Now it fires just slightly slower than the M103, but with that said it still retains the reliability and accuracy it is dreaded for. GB12 Conqueror  Indeed the sheer reliability of its 120mm gun makes the Conqueror one of the most dangerous Tier 9 heavy tanks in the game. GB12 Conqueror  
+
+While the Conqueror may have a phenomenal gun, the hull it is mounted on is mediocre at best. GB12 Conqueror  Even with some angling it is unlikely to bounce many shots unless they hit the upper front plate. GB12 Conqueror  While not particularly fast, it is agile enough with the top engine. GB12 Conqueror  Use the mobility and high rate of fire to deal damage quickly and get out of harm's way. GB12 Conqueror  The ammo-rack and the loader are crucial to the Conqueror's survival; losing one or both eliminates this tank's dreaded DPM. GB12 Conqueror  At top tier it is more than capable of leading the push if it needs to, but assuming a supporting role for a more heavily armored teammate and moving with a wave will allow you to put down the high DPM whilst protecting your weak hull. GB12 Conqueror   
+
+The turret armor is solid and reliable; gone are the pre-HD days when the Conqueror's turret could be just as easily be penetrated as its hull. GB12 Conqueror  The armor upgrade on the Conqueror includes a layer of spaced armor on the cheeks making it nigh impenetrable from the front; a far cry from previous incarnations where high-penetration guns can punch through the cheeks with little difficulty. GB12 Conqueror  Tanks who rely on HEAT ammunition are at a particular disadvantage when fighting a well-positioned Conqueror. GB12 Conqueror  As with the M103, however, the best way to utilize this asset is to expose it only when necessary. GB12 Conqueror  The turret roof is thinly armored and can easily be overmatched by large-calibre guns. GB12 Conqueror  
+
+In sum, the Conqueror is one of the best support tanks in the game whose weaknesses are not difficult to mitigate. GB12 Conqueror  In the right hands the Conqueror is more than capable of turning the tide of battle or facing any of its tier 9 counterparts. GB12 Conqueror  The upgraded armor means it can safely lead a push instead of its traditional role of sitting back and letting other heavies lead. GB12 Conqueror  The L1A1 gun is its strongest asset, and will not fail to reward those drivers who can protect the tank's weaknesses. GB12 Conqueror  
+
+|InTheGame_research=
+The early grind is not bad if you don't trade shots 1 for 1 because for the stock gun the reload can be brought to below 5 seconds, thus resulting in ridculous DPM over 2800. GB12 Conqueror  The quick reload speed can also often surprise the enemy, thinking youre still reloading, exposing themselves and being easy targets. GB12 Conqueror  However good aim is required due to penetration being lackluster against tier 9 & 10. GB12 Conqueror  
+If you can afford enhanced coil spring equipment you can focus on upgrading first to the turret and the top gun, the L1A1. GB12 Conqueror   Once you have the L1A1, the Conqueror really comes alive and feels much more like an end tier heavy tank should. GB12 Conqueror  The gun is fast, accurate and deals a respectable amount of damage for a tier 9 tank. GB12 Conqueror 
+
+After getting the turret and the 120mm, you can choose between the engine which is also on the centurion7/1 or the tracks. GB12 Conqueror 
+
+|InTheGame_equipment= Improved Ventilation, Tank Gun Rammer, Coated Optics, vertical stabilizer, "wet" Ammo Rack
+
+
+
+
+
+
+|History=                                       
+The FV 214 Conqueror  was a British heavy tank of the post-war era. GB12 Conqueror  It was developed as a response to the Soviet Joseph Stalin IS-3 heavy tanks and carried a larger 120 mm gun compared to the 20-pounder (83. GB12 Conqueror 4 mm) gun carried by its peer the Centurion. GB12 Conqueror  Its role was to provide long range anti-tank support for Centurion tanks. GB12 Conqueror  They were issued at nine for each regiment in Germany; usually grouped in three tank troops. GB12 Conqueror 
+
+==Development history==
+
+The chassis for the new tank was taken from the A45 Infantry Support Tank, started in 1944 shortly after that of the A41 Centurion. GB12 Conqueror  After the war the project was relocated to that of the "Universal Tank" design of the FV 200 series. GB12 Conqueror  The 200 series was to have used a common hull for all uses (self-propelled artillery, armoured personnel carrier, different varieties of tank, etc. GB12 Conqueror ). GB12 Conqueror  One tank type was to be the heavy FV 201 of 55 tonnes, armed with an 83. GB12 Conqueror 4 mm gun also known as 20 pounder. GB12 Conqueror 
+
+In 1949 it was decided to bring the armament up to 120 mm. GB12 Conqueror  As this delayed the project, in 1952 the FV 201 hull was combined with a 17 pounder-armed Centurion Mk 2 turret to give the FV 221 Caernarvon Mark I. GB12 Conqueror  Twenty-one were built with the Mk III 20 pounder turret as the Caernavon Mk II. GB12 Conqueror  The FV 221 may originally have been intended to be the "Main Battle Tank" member of the FV 201 series, but with the success of the A41 Centurion such a vehicle was no longer required. GB12 Conqueror  In either event, the Caernarvon was only used for chassis development work serving in troop trials. GB12 Conqueror  In 1955 the first Conqueror was produced. GB12 Conqueror  Twenty Mark 1 and 165 Mark 2 Conquerors were built including conversions of Caernavon MkIIs. GB12 Conqueror  Production continued until 1959. GB12 Conqueror  It had lost much enthusiasm once the Centurion was upgraded to an L7 105 mm gun. GB12 Conqueror 
+ 
+The gun design was American, the same as used on the US M103 heavy tank; with separate charge and projectile, as would also be the case in the Chieftain that followed. GB12 Conqueror  The charge was not bagged but in a brass cartridge, which offered some safety advantages, but reduced shell capacity to 35 rounds. GB12 Conqueror 
+
+The armour was very heavy for the time, especially in the front, where it was seven inches (178 mm) in the horizontal plane. GB12 Conqueror  Unfortunately, this, along with the weight of the huge turret required to house the large gun and the very large hull volume, made the vehicle very heavy, giving it a relatively low top speed and making it mechanically unreliable. GB12 Conqueror  Also, few bridges could support its weight. GB12 Conqueror  However, rather like the Second World War Churchill tank, the Conqueror had exceptional terrain handling characteristics and proved to be as capable cross country as the lighter (and on paper slightly faster) Centurion tank. GB12 Conqueror 
+
+One feature of particular note was the rotating commander's cupola, which was at the heart of the Conqueror's fire control system, advanced for its time. GB12 Conqueror  The commander could align the cupola on a target independently of the turret, measure the range with a Coincidence rangefinder, and then direct the gunner on to the new lay mechanically indicated to him by the cupola. GB12 Conqueror  In theory, when the gunner traversed to the new lay he would find the target already under his sights, ready to be engaged. GB12 Conqueror  Meanwhile, the commander was free to search for the next target. GB12 Conqueror  (The Soviet bloc also used similar devices, such as the TPKU-2 and TKN-3, on all of their post–World War II tanks though theirs did not use a rangefinder. GB12 Conqueror )
+
+The system may have been inspired by a similar device, without range finder, installed in WII German Panzers which was apparently highly successful, but was not repeated in subsequent tanks until an updated electronic version of the same idea appeared in the American M60A2 variant of the Patton series. GB12 Conqueror 
+
+==Variants==
+ 
+ 
+FV 222 Conqueror ARV Mk II
+The variants of the Conqueror tank and developments directly related to its development are:
+
+'''FV 214 Conqueror'''
+
+-	Mk I
+
+-	Mk II
+
+-	Mk II/I/H[verification needed] - rebuilt Caernarvons
+
+-	Design study of Conqueror chassis with limited traverse turret mounting 183mm gun. GB12 Conqueror  Wooden mockup produced. GB12 Conqueror 
+
+
+'''FV 221 Caernarvon'''
+
+-	Mk I – prototype
+
+-	Mk II - experimental series, 21 built
+
+
+'''FV 222 Conqueror Armoured Recovery Vehicle (ARV)'''
+
+-	Mk I - 8 produced
+
+-	Mk II - 20 produced. GB12 Conqueror  Weight: 57 tons. GB12 Conqueror  Winch capacity: 45 tons (direct pull). GB12 Conqueror 
+
+
+==Surviving vehicles==
+ 
+
+In the United Kingdom, Conqueror tanks are displayed at the Bovington Tank Museum, and the Land Warfare Hall of the Imperial War Museum Duxford. GB12 Conqueror  Other tanks are in the collections of the Musée des Blindés in France, the Royal Museum of the Army in Brussels and the Kubinka Tank Museum, Russia. GB12 Conqueror  One is privately owned in the United States as part of the Littlefield Collection. GB12 Conqueror  There are also two MkII ARVs at the Military History Museum on the Isle of Wight in an unrestored condition. GB12 Conqueror  A MkII ARV is held by theREME Museum of Technology, although it is not on display. GB12 Conqueror  There used to be a Conqueror at Base Vehicle Depot Ludgershall - a gate guardian named "William". GB12 Conqueror  Now believed to be at the Isle of Wight Military Museum. GB12 Conqueror  A Conqueror was used at the Amphibious Experimental Establishment AXE, at Instow in North Devon UK, for beach tank recovery practise. GB12 Conqueror 
+
+
+
+|HistoricalGallery=
+image:Conqueror_ARV_Mk_II,_Isle_of_Wight. GB12 Conqueror . GB12 Conqueror jpg{{!}}Conqueror ARV Mk II, Isle of Wight
+image:Conqueror_Mk_2. GB12 Conqueror jpg{{!}}Conqueror Mk 2
+image:Conqueror_Mk_I_at_the_Bovington_Tank_Museum. GB12 Conqueror jpg{{!}}Conqueror Mk I at the Bovington Tank Museum
+image:FV_222_Conqueror_ARV_Mk_II. GB12 Conqueror jpg{{!}}FV 222 Conqueror ARV Mk II
+image:Conqueror_ARV2_FV222_Tank_Recovery. GB12 Conqueror jpg{{!}}Scammell Contractor hauling Conqueror ARV2 FV222 Tank Recovery Vehicle REME owned
+
+|HistAcc=
+The 32-pdr was only fitted on the [[Tortoise]]. GB12 Conqueror  Its configuration on the Conqueror is fake. GB12 Conqueror 
+* The Rolls-Royce Meteor M120 was the Conqueror's only engine. GB12 Conqueror  The alternate engine configurations are also fake. GB12 Conqueror 
+* The Conqueror had -7° of gun depression, not -10°
+* Historical HESH round with 152 mm penetration for the L1 120 mm gun is missing. GB12 Conqueror 
+* The armor-piercing shell of the L1 120 mm gun is considerably weaker than in reality, with only 259 mm of penetration compared to the historical 361. GB12 Conqueror 
+
+|Ref_references=
+
+
+|Ref_sources=
+*https://en. GB12 Conqueror wikipedia. GB12 Conqueror org/wiki/Conqueror_tank
+
+
+|Ref_links=
+
+
+|Sidebar_Camostop=4. GB12 Conqueror 9
+|Sidebar_Camomove=2. GB12 Conqueror 6
+|Sidebar_Camofire=1. GB12 Conqueror 1
+|Sidebar_Passhard=1. GB12 Conqueror 055
+|Sidebar_Passmed=1. GB12 Conqueror 247
+|Sidebar_Passsoft=2. GB12 Conqueror 205
+|Sidebar_DispTurret=0. GB12 Conqueror 096
+|Sidebar_DispRecoil=3. GB12 Conqueror 836
+|Sidebar_DispAccel=0. GB12 Conqueror 115
+|Sidebar_DispTurning=0. GB12 Conqueror 115
+}}
+
+[[Category:British Tanks]]

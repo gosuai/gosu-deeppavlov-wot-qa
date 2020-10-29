@@ -1,0 +1,112 @@
+{{TankData|Tank=
+|Unlike most other tank destroyers of its tier, the Jagdpanzer IV is not optimised for sniping at long distances. G17 JagdPzIV  Its guns simply do not have the penetration for that purpose. G17 JagdPzIV  What it does have is a ferocious rate-of-fire with its two top guns, excellent mobility, and a low and stealthy profile. G17 JagdPzIV  It also has fairly decent frontal armor for its tier as an added bonus. G17 JagdPzIV  
+
+|Gallery=
+image:JagdPz IV front view 1. G17 JagdPzIV jpg {{!}}JagdPz IV front left view
+image:JagdPz IV front view 2. G17 JagdPzIV jpg‎{{!}}JagdPz IV front right view
+image:JagdPz IV back view 1. G17 JagdPzIV jpg‎{{!}}JagdPz IV back left view
+image:JagdPz IV back view 2. G17 JagdPzIV jpg‎{{!}}JagdPz IV back right view
+
+|InTheGame_pros=
+* Sloped and rather strong front armor for its tier; and roughly double the hitpoints of the StuG III Ausf. G17 JagdPzIV  G
+* Very low and somewhat small silhouette; excellent camouflage rating
+* Fast-firing, fast-aiming guns, giving it a ferocious damage-per-minute (DPM)
+* Good acceleration and turning
+
+|InTheGame_cons=
+* Mediocre penetration by Tier 6 tank destroyer standards
+* 7,5 cm StuK 42 L/70 has low damage-per-shot
+* Frontal transmission ie. G17 JagdPzIV  engine damage can be incurred from shots to the lower front hull
+* Mediocre top speed
+* Slow shell velocity on the 8,8, sniping from long distances at moving targets is exceedingly difficult. G17 JagdPzIV 
+
+|InTheGame_performance=
+
+The Jagdpanzer IV does not play like any of the other Tier 6 tank destroyers. G17 JagdPzIV  While most of the other tank destroyers of its tier feature high penetration guns, the Jagdpanzer IV does not get any better penetration than its predecessor, the StuG III Ausf. G17 JagdPzIV  G. G17 JagdPzIV  There are two viable options: the 7,5 cm StuK 42 L/70 will be familiar to those used to the StuG III G. G17 JagdPzIV  It is quite accurate, and fires even faster on the Jagdpanzer IV. G17 JagdPzIV  The other gun is the 8,8 cm PaK L/56. G17 JagdPzIV  This gun is essentially the same as that used by the [[VK 36. G17 JagdPzIV 01 (H)]], but fires even faster. G17 JagdPzIV  With an exceptional base DPM of over 2400 (most others of its tier do not even reach 2000), a reload of under 6 seconds and a very respectable 220 damage per shot, this is slightly offset by the mediocre penetration of only 145 mm (tier 6 medium level). G17 JagdPzIV  Both of these guns have outstanding aim times, allowing the Jagdpanzer IV to shift targets and aim quickly after coming to a brief stop. G17 JagdPzIV 
+
+Like many tank destroyers, the frontal armour of the Jagdpanzer IV is quite decent for its tier, 80 mm thick and fairly well-sloped, and will protect it against most lower tiers, but its flanks are much thinner. G17 JagdPzIV  It also has an outstanding camouflage factor and a low profile, making it very easy to hide on the battlefield in order to ambush enemy tanks or snipe undetected. G17 JagdPzIV 
+
+The overall mobility is quite good, although the top speed and reverse speed are fairly low. G17 JagdPzIV  The Jagdpanzer IV turns very well, and also accelerates well. G17 JagdPzIV 
+
+Given these traits, the Jagdpanzer IV with the 8,8 cm excels very much as an assault gun, not a sniper. G17 JagdPzIV  Instead of sitting on a hill with this tank, use your speed and mobility to keep up with friendly tanks and provide them with supporting fire to help their advance. G17 JagdPzIV  Only when you know you will be able to penetrate enemies from your position should you stay stationary. G17 JagdPzIV  The fast aiming gun allows you to minimize your time standing still. G17 JagdPzIV  Another key element of being an ambush DPM tank destroyer is defending losing flanks. G17 JagdPzIV  Utilize the tank's mobility to re-position and ambush enemy tanks pushing a flank. G17 JagdPzIV  This should give you a first strike advantage, and possibly a health advantage, if your allies were able to do something before falling. G17 JagdPzIV  Few tanks of the same tier can deal with multiple targets and stay nearly invisible to the enemy. G17 JagdPzIV 
+
+Using the L/70, one may take a more traditional role, and play the tank to its biggest strengths, without getting dangerously close to the front line. G17 JagdPzIV  With the high accuracy of the L/70, one may target specific areas of tanks, such as the tracks - even at range. G17 JagdPzIV  This tactic will allow a player to remain at least 100 m away from the enemy at all times - easily done in combination with mobility. G17 JagdPzIV  Additionally, the Jagdpanzer has a very good camo value and when properly hidden (remaining far enough behind bushes that any shot will not break camouflage) can lay on the DPM from afar without any risk of return fire. G17 JagdPzIV  Using the L/70 and a gun rammer, the Jagdpanzer IV becomes almost like a tier 6 E 25, with a very fast firing gun, good speed and camo values. G17 JagdPzIV 
+
+Don't be afraid to trade with the enemy, even if they have big guns. G17 JagdPzIV  With either gun, but especially the L/70 (due to the lower frequency of unfortunate bounces and weird misses), you can take hits to your decently large HP pool/sloped armor and you will have higher DPM than any enemy you face - letting you win fights through sheer attrition. G17 JagdPzIV  This is something the StuG III couldn't do. G17 JagdPzIV  However, remember to only resort to this tactic when absolutely needed, as in self defense situations. G17 JagdPzIV  Otherwise, staying hidden is key. G17 JagdPzIV  The Jagdpanzer has a great gun, that averages at 230 alpha, so just keep wiggling to increase the chance of a >70 degree bounce or a hit to the gun mantlet. G17 JagdPzIV  You can also try and outflank the enemy, by using the great stealth, speed, and camo rating on this tank. G17 JagdPzIV  
+
+A few pointers: do NOT do these things
+1. G17 JagdPzIV  Jump off small cliffs, like on [[Mines]]- the German suspension is quite fragile, and it will break even with the new physics update. G17 JagdPzIV 
+2. G17 JagdPzIV  Use HE- does zero damage, useless unless against lights. G17 JagdPzIV 
+3. G17 JagdPzIV  Try and sidescrape or armor angle- side armor is horrible with no sloping. G17 JagdPzIV 
+4. G17 JagdPzIV  Chase after other tanks- they usually lead you to other enemy tanks, and as a TD, you cannot afford to have 2 or more tanks circling you
+
+Some APCR is recommended for both guns to use against the Tier 8s that Tier 6s will face from time-to-time, although they are still not enough for penetrating most Tier 8s from head-on. G17 JagdPzIV 
+
+|InTheGame_research=
+* Nothing can be mounted with the stock suspension, so either research the upgrade first or use the enhanced suspension equipment. G17 JagdPzIV 
+* The L/70, engines, and FuG 7 radio all carry over from the StuG III G. G17 JagdPzIV 
+* Research the 8,8 cm PaK L/56 before moving on to the Jagdpanther, since otherwise it must be researched on the Jagdpanther anyway. G17 JagdPzIV 
+
+|InTheGame_equipment=GLD, Camouflage Net, Binocular Telescope, Medium-Caliber Tank gun rammer, Vents
+
+|History=
+The Jagdpanzer IV, Sd. G17 JagdPzIV Kfz. G17 JagdPzIV  162, was a tank-destroyer based on the Panzer IV chassis built in three main variants. G17 JagdPzIV  As one of the casemate-style turretless Jagdpanzer ("Hunting tank") designs, it was developed against the wishes of Heinz Guderian, the inspector general of the Panzertruppen, as a replacement for the Sturmgeschütz III (StuG III). G17 JagdPzIV  Guderian objected against the needless, in his eyes, diversion of resources from Panzer IV tank production, as the Stug III and Sturmgeschütz IV were still more than adequate for their role. G17 JagdPzIV 
+
+== Development ==
+After the Battle of Stalingrad, in September 1942, the Wehrmacht's arms bureau, the Waffenamt, called for a new standard for assault weapons; 100 mm of armor to the front, 40–50 mm on the sides, wider tracks, ground clearance of 50 cm, top speed of 26 km/h, and the lowest possible firing positions. G17 JagdPzIV  The new Panzerjager ("tank hunter") design would be armed with the same 7. G17 JagdPzIV 5 cm gun as fitted to the Panther: the Pak 42 L/70. G17 JagdPzIV  Initially, a new chassis were planned, but that of the Panzer IV had to be used. G17 JagdPzIV 
+Previous efforts to mount bigger guns on smaller chassis resulted in the Marder series as well as StuG IIIs. G17 JagdPzIV  The Marder series were tall and had open crew compartments. G17 JagdPzIV  The new design had a low silhouette and completely enclosed fighting compartment. G17 JagdPzIV 
+
+The Jagdpanzer IV used the Panzer IV chassis 7 (known as BW7), but the almost-vertical front hull plate was replaced by sloped armor plates. G17 JagdPzIV  Internally, the layout was changed to accommodate the new superstructure, moving the fuel tanks and ammunition racks[clarification needed]. G17 JagdPzIV  Since the Jagdpanzer lacked a turret, the engine which originally powered the Panzer IV's turret could be eliminated. G17 JagdPzIV 
+
+The new superstructure had 80 mm-thick sloped armour, which gives greater armor protection than a vertical armor of 100 mm. G17 JagdPzIV  To make the manufacturing process as simple as possible, the superstructure was made of large, interlocking plates which were welded together. G17 JagdPzIV 
+
+Armament consisted of a 7. G17 JagdPzIV 5 cm main gun, originally intended to be the PaK 42 L/70, but shortages meant that for the pre-production and the first production run, different older guns were used: the 7. G17 JagdPzIV 5 cm PaK 39 L/48. G17 JagdPzIV  These were shorter and less-powerful than the PaK 42. G17 JagdPzIV 
+
+Installing the much heavier PaK 42 meant that the Jagdpanzer IV was nose heavy, especially with the heavy frontal armor. G17 JagdPzIV  This made them less mobile and more difficult to operate in rough terrain, leading their crews to nickname them Guderian-Ente "Guderian's duck". G17 JagdPzIV  To prevent the rubber rims of the roadwheels from being dislocated by the weight of the vehicle, some later versions had steel roadwheels installed on the front. G17 JagdPzIV 
+
+The final prototype of the Jagdpanzer IV was presented in December 1943 and production started in January 1944, with the PaK 39 L/48 armed variant staying in production until November. G17 JagdPzIV  Production of the PaK 42 L/70 armed variants started in August and continued until March/April 1945. G17 JagdPzIV 
+
+On August 19–22, 1943, after the Battle of Kursk, Hitler received reports that StuG IIIs performed better than Panzer IVs, within certain restraints of how they were deployed. G17 JagdPzIV  It was thus intended to stop production of the Panzer IV itself at the end of 1944 to concentrate solely on production of the Jagdpanzer IV, but the Panzer IV was in production all the way until the end of the conflict, along with Jagdpanzer IV. G17 JagdPzIV 
+
+== Variants ==
+* Jagdpanzer IV with 7. G17 JagdPzIV 5 cm PaK 39 L/43: a small number of these were built as the pre-production (0) series. G17 JagdPzIV 
+* Jagdpanzer IV with 7. G17 JagdPzIV 5 cm PaK 39 L/48, official name Sturmgeschütz neuer Art mit 7. G17 JagdPzIV 5 cm PaK L/48 auf Fahrgestell PzKpfw IV. G17 JagdPzIV  Some 780 or so were produced in 1944. G17 JagdPzIV 
+* Jagdpanzer IV/70 (V) (Sd. G17 JagdPzIV Kfz. G17 JagdPzIV 162/1) was one of two variants armed with the PaK 42 L/70 gun. G17 JagdPzIV  Some 940 were built in 1944 and 1945. G17 JagdPzIV  The (V) stands for the builder, Vomag. G17 JagdPzIV 
+* Jagdpanzer IV/70 (A) (Sd. G17 JagdPzIV Kfz. G17 JagdPzIV 162/1) was the other PaK 42 L/70 armed Jagdpanzer IV. G17 JagdPzIV  In order to send Pak 42 L/70-armed vehicles to the front as soon as possible, Hitler ordered an interim solution in July 1944. G17 JagdPzIV  Alkett, a manufacturer of the StuG III, Alkett, was to immediately produce the Jagdpanzer IV to its own design. G17 JagdPzIV  These differed in that its superstructure was mounted directly on the original Panzer IV chassis, and as such, lacked the sharp-edged nose of the Vomag variant. G17 JagdPzIV  It was also taller. G17 JagdPzIV  Only 278 were built in the period from August 1944 to March 1945. G17 JagdPzIV  The (A) in the designation came from Alkett. G17 JagdPzIV  This variant is also known as the Zwischenlosung: in translation, the "intermediate solution". G17 JagdPzIV 
+
+Minor modifications and improvements were made throughout the production runs of all variants, as well as several field improvements, the most common being the addition of armor side-skirts. G17 JagdPzIV 
+
+Originally, the Jagdpanzer IV/48's gun had a muzzle brake installed, but because the gun was so close to the ground, each time it fired, huge dust clouds would rise up and betrayed the vehicle's position, leading many crews to remove the muzzle brake in the field. G17 JagdPzIV  Later variants dispensed with the muzzle brake. G17 JagdPzIV 
+
+Early L/48 and L/70-armed vehicles had zimmerit applied to the hull to protect against anti-tank grenades, but this was discontinued after about September 1944. G17 JagdPzIV  Later vehicles had three return rollers rather than the original four, and adopted the twin vertical exhausts typical of the late Panzer IV series. G17 JagdPzIV  Some late vehicles also had all-steel road wheels on the first couple of bogies on each side. G17 JagdPzIV 
+
+== Combat history ==
+The Jagdpanzer IV served in the anti-tank sections of Panzer and SS Panzer divisions. G17 JagdPzIV  They fought in Normandy, the Battle of the Bulge, and on the Eastern Front (WWII). G17 JagdPzIV  They were very successful tank-destroyers, but performed badly when used out of role as substitutes for tanks or assault guns, as most tank-destroyers were. G17 JagdPzIV 
+In the later stages of the war however, they were increasingly used as tank substitutes, because there was often nothing else available. G17 JagdPzIV 
+Romania received several Jagdpanzer IV tank-destroyers from the Red Army after the war ended. G17 JagdPzIV  They were officially known as TAs T4s in the army inventory and were used until 1950. G17 JagdPzIV  All German armor was scrapped in 1954. G17 JagdPzIV 
+
+One of the more notable Jagdpanzer IV aces was SS-Oberscharführer Roy from the 12th SS Panzerjäger Abteilung of the 12th SS Panzer Division. G17 JagdPzIV  He was killed by an American sniper while looking out of the hatch of his Jagdpanzer IV on December 17 1944, during the Ardennes Offensive in Belgium. G17 JagdPzIV 
+
+After the war, West Germany continued the Jagdpanzer concept with the Kanonenjagdpanzer, but few other fixed-casemate self-propelled guns were built postwar. G17 JagdPzIV 
+
+|HistoricalGallery=
+image:JagdPz_IV_0_Serie. G17 JagdPzIV jpg{{!}}Jagdpanzer IV/48 (Sd. G17 JagdPzIV Kfz. G17 JagdPzIV  162) 0 Serie pre production vehicle on display at the [https://commons. G17 JagdPzIV wikimedia. G17 JagdPzIV org/wiki/Panzermuseum_Munster Deutsches Panzermuseum Munster] , Germany. G17 JagdPzIV 
+image:JagdPz_IV_Canada. G17 JagdPzIV jpg{{!}}German tank destroyer Jagdpanzer IV/70 (V) displayed at the Canadian War Museum in Ottawa, Ontario. G17 JagdPzIV 
+image:JagdPz_IV_Hungrey. G17 JagdPzIV jpg{{!}}Jagdpanzer IV with infantry support, Hungary, 1944
+image:JagdPz_IV_Germany. G17 JagdPzIV JPG{{!}}Deutsches Panzermuseum Munster in Munster (Örtze) (German Tank Museum)
+
+|HistAcc=
+Its only primary armaments were the 7,5 cm guns. G17 JagdPzIV  The 8,8 cm gun configuration is fake. G17 JagdPzIV 
+* The Jagdpanzer IV is considerably faster than in reality, with an engine power of 440 hp compared to the historical 300. G17 JagdPzIV 
+* Uses the same engines as the [[Nashorn]] which is also a Panzer IV chassis. G17 JagdPzIV  However, their horsepower and weight values are inconsistent. G17 JagdPzIV 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [[https://en. G17 JagdPzIV wikipedia. G17 JagdPzIV org/wiki/Jagdpanzer_IV ''Source: Wikipedia'']]
+
+}}

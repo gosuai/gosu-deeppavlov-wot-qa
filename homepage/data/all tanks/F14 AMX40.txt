@@ -1,0 +1,91 @@
+{{TankData|Tank=AMX40
+|One of the most futuristic tanks of its time, with unique thick and rounded armour. F14 AMX40  There is almost no straight angled part on the hull and turret which gives it good shot deflection abilities. F14 AMX40  In game, it plays more like a heavy medium or heavy tank. F14 AMX40  It is a cumbersome vehicle that barely scratches the 20km/h mark on flat ground, and has a slow firing gun to "compliment" its sluggishness. F14 AMX40  Players often call it the "Duck" in game due to its shape. F14 AMX40  Because of the poor gun, poor mobility and obsolescence against higher-tier tanks, it is often considered alongside the [[M3 Lee]] as one of the worst vehicles in the game. F14 AMX40  While the armor sloping is impressive, the 60 to 70mm of base armor means that protection peaks at 130mm without angling, and a lot of guns on your tier can penetrate you if you aren't positioned right (especially from TDs). F14 AMX40  Nonetheless, while it's far from an insight to future French light tanks, it's a pretty good platform to practice the traditional methods of driving heavy armored tanks. F14 AMX40 
+
+|Gallery=
+
+|InTheGame_pros=
+* Phenomenal protection at the front from all angles, most at tier enemies are no match for your sloped armor
+* For a tier 4 light, the alpha damage on the top gun is pretty high
+* Getting pushed by an ally can allow you to go much faster due to the transmission allowing a +50 KM/H top speed
+* This is the last of the slow, poorly armed french light tanks
+
+|InTheGame_cons=
+* Very sluggish traverse and speed, moves like a heavy tank; without an allie's help, you'll barely see above 20 KM/H
+* Like most french tanks, the HP Pool is low for its tier
+* Bad radio means you cant be too far from your allies, or you'll lose track of enemies
+* All guns, even the top one, have very poor penetraton; accuracy, aimtime, and RoF (3rd gun) are awful too
+* Between its poor speed, severely handicapped firepower and heavy team reliance, this tank performs terribly beyond tier IV
+
+|InTheGame_performance=
+Like all low tier French tanks, it suffers from poor speed and maneuverability. F14 AMX40  Its top speed can only be reached when it is going downhill, and its effective top speed on flat terrain is little more than 20 kilometers per hour. F14 AMX40  In addition, while it has thicker armour than the [[AMX 38]], it will be facing much higher tier opponents capable of penetrating it. F14 AMX40  Try to avoid high-tier tanks unless you can flank them to get a shot at their weaker side and rear armor. F14 AMX40 
+
+The first guns are woefully inadequate for its tier, with only the final gun, the 75mm SA32, providing decent punch. F14 AMX40  To equip this gun requires a turret upgrade (with increased armor thickness but slower traverse) and since the tank at stock is nearly at the load limit, this will also require a suspension upgrade. F14 AMX40 
+
+The AMX 40 can be a versatile tank. F14 AMX40  Depending on the teams, maps, position in the list, and the availability of equipment, modules, you can choose from a variety of tactics. F14 AMX40  Fully upgraded, the AMX 40 can take on nearly every tank at its tier and below but will be left defenseless if caught in the open by higher tier vehicles. F14 AMX40 
+
+*'''At the top of the list''': When it's one of the higher tanks, which isn't often, the AMX 40 is a considerable force, especially when fully upgraded. F14 AMX40  The armour will bounce a lot of Tier 3 and 4 shots, and the gun is good for a Tier 4. F14 AMX40  However, this does not mean a player should go rushing in, though the term "rushing" may be an overstatement for the AMX 40. F14 AMX40  When it's at the top of the list, play the AMX 40 as a frontliner. F14 AMX40  Dawdle forwards at 15-20km/h and keep firing; don't give the enemy a chance to advance on you, because you will never get away. F14 AMX40  Keep moving with the full support of a few allies and you can use the AMX's armour to the best of its ability. F14 AMX40  Angling and wiggling your tank will improve your chance to bounce shots and throw enemies off. F14 AMX40 
+
+*'''In the middle of the list''': In the middle of the list, which is where the AMX will find itself the most, its once superior armor is no longer the dominant power. F14 AMX40  While your gun and armor will still be effective to some Tier 5's, there are more guns which will now be effective against you. F14 AMX40  Bear in mind you will be destroyed in a mere 12 seconds from a T-34 or you could be one-shotted by a KV-1 with its 122mm. F14 AMX40  The AMX, at this level, is best used in two ways; it can be used to defend artillery from rushing scouts (who usually have low armor and bad guns), or it can be used as a mobile watchtower, where its average view range will help, but its dismal speed and radio will hinder it somewhat. F14 AMX40  You should not go out on your own and try to stick with tanks that are tough and cannot be destroyed easily. F14 AMX40 
+
+*'''At the bottom of the list''': You are dead weight to the team. F14 AMX40  Your armor is worthless and your gun even more so. F14 AMX40  At this tier, the low speed is what will kill you. F14 AMX40  Even the frontal armor of the M4A3E8 Sherman Easy Eight will be troublesome for the gun, without angling. F14 AMX40  The AMX 40 should be employed as a stationary watchtower in areas where the team is less concentrated, such as little-used corridors. F14 AMX40  This will negate the slow speed, poor gun and enable it to utilize its light tank buff. F14 AMX40  Combined with a Sixth-Sense skill, it can warn allies of incoming armor, and allow them to respond. F14 AMX40  However, it will often be incapable of responding itself, due to the poor cannon. F14 AMX40  If necessary, it is possible to sacrifice itself as a roadblock, though the meager 20-ton weight will mean even Sherman tanks would be able to push it away and should only be considered as a last resort. F14 AMX40 
+
+Some players recommend using the stock turret as it is more rounded, has a better mantlet, and better gun depression. F14 AMX40  You will have to use the 47mm SA35, but the 75mm isnt much better. F14 AMX40 
+The AMX 40 will often be faster on flat ground if driven backwards. F14 AMX40  However, this is not recommended, as you will expose your weak rear armor. F14 AMX40  One way to counter the poor penetration on the 75mm gun is to only carry HE. F14 AMX40 
+ 
+|InTheGame_research=
+* The ER 53 radio and the 47 mm SA35 gun carry over from the AMX 38. F14 AMX40 
+* The stock suspension is completely maxed out, so researching the upgraded suspension first is a must. F14 AMX40 
+* Research the 47 mm SA35 next. F14 AMX40 
+* Continue by researching the Somua LM engine. F14 AMX40 
+* After that research the second turret and the 75 mm SA32. F14 AMX40 
+
+|InTheGame_equipment=
+Vents, GLD, Binocular Telescope, Small Spall Liner
+
+|History=
+1940 CHAR MOYEN AMX 40
+
+In March 1940, the Workshop of Issy-les-Moulineaux was studying a new medium tank of cavalry, the successor of the SOMUA S-35 and the S-40. F14 AMX40  The design was never built, due to the Fall of France in June 1940. F14 AMX40 
+
+
+== Description ==
+
+The AMX 40 Cavalry was designed as a medium tank, modelled along very futuristic lines. F14 AMX40  Its rounded hull offers only oblique surfaces; the undercarriage consists of four road wheels which was very modern for a 1940s tank. F14 AMX40  Its general hullform resembles that of postwar tanks. F14 AMX40  The tank had a cast steel body, 60mm front armor, side 50 to 30 mm and 40 mm to the rear. F14 AMX40  Length 5. F14 AMX40 30 m, width 2. F14 AMX40 45 m The chassis was composed of four-wheel drive twin 82cm in diameter protected with side shields. F14 AMX40  The two rear wheels are driven, which could allow the movement without the tracks. F14 AMX40  There were no return rollers; the drive sprocket is at the rear. F14 AMX40  Fuel tanks placed above the tracks were expected to help strengthen the lateral protection (the AMX-40 was to be diesel-fueled; unlike gasoline, diesel is not flammable at room temperature). F14 AMX40 
+  
+'''Engine'''
+
+The AMX was expected to be powered by a diesel engine of 160 hp, low compared to the SOMUA's 190 hp and the S-40's 220 hp engines, for a vehicle with an estimated weight very close to the SOMUA (nearly 20 tonnes). F14 AMX40  However, the rotation system could save significant weight and provide good performance despite the power deficit. F14 AMX40  As mentioned earlier, the choice of diesel fuel improves safety. F14 AMX40 
+
+'''Turret and armament'''
+
+The two-man turret casting has an ovoid shape reminiscent of the future Russian tanks of the T-54/T-55 family. F14 AMX40  Access was to be through a 60cm-diameter circular hatch on the back of the turret. F14 AMX40  The hatch follows the general shape of the turret, which has no protrusions except for two openings in the rangefinder. F14 AMX40  Visibility was to be provided by a panoramic periscope on top of the turret. F14 AMX40  No slot vision seems to have been planned. F14 AMX40  The solution is attractive in terms of protection, but the concentration of the tank's visibility into a single element would have adverse consequences in the event of damage to the periscope. F14 AMX40 
+
+The main armament was expected to be an SA 35 47mm cannon, placed on the axis of the turret. F14 AMX40  Turret rotation was hydraulic, rather than hand-cranked. F14 AMX40  Breaking with the custom of one-man turrets, the AMX-40 was to have a dedicated gunner along with the commander in the turret. F14 AMX40  Both occupants sat on a swivelled strap with the turret gunner on the left and the commander on the right. F14 AMX40  In addition to the 47mm gun, the tank had a secondary armament of two 7. F14 AMX40 5 mm machine guns- one co-axial with the main gun for close defense, and one on a retractable swivel joint in a compartment behind the turret for anti-air defense. F14 AMX40  The tank could hold up to 156 rounds of 47mm, distributed in the periphery of the turret in rotating part lockers, to facilitate access to ammunition. F14 AMX40  The ammunition supply is higher by almost 50% than in the SOMUA. F14 AMX40 
+  
+'''The hull'''
+
+The driver was centrally located in the front, with the dashboard is in the center of the steering wheel driving, such as how the Leclerc has not innovated on that. F14 AMX40  The driver's position is surrounded on both sides of a storage system chain for around 30 magazines of 7. F14 AMX40 5mm ammunition. F14 AMX40  This system used to access all of the stock without moving. F14 AMX40  Magazines are positioned in the turret for immediate use. F14 AMX40  The AMX 40 is as a potential successor to SOMUA S 35. F14 AMX40  The S 40 S 35 which is only improved, particularly at the undercarriage, can no longer ensure a transitional role. F14 AMX40  Compared to SOMUA, this prototype's dimensions are nearly the same. F14 AMX40  The AMX is slightly shorter and less high but wider 33cm which should improve its capabilities in all terrain. F14 AMX40  
+
+|HistAcc=
+The top turret is from the unrelated Renault Char G1. F14 AMX40  There were never any plans to fit that turret onto the AMX 40. F14 AMX40 
+* The 75mm gun configuration is fictitious. F14 AMX40 
+
+|HistoricalGallery=
+image:AMX_40_Plans_Side_Exterior. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Plans_Side_Interior. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Plans_Top. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Plans_Rear. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Drawing. F14 AMX40 jpg{{!}}AMX 40
+
+|Ref_references=
+
+
+|Ref_sources=
+DGA Châtellerault
+
+|Ref_links=
+
+* [https://www. F14 AMX40 chars-francais. F14 AMX40 net/new/index. F14 AMX40 php?option=com_content&task=view&id=704&Itemid=36 '''<i>1940 CHAR MOYEN AMX 40 at chars-francais. F14 AMX40 net</i>'''] Photos, specs, and brief history in French. F14 AMX40 
+* https://ritastatusreport. F14 AMX40 blogspot. F14 AMX40 com/2015/03/history-of-amx-40. F14 AMX40 html
+
+}}

@@ -1,0 +1,66 @@
+{{TankData|Tank=GB72_AT15
+|Like its predecessors, it has amazing armor values and rapid firing guns with poor alpha and mobility. GB72 AT15  However, despite the armor being thicker than its predecessor, the [[AT 7]],peers at tier 8 and higher will have no issues in finding frontal weak spots, thus reinforcing players to more passive methods of game play. GB72 AT15  This can be good preparation for higher tier matches where your armor will rarely save you. GB72 AT15  A wide gun arc on this tank allows for good angling if you do fight enemies head on. GB72 AT15  With proper positioning and angling, no enemy tank will want to face against you for too long, in fear of being punctured to death via the high rate of fire. GB72 AT15 
+
+|Gallery=
+
+|InTheGame_pros=
+- Very accurate and quick-aiming gun, one of most accurate in the game with a high rate of fire
+
+- Excellent frontal armor
+
+- Good all-around armor
+
+- Great gun depression and wide gun arc
+
+- Resistant to rams and face-hugging maneuvers due to a heavy weight
+
+| InTheGame_cons=
+- Very low top speed and poor turning speed
+
+- 2nd worst AP penetration (and among the worst alpha damage) of all tier 8 TDs. GB72 AT15 
+
+- Highest repair cost of any tier 8, meaning that losing money (even on a win) is a very real possibility. GB72 AT15  
+
+- Easy to exploit weakspots from the front; penetration on those large and fragile cupolas often leads to crew casualty
+
+- Very difficult to hide and easy target for artillery 
+
+|InTheGame_performance=
+Much like its predecessors, the AT 15 has great armor values on paper. GB72 AT15  This is far from the true reality as this applies only to the flat surfaces on your front; the sloped sections are roughly around 100-120mm thick. GB72 AT15  While this is still good armor, a lot of tanks around your tier can easily penetrate it, so unlike its predecessors, the AT 15 will see a lot more time supporting the frontline rather than being directly in it. GB72 AT15  While angling works some wonders with this tank, keep in mind that your gun mantlet won't hold against high penetrating guns; it is only around 100mm of spaced armor behind which is flat 152mm thick plate, so higher tier enemies will most likely penetrate you simply by loading gold and auto-aim. GB72 AT15  Your machine gun turret is also a weakspot, and hits to it will often injure one of your loaders. GB72 AT15  If at all possible, hide as much of your tank as possible, because even though the upper plate is sloped, many tier 9 and even some tier 8 tank will reliably penetrate you there. GB72 AT15 
+
+It has pretty much the same top gun as the AT 7, the OQF 20-pdr AT Gun, however the AT 15 gets an upgraded version that has improved RoF, accuracy and aim time. GB72 AT15  This means that while you can't sit and expect to soak up shots, you still retain that spammy firing playstyle typical to British TDs. GB72 AT15  Though the AT 15 can function adequately as a sniper, artillery remains an issue since this tank is especially vulnerable to it. GB72 AT15  This puts the AT 15 in a tricky spot as while it has a gun that promotes remaining in one spot while laying down a lot of fire, it doesn't have adequate armor to reliably safeguard it while doing so. GB72 AT15  This puts it in between a dedicated sniper and a support for frontlining heavies. GB72 AT15 
+
+The AT 15 sometimes sees tier 10 battles, which can pose a significant challenge because it does not have the penetration to easily damage all enemies, the mobility to flank them, or the armor to regularly bounce their shots. GB72 AT15  Try to position yourself in a place where they will be forced to expose their side armor to you, and if that fails try to use your excellent accuracy to hit their weak points. GB72 AT15  Premium ammunition will mostly negate this weakness if you can afford to use it. GB72 AT15 
+
+|InTheGame_research=
+You should have the OQF 20-pdr AT Gun Type A Barrel unlocked from the AT 7. GB72 AT15  This can be equipped with stock suspension, so do so. GB72 AT15  However, you won't be able to equip many modules this way so research the suspension first. GB72 AT15  The first engine upgrade should come next if you don't already have it from other lines, as it's cheap to research and will help with your acceleration and climbing up hills. GB72 AT15   After this is done get the B barrel gun; while costly for the small improvements, it carries over to the tortoise. GB72 AT15  The 32-pounder is a mostly a 'throwaway gun' as the meagre increase to alpha damage does not make up the for loss of the other stats compared to the 20-pounders. GB72 AT15   You will need to unlock this regardless to proceed to the Tortoise though, but if you had grinded through the Churchill GC before this gun should already be unlocked. GB72 AT15   The final engine can actually be skipped as you get it for free by unlocking the tortoise and does not really offer a noticeable improvement. GB72 AT15  The SR C42 radio can be researched to elite the tank afterwards if you want, 50 more signal range will barely be noticed. GB72 AT15 
+
+|InTheGame_equipment= Improved Ventilation Class 3,Medium-caliber Tank Gun Rammer, Toolbox, Large Spall Liner, Camouflage Net, Binocular Telescope
+
+|History=
+The AT 15 was a Nuffield design suggestion from September 1943. GB72 AT15  After numerous experiments with asymmetrical design, army insisted on a vehicle with a gun mounted on the central axis. GB72 AT15  With AT-15 guidelines that will emerge A39 Tortoise were more then visible. GB72 AT15  Final proposal had 152 mm of sloped armor on the front, and 100 mm on the sides. GB72 AT15  Main armament consisted of the famous 17-pounder gun, which was at the time considered enough to penetrate any German armor it stood against. GB72 AT15  AT-15A was a slight modification of the project that was some 5 tons heavier. GB72 AT15 
+
+|HistoricalGallery=
+image:AT15. GB72 AT15 jpg{{!}}AT 15 Technical Drawing
+
+|HistAcc=
+The AT 15's only intended armament was the 17-pdr gun. GB72 AT15  All other main gun configurations are fake. GB72 AT15 
+*The AT 15's performance characteristics were all made up by WG. GB72 AT15 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+|Sidebar_Camostop=12. GB72 AT15 0
+|Sidebar_Camomove=7. GB72 AT15 4
+|Sidebar_Camofire=4. GB72 AT15 3
+|Sidebar_Passhard=1. GB72 AT15 247
+|Sidebar_Passmed=1. GB72 AT15 438
+|Sidebar_Passsoft=2. GB72 AT15 493
+|Sidebar_DispTurret=0. GB72 AT15 096
+|Sidebar_DispRecoil=3. GB72 AT15 356
+|Sidebar_DispAccel=0. GB72 AT15 268
+|Sidebar_DispTurning=0. GB72 AT15 268
+}}

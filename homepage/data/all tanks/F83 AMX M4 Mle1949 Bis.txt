@@ -1,0 +1,95 @@
+{{TankData|Tank= AMX M4 mle. F83 AMX M4 Mle1949 Bis  51
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Strong UFP, lower plate and (especially) turret front protection; turret is proof against all but the highest penetrating guns
+
+- Good handling and accuracy on both guns
+
+- Very mobile for an heavy, reaches top speed with ease unlike the [[Tank:F81_Char_de_65t|AMX 65t]]
+
+- Has 8° of gun depression and decent height
+
+- Respectable weight coupled with high mobility can lead to decent amount of ramming damage
+
+- Easy and enjoyable grind. F83 AMX M4 Mle1949 Bis 
+
+
+|InTheGame_cons= 
+
+- Cupolas are small, but still vulnerable
+
+- Rather weak shoulders and very thin sides prevent effective side-scraping and are prone to flanking
+
+- Horribly oversized, not very easy to conceal when needed
+
+- High penetrating APCR rounds can pen your mantlet, and 330+ pen ammo in general can pen you quite often frontally
+
+- Limited penetration and slow shell velocity on 127mm gun
+
+|InTheGame_performance= 
+
+This tank is used best as a support vehicle with other heavies. F83 AMX M4 Mle1949 Bis  When supporting, best position for this tank is behind cover or hills, peeking out (you have a good gun depression). F83 AMX M4 Mle1949 Bis  120mm gun is considered by most to be a more reliable choice overall for this role due to higher DPM, pen and better accuracy. F83 AMX M4 Mle1949 Bis  With 120mm gun, you can even snipe when you need to. F83 AMX M4 Mle1949 Bis 
+
+It is best to stay around other heavy tanks whenever possible - you serve not only to act as a support, but you also need it to prevent flanking. F83 AMX M4 Mle1949 Bis  Not being flanked is paramount to stay alive. F83 AMX M4 Mle1949 Bis  Never go anywhere alone in this tank, whenever possible. F83 AMX M4 Mle1949 Bis 
+
+You can also play as a brawler, but then it is better to get a 127mm gun with higher alpha for peek-a-boo tactics if you have a chance to trade favourably. F83 AMX M4 Mle1949 Bis  This will only work on city maps and with good cover - and since you are a fairly large target, it is sometimes hard to hide completely. F83 AMX M4 Mle1949 Bis  Note, however, that you will mostly have to use premium ammo on 127mm gun, as default one has very low pen for this tier. F83 AMX M4 Mle1949 Bis 
+
+This tank has very good armor on entire front, except 2 small cupolas and the narrow horizontal section between upper and lower plate. F83 AMX M4 Mle1949 Bis  Cheeks are very tough from the front, but become a huge weakspot when angled. F83 AMX M4 Mle1949 Bis  NEVER angle this tank for this very reason: sides and cheeks become prominent when doing so. F83 AMX M4 Mle1949 Bis  Always try to show only the front to the enemy. F83 AMX M4 Mle1949 Bis 
+
+Mobility is excellent, especially for a heavy tank, and even more so when compared to AMX 65t before it. F83 AMX M4 Mle1949 Bis  Accelerates very quickly, reaches top speed of 40 km/h on flat ground quite easily, and even climbs well. F83 AMX M4 Mle1949 Bis  With good skills, it even turns acceptably well. F83 AMX M4 Mle1949 Bis  It is one of the best tanks in that regard among "true" heavy tanks (meaning: not counting heaviums). F83 AMX M4 Mle1949 Bis 
+
+Overall, this tank is very similar to the Conqueror in most aspects (when playing with 120mm gun). F83 AMX M4 Mle1949 Bis  AMX is more mobile and has a much smaller lower plate (with quite a bit more armor on it), while Conqueror has 2 extra degrees of gun depression and can afford to angle the tank and sidescrape if required. F83 AMX M4 Mle1949 Bis 
+
+|InTheGame_research= 
+
+* You should already have last engine and radio, mount them immediately
+* Research 2nd turret as a priority: it has better armor, increased view range, better dpm, and smaller weakspots (cupolas)
+* Upgrade tracks (they can carry everything, including the 2nd cupola and 3 pieces of equipment, but not the last gun)
+* Get the final gun if you like to play more as a brawler, otherwise you can skip it or research just to elite the vehicle
+
+|InTheGame_equipment=
+
+Vents, Tank Gun Rammer, Vertical Stabilizer, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The FAHM turret (the turret from AMX 65t), was considered to be mounted on one of the up-armored models of the AMX M4 1949, but a prototype was never built. F83 AMX M4 Mle1949 Bis  This model appears in-game as the tank's stock configuration. F83 AMX M4 Mle1949 Bis  However, the TCB turret (the top turret in-game) was never considered to be mounted on any AMX M4 hull, since it was developed years after the AMX M4 project evolved into AMX 50. F83 AMX M4 Mle1949 Bis  The top configuration is thus fictional and never existed. F83 AMX M4 Mle1949 Bis 
+
+
+See the [[AMX M4 mle. F83 AMX M4 Mle1949 Bis  45]] and the [https://wiki. F83 AMX M4 Mle1949 Bis wargaming. F83 AMX M4 Mle1949 Bis net/en/Tank:F74_AMX_M4_1949 AMX M4 mle. F83 AMX M4 Mle1949 Bis  49] history sections for more information on the AMX M4 development history. F83 AMX M4 Mle1949 Bis  The cast FAMH turret, first proposed on the AMX 65T tank destroyer, was also considered for use on the AMX M4 model 1949. F83 AMX M4 Mle1949 Bis 
+
+The TCB turret was developed by the FAMH company (Forges et Aciéries de la Marine et d'Homécourt). F83 AMX M4 Mle1949 Bis  Specifications on this turret are unknown, but it would have had a rangefinder, no auto-loader, and most likely thicker armor than the AMX 50's standard oscillating turret. F83 AMX M4 Mle1949 Bis  This was intended to be an alternative to the AMX 50 Surbaissé's TOB oscillating turret, but was never built. F83 AMX M4 Mle1949 Bis 
+
+|HistoricalGallery= 
+File:AMX_M4_49_with_FAMH_Turret. F83 AMX M4 Mle1949 Bis png{{!}}Plan for the FAMH turret on a AMX M4 hull. F83 AMX M4 Mle1949 Bis  The AMX M4 51 is heavily based on this in it's stock configuration. F83 AMX M4 Mle1949 Bis 
+File:AMX_Char_M4_Etudes. F83 AMX M4 Mle1949 Bis jpg{{!}}AMX Char M4 Etudes hull armor
+File:FAMH_turret. F83 AMX M4 Mle1949 Bis jpg{{!}}FAMH turret
+File:CAFL_TCB_Turret. F83 AMX M4 Mle1949 Bis jpg{{!}}The TCB turret
+File:TCB_120_Turret. F83 AMX M4 Mle1949 Bis png{{!}}TCB 120 turret with the AMX 50 Surbaissé hull (the same hull as the AMX 50B)
+
+|HistAcc=
+The AMX M4 51 in it's stock configuration is heavily based on an alternative variant of AMX M4 1949, with uparmored hull and FAHM turret. F83 AMX M4 Mle1949 Bis  However, the top configuration is fictional, as the TCB turret was only intended to be used on the Surbaissé hull, or better known as the AMX 50 B. F83 AMX M4 Mle1949 Bis  In addition, the designation "AMX M4 51" is fictional, since by then the AMX M4 project already evolved into AMX 50 project. F83 AMX M4 Mle1949 Bis 
+* The armor thickness of the both the TCB and FAMH turrets is unknown and was most likely made-up by WG for balance purposes. F83 AMX M4 Mle1949 Bis 
+* The 127 mm/54 Model 1948 was a naval gun, and there are no known plans or proposals to ever use it as a tank gun. F83 AMX M4 Mle1949 Bis 
+
+|Ref_references=
+
+|Ref_sources=
+* Centre des archives de l'Armement et du personnel civil (CAAPC)
+
+|Ref_links=
+* https://thedailybounce. F83 AMX M4 Mle1949 Bis net/2017/09/15/new-french-heavy-tanks-what-are-they/
+* https://tankarchives. F83 AMX M4 Mle1949 Bis blogspot. F83 AMX M4 Mle1949 Bis ca/2016/01/third-reich-serving-fourth-republic. F83 AMX M4 Mle1949 Bis html
+* https://tankarchives. F83 AMX M4 Mle1949 Bis blogspot. F83 AMX M4 Mle1949 Bis com/2016/03/amx-50-five-years-of-trial-and-error. F83 AMX M4 Mle1949 Bis html
+* https://tankarchives. F83 AMX M4 Mle1949 Bis blogspot. F83 AMX M4 Mle1949 Bis com/2016/03/amx-50-120-long-road-to-dead-end. F83 AMX M4 Mle1949 Bis html
+* https://www. F83 AMX M4 Mle1949 Bis chars-francais. F83 AMX M4 Mle1949 Bis net/2015/index. F83 AMX M4 Mle1949 Bis php/liste-chronologique/de-1945-a-1990?task=view&id=20
+
+}}

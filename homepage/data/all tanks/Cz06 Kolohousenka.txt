@@ -1,0 +1,72 @@
+{{TankData|Tank=
+
+|The first Czechoslovakian tank available to the player. Cz06 Kolohousenka  It was added in to the game along with the Czechoslovakian tech tree in update 9. Cz06 Kolohousenka 13
+
+|Gallery=
+
+File:Kolohousenka scr 1. Cz06 Kolohousenka jpg
+File:Kolohousenka scr 2. Cz06 Kolohousenka jpg
+File:Kolohousenka scr 3. Cz06 Kolohousenka jpg
+
+
+|InTheGame_pros= 
+- High damage, Penetration and decent accuracy ( for a tier I ) on the second gun
+
+- Great gun depression, not R. Cz06 Kolohousenka  Otsu great, but better than most tier I's
+
+- Fairly easy to upgrade, as only the second gun needs to be researched
+
+- High DPM outclasses all other tier I's except the MS-1
+
+- Well sloped frontal armor may give a lucky bounce, but dont rely on it
+
+|InTheGame_cons= 
+- Top speed is horribly bad and even then, it cant be reached on flat ground
+
+- Power to weight ratio is horrendously bad ( worse than the TOG II! )
+
+- Pretty sub-par armor, even by tier I standards
+
+- Outside of the front, slope is non existent
+
+- Slow turning turret ( odd for a tier I light ) makes leading difficult and getting tracked very dangerous
+
+|InTheGame_performance= 
+The Kolohousenka is without a doubt the most basic tank in the game. Cz06 Kolohousenka  Everything about it is so simple. Cz06 Kolohousenka  Because of this simplicity, it is very likely to attract new players to the game especially due to the lack of modules that need to be researched. Cz06 Kolohousenka  Only the gun can be upgraded and is required to be researched in order to research the next tank, the LT vz. Cz06 Kolohousenka  35. Cz06 Kolohousenka  As far as actual game-play, there is nothing fancy about this tank. Cz06 Kolohousenka  While it has a relatively powerful gun for Tier I standards, it is quite slow. Cz06 Kolohousenka  The 50 horsepower Hanomag WD-50PS is actually a tractor engine, not surprising since the entire tank is based on the WD-50 chassis. Cz06 Kolohousenka  It does, however, have superb gun depression and can be played as a brawler if used in hilly terrain. Cz06 Kolohousenka  Because the tank is very narrow, it can be more difficult to hit, especially with the poor accuracy of Tier I guns. Cz06 Kolohousenka  Overall, the Kolohousenka is a great starter tank for new players in a game with a very steep learning curve. Cz06 Kolohousenka 
+
+|InTheGame_research= 
+*There is only one module that can be researched, and that is the 47 mm Rychlopalné dělo Vickers L/20
+*After that you can go right to the next tank, the LT vz. Cz06 Kolohousenka  35
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+Vollmer subsequently moved to Czechoslovakia, to join the Škoda company for whom he designed a wheel/track light tank, the KH-50 (Kolo-Housenka). Cz06 Kolohousenka  This design had roadwheels mounted on the drive sprockets and jockey wheels behind them to support the tracks. Cz06 Kolohousenka  Despite impressive specifications for the period - 13 mm armour, 37 mm turret-mounted armament, and a 50 hp engine capable of driving the tank at 8 miles per hour (13 km/h) (on tracks) and 22 miles per hour (35 km/h) (on wheels) - it was rejected by the Czech army. Cz06 Kolohousenka <br />
+<br />
+The army was, however, impressed by the hybrid wheel/track concept and commissioned further studies, which resulted in the KH-60 (1928–29) and the KH-70 (1930). Cz06 Kolohousenka  In these two designs the engine power was increased to 60 hp and 70 hp respectively and a better system was developed for switching between track and wheel use which allowed a change in less than 10 minutes. Cz06 Kolohousenka <br />
+<br />
+2 KH-50 prototypes were built, one of which was later converted to a KH-60 and the other scrapped. Cz06 Kolohousenka  Actual production included 2 KH-60s to the USSR and 1 KH-70 to Italy. Cz06 Kolohousenka  The wheel-on-track concept was finally abandoned in 1934. Cz06 Kolohousenka 
+
+|HistoricalGallery= 
+image:Kolohousenka. Cz06 Kolohousenka jpg{{!}}The KH-50
+File:KH-70. Cz06 Kolohousenka jpg{{!}}The KH-70
+
+|HistAcc=
+* The wheels (Can be seen in historical image) attached to this tank is missing. Cz06 Kolohousenka  It should be noted that they were capable of being removed completely, though. Cz06 Kolohousenka 
+* The historical speed of the Kolohousenka was at most 18 kilometers per hour for the KH-60 and KH-70, and only 15 kilometers per hour for the KH-50. Cz06 Kolohousenka 
+* The Kolohousenka as it appears in-game is a hybrid, combining the turret of the KH-70 with the hull of the KH-50. Cz06 Kolohousenka 
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. Cz06 Kolohousenka blogspot. Cz06 Kolohousenka co. Cz06 Kolohousenka uk/2015/08/so-you-want-to-build-wot-tech-tree-cz_9. Cz06 Kolohousenka html
+
+}}

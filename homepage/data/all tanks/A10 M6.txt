@@ -1,0 +1,277 @@
+{{TankData|Tank=M6
+|Coming out of the [[T1 Heavy Tank]], you should feel right at home with the M6, as they look and play very similarly. A10 M6  It starts off with 3 rather underpowered 76mm cannons that can make short work of medium and light tanks of its tier but are inadequate for penetrating and damaging other heavy tanks and tank destroyers. A10 M6  The 90mm gun, however, is an excellent gun and is much more suited for the the M6. A10 M6  The M6 has surprisingly good engine power and great speed for a heavy of its tier, which helps to make up for its lack of armor, even frontally, which isn't adequate for bouncing most shots. A10 M6  Its side armor is even worse, and is easy to hit with the tank's large size. A10 M6  This makes the M6 almost always limited to the second line, where it can pick off enemies and take cover behind larger tanks and terrain with its decent mobility. A10 M6  In all, the M6 is very similar to the T1 Heavy in both size and gameplay. A10 M6   
+
+|Sidebar_Camostop=4. A10 M6 9
+|Sidebar_Camomove=2. A10 M6 0
+|Sidebar_Camofire=1. A10 M6 4
+|Sidebar_Passhard=1. A10 M6 055
+|Sidebar_Passmed=1. A10 M6 342
+|Sidebar_Passsoft=2. A10 M6 205
+|Sidebar_DispTurret=0. A10 M6 115
+|Sidebar_DispRecoil=3. A10 M6 356
+|Sidebar_DispAccel=0. A10 M6 201
+|Sidebar_DispTurning=0. A10 M6 201
+
+|InTheGame_pros=
+* 35 km/h top speed can be achieved fairly quick due to high horsepower albeit sluggish hull traverse
+* 90 mm gun is excellent with good penetration , decent handling, and a fairly fast RoF
+* Turret is decently armored and well rounded; can bounce many shots at its tier
+* Large pen. A10 M6  boost with APCR, but must be used sparingly due to high price
+* Great gun depression can be used to hide mediocre hull armor, also has relatively absurd gun elevation. A10 M6 
+|InTheGame_cons=
+* Other than the front, armor is still the same as in the T1 Heavy, and being a tier higher it becomes an even bigger liability
+* HE Shells and arty are this tanks worst enemy due to terrible side & rear armor; definite one shot for a KV-2
+* Terrible reverse speed makes backing out of danger difficult
+* All 3 76mm guns are near useless beyond tier VI
+* Severe accuracy loss when moving or turning the turret
+
+|InTheGame_performance=
+
+While it effectively starts out as a slower T1 HT, it is able to equip a marginally upgraded 76mm gun, the M1A2, and later the 90mm M3. A10 M6  Upgrading the engine will bring it on par with an upgraded T1's speed. A10 M6  The M6 does have the best horsepower-to-weight ratio of any heavy tank in its tier, thus the outstanding speed, and you can use the quick acceleration to quickly retreat from a risky firefight with more powerful tanks. A10 M6  It is a good rammer, since many vehicles even at Tier VIII are lighter. A10 M6  However, do not expect KV-5 ramming power, especially at higher levels or against at-tier heavy tanks. A10 M6  
+
+Like the T1, the M6 has two gunners, this allows you to take more gunner-related skills and perks if you decide to keep the tank and train your crew up. A10 M6  Many strategies that work with the T1 Heavy Tank carry over to the M6, making you feel right at home. A10 M6  
+
+The armor has not really improved (aside from the 'belly') from the T1 Heavy, and the turret and upper glacis simply will not hold against same tier and higher guns. A10 M6  As such, the M6 really shouldn't be played aggressively like the T1 Heavy could when top tier and it's better suited to hull-down sniping and 2nd line support fire with the excellent 90mm gun. A10 M6  You can still lead pushes when top tier due to your HP pool and (for a heavy) mobility, but don't expect to bounce much incoming fire from other tier 6s. A10 M6 
+
+With the T1 Heavy's guns, the M6 should be played very much the same as its predecessor, only taking shots of opportunity and heavily relying on cover. A10 M6  However they will have considerable difficulty against tier 7s and will be near impossible to use against tier 8s, let alone pointless, as 100 damage per shot is considered anemic against most tier 8s. A10 M6  Play with very cautiously, and try to get shots into the sides and rear of enemy vehicles whenever possible, if unable to, try weak spots as best as you can with the accuracy given to you. A10 M6 
+
+Once the 90mm is acquired this tank is virtually transformed. A10 M6  Although its reload time is well over double that of the 76mm guns, its penetration is greatly improved, with a little over double the alpha, and slightly superior accuracy. A10 M6  Again, like in the T1 Heavy, this tank can find relatively sound success when pretending to be a medium, although relatively long and clumsy, on top of relatively easy to punch through armor (Though unlike some medium tanks of its tier, bounces from higher tier tanks are a distinct possibility). A10 M6  However with the 90mm gun M6, the playstyle is slightly different. A10 M6  With the Longer reload time, you cannot be quite as aggressive at all as in the T1 Heavy, which promotes a noticeably more slower paced approach. A10 M6  Thus M6 is considerably less so able to pose as a "Shock" medium with the top gun, but is much more capable of harassing higher tier tanks, and can become a bane for lower tiered tanks as well with the 240 average alpha of the 90mm gun. A10 M6  Remember that you have slightly more HP with the top turret than a fully upgraded KV-85, so you ''can'' get away with being hit a few times, even by higher tier tanks, just not too much. A10 M6 
+
+|InTheGame_research=
+* The M1A2 gun does not get a RoF boost like every other US tank that has it, you will be undergunned until the 90mm is mounted. A10 M6 
+* The SCR 538 radio, the Wright G200 Engine, and the 76 mm Gun M1A1 gun carry over from the T1 HT, so those should be equipped immediately upon purchasing this tank. A10 M6 
+* Start out by researching either the suspension or the M1A2 gun. A10 M6 
+* Then research the other followed by the 90mm M3 which is required for the T29 otherwise the 76 will cause the T29 to be a liability to the team. A10 M6 
+
+
+|InTheGame_equipment=
+Improved Ventilation, Tank Gun Rammer, GLD, Toolbox
+
+|Gallery=
+image:M6_001. A10 M6 jpg{{!}}M6_001
+image:M6_003. A10 M6 jpg{{!}}M6_003
+image:M6_004. A10 M6 jpg{{!}}M6_004
+
+|History=
+The Heavy Tank M6 was an American heavy tank designed during World War II. A10 M6  The tank was produced in small numbers and never saw combat. A10 M6 
+
+Because of limited budgets for tank development in the interwar years, at the outbreak of World War II, the US Army possessed few tanks, though it had been keeping track of armor use in Europe and Asia. A10 M6  Successful employment of armored units in 1939 - 1940, mostly by the Germans, gave momentum to a number of US tank programs, including a heavy tank program. A10 M6  The United States possessed a massive industrial infrastructure and large numbers of engineers that would allow for mass production of tanks. A10 M6 
+
+Following the Chief of Infantry's recommendation from 20 May 1940, the US Army Ordnance Corps started to work on a 50-ton heavy tank. A10 M6  Initially, a multi-turreted design was proposed, with two main turrets armed with low-velocity T6 75mm (2. A10 M6 95") guns, one secondary turret with a 37 mm gun, a coaxial . A10 M6 30 caliber (7. A10 M6 62mm) machinegun, another secondary turret with a 20 mm gun, and a coaxial . A10 M6 30 caliber machine gun. A10 M6  Four . A10 M6 30 caliber machine guns were to be installed in ball mounts, two in the glacis plate and two in the rear corners of the hull. A10 M6  The project was approved on 11 June 1940, and the vehicle received the designation Heavy Tank T1. A10 M6  The design was somewhat similar in concept to multi-turreted breakthrough tanks developed in Europe in the 1920s and throughout the 1930s, such as the British Vickers A1E1 Independent or the Soviet T-35. A10 M6  Disadvantages of these "land dreadnoughts", namely their excessive size, difficulty in coordinating actions of the crew, and high production costs, led to abandonment of the concept in Europe. A10 M6 
+
+By October, the US developers reached the same conclusion as their European counterparts. A10 M6  The armament was changed to a single vertically-stabilized 3 inch (76. A10 M6 2 mm) gun and a coaxial 37 mm gun in a single three-man turret with both manual and electric traverse. A10 M6  The turret had a commander's cupola identical to that of the M3 Medium Tank. A10 M6  Additional armament consisted of two . A10 M6 50 caliber machine guns in a bow mount (operated by the assistant driver), two . A10 M6 30 caliber MGs in the front plate (fired electrically by the driver), one . A10 M6 30 caliber in the commander's cupola, and one . A10 M6 50 caliber in a rotor mount in the right rear of the turret roof (operated by the loader). A10 M6  The crew consisted of a commander (turret left), gunner (turret right), loader (turret), driver (hull left front), assistant driver (hull right front), and ammunition passer (hull). A10 M6 
+One of the main challenges was developing a powerpack for such a heavy vehicle. A10 M6  The Wright G-200 air-cooled radial gasoline engine was selected by a committee formed by the Society of Automotive Engineers, but no suitable transmission was available. A10 M6  The committee recommended developing a hydramatic transmission, while the possibility of using a torque converter or an electric transmission was also to be checked. A10 M6 
+
+In 1941-1942, three prototypes were built by the Baldwin Locomotive Works, one with an electric transmission and two with torque converter transmissions. A10 M6  Variants with hydramatic transmission were never completed. A10 M6  The prototypes also differed in hull assembly method; one had a welded hull and the other two cast hulls. A10 M6  On 26 May 1942, two variants with torque converter transmissions were standardized as the M6 and M6A1. A10 M6  Standardization of the electric transmission equipped T1E1 as M6A2 was never approved, but manufacturing of the vehicle was nevertheless recommended. A10 M6  It was proposed by the Ordnance Corps that 115 T1E1s would be built for the US Army and 115 M6s and M6A1s for US allies. A10 M6  The production started in December 1942. A10 M6  Some minor changes were introduced in the production vehicles: the cupola was replaced by a double-door hatch with a ring mount, and the machine gun in a rotor mount and the left front machine gun were also removed. A10 M6 
+
+However, by the time the M6 was ready for production, the Armored Corps had lost interest in the project. A10 M6  The advantages the M6 offered over medium tanks - it's much thicker armor and slightly more powerful gun, were offset partly by the shortcomings of the design; a very high silhouette, awkward internal layout, reliability problems, and partly by logistical concerns. A10 M6  By the end of 1942, the Armored Corps were sure that the new M4 Sherman gave adequate solutions for the present and near future, while being reliable, cheap, and much easier to transport. A10 M6 
+
+Work on M6 didn't stop at once. A10 M6  The T1E1 prototype was tested with a T7 90 mm gun and was found to be a satisfactory gun platform, although poor turret layout was again noted. A10 M6  In August 1944, the Ordnance Corps recommended using the T1E1s produced to build 15 77-ton vehicles designated M6A2E1, with thicker (up to 7. A10 M6 5 inch vertical protection) glacis armor and a turret developed for the T29 Heavy Tank and armed with a T5E1 105 mm gun. A10 M6  The proposal was rejected by General Eisenhower. A10 M6  However, by late 1942, main development efforts shifted to other projects, one of which eventually resulted in the M26 Pershing. A10 M6 
+
+On 14 December 1944, the M6 was declared obsolete. A10 M6  Only forty units were produced and they never left US soil. A10 M6  Several toured the United States for propaganda purposes, where they gave performance displays (such as car crushing) at War Bond drives and the like. A10 M6  All were eventually scrapped, except for a single T1E1 on display at the United States Army Ordnance Museum, Aberdeen, Maryland. A10 M6 
+<table  style="border: 1px solid;text-align:center;">
+<caption>American Heavy tank comparision</caption>
+<tr style="vertical-align:top; border-bottom:1px solid #999;">
+<th></th>
+	<th style="text-align:center;">Mk. A10 M6 VII</th>
+	<th style="text-align:center;">[[M6]]</th>
+	<th style="text-align:center;">T28</th>
+	<th style="text-align:center;">[[T29]]</th>
+	<th style="text-align:center;">[[T30]]</th>
+	<th style="text-align:center;">[[T32]]</th>
+	<th style="text-align:center;">[[T34]]</th>
+	<th style="text-align:center;">M103A2</th>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Crew</th>
+	<td>8</td>
+	<td>6</td>
+	<td>4</td>
+	<td>6</td>
+	<td>6</td>
+	<td>5</td>
+	<td>6</td>
+	<td>5</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Length</th>
+	<td>10,43m</td>
+	<td>8,43m</td>
+	<td>11,12m</td>
+	<td>11,56m</td>
+	<td>10,9m</td>
+	<td>10,83m</td>
+	<td>11,77m</td>
+	<td>11,23m</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Width</th>
+	<td>3,66m</td>
+	<td>3,12m</td>
+	<td>4,54m</td>
+	<td>3,8m</td>
+	<td>3,8m</td>
+	<td>3,76m</td>
+	<td>3,8m</td>
+	<td>3,63m</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Height</th>
+	<td>3,12m</td>
+	<td>3,00m</td>
+	<td>2,86m</td>
+	<td>3,22m</td>
+	<td>3,22m</td>
+	<td>2,81m</td>
+	<td>3,22m</td>
+	<td>3,56m</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Weight</th>
+	<td>39,5t</td>
+	<td>57,4t</td>
+	<td>86,3t</td>
+	<td>64,25t</td>
+	<td>64,74t</td>
+	<td>54,5t</td>
+	<td>65,2t</td>
+	<td>58,1t</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Engine<br />power</th>
+	<td>Liberty<br />338hp</td>
+	<td>G-200<br />960hp</td>
+	<td>GAF<br />500hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>AV1790<br />750hp</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Max. A10 M6  speed</th>
+	<td>8,8km/h</td>
+	<td>35km/h</td>
+	<td>12,8km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>37km/h</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">hull armour<br />(angle)</th>
+	<td>12mm<br />(28)</td>
+	<td>83mm<br />(30)</td>
+	<td>305mm</td>
+	<td>102mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(60)</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">side armour</th>
+	<td>12mm</td>
+	<td>70mm</td>
+	<td>152mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>51mm</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Turret armour<br />(mantlet)</th>
+	<td>16mm</td>
+	<td>83mm<br />(102mm)</td>
+	<td>-</td>
+	<td>178mm<br />(279mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>298mm<br />(298mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>127mm<br />(254mm)</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">top armour</th>
+	<td>6-10mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">bottom armour</th>
+	<td>6-8mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Gun</th>
+	<td>2x57mm<br />Hotchkiss</td>
+	<td>75mm M7<br />37mm MB</td>
+	<td>105mm<br />T5E1</td>
+	<td>105mm<br />T5E2</td>
+	<td>155mm<br />T7</td>
+	<td>90mm<br />T15E2</td>
+	<td>120mm<br />T53</td>
+	<td>120mm<br />M58</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Secondary<br />armament</th>
+	<td>5x7,62mm<br />Hotchkiss</td>
+	<td>2x12,7mm <br />HB M2<br />2x7,62mm<br />M1919A4</td>
+	<td>12,7mm<br />HB M2</td>
+	<td>3x12,7mm<br />HB M2<br />7. A10 M6 62mm<br />M1919M4</td>
+	<td>2x12,7mm<br />HB M2<br />7. A10 M6 62mm<br />M1919M4</td>
+	<td>12,7mm<br />HB M2<br />2x7. A10 M6 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A10 M6 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A10 M6 62mm<br />M37</td>
+</tr>
+</table>
+== Variants ==
+
+* T1 - Cast hull, hydramatic transmission. A10 M6  Never built. A10 M6 
+* T1E1 - Cast hull, electric transmission. A10 M6  Often unofficially referred to as M6A2. A10 M6  20 units built. A10 M6 
+* T1E2 / M6 - Cast hull, torque converter transmission. A10 M6  8 units built. A10 M6 
+* T1E3 / M6A1 - Welded hull, torque converter transmission. A10 M6  12 units built. A10 M6 
+* T1E4 - Welded hull, hydramatic transmission. A10 M6  Never built. A10 M6 
+* M6A2E1 - Uparmored T1E1 with a new turret armed with a T5E1 105 mm gun. A10 M6  Never built. A10 M6 
+
+|HistAcc=
+The 3-inch M7 gun was the M6's only main armament. A10 M6  The other gun configurations are fake. A10 M6 
+* Historical [[Gun/USA#37 mm Gun M6|37 mm M6]] gun is missing. A10 M6  The barrel is visible beside the main gun, but due to the lack of multi-turret controls in World of Tanks, the 37 mm gun is unusable. A10 M6 
+* Uses the same 3-inch M7 gun as the French [[M10 RBFM]], yet the penetration and damage values are inconsistent. A10 M6 
+
+|HistoricalGallery=
+
+image:T1_Heavy_T1E2_prototype. A10 M6 jpg{{!}}T1E2 (M6A2)
+image:M6_Heavy-tank. A10 M6 jpg{{!}}Front view of the T1E2 (M6A2), with several early M3 light tanks in the background. A10 M6 
+image:M6_Heavy-side. A10 M6 jpg{{!}}T1E2 (M6A2) side view
+
+|Ref_references=
+
+
+|Ref_sources=
+
+* R. A10 M6 P. A10 M6  Hunnicutt - Firepower: A History of the American Heavy Tank, 1988 Presidio Press, ISBN 0-89141-304-9. A10 M6 
+
+|Ref_links=
+
+* [https://www. A10 M6 wwiivehicles. A10 M6 com/usa/tanks-heavy/m6. A10 M6 asp '''T1 to M6 Heavy Tank Series'''] Photos & history. A10 M6 
+* [[https://144. A10 M6 99. A10 M6 215. A10 M6 51/Data/tmp/objYAsFmXks3WgmXh9DXXTYBjpHeRrj0haAjKjNNoay0Y1iso5JszHagfShMQKsVJj4XREOI5sQL_qsXStG2CUErY_v1UHPLw. A10 M6 pdf M6 / M6A1 technical manual]]
+* [[https://en. A10 M6 wikipedia. A10 M6 org/wiki/M6_heavy_tank Wikipedia]]
+* [[https://www. A10 M6 wwiivehicles. A10 M6 com/usa/self-propelled-guns/m12. A10 M6 asp WWII vehicles]]
+* [[https://afvdb. A10 M6 50megs. A10 M6 com/usa/155mmgmcm12. A10 M6 html AFV database]]
+* M6 at ww2photo. A10 M6 mimerswell. A10 M6 com
+* Historia del carro de combate
+
+}}

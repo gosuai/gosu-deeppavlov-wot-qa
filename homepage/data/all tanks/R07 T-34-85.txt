@@ -1,0 +1,106 @@
+{{TankData|Tank=T-34-85
+|The T-34-85 retains the same hull as its predecessor, the [[T-34]], but receives a new, more heavily armored turret with more powerful choices of armament. R07 T-34-85  Stock, it is quite sluggish and armed with the under-par 76 mm S-54, but later on it receives a somewhat more powerful engine and the excellent all-purpose 85 mm D5T-85BM, turning it into a versatile and capable Tier 6 medium tank. R07 T-34-85 
+
+|Gallery=
+image:T3485-a. R07 T-34-85 jpg{{!}}T-34-85 front right
+image:T3485-b. R07 T-34-85 jpg{{!}}T-34-85 front left
+image:T3485-c. R07 T-34-85 jpg{{!}}T-34-85 rear right
+image:T3485-d. R07 T-34-85 jpg{{!}}T-34-85 rear left
+
+|InTheGame_pros=
+* 85mm D5T-85BM is well-rounded gun with good aim time, damage, penetration, and accuracy
+* Very good mobility: good top speed and maneuverability
+* Fairly well-armored and well-rounded turret front
+* Hard-hitting HE rounds at 300 damage
+* Very high muzzle-velocity for the upgraded 85mm gun
+* Outstanding versatility means many roles can be executed with ease
+* Alpha damage is excellent compared to all tier 6 mediums besides the 88mm on the [[VK 30. R07 T-34-85 01 (P)]]
+ 
+|InTheGame_cons=
+* Weak hull armor for its tier. R07 T-34-85 
+* Below average HP and DPM. R07 T-34-85  Often out-gunned in prolonged trades
+* Mediocre gun depression, which limits hull-down opportunities. R07 T-34-85 
+* Terrain resistance is rather high for medium and hard surfaces, resulting in somewhat slow acceleration. R07 T-34-85 
+* Awful when stock along with a long grind to top gun & engines. R07 T-34-85 
+
+|InTheGame_performance=
+The T-34-85 is a fairly well-rounded and versatile medium tank, capable of adapting to most situations on the battlefield. R07 T-34-85  In terms of mobility, the T-34-85 is good enough to perform its job adequately, but it is outclassed by the [[M4A3E8 Sherman]] and [[Cromwell]]. R07 T-34-85 
+
+The turret armor is good by Tier 6 standards, but the hull armor is very weak (only 45 mm thick, though it is well-sloped). R07 T-34-85  Going hull-down is a good idea in the T-34-85, since the turret armor is quite good and capable of bouncing a lot of shots. R07 T-34-85  Be mindful of the turret ring—unfortunately the shape of the turret and hull create a shot trap in this area. R07 T-34-85  By no means is the T-34-85 a 'heavy' medium like the [[M4A3E2 Sherman Jumbo]], and it should never under any circumstances make itself the center of attention of the enemy team. R07 T-34-85 
+
+To start with, the T-34-85 receives the '''76 mm S-54''' which was previously available on the T-34. R07 T-34-85  Unfortunately, it is lacking in penetration and damage by Tier 6 standards, and is not very accurate. R07 T-34-85  The '''122 mm U-11''' is a decent option for grinding, featuring a fairly powerful HE round and a HEAT round with good penetration, but at the cost of terrible accuracy. R07 T-34-85  The '''85 mm ZiS-S-53''' is a more versatile option, with fairly good penetration, rate-of-fire, and damage, but has slightly worse accuracy than the S-54. R07 T-34-85  
+
+The top '''85 mm D5T-85BM''' is a good gun for Tier 6. R07 T-34-85  It is accurate enough, with sufficiently short aim time, to allow the T-34-85 to act as a sniper if needed, though in that respect it is outclassed by the German Tier 6 mediums with the 7. R07 T-34-85 5 cm KwK 42 L/70. R07 T-34-85  The damage output is also reasonably good, though not quite as good as the 8. R07 T-34-85 8 cm KwK 36 L/56 on German tanks, the 17-pdr Mk V on the [[Firefly]], or the 76 mm M1A2 on the American medium tanks, which have better alpha damage, armor penetration and reload times respectively. R07 T-34-85  144 mm of penetration using AP is excellent by Tier 6 medium tank standards, inferior only to the [[Cromwell|Cromwell's]] 75 mm Vickers HV (145 mm), the [[Tank:Chi_To|Chi-To's]] 7. R07 T-34-85 5 cm Tank Gun Type 5 Model I, the Sherman Firefly's 17-pdr Mk V, and the 7. R07 T-34-85 5 cm KwK 42 L/70 (150 mm) available to all the German Tier 6 medium tanks, balanced by the D5T-85BM's higher alpha damage. R07 T-34-85  An often overlooked quality of this gun is the HE damage. R07 T-34-85  It deals 300 or more damage if it fully penetrates. R07 T-34-85  It is perhaps the highest damaging HE round of the "proper" medium tank guns at Tier VI. R07 T-34-85  The D5T-85BM's HE rounds can devastate poorly armored tanks. R07 T-34-85  Bringing a few HE rounds on this tank is never a bad decision. R07 T-34-85  
+
+The T-34-85's biggest strength, like the T-34's, lies in its adaptability. R07 T-34-85  Knowledge of the tank's and its enemies' capabilities is essential to do well in the T-34-85, since it does not have any particular features that it can reliably abuse. R07 T-34-85 
+
+=='''Crew Skills'''==
+* '''Repair''' as the first skill for all the crew members is a solid choice, allowing broken tracks or other damaged modules to be brought to operational condition as quickly as possible. R07 T-34-85  The T-34-85 tends to get tracked fairly often or have its turret traverse mechanism damaged due to the shot trap the turret and hull create. R07 T-34-85  '''Camouflage''' is also viable, but the T-34-85 has worse camouflage values than its predecessor, making it somewhat less useful. R07 T-34-85 
+* A more specialized set of first skills would be '''Recon''' (Commander), '''Snap Shot''' (Gunner), '''Smooth Ride''' (Driver), '''Situational Awareness''' (Radio Operator). R07 T-34-85  The loader only has perks available, which are not useful until they have reached 100%, '''Repair''' or '''Camouflage''' are viable options for the loader, which may later be swapped out for his perks. R07 T-34-85  The combination of Snap Shot and Smooth Ride act like a Vertical Stabilizer (which the T-34-85 does not have access to), reducing the accuracy penalties while moving or turning the turret, and by extension, allowing the T-34-85 to get an accurate shot off faster after stopping. R07 T-34-85  Recon and Situational Awareness increase the tank's decent 360 m view range further. R07 T-34-85  '''Mentor''' may also be used instead of Recon if the emphasis is on getting the other crew members' skills up faster. R07 T-34-85  Smooth Ride may be substituted with '''Off-Road Driving''' for improved overall mobility, if a more close combat-oriented playstyle is preferred. R07 T-34-85 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is a good option. R07 T-34-85  The loader's skill may be dropped in favor of '''Safe Stowage''' or '''Adrenaline Rush'''. R07 T-34-85  However, the T-34-85 does not have a particularly vulnerable ammunition rack, while Adrenaline Rush is highly situational, so neither of these perks are particularly essential. R07 T-34-85 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R07 T-34-85  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R07 T-34-85 
+
+|InTheGame_research=
+* The '''9RM''' radio is the only module that carries over from the T-34. R07 T-34-85  The '''122 mm U-11''' can be researched on the [[KV-1]]. R07 T-34-85 
+* The '''85 mm ZiS-S-53''' is required to unlock the second turret, the D5T-85BM, as well as the [[T-43]]. R07 T-34-85 
+* The '''T-34-85 extended''' turret is needed to unlock the '''85 mm D5T-85BM''', the T-34-85's best gun. R07 T-34-85  They are not needed to unlock anything but are highly recommended to be researched. R07 T-34-85 
+* The '''V-2-34M''' is required to unlock the final '''V-54''' engine, which provides a significant increase in mobility. R07 T-34-85 
+* Both the 85 mm D5T-85BM and V-54K engine are used on the next tank, the Tier 7 [[T-43]], and are in fact its top gun and engine as well. R07 T-34-85  The other Soviet Tier 7 medium tank, the [[KV-13]], also uses the D5T-85BM as its top gun, and it is one of two guns available to the Tier 7 [[LTTB]] light tank, Tier 7 [[IS]] heavy tank, and Tier 8 [[T-44]] medium at the start of their grinds. R07 T-34-85  Unlocking these modules on the T-34-85 first is highly recommended. R07 T-34-85 
+* All upgraded modules can be equipped with the stock T-34-85 suspension, so the '''T-34-85-60''' suspension can be saved for last. R07 T-34-85  It does provide a small bonus to the hull traverse speed. R07 T-34-85 
+* If the U-11 has not been researched, it may be skipped entirely unless eliting the T-34-85 is the goal. R07 T-34-85 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Enhanced Gun Laying Drive, Binocular Telescope, Camouflage Net, Coated Optics
+
+
+|History=
+[[image:T-34-85 31. R07 T-34-85 jpg|thumb|200px|left|T-34-85]]
+Early versions of the T-34 demonstrated their top performance during the Kursk / Citadel battle in 1943. R07 T-34-85  Their superiority on the battle ground was reached not due to their technical perfection, as in this respect German tanks were largely comparable and in some instances (Tigers and Panthers), far superior to their Soviet counterparts, but was due to the overwhelming numbers used by the Red Army. R07 T-34-85  The price paid for the victory was high. R07 T-34-85  Around 9000 tanks were lost in combat against 2200 German tanks. R07 T-34-85  It also became evident that the T-34 could hardly cope with the new examples of German armor and thus came the time to shift manufacturing priority from the mass production of the current model, to implement a major design modification to the T-34. R07 T-34-85 
+
+== Development ==
+[[image:T-34-85 interior Parola Tank Museum. R07 T-34-85 jpg|thumb|200px|right|T-34-85 interior. R07 T-34-85  Note the ammo crates on the floor of the tank. R07 T-34-85 ]]
+The special commission assigned by the Party investigated and analyzed the nature of the damage to the hundreds and thousands of  destroyed tanks. R07 T-34-85  The attempt to add extra armor on the T-34 was made, and the result was named the T-43. R07 T-34-85  The conducted experiments with the T-43 proved that when dressed in the extra armor, the T-34 lost most of its best features, such as maneuverability and speed, without any real gain in defense against deadly the 8. R07 T-34-85 8 cm gun. R07 T-34-85  The new tank needed not so much the better armor, but the better gun. R07 T-34-85  Simultaneously, independent experiments were conducted with the KV-13 in order to create the so-called universal tank, or, main battle tank. R07 T-34-85  However, the KV-13, while having the same 85 mm gun, was heavier and more complex in production, so the preference was given to the T-34. R07 T-34-85  The KV-13 design was later used to create the IS-2, which finally offered the proper opposition to Tigers. R07 T-34-85  
+
+In August 1943, a special meeting of the GKO (State Defense Committee) decided that a more powerful gun should be installed on the T-34. R07 T-34-85  In the end of 1943, after testing and experimenting with guns, turrets, and caliber, it became clear that the 85-mm gun could not be installed in the old turret. R07 T-34-85  The designing of the new one was carried out by the production works No. R07 T-34-85 112 "Red Sormovo" in Gorkij. R07 T-34-85 
+On December, 15,1943, on the basis of three hull prototypes and a turret yet to be finished, the GKO made the decision to start mass production of the T-34-85. R07 T-34-85  At this time, no gun for three independent projects was ready to be installed, as all were to be adapted to the new turret. R07 T-34-85  The work on the improvement of the turret design allowed curing old problems with the turret by increasing its size. R07 T-34-85  At last, the tank commander could command the tank, as one more member was added to the crew. R07 T-34-85  GKO also decided on which gun was to be used (Grabin's). R07 T-34-85  However, the first production T-34-85s had another gun, the (Petrov's D-5T), same as was installed on the SU-85. R07 T-34-85  The hull was practically the same as the T-34 mod. R07 T-34-85  1943. R07 T-34-85  The gun mask was distinctively different from that of Grabin's ZIS-S-53, which finally went into mass production in January 1944. R07 T-34-85  The changes in the design of the tank did not affect the production. R07 T-34-85  In the spring of 1944, two more plants in Omsk and Nizhnij Tagil joined Plant No. R07 T-34-85 112 in production of T-34-85s. R07 T-34-85  [[image:T-34-85 Turret with commander's cupola allowing all-round vision (introduced partway through the production run of the T-34 Model 1943). R07 T-34-85 jpg|thumb|200px|left|T-34-85 Turret with commander's cupola allowing all-round vision (introduced partway through the production run of the T-34. R07 T-34-85  Model 1943. R07 T-34-85 ]]Most T-34-85s rolled off production lines at the plant in Nizhnij Tagil. R07 T-34-85  All three plants made different turrets. R07 T-34-85  The most distinctive was the so called "composite" turret of the Plant No. R07 T-34-85 112. R07 T-34-85  During production, T-34-85s was continuously modified, although the basic shape was retained. R07 T-34-85 
+
+Mass manufacturing of the T-34–85 in the Soviet Union ceased in 1946 (according to some sources, small-scale production continued at the «Krasnoye Sormovo» factory until 1950). R07 T-34-85  As far as the total number of T-34–85 tanks produced at one or another factory, here, just like for the T-34, there exist areas of considerable discrepancy in the numbers cited in various sources. R07 T-34-85 
+
+
+== Combat history ==
+[[image:T-34-85 dismount tank riders. R07 T-34-85 jpg|thumb|200px|right|T-34-85 dismounting tank riders]]
+T-34-85s first saw combat in the spring of 1944 with 1st Guard Tank Army. R07 T-34-85  In the hands of experienced tankers, the T-34-85 was an awesome weapon despite the Tiger's superiority at long ranges; that is, the Tiger could kill a T-34-85 from a greater range than the 85 mm gun could penetrate its armor. R07 T-34-85  Still, the T-34-85 stood a good chance of success owing to its maneuverability. R07 T-34-85  Later versions of the Pz. R07 T-34-85  IV were roughly comparable to the T-34 in firepower, but the T-34-85 had better dynamic characteristics combined with the effective armoring. R07 T-34-85  Owing to huge production numbers and the growing skill of Soviet tankers, the T-34-85 proved effective at neutralizing German Tigers and Panthers. R07 T-34-85  Still, the threat from German Panzerfausts forced the introduction of some field modifications, especially during the Battle of Berlin (see photo below). R07 T-34-85  The additional screening consisted of a thin 1. R07 T-34-85 5 mm metal plate or a 3 mm wire mesh welded on the supporting corners. R07 T-34-85  The shield was placed about 15-20 cm from the main armor on the sides of the hull, turret, and the turret's top. R07 T-34-85  Although the screening effectively deflected the hits of Panzerfausts, further development was stopped with the end of the war. R07 T-34-85  
+
+T-34-85's took part in the European and Pacific theaters of WWII, the Korean war, the Middle East, and Vietnam conflicts. R07 T-34-85  The tanks were exported to many countries following the second World War, and were used as recently as the Bosnian war. R07 T-34-85 
+{{VideoYT|BRtj_TSOHjw}}{{VideoYT|rTnS0XS2al8}}
+|HistoricalGallery=
+image:T-34-85 4. R07 T-34-85 jpg{{!}}T-34-85
+image:T-34-85 5. R07 T-34-85 jpg{{!}}T-34-85
+image:T-34-85 34. R07 T-34-85 jpg{{!}}T-34-85 Model 1944
+image:T-34-85 20. R07 T-34-85 jpg{{!}}T-34-85
+image:T-34-85 18. R07 T-34-85 jpg{{!}}T-34-85
+image:T-34-85 17. R07 T-34-85 jpg{{!}}T-34-85
+image:T-34-85 11. R07 T-34-85 jpg{{!}}T-34-85 Model 1943
+image:T-34-85 10. R07 T-34-85 jpg{{!}}T-34-85
+image:T34-85-a1. R07 T-34-85 JPG{{!}}T-34-85 museum Vukovar, Croatia
+image:T34-85-aa. R07 T-34-85 jpg{{!}}T-34-85 warehouse Zagreb, Croatia
+
+|HistAcc=
+The 85 mm D5T-85BM was only developed for the SU-85. R07 T-34-85  The weapon itself never entered service because of the appearance of the SU-100 project. R07 T-34-85  Its configuration on the T-34-85 is fake. R07 T-34-85 
+*[[File:T-34-85 11. R07 T-34-85 jpg|thumb|left|Historical [[Gun/USSR#85 mm D-5T|85 mm D-5T]] gun (no relation to the D5T-85BM) is missing. R07 T-34-85  This variant was known as the Model 1943, recognizable by the different gun mantlet]]
+* The 76 mm S-54 was only experimented on a T-34 that had the model 1942 turret. R07 T-34-85  Furthermore, the T-34-85 turret was specifically developed to hold the 85 mm gun; putting a smaller caliber gun in it defeats the purpose. R07 T-34-85 
+* The 122 mm U-11 was actually designed for the T-34/76. R07 T-34-85  However, because the larger KV tank turret already struggled with insufficient comfort of service and rate of fire when armed with the howitzer, the proposal was rejected as "nonsensical". R07 T-34-85  By the time the T-34-85 was around, the need to find a tank capable of carrying the U-11 was long gone. R07 T-34-85 
+* The V-54K engine was only fitted to the [[ISU-152]]K and [[T-54]]. R07 T-34-85  Its configuration on the T-34-85 is also fake. R07 T-34-85 
+* The 85 mm ZiS-S-53 is the same gun on the [[T-34-85 Rudy]] and [[T-34-85M]], yet the penetration and damage values are inconsistent. R07 T-34-85 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://pkka. R07 T-34-85 narod. R07 T-34-85 ru/t-34-85. R07 T-34-85 htm
+https://www. R07 T-34-85 battlefield. R07 T-34-85 ru/en/tank-development/27-medium-tanks/87-t34-85. R07 T-34-85 html
+https://en. R07 T-34-85 wikipedia. R07 T-34-85 org/wiki/T-34
+}}

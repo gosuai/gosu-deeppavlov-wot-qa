@@ -1,0 +1,83 @@
+{{TankData|Tank= 
+
+|The TVP is very fast and mobile, has a low full magazine reload (compared to other tier 10 autoloaders) and an insane reload between each magazine. Cz04 T50 51  The tank is often compared to the [[Tank:Bat. Cz04 T50 51 -Châtillon 25 t|Bat. Cz04 T50 51 -Châtillon 25 t]] as they both share the same lowest hit points of any tier 10, both have dangerous autoloaders and are both very fast; both excel in certain categories. Cz04 T50 51  For instance the BatChat has much more magazine potential damage (1950) while the TVP only has a (1280) magazine potetinial. Cz04 T50 51  You might think that the BatChat is a clear winner but although the BatChat can deal more damage, it does it over a longer period of time (10. Cz04 T50 51 73 seconds from the first shot) while the TVP on the other hand deals its full magazine out in only 4. Cz04 T50 51 5 seconds from the first shot. Cz04 T50 51  4. Cz04 T50 51 5 seconds is quicker than every other non-autoloader tier 10 tank in the game. Cz04 T50 51  So if you shoot a TVP and you are not equipped in an autoloader, then expect 1280 of your hit points gone before you can even get a chance to fire another shell back at it (unless you can get in cover of course). Cz04 T50 51  
+The gun is what makes the tank, it's fast, it's accurate and the full magazine reload is not bad at all. Cz04 T50 51 
+
+The TVP is a tricky tank to play but in the hands of a skilled player it can be your worst nightmare. Cz04 T50 51  
+
+
+
+|Gallery=
+
+File:TVP T 50 51 scr 1. Cz04 T50 51 jpg
+File:TVP T 50 51 scr 2. Cz04 T50 51 jpg
+File:TVP T 50 51 scr 3. Cz04 T50 51 jpg
+
+
+|InTheGame_pros= 
+* Fast magazine reload and very fast intra-clip reload
+* Very good shell velocity with standard (APCR) ammo
+* Good gun depression, aiming time and accuracy 
+* Very high top speed, traverse speed and acceleration
+* Joint second highest base viewrange for a Tier 10 medium tank
+
+|InTheGame_cons= 
+* Worst alpha and burst damage among Tier 10 autoloaders
+* Worst base and second worst premium penetration among Tier 10 medium tanks
+* Gun handling is rather poor for tier/class, a common weakness of autoloaders
+* Poor survivability - thin armor and joint lowest hitpoint pool for a Tier 10 medium
+* Somewhat large profile, camouflage is decent but unspectacular
+
+|InTheGame_performance= 
+A fast, agile, but poorly armored tank, the TVP T 50/51 is defined by its rather unique autoloader gun. Cz04 T50 51  On paper, the 100mm AK1 seems to be rather underwhelming for a Tier 10 autoloader gun, as its burst damage is limited to 1280 points on average if all four shots in the clip penetrate. Cz04 T50 51  That being said, this gun enjoys a rather quick clip reload, and most of all it can fire all shells in less than five seconds, greatly limiting the time the TVP needs to expose itself while firing on its targets. Cz04 T50 51  
+
+It is best to play this tank as a mobile sniper and firing support platform, using its high top speed and agility, as well as good gun depression and viewrange, to find optimal firing positions (preferably at mid-long range) to help teammates by delivering rapid bursts of damage. Cz04 T50 51  The shell velocity and accuracy are not top tier, but are good enough to allow fairly effective sniping. Cz04 T50 51  
+
+As with other autoloaders, the TVP T 50/51 becomes more dangerous the longer it stays alive. Cz04 T50 51  Conserving health and being opportunistic when engaging enemies can lead to a late game scenario where the TVP is mostly intact, whereas many enemy tanks are heavily damaged and/or isolated. Cz04 T50 51  This allows the TVP to rush unwary enemies and finish them off if their health is low enough, as well as pick on isolated tanks that have no way to react in time to the TVP's quick bursts. Cz04 T50 51 
+
+Due to its lack of armor and low hitpoint pool, this tank can be pretty tricky to do well with. Cz04 T50 51  With proper caution and taking calculated risks however, it can be a very dangerous presence on the battlefield. Cz04 T50 51 
+
+|InTheGame_research= 
+None required. Cz04 T50 51 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Coated Optics, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|i5L9cPmxcFE}}
+|History= 
+Based on the preliminary works on the TVP concept from January 1948, in January 1949, the HQ of the army issued an official request for a tank project to Škoda and Praga. Cz04 T50 51  For Škoda, the project had designation T-50 (task 181 B), for ČKD (Praga), the designation was T-51 (task 181 A). Cz04 T50 51  By the end of 1949, both the T-50 and T-51 project were united into the T-50/51 project. Cz04 T50 51 
+
+==Characteristics and Development==
+Former competitors were (because of the orders from ministry of defence) now working together as allies. Cz04 T50 51  Both companies were to present their “own” T-50/51 prototypes, the difference between which was mainly the engine used. Cz04 T50 51  By the end of 1949, a coordination office was created in order to support the cooperation. Cz04 T50 51  However, the serious differences between former projects led to development being started from scratch. Cz04 T50 51  During one of the first coordination office meetings on 14. Cz04 T50 51 1. Cz04 T50 51 1950, the basic specifications were discussed: 35-40 tons. Cz04 T50 51  The army requested the speed of 60 km/h, but Ing. Cz04 T50 51 Surin of Praga (possibly the most famous Czechoslovak tank designer ever, responsible for the LT-38 for example) stated that this request is unrealistic. Cz04 T50 51  On 16. Cz04 T50 51 1. Cz04 T50 51 1950, the hull shape and engine compartment size were agreed upon and unified. Cz04 T50 51  Škoda recieved a permission to work on a new type of turret (cast one) as well as on the new 100mm tank gun in two variants (designated AK1, that was developed along with the 100mm R11 and 100mm A20 – the development of those two started however earlier – end of 1948). Cz04 T50 51 
+
+The AK1 was ambitious: It was to be a 100mm L/55 (5500mm barrel length) gun, capable of firing a 14,75kg shell at 900 m/s. Cz04 T50 51  The second variant of AK1 was L/53 (or rather 52,7, as the barrel was 5270mm long) with the shell velocity of 890 m/s. Cz04 T50 51 
+
+On 23. Cz04 T50 51 1. Cz04 T50 51  and 24. Cz04 T50 51 1. Cz04 T50 51 1950, it was decided for the ČKD X-shaped diesel engine to be used. Cz04 T50 51  Around this time, Ing. Cz04 T50 51 Suring was informally selected as the leader of the entire project because of his contributions. Cz04 T50 51  He started working in Škoda on 6. Cz04 T50 51 2. Cz04 T50 51 1950 in order to get the work going. Cz04 T50 51  Two variants were considered: both had the same hull and cast turret, but one had an H-shaped engine and the other had an X-shaped engine. Cz04 T50 51  Surin had only 14 days actually to come up with the drawings – he immediately requested the turret to be made lower and sleeker – as a result, on 10. Cz04 T50 51 2. Cz04 T50 51 1950, Ing. Cz04 T50 51  Zíka from Škoda presented two drawings with the lower turret (only 800mm tall), including 1:10 wooden mockups. Cz04 T50 51  Both options had different mantlets – from front, one was oval-shaped (German style) and one was triangle shaped, the latter being selected. Cz04 T50 51 
+
+==Joint Cooperation==
+By the end of January, the shape of the hull was also discussed, including the number of roadwheels (ČKD had 5 pairs, Škoda had 6 pairs). Cz04 T50 51  Apparently, the 6-pair solution was adopted after some pressure from military liaison Maj. Cz04 T50 51 Hajšman. Cz04 T50 51  It was also decided that one entire prototype hull from armor steel would be produced by VŽKG (Vítkovice steelworks), while three more hulls from regular steel would be produced by Škoda. Cz04 T50 51  Škoda and ČKD would then cooperate on further development, while the turret would be developed exclusively by Škoda. Cz04 T50 51  Each company would then independently develop the engine, the transmission, drivetrain, steering mechanism, pedals, seats, fuel tanks and engine access ports. Cz04 T50 51  Engine air filters were to be developed by ČKD, while Škoda was to develop the suspension, ventilation and electric wiring. Cz04 T50 51  Furthermore, both companies were tasked with solving the implementation of the Soviet V-2 engine as a stopgap measure, because the high-power diesels still remained only on paper. Cz04 T50 51  What it meant in total was that Škoda would do most of the work, because ČKD was tasked also with the development of the universal LP chassis (light chassis for light tank/light tank destroyer/light SPG use). Cz04 T50 51 
+
+On 15. Cz04 T50 51 2. Cz04 T50 51 1950, the number of planned prototypes was reduced to three (two from soft steel, one from armor steel). Cz04 T50 51  Furthermore, each company was to build two prototypes of their engines (Škoda – 16 cylinder AHK, ČKD – 16 cylinder AXK) with transmissions and ČKD was to solve the issue of implementing the Soviet V-2 engine. Cz04 T50 51  TVP transmission was actually built and tested in 1949 on a T-34/85 tank (as a part of the T-34/85 upgrade program) and the results were promising. Cz04 T50 51  The suspension was now planned to be a torsion bar one, but there were problems with their manufacture. Cz04 T50 51  Even though ČKD was developing their own engine air filters, Škoda came up with a plan to use captured Panther air filters. Cz04 T50 51  ČKD in turn came up with a proposal to use hydraulic gun elevation control and Ing. Cz04 T50 51 Surin came with a plan to introduce a mechanical automatic loader, but both plans were declined by the military representatives. Cz04 T50 51 
+
+==Prototype Conduct==
+The key date for development was 27. Cz04 T50 51 2. Cz04 T50 51 1950, when a meeting took place at Czechoslovak tank army HQ. Cz04 T50 51  The committee that assembled approved the final version of the TVP project, which however lacked specific details. Cz04 T50 51  Both drawings were actually made earlier (18. Cz04 T50 51 2. Cz04 T50 51 1950) and the Praga one bears the name of “TNH tA”. Cz04 T50 51  These drawings are however missing the assumed bow machinegun and the driver’s hatch. Cz04 T50 51 
+
+T-50/51 was also compared to the T-34/85 tank (that was still in service) and came out favourably. Cz04 T50 51  The 100mm gun was able to penetrate 140mm of armor (60 deg) at 1000m and the vehicle was supposed to have superior maneuverability, given the 1000 horsepower AHK/AXK engine and better suspension. Cz04 T50 51  However, it was also heavier than the T-34/85. Cz04 T50 51  It was also considered for frontal and rear parts of the hull to be cast instead of welded and General František Papoušek was interested in the automatic loading mechanism. Cz04 T50 51  The meeting also confirmed previous production distribution and plans and both companies promised to deliver soft steel prototypes until 30. Cz04 T50 51 4. Cz04 T50 51 1952 (plus the armor steel prototype until 31. Cz04 T50 51 12. Cz04 T50 51 1952). Cz04 T50 51  However, even in 1950 it was clear that neither Škoda nor ČKD would have mass production capabilities (especially given the fact that the ambitious plan counted on mass production after 16 to 22 months from the prototype introduction). Cz04 T50 51  Major Hajšman also assumed the full documentation of the tank could be sent to USSR for assessment in November 1950. Cz04 T50 51 
+
+On 4. Cz04 T50 51 3. Cz04 T50 51 1950 a meeting took place, where the decision of the Minister of Defense to stop the T-50/51 development was adressed. Cz04 T50 51  Forced by the Soviet Union and pressed into accepting the Soviet tanks into their army, the Czechoslovak High Command had to abandon the support of the project. Cz04 T50 51  The engine itself was to be further developed and the armor development also ran for a while after. Cz04 T50 51  The development was entirely cancelled by the decision No. Cz04 T50 51  15705 sometimes later in 1950, including the development of all TVP-based projects (tank destroyers, SPG’s). Cz04 T50 51  Few months later, all the independent design and construction works in Czechoslovakia were ended and that marked the end of the last truly independent Czechoslovak tank project. Cz04 T50 51  All the production capacity was in the meanwhile used for the T-34/85 and in 1955, the first T-54 arrived in Czechoslovakia as a precursor to full-fledged license production, that ran practically until 1981 in one form or another. Cz04 T50 51 
+
+|HistoricalGallery= 
+image:TVP_50_51. Cz04 T50 51 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+*https://ftr. Cz04 T50 51 wot-news. Cz04 T50 51 com/2013/12/19/research-tvp/
+*https://ftr-wot. Cz04 T50 51 blogspot. Cz04 T50 51 cz/2013/01/czechoslovak-tree-part-4-medium-tanks. Cz04 T50 51 html
+*https://en. Cz04 T50 51 wikipedia. Cz04 T50 51 org/wiki/Tanks_of_Czechoslovakia
+}}

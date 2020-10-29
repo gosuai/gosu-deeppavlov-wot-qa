@@ -1,0 +1,85 @@
+{{TankData|Tank=T40
+|The T40 is basically a [[M3 Lee]] without its small turret and roof armor, but with better guns, camouflage values, and a more ideal placed gun mount. A29 T40  The [[Hetzer]] is a better brawler and ambush tank, while the [[SU-85B]] is a better sniper. A29 T40  However, the T40 is very versatile and easy to play. A29 T40  It can fight at any range as long as you know how to avoid getting hit. A29 T40  Its top gun is excellent for tier 4 and is arguably the best mid-ranged weapon of any tank at its tier. A29 T40  With the 9. A29 T40 6 update the tank lost 90 metres of view range, dropping from 400m to 310m. A29 T40 
+
+|InTheGame_pros=
+* Very wide gun arc, and relatively short height
+* The gun is mounted at the very top of the hull, allowing you to hull down effectively
+* Effective when on the defence, good at sniping
+* Able to mount both the Tier 6 76mm M1A1 and the 105mm M3 howitzer guns, both of which are very good
+* Easy grind to top guns
+
+|InTheGame_cons=
+* Mediocre top speed and maneuverability
+* Large silhouette, plus open top body which makes it prone to crew and module damage from artillery shells
+* Frontal armour is not thick enough to protect from most AP shells
+* 105 mm Howitzer has poor splash radius (hits on an enemy gun or gun mantle often fail to do any damage other than to the gun)
+* Extremely poor gun depression (from -1 to -3. A29 T40 5 degrees) on all guns except 76mm M1A1
+
+|InTheGame_performance=
+The T40's role on the battlefield is mostly determined by the guns you use. A29 T40  With the 105 mm AT Howitzer M3 it acts as a short range ambusher that can one shot most opponents in tier 4 matches. A29 T40  Though, you should take a more supporting approach in higher tier matches, as the HE damage greatly diminishes against better armoured tanks. A29 T40  With the 57 mm Gun M1 L/50 cannon it can be used as a sniping anti-tank machine gun over medium to long ranges. A29 T40  The 76 mm AT Gun M1A1 gun is widely considered as the best gun for this tank. A29 T40  It combines high penetration and a short aim time with a decent rate of fire and alpha strike damage. A29 T40  Its only drawback is the mediocre accuracy which diminishes its long range performance considerably. A29 T40  But feel free to spam even at those long ranges if you're in a good position, as your shells are cheap and plenty. A29 T40 
+
+The key to play this tank effectively is to hide your rather large body from incoming shells. A29 T40  The T40 excels at hiding behind wrecks and shooting over hilltops. A29 T40 
+
+In addition, this tank can become a proper killing machine if played in a defensive like manner correctly, keeping hostile players at bay as team mates push forward on other fronts or are rushing to assist. A29 T40  Use good cover and duck behind it often while reloading or are expecting enemy fire. A29 T40 
+
+|InTheGame_research=
+* The 57mm Gun M1 carries over from the T56 GMC. A29 T40 
+* If you played the [[M3 Lee]] previously, the Chrysler A57 engine and SCR 506 radio will also be available immediately. A29 T40 
+* All modules are mountable without upgrading the suspension, so most players go straight for the 76 mm AT Gun M1A1. A29 T40 
+* Go from there. A29 T40 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|Gallery=
+image:T40_001. A29 T40 jpg{{!}}T40_001
+image:T40_002. A29 T40 jpg{{!}}T40_002
+image:T40_003. A29 T40 jpg{{!}}T40_003
+image:T40_004. A29 T40 jpg{{!}}T40_004
+
+|History=
+<h4>Development history</h4>
+
+
+;T24 Gun motor carriage
+
+The U. A29 T40 S. A29 T40  Army expressed a need for a vehicle capable of stopping and destroying enemy tanks. A29 T40  The new vehicle, dubbed the "Tank Destroyer", would have the same armor protection and general mobility of a standard tank, but would be heavily armed with enough punch to decimate enemy armored formations. A29 T40  Up until 1941, the only vehicles available were modified trucks and half-tracks, which lacked greatly in the mobility, firepower and armor departments. A29 T40  
+
+During the summer of 1941, Baldwin Locomotive Works began development of a vehicle to fill the need for a true tank destroyer. A29 T40  They began with the chassis of an M3 Lee medium tank, added a modified superstructure with an open, hexagonally-shaped top, and armed the vehicle with the M1918 3-inch gun. A29 T40  
+The Ordnance Department accepted the vehicle for testing at Aberdeen at the end of the summer, designating it the T24 gun motor carriage. A29 T40  However, the extremely high silhouette of the vehicle was thought to detract from its ability to stalk its prey, and gun was found to be lacking in range and accuracy. A29 T40  The T24 was returned to Baldwin for adjustments. A29 T40  
+
+
+;T40/M9 America's First Tank Destroyer
+
+What Baldwin later returned to the Army was basically a somewhat improved T24. A29 T40  Indeed, it was the T24 pilot vehicle, simply modified with a slightly lower superstructure and some minor improvements to the weapon and related systems. A29 T40  The vehicle was accepted for testing at Aberdeen once more, this time under the designation of T40. A29 T40  The Ordnance Department was still far from impressed, but a surprise attack on Pearl Harbor by the Japanese, and the subsequent entry of the United States into the war prompted the vehicle's adoption as the Army's first standardized full-track tank destroyer. A29 T40  It was christened the 3-inch Gun Motor Carriage, M9, and a production contract was awarded for 1,000 examples. A29 T40 
+ 
+However, as the vehicle was not truly up the Army's standards, the contract was cancelled only four months later, in April 1942. A29 T40  The M9 had simply proven too slow, and furthermore, its 3-inch main armament was not available in sufficient quantity. A29 T40  As the vehicle had a basis on the M3 Lee medium tank, the silhouette was also above the minimum for a vehicle intended as an ambush predator. A29 T40  The Tank Destroyer Board finally abandoned the project at the end of the summer of 1942, officially due to the insufficient mobility and speed of the vehicle. A29 T40 
+
+|HistoricalGallery=
+image:T40-1. A29 T40 jpg
+image:T40-2. A29 T40 jpg
+image:T40-3. A29 T40 jpg
+image:T40-4. A29 T40 jpg
+
+|HistAcc=
+The 3-inch AT Gun M1918 was the T40's only primary armament. A29 T40  The other gun configurations are fictitious. A29 T40 
+*The vehicle actually had -8°/+29° of gun elevation. A29 T40 
+*Its actual gun arc is 37° (10° left and 27° right). A29 T40  In World of Tanks, however, it is 57°. A29 T40 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A29 T40  and C. A29 T40  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A29 T40 
+
+Forty, G. A29 T40 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A29 T40 
+
+Zaloga, S. A29 T40 J. A29 T40 , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A29 T40 
+
+
+|Ref_links=
+
+}}
+
+[[Category:USA Tanks]]

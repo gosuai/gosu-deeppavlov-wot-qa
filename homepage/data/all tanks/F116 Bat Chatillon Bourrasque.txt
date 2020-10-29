@@ -1,0 +1,58 @@
+{{TankData|Tank= Bat. F116 Bat Chatillon Bourrasque -Châtillon Bourrasque
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good burst damage and very quick shell cycling
+* Decently quick magazine reload 
+* Very good gun handling for a French autoloader
+* High top speed and acceleration
+* Small size and outstanding camouflage
+
+|InTheGame_cons= 
+* Low hitpoint pool and no armor
+* Bad accuracy and horrible aim time, fires faster than it can aim
+* Fragile engine and fuel tank modules
+* Cannot pivot, hull traverse feels sluggish
+* Limited gun depression and elevation
+
+
+|InTheGame_performance=Looking at its characteristics, this seems like a medium-light hybrid. F116 Bat Chatillon Bourrasque  Picture a stock B-C 12t hull mated with the EBR 105's turret. F116 Bat Chatillon Bourrasque 
+The combination of low armour, long aiming time and poor accuracy disparage fighting at a distance, forcing you to come almost at point-blank, similar to the T49. F116 Bat Chatillon Bourrasque 
+
+Although you can finish off low HP enemies with a 720 HP burst with a double-tap, you must factor in low-rolls and lowish penetration, which won't do you any favours. F116 Bat Chatillon Bourrasque  It is recommended to plan your way out ''before'' entering in a hit-and-run strike, something this vehicle seems to be geared for. F116 Bat Chatillon Bourrasque 
+
+Ridge-fighting is also not recommended due to limited depression but with a low profile and high camo rating (with skills and paint), playing like a passive spotter is very much viable. F116 Bat Chatillon Bourrasque  Keep in mind, however, you are in a medium tank, despite having hull and turret of two lights: moving will reduce your camo values which, although are still quite high, it might be enough to have you spotted and killed very easily. F116 Bat Chatillon Bourrasque 
+
+It's recommended to train your driver for Off-Road Driving. F116 Bat Chatillon Bourrasque  This has two effects: it increases the very poor hull traverse AND decreases ground resistance, which you'll need it to leave dire situations you are likely to encounter in the tight, HT-friendly maps in rotation. F116 Bat Chatillon Bourrasque 
+
+Finally, you might also want to consider Automatic Fire Extinguishers over crew food as the B-C 12t chassis the Bourrasque is based on is prone to engine fires. F116 Bat Chatillon Bourrasque 
+ 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=There are 2 possible equipment setups for this tank. F116 Bat Chatillon Bourrasque  Vents and Vertical Stabilizers are a must. F116 Bat Chatillon Bourrasque  However, you can choose to use coated optics (recommended) or an Enhanced Gun Laying Drive if you really do not like long aim times. F116 Bat Chatillon Bourrasque  Because you can play this tank much like a light, Coated Optics are usually the way to go to get your view range to that nice 460m sweet spot (with BiA + Vents + Sit. F116 Bat Chatillon Bourrasque  Awareness). F116 Bat Chatillon Bourrasque 
+
+|InTheGame_Equipment_Builds=
+ 
+
+|External_Reviews= 
+{{#ev:youtube|RQ822NEI5eg}}
+
+
+|HistoricalGallery= 
+ 
+
+|HistAcc=
+This tank is a complete fabrication, while it shared a turret with [[Tank:F108_Panhard_EBR_105|Panhard EBR 105]], it is actually a Panhard ERC's turret, which were never fitted with 105mm gun. F116 Bat Chatillon Bourrasque  Note that the B-C 12t project (which is the basis of this tank) were cancelled long before the Panhard EBR was developed. F116 Bat Chatillon Bourrasque 
+
+
+ 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+ 
+
+}}

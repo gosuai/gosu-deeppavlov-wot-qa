@@ -1,0 +1,93 @@
+{{TankData|Tank=VK4502A
+|Compared to the [[Tank:G16_PzVIB_Tiger_II|Tiger II]], it has superior mobility and gun handling, but loses out on firepower. G67 VK4502A  The most noticeable differences from its brother, the VK 45. G67 VK4502A 02(P) Ausf. G67 VK4502A  B, is that the Ausf. G67 VK4502A  A's turret is mounted at the front instead of at the back, and that the Ausf. G67 VK4502A  A is much nimbler, with weaker gun selection. G67 VK4502A 
+
+|InTheGame_pros=
+* Above average mobility for a heavy tank; able to keep pace with some mediums
+* Ability to rotate in place and good terrain resistance
+* Decent armour for its mobility, superior to Tiger II in terms of hull armour (stronger LFP, has spaced armor "collar" protecting the turret ring and hull roof)
+* Top turret is very bouncy but relies more on slope than in thickness
+* Good DPM and soft stats with 105mm
+
+|InTheGame_cons=
+* Weaker gun selection than most other tier 8 heavy tanks but still better than [[Tank:A12_T32|T32]]
+* Low penetration on all guns and mediocre accuracy (by German standards) on 10,5 cm KwK 45 but still competitive 
+* Very weak hull sponsons bottom behind mud guards gets overmatched easily
+* Weak ammo rack and modules
+* Horrible stock grinding with no weight capacity to spare, bad terrain resistance and useless gun
+
+|InTheGame_performance=
+
+The VK 45. G67 VK4502A 02 (P) Ausf. G67 VK4502A  A plays between a heavy and medium. G67 VK4502A  Unfortunately it inherites as many bad points of either tank class as good points. G67 VK4502A  
+
+*The gun is rather mediocre for a heavy, but still workable
+*The mobility is not impressive for a medium, but good for a heavy
+*The armor is decent, but has a few obvious weakspots
+
+Use the mobility as advantage; do not expose your tank for long times, your armour is good, but not impenetrable. G67 VK4502A  Luckily, the sheer speed of this tank allows decent wolf packing with mediums and assaults on flanks where only mediums will be met. G67 VK4502A  While not the best against other heavies of the tier, the gun and armour of this tank is more than enough against mediums and lights. G67 VK4502A  Sharing the same 150 mm well sloped upper plate with the Tiger II, which will reliably bounce shells below 230mm penetration when angled, and combined with its maneuverability will allow it to excel at hunting down mediums and light tanks, which if played well, will have a hard time circling this tank. G67 VK4502A  
+
+Always remember to angle your armour, as even the infamous IS-3 can bounce a well-angled VK. G67 VK4502A  Under certain rare circumstances, the VK's armour can deflect shots from tier 10 tanks. G67 VK4502A  Because of your weaker than average gun, you should prefer support role with other heavies. G67 VK4502A  Front line is not the place for this machine. G67 VK4502A  One exception of this rule: if you are top tier, you should consider playing a more active role. G67 VK4502A  
+
+The accuracy of the cannon will also allow the VK to stay at medium range, which will help improve the chance of bouncing enemy fire. G67 VK4502A  However, the cannon has subpar penetration which will make it hard to penetrate some tier 8 and 9 heavy tanks. G67 VK4502A  If possible conduct flanking actions. G67 VK4502A  Keep in mind, though, that the size of the VK makes it a lucrative target for artillery. G67 VK4502A  Don't stay still for too long, you have the mobility. G67 VK4502A 
+
+|InTheGame_research=
+*The 8,8cm KwK 43 L/71 gun, the 2x Porsche Typ 100/3 engine, and the FuG 12 radio all carry over from the Tiger P; however the upgraded suspension is needed in order to mount all three. G67 VK4502A 
+*After researching the upgraded suspension, either the 10,5cm KwK 45 L/52 gun or the upgraded turret may be mounted depending on whether you want the additional armour or the increase in damage first. G67 VK4502A 
+*Go from there. G67 VK4502A 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|Gallery=
+image:VK4502(P) Ausf. G67 VK4502A  A front view 1. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A front left view
+image:VK4502(P) Ausf. G67 VK4502A  A front view 2. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A front right view
+image:VK4502(P) Ausf. G67 VK4502A  A back view 1. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A back left view
+image:VK4502(P) Ausf. G67 VK4502A  A back view 2b. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A back right view
+image:AusfA-a1. G67 VK4502A jpg{{!}}VK4502(P) Ausf. G67 VK4502A  A, map Komarin
+image:AusfA-a2. G67 VK4502A jpg{{!}}VK4502(P) Ausf. G67 VK4502A  A, map Komarin
+
+|HistAcc=
+The Henschel turret was only designed for the Tiger II. G67 VK4502A  Its configuration on the VK 45. G67 VK4502A 02 is fake. G67 VK4502A 
+* 8,8 cm Flak 41 L/74 (the [[Pz. G67 VK4502A Sfl. G67 VK4502A  IVc]]'s top gun), is missing. G67 VK4502A  This gun was initially intended for the VK 45. G67 VK4502A 02 before it was later switched to the KwK 43. G67 VK4502A  The other gun configurations are fake. G67 VK4502A 
+* Original specifications indicates the turret's traverse speed is 15 degrees per second. G67 VK4502A  In World of Tanks, however, the turret turns twice as fast. G67 VK4502A 
+
+|History=
+After the VK 45. G67 VK4502A 01 (P) failed to win the contract, Dr. G67 VK4502A  Porsche began looking at ways to improve the design for a future version. G67 VK4502A  Based on the latest Allied tank designs, however, it was clear that simply increasing the armor on the VK 45. G67 VK4502A 01 (P) would not be enough for the tank to remain competitive. G67 VK4502A  It needed to have both more weight and more maneuverability. G67 VK4502A  What initially began as a single vehicle, entitled "Typ 180" grew into a series of five different vehicles, requiring the development of two hull configurations (one with the turret in the front, the other with the turret in the rear), both an electric and a hydraulic drive system, and four different engines. G67 VK4502A  The overall project came to be known as VK 45. G67 VK4502A 02 (P) and the five configurations came to be:
+
+
+* Typ 180A: Electric drive with Porsche Typ 101/3 gasoline engines. G67 VK4502A 
+* Typ 180B: Electric drive with Porsche Typ 101/4 gasoline engines. G67 VK4502A 
+* Typ 181A: Voith II hydraulic drive with Porsche Typ 101/3 gasoline engines. G67 VK4502A 
+* Typ 181B: Voith II hydraulic drive with Porsche Deutz Typ 180/1 diesel engines. G67 VK4502A 
+* Typ 181C: Voith II hydraulic drive with Porsche Deutz Typ 180/2 diesel engines. G67 VK4502A  
+
+
+A new turret for the VK 4502 (P) had to be developed after it was determined that the 8. G67 VK4502A 8cm Flak 41 could not be installed in the VK 4501 (P) turret. G67 VK4502A  Records appear to indicate that the design was finalized by May 7, 1942, because Krupp reported difficulties shaping the turret's specially rounded front. G67 VK4502A  The rounded front reduced the frontal target area, and thus it would not present the shot-trap that became apparent in the initial production design of the Henschel Tiger II. G67 VK4502A  The rounded front of the turret would then line up with the sloped frontal armor (albeit only on the chassis with the front-mounted turret). G67 VK4502A 
+
+Initially an order for 200 complete VK 4502 (P) tanks was authorized in April of 1942, with the first four to be delivered in October. G67 VK4502A  Unfortunately, Dr. G67 VK4502A  Porsche's fascination with advanced (and unproven) engine design doomed the project when the 10-cylinder engines he designed for the tank failed during trials. G67 VK4502A  Given that Dr. G67 VK4502A  Porsche's previous failures used engines with the same drive train layout, the Wehrmacht had no confidence he would succeed in making it into a dependable engine. G67 VK4502A  As a result, all contracts relating to the VK 4502 (P) were rescinded in November of 1942. G67 VK4502A  Porsche nevertheless continued working on the design up to the summer of 1944. G67 VK4502A  By then, the design had a hydraulic drive, a suspension, and a working 900 metric horsepower air-cooled diesel engine. G67 VK4502A 
+
+Ultimately, only the turret was used as an upgrade for the existing Henschel Tiger II design. G67 VK4502A 
+
+|HistoricalGallery=
+VK 45. G67 VK4502A 02 (P) Ausf. G67 VK4502A  A. G67 VK4502A jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+Historical Info - [https://fingolfen. G67 VK4502A tripod. G67 VK4502A com/tiger/vk4502p. G67 VK4502A html https://fingolfen. G67 VK4502A tripod. G67 VK4502A com/tiger/vk4502p. G67 VK4502A html]
+
+|Sidebar_Camostop=4. G67 VK4502A 3
+|Sidebar_Camomove=2. G67 VK4502A 3
+|Sidebar_Camofire=1. G67 VK4502A 1
+|Sidebar_Passhard=1. G67 VK4502A 055
+|Sidebar_Passmed=1. G67 VK4502A 247
+|Sidebar_Passsoft=2. G67 VK4502A 205
+|Sidebar_DispTurret=0. G67 VK4502A 096
+|Sidebar_DispRecoil=2. G67 VK4502A 877
+|Sidebar_DispAccel=0. G67 VK4502A 192
+|Sidebar_DispTurning=0. G67 VK4502A 192
+}}

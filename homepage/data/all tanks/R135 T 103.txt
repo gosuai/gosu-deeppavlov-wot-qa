@@ -1,0 +1,54 @@
+{{TankData|Tank= T-103
+| Essentially a turreted version of [[SU-100Y]], available for purchase during 2019 Homefront event. R135 T 103 
+
+|Gallery= 
+
+|InTheGame_pros=
+* Good alpha damage, penetration, DPM, accuracy and aimtime
+* Fully traversible turret
+* Good gun depression and great gun elevation
+* Reasonably armored turret face and sides
+* Good base viewrange for a Tier 8 tank destroyer
+
+|InTheGame_cons= 
+* Large, poorly armored hull
+* Very large profile, poor concealment and difficult to hide
+* Shell velocity is not great, making sniping difficult
+* Very poor turret traverse speed
+* Poor reverse speed
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The multi-turret tank was something of a staple of the interwar period & influenced by the "Land Ship" approach of World War 1 (1914-1918). R135 T 103  As such, the 1930s continued tradition with several nations investing in the development of such types including Britain, Germany, & the Soviet Union. R135 T 103  The key Soviet development of the period became the multi-turret "T-35" Heavy Tank which was itself influenced by the British Vickers Independent. R135 T 103  This gave a poor showing in the Spanish Civil War (1936-1939) namely due to poor armor protection so a subsequent program attempted to right-the-wrongs of the design. R135 T 103  It was this venture that ultimately begat the famous "KV-1" series heavy tank for the Red Army - & also gave rise to two other (now largely forgotten) competing designs, the "T-100" (the focus of this article) & the SMK. R135 T 103 
+
+The T-100 & SMK were very similar to one another in appearance, utilizing a conventional track-and-wheel arrangement relying on multiple small road wheels, a rear-mounted engine, & an extended-length hull. R135 T 103  However, the key physical quality of both was the two in line turrets with the primary turret seated over midships mounting a 76. R135 T 103 2mm cannon & the secondary turret fitting a 45mm anti-tank gun closer to the bow. R135 T 103  Originally, as many as five turrets were to be included but this requirement was dropped early in development (engineers were against the multi-turret approach to begin with). R135 T 103  Both designs eventually used a torsion bar suspension system & multiple 7. R135 T 103 62mm DT machine gun positions. R135 T 103  Required armor protection was to be against 45mm shells at close-to-medium ranges & against 75mm shells at medium-to-long ranges. R135 T 103  Armor, therefore, was welded in both offerings for maximum strength & protection to the crew & vital internal workings. R135 T 103 
+
+While only one of the SMK form was built, two of the T-100 were completed. R135 T 103  This model featured a crew of up to eight men charged with various duties about the tank. R135 T 103  The tank held a length of 27. R135 T 103 5 feet, a beam of 11. R135 T 103 1 feet, & a height of 11. R135 T 103 2 feet. R135 T 103  Power was from a single GAM-34BT 12-cylinder, liquid-cooled, gasoline-fueled engine developing 800 horsepower & allowing for road speeds of 22 miles per hour & operational ranges out to 120 miles (less when going cross-country). R135 T 103  The drive equipment included no fewer than eight double-tired road wheels to a hull side. R135 T 103  The drive sprocket was mounted at the rear & the track idler at front. R135 T 103  Five track-return rollers were used along the track run's upper reaches. R135 T 103 
+
+The primary gun became the Type L-11 weapon & to this was afforded 120 projectiles. R135 T 103  The secondary fit was the proven Red Army 45mm ant-tank gun. R135 T 103  Held in independently-operating turrets, the T-100 held qualities akin to a battleship with broad arcs of fire with each turret able to target separate enemies at once. R135 T 103  The machine guns added an infantry defense measure for those elements attempting to rush the vehicle with explosives. R135 T 103  With one turret fitted forward & the other at middle, joined by the engine at the rear, the vehicle was relatively well-balanced for its size but its length made it still clumsy & cumbersome while weight also increased - the T-100 tipping the scales at 58 tons. R135 T 103 
+
+Beyond the usual evaluations & trials, the T-100, along with the SMK, were both operationally fielded in the "Winter War" (November 1939 - March 1940) against neighboring Finland. R135 T 103  SMK was disabled by an enemy landmine in December of 1939 & abandoned for two months before being recovered by the Soviets - it was never repaired nor reinstated. R135 T 103  The T-100 had a slightly better showing in its exposure, the armor protection proving sound against Finnish 37mm & 45mm anti-tank guns. R135 T 103  Despite this, it held terrible inherent traits for a frontline combat system & was not given official approval for adoption/serial production. R135 T 103  At least one of the two T-100 pilot vehicles was modified to the Self-Propelled Gun (SPG) role in 1940 with a 130mm naval gun as its main armament (as the one-off "SU-100Y") to combat stout Finnish bunker fortifications. R135 T 103  Out of desperation, this sole example was then pressed into service in the defense of Moscow (1941-1942) against the invading Germans. R135 T 103 
+
+There is no historical documentation to show the T-103 variant was ever considered or in blueprint development. R135 T 103 
+
+|HistAcc=
+There is no historical documentation about the T-103. R135 T 103  The other known proposed "upgunned variant" of the T-100 (other than SU-100Y) is the ''T-100Z'', which is essentially a T-100 equipped with 152mm gun on the main turret that never leave the blueprint stage. R135 T 103  There's no other known plan to design a new turret and/or modify the T-100 to accept the 130mm gun other than the SU-100Y project. R135 T 103  So, the T-103 is considered a fabrication made up by Wargaming. R135 T 103 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,55 @@
+{{TankData|Tank= 
+|Gallery=
+
+File:FV201 (A45) scr 1. GB52 A45 jpg
+File:FV201 (A45) scr 2. GB52 A45 jpg
+File:FV201 (A45) scr 3. GB52 A45 jpg
+File:Fv201_1. GB52 A45 jpg
+
+
+|InTheGame_pros= 
+*Fairly good gun depression and turret armor
+*Decent accuracy on the move
+*Above average mobility
+*High HP pool (1500)
+*High DPM
+
+|InTheGame_cons= 
+*Rather lacking in firepower (low alpha, low penetration)
+*Hull armor provides little protection
+*Ammo rack tends to get hit
+*Low top speed
+*Does not get preferential matchmaking
+
+|InTheGame_performance= The FV 201 has a fairly strong frontal turret, which follows the trend of the Caernarvon & the Centurions. GB52 A45  The gun, however, is a similar but less accurate version of the gun that is mounted on the TOG II. GB52 A45  With 171 mm of penetration & 150 damage, It is tied for the lowest penetration of any tier 7 HT. GB52 A45  The hull armor is weak, though the side skirts, fortunately, add a few extra mm of armor. GB52 A45  The turret area above the gun is very weak & can be easily penetrated. GB52 A45  This can be prevented by angling the turret to the side, turning it into an auto-bounce zone. GB52 A45  The rear & engine deck are easily penetrated. GB52 A45  Unfortunately, the fact that the gun relies on a high rate of fire, rather than alpha damage, makes this a difficult tactic to sustain & the turret remains vulnerable to high explosive shells. GB52 A45 
+
+The mobility is slightly below average for a T7 heavy tank. GB52 A45  It has a slower kph forward than the average, but a faster reverse, at 31 & 16 kph. GB52 A45  Terrain resistance is slightly worse than the tier average. GB52 A45  An interesting side effect of the slower speed makes the aiming circle minimally affected by movement. GB52 A45  It will be advised to utilize this attribute to your advantage, & firing on the move is a viable tactical option. GB52 A45  
+
+The main problem with the A45 is that the 17 pounder is simply the wrong gun for this kind of vehicle. GB52 A45  Its low alpha damage requires the A45 to stay exposed for long period of time in order to do significant damage, relying on out DPM-ing the enemy, rather than trading shots. GB52 A45  Unlike the [[Black Prince]], which has the necessary armor to weather the return fire, the A45 will not survive. GB52 A45  Nor does the A45 have the mobility to flank its opponents. GB52 A45  
+As a result, the A45 often does better in matches where it is not top tier &/or does not need to carry the game. GB52 A45  It can be an effective support tank. GB52 A45 
+
+The British heavy & medium tanks received numerous buffs in 2017, but the A45 was left out, even though it arguably needed to be buffed more than any other tank in the British tech tree. GB52 A45 
+
+|InTheGame_research= Premium tank, no research required. GB52 A45 
+
+|InTheGame_equipment= "Wet" Ammo Rack Class 2, Coated Optics, Medium-Caliber Tank Gun Rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The chassis was from the A45 Infantry Support Tank, which project was started in 1944 shortly after that of the A41 Centurion. GB52 A45  After the war, the project was relocated to that of the "Universal Tank" design of the FV 200 series. GB52 A45  The 200 series was to have used a common hull for all uses (self-propelled artillery, armoured personnel carrier, three varieties of tank, etc. GB52 A45 ). GB52 A45  One tank type was to be the heavy FV 201 of 55 tonnes, armed with an 83. GB52 A45 4 mm gun. GB52 A45 <br />
+<br />
+In 1949, it was decided to bring the armament up to 120 mm. GB52 A45  As this delayed the project, in 1952 the FV 201 hull was combined with a 17 pounder-armed Centurion Mk 2 turret to give the FV 221 Caernarvon Mark I. GB52 A45  Twenty-one were built with the Mk III 20 pounder turret as the Caernarvon Mk II. GB52 A45  The FV 221 may originally have been intended to be the "Main Battle Tank" member of the FV 201 series, but with the success of the A41 Centurion such a vehicle was no longer required. GB52 A45  In either event, the Caernarvon was only used for chassis development work serving in troop trials. GB52 A45  In 1955, the first Conqueror was produced. GB52 A45  Twenty Mark 1 and 165 Mark 2 Conquerors were built, including conversions of Caernarvon MkIIs. GB52 A45  Production continued until 1959. GB52 A45  It lost much tactical relevance once the Centurion was upgraded to an L7 105 mm gun. GB52 A45 
+
+|HistoricalGallery= 
+image:FV201. GB52 A45 jpeg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

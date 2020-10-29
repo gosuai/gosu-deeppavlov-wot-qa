@@ -1,0 +1,109 @@
+{{TankData|Tank=R40_T-54
+|
+
+|InTheGame_pros=
+* Choice of two guns - D-10T2S has high DPM, and D-54 has good accuracy and aim time
+* Outstanding premium ammo penetration
+* Good hull armor and very tough turret armor
+* Good top speed and excellent maneuverability
+* Good camouflage 
+
+
+|InTheGame_cons=
+* The D-10T2S gun has poor accuracy and aim time
+* The D-54 gun has low DPM
+* Poor standard ammo penetration, especially with the D-10T2S gun
+* Bad gun depression (though the D-10T2S has -6 degrees)
+* Vulnerable to ammo rack and fuel tank critical hits
+
+
+|InTheGame_performance=
+One of the first MBTs (main battle tank) to reach mass production during the Cold War, the T-54 distinguishes itself in World of Tanks by offering good performance across the board, with few significant drawbacks. R40 T-54 
+
+First of all, it is one of the few tanks in the game with an actual option on which gun to equip, depending on player's choice. R40 T-54  The D-54 gun has excellent accuracy and aim time for Russian standards, and has the best base penetration the tank can offer, which, unfortunately is still nothing amazing at "only" 219mm. R40 T-54  On the other hand, the D-10T2S gun is preferred for brawling, as it lacks accuracy and has a poor aim time, but enjoys better gun handling, one extra degree of gun depression (-6 degrees) and, most importantly, a vastly superior DPM. R40 T-54  The main drawback of this gun is the very low base penetration, which brings up the next feature of the T-54, its premium ammunition. R40 T-54  With both top guns, the tank fires HEAT shells with an outstanding 330mm of penetration, which often leads players to pick the D-10T2S gun and load nothing but premium ammunition (which in turn leads to players to refer to this tank with the nickname of "HEAT-54"). R40 T-54  
+
+In terms of protection, the T-54's best asset is its fairly small, well rounded and thick turret, which is very resilient to incoming fire and can even deal with some top tier premium ammunition. R40 T-54  The hull is less protected but still decently durable for a medium tank, though it should not be relied upon anywhere but against lower tiered opponents. R40 T-54  Similarly to the armor, the tank's camouflage is quite good and it is recommended to eventually train the crew in the camouflage skill to further improve the T-54's ability to sneak around the battlefield. R40 T-54 
+
+Mobility-wise, the T-54 is excellent. R40 T-54  Ground resistance on unpaved terrain is fairly high compared to more recent Russian medium tanks, but its speed, acceleration and agility are top notch and make the T-54 very agile and responsive. R40 T-54 
+
+Overall, the T-54 is a considerable upgrade over its predecessor the [[T-44]], and offers some playstyle variety. R40 T-54  Players wishing for a more cautious and supportive role should seek the D-54 gun with its good accuracy, but those who want to be aggressive and overwhelm their opponents with sheer DPM are advised to pick the D-10T2S gun; it should be noted though, that the latter option can be extremely expensive as the poor base penetration of the gun means carrying at least a good amount of premium ammo is highly recommended. R40 T-54 
+
+|InTheGame_research=
+* The 100mm LB-1 gun and top radio carry over from the T-44 and should be installed immediately
+* Research the turret
+* Research one of the top guns, whichever suits your playstyle
+* Research the suspensions
+* Research the engine
+* Research the top gun you previously skipped to elite the tank 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Coated Optics, Tank Gun Rammer, Vents
+
+|External_Reviews= 
+{{VideoYT|Sl_Rb3vQmrQ}}
+
+|Gallery=
+image:T54-a. R40 T-54 jpg{{!}}Front right
+image:T54. R40 T-54 b. R40 T-54 jpg{{!}}Front left
+image:T54-c. R40 T-54 jpg{{!}}Rear right
+image:T54-d. R40 T-54 jpg{{!}}Rear left
+image:T54game1. R40 T-54 jpg{{!}}T-54, Malinovka map
+image:T54-a1. R40 T-54 jpg{{!}}T-54, map Prokhorovka 
+
+|History=
+[[image:T-54_001. R40 T-54 jpg|thumb|200px|left|T54 Russian battle tank]]The T-54 and T-55 tanks were a series of main battle tanks designed in the Soviet Union. R40 T-54  The first T-54 prototype appeared in March 1945, just before the end of the Second World War. R40 T-54  The T-54 entered full production in 1947 and became the main tank for armored units of the Soviet Army, armies of the Warsaw Pact countries, and others. R40 T-54  T-54s and T-55s were involved in many of the world's armed conflicts during the late 20th century. R40 T-54  It is the most produced tank in human history. R40 T-54 
+
+
+==Development==
+Development of the first T-54 prototype started in October 1944 at the OKB-520 design bureau, at the Stalin Ural Tank Factory No. R40 T-54  183 (Uralvagonzavod), in Nizhny Tagil. R40 T-54  The initial design was completed in December, with a prototype completed in February 1945. R40 T-54 
+
+Trials conducted between March and April 1945 resulted in the new tank being commissioned for service with the Red Army as the T-54. R40 T-54  The tank had virtually the same hull and drive train as the T-44. R40 T-54  Major differences included thicker front armour (120 mm on the upper section and 90 mm on the lower section) and a newly designed driver's hatch and vision slot. R40 T-54  The turret ring increased in diameter to 1800 mm and had thicker armour (180 mm on the front, between 90 mm and 150 mm on the sides and 30 mm on the roof). R40 T-54 
+The main armament was the 100 mm D-10TK cannon, with two 7. R40 T-54 62 mm GWT machine guns. R40 T-54  The tank was powered by a new V-54 12-cylinder 38. R40 T-54 88 litre water-cooled diesel engine developing 520 hp (388 kW) at 2,000 rpm with a two-stage reduction gearbox. R40 T-54  Fuel capacity was increased to 530 litres in the internal fuel tank and 165 litres in the external fuel tank. R40 T-54  Unlike the T-34, the external fuel tanks were connected to the fuel system. R40 T-54  The rubber rollers on the road wheels were widened. R40 T-54  The T-54 weighed 35. R40 T-54 5 tonnes, making it slightly slower than the T-44 at 43. R40 T-54 5 km/h. R40 T-54  The road range increased to 360 km. R40 T-54 
+It was decided to modernize the tank before production started. R40 T-54  The new tank's turret was tried on two modified T-44 tanks. R40 T-54 
+
+Another T-54 prototype was built in July 1945 which received the alternative designation Ob'yekt 137. R40 T-54  The tank was equipped with a new turret armed with 100 mm LB-1 tank gun and 7. R40 T-54 62 mm SG medium coaxial machine gun. R40 T-54  The turret armour was thickened (200 mm on the front, between 125 mm and 160 mm on the sides). R40 T-54  The tank was armed with two 7. R40 T-54 62 mm SG-43 medium machine guns mounted inside fixed boxes on the fenders, each with 500 rounds of ammunition and operated by the driver. R40 T-54  The turret was fitted with a 12. R40 T-54 7 mm DShK anti-aircraft heavy machine gun. R40 T-54  The fuel capacity was increased to 545 litres in internal fuel tanks and 180 litres in external fuel tanks. R40 T-54  Because of this, the road range remained 360 km despite the increased weight of 39. R40 T-54 15 tonnes. R40 T-54  This prototype went through trials between July and November 1945. R40 T-54  Although there were numerous drawbacks which required correction and many alterations which had to be made to the vehicle's design, it was decided to begin serial production of the new vehicle and the vehicle officially entered service on 29 April 1946. R40 T-54  It would go into production in Nizhni Tagil and Kharkiv in 1947. R40 T-54 
+
+
+|HistAcc=
+The T-54 is only represented up until her 1949 model, when it still had the dome-shaped turret with flat sides. R40 T-54  The more prolific 1951 turret used by nearly all production T-54s and the Chinese [[Type 59]] copy is not available. R40 T-54 
+* The original T-54 was actually fitted with the V-54 diesel engine that produced 520 hp. R40 T-54  More powerful engines were only fitted to the T-55 and later models of the T-54. R40 T-54 
+* The 100 mm D-54 has substantially lower penetration than the U-8TS used by the Tier 10 Soviet medium tanks; they are historically the same gun with different stabilization systems. R40 T-54 
+* Neither the D-10T2S nor the D-54 were historically fitted with the 1949 turret. R40 T-54  The D-54 gun was only fitted to a T-54 that had the fully egg-shaped turret produced from 1951. R40 T-54  Its configuration on the Model 1949 is fake. R40 T-54 
+* The 120 mm frontal hull was only used by the original 1945 and 1946 variants; it was reduced to 100 mm on the 1949 and later models due to overloading on the front of the suspension. R40 T-54 
+* Uses the same D-10T2S gun as the [[T 55A]], yet the penetration values of the armor-piercing shell are inconsistent. R40 T-54 
+
+|HistoricalGallery=
+image:T-54_001. R40 T-54 jpg
+image:A_column_of_five_T-54-2_tanks. R40 T-54 jpg
+image:A_Somali_National_Army_T-55. R40 T-54 jpg
+image:An_abandoned_South_Lebanese_Army_Tiran-5_in_South_Lebanon. R40 T-54 JPG
+image:Captured_Syrian_T-54_tank_on_display_in_Israel. R40 T-54 jpg
+image:T-54_drawings. R40 T-54 gif
+image:T-54_m_1951_in_spring_1980. R40 T-54 jpg
+image:T-55A_on_the_streets_during_Martial_law_in_Poland. R40 T-54 jpg
+image:The_original_T-54-1_on_display_at_Verkhnyaya_Pyshma. R40 T-54 jpg
+image:The_original_T-55_lacked_an_antiaircraft_machine_gun_mount. R40 T-54 jpg
+image:The_T-54,_displeayed_at_the_Panzermuseum_Thun,_can_be_recognized_by_the_dome-shaped_ventilator_on_the_turret_roof,_which_the_T-55_lacks. R40 T-54 jpg
+image:T54_D-54. R40 T-54 jpg{{!}}T-54 armed with the D-54 cannon
+
+|Ref_references=
+
+
+|Ref_sources=
+# World of Tanks Homepage - https://worldoftanks. R40 T-54 eu/
+
+|Ref_links=
+# https://worldoftanks. R40 T-54 eu/encyclopedia/vehicles/ussr/t-54/
+
+|Sidebar_GunAlt= 100mm D-10T2C
+|Sidebar_Camostop=15. R40 T-54 7
+|Sidebar_Camomove=11. R40 T-54 7
+|Sidebar_Camofire=2. R40 T-54 9
+|Sidebar_Passhard=0. R40 T-54 959
+|Sidebar_Passmed=1. R40 T-54 055
+|Sidebar_Passsoft=2. R40 T-54 11
+|Sidebar_DispTurret=0. R40 T-54 115
+|Sidebar_DispRecoil=3. R40 T-54 356
+|Sidebar_DispAccel=0. R40 T-54 134
+|Sidebar_DispTurning=0. R40 T-54 134
+}}

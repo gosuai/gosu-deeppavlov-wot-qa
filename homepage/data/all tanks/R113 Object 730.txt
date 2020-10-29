@@ -1,0 +1,72 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:ИС-5 scr 1. R113 Object 730 jpg
+File:ИС-5 scr 2. R113 Object 730 jpg
+File:ИС-5 scr 3. R113 Object 730 jpg
+File:R113_Object_730 scr1. R113 Object 730 jpg
+File:R113_Object_730 scr2. R113 Object 730 jpg
+File:R113_Object_730 scr3. R113 Object 730 jpg
+
+|InTheGame_pros= 
+* Very good shell velocity, nice penetration
+* Good hull and turret armor
+* Good top speed and decent reverse speed
+
+|InTheGame_cons= 
+* Poor gun handling, aim time and accuracy
+* Fairly low DPM
+* High terrain resistance, mobility is rather sluggish
+* Bad gun depression
+* Poor viewrange
+
+|InTheGame_performance= 
+One of the better tier 8 Russian premiums, as it still has much of the speed of the [[IS-3]], while not having the penetration issues that the [[IS-6]] and KV-5 have. R113 Object 730  The armor is very good in top tier games, as the pike nose is 120mm thick and very well sloped, but the lower plate is quite weak. R113 Object 730  The side armor is typical high tier IS line side armor, a black hole if anyone shoots the spaced side. R113 Object 730  Above that, the armor is 120mm still, so a little angling can still bounce shells. R113 Object 730  By far, the worst aspect of this tank is the abysmal gun handling and accuracy. R113 Object 730  Other than that, a very good premium that doesn't need to spam HEAT at tanks its same tier. R113 Object 730  
+
+|InTheGame_research= 
+Premium tank, comes elite in its stock configuration. R113 Object 730 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+Object 730 (also known under its IS-5 designation) was a Soviet heavy tank and a precursor to the later design known as the IS-8 (or T-10). R113 Object 730  To avoid confusion: there were two IS-5 tanks actually. R113 Object 730  One was a modified IS-2 (also known as Object 248), the other is this one. R113 Object 730 
+
+The development of this vehicle started in late 1948. R113 Object 730  The goal was nothing less than complete overhaul (modernization) of the IS-4 heavy tank in order to increase its performance. R113 Object 730  The designers of the vehicle (Chelyabinsk plant) proposed to replace a number of internal components and to make the entire vehicle weigh less (specifically, to lower the weight from IS-4′s 60 tons to 50 tons. R113 Object 730  This “slimming”, along with the use of modernized engine was to assure better combat characteristics. R113 Object 730 
+
+
+The early variant of Object 730 was developed in Spring 1949 by the Chelyabinsk Tractor Plant (ChTZ) by a team led by Zh. R113 Object 730 J. R113 Object 730 Kotin. R113 Object 730  It was quite different from the original IS-4, especially the turret was reworked to implement the lessons learned during the IS-3 and IS-7 development. R113 Object 730  The transmission, suspension and loading mechanism were updated as well, the combat and engine compartments also underwent complete overhaul. R113 Object 730  The new modernized turret was cast with variable thickness and was fitted with the classic D-25T gun in a new mount, that was sturdier and also easier to fix and install. R113 Object 730  The gun was fitted with new electromechanical shell loading assistant for higher rate of fire. R113 Object 730 
+
+In early April 1949, the full set of documents along with a wooden mock-up was sent to Moscow. R113 Object 730  There, the representatives of the army and the industry checked it out and made a list of required improvements to the design. R113 Object 730  The design was updated as a result and in May 1949, it was approved. R113 Object 730  After that, the designers started working on assembly documents for the most difficult to produce components first, as the production of a new tank took a significant effort to organize. R113 Object 730  The documents were ready in late June 1949. R113 Object 730 
+
+The assembly of the prototypes was delayed however and it was decided to use modified IS-4 vehicles as prototypes instead. R113 Object 730  In order to meet the testing deadline (which was August 1949), the designers took two IS-4 tanks and reduced their weight to 50 tons by removing the turrets and using mockup weight blocks instead. R113 Object 730  The V-12 engine in the prototypes produced 700 horsepower, the stronger, modified V-12-5 appeared only later. R113 Object 730  A whole set of modules for the future Object 730 was also tested on the IS-7 prototypes, modified for this task. R113 Object 730  And so was the summer of 1949 filled with testing of various components of the vehicle in various ways. R113 Object 730 
+
+The first real hull of the true Object 730 was ready on 30. R113 Object 730 7. R113 Object 730 1949, second hull arrived on 9. R113 Object 730 8. R113 Object 730 1949 in Chelyabinsk. R113 Object 730  At this point, the assembly of both tanks was further delayed, as some of the components were still not developed properly or were still being tested. R113 Object 730  Nevertheless, the first prototype was ready in mid-September 1949. R113 Object 730  The first prototypes still had an older engine cooling model and 6-gear planetary transmission. R113 Object 730 
+
+Both vehicles were factory-trialed in September 1949, but these trials ended in failure, specifically the transmission proved to be problematic. R113 Object 730  As a result, it was decided to use a different, 8-gear planetary transmission. R113 Object 730  Both the 6-gear and the newly designed 8-gear one were tested against one another and the test showed the superiority of the new design. R113 Object 730  This change (along with several others) were implemented into the Object 730 project by the end of 1949. R113 Object 730  A new iteration of Object 730 documents appeared in January 1950 with this (and other changes) already implemented. R113 Object 730 
+
+In March 1950, three more (already improved) prototypes were built and in mid-April 1950, the prototypes underwent series of difficult trials. R113 Object 730  The results were positive and all three prototypes fulfilled the requirements. R113 Object 730  The vehicles were judged to be more reliable than other contemporary medium tanks and there was room for modernization as well. R113 Object 730  More trials followed and in summer 1950, the project was polished and 10 vehicles were built. R113 Object 730  These were sent to various sites for military trials and despite some shortcomings of the suspension, they again passed them successfully. R113 Object 730 
+
+Despite these successes however, the tank was not accepted in service, as by the end of 1950, a new list of requirements for the project was issued by the arty and the ministry of transportation. R113 Object 730  This new list required a significant overhaul, which would eventually take years to complete and by the end, the vehicle would recieve a new designation, the IS-8. R113 Object 730  It would eventually be accepted in service as the T-10 in 1953. R113 Object 730  Even though the Object 730 (IS-5) was not mass-produced, it allowed the development of various modern components, later used for the IS-8 tank. R113 Object 730 
+
+|HistoricalGallery= 
+File:1386210124_oblect-730-01. R113 Object 730 jpg
+File:1386210147_oblect-730-02. R113 Object 730 jpg
+File:1386210156_oblect-730-03. R113 Object 730 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://topwar. R113 Object 730 ru/36914-tyazhelyy-tank-is-5-obekt-730-trudnyy-put-k-t-10. R113 Object 730 html
+* https://ftr. R113 Object 730 wot-news. R113 Object 730 com/2014/12/29/is-5-object-730/
+
+}}

@@ -1,0 +1,139 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Excellent accuracy and aiming time on top gun
+* Superb gun depression at -15
+* Low dispersion on the move and on turret rotation (the best of tier VI mediums)
+* Almost best shell velocity of tier VI (beaten only by some TD)
+* Easy stock grind: competitive right out of the gate. S07 Strv 74 
+
+|InTheGame_cons= 
+* Overall armour negligible, turret can't bounce any shot even from lower tiers
+* Top gun carries below-average ammo count
+* Below average DPM for Tier VI mediums though somewhat rectified with a rammer & vents
+* Rather tall profile makes peeking ridges effectively difficult even with the great snap shooting ability, easy to spot and hit especially from the side
+* Very prone to arty penetrations as the tracks offer little to no protection from splash and mantle doesn't absorb much either
+* Internal modules and crew members get knocked out constantly
+
+|InTheGame_performance= 
+The Strv 74 is an all-round good tier VI tank, with good mobility comparable to an M48A5 Patton, fantastic gun depression, as well as fantastic aim time and gun dispersion values. S07 Strv 74 
+It does have its downsides however, with quite thin armor, on both the turret and hull, as well as low damage per minute which. S07 Strv 74  
+Especially the armor can be a problem. S07 Strv 74  At 20 mm the turret armor is so thin that it will be overmatched by nearly every gun at tier 5 and higher, so the sloping and angling will be largely irrelevant. S07 Strv 74 
+The major difficulty is with a tank that relies so heavily on its gun performance and the genuine lack of armour combined with poor view range and camo due to the size makes it very difficult to pay vision games with your opponents other then the double bush mechanic
+
+Choose your position carefully and use your depression to help hide when you shoot; your high shell velocity and fantastic aimtime and gun dispersion will let you pick your target and shoot easily. S07 Strv 74 
+Don't be afraid to wolf-pack with other mediums when they charge though, because your good maneuverability will let you do so too. S07 Strv 74  Keep in mind, that, although your narrow profile will let you maneuver effectively in tight spaces, it also means that the tank is somewhat top-heavy and may tip over. S07 Strv 74 
+
+The main thing you will have to be careful of, is your lack of ammo, you can carry very few ammo with you so make every shot count. S07 Strv 74 
+
+|InTheGame_research=
+* The 70W Sv m/43 radio is the only equipment that carries over from the Strv m/42 and can be mounted right away. S07 Strv 74  Doing so though will limit the equipment you can place on the tank such as gun rammer and vents. S07 Strv 74  It is suggested you equip this radio last. S07 Strv 74 
+* Research the top gun first as it can be mounted without upgrading tracks. S07 Strv 74 
+* Research the tracks next. S07 Strv 74 
+* Research turret. S07 Strv 74 
+* Research radio. S07 Strv 74 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Improved Ventilation, Coated optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+{{VideoYT|MB7nB2prPRk}}{{VideoYT|hYNP9jrtJDs}}
+First entering the service in 1957, the Strv 74 was part of the Swedish attempt to modernize its armored force in the early-mid 50′s. S07 Strv 74  The vehicle was a modification of the WW2 era Strv m/42 design, which had provided the main firepower of the Swedish armored forces between 1943 and 1953. S07 Strv 74 
+
+
+The main difference between the m/42 and the Strv 74 was the use of a longer 75mm gun and the use of a bigger turret to house the new gun. S07 Strv 74  The idea of rearming the Strv m/42 with a more powerful gun was kicked around from as early as 1944, when it ebcame clear that the short 75mm gun would no longer be a viable anti-tank weapon. S07 Strv 74  The early attempts to improve the Strv m/42´s firepower were however unsuccessful and were cancelled in 1948. S07 Strv 74 
+
+1944 schematics for the “divided turret”
+
+[[File:Strv_m42_turret_schematics. S07 Strv 74 jpg]]
+
+The original idea from 1944-48 was to use a new type of turret with the gun placed as close to the rear as possible and to have the gun equipped with a 3 round magazine, which would be fed by the loader. S07 Strv 74  The design got as far as the prototype stage, but it was scrapped after the war with the project cancellation. S07 Strv 74 
+
+In 1954, the idea of upgunning the Strv m/42 was brought up again – it became clear that the then-current tanks of the Swedish army with the exception of the recently purchased Centurion Mk. S07 Strv 74 3 were hopelessly obsolete even against late WW2 designs, like the T-34-85. S07 Strv 74  A research committee was formed to discuss how the Strv m/42 was to be improved and several options were proposed. S07 Strv 74  The first option was to replace the turret of the vehicle – this was referred to as Option A and was divided into three alternative turret designs. S07 Strv 74 
+
+A. S07 Strv 74 1: New turret of conventional type
+A. S07 Strv 74 2: New turret of type “AMX” (oscillating)
+A. S07 Strv 74 3: Turret of type “Divided Turret” (the 1944-48 project)
+
+The 2nd of these options (Option B) was to simply rebuild the tank to its tank destroyer version (Pvkv m/43), 86 of which were already in service with the army. S07 Strv 74 
+
+Of the proposed alternatives, the A. S07 Strv 74 1 was preferred most, as it would allow the tank to keep its impressive 15dg of gun depression – it would also be the cheapest solution. S07 Strv 74  However, this option would increase the weight of the vehicle the most and this, plus the massive turret, would mean that the armor would have to be reduced. S07 Strv 74  Option A. S07 Strv 74 2 was discussed but ultimately scrapped, since it was found that the turret ring of the AMX 13 was too big to fit the m/42. S07 Strv 74  Theoretically, it would offer good firepower with only a slight increase in weight, but with a big loss in gun depression. S07 Strv 74  The third and final variant, the A. S07 Strv 74 3, was dismissed almost right off the bat, most likely due to the complexity and cost of the mechanical loading system. S07 Strv 74 
+
+Strv 74-A. S07 Strv 74 1 plans from 1954
+
+[[File:Strv_74-a1_plans_from_1954. S07 Strv 74 jpg]]
+
+Interpretation of the Strv 74-A. S07 Strv 74 2
+
+[[File:Strv_74-a2_interpretation. S07 Strv 74 jpg]]
+
+In all the cases, the tank was to be rearmed with the Lvkan m/36 75mm L/60 anti-aircraft gun. S07 Strv 74  This gun was going out of service and was compatible with the 75mm armor-piercing ammunition already developed during and after World War 2 for existing anti-tank guns, so it was an ideal and cheap solution. S07 Strv 74  As it became clear that alternative A. S07 Strv 74 1 was the most viable, work began on rebuilding the Lvkan m/36 to make it fit the new turret. S07 Strv 74  To achieve this, the barrel was cut down from L/60 to L/56,5 and a new recoil system was added. S07 Strv 74 
+
+Lvkan m/36 being converted for use in the Strv 74
+
+[[File:Lkvan_m36_being_converted_for_use_in_the_strv_74. S07 Strv 74 jpg]]
+
+Sometime during this time, a wooden mock-up of the turret was also built and tested on a m/42 chassis. S07 Strv 74  Later, it was fitted with the first prototype turret and by 1957, it was ready for production. S07 Strv 74  Production was handled by Landsverk (the company behind the m/42) and Hägglunds & Söner, who would later go on to produce the IKV91 tank destroyer and the CV90 IFV. S07 Strv 74  Compared to the Strv m/42, the Strv 74 was actually more different than you would think, the changes included:
+
+1: more equipment (smoke grenade launchers etc) and aesthetic changes
+2: removal of the bow gunner to increase ammo capacity
+3: engine change/refit to a more reliable Scania-Vabis 607 (340hp)
+4: introduction of new radio
+5: improvements to the suspension and the addition of new wider tracks
+6: new turret & gun
+
+Although it was initially thought the weight increase wouldn’t be greater than 1,5 tons, it turned out that it would be closer to double of that number and the final design ended up with the weight of over 26 tons. S07 Strv 74  It was however found as well that despite the increased weight (and in some cases) less powerful engine, the mobility was even better than the one of Strv m/42, thanks to wider tracks. S07 Strv 74  The performance of the main gun was rated as roughly equal to that of the AMX 13´s, both when it came to regular AP and subcaliber APDS ammunition. S07 Strv 74 
+
+Mock-up and Prototype turret
+
+[[File:Strv_74_mock-up_and_prototype_turret. S07 Strv 74 jpg]]
+
+Production version
+
+[[File:Strv_74_production_version. S07 Strv 74 jpg]]
+
+The armor of the Strv 74 was actually thinner than that of the Strv m/42 it was based on. S07 Strv 74  Not ruin the suspension or other components, the weight of the vehicle was a primary concern and due to this issue, the armor of the turret was very thin. S07 Strv 74  Turret front had a huge gun mantlet, which was 20-30mm thick and covered 20mm of armor underneath, the turret sides and rear were only 20mm thick as well. S07 Strv 74  The hull was barely changed, but an additional storage box was added to the front, over where the hull mounted machinegun was before and the hatches for the transmission were strengthened. S07 Strv 74  The hull front was 55mm thick with sides 30mm and rear 20mm thick. S07 Strv 74 
+
+Armor scheme
+
+[[File:Strv_74_armor_scheme. S07 Strv 74 jpg]]
+
+The majority of produced Strv m/42 tanks were converted to the Strv 74 standard between 1956 and 1958. S07 Strv 74  Initially, they were used in armored brigades to support the then relatively small number of Centurions in Swedish service, but as Sweden purchased more Centurions in 1956 and 1958, the Strv 74 was relegated more and more to reconnaissance and other secondary roles. S07 Strv 74  In 1970′s, most were replaced by the IKV 91 tank destroyer and scrapped. S07 Strv 74  However, a few survived and were used mainly for infantry support in the armored reserve. S07 Strv 74  The last of these was removed from service in 1984, at which point the chassis was 41 years old. S07 Strv 74 
+
+Today, a number of vehicles survive at various museums. S07 Strv 74  Most are located in Sweden as you would guess, but one can also be found in the Russian Kubinka museum. S07 Strv 74  One Strv 74 has been restored to its previous m/42 version and can be seen in the Arsenalen armor museum in Sweden. S07 Strv 74 
+
+The rebuilt Strv m/42
+
+[[File:Rebuilt_strv_m42. S07 Strv 74 jpg]]
+
+Strv 74 at the Arsenalen museum
+
+[[File:Strv_74_at_the_Arsenalen_museum. S07 Strv 74 jpg]]
+
+
+|HistoricalGallery= 
+File:Stridsvagn 74. S07 Strv 74 jpg{{!}}Strv 74 at the military history museum in Boden. S07 Strv 74 
+File:Strv 74 at AAF Museum. S07 Strv 74 jpg{{!}}Strv 74 at the American Armored Foundation Museum in Danville, Virginia. S07 Strv 74 
+File:Strv 74 Rear. S07 Strv 74 jpg{{!}}Rear view of Strv 74 at the AAF Museum. S07 Strv 74 
+File:Strv_74_at_the_Arsenalen_museum. S07 Strv 74 jpg{{!}}Strv 74 at the Arsenalen Museum
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://www. S07 Strv 74 ointres. S07 Strv 74 se/strv_74. S07 Strv 74 htm
+* https://www2. S07 Strv 74 landskrona. S07 Strv 74 se/kultur/landsverk/militart/pansarstart. S07 Strv 74 html
+* https://tanks. S07 Strv 74 mod16. S07 Strv 74 org/2014/01/08/minutes-of-meetings-regarding-a-better-gun-for-strv-m42/
+* https://tanks. S07 Strv 74 mod16. S07 Strv 74 org/2013/11/23/meeting-minutes-re-upgunning-strv-m42/
+* https://tanks. S07 Strv 74 mod16. S07 Strv 74 org/2013/11/23/alternatives-for-upgunning-strv-m42/
+
+}}

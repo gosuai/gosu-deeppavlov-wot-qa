@@ -1,0 +1,69 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Great acceleration, speed and hull traverse for a heavy tank
+* Great gun depression
+* Excellent viewrange
+* Large mass and high speed can lead to devastating ramming attacks
+* Preferential matchmaker, won't see Tier 10 battles
+
+|InTheGame_cons=
+* Fairly weak gun for a heavy tank, comparable to 90mm medium tank guns
+* For a 90mm gun, gun handling is quite poor
+* Huge size with very poor camouflage and weak armor protection
+* Very vulnerable to ammo rack damage
+
+|InTheGame_performance=
+Combining elements of both branches of French heavy tanks, the FCM 50t stands out as one of the more unique heavies available at Tier 8. F65 FCM 50t  It boasts excellent speed, agility and acceleration for a heavy tank, allowing players to reach advanced positions early in a match from which it can snipe at unaware and exposed enemies, as well as be part of a medium push. F65 FCM 50t 
+
+As far as heavy tanks go, the FCM 50t is not the best vehicle on the market. F65 FCM 50t  While it has the size and lack of camouflage typical of heavy tanks, as well as a fairly standard hitpoint pool for the class and tier, its armor is nothing inspiring and won't bounce much, not counting lucky ricochets or shots that get absorbed by the massive tracks. F65 FCM 50t  Its gun is also weak for heavy tank standards, being the same 90mm DCA 45 first used by the [[ARL 44]] at Tier 6, although significantly better in terms of DPM, reload speed and aim time. F65 FCM 50t  Penetration is sufficient given the FCM's mobility and ability to flank and relocate quickly, but the alpha damage of 240 average per shot is quite anemic (currently the second lowest among Tier 8 heavy tanks). F65 FCM 50t 
+
+The FCM 50t is not a tank for beginners. F65 FCM 50t  As it cannot force its way through a fight with armor and firepower, players must make full use of its mobility to reach good firing positions from which to support teammates, a task aided by the tank's mobility as well as gun depression, which allows it to work ridgelines while keeping a small profile. F65 FCM 50t  It is not especially good as a sniper, but it has enough shell velocity and accuracy to do the job reasonably well, and given its lack of survivability engaging at mid-long range is recommended over brawling. F65 FCM 50t 
+
+Overall, the FCM 50t is a fairly tricky tank to do well with, but can be rewarding for those who prefer flexibility, speed and engaging enemy tanks at safer distances over brutish close quarters brawls. F65 FCM 50t 
+
+|InTheGame_research= 
+None required. F65 FCM 50t 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|External_Reviews=
+{{VideoYT|fozVzIpxOJo}}
+
+|History=
+[[image:FCM 50t 1. F65 FCM 50t jpg|thumb|200px|left|One of the few surviving drawings of FCM 50t]]Development started in December 1945. F65 FCM 50t  The vehicle was conceived as replacement for the AMX 50t and combined features typical of the pre-war French tank-construction industry as well as German innovations. F65 FCM 50t  The vehicle was to be equipped with an additional container trailer, equipment for underwater driving, and a demountable mine clearer. F65 FCM 50t  FCM 50t did not won the production contract for the next French heavy tank. F65 FCM 50t  Since the winning tank, ARL-44 was based on existing designs and components, including Char B1 bis suspension, it is reasonable to assume that the FCM 50t was a conceptually update of the FCM F1. F65 FCM 50t  The engines were to be repositioned to the rear of the hull and a single large turret replaced the twin turret concept. F65 FCM 50t  The turret was similar to the Tiger II inspired turret on the initial AMX 50 concept. F65 FCM 50t  Schneider canon de 90mm SA was to be main armament of the tank. F65 FCM 50t  One of the biggest differences between the FMC 50t and competing designs is a noticably longer rear engine deck. F65 FCM 50t  The long deck is explained by the use of two v12 engines combined with a complicated electric transmission. F65 FCM 50t  Staying with twin 550hp Renault V12s would have given FCM equivalent output to its competitors Maybach diesel without licencing foreign design solutions. F65 FCM 50t  In addition to the additional container trailer, the tank was to be equipped some very advanced features for its time like equipment for underwater driving and a demountable mine clearer. F65 FCM 50t  After ARL-44 won the French army contract all further development was stopped. F65 FCM 50t  No prototype was ever built. F65 FCM 50t 
+
+|HistoricalGallery=
+image:FCM 50t 1. F65 FCM 50t jpg{{!}}FCM 50t Side View, Interior Drawing
+File:Fcm50-2. F65 FCM 50t jpeg{{!}}Top-down blueprint
+File:Fcm50-3. F65 FCM 50t jpeg{{!}}Rear blueprint
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. F65 FCM 50t chars-francais. F65 FCM 50t net/2015/index. F65 FCM 50t php/2-archives/engins/1506-1945-fcm-50t '''<i>1945 FCM 50t at chars-francais. F65 FCM 50t net</i>'''] Photos, specs, and brief history in French. F65 FCM 50t 
+
+
+|Sidebar_Camostop=4. F65 FCM 50t 6
+|Sidebar_Camomove=2. F65 FCM 50t 3
+|Sidebar_Camofire=1. F65 FCM 50t 1
+|Sidebar_Passhard=1. F65 FCM 50t 155
+|Sidebar_Passmed=1. F65 FCM 50t 151
+|Sidebar_Passsoft=2. F65 FCM 50t 301
+|Sidebar_DispTurret=0. F65 FCM 50t 115
+|Sidebar_DispRecoil=3. F65 FCM 50t 836
+|Sidebar_DispAccel=0. F65 FCM 50t 192
+|Sidebar_DispTurning=0. F65 FCM 50t 192
+}}
+
+[[Category:French Tanks]]

@@ -1,0 +1,90 @@
+{{TankData|Tank=Type_61
+| Similar to its predecessor in multiple aspects, the Type 61 needs to keep its distance from the middle of the action as much as the STA-1 needed to (or even more). J14 Type 61  Paper-thin armor won't be surprising for Japanese medium tank drivers, however the lack of camouflage makes this tank significantly harder to play than its smaller tier 8 brother. J14 Type 61  You certainly don't want to expose yourself or get engaged in close combat by much better armored enemies, so stay back, and make good use of cover, at least in the first couple of minutes of the battle. J14 Type 61  This way you can take advantage of your nice DPM and conserve HP for the endgame. J14 Type 61  Keep in mind that the Type 61 tends to quickly become a primary target on the battlefield, due to its non-existent armor, dangerous alpha, and raw DPM potential. J14 Type 61  And driving a primary target that gets spotted quite easily may not be much fun, if you're not paying attention. J14 Type 61 
+ 
+|Gallery=
+
+File:Type 61 scr 1. J14 Type 61 jpg
+File:Type 61 scr 2. J14 Type 61 jpg
+File:Type 61 scr 3. J14 Type 61 jpg
+File:Type_61 screen1. J14 Type 61 jpg
+File:Type_61 screen2. J14 Type 61 jpg
+File:Type_61 screen3. J14 Type 61 jpg
+File:Type_61 screen4. J14 Type 61 jpg
+
+
+|InTheGame_pros=
+* Great DPM, good penetration and gun handling
+* Great gun depression
+* Good reverse speed, acceleration and agility
+* Large hitpoint pool
+* Good viewrange
+
+|InTheGame_cons=
+* Very tall, poor camouflage
+* Virtually useless armor
+* Frequent module damage and crew injury
+* Bad gun elevation
+* Poor top speed
+
+|InTheGame_performance=
+
+A rather simple tank all things considered, the Type 61 shares some common traits with the American [[M46 Patton]] and the Polish [[CS-59]] - it is a papery, "glass cannon" medium tank with poor survivability, average speed and excellent firepower. J14 Type 61  
+
+It is advised to never overcommit with this tank. J14 Type 61  Your best asset is your fast firing 105mm gun, therefore the tank should be played cautiously and in a supportive role, where it can use allies as cover and punish unwary enemies with its excellent DPM. J14 Type 61  The large health pool also helps offset the disadvantage of having virtually no armor, as the Type 61 can, with proper precaution, effectively trade with opponents with a lower DPM, of which there will be plenty. J14 Type 61  The excellent gun depression also helps as the tank can position itself on uneven terrain and minimize its profile while keeping the gun active. J14 Type 61  
+
+Overall, the Type 61 has no unique features. J14 Type 61  It is however balanced and reliable, though fairly tricky to master and a bit lacking in terms of speed (which can be an issue when relocating). J14 Type 61  All in all, it is a welcome upgrade from the preceding [[STA-1]] and players will most likely enjoy the huge improvement in firepower granted by the top 105mm gun. J14 Type 61 
+
+|InTheGame_research=
+* The top radio carries over from the STA-1, but it is recommended to not install it yet
+* Research the suspensions
+* Research the upgraded turret
+* Research the top gun, it's a massive improvement over the stock 90mm
+* Research the upgraded engine
+* Mount the top radio, or research it in case you skipped doing so on the STA-1
+
+|InTheGame_equipment=Vertical Stabilizer, Vents, Medium-Caliber Tank Gun Rammer, Coated Optics
+
+|History=
+
+After World War II, Supreme Commander of the Allied Powers (SCAP or aka GHQ in Japan) ceased all military manufacturing and development plants in Japan, resulting in Japan losing the technology needed to build and manufacture tanks and armored vehicles. J14 Type 61  However, due to the Korean War, SCAP ordered Japan to re-militarize, forming armed police forces (National Police Reserve, later called National Security Force, then finally Japan Ground Self Defense Force) and provided M4A3E8 Sherman and M24 Chaffee tanks. J14 Type 61  However, the average height of a Japanese person at the time was too small for the M4A3E8, and drivers had difficulty reaching the clutch pedal with their foot. J14 Type 61  In addition, the M4 was becoming obsolete. J14 Type 61  The M24, though it was popular amongst the Japanese crews, was inadequate when facing Soviet T-34/85s, as seen in Korea. J14 Type 61  Thus, as the tanks in JGSDF service at the time were obsolete/inadequate, the JGSDF was provided with the option of either purchasing the new American built M46 Patton and later, the M47 Patton or develop their own MBT in 1954. J14 Type 61  Due to the high cost of purchasing American made tanks, and because the M47 did not meet their requirements, the JGSDF decided on developing their own main battle tank, resulting in the development of the Type 61. J14 Type 61 
+
+The original requirements were:
+
+In order to effectively use a small number of tanks to cover up a large area, the size and weight of the tank has to be light enough for trains to carry. J14 Type 61   Due to the above target, the weight of the armour has to be limited around 25 tons yet as heavily armoured as possible. J14 Type 61   Main cannon has to be 90 mm. J14 Type 61 
+
+The weight was one of the main concerns since if the first constraint was met, the tank could also be transported by a specially modified truck through most major highways and tunnels in Japan. J14 Type 61  The second constraint couldn't be met due to the mock up development team finding out that the armour would be too thin to protect the vehicle. J14 Type 61  As a result, the armour weight constraint was raised to 35 tons for a while. J14 Type 61  However, due to a delays in the production of the planned diesel engine, the tank did not have enough power to attain good mobility. J14 Type 61  As a result the weight of the armour was reduced. J14 Type 61  The final constraint was due to the light body build of Japanese people at that time, after examining the M36 Jackson, 90 millimeter ammunition was felt to be the upper limit of what an average Japanese tanker could handle effectively. J14 Type 61  Additionally due to the mountainous landscape of Japan, it was unlikely that long range engagements would occur frequently and it was thought that a 90 millimeter gun would be sufficient. J14 Type 61 
+
+The first test vehicles, STA-1 (completed in December 1956) and STA-2 (completed in February 1957) were built and tested. J14 Type 61  The results were used to develop the STA-3 (completed in January 1960) and STA-4 (completed in November 1959) in 1960. J14 Type 61  More improvements were made in 1961 and the deployment of the Type 61 started in the same year. J14 Type 61 
+
+The initial production rate was low, with only ten tanks produced in 1961 and 1962, increasing to twenty in 1964 and thirty in 1965 and 1966. J14 Type 61  A total of 250 had been produced by 1970, with production continuing at an increased pace until 1975 when it was terminated. J14 Type 61  A total of 560 were produced. J14 Type 61  The tanks were phased out of service in the 1990s with 400 in service in 1990, and 190 in service in 1995. J14 Type 61  All were decommissioned by 2000, 39 years after their original deployment. J14 Type 61  During this period, the type 61 received minor upgrades in the form of infra red searchlights and/or smoke dischargers. J14 Type 61  From 1980, Type 61's began to be supplemented by the more modern Type 74 MBT. J14 Type 61 
+
+|HistoricalGallery=
+image:Type61HG1. J14 Type 61 jpg
+image:Type61HG2. J14 Type 61 jpg
+image:Type61HG3. J14 Type 61 jpg
+image:STA4b. J14 Type 61 jpeg{{!}}STA-4 Prototyp of the Typ61 with the stock turret
+File:Type_61_armor_scheme. J14 Type 61 jpg{{!}}Armor scheme of the Type 61. J14 Type 61  The armor thickness was roughly the same throughout all of the STA prototypes. J14 Type 61 
+
+|HistAcc=
+* Certain points of the frontal hull armor reached up to 90 mm, though in-game the thickness is at most 45 mm for the upper glacis and 50 mm for the lower glacis. J14 Type 61 
+* The 105mm gun configuration is fictitious. J14 Type 61 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links= 
+* https://en. J14 Type 61 wikipedia. J14 Type 61 org/wiki/Type_61
+* https://tankguy. J14 Type 61 gooside. J14 Type 61 com/type61history/Type61History. J14 Type 61 html
+
+|Sidebar_Camostop=9. J14 Type 61 2
+|Sidebar_Camomove=6. J14 Type 61 9
+|Sidebar_Camofire=1. J14 Type 61 9
+|Sidebar_Passhard=0. J14 Type 61 959
+|Sidebar_Passmed=1. J14 Type 61 055
+|Sidebar_Passsoft=2. J14 Type 61 11
+|Sidebar_DispTurret=0. J14 Type 61 134
+|Sidebar_DispRecoil=3. J14 Type 61 836
+|Sidebar_DispAccel=0. J14 Type 61 134
+|Sidebar_DispTurning=0. J14 Type 61 134
+}}

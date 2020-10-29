@@ -1,0 +1,75 @@
+{{TankData|Tank=
+|It has low engine power, making it slow and unwieldy, although it a powerful cannon: the 4. G21 PanzerJager I 7cm L/43. G21 PanzerJager I  Its low weight helps it rotate more quickly for faster target acquisition. G21 PanzerJager I  Overall, this tank destroyer can be a fun learning curve as you adapt to the differences between a TD and a tank. G21 PanzerJager I 
+
+|Gallery=
+image:Panzerjager I front view 1. G21 PanzerJager I jpg {{!}}Panzerjäger I front left view
+image:Panzerjager I front view 2. G21 PanzerJager I jpg‎{{!}}Panzerjäger I front right view
+image:Panzerjager I back view 1. G21 PanzerJager I jpg‎{{!}}Panzerjäger I back left view
+image:Panzerjager I back view 2. G21 PanzerJager I jpg‎{{!}}Panzerjäger I back right view
+
+|InTheGame_pros=
+* Good accuracy and rate of fire
+* Good view range
+* Good damage with the last gun
+* Good tank traverse
+* Excellent counter-TD due to excellent alpha, precise gun and very high penetration (can two-shot the feared [[Tank:T18|T18]])
+
+|InTheGame_cons=
+* Terrible armor
+* Poor gun elevation
+* Slightly narrow arc
+
+|InTheGame_performance=
+You have no real armor, so remaining hidden is key. G21 PanzerJager I  Always use bushes and other cover. G21 PanzerJager I  A Camouflage Net is highly desirable. G21 PanzerJager I  Being an open-topped vehicle, the view range is pretty decent, so if you use a Camo Net, you should be able to see targets before they see you. G21 PanzerJager I 
+
+The 4. G21 PanzerJager I 7 cm Pak 38 (t) L/43 is an immense improvement over the stock gun, providing much-needed penetration, a large increase in damage, and more accuracy, all while having near the same rate of fire. G21 PanzerJager I  It doesn't even weigh any more. G21 PanzerJager I  This is also the best gun available on the [[Tank:Pz38t|Pz. G21 PanzerJager I Kpfw. G21 PanzerJager I  38 (t)]]. G21 PanzerJager I 
+
+|InTheGame_research=
+* The Maybach HL 38 TR engine carries over from the [[Tank:Ltraktor|Leichttraktor]], so upgrade that immediately. G21 PanzerJager I 
+* Upgrade to the 4. G21 PanzerJager I 7 cm Pak 38 (t) L/43 right away. G21 PanzerJager I 
+* Now upgrade the suspension. G21 PanzerJager I 
+* Get the FuG 5 radio
+* Go from there. G21 PanzerJager I 
+
+|InTheGame_equipment= Camouflage Net, Binocular Telescope
+
+|History=
+[[image:Panzerjager I pic1. G21 PanzerJager I jpg|thumb|200px|left|Panzerjaeger I in North Africa, probably in 1941. G21 PanzerJager I ]]
+[[image:Panzerjager_I_pic3. G21 PanzerJager I jpg|thumb|200px|right|On the way to the front during the French campaign in 1940. G21 PanzerJager I ]]
+The Panzerjäger I (German "Tank Hunter 1") was the first of the German tank-destroyers to see service in the Second World War. G21 PanzerJager I  It mounted a Czech Skoda 4. G21 PanzerJager I 7 cm (1. G21 PanzerJager I 9") PaK (t) anti-tank gun on a converted Panzer I Ausf. G21 PanzerJager I  B chassis. G21 PanzerJager I  It was intended to counter heavy French tanks like the Char B1 that were beyond the capabilities of the 3. G21 PanzerJager I 7 cm PaK 36 anti-tank gun then in service, and served to extend the usable lifetime of otherwise obsolete Panzer I tanks. G21 PanzerJager I [1] Over 200 were converted in 1940—41. G21 PanzerJager I  They were employed in the Battle of France, the North Africa Campaign, and on the Eastern Front. G21 PanzerJager I 
+
+== Design and production ==
+[[image:Panzerjager_I_pic2. G21 PanzerJager I jpg|thumb|200px|right|Another PzJgI in North Africa]]
+The Panzer I's turret was removed and a fixed gunshield added to protect the armament and crew. G21 PanzerJager I  The anti-tank gun was mounted on a pedestal in the fighting compartment with the wheels, axle, and trails removed; it retained its original gun shield. G21 PanzerJager I  It normally carried 74 anti-tank and 10 HE shells. G21 PanzerJager I 
+Total production was 202 vehicles. G21 PanzerJager I  Alkett produced the first series of 132 in 1940. G21 PanzerJager I  Ten of the second series of 70 were assembled by Alkett, while the remainder were assembled by Klöckner-Humboldt-Deutz in 1940 and 1941. G21 PanzerJager I  Vehicles in the second series are recognizable by their seven-sided gun shield while the first series had a five-sided shield. G21 PanzerJager I 
+The vehicle's formal name was 4. G21 PanzerJager I 7 cm PaK(t) (Sf) auf Panzerkampfwagen I ohne Turm, which translates as "4. G21 PanzerJager I 7 cm anti-tank gun (Czech) on turretless Pz. G21 PanzerJager I Kpfw. G21 PanzerJager I  I". G21 PanzerJager I 
+
+
+== Organization ==
+
+The Panzerjäger I's were generally organized into nine-vehicle companies, with three companies per battalion. G21 PanzerJager I  For the French Campaign (only), Anti-tank Battalion (Panzerjäger-Abteilung) 521 had only six vehicles per company. G21 PanzerJager I  With two exceptions, they were only used by independent anti-tank battalions during the war. G21 PanzerJager I  However, after the Balkan Campaign, one company was assigned to the SS-Brigade Leibstandarte der SS Adolf Hitler and another to Panzerjäger-Abteilung 900 of Lehr-Brigade (mot. G21 PanzerJager I ) 900 ("900th Motorized Demonstration Brigade") in preparation for Operation Barbarossa. G21 PanzerJager I 
+
+== Combat history ==
+
+Ninety-nine vehicles equipped Anti-tank Battalions 521, 616, 643, and 670 in the battle for France. G21 PanzerJager I  Only Anti-tank Battalion 521 participated in the campaign from the beginning, as the other three were still training until a few days after the campaign began, but they were sent to the front as they finished their training. G21 PanzerJager I 
+Twenty-seven Panzerjäger Is equipped Anti-tank Battalion 605 in North Africa. G21 PanzerJager I  It arrived in Tripoli, Libya, between 18 and 21 March 1941. G21 PanzerJager I  Five replacements were sent in September 1941, but only three arrived on 2 October as the others had been sunk on board the freighter Castellon. G21 PanzerJager I  At the start of the British Operation Crusader, the battalion was at full strength, but lost thirteen vehicles during the battles. G21 PanzerJager I  Four more replacements were sent in January 1942, so that it mustered seventeen at the beginning of the Battle of Gazala. G21 PanzerJager I  Despite the shipment of another three vehicles in September/October 1942, the battalion only had eleven by the beginning of the Second Battle of El Alamein. G21 PanzerJager I  The last two replacements received by the battalion were in November 1942. G21 PanzerJager I 
+Anti-tank Battalions 521, 529, 616, 643, and 670 were equipped with one hundred thirty-five Panzerjäger Is for Operation Barbarossa. G21 PanzerJager I 
+By 27 July 1941, Anti-tank Battalion 529 had lost four Panzerjäger Is. G21 PanzerJager I  On 23 November 1941, it reported that it still had sixteen vehicles, although two were not operational. G21 PanzerJager I  Most do not appear to have survived the Winter of 1941/42 as Anti-tank Battalion 521 reported only five on hand on 5 May 1942. G21 PanzerJager I  Anti-tank Battalion 529 had only two on strength when it was disbanded on 30 June 1942. G21 PanzerJager I  Anti-tank Battalion 616 seems to have been an exception, as it reported all three companies had Panzerjäger Is through at least the Autumn of 1942. G21 PanzerJager I 
+
+|HistoricalGallery=
+File:Only_surviving_Panzerjäger_I. G21 PanzerJager I jpg{{!}}The only surviving Panzerjäger I. G21 PanzerJager I  It is kept at the Koblenz Tank Museum , Germany. G21 PanzerJager I 
+File:Fighting_compartment_of_the_Panzerjäger_I. G21 PanzerJager I jpg{{!}}Fighting compartment of the surviving Panzerjäger I. G21 PanzerJager I 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. G21 PanzerJager I wikipedia. G21 PanzerJager I org/wiki/Panzerj%C3%A4ger_I
+* https://www. G21 PanzerJager I tanks-encyclopedia. G21 PanzerJager I com/ww2/nazi_germany/Panzerjager_I. G21 PanzerJager I php
+
+}}
+
+[[Category:German Tanks]]

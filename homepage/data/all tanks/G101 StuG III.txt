@@ -1,0 +1,90 @@
+{{TankData|Tank=G101_StuG_III
+|
+
+|Gallery=
+
+File:StuG III Ausf. G101 StuG III  B scr 1. G101 StuG III jpg
+File:StuG III Ausf. G101 StuG III  B scr 2. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  B с 7,5 cm Pak 39 L/48
+File:StuG III Ausf. G101 StuG III  B scr 3. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  B с 10,5 cm Stu. G101 StuG III H. G101 StuG III  42 L/28
+File:StuG III Ausf. G101 StuG III  B scr 4. G101 StuG III jpg
+
+
+|InTheGame_pros=
+* Excellent maneauverability and acceleration
+* Powerful 105mm howitzer with good damage potential and decent handling, remains competitive even in tier 6 matches
+* Low profile with good camouflage rating, also has 310m view range(though not terrific), far better than the Hetzer's 260m
+* 50mm thick frontal armor for its tier, can still be effective against autocannons or some tier 3 guns
+* Many modules compatible with the Stug III
+
+|InTheGame_cons=
+* Poor-Average gun depression
+* Although it's the same gun as on the Hetzer, many soft stats of the 10. G101 StuG III 5 cm (RoF, accuracy and aim time) are inferior
+* If coming from the Marder 38t, the stock grind will be horrific
+* Gun traverse arc is not as good as the Marder 38t
+* Low HP for a tier 4 TD
+
+
+|InTheGame_performance=
+The StuG III Ausf. G101 StuG III B looks and plays a lot like its tier 5 older brother, the StuG III Ausf. G101 StuG III G. G101 StuG III  Using the tanks high speed and maneuverability, you should generally stay away from enemies and damage them from afar with your weak armor and good mobility. G101 StuG III  Unlike the Ausf. G101 StuG III G, the Ausf. G101 StuG III B has two viable gun choices - the 10. G101 StuG III 5 cm howitzer, or the long-barreled 75 mm. G101 StuG III  The 75 mm lets it play as a traditional sniper with its great accuracy and good penetration, while the 105 will one-shot most tanks your tier and below, similar to the Hetzer. G101 StuG III 
+
+|InTheGame_research=
+Upon a fresh purchase, one will sadly find out that no module carries over from the Marder III. G101 StuG III 
+The priority should be getting the 7. G101 StuG III 5 L/43, since the stock gun is simply laughable even in tier 4 matches. G101 StuG III 
+With proper firepower, one should then research the engines: these are reasonably cheap and compatible for many Pz. G101 StuG III  III and Pz. G101 StuG III  IV chassis vehicles. G101 StuG III 
+Then, research the tracks to unlock its full maneauverability;
+Finish by researching the top guns, and the radio. G101 StuG III 
+
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|History= |History=
+[[image:StuG_III_Ausf F-8 (Sd. G101 StuG III Kfz 142-1). G101 StuG III jpg|thumb|200px|right|StuG III Ausf. G101 StuG III  F/8 (Sd. G101 StuG III Kfz. G101 StuG III 142/1) at Belgrade Military Museum, Serbia]]
+The Sturmgeschütz III (StuG III) assault gun was Germany's most produced armored fighting vehicle during World War II. G101 StuG III  It was built on the chassis of the proven Panzer III tank. G101 StuG III  Initially intended as a mobile, armored light gun for infantry support, the StuG was continually modified and widely employed as a tank-destroyer. G101 StuG III 
+
+== Development ==
+
+The Sturmgeschütz III originated from German experiences in World War I, when it was discovered that during the offensives on the western front, the infantry lacked the means to effectively engage fortifications. G101 StuG III  The artillery of the time was heavy and not mobile enough to keep up with the advancing infantry to destroy bunkers, pillboxes, and other minor obstacles with direct-fire. G101 StuG III  Although the problem was well-known in the German army, it was General Erich von Manstein, who is considered the father of the Sturmartillerie, that saw the solution. G101 StuG III  The initial proposal was from (then) Colonel Erich von Manstein, and submitted to General Ludwig Beck in 1935, suggesting that Sturmartillerie ("assault artillery") units should be used in a direct-fire support role for infantry divisions. G101 StuG III  On June 15, 1936, Daimler-Benz AG received an order to develop an armored infantry-support vehicle capable of mounting a 75 mm (2. G101 StuG III 95 in) artillery piece. G101 StuG III  The gun mount's fixed, fully-integrated casemate superstructure was to allow a limited traverse of a minimum of 25° and provided overhead protection for the crew. G101 StuG III  The height of the vehicle was not to exceed that of the average man. G101 StuG III 
+Daimler-Benz AG used the chassis and running gear of its recently designed Pz. G101 StuG III Kpfw. G101 StuG III  III medium tank as a basis for the new vehicle. G101 StuG III  Prototype manufacture was passed over to Alkett, which produced five examples in 1937 of the experimental 0-series StuG based upon the Pz. G101 StuG III Kpfw. G101 StuG III  III Ausf. G101 StuG III  B. G101 StuG III  These prototypes featured a mild-steel superstructure and Krupp’s short-barreled 75 mm StuK 37 L/24 cannon. G101 StuG III  This model was known as the Sturmgeschütz Ausführung A. G101 StuG III 
+
+[[image:StuG_III_Aus_A. G101 StuG III jpg|thumb|200px|left|Side drawing of a Assault Gun III, Variant A]]
+[[image:StuG_III_Ausf_G. G101 StuG III jpg|thumb|200px|left|Side drawing of a Assault Gun III, Variant G (December 1942)]]
+While the StuG III was considered self-propelled artillery, it was not initially clear which arm of the Wehrmacht would handle the new weapon. G101 StuG III  The Panzer arm, who was the natural user of tracked fighting vehicles, had no resources to spare for the formation of StuG units, and neither did the infantry branch. G101 StuG III  It was agreed, after a discussion, it would best be employed as part of the artillery arm. G101 StuG III 
+
+The StuGs were organized into battalions (later renamed "brigades" for disinformation purposes) and followed their own specific doctrine. G101 StuG III  Infantry support using direct-fire was its intended role. G101 StuG III  Later, there was also a strong emphasis on destroying enemy armor whenever encountered. G101 StuG III 
+As the StuG III was designed to fill an infantry close support combat role, early models were fitted with a low-velocity 75 mm StuK 37 L/24 gun to destroy soft-skin targets and fortifications. G101 StuG III  After the Germans encountered the Soviet KV-1 and T-34 tanks, the StuG III was equipped with a high-velocity 75 mm StuK 40 L/43 main gun (Spring 1942) and later, the 75 mm StuK 40 L/48 (Autumn 1942) anti-tank gun. G101 StuG III  These versions were known as the Sturmgeschütz 40 Ausführung F, Ausf. G101 StuG III  F/8, and Ausf. G101 StuG III  G. G101 StuG III 
+When the StuG IV entered production in late 1943 and early 1944, the "III" was added to the name to separate it from the Panzer IV-based assault guns. G101 StuG III  All previous and following models were thereafter known as Sturmgeschütz III. G101 StuG III 
+
+Beginning with the StuG III Ausf. G101 StuG III  G, a 7. G101 StuG III 92 mm MG34 could be mounted on a shield on top of the superstructure for added anti-infantry protection from December 1942. G101 StuG III  Some of the F/8 models were retrofitted with a shield as well. G101 StuG III  Many of the later StuG III Ausf. G101 StuG III  G models were equipped with an additional coaxial 7. G101 StuG III 92 mm MG34. G101 StuG III 
+The vehicles of the Sturmgeschütz series were cheaper and faster to build than contemporary German tanks; at 82,500 RM, a StuG III Ausf G was cheaper than a Panzer III Ausf. G101 StuG III  M, which cost 103,163 RM. G101 StuG III  This was due to the omission of the turret, which greatly simplified manufacture and allowed the chassis to carry a larger gun than it could otherwise. G101 StuG III  By the end of the war, 10,619 StuG IIIs and StuH 42s had been built. G101 StuG III 
+
+== Operational history ==
+[[image:StuG_III_Destroyed_Normandy. G101 StuG III jpg|thumb|200px|right|A StuG III destroyed in Normandy, 1944. G101 StuG III  This vehicle likely suffered a catastrophic internal explosion. G101 StuG III ]]
+Overall, Sturmgeschütz-series assault guns proved very successful and served on all fronts as assault guns and tank-destroyers. G101 StuG III  Although Tigers and Panthers have earned a greater notoriety, assault guns collectively destroyed more tanks. G101 StuG III  Because of their low silhouette, StuG IIIs were easy to camouflage and a difficult target. G101 StuG III  Sturmgeschütz crews were considered to be the elite of the artillery units. G101 StuG III  Sturmgeschütz units held a very impressive record of tank kills: some 20,000 enemy tanks by the spring of 1944. G101 StuG III  As of April 10, 1945, there were 1,053 StuG IIIs and 277 StuH 42s in service. G101 StuG III  Approximately 9,500 StuG IIIs of various types were produced until March 1945 by Alkett and a small number by MIAG. G101 StuG III 
+
+In terms of the resources expended in their construction, the StuG assault guns were extremely cost-effective compared to the heavier German tanks, though in the anti-tank role, it was best used defensively, as the lack of a traversable turret would be a severe disadvantage in the assault role. G101 StuG III  As the German military situation deteriorated later in the war, more and more StuG guns were constructed in comparison to tanks: an effort to replace losses and bolster defences against the encroaching Allied forces. G101 StuG III 
+
+In 1944, the Finnish Army received 59 StuG III Ausf. G101 StuG III  Gs from Germany (30 Stu 40 Ausf. G101 StuG III G and 29 StuG III Ausf. G101 StuG III  G) and used them against the Soviet Union. G101 StuG III  These destroyed at least 87 enemy tanks for a loss of only 8 StuGs[2] (some of these were destroyed by their crews to avoid capture). G101 StuG III  After the war, they were the main combat vehicles of the Finnish Army until the early 1960s. G101 StuG III  These StuGs gained the nickname "Sturmi" which can be found in some plastic kit models. G101 StuG III 
+
+[[image:StuG_III_Israel. G101 StuG III jpg|thumb|200px|right|Sturmgeschütz III Ausf G, captured from the Syrian Army, in Yad la-Shiryon Museum, Israel. G101 StuG III ]]
+100 StuG III Ausf. G101 StuG III  G were delivered to Romania in the autumn of 1943. G101 StuG III  They were officially known as TAs (or TAs T3 to avoid confusion with TAs T4) in the army inventory. G101 StuG III  By February 1945, 13 units were still in use with the 2nd Armored Regiment. G101 StuG III  None of this initial batch survived the end of the war. G101 StuG III  31 TAs were on the army inventory in November 1947. G101 StuG III  Most of them were probably StuG III Ausf. G101 StuG III  Gs and a small number of Panzer IV/70 (V)s, known as TAs T4s. G101 StuG III  These TAs were supplied by the Red Army or were damaged units repaired by the Romanian Army. G101 StuG III  All German equipment was scrapped in 1954 due to the Army's decision to use Soviet armor. G101 StuG III 
+StuG IIIs were also exported to other nations such as Bulgaria, Hungary, Italy, and Spain. G101 StuG III 
+
+Many German Sturmgeschütz IIIs were captured by Yugoslav Partisans. G101 StuG III  After the war, they were used by the Yugoslav Peoples Army until the 1950s. G101 StuG III 
+After the Second World War, the Soviet Union donated some of their captured German vehicles to Syria, which continued to use them, along with other war surplus AFVs (like long-barreled Panzer IVs and T-34/85s), during the fifties and up until the The War over Water against Israel in the mid 60s. G101 StuG III  By the time of the Six Days War, all of them had been either destroyed, stripped for spare parts, or interred on the Golan Heights as static pillboxes. G101 StuG III 
+
+|HistAcc=
+The StuG III's engine is considerably more powerful than in reality, with 440 hp compared to the historical 300. G101 StuG III 
+
+|HistoricalGallery=
+image:StuG III Ausf B. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  B
+image:StuG III 2. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  F
+image:StuG III 1. G101 StuG III jpg{{!}}German Troops on the StuG III Ausf. G101 StuG III  F
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://en. G101 StuG III wikipedia. G101 StuG III org/wiki/Sturmgesch%C3%BCtz_III
+}}

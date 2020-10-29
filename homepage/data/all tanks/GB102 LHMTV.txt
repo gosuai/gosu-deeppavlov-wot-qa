@@ -1,0 +1,52 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Excellent top gun penetration
+* Great gun depression
+* Very small tank, can make good use of cover
+* Best in class camouflage values
+
+|InTheGame_cons= 
+
+* Very poor DPM for its alpha
+* Average accuracy and very poor dispersion values
+* Low ammo capacity
+* Very light, extremely vulnerable to ramming
+* Very poor side gun elevation
+* Below average view range limits its scouting ability
+
+|InTheGame_performance= 
+
+The LHMTV, as with the rest of the British light tanks, relies heavily on its camouflage to be effective. GB102 LHMTV  With low DPM, unintimidating alpha, and poor armor, this vehicle is entirely incapable of brawling. GB102 LHMTV  Your best chance if forced into a direct engagement is to simply run for help. GB102 LHMTV  Though if your options are limited, you should look for shots of opportunity on opponents who are reloading or distracted, utilizing your good mobility, gun depression, and workable gun handling to limit exposure whenever possible. GB102 LHMTV  Additionally, reverse sidescraping may be useful, not for the armor, but simply because it limits exposure and simultaneously maximizes acceleration and speed in pulling into cover. GB102 LHMTV 
+
+Vision control maps such as Prokhrovka, Malinovka, and Steppes are where this tank is in its element. GB102 LHMTV  Camouflage values are superb with camouflage net, camo skill on the crew, and camo paint, and paired with heavy abuse of soft cover, double bush mechanics, and close attention to distance, the LHMTV is able to continually engage without being spotted, where other tanks would be forced to relocate or disengage. GB102 LHMTV  Though in now way mitigating the DPM disadvantage in a direct engagement, it results in a slow but steady pace of damage, and maximizes the vehicle's role of spotting and peripheral engage. GB102 LHMTV 
+
+Although a heavy investment in credits or time and boosters, a 5 skill Commander takes this tank from extremely poor to situationally excellent, and is heavily recommended. GB102 LHMTV  
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|1lpWCSMu6PI}}
+
+|History= 
+
+In the late 1950s, FVRDE designed a number of vehicles, including the Lightweight High Mobility Tactical Vehicle (LHMTV), which was to be an air-transportable vehicle. GB102 LHMTV  As it was to be carried by the Armstrong Whitworth AW. GB102 LHMTV 660 Argosy, limiting the width to 2. GB102 LHMTV 1m (7 feet) and the weight to a mere 4. GB102 LHMTV 5 tons. GB102 LHMTV  Many vehicles based on this design were considered, with weaponry varying from a 120mm recoilless rifle to a 105mm howitzer to a turreted 76mm design (the one we have in-game). GB102 LHMTV 
+<br />
+This particular design was not believed to be constructed. GB102 LHMTV  At some point in the process, a fifth road wheel was added, and with the issuance of GSR 3301, it would ultimately evolve into the Scorpion. GB102 LHMTV 
+
+|HistoricalGallery= 
+File:GSr3301 Concepts. GB102 LHMTV jpg{{!}}GSr3301 Concepts
+
+|Ref_references=
+|Ref_sources=
+|Ref_links=
+https://www. GB102 LHMTV reddit. GB102 LHMTV com/r/WorldofTanks/comments/c6sgpb/new_british_lts_expanding_to_a_full_line/
+}}

@@ -1,0 +1,68 @@
+{{TankData|Tank=Ch22_113
+
+|Initially introduced as the sole final tank in Chinese havy tank line. Ch22 113  The '''113''' is an odd continuation from the WZ-111-14. Ch22 113  It has a gun caliber downgrade from a 130mm to a 122mm and can be a huge turn off for player looking forward to a hard hitting heavy tank similar to the IS-7. Ch22 113  Other hard stats such as only having 120mm of frontal hull armour, a 122mm gun that is fitted on the tier IX WZ-120 medium tank makes this tank seem mediocre, however, the 113 is a beast in its own right. Ch22 113  It is one of the few "Heavy-Medium" tanks in the game, combining the best of both worlds, with decent sloped armor protection and a hard hitting gun, while still featuring medium tank like mobility. Ch22 113  The 113 can easily keep up with allied medium tank and provide high alpha damage and armour for you less well-armoured medium allies and can act like a medium tank, flanking enemy tanks and engaging in close range brawling. Ch22 113  This heavy tank is definitely familiar feel for medium tank drivers and is a blast to play. Ch22 113 
+
+The 113 was removed from the tech tree and received collector's vehicle status, and will be unlocked and available for purchase when player has researched any tier 10 Chinese tanks in tech tree. Ch22 113 
+
+|InTheGame_pros= 
+* Good DPM, can break 3k with the appropriate equipment and consumables
+* Decent gun depression when aiming to the hull sides (-7 degrees)
+* Reasonably accurate for a 122mm gun
+* Good armor - steeply angled upper glacis and very tough, rounded turret
+* Good speed and overall mobility for a heavy tank
+
+|InTheGame_cons= 
+* Long aim time
+* Poor camouflage, as is typical for a heavy tank
+* Low ammo capacity
+* Vulnerable ammo rack and fuel tank modules
+* Poorly armored lower glacis
+
+|InTheGame_performance=
+The 113 is rather unique compared to other Tier 10 heavy tanks in that it strongly resembles its medium counterpart the [[121]], albeit with improved armor at the expense of mobility. Ch22 113  It is what many would call a "medium/heavy" hybrid, a tank that combines traits from both classes and, in this specific case, something of a heavily armed and armored medium tank. Ch22 113 
+
+In terms of firepower, the 113 enjoys good DPM and excellent premium penetration - 340mm HEAT, as is fairly common among Tier 10 medium and heavy tanks, and is a staple for top tier Chinese tanks. Ch22 113  Its standard AP shells are also plenty serviceable, though their penetration is on the low side for Tier 10 heavy tank standards, requiring some careful aiming to not waste shots, which is the last thing one would want to do on this tank given the 113's underwhelming ammo capacity of only 34 rounds total. Ch22 113 
+
+Armor-wise, this tank has an interesting feature - its upper glacis, while thin, is sloped to such an extent that even with the gun's measly -5 degrees of gun depression it can achieve an auto-ricochet angle. Ch22 113  Combined with the extremely tough and rounded turret, this makes the 113 quite stiff to dislodge from viable hull-down positions or cover where the hull can be at least partially covered (especially the lower glacis, which is a major weakspot on the 113). Ch22 113  Do note however that this tank has a very low profile, so taller tanks can facehug it and shoot on the upper glacis from above, negating its angling and achieving easy penetrations. Ch22 113  Lastly, though obviously, being a heavy tank the 113 has underwhelming camouflage. Ch22 113 
+
+Another feature that makes the 113 stand out compared to other Tier 10 heavy tanks is its mobility. Ch22 113  It has a good top speed and engine power, as well as a reasonably quick hull traverse speed. Ch22 113  This allows it to reach key positions faster than any of the slower, more lumbering heavy tanks, or even keep up with friendly medium tanks in a flanking play. Ch22 113  This superior flexibility is not lost to players with good situational awareness, and allows the 113 to rush to important locations on the map whenever needed. Ch22 113 
+
+Overall, the 113 is, essentially, an inferior counterpart to the infamous Russian [[Object 430U]], and plays a similar role in battle. Ch22 113  Its speed allows it to reach key positions faster than several other heavy tanks, or to follow friendly mediums and "bully" enemy tanks thanks to its armor and firepower. Ch22 113  
+
+|InTheGame_research=
+Currently the 113 can only be unlocked after researching any of the Chinese Tier 10 techtree tanks. Ch22 113  It has no researcheable modules and comes elite on purchase. Ch22 113 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|Gallery=
+image:113 1. Ch22 113 jpg{{!}}113 screenshot
+
+|History=
+Development of the model 113 was started in 1963, when it was obvious that the development of the WZ-111 was not heading in a good direction. Ch22 113  Conceived as an alternative to the WZ-111, the 113 used parts and components off of medium tanks, unlike WZ-111 which evolved from the Russian IS heavy tank series. Ch22 113  Mass deployment of new main battle tank vehicles like T-55 and T-62 marked the end of the development, not only for the model 113, but for all Chinese heavy tank designs. Ch22 113 
+
+|HistoricalGallery=
+image:113 blueprint. Ch22 113 jpg
+
+
+|Ref_references=
+
+|External_Reviews= 
+*{{#ev:youtube|g_FUv37qh1k}}
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=6. Ch22 113 6
+|Sidebar_Camomove=3. Ch22 113 4
+|Sidebar_Camofire=1. Ch22 113 4
+|Sidebar_Passhard=1. Ch22 113 247
+|Sidebar_Passmed=1. Ch22 113 342
+|Sidebar_Passsoft=2. Ch22 113 589
+|Sidebar_DispTurret=0. Ch22 113 077
+|Sidebar_DispRecoil=3. Ch22 113 836
+|Sidebar_DispAccel=0. Ch22 113 182
+|Sidebar_DispTurning=0. Ch22 113 182
+}}

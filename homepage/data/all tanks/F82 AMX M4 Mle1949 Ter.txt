@@ -1,0 +1,100 @@
+{{TankData|Tank= AMX M4 mle. F82 AMX M4 Mle1949 Ter  54
+|The '''AMX M4 mle. F82 AMX M4 Mle1949 Ter  54''' marks the end of the heavily-armed and armoured French heavy tank branch. F82 AMX M4 Mle1949 Ter  Although it's characteristics are similar to [[Tank:F83_AMX_M4_Mle1949_Bis|its predecessor]], it's definetly an upgrade. F82 AMX M4 Mle1949 Ter  The AMX M4 mle. F82 AMX M4 Mle1949 Ter  54 is quite a large tank (Although smaller than it's predecessor) with a relatively small pool of hitpoints. F82 AMX M4 Mle1949 Ter  However, it makes up for this with great frontal armour (especially by French standards) and good mobility. F82 AMX M4 Mle1949 Ter 
+
+This vehicle is essentially a more flexible version of the [[Tank:G134_PzKpfw_VII|Pz. F82 AMX M4 Mle1949 Ter Kpfw. F82 AMX M4 Mle1949 Ter  VII]], the AMX has weaker (but still strong) hull protection than it's German counterpart, has far worse side armor and features frontal cheek weakspots. F82 AMX M4 Mle1949 Ter  But it's better at sitting hulldown thanks to the extremely strong turret that is placed towards the front of the hull with good gun depression (-8). F82 AMX M4 Mle1949 Ter  The vehicle's mobility is far better than that of the PZ VII, and is surprisingly mobile on soft terrain due to great ground resistances. F82 AMX M4 Mle1949 Ter 
+
+|Gallery=
+ 
+[[File:AMX_M4_54_with_120mm. F82 AMX M4 Mle1949 Ter png]]
+[[File:AMX_M4_54_with_130mm. F82 AMX M4 Mle1949 Ter png]]
+
+|InTheGame_pros= 
+- Two choice of guns; 120mm with excellent penetration, good aim time and accuracy, and 130mm with high alpha damage and still pretty impressive soft stats and accuracy
+
+- Great upper plate armor
+
+- Decent gun depression (-8) combined with it's extremely tough turret makes it good for hull down positioning
+
+- Decent speed for its weight and size (40KM/H), good traverse speed. F82 AMX M4 Mle1949 Ter  Good at ramming
+
+- Quick turret traverse combined with fast aiming time and good accuracy allows the vehicle to snap shots off and switch between targets very quickly
+
+
+|InTheGame_cons=
+
+- Low HP pool despite its size (2200), greatly hinders it's survivability
+
+- Overall armor other than the front is very poor, lower plate no longer can resist same-tier vehicles very well, the side and rear are susceptible to high caliber HE-shells, the tank performs bad against HE in general
+
+- Frontal cheeks limits angling capabilities
+
+- The gun mantlet is somewhat weak to opponents choosing to shoot ammo with at least 300mm of penetration (majority of tier 10 tanks premium ammo). F82 AMX M4 Mle1949 Ter  This can limit the tanks ability to play in a hull-down position
+
+- Very large (Comparable with [[E-100]]), tall hull and poor camouflage ratings. F82 AMX M4 Mle1949 Ter  Very vulnerable against flankers and SPGs, especially when coupled with poor HP pool
+
+- 120 mm gun has very bad DPM for the alpha (worse than E 100!); only marginally better than the tier 9, as well as rather lacking accuracy on the move, which greatly hinders it's capacity because it cannot neither outtrade other heavies with the alpha nor out-DPM them
+
+- 130 mm gun has terrible DPM, poor shell velocity, very poor premium penetration and ineffective HE shells
+
+- Low ammo capacity both on 120mm gun (40 rounds) and 130mm gun (30 rounds)
+- 130 mm has terrible premium pen (280) will not be reliable
+
+|InTheGame_performance= 
+
+This tank prefers friends. F82 AMX M4 Mle1949 Ter  It won't hold it's own when facing off against multiple equal tiered or even lower tiered enemies due to its all-in frontal armouring. F82 AMX M4 Mle1949 Ter  However, with backup to cover it's flanks, this tank can be rather efficient, due to the strong overall front armor. F82 AMX M4 Mle1949 Ter 
+
+Like most heavies this tank is suspectible to premium shells but the upperplate and especially the turret can be extremely resilient to them when angeled properly (when above your enemy or when the tank is driving up a hill). F82 AMX M4 Mle1949 Ter  While your tank does have a giant weakspot on top of the turret it rarely gets shot with most people preferring to shoot the lower plate or trying to pen the side. F82 AMX M4 Mle1949 Ter 
+
+When there is no hill for this tank to sit behind peeking around a corner in a way to hide your hull cheeks is a very good strategy to avoid taking damage, be careful though when doing this because your lower plate, while strong, is not invulnerable. F82 AMX M4 Mle1949 Ter 
+
+Should the situation ever arise where you have to fend off multiple enemies at once and retreating isn't an option, your best bet is to fight on as if you have backup and simply scaring your enemy into staying in front of you. F82 AMX M4 Mle1949 Ter  this of course will only work for a short time if it works at all so either retreat during that time or finish your attackers off. F82 AMX M4 Mle1949 Ter 
+
+|InTheGame_research= 
+* The only researchable module is the 130mm gun. F82 AMX M4 Mle1949 Ter  This gun has higher alpha damage at the cost of rate of fire and small decreases in both aiming time and accuracy (although both stats are still great for such a big gun). F82 AMX M4 Mle1949 Ter  But the most notable change is the penetration, with the standard shells being mediocre at best and very underwhelming premium AP and HE shells. F82 AMX M4 Mle1949 Ter 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Toolbox, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+For the 120mm: Tank Gun Rammer, Vertical Stabilizer and either Ventilation, Coated Optics or a Toolbox
+
+For the 130mm: Tank gun Rammer, Vertical Stabilizer and either Ventilation, Coated Optics, a Toolbox or a Gun Laying Drive to get the guns aimtime back the the level of the 120mm 
+
+Taking food instead of a fire extinguisher is a viable option, but beware when the enemy flanks you. F82 AMX M4 Mle1949 Ter  your engine and fuel tanks arent well-protected. F82 AMX M4 Mle1949 Ter 
+
+|External_Reviews= 
+
+|History= 
+The AMX M4 mle. F82 AMX M4 Mle1949 Ter  54 as represented in World of Tanks is a fictional combination of one of the AMX M4's hull proposals and the TCB turret proposed for the AMX 50 Surbaissé (better known as the AMX 50B). F82 AMX M4 Mle1949 Ter  The hull and turret were never intended to be used together, as the TCB turret was developed significantly later. F82 AMX M4 Mle1949 Ter 
+
+
+See the [[AMX M4 mle. F82 AMX M4 Mle1949 Ter  45]] and the [https://wiki. F82 AMX M4 Mle1949 Ter wargaming. F82 AMX M4 Mle1949 Ter net/en/Tank:F74_AMX_M4_1949 AMX M4 mle. F82 AMX M4 Mle1949 Ter  49] history sections for more information on the AMX M4 development history. F82 AMX M4 Mle1949 Ter 
+
+The TCB turret was developed by the FAMH company (Forges et Aciéries de la Marine et d'Homécourt). F82 AMX M4 Mle1949 Ter  Specifications on this turret are unknown, but it would have had a rangefinder, no auto-loader, and most likely thicker armor than the AMX 50's standard oscillating turret. F82 AMX M4 Mle1949 Ter  This was intended to be an alternative to the AMX 50 Surbaissé's TOB oscillating turret, but was never built. F82 AMX M4 Mle1949 Ter 
+
+|HistoricalGallery= 
+File:AMX_M4_49_with_absurdly_thick_armor. F82 AMX M4 Mle1949 Ter jpg{{!}}Variant of the AMX M4 that was proposed to have 280mm of frontal hull armor. F82 AMX M4 Mle1949 Ter 
+File:CAFL_TCB_Turret. F82 AMX M4 Mle1949 Ter jpg{{!}}The TCB turret
+File:TCB_120_Turret. F82 AMX M4 Mle1949 Ter png{{!}}TCB 120 turret with the AMX 50 Surbaissé hull (the same hull as the AMX 50B)
+
+|HistAcc=
+* The AMX M4 54 is a fictitious combination of TCB 120 turret and proposed upgrade of significantly uparmored AMX M4 (49) with 280 mm armor plate combined together. F82 AMX M4 Mle1949 Ter  The TCB 120 turret was developed years after the AMX M4 project became AMX 50. F82 AMX M4 Mle1949 Ter 
+* The actual frontal hull armor was to be 360mm (280+80) thick - as indicated by the in-game description of the AMX M4 mle. F82 AMX M4 Mle1949 Ter  54. F82 AMX M4 Mle1949 Ter  However, in-game it's only 220 mm, with the upper part of lower plate being 240 mm thick. F82 AMX M4 Mle1949 Ter  The armor of TCB 120 is unknown, so it is likely erronous in-game. F82 AMX M4 Mle1949 Ter 
+* The 130 mm/45 Model 1935 was a naval gun, and there are no known plans or proposals whatsoever to use it as a tank gun. F82 AMX M4 Mle1949 Ter 
+* The name "AMX M4 mle. F82 AMX M4 Mle1949 Ter  54" is fictitious - by 1954, the AMX M4 project had been renamed to AMX 50. F82 AMX M4 Mle1949 Ter 
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* Centre des archives de l'Armement et du personnel civil (CAAPC)
+
+|Ref_links=
+* https://thedailybounce. F82 AMX M4 Mle1949 Ter net/2017/09/15/new-french-heavy-tanks-what-are-they/
+* https://tankarchives. F82 AMX M4 Mle1949 Ter blogspot. F82 AMX M4 Mle1949 Ter ca/2016/01/third-reich-serving-fourth-republic. F82 AMX M4 Mle1949 Ter html
+* https://tankarchives. F82 AMX M4 Mle1949 Ter blogspot. F82 AMX M4 Mle1949 Ter com/2016/03/amx-50-five-years-of-trial-and-error. F82 AMX M4 Mle1949 Ter html
+* https://tankarchives. F82 AMX M4 Mle1949 Ter blogspot. F82 AMX M4 Mle1949 Ter com/2016/03/amx-50-120-long-road-to-dead-end. F82 AMX M4 Mle1949 Ter html
+* https://www. F82 AMX M4 Mle1949 Ter chars-francais. F82 AMX M4 Mle1949 Ter net/2015/index. F82 AMX M4 Mle1949 Ter php/liste-chronologique/de-1945-a-1990?task=view&id=20
+
+}}

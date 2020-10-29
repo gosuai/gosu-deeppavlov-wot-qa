@@ -1,0 +1,58 @@
+{{TankData|Tank=T-127
+|The T-127 offers some of the thickest hull and turret armor of its tier. R56 T-127  The frontal armor is slightly sloped to encourage ricochets. R56 T-127  Avoid exposing the rear of the turret as it is the weakest section of armor. R56 T-127  The T-127 uses a gun that can penetrate most equivalently tiered tanks and offers a good rate of fire. R56 T-127  While it is slower than the other Soviet light tanks this tank is much more at home on the front lines than its faster and more agile siblings. R56 T-127  Like many other premium tanks the T-127 must change its role to a support tank in a match made up of higher tier tanks. R56 T-127 
+
+|Gallery=
+image:T127-a. R56 T-127 jpg‎{{!}}T-127 Front right
+image:T127-b. R56 T-127 jpg‎{{!}}T-127 Front left
+image:T127-c. R56 T-127 jpg‎{{!}}T-127 Rear right
+image:T127-d. R56 T-127 jpg‎{{!}}T-127 Rear left
+
+|InTheGame_pros=
+* Solid armor can easily bounce shots
+* Good rate of fire
+* Turret traverses quickly
+* Quite mobile for the amount of armor it has
+
+|InTheGame_cons=
+* Lower speed and maneuverability than other light tanks
+* Poor signal range
+* Low hull traverse speed
+* Lower part of the frontal hull is slightly less armored at 30mm 
+* Driver hatch at front is a big weakspot
+* Has less penetration than other tier 3 Russian light tanks
+* The gun tends to be damaged if the turret is hit
+
+|InTheGame_performance=
+The T-127 is a heavier tank than its brethren, the [[BT-7]] and the [[T-46]], and as such trades some agility and speed for increased armor and slightly improved armament. R56 T-127  This makes the T-127 more of a frontline tank rather than a true scout. R56 T-127  Indeed, the sloped armor will allow you to bounce a lot of shots from other tanks of the same tier, and take multiple hits without much trouble. R56 T-127  Don't fear autocannon and machinegun equiped tanks you'll face, as they will simply bounce off your frontal hull and rarely ever penetrate, just keep your cool and shrug off their fireworks. R56 T-127  If you use cover and time your shots, you can take on multiple opponents and last very long in close combat. R56 T-127  For this reason, the T-127 works quite well in city maps such as [[Himmelsdorf]]. R56 T-127  However, its moderate top speed and traverse rate make it relatively vulnerable in the open. R56 T-127  Tank destroyers are still a threat to you, especially at longer distances, and you're not a difficult target for artillery. R56 T-127  The best way to defeat these enemies is to flank them, or roll with a group of teammates. R56 T-127 
+
+It should be noted that the shape of the turret creates a shot trap around the turret ring, which makes the T-127 somewhat vulnerable to having its turret traverse mechanism damaged. R56 T-127 
+
+When facing opponents of higher tiers, there is not much the T-127 can do other than shift to a support role. R56 T-127  Picking off weaker enemies while hugging cover will ensure your survival in these matches. R56 T-127  Circling your enemies is not advised because of the tank's relatively low traverse speed; only the slowest and heaviest of opponents might be vulnerable to this tactic. R56 T-127 
+
+In short, if you use cover and flank your enemies, you can do a great deal of damage and live to tell the tale. R56 T-127  This makes the T-127 one of the most beginner-friendly tanks in the game and an excellent choice for new players. R56 T-127 
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+Vents, GLD, Spall Liner, Camouflage Net
+
+|History=
+After the Spanish civil war, Red Army leadership found T-26 tanks obsolete and ineffective, mostly due to their weak armor. R56 T-127  Therefore, the development of a new tank was ordered. R56 T-127  Two military factories joined the competition, the ''Kirov Factory No. R56 T-127  100'' and the ''OKMO design bureau'' in the ''Factory No. R56 T-127  185 (S. R56 T-127 M. R56 T-127  Kirov)'', both located in Leningrad (the factories are often mistaken for each other because of the very similar names). R56 T-127 
+
+The project of the Factory No. R56 T-127  100 was known as ''"[[T-50-2|Object 211]]"'', some sources name it ''"[[T-50-2]]"''. R56 T-127 
+OKMO in the Factory No. R56 T-127  185 created vehicle with a working title ''Object 126'' or ''T-126 SP'' (SP - Soprovzhdeniya Pekhoty, ‘Infantry Support’) under the direction of S. R56 T-127  Ginzburg and L. R56 T-127  Troyanov in 1939. R56 T-127  Slight modifications of T-126 SP led to creation of the T-127 tank, developed in 1940. R56 T-127 
+
+Later modifications and improvements of T-127 evetually led to creation of the [[T-50]] tank. R56 T-127 
+
+|HistoricalGallery=
+File:T-127 at Kubinka tank museum. R56 T-127 jpg{{!}}T-126 at the Kubinka Tank Museum. R56 T-127 
+ 
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

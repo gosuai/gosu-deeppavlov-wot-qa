@@ -1,0 +1,72 @@
+{{TankData|Tank=Marder_III
+
+|
+
+|Gallery=
+
+File:Marder 38T scr 1. G39 Marder III jpg
+File:Marder 38T scr 2. G39 Marder III jpg
+File:Marder 38T scr 3. G39 Marder III jpg
+
+|InTheGame_pros=
+* Fast rate of fire and good alpha
+* Wide gun traverse arc
+* Fast aim time (nerfed to 1. G39 Marder III 7 instead of 1. G39 Marder III 5 as of 1. G39 Marder III 9)
+* Decent penetration
+* Awesome gun depression
+
+|InTheGame_cons=
+* Paper thin armor, can be easily one shot by howitzers (415 HP as of 1. G39 Marder III 9). G39 Marder III 
+* Low gun elevation
+* Can only carry 38 Rounds, 55 as of Update 1. G39 Marder III 9
+
+|InTheGame_performance=
+The Marder 38T is everything that the Marder II used to be: good aiming time, accuracy, penetration and rate of fire. G39 Marder III  Along with good maneuverability, this tank destroyer is an absolute keeper. G39 Marder III  All this comes at the cost of the vehicle being at tier 4 which will see up to tier 6 battles. G39 Marder III 
+
+The Marder 38T is an extremely fun tank to play, having high DPM, fast aim time, good accuracy, and acceptable penetration. G39 Marder III  With a 75% crew and the top gun, your reload time is only ~3. G39 Marder III 29 seconds (nerfed to 4. G39 Marder III 11 as of Update 1. G39 Marder III 9). G39 Marder III  This tank is best played as a sniper, laying on the DPM from afar. G39 Marder III  Because of its high fire rate and decent penetration (The penetration is nearly equal to the top gun on the Pz. G39 Marder III Kpfw. G39 Marder III  III/IV), it remains effective even in tier 6 matches. G39 Marder III  Although its frontal armor is rated at 50mm (Only 10mm less than the infamous Hetzer), it has little effectiveness, as it has little sloping and the gun shield is large and thin. G39 Marder III  To compare this tank's gun to the M3 Lee's (Which also has high DPM) would show that it has better accuracy, aim time, and much better penetration. G39 Marder III  Although at first glance the 3rd gun looks nearly identical to the 2nd gun, it has better accuracy, aim time, and RoF. G39 Marder III  The main tanks you want to watch out for are the British AT series and any tanks with "derp" guns, i. G39 Marder III e. G39 Marder III  the Hetzer, M4 Sherman, and the tier 3 and 4 British TDs. G39 Marder III  The mobility of this tank is average, but it can go surprisingly fast downhill. G39 Marder III  To wrap it up, this tank has spectacular DPM (average/decent as of 1. G39 Marder III 9), good accuracy, decent penetration, good mobility, and bad armor. G39 Marder III 
+
+|InTheGame_research=
+
+* The 7,5 cm Pak 40/2 L/46 and FuG 8 carry over from the Marder II, recommended they be mounted immediately
+* You have to research the suspension to mount any new modules
+* Research the engines. G39 Marder III  They aren't too expensive and provide a nice mobility boost
+* Now, research the gun. G39 Marder III  It is the same as the 7,5 cm Pak 40/2 L/46, but with more accuracy, faster aim time, and higher rate of fire
+* Finally, research the Pz. G39 Marder III Sfl. G39 Marder III  IVc
+
+|InTheGame_equipment=
+* Camouflage Net
+* Binocular Telescope
+* Enhanced Gun Laying Drive or
+* Medium-Caliber Tank Gun Rammer
+
+The net and telescope are a given for this tank - however it's personal preference between the Gun Laying Drive or the Rammer. G39 Marder III  One allows you to aim quicker - the other allows you to shoot faster. G39 Marder III  
+It's all dependent on what you'd prefer to benefit from. G39 Marder III 
+
+|History=
+
+
+|HistoricalGallery=
+image:Marder_3_ausf_H_rear. G39 Marder III jpg{{!}}Marder III Ausf. G39 Marder III  H
+image:Marder_III_on_Czech_Pz_38_chasis. G39 Marder III jpg
+image:Marder-iii-ausf-h-01. G39 Marder III png
+image:Mareder_III_ausf_H_crossing_the_river. G39 Marder III jpg
+image:Mareder_III_ausf_H_TD. G39 Marder III jpg
+image:Mareder_III_ausf_H. G39 Marder III jpg
+image:Marder III Ausf H. G39 Marder III jpg
+image:Marder III Ausf H (2). G39 Marder III jpg
+
+|HistAcc=
+The tank is actually known as the Marder III Ausf. G39 Marder III  H. G39 Marder III  It was never called "Marder 38T". G39 Marder III 
+* The 7,62 cm Pak 36 (r) gun was actually used on a different Marder III variant, the Sd. G39 Marder III Kfz. G39 Marder III  139. G39 Marder III  This vehicle does not exist in the game. G39 Marder III  Its configuration on the Ausf. G39 Marder III  H is fake. G39 Marder III 
+* The Ausf. G39 Marder III  M suspension actually refers to a different Marder III variant with the fighting compartment in the rear, similar to the [[Grille]]. G39 Marder III  The tank's current model is an Ausf. G39 Marder III  H. G39 Marder III  The Marder III Ausf. G39 Marder III  M also does not exist in World of Tanks. G39 Marder III 
+* Uses the same Pak 40 gun as the [[FCM 36 Pak 40]] (which is actually a Marder I), yet their penetration values are inconsistent and the shells are incompatible with each other. G39 Marder III 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

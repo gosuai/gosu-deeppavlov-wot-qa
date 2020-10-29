@@ -1,0 +1,93 @@
+{{TankData|Tank=
+|Often known as the "E5", it replaced the [[T30]] as the American tier X heavy tank in patch 0. A69 T110E5 7. A69 T110E5 2. A69 T110E5  This tank has high penetration and relatively quick reload in exchange for lower alpha damage compared to many traditional heavy tanks. A69 T110E5  The T110E5 is a relatively quick heavy with good gun handling characteristics, and since patch 0. A69 T110E5 9. A69 T110E5 10 has had excellent armor values, allowing it to force other tanks to react to its actions when driven well. A69 T110E5  The T110E5 is something of a blend of heavy and medium characteristics, allowing it to fill almost any role on the battlefield and perform well, but at the same time making it less specialized for specific roles compared to many other tier X tanks. A69 T110E5  
+
+The T110E5 retains the 'eggshell' style of front hull armor layout from the [[M103]] and has greater protection in the areas of high thickness both in the hull and the turret. A69 T110E5  However, there is little increase in effective protection from the previously thin areas such as the lower plate. A69 T110E5  The T110E5 also has a prominent commander's cupola that invites shells from opposing players. A69 T110E5  However, such an obvious target can be a boon as much as a liability in the hands of a player familiar with baiting and misdirecting cupola shots from opponents; the cupola is more heavily armored than most US cupolas and can surprise many an opponent looking for a quick shot. A69 T110E5  Only very high penetrating shells (250+) will be able to go through the cupola since the armor buff of patch 0. A69 T110E5 9. A69 T110E5 10. A69 T110E5 
+
+Sadly, in patch 0. A69 T110E5 9. A69 T110E5 17. A69 T110E5 1 the E5's cupola was nerfed, making it a new weak spot for the E5. A69 T110E5 
+
+|Sidebar_Camostop=4. A69 T110E5 6
+|Sidebar_Camomove=2. A69 T110E5 6
+|Sidebar_Camofire=1. A69 T110E5 1
+|Sidebar_Passhard=1. A69 T110E5 15
+|Sidebar_Passmed=1. A69 T110E5 25
+|Sidebar_Passsoft=2. A69 T110E5 30
+|Sidebar_DispTurret=0. A69 T110E5 08
+|Sidebar_DispRecoil=3. A69 T110E5 84
+|Sidebar_DispAccel=0. A69 T110E5 17
+|Sidebar_DispTurning=0. A69 T110E5 17
+
+|InTheGame_pros=
+* Good overall gun depression and stats
+* Very strong turret face armor
+* Good view range
+* Compact silhouette compared to other heavy tanks
+* Good mobility for a heavy tank
+* Excellent versatility means no pronounced weaknesses
+
+|InTheGame_cons=
+* Poor side and rear hull armor
+* Large and obvious commander's hatch weak point on top of the turret
+* Vulnerable ammo rack module can be damaged by hits to the lower frontal plate
+* Poor reverse speed
+* Excellent versatility means no pronounced strengths
+
+|InTheGame_performance=
+Offering reasonable protection at range and an excellent gun, the T110E5 is one of the most "versatile" tanks in the game. A69 T110E5  As with its predecessor, the T110E5 is best used as a second-line support tank, as its weak spots become very easy to hit at close range. A69 T110E5  However, in the hands of a skilled player that understands angling and distraction techniques, it is more than capable of holding its ground in a brawl. A69 T110E5  
+
+On its own, the T110E5 can perform as a dedicated support tank, a sniper, a brawler, even a flanker when necessary using its superior mobility. A69 T110E5  This specialization comes at a price as other, more specialized tanks will out-perform the T110E5 if conducting their specialized role. A69 T110E5  This means that- as much as it supports other tanks really well- it is also reliant on team support to make the most out of its flexibility. A69 T110E5  
+
+As of the present, the T110E5 is overshadowed by its [[Tank:GB91_Super_Conqueror|British counterpart]], but comparing them is misunderstanding the fact that they perform different roles altogether. A69 T110E5  The Super Conqueror is a completely different vehicle compared to the T110E5. A69 T110E5  While the Super Conqueror is an agile, well-armored heavy tank that can soak up damage and return it quickly, the T110E5 is essentially a "pocket heavy tank" that was always meant to have the firepower and armor of a heavy tank but at the fraction of the size and with better mobility. A69 T110E5  This means that while the Super Conqueror can afford to play the part of more traditional heavy tanks it can also sideline as a support tank depending on the situation. A69 T110E5  The T110E5 turns this playstyle on its head so that it performs exceptionally well as a support tank but struggles to fill out the role of a dedicated heavy tank (owing to how thin its sides are). A69 T110E5  It has the frontal armor to soak up damage, but it is more vulnerable to large-caliber HE rounds than most of its peers. A69 T110E5  In practical terms, this means that players can reasonably expect Super Conquerors to appear in map lanes where Heavy tanks duke it out but T110E5s can just as well appear in other spots where they may be of better use. A69 T110E5  This is particularly important for controlling crucial areas in the map as the T110E5's combination of armor and mobility make it a nasty surprise for defenders who expect another set of tanks entirely like fast mediums or light tanks. A69 T110E5  With that said, one should not be quick to dismiss the E5 as another victim of the growing power-creep in Tier X battles. A69 T110E5  It still remains a potent multi-role tank that can push its own weight and beyond. A69 T110E5  
+|InTheGame_research=
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|External_Reviews= 
+{{VideoYT|aLdSGNa3Hw4}}
+{{#ev:youtube|5TNjPoopblc}}
+
+|Gallery=
+image:T110E5-a. A69 T110E5 png{{!}}T110E5 front right
+image:T110E5-b. A69 T110E5 png{{!}}T110E5 front left
+image:T110E5-c. A69 T110E5 png{{!}}T110E5 rear left
+image:T110E5-d. A69 T110E5 png{{!}}T110E5 rear right
+image:T110E5game1. A69 T110E5 jpg{{!}}T110E5, Arctic map
+image:Ingame_T110E57-1. A69 T110E5 jpg{{!}}T110E5, map Port
+
+|History=
+
+The creation of project TS-31 was entrusted to the Chrysler Corporation, the machine in making would be called “tank T110 with a 120-mm gun”. A69 T110E5  The process of building this tank makes a good example of why the “classic” tank configurations lasted so long. A69 T110E5 
+
+== Design and Development ==
+
+The original project of T110 was rejected by the military because of its excessive size (it wouldn't fit in the standard tunnel) and a poorly allocated commander tower, placed on the left. A69 T110E5  The company suggested another variant – the tower was placed at the center of the body, but, to solve the issue with fitting in the transmission, the driver was placed in the combat compartment. A69 T110E5  The latter was also ill-received by the military and the driver was returned to the original place. A69 T110E5  When endorsing the project with the Detroit tank arsenal, the drive layout was decided to be remade into rear-wheeled. A69 T110E5  Now it was necessary to remove the commander tower altogether to keep the size in check. A69 T110E5  In addition, according to the order, instead of the AV-1790 engine, they had to use an air-cooled AOI-1490 with the power of 700 HP and the same XTG-500 transmission. A69 T110E5  The 120-mm T123E1 gun was placed in a solid setting. A69 T110E5  Now there appeared problems with the power unit: it was out of reach. A69 T110E5  It was decided to make the engine “roll out” on the rails through a large manhole in the body’s rear. A69 T110E5  But a manhole like that drastically lowered the body’s rigidity. A69 T110E5 
+
+After all these troubles, Chrysler came up with the fourth variant of the tank. A69 T110E5  Now the AOI1490 engine and XTG-510 transmission were placed in the rear compartment of the tank, in a classic manner. A69 T110E5  The length of the body increased, but it would solve most of the problems with the power unit. A69 T110E5  The 120-mm gun was placed solidly in the mask, providing horizontal firing angles of 15 degrees to the sides and inclination angles of +20 degrees and -10 degrees. A69 T110E5  Constructing the cannon’s mask proved problematic. A69 T110E5  It has to be 230mm thick and weigh just under two tons. A69 T110E5  The body’s forehead sheet and the cabin defense was equal to a 127-mm sheet angled at 60 degrees. A69 T110E5  The support weapons included a 7,62mm machinegun, that was paired with the cannon and a 12,7-mm machinegun located in the commander tower. A69 T110E5  The telescopic sight T156 was used for shooting. A69 T110E5  M16A1 periscopic sight was used as a back-up. A69 T110E5  The tank commander was able to use the T53 “OPTAR” rangefinder, installed on the top of the cabin. A69 T110E5  “OPTAR” was an optical rangefinder, used to evaluate the range covered by light impulses. A69 T110E5  Needless to say that this device, preceding the laser technology, wasn't very effective and suffered from light dazzles. A69 T110E5  
+
+The driver was placed on the left side – near the gun. A69 T110E5  With such driver and gunner placement, the forehead armor had to be made with a lesser angle, so it was required to make it much thicker. A69 T110E5  This was the main downside of utilizing an immovable cabin instead of a tower. A69 T110E5  
+
+The next logical step – replacing the cabin with a tower, that was possible while staying in the planned 50-ton limits of the machine. A69 T110E5  As a result, a classically composed tank was made, which were utilized many of the already existing units, were able to be built fairly quickly and cheaply. A69 T110E5  This tank became the fifth Chrysler project. A69 T110E5  The 120-mm gun was solidly fastened to the tower mask, having the standard 2,15-m epaulet like in the M103 heavy tank. A69 T110E5  The main difference from the standard composition became the placement of the gunner and the commander to the left of the gun. A69 T110E5  The team was reduced to four people – one of the loaders was excluded, replaced by a mechanical loader. A69 T110E5  The “OPTAR” T53 rangefinder was installed on the left side of the tower and could be used by both the gunner and the commander of the tank. A69 T110E5  Compared to the tower-less variant, the new T110 was providing better firing ability and quicker target hitting. A69 T110E5  The project had made it to the final stage – it was constructed and shown to the specialists of the Detroit arsenal in the form of a full-sized tank model. A69 T110E5  However, by that time, the modification project of the T43-T43E2 heavy tank, which eventually became the M103, was successfully accepted. A69 T110E5  That, together with the decision to concentrate the attention on lighter tanks, lead to the end of all work on the T110 project. A69 T110E5  
+
+|HistAcc=
+* The name T110E5 is fictional; the vehicle was the 6th design of the T110 series and so should be named T110 v6 (the E designation is fictional)
+* The T110E5 did not have an "eggshell" style frontal plate, it had a flat one (look at the mockup pictures above). A69 T110E5 
+* The T110E5 was meant to mount the 120mm T123 gun. A69 T110E5  The 120mm M58 gun was developed from the 123mm T123 gun after the T110 project was canceled. A69 T110E5 
+* The AOI-1490 engine historically had 700 horsepower, but in-game it is 875 horsepower. A69 T110E5 
+
+|HistoricalGallery=
+image:Heavy Tank T110E5 1. A69 T110E5 jpg{{!}}Heavy Tank T110E5
+image:T110E5 2. A69 T110E5 jpg{{!}}Internal layout of the T110E5
+
+|Ref_references=
+
+
+|Ref_sources=
+* R. A69 T110E5 P. A69 T110E5  Hunnicutt - A History of the American Heavy Tank: Firepower, 1988 Presidio Press, ISBN 0891413049
+
+|Ref_links=
+* https://blog. A69 T110E5 tankpedia. A69 T110E5 org/2013/05/30/the-t110-120mm-heavy-tank-project/
+* https://thearmoredpatrol. A69 T110E5 com/2015/07/04/chrysler-t110-heavy-tank/
+
+}}
+
+[[Category:USA Tanks]]

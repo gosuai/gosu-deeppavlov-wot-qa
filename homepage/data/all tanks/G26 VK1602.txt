@@ -1,0 +1,134 @@
+{{TankData|Tank=
+|The VK 16. G26 VK1602 02 Leopard is less maneuverable than the [[Pz. G26 VK1602 Kpfw. G26 VK1602  II Luchs]], but it has more than twice as much effective armor, a top turret that works well for circling and a much longer signal range. G26 VK1602  Due to the unusually thick frontal armour and heavy weight, the Leopard can bounce a surprising number of shots and can also be used to ram other tanks and especially arty if there's not enough time to shoot them apart. G26 VK1602  Due to the small turret size, it has better gun depression on the sides than the front and rear, meaning you should position the tank at an angle when on slopes. G26 VK1602  
+
+|InTheGame_pros=
+* Good signal range
+* Good armor for a tier 5 scout (the front armor is actually better than heavy tank [[VK 30. G26 VK1602 01 (H)|VK 30. G26 VK1602 01 H]]), good counter-reconnaisance tank
+* Great for ramming other light tanks and artillery
+* 3cm autocannon with high penetration and burst damage for its tier. G26 VK1602  Capable of destroying a tier 4 within 2 seconds
+* 5cm KwK 39 L/60L has decent RoF and good penetration on AP ammo. G26 VK1602 
+* Turns like crazy when fully upgraded
+* Armor is rarely overmatched and can occasionally bounce shots
+* Relatively good gun depression on the sides
+* Good health pool for a light tank (best in tier)
+
+|InTheGame_cons=
+* 3cm autocannon shells won't fly any further than 400 meters
+* 3cm autocannon has subpar accuracy
+* Low DPM and long reload for the 3cm cannon
+* Prone to being "tracked", due to size of tracks
+* Poor gun depression when the gun is facing forwards or to the rear
+* Good armor is still irrelevant at its matchmaking range
+
+|InTheGame_performance=
+Its top speed of 60 km/h is easily achieved with the upgraded 550hp engine, making it an impossible target to hit for players who auto-aim, and a harder target for more experienced players too. G26 VK1602  With its 700m upgraded radio range, it ensures that targets will be relayed to artillery and teammates. G26 VK1602 
+
+When fighting on slopes, it is recommended to position your hull at an angle as you have better gun depression on the sides than the front and rear. G26 VK1602 
+
+'''Guns'''
+
+The Leopard has two viable weapon choices: the signature 3cm autocannon also found on the luchs, but with bigger clip and a 50mm single shot gun. G26 VK1602 
+
+*The 3cm's 360 damage burst is best applied from close range to the sides of enemies. G26 VK1602  It has surprisingly high penetration, allowing it to penetrate the sides of most enemy Tier 7 tanks with ease. G26 VK1602  The gun can be used on medium ranges as well, but it is better to shoot in smaller bursts and let the gun aim a bit in between, instead of just emptying the whole clip at once. G26 VK1602 
+
+*The 50mm is the more balanced option. G26 VK1602  Where the 3cm is a close quarters weapon the 50 mm can be used on all ranges. G26 VK1602  But once again, especially in long range combat sides of enemies are preferred. G26 VK1602  It has good DPM, accuracy and workable penetration. G26 VK1602  Circling lone enemies is viable with this gun. G26 VK1602 
+
+
+'''The anti scout'''
+
+The leopard is much harder to kill with lower tier tanks than the other scouts. G26 VK1602  It offers a great amount of armor and a large HP pool, but the armor is irrelevant against most high-penetration, large-caliber cannons at its matchmaking tier. G26 VK1602 
+
+Due to its weight, speed and frontal armor, ramming lighter enemies is a viable strategy in 1v1 engagements, much like in the later VK 28. G26 VK1602 01. G26 VK1602  Especially against same tier light tanks ramming can give a nice advantage. G26 VK1602  It is good to keep ramming in mind as an option when you are on the 3cm's 16 second reload. G26 VK1602 
+
+The Leopard is not the most manouverable tank, but it can definitely give other tier 5 lights a run for their money in a 1v1 fight. G26 VK1602  It is the best anti scout in tier with its HP, weight and armour advantage. G26 VK1602  The 3cm autocannon can finish off any other tier 5 light with one clip. G26 VK1602 
+
+
+'''Suggested Crew Skills (first and second)'''
+
+*Commander: sixth sense, camouflage
+*Radioman: camouflage, situational awareness
+*Driver: camouflage, controlled impact / off road driving
+*Loader: camouflage, repairs (nothing else useful really)
+
+
+'''Equipment'''
+
+The Leopard can not equip a rammer, which actually makes the decisions for equipment easier than on the other light tanks. G26 VK1602  You are not as torn between going for damage or viewrange. G26 VK1602 
+
+*Active spotter: Coated Optics, Vents and Vertical Stabilizer
+*Passive Spotter: Binocular telescope, Vents, Camo Net
+*Jack of all trades: Coated optics, Binocular telescope and Vertical Stabilizer
+
+|InTheGame_research=
+*The FuG 7 radio carry over from the [[Pz. G26 VK1602 Kpfw. G26 VK1602  II Luchs]]. G26 VK1602  Mount it immediately for a better signal range. G26 VK1602  If you already have the top radio from another line, mount it instead. G26 VK1602 
+*Get the '''Maybach HL 157 P A''' for a needed speed boost. G26 VK1602 
+*Now you have a choice. G26 VK1602  You may research the upgraded suspension for extra mobility, or revert to stock FuG 5 radio for mounting the heavier '''5 cm Kw. G26 VK1602 K. G26 VK1602  39 L/60L''' if you prefer an orthodox gun. G26 VK1602  In this case, there will be no weight capacity remaining for equipments. G26 VK1602   
+*Finish any incomplete research and go from there. G26 VK1602 
+
+|InTheGame_equipment=
+Coated Optics,Vertical Stabilizer,Vents,Binocular Telescope,Camouflage Net
+
+|Gallery=
+image:Leopard 1. G26 VK1602 jpg{{!}}VK 1602 Leopard front left view
+image:Leopard 2. G26 VK1602 jpg{{!}}VK 1602 Leopard front left view
+image:Leopard 3. G26 VK1602 jpg{{!}}VK 1602 Leopard front left view
+image:Leopard 4. G26 VK1602 jpg{{!}}VK 1602 Leopard front left view
+
+|History=
+[[image:VK 1602 Leopard pic1. G26 VK1602 jpg|thumb|200px|left|VK 1602 Leopard. G26 VK1602 jpg]]
+
+<table style="border: 1px solid;float:right">
+<caption>Specs for the preliminary design:</caption>
+<tr><th>Weight:</th><td>21900kg</td></tr>
+<tr><th>Crew: </th><td>4 men</td></tr>
+<tr><th>Engine:</th><td>Maybach HL157P<br />12-cylinder<br />550hp</td></tr>
+<tr><th>Speed:</th><td>50-60km/h</td></tr>
+<tr><th>Range:</th><td>165km</td></tr>
+<tr><th>Fuel Capacity:</th><td>560 litres</td></tr>
+<tr><th>Lenght:</th><td>4. G26 VK1602 74 or 6. G26 VK1602 45m</td></tr>
+<tr><th>Width:</th><td>3. G26 VK1602 10m or 3. G26 VK1602 27m</td></tr>
+<tr><th>Height:</th><td>2. G26 VK1602 60m or 2. G26 VK1602 80m</td></tr>
+<tr><th>Armament:</th><td>50mm KwK39/1 L/60<br />7. G26 VK1602 92mm MG34/42</td></tr>
+<tr><th>Ammo:<td>50mm - 50 rounds<br />7. G26 VK1602 92mm - 2400 rounds</td>
+<tr><th>Armor:</th><td>20-80mm</td></tr>
+</table>
+
+Since 1941, plans were made for the development of a new reconnaissance tank based on the PzKpfw II Ausf J (VK 1601). G26 VK1602  In March of 1942, MIAG and Daimler-Benz received orders to build a fast (medium/heavy) reconnaissance tank, designed to operate under heavy combat conditions - Gefechtsaufklarung. G26 VK1602  MIAG was to construct the chassis, while Daimler-Benz was to construct the turret. G26 VK1602  Both were to be designed and ready for production by October of 1942. G26 VK1602  The main purpose of this vehicle was to be at HQ tank-platoons in Panzer units. G26 VK1602 
+
+Two versions were proposed; the "Leopard (leicht)" lightly armored fast version (18ton) and the "Leopard (schwer)" heavily armored unit (26ton). G26 VK1602  The light version was quickly dropped in the Summer of 1942, in favor of the heavier one. G26 VK1602  Design of the VK 1602, named Leopard, was based on the development of previous projects such as the PzKpfw II Ausf J (VK 1601) and PzKpfw II Ausf M (VK 1301). G26 VK1602  Its hull was similar to that of the Pz. G26 VK1602 Kpfw. G26 VK1602  II Ausf J (VK 1601), but was largely influenced by the Pz. G26 VK1602 Kpfw. G26 VK1602  V Panther, which was still being developed at the time. G26 VK1602  Its suspension was made up of interleaved road wheels similar to the PzKpfw II Ausf L - Luchs and the Tiger. G26 VK1602  
+
+It was planned that the Leopard would eventually replace the lighter PanzerSpahwagen II Ausf L Luchs - Sd. G26 VK1602 Kfz. G26 VK1602 123 (VK 1303). G26 VK1602  A mock-up was ready in May/June of 1942, and the first prototype was to be finished by the September 1st of 1942. G26 VK1602  Full scale production was to start in April of 1943. G26 VK1602 
+
+Leopard’s armament consisted of 50mm KwK 39/1 L/60s and a 7. G26 VK1602 92mm MG34/42 in a newly designed small turret. G26 VK1602  It was also planned to use the 75mm KwK 41 gun. G26 VK1602  VK 1602s were heavily armored and had well sloped frontal armor (influenced by the Panther). G26 VK1602  The Leopard was to be powered by Maybach's HL157P engine with a total power 550hp: allowing the VK 1602 to travel at a maximum speed of 50-60km/h. G26 VK1602  In order to improve its cross-country ability, 350mm wide tracks were used. G26 VK1602  It was to be operated by a crew of four men. G26 VK1602  "Panzerprogramm 41" made provisions to build 339 Leopards (105 by December 1943 and a further 150 by mid 1944). G26 VK1602  The start of production was previously planned for April of 1943, but the entire production was cancelled in January of 1943, when the first prototype was still incomplete. G26 VK1602  The reason for cancellation was its heavy weight and lack of heavy armament, which made the vehicle vulnerable to enemy tanks. G26 VK1602  Additionally, development of the Leopard, being so similar to the Panther, became a hard sell after it was pointed out that reconnaissance Panthers could be developed and produced at a lower cost. G26 VK1602 
+
+This concept was continued in the Daimler-Benz’s design of improved VK 2801, but this was never completed and the entire program was cancelled on May 8th of 1944. G26 VK1602  The vehicle was to be powered by Maybach's HL230 (700hp), but Daimler-Benz engines were considered as well. G26 VK1602 
+
+Finally, the task of combat reconnaissance was taken by the PzKpfw V Panther and PzKpfw IV. G26 VK1602  Eventually, Leopard’s turret, with its armament, was later utilized on the heavy armored car Sd. G26 VK1602 Kfz. G26 VK1602 234/2 Puma. G26 VK1602  Rheinmetall also planned to utilize the Leopard’s chassis as base for a 105mm leFH howitzer carrier, designated Waffentrager Leopard, and Sturmgeschuetz auf Leopard (L/70) assault gun/tank destroyer armed with the Panther’s main gun (the 75mm KwK L/70, but only wooden mock-ups were made. G26 VK1602  There was a similar project to use the Leopard as a base for the Flakpanzer armed with either the 20mm Flakvierling or 37mm Flak 36 gun, but it was never realized. G26 VK1602 
+
+|HistoricalGallery=
+image:VK 1602 Leopard pic2. G26 VK1602 jpg{{!}}VK 1602 Leopard mock-up rear view
+image:VK 1602 Leopard pic3. G26 VK1602 jpg{{!}}VK 1602 mock-up fitted with an PzKpfw II Ausf G turret
+image:VK 1602 Leopard pic4. G26 VK1602 jpg{{!}}VK 1602 mock-up
+File:10,5_cm_Waffentrager_Leopard_model. G26 VK1602 jpg{{!}}Wooden model of the 10,5cm Waffentrager Leopard
+
+|HistAcc=
+Despite the Leopard's in-game historical description, a prototype was never built. G26 VK1602  A prototype was meant to be built by September 1, 1942 but the construction was delayed until the project was cancelled on May 8th, 1944. G26 VK1602 
+*The 5 cm gun was the Leopard's only primary armament. G26 VK1602  The 3 cm M. G26 VK1602 K. G26 VK1602  103 configuration is fake. G26 VK1602 
+*The AP shell of the 5 cm gun is considerably more powerful than in reality, with a whopping 100 mm of penetration compared to the historical 67. G26 VK1602 
+*One of the Leopard's historically planned armaments, the 75 mm KwK 41 gun, is missing. G26 VK1602 
+*Historical PzKpfw II Ausf G turret is missing. G26 VK1602 
+* The [[Gun/Germany#5 cm KwK 39 L/60|5 cm KwK 39 L/60]] is the same gun used on the [[Tank:G10_PzIII_AusfJ|Panzer III Ausf J]], yet the penetration value of the AP shell is inconsistent. G26 VK1602 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://tankarchives. G26 VK1602 blogspot. G26 VK1602 com/2013/10/world-of-tanks-history-section-vk-1602. G26 VK1602 html
+* https://worldoftanks. G26 VK1602 ru/ru/content/history/tanks/vk1602-leopard/
+
+}}
+
+[[Category:German Tanks]]

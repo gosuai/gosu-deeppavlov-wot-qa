@@ -1,0 +1,60 @@
+{{TankData|Tank=IS-3-A
+
+
+|Gallery= 
+ИС-3 с МЗ scr 1. R115 IS-3 auto jpg
+ИС-3 с МЗ scr 2. R115 IS-3 auto jpg
+ИС-3 с МЗ scr 3. R115 IS-3 auto jpg
+
+|InTheGame_pros= 
+* 3-round autoreloader, the first shell reloads the fastest
+* High-velocity APCR as standard ammunition (HEAT as premium)
+* Very strong turret armor
+* Same hull as a regular [[IS-3]] - low profile, pike nose, spaced side armor
+* Very cheap to repair
+
+|InTheGame_cons= 
+* Very thin (but hard to hit) turret roof
+* Low engine power, inferior mobility compared to [[IS-3]]
+* Poor gun handling and accuracy
+* Has a three-man crew, rather useless as a Soviet heavy crew trainer
+* Poor viewrange
+
+|InTheGame_performance=
+
+This tank can be played somewhat like a regular [[IS-3]] but at the expense of many crippling drawbacks, yet with the addition of sustainable burst capability, it can prove to be no less effective:
+
+The IS-3A has a measly 520 horsepower engine that is even weaker than the stock engine on the [[IS-3]]. R115 IS-3 auto  This severely limits the IS-3A's mobility, especially when trying to climb. R115 IS-3 auto  Its marginally higher top speed of 40 km/h is difficult to reach, unless going downhill. R115 IS-3 auto  As a result, it pays to keep the IS-3A on flat terrain, and, if possible, on city streets. R115 IS-3 auto 
+
+Compared to the regular [[IS-3]], the gun loses much accuracy in exchange for the powerful autoreloader, and is plagued by abysmal soft stats, which make getting those signature [[IS-3]] snapshots extremely unlikely. R115 IS-3 auto  Having some of the worst accuracy of tier 8 combined with the inconveniently low ammunition capacity of 28 rounds means it is highly recommended to limit most engagements to within 100 meters, where the IS-3A will be able to leverage its high burst damage most effectively. R115 IS-3 auto  By steadily landing three 390-damage shots in a rapid succession, most vehicles at & below tier 7 will be eradicated without even a proper fighting chance. R115 IS-3 auto  Against same tier or sometimes higher tier heavies, these 3-round clips could still remove over half of their HP bar before the opponent reloads. R115 IS-3 auto  In addition, its autoreloader has been balanced in such a unique way that it refills faster with '''lower''' in-clip ammo count, in comparison to the Italian mediums that can only fully utilize their DPM when single-firing. R115 IS-3 auto  This trait assures that the IS-3A has an incredible DPM efficiency, perhaps one of the best among all heavies: in brawling, it could engage as well as an ordinary IS-3, with roughly the same ~11s base reload time; but when idle, the IS-3A stacks up its clip for later bursts, while on an IS-3 all that time goes to waste. R115 IS-3 auto 
+
+Unlike the other Tier 8 Russian heavies, the IS-3A gets HEAT ammunition for its premium ammunition, rather than APCR. R115 IS-3 auto  This requires more careful target selection to avoid hitting obstacles or spaced armor, which, when combined with the gun's poor accuracy, can be a problem. R115 IS-3 auto  It also means that there is a huge difference in shell velocity between standard and premium rounds (1400 vs 820 m/s), which makes hitting moving targets more difficult. R115 IS-3 auto   However, due to the tank's brawling character and ability to reload the last round in clip (thus switching between ammo types) quickly, it is suggested that one should consider bringing some into battle. R115 IS-3 auto  Yet mind its small ammunition capacity; don't spread out too thin on different shell types, since the HE shell can also be useful against lightly armed scout/sniper vehicles or for scratching tough-skinned behemoths. R115 IS-3 auto 
+
+The IS-3A has good armor, with a hull identical to that of the [[IS-3]]. R115 IS-3 auto  The turret, however, is thinner and flatter on the sides and rear, meaning that shots which would have ricocheted off the side of an [[IS-3]]'s turret are somewhat more likely to penetrate the IS-3A's. R115 IS-3 auto  Incidentally, both the gunner and commander are considered "loaders" and it may be worthwhile to train safe-stowage on one of them if a player intends to use the IS-3A regularly and competitively. R115 IS-3 auto 
+
+Overall, the IS-3A is effectively a D-25T armed [[IS-3]] that trades off mobility, side protection and handling for an autoreloader with improved ammunition. R115 IS-3 auto  All of this combined with the likelihood of seeing tier 10 vehicles regularly makes the IS-3A a tier 8 heavy better suited for more skilled players who can more capably compensate for its many crippling weaknesses. R115 IS-3 auto 
+
+{{VideoYT|oMegyM133q8}}
+
+|InTheGame_research= 
+As a premium tank, the IS-3A has no upgrades. R115 IS-3 auto  Research not required. R115 IS-3 auto  
+
+|InTheGame_equipment=
+Vertical Stabilizer, GLD, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. R115 IS-3 auto blogspot. R115 IS-3 auto com/2015/03/autoloaded-is-3-short-history. R115 IS-3 auto html
+
+}}

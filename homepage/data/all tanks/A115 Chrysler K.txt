@@ -1,0 +1,38 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Very strong frontal armour, even tier 10 vehicles can struggle against the vehicle when well angled. A115 Chrysler K <br />
+* High APCR penetration. A115 Chrysler K <br />
+* Good power to weight ratio. A115 Chrysler K 
+
+|InTheGame_cons= 
+
+* Below average penetration for a tier 8 heavy with standard ammo. A115 Chrysler K <br />
+* Limited top speed. A115 Chrysler K <br />
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

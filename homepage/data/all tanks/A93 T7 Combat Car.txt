@@ -1,0 +1,67 @@
+{{TankData|Tank=T7_Combat_Car
+|The T7 was a gift tank given to all players (who registered before patch 8. A93 T7 Combat Car 9) to commemorate [https://worldoftanks. A93 T7 Combat Car com/en/news/19/golden-joystick-2013-win/ World of Tanks receiving the 2013 Golden Joystick award]. A93 T7 Combat Car   It was also given to players who logged in for 30 days during the 2015 Login Bonus event. A93 T7 Combat Car  The machine-gun-armed T7 trades thin armor, poor penetration, and long clip load time for great speed and the ability to do massive burst damage in a short amount of time. A93 T7 Combat Car   Best when played as a support tank, the T7 is a dangerous flanker and ambusher. A93 T7 Combat Car 
+
+|InTheGame_pros=
+* Very high burst damage;
+* Great aim time, gun elevation, and gun depression
+* Good top speed and acceleration
+* Preferential matchmaking; only sees tier II battles
+
+|InTheGame_cons=
+* Paper-thin armor; will be penetrated by almost everything it goes against
+* Poor penetration
+* Long clip reload
+* Below-average view range
+* Sluggish turret traverse
+
+|InTheGame_performance=
+
+Predominant among the T7's strong points is its high burst damage. A93 T7 Combat Car   A single clip of ammo carries a potential damage of 400 average hitpoints. A93 T7 Combat Car   With a rate of fire of roughly 454 rounds per minute when loaded, the T7 is capable of dealing this damage in just under 5. A93 T7 Combat Car 5 seconds. A93 T7 Combat Car  When firing, the T7's dispersion does not fly wildly and has a quick reload time, meaning that at close ranges, its shots are fairly accurate, enhancing the burst damage. A93 T7 Combat Car  This burst damage comes at the cost of reload time. A93 T7 Combat Car   It takes roughly 24 seconds to load a new clip, and during this time the the tank is left completely defenseless due to its lack of armor. A93 T7 Combat Car   In addition, the T7's M2 machine gun has very poor penetrating ability and can only fire regular AP rounds, rendering it ineffective at long range. A93 T7 Combat Car  Against well-armored tanks such as the [[T18]], it can only penetrate the rear armor. A93 T7 Combat Car  Against a fully-upgraded [[D1]] or [[Hotchkiss H35|H35]], it is virtually useless, and can only penetrate the top armor. A93 T7 Combat Car  
+
+This combination of long reload time, thin armor, and short reach means that positioning is key when playing the T7. A93 T7 Combat Car   A good player will make the most of the T7's excellent speed to get the tank into a flanking position where it can safely unload its clip and then quickly duck back into cover for a reload. A93 T7 Combat Car   When executed properly, an attack on an unsuspecting enemy tank will often leave it dead before its driver can react in time. A93 T7 Combat Car   The T7's superb gun depression also gives it more positioning options, enabling it to safely peek over steep hills and cliff edges. A93 T7 Combat Car   Though good with shoot-and-scoot tactics, the T7's somewhat slow turret traverse and poor accuracy on the move mean that it is not well suited for shooting and moving at the same time. A93 T7 Combat Car 
+
+
+====Compared to Similar Tanks====
+
+The T7 Combat Car was given to players only a few months before the [[Tank:GB76_Mk_VIC|Light Mk. A93 T7 Combat Car  VIC]], and since both feature similar machine gun armaments, the two are often referred to together. A93 T7 Combat Car   The T7's and VIC's machine guns both have large clips with high burst damage, poor penetration, and long reload times. A93 T7 Combat Car   Comparatively, the VIC has slightly less burst damage per clip at 360 average hitpoints, but a much shorter, albeit still long, clip reload of 18 seconds. A93 T7 Combat Car  Despite the differences, they are relatively minor and both vehicles can be treated similarly. A93 T7 Combat Car  
+
+|InTheGame_research=
+All modules are researched with the tank. A93 T7 Combat Car 
+
+|InTheGame_equipment=
+Vents, Coated Optics, GLD
+
+|Gallery=
+
+File:T7 Combat Car scr 1. A93 T7 Combat Car jpg
+File:T7 Combat Car scr 2. A93 T7 Combat Car jpg
+File:T7 Combat Car scr 3. A93 T7 Combat Car jpg
+File:T7 Combat Car scr 4. A93 T7 Combat Car jpg
+
+
+|History=
+In November of 1936, it was decided that the cavalry should develop a new combat car capable of driving with or without its tracks. A93 T7 Combat Car  Though the Cavalry already had their hands on the M1 combat car, they wished for something that would not only ride smoother off-road, but able to travel at high speeds on roads. A93 T7 Combat Car  The child of this conference, the T7, was essentially a M1 Combat Car meeting these requirements. A93 T7 Combat Car   The main difference was the fact that the 2 pairs of bogies on each side were replaced with 3 large road wheels on each side. A93 T7 Combat Car  The last wheel of each pair were what powered the vehicle when moving without tracks while the front pair controlled steering. A93 T7 Combat Car  Each of the last 2 road wheels on either side were sprung with a leaf spring bogie while the front road wheels were sprung with a helical spring. A93 T7 Combat Car 
+
+The first pilot model was constructed in 1938 at Rock Island Arsenal and sent to Aberdeen for testing. A93 T7 Combat Car  Many complications arose from various parts of the suspension, which delayed testing until improvements could be made. A93 T7 Combat Car   Additionally, although the tank was capable of reaching speeds of up to 35 mph off-road or 55 mph on wheels, the practical speeds were lower as the vehicle became too difficult to control when going so fast. A93 T7 Combat Car 
+
+By 1939, tracks had developed to the point to where the ability to drive the tank on wheels had become superfluous. A93 T7 Combat Car   Because of this, all work on the T7 ceased. A93 T7 Combat Car 
+
+|HistoricalGallery=
+File:T7 1. A93 T7 Combat Car jpg
+File:T7 2. A93 T7 Combat Car jpg
+File:T7 3. A93 T7 Combat Car jpg
+File:T7 4. A93 T7 Combat Car jpg
+File:T7 5. A93 T7 Combat Car jpg
+
+|HistAcc=
+As noted in historical info section, one of the features of this vehicle is that it can still move while the treads are broken or missing. A93 T7 Combat Car 
+
+|Ref_references=
+* Hunnicutt, R. A93 T7 Combat Car  P. A93 T7 Combat Car  Stuart, A History of the American Light Tank. A93 T7 Combat Car  Vol. A93 T7 Combat Car  1; 1992, Presidio Press. A93 T7 Combat Car  ISBN 0-89141-462-2. A93 T7 Combat Car 
+
+|Ref_sources=
+https://www. A93 T7 Combat Car aviarmor. A93 T7 Combat Car net/tww2/tanks/usa/combat_t7. A93 T7 Combat Car htm
+
+|Ref_links=
+
+}}

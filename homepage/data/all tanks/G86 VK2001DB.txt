@@ -1,0 +1,56 @@
+{{TankData|Tank=VK2001DB
+|
+
+|Gallery=
+
+|InTheGame_pros=
+* Excellent gun depression, with strong spaced turret front and mantlet
+* No armor weakspots compared to the [[Pz. G86 VK2001DB Kpfw. G86 VK2001DB  III]]
+
+|InTheGame_cons=
+* As with most tier 4s, mediocre guns and horrible penetration
+* Second turret jams easily if hit in the cheeks
+* Way worse than the Pz. G86 VK2001DB III, but Still decent mobility for its tier
+
+|InTheGame_performance=
+This tank is similar to a Pz. G86 VK2001DB Kpfw. G86 VK2001DB  III in playstyle, but more defensive. G86 VK2001DB  While it is considered by many to be inferior to the Pz. G86 VK2001DB Kpfw. G86 VK2001DB  III, these players have not correctly interpreted the stats of their tanks. G86 VK2001DB  If one were to look deeper, they are at mostly equal, with several things stand out. G86 VK2001DB  Those who are familiar with it praise its survivability: its armour is bouncier when angled well, the shorter hull is a smaller target, and it has 1 degree more gun depression. G86 VK2001DB 
+
+The differences of armor protection on the siblings can be summarized as such:
+* The Pz. G86 VK2001DB III has applique armor on its upper glacis which helps negating damage from HE shells;
+* The turret front protection of the Pz. G86 VK2001DB III is of 30mm thickness plus 30mm of mantlet (plus another extra layer of 20mm if mounting the 50mm guns), versus the 57/50mm(outer edge/inner plate) plus 50mm on mantlet(despite a large portion doesn't overlap). G86 VK2001DB  Also the Pz. G86 VK2001DB III has much stronger protection on its cupola (90mm with tiny 30mm strips versus only 50mm on the VK 20 D)
+* The Pz. G86 VK2001DB III has a pitiful turret roof of 10mm thickness, which is vulnerable against even arty; while the 16mm thick on the VK 20 D translates into proof against overmatching from all guns of no more than 47mm calibre;
+However, the armour on our tank can be angled to more than 20 degrees due to the stronger 40mm side plating, and can bounce many a shot off lower tiers. G86 VK2001DB  Hull down is very effective due to the exceptional 'Western/American' gun depression and strong mantlet. G86 VK2001DB  Like the Panzer 3, you will have to keep poking in and out if a tier 5 tries to bring their gun to bear on you, but this is no different to another tier 4 such as the Covenanter. G86 VK2001DB  In short, the frontal armor is mostly on par and provides many more possibilities (to angle or hull down) than the Panzer 3, increasing survivability. G86 VK2001DB 
+
+The engine is the second most criticized aspect. G86 VK2001DB  It is without the very good hp/ton ratio of the Pz 3 due to extra weight, and so inferior in acceleration. G86 VK2001DB  Sharp circling turns are to be avoided. G86 VK2001DB  However, it has equal reverse speed if it does need to retreat, and its can top speed can still be easily reached. G86 VK2001DB  It is more crucial to get into a position that allows for quick escapes or hard cover, such as a ridge. G86 VK2001DB  This is very similar to the [[Pz. G86 VK2001DB Kpfw. G86 VK2001DB  II Ausf. G86 VK2001DB  G]] and a good preparation for later tier tanks of the VK 30D line, as these tanks have a somewhat underpowered engine but good top speed until the Leopard 1 at the highest of tiers. G86 VK2001DB 
+
+The gun selection is the same as the Pz 3, but worse than the Luchs. G86 VK2001DB  It is no weaker, and can be better applied over ridgelines due to the slightly better gun depression. G86 VK2001DB   Still, due to poor penetration, flanking or shooting weakspots is the best tactic with the guns. G86 VK2001DB  Still if credits are not an issue, HEAT or APCR in either of the guns will get rid of the one and only problem with the guns; lack of penetration. G86 VK2001DB  The 50mm KwK 39 L/60 has okay DPM and can make short work of any tier IV tank, especially if aimed at weaker sides or any weakspots, but regular AP struggles against heavies with less than even 70 penetration. G86 VK2001DB   It may be easier to pop out and aim with the 75mm KwK 37 L/24, but it is still better suited as a support gun when firing HEs to cripple enemy tanks. G86 VK2001DB  As usual HEAT is usually mandatory to do reliable damage, especially against equal or higher tier vehicles. G86 VK2001DB  
+
+All in all the tank is geared towards a more defensive and more discerning player, who can take advantage of the better gun depression and angling capability to ensure they survive first, and then use the top speed mobility to relocate, without having to brawl at close range. G86 VK2001DB  As well as this, if you are willing to forgoe the history of the Panzer, it is more forgiving as a whole. G86 VK2001DB  Finally, it is better preparation for the ridge-poking maneuvers, which become a cornerstone of the rest of the line, as part of the high gun depression playstyle. G86 VK2001DB  It is a thoroughly viable alternative to Panzer 3. G86 VK2001DB 
+
+|InTheGame_research=
+* The FuG 7 Radio carries over from the Pz. G86 VK2001DB Kpfw. G86 VK2001DB  II Ausf. G86 VK2001DB  G. G86 VK2001DB  Mount it immediately. G86 VK2001DB 
+* First, research the 5 cm KwK 39 L/60 Gun. G86 VK2001DB 
+* The best research path to take after the first gun upgrade is probably turret > suspension > first engine > top gun > top engine. G86 VK2001DB  But depending on whether you want more armour or more speed, research the Pz. G86 VK2001DB Kpfw. G86 VK2001DB  III Ausf. G86 VK2001DB  M Turret or the 2 x Maybach HL 66 P Engine. G86 VK2001DB  Keep in mind that you can only mount one of these before you need to upgrade your suspension. G86 VK2001DB 
+* Now, research the VK 20. G86 VK2001DB 01 (D) Suspension. G86 VK2001DB 
+* If you researched the turret, you can choose between the engine and the 7,5 cm KwK 37 L/24 Gun. G86 VK2001DB  If you researched the engine, you can choose between the turret and the Daimler-Benz MB 809 Engine. G86 VK2001DB 
+* Finally, research the FuG 12 Radio. G86 VK2001DB 
+
+|InTheGame_equipment=
+
+
+|History=Daimler Benz having been forced to accept untested components in their Panzer III Ausf E, gained permission to pursue their design without interference from Wa Pruef 6. G86 VK2001DB  This allowed them to adopt leaf springs as torsion bars held the following key disadvantages: wasted space inside vehicle, poor access to repair and replace torsion bars, instability as a weapons platform due to the individual sprung wheels and the lack of a satisfactory shock absorber design addressing the instability. G86 VK2001DB  The Panzer III Ausf E's hydraulic steering, which did not function as planned was also dispensed with. G86 VK2001DB  It was to be replaced with a system using mechanical levers as long as no better alternative was available. G86 VK2001DB  The tank design was to be completed by December 1940 and if the MB 809 diesel engine could be delivered by February 1941, a complete experimental chassis was to follow. G86 VK2001DB  The MB 809 had a continuous power rating of 350 metric hp, increasing to up to 400 metric hp without fuel infection. G86 VK2001DB  With fuel injection, its power could be increased to 450 metric hp. G86 VK2001DB  Design of a diesel motor was deemed necessary to utilize strategic fuel specifically demanded by Hitler. G86 VK2001DB  The design of the MB 809 was completed in June 1940 with the first motor running on the test stand on February 1941 followed by its acceptance test in 12 March 1941. G86 VK2001DB  The motor arrived in Berlin-Marienfelde to be installed in an experimental chassis. G86 VK2001DB  On 22 December 1941, a report to the directors of Daimler-Benz stated: "Based on experience in the Russian campaign, the new tank just developed by Daimler-Benz was now obsolete. G86 VK2001DB  Utilizing the already developed tank, studies were being conducted on a new design with thicker armour and heavier armament. G86 VK2001DB "
+
+|HistoricalGallery=
+VK 20. G86 VK2001DB 01 (D). G86 VK2001DB jpg
+VK 20. G86 VK2001DB 01 (D) 2. G86 VK2001DB jpg
+VK 20. G86 VK2001DB 01 (D) 3. G86 VK2001DB jpg
+
+|HistAcc=
+There are no historical records of a Pz. G86 VK2001DB Kpfw. G86 VK2001DB  III Ausf. G86 VK2001DB  M turret being mounted on the VK 20. G86 VK2001DB 01 (D). G86 VK2001DB  Furthermore, no proposal for the VK 20. G86 VK2001DB 01 (D) to be armed with any gun other than the 5 cm Kw. G86 VK2001DB K. G86 VK2001DB  38 L/42 exists. G86 VK2001DB 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

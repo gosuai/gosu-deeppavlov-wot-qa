@@ -1,0 +1,43 @@
+{{TankData|Tank= 
+| 
+
+|Gallery= 
+File:Cromwell berlin 3. GB85 Cromwell Berlin jpg
+File:Cromwell berlin 6. GB85 Cromwell Berlin jpg
+
+|InTheGame_pros= 
+*Gun is identical in performance against the Cromwell's top gun, despite name and appearance
+*Great acceleration, much like a light tank, surpassing [[Cromwell]] due to noticeably better terrain resistance
+*Increased track traverse compared with the regular Cromwell (50 vs 36)
+*Increased credit income
+*Can adapt crews from any British medium tank, due to premium tank status
+|InTheGame_cons= 
+*Slightly reduced accuracy on turret rotation than the standard Cromwell
+*Suffers from the same weaknesses as the regular Cromwell
+|InTheGame_performance= 
+The Cromwell B plays nearly identically to the standard [[Cromwell]], being able to be used as either an aggressive flanker or a mid-range support medium. GB85 Cromwell Berlin  Generally, both styles are used in a single battle, starting as a support vehicle and switching to as aggressive flanker as opportunities present themselves for the tank to rush in with its amazing speed to chew enemies apart with its quick firing gun. GB85 Cromwell Berlin  However, it is a delicate tank and care must be taken to not take hits in the early stages of the game, as it will lower your ability to engage harder targets later on. GB85 Cromwell Berlin  
+|InTheGame_research= 
+No research required
+|InTheGame_equipment=
+Improved Ventilation, Tank Gun Rammer, GLD, Coated Optics
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistAcc=
+The Cromwell is considerably faster than in reality, with an engine power of 650 hp compared to the historical 540-600. GB85 Cromwell Berlin 
+* The Rolls-Royce Meteor Mk. GB85 Cromwell Berlin  IVB engine was only fitted to the Centurion tank. GB85 Cromwell Berlin  Its configuration on the Cromwell is fake. GB85 Cromwell Berlin 
+* The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Cromwell entered service in 1944. GB85 Cromwell Berlin 
+* Cromwell B uses the gun performance of the 75 mm HV gun. GB85 Cromwell Berlin  The in-game model, however, depicts the OQF 75 mm gun. GB85 Cromwell Berlin 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

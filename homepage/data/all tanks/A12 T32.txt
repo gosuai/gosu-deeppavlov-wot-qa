@@ -1,0 +1,264 @@
+{{TankData|Tank= T32
+|The T32 is, compared to the earlier T29, a more balanced tank. A12 T32  Combining the still heavily-armored turret with more adequate hull armor, decent mobility, and a sleeker body, it is a tank that better controls what the enemy targets on it. A12 T32  Compared to other tanks of its tier, the T32's main weakness is the 105mm T5E1. A12 T32  Against the tier 10 tanks which the T32 faces (and the T29 avoided) as well as some tier 8 and 9 tanks, it lacks high penetrating power and thus struggles in frontal engagements. A12 T32  The T32 excels when paired with or against medium and light tanks as either a hunter or a supporter for flanking and pushes, or against heavy tanks as a defensive bunker in primary lanes to slow pushes. A12 T32 
+
+|InTheGame_pros= 
+* Has one of the strongest turrets in the game; nearly impossible to pen from the front and even the side is tough. A12 T32 
+* Good gun depression and handling. A12 T32 
+* Improved hull armor thickness and angling over the T29 allows for a few lucky bounces if angled properly. A12 T32 
+* Great view range for a heavy tank, same as the [[Pershing]]. A12 T32 
+* Decent side-scraping abilities due to large tracks. A12 T32 
+
+|InTheGame_cons= 
+* Hull armor is still penetrated outside of top tier, despite being slightly thicker and better angled than the T29. A12 T32 
+* Bottom of the gun mantlet may ricochet shots into hull roof (shot trap), occasionally compromises turret armor. A12 T32 
+* Horrible when stock: The stock turret is flimsy, and has a lower rate of fire and equipping the 105mm requires the suspension. A12 T32 
+* Worst gun selection in tier, penetration, accuracy, alpha damage and RoF are all below average. A12 T32 
+* Struggles to reach the already mediocre top speed due to bad ground resistance. A12 T32 
+
+|InTheGame_performance=
+As stock, you can't expect much out of a T32. A12 T32  It has the health of a tier 7 as stock, weak turret armor and an inadequate gun. A12 T32  The 90mm is insufficient at tier 8 and the 105mm cannot be mounted with the stock suspension. A12 T32  Therefore, it is highly recommended to get Enhanced Torsion Bars 5+ t Class. A12 T32  This will allow you to mount the 105mm but costs 500,000 credits and hurts the economy. A12 T32  After you upgrade the suspension, you may remove it if you wish. A12 T32 
+
+This tank is best played in one of two ways: as an aggressive brawler (against mediums or lone heavies) or as a support tank depending on the enemy you are fighting. A12 T32   One on one, you want to usually get up close and abuse terrain or poor opponent gun depression to hit enemy weakspots while moving diagonally in small amounts between shots to make it hard for them to hit your commanders hatch. A12 T32   However, doing this is ill advised if there is another enemy that can easily flank you or is vastly more maneuverable (unless you can corner them in a area that limits their mobility like an alleyway). A12 T32  You may also play as support with this tank. A12 T32  Let your team take the hits and give them support. A12 T32  If necessary, your health is sufficient to take a few hits for your team so a teammate can live to see another shot. A12 T32  Additionally, the hull armor is sufficient against low-powered cannon and the turret armor is extremely strong. A12 T32  Avoid any opportunity to give your opponents a shot at your hull except for trackwheel baiting shots or sidescraping, and you will do well. A12 T32 
+
+The main selling point of the T32 is its impeccable turret armor and good gun depression. A12 T32  This means that the vehicle will have excellent armor which is usable while retaining good mobility. A12 T32  Therefore, a hull-down position is the strongest position for this vehicle. A12 T32  Great gun depression and an invincible turret front means that it can easily remain virtually immune to shells coming from the front. A12 T32  Beware not to expose the bottom part of the mantlet though, as shots below it will easily ricochet into the hull and penetrate virtually every time (shot trap). A12 T32  Coupled with the fact that assuming a hull-down position over a ridge hides your weakpoints, you can easily provide a defensive block which is very challenging to dislodge. A12 T32  
+
+Another viable tactic, and what many T32 drivers like to do, is to face hug. A12 T32  By doing this, you increase the chance that they will only be able to shoot at the front of your turret or get extremely angled shots at your upper plate. A12 T32  This tactic is especially effective against Soviet or Chinese tanks, which have very bad gun depression and is often forced to shoot at the small and often moving cupola. A12 T32  Face-hugging also allows you to hit their weakpoints, something important given the relatively low-penetration cannon on the vehicle. A12 T32  
+
+A great chassis only balanced by a mediocre gun, it is a very versatile vehicle. A12 T32  There are very few vehicles that allows it to defend just as well as it can attack. A12 T32  On hills, no other tank at Tier 8 is more suitable; German tanks have large, flimsy lower glacis plates; Soviet or Chinese tanks have horrible gun depression and Japanese heavy tanks have thick armor and poor mobility that makes them better defenders than attackers. A12 T32  For its tier, only the M26 Pershing, T34, Caernarvon and Centurion I come close in terms of hull-down capability. A12 T32  
+
+|InTheGame_research=
+* The T5E1 105 mm gun, AV-1790-3 engine and SCR-528 radio carry over from the T29 and should be mounted right away. A12 T32 
+* The stock suspension will not support the 105 mm gun. A12 T32  Either research the suspension immediately (free XP) or mount Enhanced Torsion Bars. A12 T32  
+* Next, research the turret. A12 T32 
+* If Enhanced Torsion Bars were used, research the suspension to free up the equipment slot. A12 T32 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|External_Reviews= 
+{{#ev:youtube|fFF1K0LXHs8}}
+
+|Gallery=
+image:T32_001. A12 T32 jpg{{!}}T32_001
+image:T32_002. A12 T32 jpg{{!}}T32_002
+image:T32_003. A12 T32 jpg{{!}}T32_003
+image:T32_004. A12 T32 jpg{{!}}T32_004
+image:T32game1. A12 T32 jpg{{!}}T32, Malinovka map
+image:Ingame_T32-1. A12 T32 jpg{{!}}T32, Siegfried line map
+image:T32-a1. A12 T32 jpg{{!}}T32, Komarin map
+
+|History=
+The successful employment of the heavily armored assault tank M4A3E2 in Europe during the Fall of 1944 emphasized the need for greater armor protection. A12 T32  On 7 December 1944, the Army Ground Forces recommended that the Ordnance Department develop a modification of the new Pershing tank with heavier armor, and the Army Services Forces directed that immediate action be taken to comply with this request. A12 T32  Two approaches were followed to solve the problem. A12 T32  The first produced essentially a standard Pershing with thicker armor and a lower final-drive gear ratio to maintain a reasonable level of mobility. A12 T32  This vehicle was designated as the heavy (later medium) tank T26E5. A12 T32  A longer range solution was to develop a new tank utilizing as many Pershing components as possible. A12 T32  On 8 February 1945, construction of four tank prototypes of such a vehicle was recommended and designated as the heavy tank T32. A12 T32  Formal approval for this project was recorded in March. A12 T32 
+
+== Technical info ==
+[[image:T32_technical_drawing. A12 T32 gif|thumb|200px|left|T32 Technical drawings]]The design of the new tank proceeded on a high priority basis, and by 10 April 1945, a mock-up was almost complete and approximately 80 percent of the drawings for the first two prototypes had been released. A12 T32  A power package consisting of the Ford GAC V-12 engine and the cross-drive transmission similar to that planned for the heavy tank [[T29]] was incorporated into the design. A12 T32  As many Pershing components as possible were utilized, but an extra road wheel was added to the torsion bar suspension, bringing the total on each side to seven. A12 T32  The Pershing's 23-inch wide T80E1 tracks were fitted with the five-inch extended end-connectors to further reduce the ground pressure. A12 T32  
+
+The high-velocity 90mm T15E2 gun with a single coaxial . A12 T32 30 caliber machine gun was specified for all four prototypes. A12 T32  This cannon used separated ammunition with a very long cartridge case, requiring a rearrangement of the interior stowage as compared to the Pershing. A12 T32  The 90mm T15E2 gun had a muzzle velocity of 3200 feet per second with the 24 pound AP T43 shot, and 3750 feet per second with the 16. A12 T32 7 pound HVAP T44 shot. A12 T32  The armor on the front hull was specified as five inches at 54 degrees from the vertical, and the turret varied in thickness from 11. A12 T32 75 inches in front to 6 inches in the rear. A12 T32  The front hull was cast for the first two prototypes and a . A12 T32 30 caliber machine gun was installed in a bow mount for the assistant driver. A12 T32  Both the driver and assistant driver had a single periscope fitted in the hatch cover over their seats. A12 T32  
+
+Prototypes 3 and 4 were assembled using rolled armor plate on the front hull and the bow machine gun was omitted. A12 T32  On the latter two vehicles, the driver's wide angle periscopes were mounted in the front armor and their hatch covers were pivoted rather than hinged, allowing them to be opened without interference from the traversing turret. A12 T32  OCM 28680, on 9 August 1945, revised the military characteristics and recommended that prototypes 3 and 4 be designated as the heavy tank T32E1. A12 T32 [[image:T32_top_view. A12 T32 jpg|thumb|200px|right|T32 top view]]Prototypes 1 and 2 were completed on 15 January and 19 April 1946, respectively, and both were shipped to Aberdeen Proving Ground. A12 T32  Prototypes 3 and 4 (T32E1) were completed on 14 May and 19 June 1946. A12 T32  Number 3 was shipped to Fort Knox and the fourth vehicle was retained at Detroit Arsenal for engineering studies. A12 T32  
+
+The T32 was the first tank with the cross-drive transmission to be tested at Aberdeen and Fort Knox and, as might be expected, a lot of problems were encountered. A12 T32  The early EX-120 version of the cross-drive had the usual teething troubles of an experimental design and required excessive maintenance to keep it going. A12 T32  However, it led directly to the development of the CD-850 series of cross-drive transmissions, which became the standard in American tanks. A12 T32  
+
+== T-series prototypes ==
+The [[T29]], [[T30]], [[T32]], and [[T34]] series of tanks were used to evaluate numerous experimental components after World War II. A12 T32  Although too late for the war for which they were designed, they provided invaluable service in developing these components for later tanks. A12 T32  Much of the work that made the early AV-1790 engine and the CD-850 transmission a reliable power package utilized these tanks. A12 T32  Later, they were used in the development of other power train components, such as the XT-1400 transmission, which was tested in the [[T30]]. A12 T32 
+
+
+<table style="text-align:center;" frame="box" rules="vertical;horizontal" >
+<caption>American Heavy tank comparision</caption>
+<tr>
+<th></th>
+	<th>Mk. A12 T32 VII</th>
+	<th>[[M6]]</th>
+	<th>T28</th>
+	<th>[[T29]]</th>
+	<th>[[T30]]</th>
+	<th>[[T32]]</th>
+	<th>[[T34]]</th>
+	<th>M103A2</th>
+</tr>
+<tr>
+<th>Crew</th>
+	<td>8</td>
+	<td>6</td>
+	<td>4</td>
+	<td>6</td>
+	<td>6</td>
+	<td>5</td>
+	<td>6</td>
+	<td>5</td>
+</tr>
+<tr>
+<th>Length</th>
+	<td>10,43m</td>
+	<td>8,43m</td>
+	<td>11,12m</td>
+	<td>11,56m</td>
+	<td>10,9m</td>
+	<td>10,83m</td>
+	<td>11,77m</td>
+	<td>11,23m</td>
+</tr>
+<tr>
+<th>Width</th>
+	<td>3,66m</td>
+	<td>3,12m</td>
+	<td>4,54m</td>
+	<td>3,8m</td>
+	<td>3,8m</td>
+	<td>3,76m</td>
+	<td>3,8m</td>
+	<td>3,63m</td>
+</tr>
+<tr>
+<th>Height</th>
+	<td>3,12m</td>
+	<td>3,00m</td>
+	<td>2,86m</td>
+	<td>3,22m</td>
+	<td>3,22m</td>
+	<td>2,81m</td>
+	<td>3,22m</td>
+	<td>3,56m</td>
+</tr>
+<tr>
+<th>Weight</th>
+	<td>39,5t</td>
+	<td>57,4t</td>
+	<td>86,3t</td>
+	<td>64,25t</td>
+	<td>64,74t</td>
+	<td>54,5t</td>
+	<td>65,2t</td>
+	<td>58,1t</td>
+</tr>
+<tr>
+<th>Engine<br />Power</th>
+	<td>Liberty<br />338hp</td>
+	<td>G-200<br />960hp</td>
+	<td>GAF<br />500hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>AV1790<br />750hp</td>
+</tr>
+<tr>
+<th>Max. A12 T32  Speed</th>
+	<td>8,8km/h</td>
+	<td>35km/h</td>
+	<td>12,8km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>37km/h</td>
+</tr>
+<tr>
+<th>Hull Armour<br />(angle)</th>
+	<td>12mm<br />(28)</td>
+	<td>83mm<br />(30)</td>
+	<td>305mm</td>
+	<td>102mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(60)</td>
+</tr>
+<tr>
+<th>Side Armour</th>
+	<td>12mm</td>
+	<td>70mm</td>
+	<td>152mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>51mm</td>
+</tr>
+<tr>
+<th>Turret Armour<br />(mantlet)</th>
+	<td>16mm</td>
+	<td>83mm<br />(102mm)</td>
+	<td>-</td>
+	<td>178mm<br />(279mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>298mm<br />(298mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>127mm<br />(254mm)</td>
+</tr>
+<tr>
+<th>Top Armour</th>
+	<td>6-10mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>Bottom Armour</th>
+	<td>6-8mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>Gun</th>
+	<td>2x57mm<br />Hotchkiss</td>
+	<td>75mm M7<br />37mm MB</td>
+	<td>105mm<br />T5E1</td>
+	<td>105mm<br />T5E2</td>
+	<td>155mm<br />T7</td>
+	<td>90mm<br />T15E2</td>
+	<td>120mm<br />T53</td>
+	<td>120mm<br />M58</td>
+</tr>
+<tr>
+<th>Secondary<br />Armament</th>
+	<td>5x7,62mm<br />Hotchkiss</td>
+	<td>2x12,7mm <br />HB M2<br />2x7,62mm<br />M1919A4</td>
+	<td>12,7mm<br />HB M2</td>
+	<td>3x12,7mm<br />HB M2<br />7. A12 T32 62mm<br />M1919M4</td>
+	<td>2x12,7mm<br />HB M2<br />7. A12 T32 62mm<br />M1919M4</td>
+	<td>12,7mm<br />HB M2<br />2x7. A12 T32 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A12 T32 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A12 T32 62mm<br />M37</td>
+</tr>
+</table>
+
+|HistoricalGallery=
+image:T32. A12 T32 front_view. A12 T32 jpg{{!}}T32 Prototype front view
+image:T32frontquarter. A12 T32 png{{!}}T32 Prototype
+
+|HistAcc=
+The 90 mm gun was the T32's only main armament. A12 T32  The 105 mm gun configuration does not exist. A12 T32  
+
+|Ref_references=
+
+
+|Ref_sources=
+* R. A12 T32 P. A12 T32  Hunnicutt - Firepower: A History of the American Heavy Tank, 1988 Presidio Press, ISBN 0-89141-304-9. A12 T32 
+
+|Ref_links=
+
+
+|Sidebar_GunAlt= 105mm T5E1
+|Sidebar_Camostop=6. A12 T32 0
+|Sidebar_Camomove=3. A12 T32 1
+|Sidebar_Camofire=1. A12 T32 2
+|Sidebar_Passhard=1. A12 T32 055
+|Sidebar_Passmed=1. A12 T32 438
+|Sidebar_Passsoft=2. A12 T32 589
+|Sidebar_DispTurret=0. A12 T32 134
+|Sidebar_DispRecoil=3. A12 T32 836
+|Sidebar_DispAccel=0. A12 T32 201
+|Sidebar_DispTurning=0. A12 T32 201
+}}
+
+[[Category:USA Tanks]]

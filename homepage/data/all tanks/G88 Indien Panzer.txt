@@ -1,0 +1,67 @@
+{{TankData|Tank=Indien_Panzer
+|
+
+Freshly purchased and stock, the Indien-Panzer mounts the extremely inadequate 88mm L/56 gun, so a fast upgrade is a must. G88 Indien Panzer  The Indien-Panzer is not as fast as the [[Panther II]] but has superior track and turret traverse speed and, like the Panther, excels at the sniping role, taking down enemies from afar with superb accuracy. G88 Indien Panzer  The Indien-Panzer's compact size  and very small turret combined with superb gun elevation angles give it many advantages when hull-down. G88 Indien Panzer  Furthermore, its thin yet extremely sloped frontal armor can be surprisingly bouncy. G88 Indien Panzer  However, although effectively better than the Panther II's, its 90mm-thick armor is nothing to boast about. G88 Indien Panzer  Major setbacks may include the long aiming time, sluggish acceleration, and the paper-thin gun mantlet. G88 Indien Panzer 
+
+|Gallery=
+
+|Sidebar_Camostop=11. G88 Indien Panzer 89
+|Sidebar_Camomove=9. G88 Indien Panzer 14
+|Sidebar_Camofire=2. G88 Indien Panzer 69
+|Sidebar_Passhard=1. G88 Indien Panzer 055
+|Sidebar_Passmed=1. G88 Indien Panzer 151
+|Sidebar_Passsoft=2. G88 Indien Panzer 205
+|Sidebar_DispTurret=0. G88 Indien Panzer 115
+|Sidebar_DispRecoil=3. G88 Indien Panzer 836
+|Sidebar_DispAccel=0. G88 Indien Panzer 211
+|Sidebar_DispTurning=0. G88 Indien Panzer 211
+
+|InTheGame_pros=
+* Excellent gun depression
+* Narrow turret is hard to hit, especially if hull-down and rocking side-to-side
+* Great AP shell penetration
+* Above-average maneuverability
+* Good rate of fire and DPM
+
+|InTheGame_cons=
+* Bad dispersion, not advised to do snap shots
+* Sub-par acceleration
+* Weak overall armor and fragile ammo rack, though its roundness can lead to bounces	 
+* Low hit points pool - even less than the [[T69]], and on par with the [[T-44]] and Chinese mediums
+* Relatively poor camouflage and mediocre view range
+
+|InTheGame_performance=
+
+The Indien-Panzer is very similar, yet quite different from the alternate tier 8 German medium tank, the [[Panther II]]. G88 Indien Panzer  Unlike the Indien-Panzer, the Panther II offers an Tier IX 8,8 cm gun, boasting high penetration and extreme accuracy. G88 Indien Panzer  The Indien-Panzer however, in return offers a 9 cm gun, which can be researched after researching the 8,8 cm KwK 43 L/71 gun shared by both vehicles (which has almost identical stats on both the Panther and Indien). G88 Indien Panzer  This slightly-improved 9 cm gun increases the Indien-Panzer's DPM by roughly 200 damage, nothing to get excited about. G88 Indien Panzer  Though the Indien-Panzer has a weaker engine than the Panther II, it sports much less weight thus producing higher mobility. G88 Indien Panzer  In addition, the Indien has much higher track traverse speed, which makes it handle much better than the Panther. G88 Indien Panzer 
+
+In comparison to the other tier 8 medium tanks, the Indien-Panzer boasts a decent penetration AP round at 212 pen, and on-averavge alpha damage of 240 hitpoints. G88 Indien Panzer  Its engine has a very low chance of catching on fire, unlike Maybach gasoline engines, a common choice in German vehicles. G88 Indien Panzer  Probably the most distinguishing advantage of the Indien-Panzer is its excellent gun depression coupled with a very small and difficult-to-hit turret and high damage per minute. G88 Indien Panzer  Unfortunately, the turret won't hold up if it does get hit. G88 Indien Panzer  Finding and getting used to the Indien's play style will prepare its driver for the next tanks in the line, the Leopards, which are very similar in being very flexible, maneuverable, potent snipers, and capable jack-of-all-trades. G88 Indien Panzer 
+
+As for the play-style itself, it can be best described as a highly mobile turreted tank destroyer, a pure support medium. G88 Indien Panzer  Stay back in the second line, use your gun depression to expose as little as possible, hide behind bushes to aim in, keep the gun firing from stationary positions, and when needed, you can spot some targets and move to another fixed position and keep up a steady stream of effective support fire. G88 Indien Panzer  With your high DPM and reliable mix of penetration and accuracy, you can bleed down enemies from afar. G88 Indien Panzer  If you need to shoot on the move, it's important to practice "bloom control": minimize turning of both the hull and turret so that when you let the shot fly, you're effectively partially aimed in to begin with. G88 Indien Panzer  This is, in common with the [[AMX 50 100]], a very important skill to learn, as firing while on the move with both the hull and turret traversing in either is almost a guaranteed miss, even at point-blank ranges. G88 Indien Panzer  
+|InTheGame_research=
+
+The stock gun is thoroughly inadequate, and the upgrade should be researched early. G88 Indien Panzer  Unfortunately, you can't mount the second gun or any equipment before upgrading the tracks or adding Enhanced Leaf Springs class 2. G88 Indien Panzer  However, you can grind with the stock gun and get the 9 cm gun which is lighter and thus will allow you to mount it without having to get the upgraded tracks, but this grind can be rather painful with the stock gun's aforementioned poor stats,  The top engine and top radio are unlocked when you research [[Leopard PT A]], but consider at least researching the updated engine beforehand to improve your mobility. G88 Indien Panzer 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Tank Gun Rammer, Vents, GLD, Coated Optics
+
+|History=
+[[image:IP 2. G88 Indien Panzer jpg|thumb|200px|left|Indien Panzer drawings]]In the immediate post war climate in West Germany, German weapons manufacturers were not involved in development and production of armored vehicles. G88 Indien Panzer  However, that did not stop manufacturers like Porsche to try to sell its designs to foreign nation. G88 Indien Panzer  In the period from 1954-55 joint venture formed from Porsche (overall design), Daimler-Benz (MB837A 8-cyl diesel engine), Zahnradfabrik AG of Friedrichshafen (tracks & parts of transmission), Ruhrstahl (turret & gun) and TATA (manufacturing in India plus sights & optics) offered their design to the Indian government. G88 Indien Panzer  Intended to meet an Indian need for a 36-39 ton tank, the German submission would probably have been around 40 tons. G88 Indien Panzer  Engine with the power of 670 HP would gave power to weight of around 16,7 hp/t and a top speed of around 50 km/h. G88 Indien Panzer  Main armament consisted of 90 mm gun with The rifled barrel, while max armor thickness was 90 mm on the hull front and 130 mm on the turret front. G88 Indien Panzer 
+
+The Indian panzer competed with the British design, which the Indians eventually choose. G88 Indien Panzer  Interestingly the Vickers tank was built entirely from welded rolled steel plates. G88 Indien Panzer  According to some sources this feature was seen as an advantage by the Indian army, who wanted the tank to be license built in the country. G88 Indien Panzer  Cast armor requires special foundry facilities, which were not available in India at the time the Vickers tank was developed. G88 Indien Panzer  The Porsche design, on the contrary, had cast turret and much of the hull, so to build it in India might have been considered not impossible but surely quite difficult and expensive. G88 Indien Panzer 
+
+The project was rejected in the drawing phase, and no prototypes were ever built. G88 Indien Panzer   The Indians eventually went for the Vickers MBT whose prototype was completed in 1963 and the tank entered service in 1965. G88 Indien Panzer  The first 90 vehicles were built by Vickers in the UK, while production continued at the Heavy Vehicles Factory in Avadi. G88 Indien Panzer  A total of 2,200 units under the name Vijayanta were built until 1983 when the production was stopped. G88 Indien Panzer 
+
+
+
+|HistoricalGallery=
+image:IP 1. G88 Indien Panzer jpg{{!}}Concept drawing of the Indien Panzer
+image:IP 2. G88 Indien Panzer jpg{{!}}Plans for the Indien Panzer
+|HistAcc=
+The Indien-Panzer's only planned armament was the 90mm cannon, both 88mm configurations is fake, especially considered that the tank was designed in 1954, 9 years after the World War 2 ended. G88 Indien Panzer 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

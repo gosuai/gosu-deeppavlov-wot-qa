@@ -1,0 +1,88 @@
+{{TankData|Tank=GB69_Cruiser_Mk_II
+|The drop to Tier 2 removed the Cruiser II's defining gun, the 3. GB69 Cruiser Mk II 7-inch Howitzer, and left it quite a bit weaker than before. GB69 Cruiser Mk II  However, it still plays and feels like an up-armed and -armored version of the Cruiser I, with similar mobility to its pre-1. GB69 Cruiser Mk II 9 version. GB69 Cruiser Mk II 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Decent armor can bounce many auto-cannons; very easy to angle
+* Surprisingly good turning values on both hull and turret
+* 15 degrees of gun depression with both guns
+
+|InTheGame_cons=
+* Very slow - comparable to low-tier French tanks
+* Armor doesn't hold up against most other guns
+* No longer has the 3. GB69 Cruiser Mk II 7-inch Howitzer
+
+|InTheGame_performance=
+Moved down to Tier 2 in Update 1. GB69 Cruiser Mk II 9, the Cruiser Mk. GB69 Cruiser Mk II  II no longer has the dreaded 3. GB69 Cruiser Mk II 7-inch Howitzer. GB69 Cruiser Mk II  It instead plays more or less identically to how the Cruiser Mk. GB69 Cruiser Mk II  I did at Tier 2, with reduced DPM and gun handling, but improved armor. GB69 Cruiser Mk II 
+
+The Cruiser II now has two gun choices; the QF 2-pdr Mk. GB69 Cruiser Mk II  IX prototype and the 40 mm Pom-Pom, both of which have their benefits and disadvantages. GB69 Cruiser Mk II  Armed with the 2-pdr gun, the Cruiser II possesses a high rate of fire and decent shell penetration that can penetrate most same-tier tanks, though it will struggle with more heavily-armored tanks (such as the H35 and many Tier 3 tanks). GB69 Cruiser Mk II  The 2-pdr also boasts better accuracy and aiming speed than the 40 mm Pom-Pom. GB69 Cruiser Mk II  When armed with the 40 mm Pom-Pom, the Cruiser II is capable of dealing high burst damage in a short period of time at the expense of less accuracy, somewhat longer aiming time, and a lengthy magazine reload. GB69 Cruiser Mk II  It is advised to accompany, or be accompanied by, a teammate who can prevent enemies from flanking you during your reload. GB69 Cruiser Mk II 
+
+|InTheGame_research=
+* First, research the '''40 mm Pom-Pom''' for a nice boost to penetration and DPM. GB69 Cruiser Mk II 
+* Research the '''AEC Type 179''' engine next. GB69 Cruiser Mk II 
+* Research the second turret for a slight boost to aim time, DPM, and view range. GB69 Cruiser Mk II 
+* Finally, research the '''A10 Mk. GB69 Cruiser Mk II  II''' suspension. GB69 Cruiser Mk II 
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension, Camouflage Net, Enhanced Gun Laying Drive
+
+|History=
+                                                                     
+                                                               
+                                                                     
+                                             
+Cruiser, Mk II (A10), was developed alongside the A9, and was intended to be a heavier, infantry tank version of that type. GB69 Cruiser Mk II  In practice it was not deemed suitable for the infantry tank role and was classified as a "heavy cruiser". GB69 Cruiser Mk II <br />
+
+
+ {{VideoYT|LlIhWXaz3rk}} {{VideoYT|4-ZYx70sMGM}}
+
+
+==Development history==
+
+The A10 was developed by Sir John Carden of Vickers in 1934 by adaptation of his A9 design. GB69 Cruiser Mk II  The A10 specification called for armour of up to 1 inch standard (the A9 was 14mm); a speed of 10 mph was acceptable. GB69 Cruiser Mk II  The two sub-turrets present on the A9 were removed, and extra armour bolted onto that already present on the front and sides of the hull, along with all faces of the turret, providing approximately twice the armour in most areas. GB69 Cruiser Mk II  The A10 was two tonnes heavier than the A9, but used the same 150 bhp engine, and as a consequence the tank's top speed was cut from 25 mph to 16 mph. GB69 Cruiser Mk II 
+The turret armament consisted of a QF 2-pounder (40mm) gun and a coaxial . GB69 Cruiser Mk II 303 Vickers machine gun. GB69 Cruiser Mk II  For the production version there was a 7. GB69 Cruiser Mk II 92mm BESA machine gun mounted in the hull in a barbette to the right of the driver. GB69 Cruiser Mk II  This was added to give extra firepower but at the expense of simplicity - the Vickers and the BESA using different ammunition. GB69 Cruiser Mk II  The tank had a total crew of five (Commander, gunner, loader, driver and hull machine gunner), and there was no separation between the driver's compartment and the fighting compartments. GB69 Cruiser Mk II 
+
+The prototype ("Tank, Experimental A10E1") was completed in 1936, a few months after the A9 prototype. GB69 Cruiser Mk II  Carden had died in an air crash in 1935 and development was slower than expected. GB69 Cruiser Mk II  In 1937 the A10 was dropped as an infantry support but in 1938 it was decided to produce it as a "heavy cruiser". GB69 Cruiser Mk II  The A10 was accepted for service - initially as "Tank, Cruiser, Heavy Mk I" and then "Tank, Cruiser A10 Mk 1" and finally "Tank, Cruiser Mk II". GB69 Cruiser Mk II  Production was ordered in July 1938. GB69 Cruiser Mk II  Total production was 175 vehicles including the 30 CS versions (see below), 45 were built by Birmingham Railway Carriage and Wagon Company, 45 by Metropolitan-Cammell, 10 byVickers. GB69 Cruiser Mk II  In late 1939 another order was placed with Birmingham Railway Carriage and Wagon Company, this time it was a larger order of 75 vehicles. GB69 Cruiser Mk II  - entering service in December 1939, but was something of an oddity - it had been intended to sacrifice speed for armour like an Infantry tank, but was still relatively poorly armoured, and was, as a result, not effective. GB69 Cruiser Mk II 
+
+
+==Combat history==
+
+A number of Mark IIs were part of the British Expeditionary Force (BEF) sent to France in the early stages of World War II. GB69 Cruiser Mk II  Their cross country performance was recorded as poor, but they were still used later in North Africa at the defence ofTobruk in 1941, where reliability and suspension performance in the desert conditions was praised. GB69 Cruiser Mk II  Sixty worn out examples were taken to Greece by the 3rd Royal Tank Regiment and, although they performed well against the German tanks, over 90% were lost due to mechanical breakdowns as opposed to enemy action (mainly tracks). GB69 Cruiser Mk II  
+
+==Variants==
+
+'''Cruiser  Mk II (A10 Mk I)'''
+
+Classified as a 'heavy cruiser' and 31 were sent to France with the 1st Armoured Division, but performed poorly in the following campaign. GB69 Cruiser Mk II  Also served in the North African Campaignuntil late in 1941. GB69 Cruiser Mk II 
+
+'''Tank, Cruiser, Mk IIA (A10 Mk IA)'''
+
+The coaxial Vickers machine guns were replaced with BESA machine guns. GB69 Cruiser Mk II  Armoured radio housing added. GB69 Cruiser Mk II 
+
+'''Tank, Cruiser, Mk IIA CS (A10 Mk IA CS)'''
+
+Had a 3. GB69 Cruiser Mk II 7" (94 mm) howitzer in the turret instead of the 2 pdr. GB69 Cruiser Mk II  The standard ammunition load was 40 rounds smoke, and a few HE shells. GB69 Cruiser Mk II  The CS denotes Close Support. GB69 Cruiser Mk II  This weapon was derived from a World War I field howitzer. GB69 Cruiser Mk II  It was not related to the 3in howitzer used in later British tanks in World War II, which was itself replaced by a 95mm howitzer in the later versions of the Churchill infantry tanks and all CS versions of the Centaur and Cromwell cruiser tanks. GB69 Cruiser Mk II  British doctrine was that the CS tank was to provide smoke cover in advances or retreats and hence many more smoke rounds were carried than HE. GB69 Cruiser Mk II 
+
+|HistAcc=
+* The 40 mm Pom-Pom gun configuration is fake. GB69 Cruiser Mk II  The Pom-Pom was an anti-aircraft naval gun. GB69 Cruiser Mk II 
+* Historical smoke shells for the 3. GB69 Cruiser Mk II 7-inch howitzer is missing. GB69 Cruiser Mk II 
+* Smoke dischargers are visible on the turret's right side but there is no option to use them. GB69 Cruiser Mk II 
+
+|HistoricalGallery=
+image:A10 Cruiser Mark II 1. GB69 Cruiser Mk II jpg{{!}}The A10 Cruiser Mark II, Front View
+image:A10 Cruiser Mark II 2. GB69 Cruiser Mk II jpg{{!}}The A10 Cruiser Mark II, Side View
+image:CruiserMk2_(1). GB69 Cruiser Mk II jpg{{!}}Cruiser Mk2
+image:British_Cruiser_Tank_MkIIA_CS_(close_support). GB69 Cruiser Mk II jpg{{!}}A10 MkIA CS at Bovington Tank Museum
+image:A_British_Cruiser_Mk_II_disabled_by_having_lost_a_track_(seen_lower_right)_in_Greece,_1941. GB69 Cruiser Mk II jpg{{!}}Greece, 1941
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

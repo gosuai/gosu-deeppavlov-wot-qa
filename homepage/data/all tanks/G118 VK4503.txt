@@ -1,0 +1,90 @@
+{{TankData|Tank= ''Please leave space after ''='' blank except in specific circumstances''
+
+| 
+
+|Gallery= 
+image:VK. G118 VK4503 45. G118 VK4503 03(H) Garage. G118 VK4503 PNG{{!}}VK. G118 VK4503 45. G118 VK4503 03(H) in the Garage. G118 VK4503 
+image:Vk. G118 VK4503 45. G118 VK4503 03(H) Front. G118 VK4503 PNG{{!}}Front view of the VK. G118 VK4503 45. G118 VK4503 03(H) in the Garage. G118 VK4503 
+image:Vk4503side. G118 VK4503 PNG{{!}}VK. G118 VK4503 45. G118 VK4503 03(H) side view. G118 VK4503 
+image:Vk4503front. G118 VK4503 PNG{{!}}VK. G118 VK4503 45. G118 VK4503 03(H) front view. G118 VK4503 
+image:Vk4503rear. G118 VK4503 PNG{{!}}VK. G118 VK4503 45. G118 VK4503 03(H) rear view. G118 VK4503 
+image:Vk4503top. G118 VK4503 PNG{{!}}VK. G118 VK4503 45. G118 VK4503 03(H) top view. G118 VK4503 
+image:Vk4503angled. G118 VK4503 PNG{{!}}VK. G118 VK4503 45. G118 VK4503 03(H). G118 VK4503 
+
+|InTheGame_pros= 
+
+-Good gun handling
+
+-Angled front plates
+
+-Profile allows for side scraping
+
+|InTheGame_cons= 
+
+-Weak DPM + low Alpha
+
+-Extremely weak and easy to penetrate turret
+
+-Highly vulnerable to artillery fire
+
+-Most expensive price for any Tier 7 premium
+
+|InTheGame_performance= 
+
+Don't make the mistake of comparing this to the Tiger I. G118 VK4503  The Tiger I can burn down every T7 and even T8 tank by utilizing its raw DPM power in combination with its HP pool of 1500, when given the chance. G118 VK4503  While the VK 45. G118 VK4503 03 does not stand to far off with regards to HP, the DPM is an absolute joke in comparison. G118 VK4503  It does not offer significant mobility advantages over the Tiger I, in fact it gets beaten in the top speed department. G118 VK4503  Also don't get hyped because of the angled front plates. G118 VK4503  They do offer improved protection compared to the flat hull design of the Tiger I, but it is nothing to rely on, especially when fighting tanks of your own tier (and higher). G118 VK4503  Even the IS, its derivatives, and the KV-3 with only 175mm of penetration, have a good chance of penetrating the upper front plate, even when angled with effective values of +-140mm armor (don't shoot the lower plate as it offers better protection due to sharper angle). G118 VK4503  The turret, however, offers mostly no angles, and with a nominal armor protection of 100mm that does not yield a much higher effective value in most places, it presents an easy target even for lower tiers. G118 VK4503 
+
+So in essence, one has to make the VK 45. G118 VK4503 03 work by using the gun handling. G118 VK4503  In comparison to the Tiger I, the VK 45. G118 VK4503 03 offers lower aim time and better gun soft stats, which means you build up less dispersion by driving and turning the hull / turret and you take less time to achieve maximum accuracy (aka letting aim circle shrink to its minimum). G118 VK4503  The VK 45. G118 VK4503 03 has lesser damage potential over time than the Tiger I, but has an easier time making its shots count. G118 VK4503  Don't try firing snapshots, as you don't have the DPM to effectively trade 2 shots for 1 against tanks with higher alpha. G118 VK4503  It is better to not to get hit and dealing no damage in return, than to eat 390 (or more) to deliver only 240 damage on average. G118 VK4503  What's more, with the improved gun handling, you will land such shots more consistently than with the Tiger I. G118 VK4503 
+
+It should also be noted that the VK45. G118 VK4503 03 can easily use Optics for its third equipment slot and participate in active scouting duties more effectively (first and second being rammer and vents respectively), whereas with the Tiger I giving up the Enhanced Gun Laying Drive is a much tougher choice. G118 VK4503 
+
+
+|InTheGame_research= 
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|InTheGame_builds=
+
+
+|External_Reviews= 
+
+|History= 
+The VK. G118 VK4503 45. G118 VK4503 03(H) is the designation given to the first prototype of the infamous German [[Tank:G16_PzVIB_Tiger_II|Tiger II]] Heavy tank. G118 VK4503   In the autumn of 1943 the Henschel firm presented their proposal for a new heavy tank to succeed the [[Tank:G04_PzVI_Tiger_I|Tiger I]]. G118 VK4503   The vehicle was to weigh 65 tons, with hull armor consisting of 100/80/80mm (front/sides/rear) and was to be equipped with a Porsche turret with front, side, and rear armor identical to that of the hull. G118 VK4503   The prototype was to be armed with an 8. G118 VK4503 8cm. G118 VK4503  Kwk. G118 VK4503  43 L/71 main gun, mounted in a monobloc (single-piece) gun mantlet. G118 VK4503   The design was rejected as the Führer personally intervened to increase the frontal armor armor of the vehicle to 185mm; and the Weapons Department determined the rounded Porsche turret to be inadequate as the lower rounding could potentially cause shells to ricochet into the hull roof. G118 VK4503 
+
+
+
+== Development History: ==
+Development of the VK. G118 VK4503 45. G118 VK4503 03(H) began after the Führer conference on May 26, 1941. G118 VK4503   The conference decided that the German Army Weapons Department should speed up existing research and development programs on heavy tanks in the 30-45 ton weight class being carried out by Porsche and Henschel. G118 VK4503   At this time, the Weapons Department also instructed Krupp to an improved tank gun version of the famous 8. G118 VK4503 8cm. G118 VK4503  FlaK 41 anti-aircraft gun (the 8. G118 VK4503 8cm. G118 VK4503  KwK. G118 VK4503  43 L/71). G118 VK4503   Development was hastened after the invasion of the U. G118 VK4503 S. G118 VK4503 S. G118 VK4503 R, due to the shock of the first combat encounters with the soviet [[Tank:R04_T-34|T-34]] and [[Tank:R80_KV1|KV-1]] tanks. G118 VK4503   At this point the goal was to create a vehicle with greater firepower and protection than any Soviet tank in existence, as well as any tank the Soviets might develop in the immediate future. G118 VK4503   By late 1942, Porsche had begun development on two vehicles, the [[Tank:G67_VK4502A|VK. G118 VK4503 45. G118 VK4503 02(P) Ausf. G118 VK4503 A]] & [[Tank:G58_VK4502P|VK. G118 VK4503 45. G118 VK4503 02(P) Ausf. G118 VK4503 B]], however, development on these vehicles was eventually dropped as they used a similar transmission to the [[Tank:G57_PzVI_Tiger_P|Tiger(P)]], which not only had been proven unreliable, but also required large amounts of copper, a resource in short supply by late 1942. G118 VK4503   In autumn 1943, Henschel presented their proposal for the new heavy tank designated Tiger H3. G118 VK4503   The vehicle was to weigh 65 tons, with hull armor consisting of 100/80/80mm (front/sides/rear) and was to be equipped with a Porsche turret with front, side, and rear armor identical to that of the hull. G118 VK4503   The prototype was to be armed with an 8. G118 VK4503 8cm. G118 VK4503  Kwk. G118 VK4503  43 L/71 main gun, mounted in a monobloc (single-piece) gun mantlet. G118 VK4503   The design was rejected as the Führer personally intervened to increase the frontal armor armor of the vehicle to 185mm; and the Weapons Department determined the rounded Porsche turret to be inadequate as the lower rounding could potentially cause shells to ricochet into the hull roof. G118 VK4503   Although no prototypes of the original design were produced, the first 50 [[Tank:G16_PzVIB_Tiger_II|Tiger II]] tanks produced would be equipped with existing Porsche turrets. G118 VK4503 
+
+|HistoricalGallery= 
+image:VK. G118 VK4503 45. G118 VK4503 03(H) Model. G118 VK4503 jpg{{!}}Model of Henschel's VK. G118 VK4503 45. G118 VK4503 03(H), now on display at the Munster Museum. G118 VK4503 
+
+|HistAcc= There's many inaccurate and flaws in-game description of this tank. G118 VK4503 
+*The description says it was developed at '''The End of WWII''' but it was later described in later paragraph that it was developed in 1942
+*The tank was never named as Tiger III, Since it was actually Tiger II early design. G118 VK4503 
+*The turret was made by Krupp, not Porsche, and was used by the first 50 Tiger II tanks as built by Henschel. G118 VK4503 
+
+|Ref_references=
+
+|Ref_sources=
+
+<p>Hart, S. G118 VK4503 , and Russell Hart A. G118 VK4503  German Tanks of World War II. G118 VK4503  New York: Barnes & Noble, 1999. G118 VK4503  Print. G118 VK4503 </p>
+
+<p>Bocquelet, David. G118 VK4503  "Panzer VI Ausf. G118 VK4503 B Königstiger. G118 VK4503 " Tanks Encyclopedia. G118 VK4503  Tanks-Encyclopedia, 29 Apr. G118 VK4503  2015. G118 VK4503  Web. G118 VK4503  22 Sept. G118 VK4503  2016. G118 VK4503 </p>
+
+<p>Bourguignon, Vincent. G118 VK4503  "Panzerkampfwagen VI Tiger II Heavy Tank. G118 VK4503 " WW2 Drawings. G118 VK4503  War Drawings, 24 Sept. G118 VK4503  2015. G118 VK4503  Web. G118 VK4503  22 Sept. G118 VK4503  2016. G118 VK4503 </p>
+
+<p>Aviarmor Editors. G118 VK4503  "Pz. G118 VK4503 Kpfw. G118 VK4503 VI Ausf. G118 VK4503 B “Tiger II”. G118 VK4503 " Aviarmor. G118 VK4503 net. G118 VK4503  Aviarmor, 18 June 2015. G118 VK4503  Web. G118 VK4503  22 Sept. G118 VK4503  2016. G118 VK4503 </p>
+
+|Ref_links=
+
+* [https://worldoftanks. G118 VK4503 com/en/tankopedia/G118_VK4503/ tankopedia]
+
+* [https://www. G118 VK4503 tanks-encyclopedia. G118 VK4503 com/ww2/nazi_germany/Panzer-VI_Konigstiger. G118 VK4503 php Tanks Encyclopedia]
+
+* [https://www. G118 VK4503 wardrawings. G118 VK4503 be/WW2/Files/1-Vehicles/Axis/1-Germany/03-sPanzers/Pz. G118 VK4503 Kpfw6-Tiger2/File/1-Genesis-Production. G118 VK4503 htm War Drawings]
+
+}}
+
+[[Category:German Tanks]]

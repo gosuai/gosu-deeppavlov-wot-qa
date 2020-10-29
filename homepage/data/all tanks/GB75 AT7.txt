@@ -1,0 +1,69 @@
+{{TankData|Tank= AT 7
+| The AT 7 is a vast improvement over its predecessor, the [[AT 8]]. GB75 AT7  Although it still keeps the 203mm thickness of armor from the Tier 5, only the upper half is at a poor angle. GB75 AT7  The most notable feature of the AT 7 is the far right side-mounted gun. GB75 AT7  If the AT 7 manages to peek only the side-mounted gun around a corner, anything down that street will have a very hard time penetrating it while receiving generous amounts of damage. GB75 AT7  The AT 7 boasts very high penetration, great damage per minute, extreme accuracy, and a great aiming speed. GB75 AT7 
+
+|Gallery=
+
+
+|InTheGame_pros=
+- Highest HP pool of all Tier 7 TDs (1250 - matched with HT standard)
+
+- Extremely accurate and quick-aiming top gun, very high AP penetration for its tier
+
+- High rate of fire provides exceptional DPM
+
+- Decent armour for tier 7
+
+- Right side-mounted gun can be extremely effective when peeking around corners and cover
+
+|InTheGame_cons=
+- Poorly angled upper armour. GB75 AT7 
+
+- Very large commanders cupola and horrible speed. GB75 AT7  Easy target for artillery
+
+- Low profile and side-mounted gun makes it very vulnerable from facehugging. GB75 AT7 
+
+- 203mm of armour is not enough to withstand gold shells from most tier 7 enemies. GB75 AT7  
+
+- Poor gun depression and gun arc, terrible gun elevation, yet again like it's predecessors
+
+- Horrible stock grind if coming from the Churchill GC. GB75 AT7  Very low top speed and poor turning speed. GB75 AT7 
+
+|InTheGame_performance= The AT 7 is a great tank for its tier. GB75 AT7  It has an excellent gun mounted to the far right of the tank, just above the track. GB75 AT7  This side-mounted gun opens up many advantages and disadvantages. GB75 AT7  If the AT 7 manages to peek out its gun from a corner, anything down that street will have a very hard time penetrating it. GB75 AT7  However, the AT 7 has a very poor gun arc and thus, cannot angle its armour. GB75 AT7  One should never face hug in an AT 7. GB75 AT7  Firstly, the large commander's cupola will ensure a quick death. GB75 AT7  Secondly, the side-mounted gun will be unable to aim at the front of the enemy, just the steeply-angled side. GB75 AT7  The 20-pdr gun is exceptional for its tier. GB75 AT7  It's very accurate, aims quickly, boasts good damage per minute, and has very high penetration. GB75 AT7  A gun laying drive is not necessary with this gun. GB75 AT7 
+
+The stock gun if coming from the Churchill GC is the 6-pounder. GB75 AT7   Yes, that gun you can get on the tier 3 Valentine TD. GB75 AT7   While it's now a 10-round autoloader, it has little value other than comedy as it more or less requires APCR spam to pen anything in tier 7-9. GB75 AT7   Even worse, all upgraded guns are too heavy for the stock suspension. GB75 AT7  Free XP or simply coming from the AT 8 instead is very strongly recommended. GB75 AT7 
+
+As with most British tank destroyers, the AT 7 has a very low top speed, poor engine power, and a slow traverse speed. GB75 AT7  It is a prime target for artillery due to its low speed and large size. GB75 AT7  An AT 7 should always keep moving forward to compensate for its low speed. GB75 AT7  The At 7 has potential sniping due to its accurate gun and good armour, but its poor view range hinders this. GB75 AT7  The AT 7 needs to be played with support from its teammates. GB75 AT7  Take the front-lines but don't get overconfident in its armour. GB75 AT7  Shots on the less-angled parts of the armour will most likely penetrate. GB75 AT7  Getting too close to the enemy will allow them to quickly destroy you through the big commander's cupola, although there are two machine gun blocks that protect some of it. GB75 AT7  You have a reasonable camouflage value despite being a heavily armoured brick, so don't be afraid to play as a long range sniper when in higher tier matches where your armour cannot be counted on. GB75 AT7 
+
+The AT 7 is a great improvement over its predecessor and can dominate in urban maps with the usage of its side-mounted gun. GB75 AT7  This gun is also exceptional in all aspects. GB75 AT7  An AT 7 played with support from its team can lead and protect its team while it slowly turtles towards the enemy forces. GB75 AT7  Taller friendly heavies can even fire over it while pushing it along as portable cover, although the low top speed limits the effectiveness of pushing. GB75 AT7 
+
+|InTheGame_research=
+* If you came instead from the Churchill Gun Carrier, only the WS No. GB75 AT7  19 Mk. GB75 AT7  III Radio carries over and can be mounted immediately. GB75 AT7 
+* If you came from the AT 8, the Nuffield Liberty Mk. GB75 AT7  V Engine, and WS No. GB75 AT7  19 Mk. GB75 AT7  III Radio carry over. GB75 AT7  Mount them immediately as they have the same weight as the stock equipment. GB75 AT7 
+* The OQF 77 mm AT Gun Mk. GB75 AT7  II can be mounted as soon as it researched. GB75 AT7 
+* The OQF 17-pdr AT Gun Mk. GB75 AT7  VII can also be mounted right away, but will prevent you from mounting more than 100 kg of [[equipment]] (Binoculars, Tool box, Improved Ventilation and so forth). GB75 AT7 
+* To rid yourself of these limitations, you will then have to research the AT 7 Mk. GB75 AT7  II Suspension, to allow for the weight of the upgrades. GB75 AT7 
+* If not already researched, Nuffield Liberty Mk. GB75 AT7  V Engine comes next. GB75 AT7 
+* Research the Ford GAA Engine. GB75 AT7 
+* Now, research the OQF 20-pdr AT Gun Type A Barrel. GB75 AT7 
+* Finally, research the WS No. GB75 AT7  22 Radio. GB75 AT7 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Binocular Telescope, Spall Liner, Toolbox
+
+|History=
+AT-7 was one of the proposed designs in the process that emerged A39 Tortoise. GB75 AT7  It had a 6 pounder as a main weapon which was at the time considered sufficient. GB75 AT7  Basically, it was a re-worked version of the AT-6 design from May 1943, in which the developers decided to put a 6pdr gun in a sponson mount, with the addition of several machine guns in separate mini-turrets. GB75 AT7  Several variations of the designs was considered, one of which included additional 20 mm auto cannon in the left sponson. GB75 AT7 
+Final design draft emerged a vehicle that had a maximum armour thickness of 203 mm on the front, with and 100 mm on the sides and rear. GB75 AT7  Total mass of the vehicle was calculated to be around 43,5 metric tons. GB75 AT7  There was also project designated as AT-7A, slightly lighter vehicle with a proposed mass of 41,5 tons. GB75 AT7 
+
+
+|HistoricalGallery=
+image:Th AT-7. GB75 AT7 jpg{{!}}AT7 Technical Drawing
+
+|HistAcc=
+The AT 7's only intended main armament was the 6-pdr gun. GB75 AT7  All other main gun configurations are fake. GB75 AT7 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

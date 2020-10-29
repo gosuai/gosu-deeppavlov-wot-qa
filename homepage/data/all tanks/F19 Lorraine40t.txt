@@ -1,0 +1,62 @@
+{{TankData|Tank=Lorraine 40 t
+|The '''Lorraine 40t''' is a [[France|French]] Tier 8 premium medium tank. F19 Lorraine40t  Once it was a Tier 9 medium tank in the Batchat 25T line before [[Changelog: World of Tanks (PC) Patch 0. F19 Lorraine40t 9. F19 Lorraine40t 15. F19 Lorraine40t 1|patch 0. F19 Lorraine40t 9. F19 Lorraine40t 15. F19 Lorraine40t 1]], when it was replaced by the [[Bat. F19 Lorraine40t -Châtillon 25 t AP]]. F19 Lorraine40t  It was returned in patch 9. F19 Lorraine40t 17. F19 Lorraine40t 1 as it was visible in the vehicle comparison and later released in online store. F19 Lorraine40t  In its returned form, it has 1300 HP and carries a 4 round drum [[Automatic Loader|autoloader]]. F19 Lorraine40t  Also comes with a unique camouflage that changes in every map you play. F19 Lorraine40t 
+
+
+|InTheGame_pros=
+
+* 4-round autoloader wigh high burst damage
+* Excellent damage and penetration for a Tier 8 medium
+* Excellent speed and acceleration
+* Good gun depression and elevation for an autoloader
+* Despite its size, it has fairly good camouflage
+
+
+|InTheGame_cons=
+
+* No armor to speak of and average hitpoint pool
+* Poor hull traverse speed
+* Very large profile, can be difficult to hide
+* Gun handling and aim time are bad for a medium tank
+* Long magazine reload time
+
+
+|InTheGame_performance=
+<div class="thumb tright">{{VideoYT|Q2iII4tB5po|320}}</div>
+Even after it was returned as a tier 8 premium, compared to the other tier 8 mediums the Lorraine 40 t features the lowest armor values while being even bigger than the [[Panther II]]. F19 Lorraine40t  However, the ability to equip the devastating 100mm SA47 more than compensates for its unfortunate shape by being able to penetrate most Tier 8/9 Tanks. F19 Lorraine40t  Bear in mind however that reloading the 100mm SA47 magazine takes time, so its best to plan ahead and look for cover or a quick way out of enemy crossfire as even Low-Tier-Tanks can easily penetrate its armor. F19 Lorraine40t 
+
+Overall, the Lorraine 40 t is a destructive but vulnerable hit and run tank and excels in delivering fatal blows to preferably distracted enemies. F19 Lorraine40t  
+
+The Lorraine 40 t can be very useful as a practice tank for players that are interested in following the French light and heavy tank lines and are looking to gain some experience in playing these kinds of autoloading tanks. F19 Lorraine40t  It is also a good moneymaker thanks to the low ammo costs. F19 Lorraine40t 
+
+Avoid brawling with other medium tanks. F19 Lorraine40t  Your turret rotator is easily damaged which results jamming your turret and hits on your side under turret damage your ammorack. F19 Lorraine40t  Missing or bouncing a shot could mean you run out of ammo while fighting the enemy and you get quickly killed. F19 Lorraine40t  Don't try to scout in any circumstances like you did with [[AMX 13 90]]. F19 Lorraine40t  Use equipment to minimize your aiming time. F19 Lorraine40t 
+
+Just remember, support your team at the start of the battle and don't go solo, otherwise you'll end up in an early grave. F19 Lorraine40t  You can easily finish off wounded enemy tanks in endgame if you have hitpoints left. F19 Lorraine40t 
+
+|research=
+None needed
+
+|InTheGame_equipment= Vertical Stabilizer Mk 1 , Enhanced Gun Laying Drive, Improved Ventilation Class 2
+
+|External_Reviews= 
+{{#ev:youtube|BAcLFV-jPEM}}
+
+|History= 
+The success of German and Soviet heavy tanks, like [[Tiger II]] and [[IS-2]] (and also IS-3) excited French tank engineers and would literally not let them stay put. F19 Lorraine40t  They were inspired, as was expected, by German and Soviet heavy tanks. F19 Lorraine40t  The French engineers had developed several new tank models. F19 Lorraine40t  Of course, they were neither the biggest, nor the heaviest examples, but ended up being quite spectacular armored vehicles nevertheless. F19 Lorraine40t  It is likely that not only the glorious armor, but also firepower of the aforementioned steel monsters, being produced in Germany and USSR, became the source of the fixed idea of installing 100-mm (for starters) and then even 120-mm caliber guns. F19 Lorraine40t  However, almost all of the produced tank projects would either, for one reason or another, had stayed in production for an indefinite amount of time or be made in limited quantities. F19 Lorraine40t  As far as is known, almost all experimental machines used the German engine Maybach as a power source. F19 Lorraine40t  As sad as it might be, the largest part of the French tank forces in that period was issued with “Sherman”, M-26, M-24 and also “Panther” tanks. F19 Lorraine40t  Lorraine 40t had never left the testing phase, only two prototypes would be produced. F19 Lorraine40t  Actually, this combat vehicle was a lighter version of the AMH-50 heavy tank, but some interesting construction solutions would distinct it from the others. F19 Lorraine40t  Unlike it’s post-war predecessors (in this branch), the tower of this tank was installed inside of the front part of the body. F19 Lorraine40t  Also, the tank had another characteristic – “pike nose”, like IS-3. F19 Lorraine40t  It’s worth mentioning the rubber tires on the wheels of the running gear for added amortization. F19 Lorraine40t 
+
+|HistAcc=
+Since Lorraine 40t featured the rubber wheels, The feature of this vehicle that can still moving while the treads is broken is missing. F19 Lorraine40t 
+|HistoricalGallery=
+image:Lorraine_40t_Side_Front. F19 Lorraine40t jpg{{!}}Lorraine 40 t
+image:Lorraine_40t_Front. F19 Lorraine40t jpg{{!}}Lorraine 40 t
+image:Lorraine_40t_Side_Gun_Elevated. F19 Lorraine40t jpg{{!}}Lorraine 40 t
+image:Lorraine_40t_Being_Built. F19 Lorraine40t jpg{{!}}Lorraine 40 t
+
+
+
+
+|References
+
+|links=
+
+* [https://www. F19 Lorraine40t chars-francais. F19 Lorraine40t net/new/index. F19 Lorraine40t php?option=com_content&task=view&id=700&Itemid=36 '''<i>1952 Lorraine 40t at chars-francais. F19 Lorraine40t net</i>'''] Photos, specs, and brief history in French. F19 Lorraine40t 
+}}

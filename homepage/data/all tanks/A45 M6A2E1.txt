@@ -1,0 +1,318 @@
+{{TankData|Tank= M6A2E1
+|Originally available as part of the game's Heavy Pre-Order Package, it has reappeared for sale on the 1st of April, 2017, causing considerable controversy because of past promises that it would never be offered for sale. A45 M6A2E1  It is an [[M6]] hull with almost doubled front armor plus a prototype (weaker and larger) [[T29]] turret. A45 M6A2E1  Thanks to the rather strange looking fusion, this tank has earned the nickname of "mutant". A45 M6A2E1  
+ 
+The M6A2E1 has an imposing slab of armour on the front, measuring out to almost 240mm after including slope. A45 M6A2E1  Flanking this tank is a good idea since the side and rear armor are especially thin. A45 M6A2E1 
+
+The same 105mm gun as the T29 and [[T32]] is mounted on the M6A2E1 with a lower rate of fire. A45 M6A2E1  It has reasonable manoeuvrability for a heavy tank, but a speed cap of 29 km/h discourages major map travel. A45 M6A2E1 
+
+|InTheGame_pros=
+* Extremely good frontal armor, even premium ammo can have trouble with it
+* Great gun depression and good elevation
+* Powerful engine, accelerates and retains speed well
+* Preferential matchmaking, won't see Tier 10 battles
+* Tier bully, nigh unstoppable when played correctly
+
+
+|InTheGame_cons=
+* Very poor DPM and rate of fire
+* Subpar alpha damage and penetration for a heavy tank
+* Very thin side and rear armor
+* Slow, the top speed caps at a mere 29 km/h
+* Large, tall target with abysmal camouflage
+
+
+|InTheGame_performance=
+The playstyle of an M6A2E1 driver is to manoeuvre so that its weak sides are always covered by its frontal plate or hard cover then use that solid protection to smash down opponents with its decent 105mm gun. A45 M6A2E1  Through sheer armor thickness and difficult frontal weakspots this is brutal against lower tier tanks and challenging for equivalent tanks of its own tier. A45 M6A2E1  Against difficult opponents like T8-9 tank destroyers or T9 heavy/medium tanks with high penetration guns there isn't much chance of bouncing but the M6A2E1 still has a good health pool of 1500 to fight back with. A45 M6A2E1  Since both the upper and lower frontal plate sport the same nominal armour thickness of 191mm and similar angles, there is no need to go hulldown. A45 M6A2E1  In fact, deliberately showing your frontal hull is an advantageous strategy. A45 M6A2E1  The more shots you can bait into being fired at your hull instead of the commander's cupola, the better. A45 M6A2E1 
+
+The tank is at its worst if exposed to threats on more than one side. A45 M6A2E1  No tank enjoys being flanked but the M6A2E1 is a massive target which will take full HE shell damage from very ordinary guns on the rear and sides and that is uniquely bad among heavy tanks at any level. A45 M6A2E1 
+
+Strong tactics for this tank are nose-first corner peeking/shooting and leading pushes along roads or natural corridors where an enemy cannot easily bypass its strong front. A45 M6A2E1 
+
+Sidescraping is not valid for the M6A2E1, travelling across open ground is extremely dangerous and hiding in bushes requires more bushes than you can see through. A45 M6A2E1 
+
+Mobility is capped at 29kph which is easily reached except in rivers/swamp but the engine power shows its worth on hilly terrain where power/weight is more important. A45 M6A2E1  While not a map crosser it has good consistency in the speed it can reach. A45 M6A2E1  The speed limit does mean you need to consider that you are likely to be second or third to any distant choke points early in the game. A45 M6A2E1 
+
+|InTheGame_research= 
+None required, this is a premium tank
+
+|InTheGame_equipment= 
+Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|Gallery=
+image:M6A2E1_001. A45 M6A2E1 jpg{{!}}M6A2E1_001
+image:M6A2E1_002. A45 M6A2E1 jpg{{!}}M6A2E1_002
+image:M6A2E1_003. A45 M6A2E1 jpg{{!}}M6A2E1_003
+image:M6A2E1_004. A45 M6A2E1 jpg{{!}}M6A2E1_004
+
+|History=
+
+The Heavy Tank M6 had the worst fate of all mass produced heavy tanks of WWII. A45 M6A2E1  A decent vehicle with competitive characteristics became another victim of work dragging on too long. A45 M6A2E1  The tank was accepted into service, but only 40 vehicles in 3 modifications were produced, and none of them saw combat. A45 M6A2E1  By 1943, the M6 was obsolete and its road to the front lines was closed. A45 M6A2E1  However, a heavily modified version of the tank was soon once again in demand, and urgently. A45 M6A2E1  This is the modernization covered by this article. A45 M6A2E1 
+
+'''Urgent Measures'''
+
+The Americans got lucky in Normandy. A45 M6A2E1  Unlike what Hollywood movies, where American soldiers fight off hordes of Tigers, the Yankees didn't meet any in the summer of 1944. A45 M6A2E1  Most of the fighting of the "big cats" fell to the British, Canadians, and Poles, but that didn't make the Americans' lives that much easier. A45 M6A2E1 
+
+As unusual as it sounds, the British, whose main tank at the time was also the Sherman (mostly Sherman V and Sherman III) were much better prepared for fighting the Panthers and Tigers. A45 M6A2E1  By the start of the Normandy operation, the British had over 300 Sherman VC tanks, better known as the Firefly. A45 M6A2E1  Their 17-pounder (76 mm) guns could easily penetrate any German tank through the front. A45 M6A2E1  In addition to those, the British built Achilles tank destroyers, also equipped with 17-pounder guns, on the chassis of American M10 tank destroyers. A45 M6A2E1  In addition to all this, towed 17-pounder guns were available in ample quantities. A45 M6A2E1 
+
+As for the Americans, they had the aforementioned M10 GMCs, lighter M18 GMCs, and M4A1(76)W tanks that just started to appear in armoured units. A45 M6A2E1  All these vehicles had 76 mm guns with the ballistics of the 3 inch M1917 AA gun. A45 M6A2E1  These guns were more powerful than 75 mm M3 guns on regular Shermans, but they weren't perfect for fighting new German tanks. A45 M6A2E1  Recall Belton Cooper's memoirs "Death Traps" which describes what an American tank officer thought of the tanks in which his comrades fought and died. A45 M6A2E1  Of course, this book distorts reality, like all memoirs, but the general theme is correct. A45 M6A2E1  Even the Panther was a serious problem for American tanks. A45 M6A2E1  The only vehicle in the American arsenal that could deal reliably with either Tigers or Panthers was the M36, which used a 90 mm gun, but they were in short supply. A45 M6A2E1 
+
+Meanwhile, on July 18th, 1944, the British met a new threat. A45 M6A2E1  Near Cagny, tankers from the Irish Guards encountered the newest German Tiger II tank from the 503rd Heavy Tank Battalion. A45 M6A2E1  John Gorman's tank rammed the German tank in the side and managed to disable it with a good shot. A45 M6A2E1  The ferocity of the battle can be seen from the fact that the Guards had 15 tanks burned and 45 were disabled. A45 M6A2E1 
+
+
+Information about new German tanks immediately became known to Allied command. A45 M6A2E1  The British were ready for the Tiger II. A45 M6A2E1  The 17-pounder could penetrate the King Tiger in the front, although from a smaller distance than a regular Tiger or a Panther. A45 M6A2E1  For the Americans, the new tank was a huge problem. A45 M6A2E1  There was nothing they could use to penetrate its front. A45 M6A2E1  Even the 90 mm AA gun that could be used as an anti-tank weapon was not enough. A45 M6A2E1  It's no wonder that, immediately after receiving this information, General Eisenhower requested a new tank, preferably a heavy one, with a gun that could deal with this new threat. A45 M6A2E1 
+
+A gun to fight the Tiger II was quickly found. A45 M6A2E1  This was the 105 mm T5E1 tank gun which was being developed for the T28 tank destroyer. A45 M6A2E1  From 917 meters, its T32 shell could penetrate 135 mm of armour at an angle of 30 degrees. A45 M6A2E1  This gun could confidently penetrate a Tiger II from the front from a few hundred meters. A45 M6A2E1  There was one small problem: finding a tank for this gun. A45 M6A2E1  The T28 was not an option, as the drafts were not yet completed. A45 M6A2E1  The obvious choice was the M6. A45 M6A2E1  These forgotten tanks were once again in demand. A45 M6A2E1 
+
+
+'''Victim of its Own Chassis'''
+
+On July 28th, 1944, a little more than a week after the battle at Cagny, General Electric proposed a design project for the conversion of the M6 Heavy Tank to accept a larger gun. A45 M6A2E1  The initial concept was significantly different from what was built in metal. A45 M6A2E1  This mostly applies to the turret, which initially resembled a modified T25 medium tank turret. A45 M6A2E1  The turret received a larger bustle which also served as a counterweight. A45 M6A2E1  The 105 mm T5E1 gun required a 2032 mm wide turret ring. A45 M6A2E1 
+
+
+It was not enough to modernize the turret and install a bigger gun. A45 M6A2E1  The hull was also seriously altered. A45 M6A2E1  The Bureau of Ordnance was full of realists who realized that the size of the M6 made it a good target and that 80 mm of front armour was not enough. A45 M6A2E1 
+
+To solve this problem, the hull machinegun and driver's observation port were removed. A45 M6A2E1  An additional armoured plate was planned, which would bring up the tank's total armour to 182 mm. A45 M6A2E1  The driver's visibility drastically decreased, but tankers would certainly be willing to deal with that limitation for such armour. A45 M6A2E1  The side observation devices were also removed. A45 M6A2E1 
+
+
+On July 31st, Major General Gladeon M. A45 M6A2E1  Barnes, the head of the technical department at the Bureau of Ordnance, sanctioned the transfer of work on modernization of the M6 Heavy Tank to General Electric. A45 M6A2E1  The project due date was "ASAP". A45 M6A2E1  On the next day, the tank received an index: M6A2E1. A45 M6A2E1  The choice was simple: the M6A2, also known as T1E1, was the most common of the M6 Heavy Tank family. A45 M6A2E1  In total, 20 of these tanks were built. A45 M6A2E1  A conversion of 15 tanks was planned, with the rest serving as spare parts. A45 M6A2E1  Wellman Engineering Company was chosen as a contractor for the turrets. A45 M6A2E1  15 turrets in total would be built. A45 M6A2E1 
+
+
+August 1st was a difficult day for Major General Barnes. A45 M6A2E1  Even though the due date was "ASAP", 60 days were allotted for this project. A45 M6A2E1  Even a simple inspection of the tanks that would be converted extended that time to 90 days, which included the conversion of 10 tanks. A45 M6A2E1  On that day, a subcontractor for the turrets was chosen, Continental Foundry & Machine Company in Chicago. A45 M6A2E1  Barnes' next day was also a rough one. A45 M6A2E1  Front-line general Lucius Clay spoke out against converting the M6 Heavy Tank. A45 M6A2E1  It is very likely that Eisenhower listened to Clay's comments. A45 M6A2E1  They definitely had an effect on the further development of the situation. A45 M6A2E1 
+
+
+Work on the M6A2E1 continued. A45 M6A2E1  On August 5th, General Electric demonstrated a slightly modified draft. A45 M6A2E1  Some of its characteristics caused a disturbance. A45 M6A2E1  For instance, calculations showed that the weight of the enlarged turret, new gun, and additional armour would push the mass from 57 tons (M6A2) to 77 tons. A45 M6A2E1 
+
+The Bureau of Ordnance was eager to accelerate work on the M6A2E1, but Barnes first mentioned new T29 and T30 Heavy Tank projects on August 14th. A45 M6A2E1  The general had some experience in tank design and knew that an increase of 20 tons would have a significant effect on the tank's agility. A45 M6A2E1  Nevertheless, work continued, and General Electric actively collected subcontractors in the middle of August. A45 M6A2E1 
+
+
+Both M6A2E1 prototypes lost their hull machineguns, but did not receive additional armour. A45 M6A2E1 
+
+Suddenly, a letter came from London on August 18th, 1944, bearing Eisenhower's signature. A45 M6A2E1  This letter cancelled the order for 15 M6A2E1 tanks. A45 M6A2E1  This didn't happen without Clay's influence, but it's hard to say that he was wrong. A45 M6A2E1  When an M6A2 tank was loaded to 77 tons at Aberdeen, it could not climb up a 40% grade (about 22 degrees). A45 M6A2E1  Considering that while even relatively flat Normandy had plenty of hills, the Ardennes and their much more severe terrain came right after, Clay's caution was understandable. A45 M6A2E1  On August 22nd, 1944, the M6A2 conversion program was permanently shut down. A45 M6A2E1 
+
+'''Test Bench'''
+
+The closure of the program did not mean that the M6A2E1 wouldn't be built at all. A45 M6A2E1  Barnes mentioned the T29 and T30 tanks. A45 M6A2E1  To speed up work, it was decided on August 22nd, 1944, to continue the modernization program, but limit it to two tanks. A45 M6A2E1  On December 16th, Continental Foundry & Machine Company received an order for two turrets to be installed on tanks and one to be used for gunnery trials. A45 M6A2E1 
+
+
+By then, work on the T29 began, which reflected on the M6A2E1's turret design. A45 M6A2E1  As mentioned above, the turret was initially an evolution of the Medium Tank T25 design. A45 M6A2E1  In the fall of 1944, it changed radically. A45 M6A2E1 
+
+First, due to its excessive mass, the sides were thinned out to 100 mm. A45 M6A2E1  Later, the overall design changed, making the roof welded. A45 M6A2E1  In February of 1945, that design was discarded. A45 M6A2E1  The tank got a new 4-man turret, as the round was separated into two pieces. A45 M6A2E1  This changed the layout of the turret and increased its size. A45 M6A2E1  In May of 1945, the turrets were finally made by Continental Foundry & Machine Company, having nothing in common with the original proposal. A45 M6A2E1 
+
+
+Rumours about the installation of a T29 tank's turret on the M6A2E1 chassis in May of 1945 have no basis in reality. A45 M6A2E1  The installed turrets were planned for the M6A2E1 all along. A45 M6A2E1  The T29 Heavy Tank received a completely new turret, even though it was an evolution of this design. A45 M6A2E1 
+
+According to documents, the tanks started their first trials in May of 1945. A45 M6A2E1  These tanks differed from the initial design not only in the turret, but in the hull. A45 M6A2E1  Since they would never see combat, the extra armour was not installed. A45 M6A2E1  The driver's observation device remained, but the hull machinegun was removed. A45 M6A2E1  Nevertheless, the tank's mass still grew to almost 70 tons. A45 M6A2E1  Even though initially the T5E1 was not meant to have a muzzle brake, trials showed that one was necessary. A45 M6A2E1 
+
+
+Trials continued in June. A45 M6A2E1  On June 7th, the first prototype arrived at Aberdeen for mobility trials. A45 M6A2E1  The second prototype was used to test the gun and ammunition. A45 M6A2E1  As for the turret, it started trials in May of 1945. A45 M6A2E1  In documents, it was called T29 (M6A2E1) Cast Turret, which likely confused several researchers. A45 M6A2E1 
+
+Turret #2 was fired at with machineguns, with interesting results. A45 M6A2E1  It turned out that there were cases of bullets ricocheting off the front of the turret, then the gun mantlet, and ended up inside the turret. A45 M6A2E1  The gun mantlet needed changes, which were implemented on the Heavy Tank T29. A45 M6A2E1 
+
+The side of the turret was shot at with the 90 mm M3 gun. A45 M6A2E1  Cracks were discovered near the nonpenetrating hits, and one penetration was recorded. A45 M6A2E1  Firing at the gun mantlet also caused cracks, but no penetration. A45 M6A2E1  The mantlet was also fired at with the 105 mm T8 gun, also with no penetration. A45 M6A2E1  The final stage of the trials was fire from the 155 mm M1 Long Tom gun with the M112 AP shell. A45 M6A2E1 
+
+The gunnery trials that the second prototype participated in were the most important ones. A45 M6A2E1  Their results introduced some changes into the T5E1. A45 M6A2E1  For instance, the recoil mechanism was changed, and a muzzle brake was added. A45 M6A2E1  In August of 1945, the idea of installing a 155 mm gun from the T30 tank into the M6A2E1 surfaced, but never reached the practical stage. A45 M6A2E1 
+
+Both vehicles took part in various trials until 1946. A45 M6A2E1  After trials were finished, the first M6A2E1 prototype was sent to the Aberdeen tank museum. A45 M6A2E1  Sadly, in the early 1950s, it was scrapped along with many other tanks and SPGs. A45 M6A2E1  The second vehicle suffered the same fate. A45 M6A2E1 
+
+<table  style="border: 1px solid;text-align:center;">
+<caption>American Heavy tank comparision</caption>
+<tr style="vertical-align:top; border-bottom:1px solid #999;">
+<th></th>
+	<th style="text-align:center;">Mk. A45 M6A2E1 VII</th>
+	<th style="text-align:center;">[[M6]]</th>
+	<th style="text-align:center;">T28</th>
+	<th style="text-align:center;">[[T29]]</th>
+	<th style="text-align:center;">[[T30]]</th>
+	<th style="text-align:center;">[[T32]]</th>
+	<th style="text-align:center;">[[T34]]</th>
+	<th style="text-align:center;">M103A2</th>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Crew</th>
+	<td>8</td>
+	<td>6</td>
+	<td>4</td>
+	<td>6</td>
+	<td>6</td>
+	<td>5</td>
+	<td>6</td>
+	<td>5</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Lenght</th>
+	<td>10,43m</td>
+	<td>8,43m</td>
+	<td>11,12m</td>
+	<td>11,56m</td>
+	<td>10,9m</td>
+	<td>10,83m</td>
+	<td>11,77m</td>
+	<td>11,23m</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Width</th>
+	<td>3,66m</td>
+	<td>3,12m</td>
+	<td>4,54m</td>
+	<td>3,8m</td>
+	<td>3,8m</td>
+	<td>3,76m</td>
+	<td>3,8m</td>
+	<td>3,63m</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Height</th>
+	<td>3,12m</td>
+	<td>3,00m</td>
+	<td>2,86m</td>
+	<td>3,22m</td>
+	<td>3,22m</td>
+	<td>2,81m</td>
+	<td>3,22m</td>
+	<td>3,56m</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Weight</th>
+	<td>39,5t</td>
+	<td>57,4t</td>
+	<td>86,3t</td>
+	<td>64,25t</td>
+	<td>64,74t</td>
+	<td>54,5t</td>
+	<td>65,2t</td>
+	<td>58,1t</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Engine<br />power</th>
+	<td>Liberty<br />338hp</td>
+	<td>G-200<br />960hp</td>
+	<td>GAF<br />500hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>AV1790<br />750hp</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Max. A45 M6A2E1  speed</th>
+	<td>8,8km/h</td>
+	<td>35km/h</td>
+	<td>12,8km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>37km/h</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">hull armour<br />(angle)</th>
+	<td>12mm<br />(28)</td>
+	<td>83mm<br />(30)</td>
+	<td>305mm</td>
+	<td>102mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(60)</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">side armour</th>
+	<td>12mm</td>
+	<td>70mm</td>
+	<td>152mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>51mm</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Turret armour<br />(mantlet)</th>
+	<td>16mm</td>
+	<td>83mm<br />(102mm)</td>
+	<td>-</td>
+	<td>178mm<br />(279mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>298mm<br />(298mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>127mm<br />(254mm)</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">top armour</th>
+	<td>6-10mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">bottom armour</th>
+	<td>6-8mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Gun</th>
+	<td>2x57mm<br />Hotchkiss</td>
+	<td>75mm M7<br />37mm MB</td>
+	<td>105mm<br />T5E1</td>
+	<td>105mm<br />T5E2</td>
+	<td>155mm<br />T7</td>
+	<td>90mm<br />T15E2</td>
+	<td>120mm<br />T53</td>
+	<td>120mm<br />M58</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Secondary<br />armament</th>
+	<td>5x7,62mm<br />Hotchkiss</td>
+	<td>2x12,7mm <br />HB M2<br />2x7,62mm<br />M1919A4</td>
+	<td>12,7mm<br />HB M2</td>
+	<td>3x12,7mm<br />HB M2<br />7. A45 M6A2E1 62mm<br />M1919M4</td>
+	<td>2x12,7mm<br />HB M2<br />7. A45 M6A2E1 62mm<br />M1919M4</td>
+	<td>12,7mm<br />HB M2<br />2x7. A45 M6A2E1 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A45 M6A2E1 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A45 M6A2E1 62mm<br />M37</td>
+</tr>
+</table>
+
+|HistoricalGallery=
+image:M6a2e1. A45 M6A2E1 jpg{{!}}The M6A2E1 on the testing grounds
+image:M6a2e1_at_Aberdeen. A45 M6A2E1 jpg‎{{!}}The M6A2E1 at the Aberdeen Proving Ground on the 7th of June, 1945
+image:M6a2e1_technical_drawing. A45 M6A2E1 gif{{!}}The M6A2E1 Techincal Drawings
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* R. A45 M6A2E1 P. A45 M6A2E1  Hunnicutt - Firepower: A History of the American Heavy Tank, 1988 Presidio Press, ISBN 0-89141-304-9. A45 M6A2E1 
+
+|Ref_links=
+* [[https://144. A45 M6A2E1 99. A45 M6A2E1 215. A45 M6A2E1 51/Data/tmp/objYAsFmXks3WgmXh9DXXTYBjpHeRrj0haAjKjNNoay0Y1iso5JszHagfShMQKsVJj4XREOI5sQL_qsXStG2CUErY_v1UHPLw. A45 M6A2E1 pdf M6 / M6A1 technical manual]]
+* [[https://en. A45 M6A2E1 wikipedia. A45 M6A2E1 org/wiki/M6_heavy_tank Wikipedia]]
+* [[https://www. A45 M6A2E1 wwiivehicles. A45 M6A2E1 com/usa/self-propelled-guns/m12. A45 M6A2E1 asp WWII vehicles]]
+* https://tankarchives. A45 M6A2E1 blogspot. A45 M6A2E1 com/2016/03/m6a2e1-heavy-clownshoe. A45 M6A2E1 html
+* https://warspot. A45 M6A2E1 ru/5355-tyazhyolyy-golovastik
+
+
+|Sidebar_Camostop=1. A45 M6A2E1 1
+|Sidebar_Camomove=0. A45 M6A2E1 5
+|Sidebar_Camofire=0. A45 M6A2E1 2
+|Sidebar_Passhard=1. A45 M6A2E1 093
+|Sidebar_Passmed=1. A45 M6A2E1 429
+|Sidebar_Passsoft=2. A45 M6A2E1 742
+|Sidebar_DispTurret=0. A45 M6A2E1 173
+|Sidebar_DispRecoil=3. A45 M6A2E1 836
+|Sidebar_DispAccel=0. A45 M6A2E1 211
+|Sidebar_DispTurning=0. A45 M6A2E1 211
+}}
+
+[[Category:USA Tanks]]

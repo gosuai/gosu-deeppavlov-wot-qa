@@ -1,0 +1,95 @@
+{{TankData|Tank=
+| The '''Type 91 Heavy''' is the lowest tier Heavy tank in the game and also the earliest heavy tank in Japanese Heavy line. J21 Type 91  But, Do not let its '''"Heavy"''' class trick you - its '''"Heavy Armor"''' is extremely thin (Even some tier 1 tanks have better armor thickness than this tank!). J21 Type 91  It's also large and slow, which makes it very vulnerable to enemy fire. J21 Type 91  However, this tank offers derp gun that is powerful enough to one or two shot any tank in the same tier (assuming you can hit or penetrate) and a top gun which has monstrous penetration and DPM for its tier. J21 Type 91 
+|Gallery=
+
+File:Type 91 Heavy scr 1. J21 Type 91 jpg
+File:Type 91 Heavy scr 2. J21 Type 91 jpg
+File:Type 91 Heavy scr 3. J21 Type 91 jpg
+
+
+|InTheGame_pros= 
+- Stock gun's HE rounds offer more penetration than AP rounds, yet they deal enough damage to two-shot any tank in the same tier. J21 Type 91 
+
+- Very powerful top gun, combining good damage, penetration and rate of fire
+
+- Fairly small turret with good gun depression
+
+- Tied with British Medium MK. J21 Type 91 III for second highest HP pools in Tier 3 (280)
+
+- Very fast grinding; It doesn't need new treads to equip heavier equipment expect top gun, and only has one avaliable turret. J21 Type 91  You can just spam HE on enemy and get past this tank in no time. J21 Type 91 
+
+|InTheGame_cons= 
+- Despite being classified as '''Heavy Tank''', its armor is weaker than some of tier 1 LT. J21 Type 91  Even HE rounds from your own stock gun would penetrate for full damage. J21 Type 91 
+
+- Hull surfaces are mostly flat so don't expect to bounce anything. J21 Type 91 
+
+- Very slow; very large; very poor view range. J21 Type 91 
+
+- Awful accuracy on both guns
+
+- Front machine gun turrets limit forward gun depression
+
+- Top gun had fairly expensive research cost, is too heavy for stock tracks and is not used on the next tier up. J21 Type 91  However, it is shared with other low-tier Japanese tanks and can be unlocked by them. J21 Type 91 
+
+- Very weak ammo rack gets blown up often; factoring in generally poor gun handling makes this a disaster. J21 Type 91 
+
+|InTheGame_performance=
+The Type 91 has a reputation for being one of the worst tanks in the game, and will do everything possible to live up to this reputation. J21 Type 91  The stock gun is horrific, struggling to penetrate other heavy tanks (except other Type 91s), with poor accuracy and a reload time which will feel like an eternity. J21 Type 91  Use of HE ammo is recommended as it actually has higher penetration than the standard AP round; even if it fails to pen it may gift you a small amount of damage as consolation. J21 Type 91  HEAT rounds offer vastly improved penetration and these should be considered mandatory for players looking to deal damage using the stock gun; bear in mind that this can be very expensive, especially for a low tier tank, as you may need to use quite a few. J21 Type 91 
+
+Think of the Type 91 as a medium tank with a high hitpool and lower speed. J21 Type 91  You will need that hitpool because you are an artillery player's dream, and using the stock gun, you are simply a mobile XP booster for enemy heavies. J21 Type 91  Do not ever rely on your armour even when angled: a piece of paper held at a diagonal angle is still a piece of paper. J21 Type 91  Do not under any circumstances engage tanks with autoloaders such as the Panzer I C or the Cruisers III and IV. J21 Type 91 
+
+Things improve markedly for those who persevere to the second gun. J21 Type 91  It is very good at taking out same and lower tier targets and in higher tier battles can even scratch tier 5's. J21 Type 91  Bear in mind that if you mount equipment, your stock tracks simply cannot bear the weight of the second gun, so bear this in mind if you decide to use free XP for the gun. J21 Type 91 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Type 91 heavy tank was an experimental multi-turreted tank built in 1931. J21 Type 91  This tanks was designed to be an improvement from the Experimental Tank 1 (試製一号戦車). J21 Type 91  The tank had three turrets - the primary turret had a Type 90 57mm cannon and a 6. J21 Type 91 5mm machine gun in the back of the turret, while the front and rear secondary turrets were armed with 6. J21 Type 91 5mm machine guns, though other sources indicate that these were 7. J21 Type 91 7mm machine guns. J21 Type 91  The 57mm gun was eventually replaced by the Type 94 70mm gun. J21 Type 91  The tank had 5 crew members - 1 gunner for each turret, a commander, and a driver. J21 Type 91 
+
+
+Despite being a heavy tank, the Type 91 had rather thin armor - only 20mm at the most. J21 Type 91  This was thought to be sufficient protection at 50 meters from the 37mm weapons of the period, such as the French SA18. J21 Type 91 
+
+The tank had a complicated parallelogram suspension of with two pairs of road wheels per leaf-sprung bogie. J21 Type 91  There were 17 road wheels per side, giving it a total of 34 road wheels. J21 Type 91  It shared this type of suspension with the Experimental Tank 1. J21 Type 91  The engine was a BMW 6-cylinder gasoline engine with 224 horsepower, an improvement over the Experimental Tank 1's Mitsubishi 8-cylinder gasoline engine with 140 horsepower. J21 Type 91  This gave the Type 91 a top speed of 25 kph, compared to 20 kph of its predecessor. J21 Type 91 
+
+The Type 91 had a length of 6. J21 Type 91 30 meters, a width of 2. J21 Type 91 47 meters, and a height of 2. J21 Type 91 57 meters. J21 Type 91  Its total weight was 18. J21 Type 91 0 tons, giving it a power-to-weight ratio of 12. J21 Type 91 44 horsepower/tons. J21 Type 91 
+
+The Type 91 passed its trials and fulfilled the requirements of its design, but was not accepted for production. J21 Type 91  This was due to the Japanese Army's decision to build more light tanks as opposed to fewer heavy tanks. J21 Type 91  The work done on the Type 91 was later incorporated into the Type 95 heavy tank. J21 Type 91 
+
+The last known photograph of the Type 91 indicates that, after being rejected for production, it ended up in a scrapyard where it remained until after World War II, when it was found by Americans. J21 Type 91 
+
+|HistoricalGallery= 
+File:Experimental Type 91 Heavy Tank 01. J21 Type 91 jpg{{!}}Experimental Type 91 Heavy Tank
+File:Type_91_heavy. J21 Type 91 jpg{{!}}Type 91 Heavy Tank during trials
+File:Type_91_tank_photographed_in_1945. J21 Type 91 jpg{{!}}Type 91 Heavy Tank photographed in 1945 by Americans after World War II. J21 Type 91 
+File:Type_91_Heavy_Tank_with_stroboscope. J21 Type 91 jpg{{!}}Type 91 Heavy Tank with a stroboscope placed between the cupola and rear machine gun. J21 Type 91 
+
+|HistAcc=
+* The Type 91 is missing the 57mm Type 90, which the vehicle originally had before it was replaced with the Type 94 70mm. J21 Type 91  It never had the the 47mm gun, which was developed after the project was cancelled. J21 Type 91 
+* The Type 91's weight was historically 18 tons. J21 Type 91  However, it weighs 20 tons in World of Tanks. J21 Type 91 
+
+|Ref_references=
+
+|Ref_sources=
+*「パンツァー2013年8月号　帝国陸軍の戦車武装 戦車砲と車載機銃(上)」　高橋昇　著　　アルゴノート社
+*「パンツァー2006年7月号　各国多砲塔戦車の歴史 日本編」　柘植優介　著　　アルゴノート社
+*「パンツァー2005年12月号　国産試製一号戦車」　高橋昇　著　　アルゴノート社
+*「日本の戦車 1927～1945」　　アルゴノート社
+*「日本の戦車と装甲車輌」　　アルゴノート社
+*「グランドパワー2002年7月号　ソ連軍多砲塔戦車 T-28／T-35 (1)」　古是三春　著　　デルタ出版
+*「グランドパワー2001年2月号　日本軍機甲部隊の編成・装備(1)」　敷浪迪　著　　デルタ出版
+*「帝国陸海軍の戦闘用車両」　　デルタ出版
+*「世界の戦車 1915～1945」　ピーター・チェンバレン／クリス・エリス　共著　　大日本絵画
+*「日本軍戦闘車両大全　装軌および装甲車両のすべて」　　大日本絵画
+*「日本陸軍の戦車　完全国産による鉄獅子、その栄光の開発史」　　カマド
+*「日本の戦車と軍用車両」　高橋昇　著　　文林堂
+
+|Ref_links=
+* https://www. J21 Type 91 tanks-encyclopedia. J21 Type 91 com/ww2/jap/type-91-type-95-heavy. J21 Type 91 php
+* https://combat1. J21 Type 91 sakura. J21 Type 91 ne. J21 Type 91 jp/91SHIKI. J21 Type 91 htm
+
+}}

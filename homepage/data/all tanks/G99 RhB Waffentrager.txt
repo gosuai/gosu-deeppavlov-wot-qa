@@ -1,0 +1,66 @@
+{{TankData|Tank=RhB_Waffentrager
+|The Rheinmetall-Borsig Waffenträger, nicknamed "the roomba", is the first of the Waffenträger (Support Weapon) class tank destroyers available to the player. G99 RhB Waffentrager  It has exceptionally good camouflage value in its tier. G99 RhB Waffentrager  Unlike most tank destroyers, its gun is mounted on a turret, making it quite versatile on the battlefield. G99 RhB Waffentrager  Its first gun, 128 mm gun, has high penetration, accuracy, and rate of fire, whereas the 15 cm gun sports higher damage at the cost of lower penetration, accuracy, and rate of fire. G99 RhB Waffentrager  To balance, the Rheinmetall-Borsig has absolutely no armor -- even less than its predecessors -- and is somewhat sluggish like the [[Tank:Sturer Emil|Sturer Emil]]. G99 RhB Waffentrager  Like its predecessors, it performs best taking a position behind the front line to deliver supporting fire to enemy tanks being fought by teammates up front. G99 RhB Waffentrager 
+ 
+|Gallery=
+
+File:Rhm. G99 RhB Waffentrager -Borsig Waffenträger scr 1. G99 RhB Waffentrager jpg
+File:Rhm. G99 RhB Waffentrager -Borsig Waffenträger scr 2. G99 RhB Waffentrager jpg{{!}}15 cm Pak L/29. G99 RhB Waffentrager 5
+File:Rhm. G99 RhB Waffentrager -Borsig Waffenträger scr 3. G99 RhB Waffentrager jpg{{!}}12,8 cm Kanone 44 L/55
+File:Rhm. G99 RhB Waffentrager -Borsig Waffenträger scr 4. G99 RhB Waffentrager jpg
+
+
+|InTheGame_pros=
+* Very good accuracy, damage, aiming time, RoF and great DPM with the 128mm, no stock grind
+* Very low profile and amazingly excellent camouflage values, you can disappear in battlefield with right crew skills and equiptment
+* Has a full 360° arc of fire
+* Tracks occasionally eat shots from higher tiers (rare, but it can happen)
+
+
+|InTheGame_cons=
+* Armor won't even protect against HE rounds from Tier 1 tanks, no need to crash, you touch other tank you receive damage
+* Limited gun elevation and depression values 
+* Engine frequently gets knocked out by hits to the front of the hull, usually combined with a broken track
+* The view range is somewhat poor, so binoculars are required if the Rhm. G99 RhB Waffentrager  Borsig wants to spot its own targets
+* Hull is quite wide and light weight makes it very vulnerable from ramming
+* Low profile means you need get higher place to get better sniping position
+
+|InTheGame_performance=
+With the 12,8 cm this tank destroyer is a long-range sniper and, because of your armor and less than stellar mobility, you want to keep it at long range because once you are spotted, you are dead. G99 RhB Waffentrager  Before 9. G99 RhB Waffentrager 2 this tank had the best DPM of all German tier VIII TD's and even after the nerf that came with that update it still has that position (although the RoF was reduced to 5,22) so if you keep at range your amazing damage and penetration will soon destroy the competition. G99 RhB Waffentrager 
+
+With the 15 cm your playstyle changes to a short-range brawler/ambusher, taking pot-shots at the enemy at ranges where they will be able to see you and you will have to aim for weakspots in the enemy armor because of your lower penetration. G99 RhB Waffentrager  However you get increased damage per shell as compensation for the loss of accuracy, penetration and RoF. G99 RhB Waffentrager  If you choose this option have a stronger tank draw fire while you try to get a shot at their weaker armor. G99 RhB Waffentrager 
+
+It is worth noting that the Rhm. G99 RhB Waffentrager -Borsig Waffentrager is susceptible to fires. G99 RhB Waffentrager  Shots to the rear of the tank will most likely damage the fuel tanks or ignite them straight away. G99 RhB Waffentrager  Also because of the low HP pool of the engine, it is not uncommon to be set on fire from frontal engine shots. G99 RhB Waffentrager  For this reason it may be worth taking a premium AUTOMATIC fire extinguisher, as opposed to the regular manual one. G99 RhB Waffentrager  The other method to counter this is to stay hidden. G99 RhB Waffentrager 
+
+|InTheGame_equipment= GLD, Binocular Telescope, Camouflage Net, Large-Caliber Tank Gun Rammer
+
+
+|History=
+Developed by the Rheinmetall-Borsig company and designed as a special artillery carrier. G99 RhB Waffentrager  The vehicle was designed to carry an artillery system as well as to fire from the chassis. G99 RhB Waffentrager  The vehicle utilized the suspension of the Hetzer tank destroyer. G99 RhB Waffentrager  Development continued from the end of 1942 through the middle of 1944. G99 RhB Waffentrager  However, the project was discontinued in favor of the Ardelt project because of a complicated design, high cost, and excessive weight. G99 RhB Waffentrager 
+
+|HistoricalGallery= 
+image:Rheinmetall 1. G99 RhB Waffentrager jpg{{!}}with 15 cm Pak L/29. G99 RhB Waffentrager 5
+image:Rheinmetall 2. G99 RhB Waffentrager jpg{{!}}with 12,8 cm Kanone 44 L/55
+
+|Ref_references= N/A
+
+
+|Ref_sources=
+
+|External_Reviews= 
+
+|Ref_links=
+* https://ftr-wot. G99 RhB Waffentrager blogspot. G99 RhB Waffentrager cz/2013/03/devil-wears-praga-38t-praga-td-proposal. G99 RhB Waffentrager html
+* https://ftr. G99 RhB Waffentrager wot-news. G99 RhB Waffentrager com/2013/09/06/how-historical-is-the-upcoming-8-9-line/
+
+|Sidebar_GunAlt= 12. G99 RhB Waffentrager 8cm T5E1 Kanone 44 L/55
+|Sidebar_Camostop=22. G99 RhB Waffentrager 56
+|Sidebar_Camomove=13. G99 RhB Waffentrager 54
+|Sidebar_Camofire=4. G99 RhB Waffentrager 58
+|Sidebar_Passhard=0. G99 RhB Waffentrager 863
+|Sidebar_Passmed=1. G99 RhB Waffentrager 055
+|Sidebar_Passsoft=2. G99 RhB Waffentrager 014
+|Sidebar_DispTurret=0. G99 RhB Waffentrager 115
+|Sidebar_DispRecoil=3. G99 RhB Waffentrager 836
+|Sidebar_DispAccel=0. G99 RhB Waffentrager 211
+|Sidebar_DispTurning=0. G99 RhB Waffentrager 211
+}}

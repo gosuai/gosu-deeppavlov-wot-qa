@@ -1,0 +1,64 @@
+{{TankData|Tank= 
+
+
+
+
+
+|InTheGame_pros= 
+* Access to "rapid mode" - gains improved top and reverse speed at the cost of steering
+* Good penetration, shell velocity and gun handling
+* Good HE penetration, ideal to counter enemy light tanks and artillery, or hit sides/rear of heavier targets
+* Good gun depression and very fast turret traverse speed
+* Very good camouflage values, also a fairly small target
+
+
+|InTheGame_cons= 
+* Virtually unarmored with a very low hitpoint pool, poor survivability
+* Pathetic viewrange, even when fully boosted it does not reach 400 metres
+* Loses a lot of speed if the wheels get damaged
+* Weak fuel tanks, high risk of being set on fire
+
+
+|InTheGame_performance= 
+
+|InTheGame_research=
+* The top radio carries over from the Hotchkiss EBR and should be installed immediately
+* Research the suspensions for a much needed steering improvement
+* Research the engines
+* Research the top 90mm gun
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|kB8z6gyByxk}}
+
+|History= 
+
+The Panhard AML (Auto Mitrailleuse Légère, or "Light Machine Gun Car") is a fast, long-ranged, and relatively cheap armoured car with excellent reconnaissance capability. F110 Lynx 6x6  Designed on a small, lightly armoured 4×4 chassis, it weighs an estimated 5. F110 Lynx 6x6 5 tonnes—much lighter than a tank—and is therefore more suited to rapid airborne deployments. F110 Lynx 6x6  Since 1959 AMLs have been marketed on up to five continents; several variants remained in continuous production for half a century. F110 Lynx 6x6  These have been operated by fifty-four national governments and other entities worldwide, seeing regular combat. F110 Lynx 6x6 
+|HistAcc=
+Panhard AML 6x6 is fictional vehicle. F110 Lynx 6x6  The six-wheeled successor to the AML was the Panhard ERC (''Engin à Roues, Canon''/Wheeled Vehicle, Cannon) series. F110 Lynx 6x6   The "Panhard AML Lynx 6x6" very closely resembles one version of this vehicle, the ERC 90 F1 Lynx. F110 Lynx 6x6 
+
+*One of guns: 60mm breech-loading Brandt mortar, missing
+*75mm gun is incorrect
+*only 90mm D. F110 Lynx 6x6 921 gun is correct. F110 Lynx 6x6 
+*this vehicle in real life had only two axles
+*this vehicle was powered by Panhard flat 4-cylinder engine with 90 horsepower, but however, this engine is missing. F110 Lynx 6x6 
+*top speed of AML was only 60 kph
+*ammo capacity was 20 rounds for 90 mm cannon, and 60 rounds for mortar, but mortar is missing
+*90 mm cannon F3 is same, like gun monuted on [[ARL 44]], [[tank:F07_AMX_M4_1945|AMX M4 mle. F110 Lynx 6x6 45]], but penetration is not consistent
+
+|HistoricalGallery= 
+File:Panhard ERC 90 Lynx Mexican 2010. F110 Lynx 6x6 png{{!}}Panhard ERC 90 Lynx Mexican 2010 (Image from tanks-encyclopedia. F110 Lynx 6x6 com)
+File:Argentine Marines Panhard ERC 90 Lynx. F110 Lynx 6x6 jpg{{!}}Argentine Marines Panhard ERC 90 Lynx (Image from tanks-encyclopedia. F110 Lynx 6x6 com)
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

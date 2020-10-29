@@ -1,0 +1,75 @@
+{{TankData|Tank=VK3002DB
+|Compared to its [[Tank:VK3002DB_V1|predecessor]], this tank plays like a true medium, with armour and health to brawl, but less maneuverability. G24 VK3002DB  You will want to take advantage of the armour by positioning yourself in such a way that shells will bounce off you. G24 VK3002DB  Even with the weight of the armour, the mobility is still a high point. G24 VK3002DB  Its gun selection is much like its cousins from the heavy tank lines, the VK 30P or the VK 36H, but a tier late. G24 VK3002DB  The 88mm L/56 comes with decent damage potential and it is powerful enough to wake up any sleeping heavy, although the penetration is rather insufficient for its tier, so aiming for the sides and rear is a must. G24 VK3002DB  You have some capacity for fighting up-close due to your speed and mobility, but expect to be out-gunned by other mediums. G24 VK3002DB  
+
+|Gallery=
+image:VK3002DB front view 1. G24 VK3002DB jpg {{!}}VK3002DB front left view
+image:VK3002DB front view 2. G24 VK3002DB jpg‎{{!}}VK3002DB front right view
+image:VK3002DB back view 1. G24 VK3002DB jpg‎{{!}}VK3002DB back left view
+image:VK3002DB back view 2. G24 VK3002DB jpg‎{{!}}VK3002DB back right view
+image:VKDB-1. G24 VK3002DB jpg{{!}}3 VK3002DB tanks on map Lakeville
+image:VKDB-2. G24 VK3002DB jpg{{!}}3 VK3002DB tanks on map Himmelsdorf 
+image:VKDB3. G24 VK3002DB jpg{{!}}3 VK3002DB tanks on map Prokhorovka
+
+|InTheGame_pros=
+* Very sloped armor at ''all'' angles. G24 VK3002DB  By getting close to the enemy you'll usually bounce a hefty portion of their shots
+* Still very mobile, even at stock configuration, but heavy enough that ramming is a good option
+* Cheapest repair cost of all Tier 7 medium vehicles and cheap ammo cost
+* Good damage and DPM for a Tier 7 medium, with much improved gun dispersion over predecessor
+* Great brawler with the 88mm
+* Good turret traverse since the patch 9. G24 VK3002DB 17. G24 VK3002DB 1
+
+|InTheGame_cons=
+* Average penetration since patch 9. G24 VK3002DB 15, APCR of the 88mm is not fantastic
+* Prone to ammo rack damage
+* Accuracy is somewhat limited with the 88mm by german standards
+* Slow shell velocity for german standars
+* Flat frontal turret armor, the gunner will die a lot of times
+
+|InTheGame_performance=
+This tank is best used as a ''[[Glossary|flanker]]'', not a sniper like much of the German tank tree. G24 VK3002DB  It's very similar to the [[VK 30. G24 VK3002DB 01 (D)]], but more health and some weight to use. G24 VK3002DB  While its guns are very accurate, they are not very powerful for its tier. G24 VK3002DB  The VK 30. G24 VK3002DB 02 (D) counters this by being extremely mobile and somewhat well armored. G24 VK3002DB  When at the top of the roster, this tank will easily lead the team to victory. G24 VK3002DB  At the middle or bottom of the pack, it should be played in support of higher-tier tanks, taking every available opportunity to break up enemy attacks through flanking and hit-and-run tactics. G24 VK3002DB 
+
+The second turret is very heavy and slows the tank down. G24 VK3002DB  With it and the 8. G24 VK3002DB 8cm gun, it starts to play more like the [[VK 36. G24 VK3002DB 01 (H)]]. G24 VK3002DB  Unfortunately, since the 8,8cm gun has even less penetration than the 7,5cm, head-on engagements are the last thing you want. G24 VK3002DB  It's up to you which you prefer. G24 VK3002DB 
+
+The 8. G24 VK3002DB 8cm gun, while at a serious disadvantage at long range, is very well suited to butchering light tanks and medium tanks at close range. G24 VK3002DB  The VK 30. G24 VK3002DB 02 D uses this particular gun with the highest reload time, which can be dropped down to 5. G24 VK3002DB 2 seconds with the right equipment and skills. G24 VK3002DB  You're doing 220+ damage every 5. G24 VK3002DB 2 seconds, as opposed to the Comet's 150 damage every 3 seconds or the T-34-1's 250+ damage every 7-8 seconds. G24 VK3002DB  This means your damage per shot and reload time is near optimal, letting you get away with constantly exposing yourself to trade fire (assuming you survive the exchange)as well as taking a supporting role and dealing damage from the second line. G24 VK3002DB   The 145mm penetration is not an issue when at close quarters since few Tier 5, 6, and 7 mediums have frontal armor that can bounce it. G24 VK3002DB  With the impressive mobility of this tank, one can get away with brawling at point-blank range since not many mediums at its tier can trade shot for shot, damage for damage. G24 VK3002DB  Fighting Tier 9 medium and light tanks this way is not recommended however, as even ones with poor armor have significantly better guns in terms of penetration and/or alpha damage. G24 VK3002DB  For everything else below the 8. G24 VK3002DB 8cm will do the trick. G24 VK3002DB  
+
+With the 7. G24 VK3002DB 5cm gun, you're mostly forced back to a flanker-sniper role. G24 VK3002DB  You can brawl, but only to a certain limit (for brawling, the 8. G24 VK3002DB 8cm is better for the job). G24 VK3002DB  If ever you choose to arm the first turret and the 7. G24 VK3002DB 5cm gun, play it like you would play a Comet. G24 VK3002DB 
+
+|InTheGame_research=
+* The radios and guns remain unchanged from the previous tier. G24 VK3002DB  You should immediately install a better radio and switch to the 7,5 cm KwK 42 L/70 gun. G24 VK3002DB  
+* First research the MB 507 diesel engine for more speed, acceleration, and a lower chance of fire. G24 VK3002DB This engine will cost 17000 exp,don't skip this module,and remember speed is essential for this tank. G24 VK3002DB 
+* Next research the upgraded suspension for the necessary weight capacity for the second turret. G24 VK3002DB 
+* Now you can research the second turret for improved armor, view range, and the ability to mount the 8,8 cm KwK 36 L/56 gun. G24 VK3002DB 
+* Research the Indien Panzer. G24 VK3002DB 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Enhanced Suspension, Binocular Telescope
+
+|History=
+[[image:VK_3002_DB_drawing. G24 VK3002DB jpg|thumb|200px|right|Prototype rejected of the Panther Medium Tank]]
+The Panzerkampfwagen V Panther, next to the PzKpfw VI Tiger, is the best-known German tank of World War II. G24 VK3002DB  The Panther and the Soviet [[T-34]] are considered to be the best tanks of World War II. G24 VK3002DB  When Germany invaded Russia in June of 1941, the Panzertruppe encountered the KV and T-34/76 series-tanks, which were far superior in firepower and armor protection to any Panzer at the time. G24 VK3002DB  It was then decided, because of the constant reports from the Eastern Front, to design a new and more powerful medium tank which could be quickly put into production. G24 VK3002DB  
+
+On November 25th of 1941, Adolf Hitler ordered Wa Pruef start work on the new tank. G24 VK3002DB  In December of 1941, Wa Pruef ordered Daimler-Benz and MAN (Maschinenfabrik Augsburg Nuernberg) to design new 30-ton tank armed with the 75mm KwK L/70 gun as a response to the Soviet T-34/76 tank. G24 VK3002DB  Rheinmetall-Borsig was in charge of the development of the turret for this new tank. G24 VK3002DB  In March of 1942, Daimler-Benz (hence, DB) was the first to produce their version of the VK3002’s design based on previously rejected VK3001 (a direct copy of the T-34/76) designs from January of 1942. G24 VK3002DB  Two versions of the VK 3001 with different suspensions were designed by Daimler-Benz; one with spring suspension and the other with torsion-bar suspension. G24 VK3002DB  Daimler-Benz's VK3002 design was largely based on the T-34/76 and was more like a modified German version of it. G24 VK3002DB  MAN finished their design of the VK3002 in early Spring of 1942. G24 VK3002DB 
+
+The VK 30. G24 VK3002DB 02 (D)’s turret was mounted in the forward position of the hull, just like that of the [[T-34]]. G24 VK3002DB  A prototype was presented to the Fuhrer, who ordered the production of 200 to start as soon as possible. G24 VK3002DB  On May 11th of 1942, the VK3002 project received the designation of Panther. G24 VK3002DB  On May 14th of 1942, when extensive tests of both prototypes were completed, Hitler decided to put MAN’s design into production. G24 VK3002DB  Daimler-Benz’s design was rejected, since it was assumed that it would cause many problems with identification of the vehicle. G24 VK3002DB  It also proved to have poor performance and many modifications would have to be made in order to improve its faults. G24 VK3002DB  The Daimler-Benz protototype was captured by the Soviets in 1945. G24 VK3002DB  
+
+|HistAcc=
+The 7,5 cm Kw. G24 VK3002DB K. G24 VK3002DB  42 L/70 was its only intended main armament. G24 VK3002DB  The other gun configurations are fake. G24 VK3002DB 
+* The MB 507 engine was developed for the [[Maus]]. G24 VK3002DB  Its configuration on the VK 30. G24 VK3002DB 02 (D) is also fake. G24 VK3002DB 
+* The 650 hp engine was its only powerplant. G24 VK3002DB 
+* Actual top speed is 56 km/h. G24 VK3002DB 
+
+|HistoricalGallery=
+image:VK 3002 (DB) 1. G24 VK3002DB jpg{{!}}VK 3002 (DB) 1
+image:VK 3002 (DB) 2. G24 VK3002DB jpg{{!}}VK 3002 (DB) 2
+image:VK 3002 (DB) 3. G24 VK3002DB jpg{{!}}VK 3002 (DB) 3
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. G24 VK3002DB achtungpanzer. G24 VK3002DB com
+
+}}

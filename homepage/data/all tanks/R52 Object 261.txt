@@ -1,0 +1,90 @@
+{{TankData|Tank=Object_261
+|Rather than using the 203mm gun from the the [[212A]], it mounts the 180mm which may turn some people off with its lack of damage. R52 Object 261   It does compensate with a higher rate of fire, and has good accuracy which makes some players would use [[Ammo|Armor Piercing]] shells for more consistent damage and better penetration. R52 Object 261   Unfortunately it only carries 18 rounds as opposed to 40 rounds on the 212A. R52 Object 261   It is quite mobile for its size, having the second highest top speed of the five Tier 10 SPG's. R52 Object 261  Also, Update 9. R52 Object 261 18 removed AP and HEAT rounds from SPG's that aren't premium, leaving HE sitting in dust on this arty. R52 Object 261   Damage and pen per shell is on par with M40/M43 (T8) and American SPG's have the best firepower. R52 Object 261   However, these drawbacks doesn't setback it against its competitors. R52 Object 261   
+
+|Gallery=
+image:Object 261 1. R52 Object 261 jpg{{!}}Object 261 front left view
+image:Object 261 2. R52 Object 261 jpg{{!}}Object 261 front right view
+image:Object 261 3. R52 Object 261 jpg{{!}}Object 261 back left view
+image:Object 261 4. R52 Object 261 jpg{{!}}Object 261 back right view
+image:Obj261game1. R52 Object 261 jpg{{!}}Object 261, Serene coast
+image:SU261-a. R52 Object 261 jpg{{!}}Object 261, map Mountain pass
+image:Obj. R52 Object 261 261-a1. R52 Object 261 jpg{{!}}Object 261, map Komarin
+image:Obj261-a2. R52 Object 261 jpg{{!}}Object 261, map Komarin
+
+|InTheGame_pros=
+- Longest Gun range in the game at 1470m
+
+- Most accurate artillery in the game
+
+- Very fast shell travel time for artillery. R52 Object 261   Combined with high accuracy means hitting targets is easy
+
+- Artillery is fairly mobile, being only slightly slower than many mediums
+
+
+|InTheGame_cons=
+- Shells travel on an extremely flat trajectory, making it difficult to hit targets behind cover
+
+- Horrible gun traverse
+
+- Horrible gun arc, albeit 2 degrees larger than its predecessors
+
+- Low trajectory somewhat negates the high accuracy, although it is still very accurate
+
+- Somewhat low damage per shot for Tier 10 SPG's (although it's still better than the B-C 155 58)
+
+
+|InTheGame_performance=
+The Object 261 has the lowest arc of any artillery piece in the game, meaning it has almost no ability to shoot over cover. R52 Object 261   However, this low arc combined with a high shell velocity means this SPG has the lowest shell travel times, making it easier to lead moving targets. R52 Object 261   However, the narrow gun arc means that if you do not pre-aim, you will have to re-position often to keep targets in your reticle. R52 Object 261  Due to it's narrow arc, "TD mode" can be difficult against enemies who force you to aim laterally, meaning you need to aim ahead of said enemy. R52 Object 261  However, the low shell arc does come a bit in handy here, as the shells go towards the approaching enemy much faster. R52 Object 261 
+
+This arty plays a lot like the French B-C 155 58 but without the autoloader. R52 Object 261   The DPM is only 200 damage lower than BC 155, but if this arty uses Innovative Loading System, this arty is only behind 70 DPM (26 second reload time. R52 Object 261  B-C 155 58 with no rammer, as it has only an autoloader, and autoloader only tanks cannot use rammers. R52 Object 261  As such, it can't use Innovative Loading System, either. R52 Object 261 ). R52 Object 261   
+
+Penetration value is the lowest of all arty given that it has more flat trajectory. R52 Object 261   This makes the arty easier to hit the sides and rooftops of tanks which could do the same amount of damage as "1k damage per shot" artys when they hit. R52 Object 261   Use your expertise and aim for weak spots on tanks (like FV4005 turret). R52 Object 261   
+
+Using a Wear-Resistant Gun Laying Drive (or just the normal one) would speed up the aim time to 3. R52 Object 261 84 seconds which is only about a second longer the IS-7 and Type 5 Heavy. R52 Object 261   They think that popping out to use their armor to ricochet or to bait shots to do damage is safe but your short aim time (and even when you just have to re-aim for an even better shot) will prove them wrong. R52 Object 261   Also dispersion values are on par with the Type 5 Heavy while moving (especially when turning the vehicle which is 0. R52 Object 261 19)!           
+
+|InTheGame_equipment= Large-Caliber Artillery-Shell Rammer, GLD, Camouflage Net
+
+|External_Reviews=
+{{VideoYT|IUJpCEsjoAo}}
+
+|History=
+
+During work on perfecting the IS-7 design in 1947, OGK LKZ and Experimental Factory #100 developed projects for high power heavy SPGs. R52 Object 261 
+
+
+* Object 261-1, closed type, with a forward fighting compartment and a 152 mm M-31 gun with a 880 m/s muzzle velocity (later re-designated Object 261)
+* Object 261-2, half-open type, rear fighting compartment, 152 mm M-48 gun with 1000 m/s muzzle velocity (later re-designated Object 262)
+* Object 261-3, half-open type, rear fighting compartment, with a 180 mm naval MU-1 gun with a muzzle velocity of 920 m/s. R52 Object 261  This gun is also known as the 180mm B-1-P
+
+|HistAcc=
+* As the Object 261 in game only has the MU-1, the correct designation would be the Object 261-3
+* The Object 261 has less armor than it would have had in real life, being based off of the IS-7 chassis, with between 150mm-215mm of frontal armor. R52 Object 261 
+
+|HistoricalGallery=
+image:OBJ-261. R52 Object 261 jpg{{!}}Object 261
+image:OBJ-261_001. R52 Object 261 jpg{{!}}Object 261
+File:180mm_MU-1. R52 Object 261 jpg{{!}}180mm MU-1 gun, mounted in a coastal battery. R52 Object 261 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+* Внутренние Бронированный автомобиль 1945-1965 (Domestic Armored Vehicles 1945-1965)
+
+|Ref_links=
+
+* [[https://forum. R52 Object 261 worldoftanks. R52 Object 261 com/index. R52 Object 261 php?/topic/318674-object-261/]]Discussion regarding the historical accuracy of the Object 261 in-game
+* [[https://survincity. R52 Object 261 com/2011/12/spg-object-261/]]Article describing the history of the Object 261 (the Object 261-1 in particular)
+
+|Sidebar_Camostop=3. R52 Object 261 71
+|Sidebar_Camomove=2. R52 Object 261 0
+|Sidebar_Camofire=0. R52 Object 261 31
+|Sidebar_Passhard=1. R52 Object 261 247
+|Sidebar_Passmed=1. R52 Object 261 438
+|Sidebar_Passsoft=2. R52 Object 261 397
+|Sidebar_DispTurret=0. R52 Object 261 575
+|Sidebar_DispRecoil=5. R52 Object 261 753
+|Sidebar_DispAccel=0. R52 Object 261 326
+|Sidebar_DispTurning=0. R52 Object 261 326
+}}

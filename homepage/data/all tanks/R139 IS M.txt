@@ -1,0 +1,66 @@
+{{TankData|Tank=IS-M
+| 
+
+|Gallery= 
+
+|InTheGame_pros=
+* Good top gun - high alpha damage and good DPM, handling and aimtime for its caliber
+* Very strong upgraded turret with almost no weakspots 
+* Good at sidescraping 
+* Surprisingly cheap to research, exp-wise, for a Tier VIII tank
+
+|InTheGame_cons= 
+* Poor mobility, even when upgraded
+* Poor viewrange
+* Limited gun depression
+* Terrible when stock - poor turret armor and inadequate penetration
+* Questionable performance in tier 10 games due to top gun being very inadequate
+
+
+|InTheGame_performance= 
+The key to playing good in this tank is sidescraping whenever possible (at least against enemies up to tier VIII), and this tank can do it pretty well if handled properly. R139 IS M  If you do not overangle and do not expose your weak lower plate, the only thing that should be able to touch you are HE shells. R139 IS M  Turret has a weakspot in the form of commander cupola, but it is fairly small and hard to hit from a distance or when moving. R139 IS M  However, frontal hull armor is no match for gold shells from tiers IX and X, so note that even sidescraping will not help you much - you will be easily penetrated in upper plate most of the time. R139 IS M 
+
+Mobility is a double-edged sword; straight-line driving is actually good, but traverse is horrible - IS-M turns like a boat and is very easily flanked. R139 IS M  Never go alone anywhere in this tank. R139 IS M 
+
+Bad gun depression means that you cannot take hulldown positions easily, and you are better off avoiding hills and even slight bumps alltogether. R139 IS M  Play in cities or behind cover on straight ground. R139 IS M 
+
+Penetration is OK for enemies up to tier VIII (mostly; good luck with VK 100. R139 IS M 01P, or even another IS-M when sidescraping, for example), and completely inadequate for frontal engagements against other heavies. R139 IS M  Pick softer targets if opportunities present themselves. R139 IS M  Your good alpha damage and DPM will help in that regard as well. R139 IS M 
+
+Overall, stick to other heavies and sidescrape on city maps. R139 IS M  On open maps, play as a 2nd line support for your higher tier heavies. R139 IS M  When top tier, armor can withstand a lot if angled, but is otherwise easily penetrated by nearly anyone, especially with premium ammo. R139 IS M 
+
+As a sidenote, when stock, this tank performs horribly in all aspects (horrible pen and mobility, no armor whatsoever, complemented with very low view range and almost no camo) and it is highly recommended to use free exp to unlock as many modules as possible. R139 IS M 
+
+|InTheGame_research= 
+* Research turret first, since stock turret has downright laughable armor
+* Research the upgraded gun for much needed penetration boost
+* Research the 2nd engine
+* Tracks are not required for other modules, so you can research them last
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Improved Ventilation, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The IS project started as an improvement over previous KV designs, combining the hull developed for the KV-13 prototypes with the new KV-85 three-man turret. R139 IS M  The 85mm gun of the IS-1, however, meant that the T-34/85 sporting the same gun performed better in almost every aspect, the IS only offering slightly better protection. R139 IS M  Therefore, this variant, known as IS-85, was deemed insufficient for a breakthrough role. R139 IS M  Demands for a 122 or a 152 mm gun were made (despite the ISU-152 already being accepted into service). R139 IS M  Kotin himself proposed the use of the A-19 gun, citing its effectiveness against concrete bunkers and enemy tanks alike. R139 IS M  The choice of a new 122 mm (4. R139 IS M 8 in) gun was studied by Kotin’s team at Zavod Nr. R139 IS M 9. R139 IS M  As shown at Kursk, the 122 and 152 mm (5. R139 IS M 98 in) guns were better suited to take on on the new German tanks, the Tiger, Panther and Elefant. R139 IS M  It was obvious that, aside the 85 mm (3. R139 IS M 35 in) gun, more suitable for the next evolution of the T-34, a 122 mm would be most recommended to be fitted on the new heavy tank. R139 IS M  The gun was equipped with a muzzle brake, despite protests that it would be too noticeable when firing, and installed in a D-5 gun mount. R139 IS M  The resulting construction was named D-2T. R139 IS M  The T-shaped muzzle brake failed during tests, and was replaced with a "German style" muzzle brake, similar to those used on 88 and 105 mm guns, after almost fatally injuring Marshall Voroshilov during a test in the presence of the Main Defense Commissariat. R139 IS M  Later in the tank's life, it was again replaced with a domestic design. R139 IS M  This version, known as IS-122, started the fruition of the IS-2 tank. R139 IS M  The effects of the new tank gun were excellent: coupled with a new pointed AP shell, it could penetrate the front of a Panther at 1400 meters, and the front of a Tiger at 1800 meters. R139 IS M  <br>
+
+== The Shashmurin Project ==
+
+Nikolai Fedorovich Shashmurin, a well-known tank designer, was busy with a brand new IS tank, an alternative to the IS-2. R139 IS M  Really, the only things it shared with the IS-2 were the gun caliber and its breakthrough role. R139 IS M  It even looked vastly different. R139 IS M  Unofficially named the IS-2Sh (Sh = Shashmurin) or simply Shashmurin’s IS-2, it was a complete redesign of the IS. R139 IS M  It featured a rear-mounted turret carrying the 122mm gun, large single roadwheels and heavily sloped frontal hull armor. R139 IS M  The engine was placed in the middle of the hull, with the driver at the bow cut of off from the rest of the crew. R139 IS M  Only one drawing is known to exist of this design. R139 IS M 
+
+=== Characteristics ===
+
+The plans for this project were lofty indeed: front armour impenetrable for Panther, Tiger, and Ferdinand guns at any range, side armour impenetrable at over 500 meters, an 800-1000 hp engine to get this massive armoured slab moving at 35 kph. R139 IS M  Considering that the projected mass of the heavy tank would be 55 tons, that's not even that unthinkable. R139 IS M  The fighting compartment was located in the rear, with an engine compartment in the center. R139 IS M  This layout allowed to make a gun with a very long barrel, accelerating the shell to 1000 m/s, without it getting in the way of maneuvers. R139 IS M  The transmission could be electric or mechanical. R139 IS M  One of Shashmurin's projects was deemed viable, designated IS-2M, and began development. R139 IS M  Unfortunately, the resources of the construction bureau tasked with the project were soon consumed by the IS-6. R139 IS M  While the requirement for impenetrable front armour seems impossible, the IS-3 managed to pull it off in that same year. R139 IS M  
+|HistoricalGallery= 
+File:IS 2 Shashmurin. R139 IS M jpg{{!}}S-2Sh (Sh = Shashmurin)
+
+
+|Ref_references=
+
+|Ref_sources=
+https://www. R139 IS M tanks-encyclopedia. R139 IS M com/ww2/soviet/soviet_IS-II. R139 IS M php <br>
+https://tankarchives. R139 IS M blogspot. R139 IS M com/2013/07/birth-of-is-tanks-part-2-is-122. R139 IS M html
+|Ref_links=
+}}

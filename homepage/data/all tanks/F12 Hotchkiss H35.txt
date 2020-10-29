@@ -1,0 +1,100 @@
+{{TankData|Tank=Hotchkiss_H35
+|In a tier filled with fast and agile tanks, the H35, along with its German premium counterpart the [[Pz. F12 Hotchkiss H35 Kpfw. F12 Hotchkiss H35  38H 735 (f)]] and the other French Tier 2 tank, the [[D1]], stands out with its exceptionally thick armor and relatively low mobility. F12 Hotchkiss H35  It is particularly well-suited to leading assaults or locking down avenues of approach, especially with the support of the team. F12 Hotchkiss H35  This tank, while slow as mentioned, can act as a heavy when top tier. F12 Hotchkiss H35  Its 25mm Rascucci has an incredible RoF able to rival the Matilda. F12 Hotchkiss H35  But dont be fooled. F12 Hotchkiss H35  The damage is low but acceptable for a tier 2. F12 Hotchkiss H35  Make sure to keep your turret somewhat angled and avoid shooting tracks, due to the bad multi-layer penetration on armored targets. F12 Hotchkiss H35  The shortest route is almost always preferable to a longer travel. F12 Hotchkiss H35  You'll soon find this rolling machine gun to be an unstoppable force against the enemy team. F12 Hotchkiss H35 
+
+|Gallery=
+image:H35_001. F12 Hotchkiss H35 jpg{{!}}H35 001
+image:H35_002. F12 Hotchkiss H35 jpg{{!}}H35 002
+image:H35_003. F12 Hotchkiss H35 jpg{{!}}H35 003
+image:H35_004. F12 Hotchkiss H35 jpg{{!}}H35 004
+
+|InTheGame_pros=
+* Sloped and well armored tank (similar to the [[Pz. F12 Hotchkiss H35 Kpfw. F12 Hotchkiss H35  38H 735 (f)]])
+* Good rate of fire
+* Decent view range
+* Immune to autocannons except for weak spots
+* Very good for sidescraping, although this is rarely done at low tiers
+* Great tank for protecting other tanks behind it
+
+|InTheGame_cons=
+* Inferior to the Pz. F12 Hotchkiss H35 Kpfw. F12 Hotchkiss H35  38H 735 (f) in almost every aspect
+* Low top speed and maneuverability
+* Inaccurate guns
+* Poor signal range
+* Poor turret traverse, nearly twice as slow than the Pz. F12 Hotchkiss H35 Kpfw. F12 Hotchkiss H35  38H 735 (f)
+* Forced to choose between high damage, low penetration or high penetration, low damage guns
+* Two-man crew means that the tank is severely crippled if the commander is knocked out
+* Vulnerable to howitzers/arty (although you can mount the spall liner to help with this) and [[Automatic Loader#Semi-Automatic_Cannons|semi-automatic cannons]]
+
+|InTheGame_performance=
+The Hotchkiss H35 plays more like a medium or heavy tank than a light tank. F12 Hotchkiss H35  Right off the bat, one will notice that it is fairly slow and clumsy in handling. F12 Hotchkiss H35  It is not ''incredibly'' slow, but it is rather sluggish when compared to all the other light tanks. F12 Hotchkiss H35  While other tanks of its tier can easily run down trees, trucks, barricades, and other obstacles in their way, the H35 has neither the mass or momentum. F12 Hotchkiss H35  When driving the H35, it is best to avoid these obstacles and not try to run them down, lest they slow it down even further. F12 Hotchkiss H35 
+
+The H35 receives the same stock gun as the Renault FT, the '''37 mm APX SA18'''. F12 Hotchkiss H35  While workable at Tier 1, the SA18 is simply not good enough for Tier 2 or Tier 3 matches, with horrible accuracy, lousy penetration and damage. F12 Hotchkiss H35  The '''37 mm SA38''' is a significant improvement in accuracy and damage, with somewhat more penetration. F12 Hotchkiss H35  Curiously, what is essentially the same gun on the [[Pz. F12 Hotchkiss H35 Kpfw. F12 Hotchkiss H35  38H 735 (f)]] has somewhat more penetration than the SA38 on the H35. F12 Hotchkiss H35  It is also a lot more accurate, aims faster, and reloads faster on the German premium tank. F12 Hotchkiss H35  The '''25 mm Canon Raccourci Mle. F12 Hotchkiss H35  1934''' is probably the best choice, given its higher penetration, accuracy, and rate-of-fire, with only slightly less damage. F12 Hotchkiss H35  Unfortunately, it has a maximum effective range of 395 m, beyond which it cannot penetrate even the lightest of armor. F12 Hotchkiss H35  It also does not have a HE round and has significantly worse gun depression than the SA38 and SA18. F12 Hotchkiss H35 
+
+The H35 is very well-armored. F12 Hotchkiss H35  It has some nice sloping on the front, sides, and rear, as well as a good 40 mm thickness for all its sides (which generally means if an enemy cannot penetrate it from the front, he will have an equally hard time with the sides and rear). F12 Hotchkiss H35  Shots that do penetrate, however, are extremely dangerous to the tank. F12 Hotchkiss H35  It can be wiped out by two or three shots from a tank destroyer, or can be mowed down by multiple lighter tanks that can out maneuver it. F12 Hotchkiss H35  There are also several prominent weakspots in the form of the commander's and driver's vision ports, through which most low-tier guns can penetrate. F12 Hotchkiss H35  The H35 benefits immensely from angling, sidescraping, and a general knowledge of how to hide its weakspots. F12 Hotchkiss H35  These skills can dramatically improve its survivability, and make it a formidable opponent in urban maps. F12 Hotchkiss H35  
+
+=='''Crew Skills'''==
+* '''Repair''' as the first skill for all the crew members is a solid choice for the H35, allowing broken tracks or other damaged modules to be brought to operational condition as quickly as possible. F12 Hotchkiss H35  '''Camouflage''' is also a viable option, since the H35 does have fairly good camouflage values. F12 Hotchkiss H35 
+* A more specialized set of first skills would be '''Snap Shot''' (Commander/Gunner/Radio Operator/Loader) and '''Smooth Ride''' (Driver). F12 Hotchkiss H35  The combination of Snap Shot and Smooth Ride act like a Vertical Stabilizer (which the H35 does not have access to), reducing the accuracy penalties while moving or turning the turret, and by extension, allowing the H35 to get an accurate shot off faster after stopping. F12 Hotchkiss H35  '''Mentor''' may also be used instead of Snap Shot if the emphasis is on getting the other crew member's skills up faster. F12 Hotchkiss H35  '''Off-Road Driving''' or '''Clutch Braking''' are also viable instead of Smooth Ride for increased mobility or close-combat capability, respectively. F12 Hotchkiss H35 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is a good option. F12 Hotchkiss H35  
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. F12 Hotchkiss H35  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. F12 Hotchkiss H35 
+
+|InTheGame_research=
+* The only thing that carries over from the Renault FT is the '''25 mm Canon Raccourci Mle. F12 Hotchkiss H35  1934 gun'''. F12 Hotchkiss H35  Mount it immediately. F12 Hotchkiss H35 
+* The stock H35 suspension can take all the upgraded modules, but cannot mount much equipment. F12 Hotchkiss H35  Researching and mounting the upgraded '''H35b''' suspension allows more equipment to be fitted and also provides a small increase in hull traverse speed. F12 Hotchkiss H35 
+* The '''37 mm SA38''' is required to unlock the [[Somua S35]]. F12 Hotchkiss H35  However, if there is no intention to use it, it can be saved for last. F12 Hotchkiss H35 
+* The '''Renault V4''' engine provides a welcome increase in mobility to the sluggish H35. F12 Hotchkiss H35 
+* The '''ER 53''' radio is not essential, but it is used on a wide variety of French tanks, so researching it early on in the H35 is a good idea. F12 Hotchkiss H35 
+
+|InTheGame_equipment=
+Vents, GLD, Spall Liner, Binocular Telescope, Camouflage Net, Toolbox
+
+|History=
+
+In 1926, the French ''Infanterie'' decided to provide armour support to the regular infantry divisions by creating autonomous tank battalions equipped with a light and cheap infantry tank, a ''char d'accompagnement''. F12 Hotchkiss H35  For this role at first the Renault Char D1 was developed, but it proved to be neither particularly light nor cheap. F12 Hotchkiss H35  In 1933, the company ''Hotchkiss et Cie'', under its own initiative, presented a plan to produce a lighter design through the application of new manufacturing techniques to produce cast steel sections to construct an entire hull. F12 Hotchkiss H35  ''Hotchkiss et Cie'' was a French arms manufacturer established by American gunsmith Benjamin B. F12 Hotchkiss H35  Hotchkiss, who had learned his trade at Colt and Winchester in Connecticut. F12 Hotchkiss H35  Hotchkiss moved to France in 1867 and set up his own gun factory at Viviez near Rodez. F12 Hotchkiss H35  In 1875 he moved it to Saint-Denis near Paris. F12 Hotchkiss H35  
+
+On 30 June 1933, the Hotchkiss proposal was approved by the ''Conseil Consultatif de l'Armement''. F12 Hotchkiss H35  On 2 August 1933 the new tank's specifications were made known: a weight of six tonnes and 30 mm armor thickness all around. F12 Hotchkiss H35  Three prototypes were ordered from Hotchkiss, but the entire French industry was also invited to provide alternative proposals. F12 Hotchkiss H35  This allowed the Renault company to beat Hotchkiss in delivering their first prototype, which was later developed into the Renault R35. F12 Hotchkiss H35  On 18 January 1935, the first Hotchkiss prototype, not yet made of armor plating, was presented to the ''Commission d'Expérience du Matériel Automobile'' (CEMA) at Vincennes; it was a turretless machine gun-armed tankette. F12 Hotchkiss H35  It was tested until 4 March 1935, when it was replaced by a second identical prototype to be tested until 6 May. F12 Hotchkiss H35  Both had to be rejected because new specifications had been made on 21 June 1934 that increased the desired armor thickness to 40 mm. F12 Hotchkiss H35  
+
+On 27 June 1935, the commission approved the type on the provision that the necessary changes were made. F12 Hotchkiss H35  On 19 August, a third prototype was delivered, equipped with a cast APX turret and featuring a redesigned hull; it was tested until 20 September and accepted for service as the ''Char léger modèle 1935 H''. F12 Hotchkiss H35  On 6 November, a first order was made for 200 vehicles. F12 Hotchkiss H35  The first production vehicle was delivered on 12 September 1936. F12 Hotchkiss H35  That same year, two additional orders had already been made of 92 and 108 vehicles respectively. F12 Hotchkiss H35  By 1 January 1937, 132 vehicles had been produced. F12 Hotchkiss H35 
+
+The first series production vehicle was again extensively and intensively tested until 4 December 1936. F12 Hotchkiss H35  This showed that its handling qualities on rough terrain were unacceptably poor. F12 Hotchkiss H35  It was simply impossible to safely steer the vehicle on a somewhat rough surface, posing an extreme danger to nearby friendly infantry. F12 Hotchkiss H35  The ''Infanterie'' therefore decided to accept only the first 100 tanks to equip just two battalions with the type: the ''13e'' and ''38e Bataillon de Chars de Combat'' and reject any further procurement. F12 Hotchkiss H35  
+
+For political reasons, however, stopping production of the tank was not acceptable. F12 Hotchkiss H35  And so the other 300 vehicles of the production run were offered to the ''Cavalerie'', which was forced to accept them because it would not have been granted a budget for other tanks anyway. F12 Hotchkiss H35  As the cavalry units would be making more use of the road network and of mounted infantry, its cross-country handling problems were of less consequence. F12 Hotchkiss H35  The H35 was, at 28 km/h, also somewhat faster than the Renault R35, which was capable of 20 km/h, although in practice its average speed was lower than that of the R35 because of its inferior gear box. F12 Hotchkiss H35 
+
+The H35 was a rather compact tank, being 4. F12 Hotchkiss H35 22 m long, 1. F12 Hotchkiss H35 95 m wide and 2. F12 Hotchkiss H35 15 m tall, and weighing around 11 metric tons. F12 Hotchkiss H35  The armor was made completely of cast steel in six parts that were bolted together. F12 Hotchkiss H35  The armor was also well sloped to increase the chance of deflection and the tank was equipped with a six cylinder 78hp engine. F12 Hotchkiss H35  The crew consisted of only two members, the driver and the commander who had to take the duties of Radioman, Gunner and Loader as well. F12 Hotchkiss H35  The driver did not have it any easier as the vehicle was difficult to drive as the gearbox and brakes were weak and prone to malfunction. F12 Hotchkiss H35  The tank was initially equipped with the short 37mm SA18 gun that had only 23 mm of armor penetration, too light to even pierce the H35's own armor and completely inadequate in the anti-tank role. F12 Hotchkiss H35 
+
+In 1939, an upgraded variant with a 120 hp engine, an improved suspension and tracks and, eventually in 1940, an improved 37 mm SA38 gun was produced as the Char léger modèle 1935 H modifié 39 or H39. F12 Hotchkiss H35 
+
+== Operational History ==
+
+The poor cross-country performance of the original model led to the intended users of the H35, the infantry, rejecting it. F12 Hotchkiss H35  This led to the cavalry regiments receiving the original batch of tanks and requesting the increased speed that the H39 variant eventually delivered. F12 Hotchkiss H35  
+
+By the beginning of the Second World War, 640 Hotchkiss tanks of various variants were delivered to various arms of the the French army. F12 Hotchkiss H35  The Hotchkiss tanks proved themselves during the battle of Flavion and, most notably, during battle of Stonne (also known as the "Verdun of 1940") in which they, along with Char [[B1]] heavy tanks, permitted outnumbered French forces to resist the German assault for three days, inflicting heavy losses. F12 Hotchkiss H35  The Germans captured 550 of them after the fall of France. F12 Hotchkiss H35  Most of these units were used for policing and training roles, though some saw action in Yugoslavia and during the Normandy Campaign. F12 Hotchkiss H35  Some H39s were also used as a conversion base for the Marder I tank destroyer. F12 Hotchkiss H35    
+
+|HistAcc=
+Uses the same SA38 gun as the [[Pz. F12 Hotchkiss H35 Kpfw. F12 Hotchkiss H35  38H 735 (f)]], yet their penetration values are inconsistent. F12 Hotchkiss H35 
+* The H39 suspension refers to an improved version of the H35, the ''modifié 39''. F12 Hotchkiss H35  This model had an enlarged hull, stronger engine and improved tracks & suspension compared to the original H35. F12 Hotchkiss H35  In World of Tanks, however, mounting the H39 suspension does not alter the H35's in-game model. F12 Hotchkiss H35 
+* Actual engine output is 78 hp, not 75. F12 Hotchkiss H35 
+* The Renault V4 engine was meant for the [[Renault R35]]. F12 Hotchkiss H35  Its configuration on the H35 is fake. F12 Hotchkiss H35 
+* The 25 mm gun configuration is also fake. F12 Hotchkiss H35 
+
+|HistoricalGallery=
+image:Hotchkiss_H35_Top_With_Man. F12 Hotchkiss H35 jpg{{!}}Hotchkiss H35
+image:Hotchkiss_H35_Rear_Side. F12 Hotchkiss H35 jpg{{!}}Hotchkiss H35
+image:Hotchkiss_H35_Rear_Pack. F12 Hotchkiss H35 jpg{{!}}Hotchkiss H35
+image:Hotchkiss_H35_Front_Pack. F12 Hotchkiss H35 jpg{{!}}Hotchkiss H35
+image:Hotchkiss_H35_Side. F12 Hotchkiss H35 png{{!}}Hotchkiss H35
+
+|Ref_references=
+
+
+|Ref_sources=
+
+* Bingham, J. F12 Hotchkiss H35 , 1971, '''<i>AFV Weapons Profile 36 - Chars Hotchkiss, H35, H39, and Somua 35</i>''', Profile, Windsor, UK,  24p. F12 Hotchkiss H35 
+
+|Ref_links=
+
+* [https://www. F12 Hotchkiss H35 chars-francais. F12 Hotchkiss H35 net/new/index. F12 Hotchkiss H35 php?option=com_content&task=view&id=105&Itemid=36 '''<i>1935 CHAR HOTCHKISS H35 at chars-francais. F12 Hotchkiss H35 net</i>'''] Photos, specs, and brief history in French. F12 Hotchkiss H35 
+
+}}
+
+[[Category:French Tanks]]

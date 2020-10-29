@@ -1,0 +1,76 @@
+{{TankData|Tank=T2_med
+|Big, tall, boxy and clunky, it looks like the lovechild of the [[T1 Cunningham]] and an industrial air-conditioning unit. A24 T2 med  While it has less hull armor than the [[M2 Light Tank]], it does have slightly more hit points. A24 T2 med  The main advantage of the T2 Medium is its ability to utilize the fun 37mm Browning Semiautomatic Gun, which uses the same mechanics as the French [[Automatic_Loader|autoloaders]]. A24 T2 med  It cannot take much damage, but it is a stepping stone to all of America's heavier vehicles. A24 T2 med  If nothing else, the slower speed, imposing size, and the new tank icon will give tankers a taste of what that branch of the tech tree has to offer. A24 T2 med 
+
+|InTheGame_pros=
+* Semi-automatic guns
+* Good view range and best signal range for its tier, with the SCR 506. A24 T2 med 
+* Decent armor all around gives some protection against automatic guns
+* Its 37mm Browning Semi-automatic Gun is capable of dispatching lower tier tanks in close quarters quickly, if all shells hit. A24 T2 med  
+* Great speed and acceleration for a medium tank          
+
+|InTheGame_cons=
+* Large silhouette for a Tier 2 tank
+* Less maneuverable than a light tank, but without improved armor
+* No 100% camouflage on the move 
+* Poor accuracy
+
+|InTheGame_performance=
+The T2 Medium Tank has one advantage over the M2 Light Tank: The 37mm Browning Semiautomatic Gun. A24 T2 med  However, compared to the M-5 37mm Gun, it has slightly less penetration and slightly less accuracy, so which you choose depends on your play style. A24 T2 med  Sniper orientated players would prefer the M-5 with its greater penetration and marginally better accuracy, whereas close-in fighters should go for either the 20mm Hispano-Suiza Birkigt Gun or the 37mm Browning Semiautomatic Gun. A24 T2 med  Regardless, your tank's armor has few to no angles and is relatively thin, so playing as a support tank is highly advised. A24 T2 med  Use cover and learn to inch out a little, fire, and then duck back behind cover again (a. A24 T2 med k. A24 T2 med a. A24 T2 med  "peek-a-boom") with this tank. A24 T2 med  It is a skill you will use a lot in future tanks. A24 T2 med  Also do not forget that you can press the "C" key to reload a partially loaded magazine. A24 T2 med  Never leave cover without a full magazine. A24 T2 med 
+
+Unfortunately, the engine upgrade is very poor. A24 T2 med  It only adds 10 horsepower and adds 99 kg, so do not expect much improvement over the stock engine. A24 T2 med 
+
+Lastly, the SCR 506 radio is an excellent radio that is used on no less than 20 vehicles in the American tree. A24 T2 med  If you do not want to take the time to research it on Tier 2, then research it on Tier 3. A24 T2 med  You do not want to go beyond that without it. A24 T2 med  
+
+|InTheGame_research=
+* The SCR 200 radio and 37 mm Semiautomatic Gun M1924 gun carries over from the T1 Cunningham and can be installed immediately. A24 T2 med  The 37 mm Browning Semiautomatic Gun also carries over (if you researched it), but is unavailable until you upgrade the turret. A24 T2 med 
+* Upgrading the suspension will add 4 deg/sec to traverse speed. A24 T2 med 
+* The upgraded turret will slightly improve armor, turret traverse speed, and hit points. A24 T2 med 
+* Now you can mount the 37 mm Browning Semiautomatic Gun. A24 T2 med 
+* Go from there. A24 T2 med 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer
+
+|Gallery=
+image:T2_Medium_Tank_001. A24 T2 med jpg
+image:T2_Medium_Tank_002. A24 T2 med jpg
+image:T2_Medium_Tank_003. A24 T2 med jpg
+image:T2_Medium_Tank_004. A24 T2 med jpg
+
+|History=
+In the early 1920s, the United States built three prototype medium tanks. A24 T2 med  These were the Medium A, built in 1921, the Medium A2, built in 1922, and the T1, built in 1925. A24 T2 med  
+
+The T1 Medium Tank, which weighed almost 20 tons, had either a 2. A24 T2 med 24 inch (57mm) main gun or a 2. A24 T2 med 95 inch (75mm) main gun, as well as two 0. A24 T2 med 3 inch (7. A24 T2 med 62mm) machine guns. A24 T2 med  The final model of the T1 series was the T1E2, which had a 2. A24 T2 med 24 inch gun. A24 T2 med 
+
+When the T2 Medium Tank was built, it's weight had to be reduced drastically because the US War Department had set a maximum weight of 15 tons. A24 T2 med  The T2 weighed only 14 tons when it was combat-loaded. A24 T2 med  The earliest models of the T2 had a 1. A24 T2 med 85 inch (47mm) semi-automatic gun and a 0. A24 T2 med 5 inch (12. A24 T2 med 7mm) machine gun in the hull. A24 T2 med  There was also a 1. A24 T2 med 46 inch (37mm) machine gun and a 0. A24 T2 med 3 inch (7. A24 T2 med 62mm) machine gun at the front of the hull on the right. A24 T2 med  These were later replaced by one 0. A24 T2 med 3 inch (7. A24 T2 med 62mm) machine gun. A24 T2 med 
+
+The design of the T2 was based on that of Britain's Vickers Medium Mark II. A24 T2 med  Later on, the Americans built three more prototypes of medium tanks, all of which were based on designs by Walter Christie. A24 T2 med  These were the T3, the T3E2, and the T4. A24 T2 med 
+
+|HistAcc=
+The T2 had a crew of four, of whom the loader is missing. A24 T2 med 
+* Historical 47 mm semiautomatic gun with 5 round clips is missing. A24 T2 med  All other main gun configurations are fake. A24 T2 med  The 47 mm was based on the 37 mm AA gun, developed by Browning since the early 1920s. A24 T2 med 
+* Coaxial [[Gun/USA#Browning MG caliber . A24 T2 med 50 HB, M2|12. A24 T2 med 7 mm Browning machine gun]] is also missing. A24 T2 med  Due to the lack of multi-turret controls in World of Tanks, the weapon is unusable. A24 T2 med 
+* The 37 mm Browning Semiautomatic Gun was actually mounted in the hull to the right of the driver. A24 T2 med  Its turret configuration is fake. A24 T2 med 
+* The T2 is considerably faster than in reality, with 28. A24 T2 med 08 hp/t compared to the historical 22. A24 T2 med 4. A24 T2 med 
+* The upgraded turret is the same as the [[M2 Medium Tank]]'s stock turret. A24 T2 med  This variant was known as the M2A1. A24 T2 med  However, the M2A1 began production in August 1940; the T2 prototype was abandoned in 1932. A24 T2 med 
+
+|HistoricalGallery=
+image:T2_medium_with_devs. A24 T2 med jpg{{!}}T2 Medium with it's developer
+image:T2 medium side. A24 T2 med jpg‎{{!}}T2 Medium from the side
+image:T2 medium rear. A24 T2 med jpg‎{{!}}T2 Medium from the rear
+image:T2_medium_aberdeen_no_gun. A24 T2 med jpg{{!}}T2 Medium at Aberdeen with main gun removed
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. A24 T2 med aviarmor. A24 T2 med net/tww2/tanks/usa/cunningham_t2. A24 T2 med htm Aviarmor. A24 T2 med net, where the above 4 pictures came from
+* https://www. A24 T2 med tanks. A24 T2 med net/interwar-tanks/t1-and-t2-medium-tanks. A24 T2 med html
+
+}}
+
+[[Category:USA Tanks]]

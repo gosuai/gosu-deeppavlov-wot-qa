@@ -1,0 +1,57 @@
+{{TankData|Tank=SU-18
+|This tank has many of the same characteristics of the MS-1, which is obvious seeing as it is one of its variants. R16 SU-18  On the arty side of things, it is similar to its counterparts: short range and good rate of fire keep it fun and simple. R16 SU-18  Unfortunately, its gun elevation keeps it from performing well as a TD. R16 SU-18 
+
+|Gallery=
+image:Su18a. R16 SU-18 jpg{{!}}Front right
+image:SU18b. R16 SU-18 jpg{{!}}Front left
+image:Su18c. R16 SU-18 jpg{{!}}Rear right
+image:Su18d. R16 SU-18 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Gun range: 500 m
+* High rate of fire
+* Good elevation arc
+* Can mount ventilation
+
+|InTheGame_cons=
+* Low engine power
+* Slow top speed
+* Poor view range
+* Very narrow gun arc (6 degress)
+
+|InTheGame_performance=
+If you enjoyed the [[MS-1]] you just got out of, then you'll feel right at home in the SU-18. R16 SU-18  It has the same hull and engine, right down to the distinctive put-put-put sound. R16 SU-18  The SU-18 is slow and has a fairly short range. R16 SU-18  On the plus side, at short range you can lead your targets more easily due to the reduced shell flight time. R16 SU-18  Armed with a 76mm gun similar to that of the [[T57]], it has good accuracy and rate of fire. R16 SU-18  It's a good platform for trying your hand at artillery combat. R16 SU-18  Just remember that in a straight-up fight you are actually worse off than you were in your MS-1. R16 SU-18  You have no turret to aim with, so stay well hidden as far back as you can manage while still being in range of the enemy. R16 SU-18  
+
+The SU-18 is a pretty effective artillery piece. R16 SU-18  It paves the way for the play style of the next two Russian SPG's. R16 SU-18  Its greatest advantage will be the extreme rate of fire. R16 SU-18  It will normally be facing low-tiered tanks, and with this high fire rate it can destroy any tank it encounters. R16 SU-18  Its small size allows the SU-18 to hide in small bushes, shrubs, and be extremely difficult to find and hit. R16 SU-18  Be sure to move up with your team constantly, however, because of the gun's very short range. R16 SU-18 
+
+|InTheGame_research=
+* Fortunately the engine upgrades for the MS-1 carry over, so you should mount the AMO-3 engine immediately upon purchasing this SPG. R16 SU-18 
+* Upgrade the suspension for faster turning
+* Research the 9RK radio before proceeding. R16 SU-18 
+
+|InTheGame_equipment=
+Vents, GLD, Camouflage Net, Artillery Shell Rammer
+
+|History=
+The SU-18 is a variant of the T-18/MC-1. R16 SU-18 
+ 
+In November of 1929 ANII K. R16 SU-18  M. R16 SU-18  Ivanov, commissioned by the UMM RKKA, produced a self-propelled gun based on the T-18, as well as the ammunition carrier for it. R16 SU-18  The prototype was a captured French Renault FT-17BS. R16 SU-18  The SU-18 kept the same design as the French vehicle, but replaced the tower with one that resembles a truncated pyramid. R16 SU-18  The SU-18 used the 76. R16 SU-18 2-mm regimental gun model 1927 with a slotted muzzle brake to reduce rollback. R16 SU-18  It had an ammunition capacity of 4-6 rounds and no machine guns. R16 SU-18  Other prototypes were created using a high-power 37-mm PC-2 gun and a 45-mm model 1930 tank gun, which was planned to be installed on T-24 tanks. R16 SU-18  
+
+Armor consisted of 5-7 mm thick plates. R16 SU-18  The ammunition carrier could hold 10 trays with 50 rounds each of 76. R16 SU-18 2 mm shells, or 16 trays of 169 shells each of 37mm or 45mm guns. R16 SU-18  The crew consisted of one driver and one gunner. R16 SU-18  The decision to build the SU-18 was made on June 11 and stipulated the delivery of a prototype by October 10, 1930. R16 SU-18  However, due to the small ammunition capability and the limitations of the T-18 (a narrow gauge chassis and a high center-of-gravity), the design was abandoned in favor of larger and better self-propelled gun designs, and further work on the SU-18 was stopped. R16 SU-18 
+
+|HistoricalGallery=
+image:SU_18_drawing_1. R16 SU-18 jpg{{!}}Drawing of the proposed SU-18
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://www. R16 SU-18 aviarmor. R16 SU-18 net/TWW2/tanks/ussr/t-18. R16 SU-18 htm www. R16 SU-18 aviarmor. R16 SU-18 net]
+* https://tankarchives. R16 SU-18 blogspot. R16 SU-18 com/2014/11/su-18. R16 SU-18 html
+
+}}
+
+[[Category:USSR Tanks]]

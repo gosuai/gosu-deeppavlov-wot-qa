@@ -1,0 +1,65 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Great all-around protection, side armor is capable to sidescraping rather effectively 
+
+- High HP pool (1700)
+
+- Very good view range (400 meters)
+
+- High mass (168 tonnes), extremely resistant to ramming
+
+- Decent alpha and penetration 
+
+- Good crew trainer for German super heavy tanks
+|InTheGame_cons= 
+- Terrible top speed (20/15km) combined with large size and poor roof armor makes it vulnerable to SPGs
+
+- Terrible hull traverse and turret traverse speed combined with flat side armor, extremely vulnerable to flanking
+
+- Low rate of fire and poor accuracy (0. G138 VK168 02 Mauerbrecher 38)
+
+- Weak ammorack
+
+- Huge cupola is very weak and easy damaged when sidescraping, machine gun port and lower plate weak spots also often hamper its frontal protection
+
+
+|InTheGame_performance= Basically a premium equivalent of the VK100P, the Mauerbrecher breaks the mold of recent premium tanks in that it is decidedly inferior to its non-premium counterpart. G138 VK168 02 Mauerbrecher  It has even worse mobility and its armour, while good on paper, is riddled with weak spots that can be exploited even by lower tier tanks. G138 VK168 02 Mauerbrecher  In particular, its machinegun port, which can be penetrated from almost any angle, is the bane of this vehicle. G138 VK168 02 Mauerbrecher  The only effective way to exploit the armour on the Mauerbrecher is by sidescraping a wall to the right of the tank. G138 VK168 02 Mauerbrecher  That way, the machinegun port can be covered up and even the commander's hatch will remain behind the wall. G138 VK168 02 Mauerbrecher 
+As a result, using the Mauerbrecher to lead assaults, even when top tier, is a guarantee for disaster. G138 VK168 02 Mauerbrecher  This tank is best used in the support role. G138 VK168 02 Mauerbrecher  Ideally, it should follow other tanks and use them to hide its hull. G138 VK168 02 Mauerbrecher  This leaves only the commander's hatch as a potential weak spot. G138 VK168 02 Mauerbrecher  Thanks to its hardhitting gun, the Mauerbrecher can be effective against higher tier vehicles, but its vulnerability only increases at higher tiers. G138 VK168 02 Mauerbrecher 
+
+|InTheGame_research= This premium vehicle is fully researched. G138 VK168 02 Mauerbrecher 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The in-game VK. G138 VK168 02 Mauerbrecher 168. G138 VK168 02 Mauerbrecher 01 (P) is based on an intermediate step in the development of the Maus, specifically the blueprint K. G138 VK168 02 Mauerbrecher 3384, dated to October 5, 1942. G138 VK168 02 Mauerbrecher 
+
+(See the [[Tank:G110_Typ_205|Mauschen]] for more info. G138 VK168 02 Mauerbrecher )
+
+During the development of the Pz. G138 VK168 02 Mauerbrecher Kpfw. G138 VK168 02 Mauerbrecher  VIII Maus, a redesigned blueprint was presented by Porsche on October 5th, 1942. G138 VK168 02 Mauerbrecher  By October 28th, blueprint K. G138 VK168 02 Mauerbrecher 3384 was ready. G138 VK168 02 Mauerbrecher  The mass of the tank increased only a little bit compared to the late June version, a mere 10 tons. G138 VK168 02 Mauerbrecher  The tank, however, changed beyond all recognition. G138 VK168 02 Mauerbrecher  The new turret had a larger turret ring, so the sloped sides had to go. G138 VK168 02 Mauerbrecher  the turret is now placed at the frontal of the vehicle. G138 VK168 02 Mauerbrecher  The hull resembled a box with a sloped rear and front. G138 VK168 02 Mauerbrecher  There was a new feature, a machinegun mount in the hull. G138 VK168 02 Mauerbrecher  Due to the longer and heavier hull, there were now 8 road wheels per side. G138 VK168 02 Mauerbrecher  For ease of service, instead of one wide track, there were now two narrower ones, like on the VK 40. G138 VK168 02 Mauerbrecher 01(P). G138 VK168 02 Mauerbrecher  
+
+In early November of 1942, the tank was reworked again. G138 VK168 02 Mauerbrecher  By November 14th, blueprint K. G138 VK168 02 Mauerbrecher 3385 (presented in-game as the [[Tank:G110_Typ_205|Mauschen]]) was ready, where the turret moved to the rear of the hull. G138 VK168 02 Mauerbrecher  Similar metamorphoses happened to the Porsche Typ 180 heavy tank (VK 45. G138 VK168 02 Mauerbrecher 01(P)). G138 VK168 02 Mauerbrecher 
+
+|HistoricalGallery= 
+File:Mauschen_blueprint. G138 VK168 02 Mauerbrecher jpg{{!}}Blueprint K. G138 VK168 02 Mauerbrecher 3384, October 5th, 1942. G138 VK168 02 Mauerbrecher  This is the basis for the in-game VK. G138 VK168 02 Mauerbrecher 168. G138 VK168 02 Mauerbrecher 01 (P). G138 VK168 02 Mauerbrecher 
+
+|HistAcc=
+* The 15 cm guns proposed for this design, the 15 cm KwK L/31 and the 15 cm KwK L/37, are unavailable in-game. G138 VK168 02 Mauerbrecher 
+* The armor of VK. G138 VK168 02 Mauerbrecher 168. G138 VK168 02 Mauerbrecher 01 were significantly decreased compared to the [[Tank:G110_Typ_205|Mauschen]] for balancing reasons. G138 VK168 02 Mauerbrecher 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

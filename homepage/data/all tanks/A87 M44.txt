@@ -1,0 +1,63 @@
+{{TankData|Tank=M44
+|
+
+|Sidebar_Camostop=10. A87 M44 0
+|Sidebar_Camomove=5. A87 M44 1
+|Sidebar_Camofire=1. A87 M44 5
+|Sidebar_Passhard=1. A87 M44 247
+|Sidebar_Passmed=1. A87 M44 438
+|Sidebar_Passsoft=2. A87 M44 397
+|Sidebar_DispTurret=0. A87 M44 441
+|Sidebar_DispRecoil=5. A87 M44 753
+|Sidebar_DispAccel=0. A87 M44 384
+|Sidebar_DispTurning=0. A87 M44 384
+
+|InTheGame_pros=
+* Excellent mobility that allows the M44 to easily achieve its top speed of 56 km/h. A87 M44  
+* Wide horizontal and good vertical shell arc which helps reduce reticle bloom when shifting aim. A87 M44  
+* The reload, aim time and excellent accuracy for an artillery piece make this a great team support weapon. A87 M44 
+* Surprisingly profitable to play
+|InTheGame_cons=
+* Second lowest average damage out of all Tier VI artillery, with 550 alpha. A87 M44 
+* Lowest average stun duration of 6. A87 M44 76 seconds compared to other Tier 6 artillery. A87 M44  
+
+
+|InTheGame_performance=
+The M44 is like a tier 6 version of the M53/55. A87 M44   It has moderately high mobility, combined with good damage, a fast reload, and decent accuracy. A87 M44   The M44 is well-rounded, with no really lackluster statistics that hinder it in any way. A87 M44   It is able to hurt anything it sees, and can do well even when bottom tier. A87 M44   During Clan Wars Campaigns, the M44 may see use during the Tier 6 stages. A87 M44 
+
+|InTheGame_research=
+* None of the available upgrades are researched and carry over from the M41. A87 M44 
+* Research the M45 Howitzer 2nd gun first. A87 M44  It is lighter than stock gun so no need for tracks first. A87 M44 
+* Research the top radio next, as it is also used on the [[Tank:M53_M55|M53/M55]] later in the line. A87 M44 
+* Suspension and engine last. A87 M44  Or you can simply go straight to the [[M12]]. A87 M44 
+* Note that the top engine is shared with the [[M41 Walker Bulldog]], [[T49]] and [[T69]] If you are going to be researching these lines in the future it is sensible to research the engine here. A87 M44 
+
+Alternatively, research the suspension first, as you cannot mount the camouflage net without the upgraded suspension. A87 M44  This will allow for increased survivability, while you are researching the other upgrades. A87 M44 
+
+
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery
+
+
+|History=
+The T99 design was approved in 1947 and development of what would become the M44 began. A87 M44  The design was based upon the chassis of the M41 Walker Bulldog light tank and incorporated the 155mm howitzer M45. A87 M44  Testing during development revealed flaws in the design and production halted. A87 M44  The first 250 vehicles built by Massey Harris had to be rebuilt under the last of a series of revised designs which was designated T194 in 1951. A87 M44  The production models were designated the 155mm self-propelled howitzer M44. A87 M44 [1]
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+# Hunnicutt, 1995, p. A87 M44 199-201. A87 M44 
+
+|Ref_sources=
+
+Hunnicutt, R. A87 M44 P. A87 M44 , 1995, '''<i>Sheridan: A History of the American Light Tank -  Volume-2</i>''',  Presidio Press, 340p,  ISBN:9780891415701. A87 M44 
+
+
+|Ref_links=
+
+* [https://afvdb. A87 M44 50megs. A87 M44 com/usa/155mmsphm44. A87 M44 html '''M44 Howitzer Motor Carriage'''] Specs and brief history. A87 M44 
+}}

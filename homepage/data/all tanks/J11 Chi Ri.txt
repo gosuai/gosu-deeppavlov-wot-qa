@@ -1,0 +1,179 @@
+{{for|the Japanese Tier X Super-Heavy tank|Type 5 Heavy}}
+{{for|the Japanese Tier IV Light tank|Type 5 Ke-Ho}}
+{{TankData|Tank=Chi_Ri
+|At a glance, the Type 5 Chi-Ri is not much of an upgrade from the [[Tank:Type 4 Chi-To|Type 4 Chi-To]]. J11 Chi Ri  It is an even larger target, has more or less the same armor, and is in most other ways similar or identical to the Chi-To. J11 Chi Ri  The main difference, however, is that the Chi-Ri receives an auto-loading version of the Chi-To's gun. J11 Chi Ri  This gun has impressive burst damage combined with a short magazine reload, giving the Chi-Ri a unique playstyle for a tier 7 medium. J11 Chi Ri 
+
+|Gallery=
+
+File:Type 5 Chi-Ri scr 1. J11 Chi Ri jpg
+File:Type 5 Chi-Ri scr 2. J11 Chi Ri jpg
+File:Type 5 Chi-Ri scr 3. J11 Chi Ri jpg
+File:Type 5 Chi-Ri screen_1. J11 Chi Ri jpg
+File:Type 5 Chi-Ri screen_2. J11 Chi Ri jpg
+File:Type 5 Chi-Ri screen_3. J11 Chi Ri jpg
+File:Type 5 Chi-Ri screen_4. J11 Chi Ri jpg
+
+
+|InTheGame_pros=
+* Good top gun - 3-shot autoloader with fast aiming time and clip reload
+* Can equip a gun rammer despite using an autoloader gun
+* Great gun depression
+* Large hitpoint pool for a medium tank, comparable to same-tier heavies
+* Decent viewrange
+
+|InTheGame_cons=
+* Large, boxy shape with thin armor and bad camouflage
+* Low speed and engine power for a medium tank
+* Premium ammo is AP with a lackluster increase in penetration and no shell speed improvement
+* Very vulnerable to artillery due to its size and lack of armor
+
+|InTheGame_performance=
+
+Up to the Chi-To, Japanese medium tanks usually have had fairly good guns for their class and tier, but mounted on sluggish platforms with relatively poor armor. J11 Chi Ri  The Chi-Ri, however, uses the same gun as the Chi-To but finds itself facing Tier IX tanks like the [[T-54]] or [[E 75]], often making it more challenging to play than its predecessors. J11 Chi Ri 
+
+The unique feature of the Chi-Ri is its top gun: a three-round autoloader, similar to the gun on the [[Skoda T 25]]. J11 Chi Ri  At 130 damage per shell, this gives an effective average damage per clip of 390, the same damage the [[IS]] at the same tier does in one shot. J11 Chi Ri  Along with only 155mm of penetration using standard AP (and 186mm using premium), this gun will struggle against higher-tier tanks. J11 Chi Ri 
+
+The intra-clip reload is very short at 1s, but is shorter than the aim time (1. J11 Chi Ri 63s), which means that the reticle does not settle completely by the time the next shot is ready. J11 Chi Ri  As a result, the gun is not likely to accurately land all three shots unless fighting at close range or allowing the gun to fully aim, reducing your rate of fire. J11 Chi Ri 
+
+The non-autoloading version of the same 7. J11 Chi Ri 5 cm gun is also an option. J11 Chi Ri  It has higher damage-per-minute and is more consistent, but at the cost of sacrificing the 390 dmg burst. J11 Chi Ri 
+
+The Chi-Ri has almost no armor to speak of beyond a small gun mantlet, which is 150 mm thick and will bounce the occasional shot if the enemy is unlucky enough to hit it. J11 Chi Ri  Other than that, the frontal armor has a maximum thickness of only 75mm and is extremely vulnerable to HE shell calibers of 152mm and larger. J11 Chi Ri  This tank, because of its size and poor concealment values, is particularly vulnerable to artillery fire, compounded by the fact that the Chi-Ri with the autoloader has to expose itself for a considerable amount of time to get all three shots off. J11 Chi Ri  The excellent gun depression can mitigate this somewhat with good use of terrain, but the turret is still quite a large target and its armor is no better than the hull. J11 Chi Ri 
+
+The Chi-Ri has fairly good terrain resistance values to compensate for its underpowered engine, but will struggle to reach its top speed on all but the flattest and hardest terrain. J11 Chi Ri  It is by far the slowest medium of its tier and has a hard time flanking targets due to its poor mobility. J11 Chi Ri 
+
+In terms of playstyle, the Chi-Ri has almost nothing in common with the other mediums of its tier. J11 Chi Ri  With relatively weak guns, huge size, no armor, and poor mobility, the Chi-Ri should avoid brawling whenever possible. J11 Chi Ri  With no effective armor, the Chi-Ri has to rely on its relatively large hitpoint pool to stay alive. J11 Chi Ri  It is heavily dependent on cover, using obstacles and terrain to hide behind while reloading. J11 Chi Ri  The autoloading gun is good for minimizing exposure and also for finishing off low health targets. J11 Chi Ri  This promotes a rather opportunistic playstyle, keeping behind cover and only emerging to shoot at targets while they are distracted or reloading. J11 Chi Ri  While the Chi-Ri's guns are reasonably accurate, they do not have the penetration to be viable for long-range sniping. J11 Chi Ri  
+
+Although the gun resembles the three-round autoloader on the [[Skoda T 25]], the Chi-Ri cannot be played the same way. J11 Chi Ri  Unlike the [[Skoda T 25]], you lack the mobility for hit-and-run tactics, meaning once you engage an enemy, you are committed. J11 Chi Ri  Keep in mind that most opponents will be able to survive two clips, more if some of your shots bounce. J11 Chi Ri  Focus on single enemy tanks and avoid engagements with multiple opponents, or you will be quickly overwhelmed. J11 Chi Ri 
+
+
+|InTheGame_research=
+* Should have the second gun and top radio unlocked from the Chi-To, mount immediately
+* Tracks first, as they are required to mount the turret
+* Turret and autoloading gun
+* Engine next, as it adds only 50 horsepower
+|InTheGame_equipment= medium-caliber tank gun rammer, vents, coated optics, enhanced gun laying drive
+
+
+|History=
+
+Development
+
+In 1942, Japan initiated a new medium tank program of 3 projects, each being a different class of medium tank: a 47mm medium tank, a 57mm medium tank, and a 75mm medium tank. J11 Chi Ri  These tanks were supposed to be a new breed of anti-tank capable medium tanks. J11 Chi Ri  In short time, the 47mm class was seen obsolete and was upgrading to a 57mm tank project, whereas the remaining two projects merged into a single 75mm tank project. J11 Chi Ri  This 57mm tank project and 75mm tank project were the Chi-To and Chi-Ri tanks respectively. J11 Chi Ri  
+
+==Design==
+
+During 1943, by looking at the tank battles between Germany and Russia, there was fear that the Chi He and the Chi To could be underpowered by the time they would enter production. J11 Chi Ri  At this time, many technological inspections and planning have occurred for the Chi Ri. J11 Chi Ri  These included ventilation, transmission, suspension, 550 HP gasoline engine, and easy access to the engine for maintenance. J11 Chi Ri  Targeted top speed was 42kph. J11 Chi Ri  Improved ventilation was necessary because of the anticipated increased influx of poisonous gas when using the high rate of fire from an auto loading cannon. J11 Chi Ri  The main armament would become the Type 5 75mm cannon. J11 Chi Ri  It was planned to attach an auto loader to it. J11 Chi Ri  Here is a picture of it being tested with the single tray auto loader. J11 Chi Ri 
+
+[[image:Autoloading_type_5_75mm_gun. J11 Chi Ri jpg]]
+
+==75 mm Gun Type 5==
+
+* Shell Weight: 6. J11 Chi Ri 615 kg
+* Muzzle Velocity: 821 m/s
+* Kinetic Energy: 2229 kj
+* Historical Pen: 75 mm (1,000 meters) goal (met), 80 mm (1,000 meters) expected
+Three different armor-piercing shells were developed for the Type 5 gun, though the Chi-Ri Plan 2 ended up being cancelled before the second and third shells were developed. J11 Chi Ri 
+
+However, steps were taking to ensure an even more advance design could be made available. J11 Chi Ri 
+
+In September 1943, a plan 1 and a plan 2 were outlined for the Chi Ri. J11 Chi Ri  The goal of plan 1 was to use the current technology developed so far to produce a finished Chi Ri within 1 year. J11 Chi Ri  Plan 2 was an ambitious plan to push the edge of technology. J11 Chi Ri  The Chi Ri tank discovered by the American forces was the Plan 2 tank. J11 Chi Ri 
+
+[[File:Chi-Ri_plan_1. J11 Chi Ri png]]
+Chi-Ri Plan 1
+
+[[File:Chi-Ri_plan_2. J11 Chi Ri jpg]]
+Chi-Ri Plan 2
+
+The biggest difference between plan 1 and plan 2 was the suspension and the turret. J11 Chi Ri 
+
+==Chi-Ri Plan 2 Suspension Options==
+
+There was a total of 6 suspension plans examined. J11 Chi Ri  Three plans from the Technology Research Institution (TRI) and three from Mitsubishi Heavy industries (MHI). J11 Chi Ri 
+
+One plan from TRI was a common Japanese style coil spring suspension which was already proven to work on other Japanese tanks. J11 Chi Ri  The other two plans were staggered arranged road wheels much like the notorious suspensions found in German tanks like the Tiger and Panther. J11 Chi Ri  One with coil springs like this picture and another with torsion bars. J11 Chi Ri 
+
+[[File:Chi_Ri_coil_springs_suspension_example. J11 Chi Ri jpg]]
+Example of staggered road wheels with coil springs suspension
+
+The three plans from MHI were 6 large road wheels. J11 Chi Ri  One was with coil springs and one with torsion bars. J11 Chi Ri 
+Ultimately, the Japanese went with what they were used too. J11 Chi Ri 
+
+[[File:Chi-Ri_actual_suspension. J11 Chi Ri gif]]
+Six road wheel style coil spring suspension
+
+The Suspension used very wide treads. J11 Chi Ri  The width was 600mm. J11 Chi Ri  For a 35 ton class tank, this would have produced a very impressive ground pressure value. J11 Chi Ri  The goal was a ground pressure of about 0. J11 Chi Ri 6 to 0. J11 Chi Ri 7 kg/cm². J11 Chi Ri  Compared to other tanks, this was a very good value. J11 Chi Ri  It should be noted that the plan 2 prototype ended up weighing considerably more than 35 tons. J11 Chi Ri 
+
+* M46 has: 0,986 kg/cm²
+* KT has: 1. J11 Chi Ri 03 kg/cm²
+* Conqueror has: 0. J11 Chi Ri 84kg/cm²
+* Crusader Cruiser has: 1. J11 Chi Ri 04 kg/cm²
+* Centurion (1 I suppose) has: 1,04 kg/cm²
+* M48 has: 0. J11 Chi Ri 92 kg/cm²
+* T-54 has: 0. J11 Chi Ri 81 kg/cm²
+* T-34/76: 0. J11 Chi Ri 66 kg/cm²
+* M103 has: . J11 Chi Ri 908kg/cm²
+* M5 Stuart has: 0. J11 Chi Ri 856kg/cm²
+* M4A1 Sherman has: 0. J11 Chi Ri 962kg/cm²
+* M4A3 (76mm + HVSS) has: 0. J11 Chi Ri 772kg/cm²
+* M26 Pershing had: 0. J11 Chi Ri 878kg/cm²
+
+
+==Chi-Ri Plan 2 Turret==
+
+In order to accommodate a load of 100 75mm rounds and to fit in a belt style auto loader, the turret was enlarged. J11 Chi Ri  The plan 1 turret would likely not be capable of handling this task, therefore the large turret was designed. J11 Chi Ri  To increase the speed of target acquisition, the turret would rotate by an electric motor, increasing the speed of turret rotation. J11 Chi Ri  Another advanced feature was the gyro-stabilizer for the 75mm cannon. J11 Chi Ri  It was demanded for the Chi-Ri to be able to engage targets up to 2000 meters away so a long range observation device was installed. J11 Chi Ri  One other feature is that it was the first Japanese tank, and one of the few tanks in all of WWII, to have a turret basket built in. J11 Chi Ri 
+
+Probably the most controversial feature was the secondary 37mm cannon. J11 Chi Ri  This was present on both of the Chi-Ri prototypes. J11 Chi Ri  It was likely intended to be used for soft targets that would be overkill for the 75mm cannon and thus free up the 75mm for more critical targets. J11 Chi Ri  However, the 37mm ended up being eliminated from later designs of the Chi-Ri. J11 Chi Ri 
+
+The belt fed auto-loading system never ended up being built, likely due to the anxiety of trying to create a belt system that would move 900mm long shells around within the turret. J11 Chi Ri  However the large turret was already designed. J11 Chi Ri  In its place, a single tray auto loader was to be attached to the Type 5 75mm cannon instead thus still maintaining a fast rate of fire. J11 Chi Ri  It is believed that very likely the Chi-Ri underwent running and shooting trials in March 1945. J11 Chi Ri  However, the simpler Type 4 Chi-To was selected over the Chi-Ri for production, as the tray-based autoloader was found to be too mechanically unreliable. J11 Chi Ri  The likely reason why the Chi-Ri was found without armament is because the Chi-To mounted the same 75mm cannon and thus the Chi-Ri’s 75mm cannon was likely moved to a Chi-To tank. J11 Chi Ri  The Chi-Ri was later redesigned, sharing many of the same components with the Chi-To. J11 Chi Ri  Three of these redesigned "production model" Chi-Ri's were started before the end of the war. J11 Chi Ri 
+
+In 1945 development was stopped due to the Japanese surrender. J11 Chi Ri  The prototype Chi-Ri plan II was taken by Americans to be tested at the Aberdeen Proving Grounds, where eventually it was chosen to be scrapped alongside other vehicles on October 4, 1952. J11 Chi Ri  The fate of the prototype Chi-Ri plan I as well as the partially-completed production models are unknown as well. J11 Chi Ri  It should be noted that while many sources describe the Chi-Ri's turret as having been planned to eventually house Type 99 88 mm AA Gun similarly to the German Tiger tank, there are no such plans listed in any original Japanese documents on the tank. J11 Chi Ri 
+
+==Variants==
+
+* '''Chi-Ri Plan I''' - The first model. J11 Chi Ri 
+* '''Chi-Ri Plan II''' - The second model, housing a larger turret to fit a semi-automatic loading system as well as a slightly adjusted suspension. J11 Chi Ri 
+* '''Casemate TD I and II''' - a proposed cheaper alternative to the Chi-Ri, with shorter hull, 7 roadwheels per side, and a 7. J11 Chi Ri 5 cm cannon mounted on a superstructure. J11 Chi Ri  Cancelled in favor of Ho-Ri, which had much superior armament. J11 Chi Ri  Some elements of the vehicle were eventually reused on redesigned version of the Chi-Ri, including the shorter hull. J11 Chi Ri 
+* '''Chi-Ri (production model)''' - completely redesigned version to share several components with the Chi-To. J11 Chi Ri   
+* '''Ho-Ri''' - a tank destroyer based on the Chi-Ri, mounting a 10. J11 Chi Ri 5 cm AT gun capable of defeating even the strongest US tanks of time. J11 Chi Ri  The progress of the Ho-Ri is uncertain. J11 Chi Ri  5 of them were ordered, but are not known to be finished. J11 Chi Ri  Some sources state that one prototype of a variant with sloped armor was finished and underwent trials. J11 Chi Ri  The vehicle had several variants, including:
+** '''Ho-Ri I (sloped armor)''' - Features a superstructure in the back, with heavily sloped frontal plate in the front. J11 Chi Ri  The machine gun and 3. J11 Chi Ri 7 cm gun are removed. J11 Chi Ri  A wooden mockup produced. J11 Chi Ri  The lack of secondary weapons and more complex design of the sloped armor plate made the design less favorable to the vertical armor design, despite the significantly superior armor protection thanks to the slope. J11 Chi Ri 
+** '''Ho-Ri I (vertical armor)''' - Similar to above, but has vertical armor instead, as well as machine gun and 3. J11 Chi Ri 7 cm guns mounted, similar to the Chi-Ri. J11 Chi Ri  Existed only in drawings. J11 Chi Ri 
+** '''Ho-Ri II''' - the final version of the Ho-Ri. J11 Chi Ri  Similar to the previous model, but has its superstructure mounted in the middle, giving it similar appearance to the German Jagdtiger. J11 Chi Ri  In addition, it had other features such as a periscope and 20 mm AA gun installed. J11 Chi Ri  5 of them were ordered, but their status is unknown. J11 Chi Ri 
+* '''Chi-Se''' - a plan of using a 10. J11 Chi Ri 5 cm AT gun on a medium tank. J11 Chi Ri  Not much is known about the vehicle, but it was assumed to utilize components from both the Chi-Ri and Ho-Ri. J11 Chi Ri  Plan only. J11 Chi Ri 
+
+|HistoricalGallery=
+image:Chi-Ri_front. J11 Chi Ri jpg{{!}}The Chi-Ri as found by the Americans. J11 Chi Ri  The Type 5 75mm cannon was removed, likely for testing on the Chi-To. J11 Chi Ri 
+image:Chi-Ri_back. J11 Chi Ri jpg{{!}}
+image:Autoloading_type_5_75mm_gun. J11 Chi Ri jpg{{!}}The Type 5 75mm cannon being tested with the single tray auto loader. J11 Chi Ri 
+File:Chi-Ri_plan_1. J11 Chi Ri png{{!}}Chi-Ri Plan 1
+File:Chi-Ri_plan_2. J11 Chi Ri jpg{{!}}Chi-Ri Plan 2
+File:Kawasaki_H9II_800_horse_power_engine. J11 Chi Ri jpg{{!}}Kawasaki H9II 800 horsepower engine used on the Chi-Ri, detuned to 550 horsepower. J11 Chi Ri 
+File:Production_Chi-Ri. J11 Chi Ri jpg{{!}}Production model of the Chi-Ri. J11 Chi Ri  Note the similarities with the Chi-Nu turret 
+File:Ho_Ri_design_III_mock-up. J11 Chi Ri jpg{{!}}Wooden mock-up of the Ho-Ri I with a sloped armor. J11 Chi Ri  Some sources state that prototype of this variant and was sent to trials before the end of war. J11 Chi Ri 
+File: Ho-Ri_I_drawing. J11 Chi Ri jpg{{!}}Drawings of the Ho-Ri I with vertical armor. J11 Chi Ri 
+File:Ho-Ri II. J11 Chi Ri jpeg{{!}}Drawings of the Ho-Ri II. J11 Chi Ri  Note the 20 mm AA gun on the engine deck and periscope on the casemate roof, as well as different casemate design. J11 Chi Ri 
+File:Chi-Ri_single_tray_autoloader_blueprint. J11 Chi Ri jpg{{!}}Chi-Ri plan II with the single-tray autoloader
+File:Chi_Se_diagram. J11 Chi Ri jpg{{!}}A speculative drawing of the Chi-Se, a planned medium tank with a 10. J11 Chi Ri 5 cm AT gun. J11 Chi Ri  This drawing describes the Chi-Se as a hybrid, combining the hull of the sloped armor Ho-Ri and a redesigned, uparmored Chi-Ri plan II turret with a 10. J11 Chi Ri 5 cm AT gun. J11 Chi Ri 
+File:Japanese_tank_gun_depression. J11 Chi Ri jpg{{!}}Diagram of various Japanese tanks' gun depression. J11 Chi Ri  The Chi-Ri is on the bottom. J11 Chi Ri 
+File:Chi-Ri_turret_interior. J11 Chi Ri jpg{{!}}Interior of the Chi-Ri's turret, taken in 1945 by Americans after the war. J11 Chi Ri 
+File:Chi-Ri_and_Chi-To_at_Aberdeen_testing_grounds. J11 Chi Ri jpg{{!}}Chi-Ri along with other Japanese tanks at the Aberdeen Testing Grounds. J11 Chi Ri  [https://www. J11 Chi Ri youtube. J11 Chi Ri com/watch?v=4mkS8EodQbA On October 4, 1952, it was chosen to be scrapped along with other vehicles left from World War 2. J11 Chi Ri ]
+
+|Ref_references=
+
+* Tomczyk, Andrzej (2005). J11 Chi Ri  Japanese Armor Vol. J11 Chi Ri  4. J11 Chi Ri  AJ Press. J11 Chi Ri  ISBN 978-8372371676. J11 Chi Ri 
+* Tomczyk, Andrzej (2007). J11 Chi Ri  Japanese Armor Vol. J11 Chi Ri  5. J11 Chi Ri  AJ Press. J11 Chi Ri  ISBN 978-8372371799. J11 Chi Ri 
+* Zaloga, Steven J. J11 Chi Ri  (2007). J11 Chi Ri  Japanese Tanks 1939–45. J11 Chi Ri  Osprey. J11 Chi Ri  ISBN 978-1-8460-3091-8. J11 Chi Ri 
+
+|Ref_sources=
+
+* Maru [丸] 2011 October magazine edition. J11 Chi Ri  平成２３年１０月一日発行
+
+|Ref_links=
+* https://en. J11 Chi Ri wikipedia. J11 Chi Ri org/wiki/Type_5_Chi-Ri
+* https://ftr-wot. J11 Chi Ri blogspot. J11 Chi Ri com/2013/05/chi-ri-imperial-japans-most-advanced. J11 Chi Ri html
+* https://www. J11 Chi Ri reddit. J11 Chi Ri com/r/Warthunder/comments/5w77nn/chiri_production_model/
+* https://www. J11 Chi Ri reddit. J11 Chi Ri com/r/Warthunder/comments/5yihwc/chise_japans_heavy_medium/
+* https://sensha-manual. J11 Chi Ri blogspot. J11 Chi Ri com/2016/11/type5-ho-ri-japanese-ferdinand. J11 Chi Ri html
+* https://www. J11 Chi Ri reddit. J11 Chi Ri com/r/Warthunder/comments/7khck0/chiri_ii_turret_interior_photograph/
+* https://www. J11 Chi Ri youtube. J11 Chi Ri com/watch?v=4mkS8EodQbA - Video of the Chi-Ri being scrapped
+
+}}

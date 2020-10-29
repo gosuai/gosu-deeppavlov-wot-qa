@@ -1,0 +1,79 @@
+{{TankData|Tank=Nashorn
+|The Nashorn is very similar to its predecessor, the [[Tank:Pz. G40 Nashorn Sfl. G40 Nashorn  IVc|Pz. G40 Nashorn Sfl. G40 Nashorn  IVc]]. G40 Nashorn  It sacrificed mobility for a fantastic top gun, however the armor is still negligible and is a relatively large target. G40 Nashorn  Therefore, it should be played in the same fashion as the Pz. G40 Nashorn Sfl. G40 Nashorn  IVc -- stay behind the frontline in a sniping position and support teammates with its superb penetration and accuracy. G40 Nashorn  In the end game, its increased hit points compared to its predecessor can be very useful. G40 Nashorn 
+
+|Gallery=
+
+File:Nashorn scr 1. G40 Nashorn jpg
+File:Nashorn scr 2. G40 Nashorn jpg
+File:Nashorn scr 3. G40 Nashorn jpg
+
+
+|InTheGame_pros=
+* Excellent top gun; possesses overkill penetration yet damage-per-minute and handling are still top notch. G40 Nashorn  
+* Decent gun arc. G40 Nashorn 
+* Good camo rating. G40 Nashorn 
+* Reload with the stock gun let's you stitch enemies to death
+
+|InTheGame_cons=
+* Survivability is still pathetic; huge size + non-existent armor = quick destruction
+* Aggravating lack of gun depression
+* Only the radio carries over, researching the performance-wise identical guns again can be frustrating
+* Mediocre mobility especially compared to predecessor
+* Vulnerable forward mounted transmission & engine with low module HP, especially so if being de-tracked too
+
+|InTheGame_performance= This tank plays very much like a true sniper. G40 Nashorn  Possessing a great gun and weak armour. G40 Nashorn  If you reliably take out tanks that your allies have spotted, you will do well. G40 Nashorn  The gun is accurate at 0. G40 Nashorn 32 (8,8 cm Pak 43 L/71) allowing for persistent long range accuracy, whilst you remain in cover so as not to get spotted. G40 Nashorn  The camo value on this tank is good and with camouflage net/ camo crew this tank can do very well for itself. G40 Nashorn  The great rate of fire, accuracy, aim time and penetration make the Nashorn an exceedingly dangerous tank and it will have no difficulty in tier 8 games with 203mm of penetration on the 8,8 cm Pak 43 L/71. G40 Nashorn  The DPM is also extremely good with an average of 2284. G40 Nashorn 8 which is better than the [[M18 Hellcat]] (1694. G40 Nashorn 4), [[Tank:GB45_Achilles_IIC|Achilles]] (1956), [[Churchill Gun Carrier]] (1765), [[AT 8|AT-8]] (2092. G40 Nashorn 5), [[Dicker Max]] (1935), [[ARL V39]] (1600. G40 Nashorn 8), [[SU-100]] (1829. G40 Nashorn 1) and the [[SU-100Y]] (1650). G40 Nashorn  Only the [[JagdPz IV|Jagdpanzer IV]] beats the Nashorn with 2444. G40 Nashorn 2 dpm. G40 Nashorn 
+With only 360m of view range the Nashorn does struggle to spot its own targets at times, but with Binoculars this tank becomes very good at scouting out its own targets. G40 Nashorn 
+
+|InTheGame_equipment=GLD, Camouflage Net, Binocular Telescope, Medium-Caliber Tank gun rammer 
+
+|InTheGame_research=
+If you researched it on the Pz. G40 Nashorn Sfl. G40 Nashorn IVc before, mount the top radio. G40 Nashorn 
+
+You can mount top gun with stock tracks, but adding any equipment, including camonet or binocular telescope requires them. G40 Nashorn 
+
+Next go for the top 8. G40 Nashorn 8 cm gun. G40 Nashorn 
+
+Go from there. G40 Nashorn 
+
+'''Note''': The Nashorn shares the 8,8cm L/71 with the Jagdpanther, which eases cross-tree advancement. G40 Nashorn  It's also available if you unlocked Ferdinand from Tiger P. G40 Nashorn  Engine upgrades are shared with Hummel. G40 Nashorn 
+
+|History=After the first German experiences with the newer Soviet tanks like the T-34 or the Kliment Voroshilov tank during Operation Barbarossa, the need for a Panzerjäger capable of destroying these more heavily armoured tanks became clear. G40 Nashorn 
+
+In February 1942, the Alkett (Altmärkische Kettenwerke GmbH) arms firm of Berlin designed a tank destroyer using their recently developed Geschützwagen III/IV which as its name indicated used components of both the Panzer III and Panzer IV tank. G40 Nashorn  The 8,8 cm Panzerabwehrkanone 43/1 L/71 (or shortly Pak 43/1), a long-barreled anti-tank gun more known as the main armament of the Tiger II, was mounted on the rear of the chassis complete with its gun shield and an open-topped superstructure was built up around the gun to give the crew some protection. G40 Nashorn  The gun had the same traverse and elevation as if it had been on its carriage: 15° to either side and between -5° to +15° elevation. G40 Nashorn  To accommodate the long and heavy gun, the hull had to be lengthened and the engine moved from the rear to the centre of the chassis. G40 Nashorn  The amount of armour provided for the crew compartment was limited. G40 Nashorn  The shielding provided was adequate to protect the crew from blast and small arms, but not armour piercing rounds. G40 Nashorn  Thus like the Marder series weapons, the vehicle was not intended to engage in tank fights, but to provide mobility to an excellent anti-tank gun. G40 Nashorn 
+
+This model was presented for approval to Adolf Hitler in October 1942 and entered production in early 1943. G40 Nashorn  It had numerous official designations, such as 8,8 cm Pak 43 (L/71) auf Fahrgestell Panzerkampfwagen III/IV (Sf) or 8,8cm Pak43 (L/71) auf Geschützwagen III/IV (Sd. G40 Nashorn  Kfz. G40 Nashorn  164), though it was also known as the Panzerjäger Hornisse (in English "Tank-hunter Hornet")
+
+During the first half of 1943, a new model of the Hornisse was introduced into production. G40 Nashorn  This model altered the driver's front armour plate, along with other petty differences. G40 Nashorn  This model and its predecessor, the few early production vehicles, were almost indistinguishable. G40 Nashorn  It was renamed Nashorn by Hitler in 1944. G40 Nashorn 
+
+Total production of the Nashorn amounted to some 494 vehicles, most of which were built in 1943. G40 Nashorn  In January 1944 Hitler favored production of a newer tank destroyer, the Jagdpanzer IV, which had a much lower silhouette, thicker frontal armor (60 mm frontal plate), and an effective though less powerful 7. G40 Nashorn 5 cm gun. G40 Nashorn  Though still primarily an ambush weapon, this vehicle was better built for armoured engagements. G40 Nashorn  Production of the Nashorn did continue into 1945, though at a slow pace. G40 Nashorn 
+
+|HistAcc=
+The Pak 43 gun was the Nashorn's only primary armament. G40 Nashorn  The other gun configurations are fake. G40 Nashorn 
+* Actual top speed is 42 km/h. G40 Nashorn 
+* Nashorns had a dark yellow (Dunkelgelb) base coat. G40 Nashorn  In World of Tanks, the Nashorn is in early Panzer Grey. G40 Nashorn 
+* Uses the same engines as the [[Jagdpanzer IV]], which is also a Panzer IV chassis. G40 Nashorn  Yet the horsepower and weight values are inconsistent. G40 Nashorn 
+
+|HistoricalGallery=
+image:Bundesarchiv_Nashorn_on_the_Russian_front. G40 Nashorn jpg
+image:Manufactoring_of_Nashorn_TD. G40 Nashorn jpg
+image:Nashorn_at_Aberdeen_proving_grounds. G40 Nashorn jpg
+image:Nashorn_in_Italy,_AprilMay_1944. G40 Nashorn jpg
+image:Nashorn_on_the_italian_front. G40 Nashorn jpg
+image:Nashorn_tank_destroyers_on_the_Eastern_Front,_1944. G40 Nashorn jpg
+image:Nashorn_TD_side_view. G40 Nashorn jpg
+image:Nashorn_TD. G40 Nashorn jpg
+image:Nashorn,_note_the_commander_taking_notes_from_the_currier. G40 Nashorn jpg
+image:Panzerjager_Nashorn. G40 Nashorn jpg
+image:Panzerjager_Nashorn1. G40 Nashorn jpg
+image:Replacment_of_the_gun_on_Nashorn_somewhere_in_northern_Italy,_1944. G40 Nashorn jpg
+
+
+|Ref_references=
+
+
+|Ref_sources= *https://en. G40 Nashorn wikipedia. G40 Nashorn org/wiki/Nashorn
+
+
+|Ref_links=
+
+}}

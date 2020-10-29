@@ -1,0 +1,55 @@
+{{TankData|Tank=PzIV_schmalturm
+|Combining the turret of the [[Panther]] and the hull of the [[Pz. G77 PzIV Schmalturm Kpfw. G77 PzIV Schmalturm  IV Ausf. G77 PzIV Schmalturm  H]], the Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  has a more resilient turret than the other German medium tanks, excepting the [[VK 30. G77 PzIV Schmalturm 01 (P)]]. G77 PzIV Schmalturm  It trades this for poorer hull armor and poor mobility. G77 PzIV Schmalturm 
+
+In earlier patches of World of Tanks when the game still had +/-3 matchmaking, the Tier V Pz. G77 PzIV Schmalturm  IV had the Schmalturm as its upgraded turret with the 7,5 cm Kw. G77 PzIV Schmalturm K. G77 PzIV Schmalturm  42 L/70 gun. G77 PzIV Schmalturm  When softer matchmaking rules were introduced, the Tier V tank lost the Schmalturm and the Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  was reintroduced as a premium tank, now at Tier VI. G77 PzIV Schmalturm 
+
+The Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  was removed from sale in the gift shop and the in game tech tree on the 8 June 2015 [https://worldoftanks. G77 PzIV Schmalturm eu/en/news/pc-browser/premium/prem-tanks-removal-sale/ Removal of Premium Tanks From Shop] as part of the WG retirement plan. G77 PzIV Schmalturm 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Good penetration and accuracy
+* Good credit making potential
+* Good turret armor
+* Decent camouflage values
+* Good gun depression
+
+|InTheGame_cons=
+* Slow turret traverse
+* Weak hull armor, despite the side skirts might mitigate some HE damage
+* Underpowered engine, resulting in poor mobility
+* No preferential matchmaking means it will see tier 8 battles
+
+|InTheGame_performance=
+
+The Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  uses the same 7,5 cm L/70 gun as the other Tier VI German medium tanks, but with better dispersion parameters. G77 PzIV Schmalturm  With 150 mm of penetration with AP, the gun is quite adequate for most tanks it encounters at Tier VI (except the [[Churchill VII]] and [[O-I]]). G77 PzIV Schmalturm  However, it will struggle against Tier VIIIs, even with APCR sometimes. G77 PzIV Schmalturm  It is quite accurate and capable of hitting fairly consistently at medium to long ranges. G77 PzIV Schmalturm  The gun has a mediocre damage per shot, but the rate of fire is on par, though it would still lose in slugging matches against a few other high DPM tanks, like the [[M4A3E8 Sherman]] and [[Cromwell]]. G77 PzIV Schmalturm 
+
+The Schmalturm turret is quite resilient against lower tier tanks, and the gun mantlet and angled turret sides can get ricochets when the turret is pointed directly facing incoming fire. G77 PzIV Schmalturm  However, the flat face of the turret is only 120 mm thick, and can be penetrated by even some Tier V tanks. G77 PzIV Schmalturm  This is a weakness common to all the higher tier German medium tanks in the E 50 line. G77 PzIV Schmalturm  The hull is very weakly armored by Tier VI medium tank standards, and the sides are only 30 mm thick. G77 PzIV Schmalturm  A large caliber HE shell to the side, even pre-detonated by the skirt, will usually hit hard. G77 PzIV Schmalturm  The sideskirts do count toward the armor model, but have minor effect on incoming kinetic projectiles. G77 PzIV Schmalturm 
+
+With a fairly weak engine, the Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  has by far the worst mobility of the Tier VI German medium tanks. G77 PzIV Schmalturm  It does not accelerate very fast or turn very quickly. G77 PzIV Schmalturm  Combined with the glacial turret traverse rate, this makes the Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  very vulnerable to getting flanked or circle, as it cannot respond quickly to being attacked from multiple angles. G77 PzIV Schmalturm 
+
+The Pz. G77 PzIV Schmalturm  IV S. G77 PzIV Schmalturm  excels at sniping from long ranges, using its accuracy and rate-of-fire to wear down its opponents. G77 PzIV Schmalturm  However, it will often find itself fighting at much closer ranges, which requires a lot of caution. G77 PzIV Schmalturm  It is generally best to avoid brawling in the Pz IV S. G77 PzIV Schmalturm  unless in a position where the weak hull can be hidden. G77 PzIV Schmalturm  The gun depression is enough to take advantage of terrain, making hulldown tactics somewhat viable. G77 PzIV Schmalturm 
+
+|InTheGame_research=
+Premium tank with no unlockable modules
+
+|InTheGame_equipment= Binocular Telescope, Tank Gun Rammer, Camouflage Net, Enhanced Gun Laying Drive, Coated Optics
+
+
+|History=
+[[image:Version_with_Schmalturm_turret_was_to_be_developed_from_Pz_IV_H_model. G77 PzIV Schmalturm jpg|thumb|200px|left|Version with Schmalturm turret was to be developed from Pz IV H model]]
+Given the growing resistance of allied tanks to German anti-tank guns, plans were developed to categorically up-gun the entire range of German tanks toward the end of World War II. G77 PzIV Schmalturm  One possible answer was affixing the Schmalturm of the Panther Ausf. G77 PzIV Schmalturm  F to the Panzerkampfwagen IV Ausf. G77 PzIV Schmalturm  J chassis. G77 PzIV Schmalturm  No prototype was ever built so only the drawing give an indication of what the conversion would look like. G77 PzIV Schmalturm  Unfortunately, like so many other late-war German projects, this conversion was impractical. G77 PzIV Schmalturm  The chassis of the Panzerkampfwagen IV was severely overloaded by the schmalturm. G77 PzIV Schmalturm  Furthermore, it is doubtful the turret ring of the Panzer IV would have been able to accommodate the turret unless the overhang was widened (which was suggested in one schematic). G77 PzIV Schmalturm  However this would have further overloaded an already burdened chassis. G77 PzIV Schmalturm 
+
+|HistoricalGallery=
+PzKpfw IV Schmalturm drawing. G77 PzIV Schmalturm jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

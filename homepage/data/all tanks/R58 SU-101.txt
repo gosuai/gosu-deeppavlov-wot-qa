@@ -1,0 +1,137 @@
+{{TankData|Tank=SU-101
+|This tank plays in much the same way as the [[Tank:SU100M1|SU-100M1]], and has similar strengths and weaknesses. R58 SU-101  With the addition of the 122 mm M-62 gun, the SU-101 does have more options when it comes to playing as a sniper now. R58 SU-101 
+
+|Gallery=
+
+|InTheGame_pros= 
+* Powerful 122mm top gun with high alpha damage and penetration
+* Good frontal armor, very tough gun mantlet
+* Great forward/reverse speed and good acceleration
+* Excellent concealment, among the best in tier
+* Rather small target compared to other Tier 8 tank destroyers
+
+|InTheGame_cons=
+* Terrible gun depression and tight gun arc
+* Low ammo capacity
+* Bad accuracy and shell velocity
+* Horrible stock grind
+* Poor agility, vulnerable to flanking
+
+|InTheGame_performance=
+With the recent buff, the SU-101 now performs best as a second line assault tank. R58 SU-101  It now has 1,100 HP, as well as additional armor to boot. R58 SU-101  The 122 mm M-62 is a very powerful gun at Tier 8, boasting good shell damage, excellent penetration, and acceptable accuracy. R58 SU-101  It is a huge improvement over the 100 mm D-54S, which generally lacks the penetration to be a competitive tank destroyer gun at Tier 8 without resorting to premium ammunition. R58 SU-101  With 258 mm of penetration on the M-62 and a respectable 440 damage-per-shot, the SU-101 remains a relevant threat even in Tier 10 games. R58 SU-101  In addition, the SU-101 still maintains its superb mobility, on par with most medium tanks, which makes it an excellent flanker or support tank for groups of medium tanks. R58 SU-101 
+
+Having said that, the SU-101 is still a flawed machine: the exceptionally poor gun depression and gun traverse arcs mean that it will often struggle to bring its gun to bear over uneven terrain. R58 SU-101  A good knowledge of maps and terrain is required to compensate for this. R58 SU-101 
+
+The armor of the SU-101 may seem impressive at first, but that is somewhat misleading in actuality. R58 SU-101  At long range, the armor will get some bounces and the gun mantlet might absorb a few shells, but faced with high penetration guns on heavy tanks, some mediums, and most TD's, the shells will go right through without a problem. R58 SU-101 
+
+Sixth Sense and Camouflage are absolutely essential for this tank. R58 SU-101  Due to the low durability, this tank relies on its camouflage and rate-of-fire. R58 SU-101  
+
+The SU-101 can also be expensive to use, with very expensive ammunition and (for a TD) relatively high repair cost, it can be difficult to make a profit on a loss. R58 SU-101  It is easily possible to lose money on a win if a number of shots miss, fail to penetrate (which will happen quite often in Tier 9 and 10 games), or if HEAT is used and the vehicle gets damaged. R58 SU-101 
+
+|InTheGame_research=
+* Nothing carries over from the SU-100M1, but the engine and radio carry over from the T-44; if available, equip them immediately (they are both lighter than the stock modules)
+* Research (or free exp) the 100mm D-54S gun right away, the stock gun is absolutely inadequate 
+* Next, research the V-2-54 engine (if it's not been unlocked on the T-44)
+* Now, research the SU-102 suspension
+* You can now go for the big guns; the 122mm D-25-SU-101 offers no real improvement and should be ignored, but must be researched to gain access to the great 122mm M62-C2
+* Research the R113 radio (if not already unlocked elsewhere in the Soviet techtree)
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Enhanced Gun Laying Drive, Toolbox
+
+|History=
+The SU 101 and SU102 were experimental Soviet propelled artillery units developed during World War II. R58 SU-101  They were created in the Uralmash design office in the period from autumn 1944 until spring 1945. R58 SU-101  and were based on the chassis of medium tanks T-44 and T-34-85. R58 SU-101  Primary objective was to develop a vehicle that will eventually replace Su-100 in the soviet army. R58 SU-101  Two versions that were developed differed only in the main weapon: the SU-101, with 100-mm D-10 tank gun and SU-102, with 122-mm D-25-44S gun. R58 SU-101  In April and May 1945, one or two prototype SU-101 and one prototype SU-102 were constructed. R58 SU-101  During the summer and autumn of 1945, both versions successfully passed factory tests and army trials. R58 SU-101  Despite the prospects and high performance for its time, with the end of the war, it was decided to terminate further development. R58 SU-101  Experience gathered during development of the SU-101 and SU-102 has been used in studies of post-war projects. R58 SU-101 
+
+==Development History==
+[[image:Su-101_during_trials. R58 SU-101 jpg|thumb|200px|left|Su-101 during trials]]
+In the fall of 1944 UZTM (Ural Heavy Machinery Plant) began the production of a new medium SAU (self-propelled artillery unit) the SU-100, armed with the powerful 100mm D-10 gun. R58 SU-101  The machine possessed good maneuverability for its class, and with 75 mm of sloped armour had very good protection for its weight. R58 SU-101  In comparison, much heavier assault gun SU-152 was also protected by 75 mm of frontal armor. R58 SU-101 
+
+Nevertheless, Soviet self-propelled guns had a number of essential deficiencies, characteristic of any self-propelled gun with a forward fighting compartment arrangement. R58 SU-101  The adoption of ever longer barreled guns increased the overall dimension of the SPG lengthwise. R58 SU-101  The result of mounting a long overhanging gun low in the hull (to reduce its silhouette) was hampered maneuvering in narrow passages and limited mobility over undulating ground (the muzzle being driven into the ground) and wooded country. R58 SU-101  Furthermore, the center of gravity in such SAU was displaced forward, leading to an overloading of the forward road wheels, often leading to a breakdown of the chassis. R58 SU-101  In transit, it was also found to be impossible to satisfactory fasten the gun out of battery for travel. R58 SU-101  At the same time, further increases in the armor protection of German tanks and assault guns required an adequate increase in the combat capabilities of Soviet tanks and SPGs, which entailed the adoption of ever longer barreled guns of greater power. R58 SU-101  To design such a tank destroyer, based on the chassis of the T-34 tank became practically impossible. R58 SU-101  A new chassis with a more rational arrangement of major units and subassemblies was necessary. R58 SU-101 
+
+UZTM's solution of this problem began in the summer of 1944, done in parallel with the creation of the Su-100. R58 SU-101  Before the end of the year designer N. R58 SU-101 V. R58 SU-101 Kurin had developed a number of preliminary designs of new SPG using the chassis of all Soviet tanks existing at that time, both with a change in layout and without. R58 SU-101  In October 1944 plant presented to the technical review board of the NKTP (Commissariat of Heavy Industry) for examination five projects:
+
+
+-	SU-122P: armed with the 122 mm D-25S gun, at that time with a prototype prepared and having successfully passed manufacturing tests. R58 SU-101 
+
+-	ESU-100, armed with the 100 mm D-10S gun, with a rear fighting compartment and electro-transmission. R58 SU-101 
+
+-	SU-M, armed with the 100 mm D-10S gun, based on the chassis of the T-34 tank, with a rear fighting compartment and with the engine moved to the front. R58 SU-101 
+
+-	SU-M, armed with the 100 mm D-10S gun, on the chassis of the T-44 tank, with a rear fighting compartment. R58 SU-101 
+
+-	SU-44, armed with the 122 mm D-25-44S gun, with the use of subassemblies and chassis of the T-44 tank, and a forward fighting compartment. R58 SU-101 
+
+
+The technical review board recognized the Su-m and Su-44 as the best of the projects; and by order of directiveNo. R58 SU-101 625 to the tank industry, dated October 26, 1944 to the plant of UZTM, it was proposed to finalize the design, to distribute drawings and prepare prototypes of the SU-M and SU-44. R58 SU-101 
+[[image:SU-101_drawings. R58 SU-101 jpg|thumb|300px|right|Su-101 layout]]
+In December 1944, during the course of further development work on the Su-44 it was found that the weight and overall size of the machine was too great, basically because of the five-meter barrel of the D-25S gun. R58 SU-101  At the same time the SU-M with the rear fighting compartment was found to be compact, its length shortened and its weight consistent with the chassis of tanks in the medium class, while armor was considerably strengthened. R58 SU-101  Based on these results, the solution accepted was to continue work only on the SU-M, and all work on the Su-44 was terminated by NKTP order No. R58 SU-101 107, dated March 7, 1945. R58 SU-101  By the same order the design obtained the designation “Uralmash-1” (Ural Heavy Machinery Plant im. R58 SU-101  Sergo Ordzhonikidze) and was assigned a date for the production of the first prototype, May 1 1945. R58 SU-101 
+
+It is here interesting to note that the project of SAU “Uralmash-1” (Ural Heavy Machinery Plant im. R58 SU-101  Sergo Ordzhonikidze) was developed by the design bureau of the plant of UZTM (Ural Heavy Machinery Plant) under the management Of l. R58 SU-101 Gorlitskogo still in August 1943, but it was not approved BY NKTP and was “frozen”. R58 SU-101  In the development of design documentation, the following  designers were enlisted: . R58 SU-101 M. R58 SU-101 Lekhttsind, I. R58 SU-101 I. R58 SU-101 Emmanuilov, A. R58 SU-101 G. R58 SU-101 Gayvoro nskiy, G. R58 SU-101 F. R58 SU-101 Ksyunin, I. R58 SU-101 F. R58 SU-101 Vakhrushev, L. R58 SU-101 A. R58 SU-101 Pinus, E. R58 SU-101 A. R58 SU-101 Karlinskiy, E. R58 SU-101 I. R58 SU-101 Linkova, D. R58 SU-101 A. R58 SU-101 Geriev, V. R58 SU-101 L. R58 SU-101 Likhomanov, N. R58 SU-101 N. R58 SU-101 Efimov, A. R58 SU-101 D. R58 SU-101 Nekhlyudov and others. R58 SU-101  The general leadership was given to the chief designer L. R58 SU-101 I. R58 SU-101 Gorlitskiy. R58 SU-101  The production of two prototypes was conducted during March-April. R58 SU-101  The first being marked as Su-101, armed with 100 mm D10s gun, and the second, marked as Su-102 with a 122-mm gun D -25s gun. R58 SU-101  
+
+'''Design features'''
+[[image:SU_101_machinegun. R58 SU-101 jpg|thumb|200px|left|Su-101 12. R58 SU-101 7 DSHK machinegun]]
+The housing SAU was welded from the rolled armor sheets, by which were given the rational slope angles. R58 SU-101  The thickness of the frontal sheet of housing was equal to 90 mm with the angle of the slope of 27 degrees, the thickness of the frontal sheet of felling - 122 mm with the angle of the slope of 35 degrees. R58 SU-101  Onboard sheets had a thickness of 75 mm, stern sheet - 40 mm. R58 SU-101  In this case the stern sheet of housing and felling was carried out by general. R58 SU-101  Rectangular entrance port, which was being shut by armor doors, was placed on the right side. R58 SU-101  Round hatchway with the revolver housing mounted the panoramic viewfinder for the commander. R58 SU-101  
+Gun D -10s was established in the frontal sheet of housing in the cast armor mask. R58 SU-101  Its stem spoke in favor of the overall sizes of the housing only on 630 mm. R58 SU-101  Angle of elevation was 18 degrees, depression was – 2 degrees, and the angle of horizontal guidance was set at 22,5 degrees. R58 SU-101  The height to bore of gun - is 1760 mm. R58 SU-101  Ammo rack had a total of 35 rounds. R58 SU-101  Sighting telescope TSH-19 was installed in addition to one separate panoramic periscope. R58 SU-101  For anti-infantry and anti-aircraft protection, a standard 12,7 DSHK machinegun with a total of 450 round was installed. R58 SU-101  
+
+Engine V-2-44 was located along the axis of machine in the forward section of the housing to the right. R58 SU-101  Driver was placed on the left side of the engine. R58 SU-101  The aggregates of power transfer were borrowed from the tank T -34 with some modifications to handle the new chassis. R58 SU-101  The suspension was completely borrowed from the T-44. R58 SU-101  With the overall mass of only 34,1 tons the vehicle was able to reach the maximum speed of impressive 54 km/h. R58 SU-101  Crew consisted of four. R58 SU-101  For the external communication Su-101 used standard 9- RS radio device, while internal comm. R58 SU-101  Was handled by TPU-3bisF device, by light signaling and tankofonom for the two-way communication of commander with the driver. R58 SU-101 
+
+'''Su-102'''
+
+Su-102 from Su-101 differed only by it only by its main gun,  122-mm gun D -25s. R58 SU-101  Angle of elevation was equal - 18,5 degrees, depression was at less than half degrees virtually non existing (0 degrees and 24 minutes to be precise), the horizontal traverse was 19 degrees. R58 SU-101  It is remarkable, that with the apparent small dimensions of the fighting compartment ammo rack composed of 28 shots. R58 SU-101  Very impressive number considering that 122 mm ammo was in two pieces, propellant separated from the round itself. R58 SU-101  Total weight of the vehicle grew insignificantly to 34,8 tons. R58 SU-101 
+
+'''First trials'''
+
+During the autumn of 1945 several issues were noticed, and needed to be fixed prior to finalizing the construction. R58 SU-101  It was necessary to modify a number of mechanisms and devices, in particular the aggregates of ventilation and engine cooling and the internal crew fighting positions. R58 SU-101  As a result the intensive work of designers and techinicians was implemented to fix the problems prior to the the start of the field tests. R58 SU-101 
+
+Self-propelled units “Uralmash (Ural Heavy Machinery Plant im. R58 SU-101  Sergo Ordzhonikidze) -1” had a number of advantages in comparison with previously created domestic SAU. R58 SU-101  New layout made it possible to make a machine of of more compact, increased the possibility of maneuver in the limited passages and in the broken ground. R58 SU-101  Crew now could if necessary leave the machine through the stern hatchway under the cover of housing. R58 SU-101  Powerful armoring also became the result of denser layout. R58 SU-101  The general estimation of the construction of housing after the range tests by firing was very high: the housing of SAU “Uralmash (Ural Heavy Machinery Plant im. R58 SU-101  Sergo Ordzhonikidze) -1” proved to be on a higher level than the housing of all other mass produced tanks and SPGs, including IS -2 and ISU-152. R58 SU-101  Load distribution was also much better and it noticeably decreased wear of the materials. R58 SU-101  The arrangement of the fighting compartment on the back left an option of mounting even longer barreled guns in the future. R58 SU-101 
+
+[[image:SU-101_Side_view. R58 SU-101 jpg|thumb|200px|left|SU-101 Surviving prototype in Kubinka museum]]'''Cramped crew space and overheating remained an issue'''
+
+No matter how hard they tried, the engineers could not fix all of the problems. R58 SU-101  It was impossible to improve crew conditions in the very cramped crew space. R58 SU-101  Cooling was improved, but still condition for the driver were very harsh, and during hot weather almost unbearable. R58 SU-101  Also, the roof of the vehicle showed signs of shockwaves from the powerful guns, especially in Su-102 prototype. R58 SU-101  
+
+'''Successful trials and cancellation'''
+
+Both SAU successfully underwent all tests and according to their results they were recommended for the adoption in the Red army. R58 SU-101  Despite the prospects and high performance for its time, with the end of the war, it was decided to terminate further development. R58 SU-101  One of the survived prototypes Su-101 is on permanent display in the Moscow Kubinka armor museum. R58 SU-101 
+
+|HistoricalGallery=
+
+image:SU_101_machinegun. R58 SU-101 jpg{{!}}SU-101 Anti infantry machinegun closeup
+image:SU-101_drawings. R58 SU-101 jpg{{!}}SU-101 drawings
+image:Su-101_during_trials. R58 SU-101 jpg{{!}}Su-101 during trials
+image:SU-101_gun_rest. R58 SU-101 jpg{{!}}SU-101 gun rest
+image:Su-101_In_Kubinka_musem. R58 SU-101 _Front_view. R58 SU-101 jpg{{!}}Su-101 In Kubinka musem. R58 SU-101  Front view
+image:Su-101_mantlet. R58 SU-101 jpg{{!}}Su-101 Mantlet closeup
+image:SU-101_Side_view_closeup. R58 SU-101 jpg{{!}}SU-101 Side view closeup
+image:SU-101_Side_view. R58 SU-101 jpg{{!}}SU-101 Side view
+image:SU-101Drivers_hatch. R58 SU-101 jpg{{!}}SU-101 Drivers hatch closeup
+image:SU-101external_fuel_tanks. R58 SU-101 jpg{{!}}SU-101 External fuel tanks
+image:SU-101external_tool_box. R58 SU-101 jpg{{!}}SU-101 External tool box
+image:Uralmash-1_in_Kubinka. R58 SU-101 jpg{{!}}SU-101 Also known as Uralmash-1 in Kubinka museum
+
+|HistAcc=
+Actual hull armor is 90/75/40. R58 SU-101  In World of Tanks, however, the SU-101 has a whopping 150 mm of frontal armor with 90 mm sides. R58 SU-101 
+* The two prototypes of this vehicle were never fitted with the 100 mm D-54S nor the 122 mm M62-C2 cannons. R58 SU-101 
+* The V-2-44 was the SU-101's only engine. R58 SU-101  The V-2-54 configuration is fake. R58 SU-101 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://english. R58 SU-101 battlefield. R58 SU-101 ru/su-100-dp1. R58 SU-101 html '''SU-100 Tank Destroyer'''] at battlefield. R58 SU-101 ru. R58 SU-101 
+* [https://english. R58 SU-101 battlefield. R58 SU-101 ru/su-101-and-su-102. R58 SU-101 html '''SU-101 Tank Destroyer'''] at battlefield. R58 SU-101 ru. R58 SU-101 
+
+
+|Sidebar_Camostop=20. R58 SU-101 6
+|Sidebar_Camomove=12. R58 SU-101 3
+|Sidebar_Camofire=5. R58 SU-101 1
+|Sidebar_Passhard=0. R58 SU-101 959
+|Sidebar_Passmed=1. R58 SU-101 151
+|Sidebar_Passsoft=1. R58 SU-101 918
+|Sidebar_DispTurret=0. R58 SU-101 077
+|Sidebar_DispRecoil=2. R58 SU-101 877
+|Sidebar_DispAccel=0. R58 SU-101 182
+|Sidebar_DispTurning=0. R58 SU-101 182
+}}

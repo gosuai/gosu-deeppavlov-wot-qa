@@ -1,0 +1,88 @@
+{{TankData|Tank= AMX 65 t
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Decent gun handling with the 90mm gun
+* High penetration with the 100mm gun
+* Good alpha damage with the 120mm gun
+* Good gun depression
+* Reasonably armored turret face at 230mm-250mm effective , top turret's rangefinder still has 200mm effective protection
+
+|InTheGame_cons= 
+* Large, poorly armored hull
+* Top turret's rangefinder sticks out a lot, no tricky angles on the turret for reliable bounces
+* Poor DPM, gun handling and aim time
+* Abysmal mobility 
+* Poor viewrange
+
+|InTheGame_performance= 
+
+The tank is almost immediately considered as one of the worst tier 8s in the entire game. F81 Char de 65t  This fact alone makes is viable to either use free xp to skip this tank entirely or simply play at stock and avoid researching the top 120 mm gun, last engine and 2nd suspension to get to tier 9 faster. F81 Char de 65t  At the very first glance, it doesn't seem like a bad tank: on first sight it has a capable main gun, bouncy pike nose, rounded turret and on top of these, very high power-to-weight ratio. F81 Char de 65t  However, the upgraded guns are limited by poor gun handling as part of French heavy tradition. F81 Char de 65t  The pike nose only consists of 100mm armor which is the same as the [[IS-3]], but with worse angling and a taller profile that also ruins the ability to sidescrape. F81 Char de 65t  The stock turret has strong frontal armor as long as the commander's cupola on the right of the turret is hidden, but the upgraded turret introduces an extra weakspot in the form of a rangefinder (at least its 200mm effective, but most enemies at tier 8 can punch through that anyway) which means you are always vulnerable. F81 Char de 65t  Comparing to the premium [[AMX M4 mle. F81 Char de 65t 49]] which has the same turret armor, but 180mm front hull armor that's sloped backwards, the AMX 65t is clearly worse. F81 Char de 65t  Mobility is comparable to the [[T34]] and [[Lowe]] despite high power to weight ratio due to very high terrain resistances on all terrain. F81 Char de 65t  Adding the poor view range and horrible camo leads to a fire support heavy that's not very good at supporting allies comparing to tanks such as the [[FCM 50t]] or [[AMX 50 100]]. F81 Char de 65t 
+
+There are 4 different viable setups:
+
+'''Stock turret + 100 mm gun''' is most flexible setup. F81 Char de 65t  Stock turret has stronger armor, significantly smaller profile and -10 of gun depression, but the already awful aim time on the 100 mm gun becomes even worse, view range is horrible with stock turret and the cupola has virtually no armor, but is a much smaller target than the one on top turret. F81 Char de 65t  It is best to use the vehicle as mid-range hulldown support vehicle. F81 Char de 65t  It is hard to position it correctly due to abysmal terrain resistances, as well as gigantic hull, but once positioned right, it can do decent job. F81 Char de 65t  The 100 mm gun has utterly awful gun handling, though, so it is recommended to fully aim each shot. F81 Char de 65t  Be careful, though, since being stationary means that your cupola is easier to hit. F81 Char de 65t  Be especially careful with Japanese heavy tanks, since they can penetrate you through the cupola for full damage with their high-explosive shells. F81 Char de 65t 
+
+'''Stock turret + 90 mm gun''' gets rid of two of the tank's major flaw: poor gun handling and limited DPM. F81 Char de 65t  The turret lets you absorb hits while the good gun handling allows hitting shots when moving the hull back and forth to give the enemy a harder time hitting you. F81 Char de 65t  It's also the only gun 
+on this tank that fires frequently enough to perma-track an enemy with a good shot to the tracks. F81 Char de 65t  The drawback is that you rely on premium rounds to go against even some tier 8 heavy tanks as you have no hope in flanking them. F81 Char de 65t  The top turret improves gun performance, but as it worsens your protection and the gun performance with stock turret is already decent, it's ill-advised. F81 Char de 65t 
+
+'''Top turret + 100 mm gun''' is less effective when hulldown, but extra DPM, view range, gun stats and HP are more useful at pure damage dealing. F81 Char de 65t  Don't rely on turret armor at all against higher or even same tier opponents, since the "lip" is rather weak when not hulldown, and the rangefinder is a weakspot against same tier opponents. F81 Char de 65t  Like with the stock turret + 100 mm gun, you want to keep your opponents at mid-long ranges. F81 Char de 65t  The AMX 65t is a poor brawler, especially against other heavy tanks. F81 Char de 65t 
+
+'''Top turret + 120 mm gun''' has an advantage of having alpha damage, giving the 65t ability to outtrade some opponents and makes it slightly more viable against other heavy tanks, though it is still a bad brawler, and will struggle with its lackluster penetration and horrible DPM. F81 Char de 65t  Follow a stronger heavy tank, let it take hits. F81 Char de 65t  Fight against targets which have lower alpha damage than you to make use of the semi-decent HP (1550) and 400 alpha damage. F81 Char de 65t  The gun has rather decent shell velocity so it can still work at mid-ranges, though not as effectively. F81 Char de 65t 
+
+All in all, the AMX 65t is a really poor vehicle and doesn't play as a heavily armored heavy tank, as promised. F81 Char de 65t  It does follows up similar play style as the AMX M4 45, but with much worsened mobility it doesn't fulfill its role as well as the M4 45 at tier 7. F81 Char de 65t  
+
+|InTheGame_research= 
+
+The Maybach HL 295 engine and SCR-528 Fr radio carry over from the [[AMX M4 mle. F81 Char de 65t  45]] and should be installed immediately. F81 Char de 65t 
+
+If you already have the 100mm SA47 unlocked (from either the main French heavy line or the BatChat/AMX 30 branches) mount it as well. F81 Char de 65t  If not, grind it. F81 Char de 65t 
+
+If you want the 2nd cupola, last engine or last gun, research the suspension. F81 Char de 65t  Otherwise, skip it to save on XP. F81 Char de 65t 
+
+Research the upgraded turret - unfortunately you HAVE to do it on your way up to [[Tank:F83 AMX M4 Mle1949 Bis|AMX M4 Mle. F81 Char de 65t  51]], even if you don't want to use it. F81 Char de 65t 
+
+Research the 120mm gun if you want it - if not, you can skip it completely and save on XP (it is not used on any other tank). F81 Char de 65t 
+
+If you have researched the suspension previously, you may research the top engine, it is also top engine for [[Tank:F83 AMX M4 Mle1949 Bis|AMX M4 Mle. F81 Char de 65t  51]]. F81 Char de 65t  But it is viable to skip it to get to tier 9 faster and research it on the [[Tank:F83 AMX M4 Mle1949 Bis|AMX M4 Mle. F81 Char de 65t  51]] instead. F81 Char de 65t 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents
+
+|InTheGame_Equipment_Builds=
+
+Since this vehicle has only mediocre damage-per-minute on 120mm gun and low alpha damage on 90mm and 100mm guns, a Gun Rammer is mandatory. F81 Char de 65t 
+The rather lousy gun dispersion values on movement and traverse can be greatly compensated by installing a Vertical Stabilizer, but the Gun Laying Drive is not that useful unless one sticks with the 100mm SA47 gun. F81 Char de 65t 
+
+The third slot depends mostly on one's playstyle: If not occupied by Enhanced Torsion Bars, it could be Ventilation to further improve overall parameters, or Coated Optics to make up for subpar view range. F81 Char de 65t  Toolbox also worths consideration if one gets entangled in crossfire from time to time. F81 Char de 65t 
+
+|External_Reviews= 
+https://www. F81 Char de 65t youtube. F81 Char de 65t com/watch?v=09TOeKR7baY
+
+|History= 
+The AMX 65T is one of the many proposals for a tank destroyer version of the AMX M4, developed in 1950 alongside the oscillating turret. F81 Char de 65t  The tank destroyer would have had a "chevron type" upper front plate with a pike nose, a cast turret, and a 100mm gun. F81 Char de 65t  The final variant selected for the project would have had 45mm of frontal armor and weighed 51. F81 Char de 65t 2 tons, but heavier variants with thicker armor - like the AMX 65t - also were considered. F81 Char de 65t  Ultimately, none of these tank destroyers were ever built, though separate elements - such as the pike nose - were later built in metal. F81 Char de 65t 
+
+|HistoricalGallery= 
+File:AMX_65T_technical_drawing. F81 Char de 65t jpg{{!}}Technical drawing of the AMX 65T. F81 Char de 65t 
+File:FAMH_turret. F81 Char de 65t jpg{{!}}The FAMH turret used by the AMX 65T. F81 Char de 65t 
+File:AMX_M4_51. F81 Char de 65t 2_ton_tank_destroyer. F81 Char de 65t jpg{{!}}Another proposal for the AMX M4-based tank destroyer. F81 Char de 65t  This one weighed 51. F81 Char de 65t 2 tons. F81 Char de 65t 
+
+|HistAcc=
+* The AMX 65T was intended to be a tank destroyer, though the designation was arbitrary - the ARL 44 was reclassified as a tank destroyer during the AMX 65T's development. F81 Char de 65t 
+* The 120mm gun nor the 90mm gun were ever proposed for the AMX 65T. F81 Char de 65t 
+
+|Ref_references=
+
+|Ref_sources=
+* Centre des archives de l'Armement et du personnel civil (CAAPC)
+
+|Ref_links=
+* https://thedailybounce. F81 Char de 65t net/2017/09/15/new-french-heavy-tanks-what-are-they/
+* https://tankarchives. F81 Char de 65t blogspot. F81 Char de 65t com/2016/03/amx-50-120-long-road-to-dead-end. F81 Char de 65t html
+* https://tankarchives. F81 Char de 65t blogspot. F81 Char de 65t com/2016/03/amx-50-five-years-of-trial-and-error. F81 Char de 65t html
+* https://warspot. F81 Char de 65t ru/5054-pyatiletka-prob-i-oshibok
+
+}}

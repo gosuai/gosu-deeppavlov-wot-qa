@@ -1,0 +1,73 @@
+{{TankData|Tank=T2_lt
+|The T2 Light Tank is a very fast tank, with a top speed of 72 km/h and one of the highest hp/ton ratings of any tank in game. A19 T2 lt  It has a fairly weak gun and poor armor though, with the second weakest rear armor of any tank. A19 T2 lt  Its use as a deep penetration scout is limited by its short radio range. A19 T2 lt  The only way to play this tank is to never stop and try to engage the enemy by circling, but beware that it has a large turning radius at speed so you'd better plan ahead as you approach. A19 T2 lt  Its light weight means it takes heavy damage when rammed, usually tracking it and often outright killing it. A19 T2 lt    
+
+|InTheGame_pros=
+* Great power to weight ratio and top speed, one of the fastest tanks in game
+* Gun has decent handling and good burst damage. A19 T2 lt  Ammo is dirt-cheap,and won't run out
+* Good gun elevation/depression and small turret profile, can hull-down
+* Small size and good camouflage, good at passive scouting
+* No longer matched in Tier IV battles (which were the bane of its' existence)
+
+|InTheGame_cons=
+* Poor armor
+* Limited penetration, some heavier vehicles are hard to pen, special ammo required sometimes (but rarely)
+* View range is poor, active scouting can be difficult
+* Very light in terms of weight, ramming is a death sentence
+
+|InTheGame_performance=
+The T2 Light is a very fast light tank, the fastest in tier 2 and comparable to many top-tier dedicated scouts. A19 T2 lt  This has a cost, this tank has pratically no armor. A19 T2 lt  Don't expect to bounce shots, because your armor is made out of paper. A19 T2 lt  Try to avoid 1 on 1 duels with other medium or better armored light tanks, because you are likely to die very fast. A19 T2 lt  Use your speed to your advantage to circle enemies to get their weaker sides and rears. A19 T2 lt  Your high burst damage of ~180 points can be pretty dangerous, especially considering it never runs dry. A19 T2 lt  
+
+In a tier 2 match-up you should rush critical positions and play agressively, but should still with caution. A19 T2 lt  Try flanking distracted targets, and then pull back. A19 T2 lt  The longer you survive, the more damage you can deal. A19 T2 lt  
+
+In a tier 3 match-up you should play way more passively, use your small profile and camouflage values to your advantage to spot enemies for your teammates. A19 T2 lt  It's unlikely that your autocannon will deal much damage, so try to get spotting damage. A19 T2 lt  NEVER fight a fresh tier 3 tank alone, only and ONLY if you can make sure you won't take return fire while depleting the clip. A19 T2 lt 
+
+Recommended equipment is camonet, binoculars and vents, to improve your camo and viewrange. A19 T2 lt  For crew skills you should pick view range skills at first, but for the commander sixth sense. A19 T2 lt  After that Camouflage and Recon. A19 T2 lt  For the driver you should pick up first offroad driving, then Camouflage and Clutch braking. A19 T2 lt  For Radio-operator you should pick Situation awereness for view range first, than Signal boosting and then Camouflage. A19 T2 lt  Last but not least train Brothers in Arms. A19 T2 lt  Enjoy!
+
+== '''Crew Skills'''==
+'''Commander:''' ''Sixth Sense'', ''Camouflage'', ''Recon''. A19 T2 lt 
+
+
+'''Driver:''' ''Off Road Driving'', ''Camouflage'', ''Clutch Braking''. A19 T2 lt 
+
+
+'''Radio Operator:''' ''Situational Awareness'', ''Signal boosting'', ''Camouflage''. A19 T2 lt 
+ 
+
+|InTheGame_research=
+None required, this is a premium tank. A19 T2 lt 
+
+|InTheGame_equipment=
+Binocular Telescope, Camouflage Net, Vents
+
+|Gallery=
+image:T2 Light Tank screen 01. A19 T2 lt jpg
+image:T2 Light Tank screen 02. A19 T2 lt jpg
+image:T2 Light Tank screen 03. A19 T2 lt jpg
+image:T2 Light Tank screen 04. A19 T2 lt jpg
+image:T2 Light Tank screen 05. A19 T2 lt jpg
+image:T2 Light Tank screen 06. A19 T2 lt jp
+
+|History=
+This vehicle started the use of aircraft engines in tanks. A19 T2 lt  This eventually became the M2A2 light tank. A19 T2 lt  One unit was built based on the experience gained from the Cunningham T1 - T6 series. A19 T2 lt  This unit was built at the Rock Island Arsenal. A19 T2 lt 
+
+|HistAcc=
+The real T2 underwent trials without any armament fitted. A19 T2 lt 
+* Actual top speed is 43. A19 T2 lt 4 km/h. A19 T2 lt 
+* United States Cavalry order for the T2 specified that the [[Gun/USA#Browning MG caliber . A19 T2 lt 50 HB, M2|12. A19 T2 lt 7 mm M2 Browning]] was to be its main armament. A19 T2 lt  Thus the 20 mm cannon configuration is fake. A19 T2 lt 
+* Two 7. A19 T2 lt 62 mm machine guns, one co-axial and one in the hull, was also specified in the order. A19 T2 lt  The turret-mounted machine gun configuration is also fake. A19 T2 lt 
+* Trials of the T2 concluded in February 1935; development of the Hispano cannon in the United States began in 1938. A19 T2 lt 
+
+|HistoricalGallery=
+image:T2 light tank Aberdeen 1. A19 T2 lt jpg{{!}}T2 Light at Aberdeen
+image:T2 light tank Aberdeen 2. A19 T2 lt jpg{{!}}T2 Light at Aberdeen
+image:T2 light tank Aberdeen 3. A19 T2 lt jpg{{!}}T2 Light at Aberdeen
+|Ref_references=
+
+
+|Ref_sources=
+* Tank Data 2, Aberdeen Proving Grounds Series, E. A19 T2 lt  J. A19 T2 lt  Hoffschmidt and W. A19 T2 lt  H. A19 T2 lt  Tantum IV, 1969
+
+|Ref_links=
+* https://www. A19 T2 lt wwiivehicles. A19 T2 lt com/usa/tanks-light/t2. A19 T2 lt asp
+
+}}

@@ -1,0 +1,47 @@
+{{TankData|Tank= Object 252U Defender
+| Apart from the paint-scheme this vehicle is identical to the Object 252U. R134 Object 252K 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+*Very thick and well angled glacis plates, sloped turret allows to bounce Tier X guns
+*Almost impossible to hit cupolas
+*Highest AP alpha damage of all tier 8 heavies, allowing for very effective trades
+*Good penetration, on par with the [[IS-3]]'s BL-9
+*Lower plate is quite tough, and can resist guns with <215 penetration
+
+
+
+|InTheGame_cons= 
+
+*Low DPM
+*Horrific accuracy and gun handling
+*Low view range
+
+
+|InTheGame_performance= 
+
+
+
+|InTheGame_research= 
+Premium vehicle, no research required. R134 Object 252K 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Improved Ventilation, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The alternative Objekt 252 shared the same hull and turret as the Object 253, but used a different suspension with no return rollers, and a conventional mechanical transmission. R134 Object 252K 
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

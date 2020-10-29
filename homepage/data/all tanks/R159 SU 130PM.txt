@@ -1,0 +1,55 @@
+{{TankData|Tank= 
+
+| 
+Obtained by completing The Winter Challenge event. R159 SU 130PM  
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Third best alpha damage of all Tier 8 tank destroyers, good penetration
+* Good accuracy and aim time for a high caliber Russian gun
+* High top speed and good acceleration, can relocate reasonably quickly
+* Wide gun arc and decent gun depression
+* Good camouflage values
+
+|InTheGame_cons= <br />
+
+* The gun cannot fully traverse 
+* Low hitpoint pool and virtually unarmored, poor survivability
+* Exceedingly vulnerable to ramming and HE damage
+* Poor gun handling, can reliably hit only when stationary and fully aimed
+* Limited gun elevation when aiming to the sides
+
+|InTheGame_performance= 
+{{VideoYT|jdfx5aeClpU}}
+|InTheGame_research= 
+Premium vehicle, comes elite in stock configuration. R159 SU 130PM 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Camouflage net, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+image:SU-100P. R159 SU 130PM jpg{{!}}SU-100P
+image:SU-100PM. R159 SU 130PM jpg{{!}}SU-100PM
+image:SU-100P in Kubinka. R159 SU 130PM jpg{{!}}SU-100P in the Armored Museum of Kubinka
+
+|HistAcc=
+*Although the proposed history says its based off the SU-100P (Which was an existing prototype tank), the tank itself does not exist in any record. R159 SU 130PM 
+**The SU-100P's initial name is Object 105
+**Actual gun depression is -5 degrees, not 7. R159 SU 130PM 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://commons. R159 SU 130PM wikimedia. R159 SU 130PM org/wiki/Kubinka_Tank_Museum_by_pavilion_RU
+
+}}

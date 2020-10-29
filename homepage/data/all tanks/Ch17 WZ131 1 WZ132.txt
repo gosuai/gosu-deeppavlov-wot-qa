@@ -1,0 +1,101 @@
+{{TankData|Tank=Ch17_WZ131_1_WZ132
+|
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=17. Ch17 WZ131 1 WZ132 1
+|Sidebar_Camomove=17. Ch17 WZ131 1 WZ132 1
+|Sidebar_Camofire=3. Ch17 WZ131 1 WZ132 7
+|Sidebar_Passhard=0. Ch17 WZ131 1 WZ132 479
+|Sidebar_Passmed=0. Ch17 WZ131 1 WZ132 575
+|Sidebar_Passsoft=1. Ch17 WZ131 1 WZ132 247
+|Sidebar_DispTurret=0. Ch17 WZ131 1 WZ132 134
+|Sidebar_DispRecoil=3. Ch17 WZ131 1 WZ132 836
+|Sidebar_DispAccel=0. Ch17 WZ131 1 WZ132 134
+|Sidebar_DispTurning=0. Ch17 WZ131 1 WZ132 134
+
+|InTheGame_pros=
+* High alpha damage compared to other lights of the tier
+* Unlike most tier 8 lights, you can choose a gun depending on your playstyle
+* Very good agility and mobility thanks to its amazing track traverse and acceleration 
+* Great "on-the-move" accuracy, especially with a Vertical Stabilizer mounted. Ch17 WZ131 1 WZ132  Comparable to [[M41 Bulldog]]. Ch17 WZ131 1 WZ132 
+* Excellent turret and hull traverse values makes fast circling and switching between targets easy
+* Sloped frontal armor can lead to the occasional lucky bounce
+
+|InTheGame_cons= 
+* Very prone to module damage
+* Mediocre accuracy on 100mm guns
+* Modules are very XP-expensive, especially the 100 mm 60-100TA which rivals the XP cost of tier 8 heavies' top guns
+* Lacking gun depression like many other high tier Chinese tanks
+* Still worse power-to-weight ratio than peers post-9. Ch17 WZ131 1 WZ132 18
+
+|InTheGame_performance=
+A bit smaller, faster and stronger than its predecessor, the WZ-132 is sort of a medium tank among light tanks, combining firepower, agility and mobility. Ch17 WZ131 1 WZ132  It is good or decent in all areas, but not excellent in any of them. Ch17 WZ131 1 WZ132  It is suitable for all kinds of combat roles including long range combat (good accuracy and aim time), brawl (small profile and agility) and scouting - passive (great camo value and view range) and active (great speed and traverse). Ch17 WZ131 1 WZ132 
+
+While it doesn't have a drum loader, the WZ-132 has a few benefits as a combat vehicle compared to the Bat. Ch17 WZ131 1 WZ132 -Chat. Ch17 WZ131 1 WZ132  12t. Ch17 WZ131 1 WZ132  It is able to make sharper turns without losing speed, has a harder hitting gun, which is also more accurate when firing on the move and has slightly higher penetration. Ch17 WZ131 1 WZ132  The tank has sloped frontal armor and turret, which occasionally bounces enemy shells. Ch17 WZ131 1 WZ132  However, the Bat. Ch17 WZ131 1 WZ132 -Chat. Ch17 WZ131 1 WZ132  12t has an autoloader (burst damage, very important with hit and run tactics) and a smaller profile (slightly better camo rating/harder to hit). Ch17 WZ131 1 WZ132 
+
+The WZ-132 has a great choice of guns. Ch17 WZ131 1 WZ132  You can either play with the more accurate 85 mm 64-85T or the more damage-oriented 100 mm 60-100TA. Ch17 WZ131 1 WZ132  Should you select the 85mm gun, your tank will be more accurate and have a substantially better rate of fire (although DPM will only increase marginally). Ch17 WZ131 1 WZ132  Should you select the 100mm gun, you will have higher alpha, and can use APCR instead of HEAT. Ch17 WZ131 1 WZ132  The 85mm lets you play the role of an agile and accurate supporting light tank. Ch17 WZ131 1 WZ132  The 100mm lets you perform like a speedy but poorly armored medium. Ch17 WZ131 1 WZ132  Another interesting matter is that the interim 100 mm 59-100TA gun has actually more penetration on APCR ammunition than the top 60-100TA gun has, though the latter makes up with much better gun handling and thus generally considered a wiser choice. Ch17 WZ131 1 WZ132 
+
+A WZ-132 driver should avoid fighting autoloader tanks, especially the AMX 13 90 in any sort of brawl because of its feared drum loader. Ch17 WZ131 1 WZ132  Assuming neither tanks miss, they will be able to critically injure the WZ-132 in mere seconds. Ch17 WZ131 1 WZ132  The key to beating an autoloader in the WZ-132 is to make use of the tank's agility, on-the-move accuracy, and sustained DPM. Ch17 WZ131 1 WZ132  You will be able to fire accurately while you stay at a distance (~50-100m) and keep moving when in an open area. Ch17 WZ131 1 WZ132  When you do this, your opponent will often miss their shots. Ch17 WZ131 1 WZ132  Once their drum has been depleted, the WZ can easily kill it during its much longer reload time. Ch17 WZ131 1 WZ132  Should most other tanks try to turn in a long curve, the WZ's superior agility will let it close the distance very fast. Ch17 WZ131 1 WZ132 
+
+With the changes of high tier light tanks, the WZ-132 has become more outstanding. Ch17 WZ131 1 WZ132  In terms of sniping, most peers still surpass the WZ-132 in terms of RoF and accuracy. Ch17 WZ131 1 WZ132  But in terms of brawling and flanking, few could outshine the WZ-132 thanks to the higher alpha damage and sloped armor. Ch17 WZ131 1 WZ132  While the WZ-132 in itself is by no means a bad tank, it is slowly regaining fame. Ch17 WZ131 1 WZ132  
+
+The WZ-132 has the best on-the-move gun handling in its class and tier, high damage, above average ammo capacity, second-best agility, high DPM (with 85mm gun). Ch17 WZ131 1 WZ132  It has only 1 major flaw: the poor gun depression. Ch17 WZ131 1 WZ132 
+
+The WZ-132's character is much like the M26 Pershing. Ch17 WZ131 1 WZ132  It is well-rounded, and can contribute to the team under most circumstances. Ch17 WZ131 1 WZ132  It is usually a scout, but can also be a fire support tank or lone tank killer when needed. Ch17 WZ131 1 WZ132  The LTTB is more well-rounded with higher armor, but the WZ won't embarrassingly fail its driver at the end of the game as it has a higher ammo capacity. Ch17 WZ131 1 WZ132 
+
+|InTheGame_research=
+* The research plan depends on which playstyle you choose. Ch17 WZ131 1 WZ132 
+
+* If you prefer all-round supporter:
+* Select your equipment, gun rammer or vertical stabilizer, optics etc. Ch17 WZ131 1 WZ132  and radio. Ch17 WZ131 1 WZ132  It can hold only 235kg of equipment and the upgraded turret without upgrading the tracks or using enhanced suspension equipment. Ch17 WZ131 1 WZ132 
+* Engine. Ch17 WZ131 1 WZ132  Additional horsepowers and improved module durability are critical to your survival. Ch17 WZ131 1 WZ132 
+* Turret. Ch17 WZ131 1 WZ132  Improves RoF, DPM, view range and HP by a wanted bit. Ch17 WZ131 1 WZ132 
+* Tracks. Ch17 WZ131 1 WZ132  Improves agility, and gun stabilization. Ch17 WZ131 1 WZ132  Also allows the use of heavier modules. Ch17 WZ131 1 WZ132 
+* Gun. Ch17 WZ131 1 WZ132  You don't have to use it, but it is required if you wish to research into the WZ-132A. Ch17 WZ131 1 WZ132 
+
+* If you prefer high speed medium
+* Mount radio. Ch17 WZ131 1 WZ132 
+* Spend 200k credits for enhanced suspension equipment, or grind out the tracks and mount your equipment. Ch17 WZ131 1 WZ132 
+* Hard-Hitting '''100 mm 59-100TA''' gun. Ch17 WZ131 1 WZ132 
+* '''8V135''' engine for extra power. Ch17 WZ131 1 WZ132 
+* Turret for improved RoF, DPM, view range and HP
+* '''100 mm 60-100TA''' gun for better accuracy and gun handling, or tracks for better terrain resistance if you installed enhanced torsion bars instead previously. Ch17 WZ131 1 WZ132  Decide on your own preference. Ch17 WZ131 1 WZ132 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Camouflage Net, Coated Optics, Vertical Stabilizer
+
+|External_Reviews= 
+{{VideoYT|bafuiuej9TM}}
+
+|Gallery=
+
+
+|History=
+
+
+|HistoricalGallery=
+WZ-132. Ch17 WZ131 1 WZ132 jpg
+WZ-132 (2). Ch17 WZ131 1 WZ132 jpg
+WZ-132 (3). Ch17 WZ131 1 WZ132 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+|Sidebar_GunAlt= 100mm 60-100T
+|Sidebar_Camostop=17. Ch17 WZ131 1 WZ132 1
+|Sidebar_Camomove=17. Ch17 WZ131 1 WZ132 1
+|Sidebar_Camofire=3. Ch17 WZ131 1 WZ132 7
+|Sidebar_Passhard=0. Ch17 WZ131 1 WZ132 479
+|Sidebar_Passmed=0. Ch17 WZ131 1 WZ132 575
+|Sidebar_Passsoft=1. Ch17 WZ131 1 WZ132 247
+|Sidebar_DispTurret=0. Ch17 WZ131 1 WZ132 134
+|Sidebar_DispRecoil=3. Ch17 WZ131 1 WZ132 836
+|Sidebar_DispAccel=0. Ch17 WZ131 1 WZ132 134
+|Sidebar_DispTurning=0. Ch17 WZ131 1 WZ132 134
+}}

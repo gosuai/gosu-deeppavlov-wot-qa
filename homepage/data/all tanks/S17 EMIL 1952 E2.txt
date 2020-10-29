@@ -1,0 +1,125 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+image:emil2_pic1. S17 EMIL 1952 E2 jpeg{{!}}
+image:emil2_pic2. S17 EMIL 1952 E2 jpeg{{!}}
+
+|InTheGame_pros= 
+- Virtually impenetrable frontal turret armor with extremely small weakspots
+
+- Great burst damage on top gun with acceptable penetration
+
+- Decent mobility for a heavy
+
+- 12 degrees of gun depression - better than any other tier 9 tank, can use hull-down positions very effectively
+
+- Surprisingly good base view range; with good equipment and skills it can effectively spot on its own
+
+- Relatively easy stock grind, as its stock gun has decent penetration and good burst damage, and also doesn't have additional turret to research
+
+- Fast reload with top cannon (25 seconds) for 3 clip autoloader of 440 damage a shot, above average for a 12cm cannon, for around 2,555 damage per minute, a substantial buff from update 1. S17 EMIL 1952 E2 5
+
+|InTheGame_cons= 
+- Weak hull armor overall, with very poor side and rear armor
+
+- Subpar penetration on HEAT round (300mm), unable to deal with superheavies reliably
+
+- Tied with [[Tank:GB83_FV4005|FV4005]] for the worst gun elevation in the game (8 degrees), shooting an enemy at high places and when the tank is downhill is very difficult
+
+- Long aiming time (2. S17 EMIL 1952 E2 6 seconds) with subpar accuracy (0. S17 EMIL 1952 E2 36 dispersion)
+
+|InTheGame_performance= Emil II is very similar to its predecessor in terms of play style. S17 EMIL 1952 E2  The most notable difference is massively improved gun and even better turret armor, while it still maintains the 12 degrees of gun depression. S17 EMIL 1952 E2  It is best used at mid-range combat in hull-down positions where the hull is protected and the turret is the only part exposed. S17 EMIL 1952 E2  The turret is one of the strongest in the tier, and can easily bounce all standard and most premium shells. S17 EMIL 1952 E2  However, premium ammo from tier X destroyers and high calibre HE shells can and will get through, so beware. S17 EMIL 1952 E2 
+
+Hull armor is very weak and unreliable. S17 EMIL 1952 E2  The player must be aware of the hull exposure while being focused at anytime to maximize survival. S17 EMIL 1952 E2  Weak hull also makes this tank bad for brawling - after you empty your clip, you are basically dead, as everyone will pen you from any angle in the hull. S17 EMIL 1952 E2  The tank's mobility is average, but it is still mobile enough to get around and re-position wherever needed. S17 EMIL 1952 E2 
+
+Emil II should be played as a support or on ridges, preferably with other tanks nearby. S17 EMIL 1952 E2  Fighting alone can lead to quick death as soon as enemies realize that you are reloading, so be cautious. S17 EMIL 1952 E2  Also be aware of artillery as they will punish you if you stay in focus for too long. S17 EMIL 1952 E2 
+
+|InTheGame_research= The cannon is the main priority, as it is just better than the stock cannon. S17 EMIL 1952 E2  After that, any order of research is fine, but most important (after the top cannon is researched) is engine and tracks to improve mobility. S17 EMIL 1952 E2 
+
+|InTheGame_equipment= Enhanced Gun Laying Drive, Vertical Stabilizer Mk 2, Coated Optics, Improved Ventilation Class 3 
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= [https://www. S17 EMIL 1952 E2 youtube. S17 EMIL 1952 E2 com/watch?v=ezwyenGfZcQ Review with QuickyBaby]
+
+|History= 
+
+In 1952, the development of the next Swedish tank was well underway – despite the fact the work started as early as in 1951, it was only now when it really picked up the pace. S17 EMIL 1952 E2  In 1952, the project was reworked from a set of basic requirements and schematics into a functional design. S17 EMIL 1952 E2  More outlandish ideas were scrapped in favor of technologies, that had already been prototyped or tested and several new ideas were being tested as well. S17 EMIL 1952 E2  As an example, the suspension was changed to a hydraulic one, based on the Lvkv 42 prototype self-propelled anti-aircraft gun and work started on a prototype gun on the basis of the old 15cm Haub m/39 howitzer. S17 EMIL 1952 E2 
+
+
+The EMIL project started out in 1951 as more of a medium tank, but in 1952, the army, like other western nations, decided that they needed something to counter the Soviet IS-3 heavy tank and it was this line of thought, that would above all else shape the EMIL project after 1951. S17 EMIL 1952 E2 
+
+The main inspiration for the design seems to have been drawn, initially at least, from the French and German tank designs – more specifically from the new AMX 13, which had recently been tested in Sweden, as well as the German Panther. S17 EMIL 1952 E2  The influence of these tanks can be seen in the addition of a French style oscillating turret with an autoloader and the well-sloped frontal glacis. S17 EMIL 1952 E2  But in 1952, as the design was being reworked, it was decided to borrow the Soviet idea of the pike nose in order to increase the effective thickness even further. S17 EMIL 1952 E2 
+
+Although all were based around the same principles, there were several different variants of the EMIL, specificially there were three main ones. S17 EMIL 1952 E2  First was the E1, which was to correspond with the 1951 proposal, but with the new pike nose front and with an American tank engine instead of a Swedish one. S17 EMIL 1952 E2  The second design was called E2 and was a sort of a middle range model, which would be heavier than the E1, but also would be able to carry a 15cm smoothbore instead of the 12cm rifled gun, planned for the earlier models. S17 EMIL 1952 E2  The E2 was also able to sport a bigger engine and this design was considered as the most realistic one, since there was no guarantee that a bigger engine could be acquired. S17 EMIL 1952 E2  Last was the E3, which was the top range model with a weight of over 40 tons and an American 810hp engine, this was at the time seen as a bit too heavy and unrealistic, but as the engine became available, this design was chosen and two hulls were built in 1955. S17 EMIL 1952 E2 
+
+A chart with various models
+
+[[File:Emil_models_chart. S17 EMIL 1952 E2 jpg]]
+
+Some of the other variables that separated the designs included front and side armor for the hull and turret, engine output, main armament and suspension. S17 EMIL 1952 E2  In the case of frontal armor, there was a choice of either having a 120mm hull and 140mm turret armor or 145mm hull and 170mm turret armor, these thicknesses were specifically chosen to be able to withstand a frontal hit from the IS-3 heavy tank with either (in the first case) regular AP ammo or (in the latter) subcaliber ammo. S17 EMIL 1952 E2  Side armor was divided into 3 options: first was a 20mm hull and 40mm turret, 2nd was a 30mm hull and 60mm turret and third was a 40mm hull and 80mm turret. S17 EMIL 1952 E2  The rest of the armor was common to all variants of the tank. S17 EMIL 1952 E2  This included the hull roof, driver’s port (middle front glacis) and floor. S17 EMIL 1952 E2  The rear armor was 30mm for all the variants except for the one with 40mm side armor, where the rear was also 40mm thick. S17 EMIL 1952 E2 
+
+One of the most important variables was the engine output. S17 EMIL 1952 E2  As mentioned before, the engines considered were American tank engines, mainly from Continental. S17 EMIL 1952 E2  These included the AOS-195 (500hp), AV-1195 (540hp), AVS-1195 (665-668hp) and AV-1790 (810hp) models. S17 EMIL 1952 E2  Initially, it was thought that the acquisition of the more powerful engines wouldn’t be possible and therefore initial projections favored a middle range tank model in both weight and armor, but as negotiations continued, an example of the 810hp was acquired and considered for licensed production at SFA (the Swedish aircraft engine company). S17 EMIL 1952 E2  This meant that there were no longer any problems with the engine output for the tank and that the development of the top range model could be pursued. S17 EMIL 1952 E2  However, as the development of the tank continued, it was decided to use a Swedish engine instead, as one of sufficient power had been developed at SFA. S17 EMIL 1952 E2  The new engine was very powerful at around 900hp, but the power required to run the cooling system meant that when it was finally tested on the prototypes in 1955, it could only deliver 723hp with the rest being used up by the cooling system itself. S17 EMIL 1952 E2 
+
+Even before 1951, studies had been made regarding the armament of what would become the EMIL project. S17 EMIL 1952 E2  These studies had concluded that the best armament for a future tank project would be a high caliber gun (12cm or higher) in order to effectively use HEAT shells. S17 EMIL 1952 E2  But these were no regular HEAT shells – in fact the Swedish idea was to mix the properties of APDS and HEAT to create a heat shell with a discarding sabot. S17 EMIL 1952 E2  This would allow the shell to travel much faster than a normal HEAT shell. S17 EMIL 1952 E2  Ultimately, the development of these munitions would prove impossible for Sweden and would be a major reason behind the cancellation of the project. S17 EMIL 1952 E2  The actual gun considered to use this kind of shell was at first a 12cm L/40 rifled gun and later a 15cm L/40 smoothbore gun. S17 EMIL 1952 E2  Besides the HEAT shells, these guns were to fire mainly HE, although there were plans for APDS ammunition as well. S17 EMIL 1952 E2  There were also plans for a 10,5cm gun in case the development of the previously mentioned guns would prove too complicated. S17 EMIL 1952 E2  One thing of note is that the 150mm gun is not viable for World of Tanks, as it is a smoothbore. S17 EMIL 1952 E2 
+
+Drawing comparing the different gun options
+
+[[File:Gun_options_for_Emil. S17 EMIL 1952 E2 jpg]]
+
+Suspension was another thing that varied quite a bit between the different designs. S17 EMIL 1952 E2  We know that there were plans for up to 8 roadwheels per side, but the final prototypes ended up with 6 per side. S17 EMIL 1952 E2 
+
+I should state however that some changes were made to the EMIL project after the completion of the prototypes in 1955. S17 EMIL 1952 E2  The main change was to the turret armor which was changed from the planned 170/80/40 to 170/70/30 in order to stabilize the gun better, elevation also changed from +8/-12 to +10/-12. S17 EMIL 1952 E2  Other than that, there were plans to potentially mount a British or French gun on the vehicle in 1958 after the development of a suitable Swedish one had failed. S17 EMIL 1952 E2 
+
+So to summarize, the Emil was to be a heavily armored but mobile tank with a weight of under 50 tons and a 10,5-15cm gun, capable of dealing with the IS-3 at long range. S17 EMIL 1952 E2  So you might be thinking, why was it that this tank never entered production? Well, initially the idea was that this tank would replace the WW2 vintage Strv m/42, but the gap between the two tanks would mean that Sweden would be without a modern tank during most of the 1950′s, until a production version of the EMIL was ready. S17 EMIL 1952 E2  What happened instead was that Sweden purchased the British Centurion tank as a stopgap measure and with the development of the L7 gun in the late 50′, there was no longer a need for the EMIL project. S17 EMIL 1952 E2  However, some work continued on the prototype chassis which had been named “Kranvagn” (crane vehicle) to confuse any potential spy. S17 EMIL 1952 E2 
+
+Akv 151 prototype SPG
+
+[[File:Akv_151_prototype_SPG. S17 EMIL 1952 E2 jpg]]
+
+Work on a new 15cm autoloading SPG had been in progress since before the EMIL project and a version based on the EMIL hull had been in the work since the start of the project. S17 EMIL 1952 E2  After the initial testing in 1955-1956, it was decided that one of the prototype hulls would be converted to this SPG configuration. S17 EMIL 1952 E2  This vehicle prototype was built in 1960 and would eventually become the Bkan 1, but that is a story for another time
+
+There was also an idea to mount the Centurion Mk. S17 EMIL 1952 E2 10 turret on the Krv chassis in order to create a competitor to the Centurion Mk. S17 EMIL 1952 E2 10, but in the end, the Swedish army decided that it would be simpler if they just purchased the whole Centurion Mk. S17 EMIL 1952 E2 10 instead. S17 EMIL 1952 E2  However there were also plans to let a vehicle in this configuration serve as a prototype for future turreted tank concepts in Sweden, but nothing ever came of this. S17 EMIL 1952 E2  Instead, the remaining prototype had 4 of its roadwheels removed and was fitted with equipment for testing of the hydraulic suspension as well as a fixed 20pdr gun and was used as a test rig for the S-tank. S17 EMIL 1952 E2  This prototype chassis still exist in the Arsenalen museum, although it’s currently in storage and not on display. S17 EMIL 1952 E2 
+
+Interpretation of the Centurion/Kranvagn hybrid
+
+[[File:Centurion_Kranvagn_hybrid_interpretation. S17 EMIL 1952 E2 jpg]]
+
+Kranvagn chassis during suspension testing for the S tank project
+
+[[File:Kranvagn_chassis_during_suspension_testing_for_the_S_tank_project. S17 EMIL 1952 E2 jpg]]
+
+Last time the Krv chassis was seen by the public was its move to the new Arsenalen museeum storage
+
+[[File:Krv_chassis_moving_to_Arsenalen. S17 EMIL 1952 E2 jpg]]
+
+|HistAcc=
+* The frontal hull armor is decreased from the historical proposal, from the historical 95mm of the upper glacis and the 145 mm of the lower glacis, to the in game 80mm of the upper glacis and the 115mm of the lower glacis. S17 EMIL 1952 E2 
+* The side hull armor is increased from the historical 30mm to 60mm in game. S17 EMIL 1952 E2 
+* The turret frontal armor is increased from the historical proposal from 170 mm to the in game 215 mm. S17 EMIL 1952 E2 
+* Engine power and subsequent power to weight are lower then documented. S17 EMIL 1952 E2  Historical documents have the tank with a 665hp engine giving a power to weight of 17. S17 EMIL 1952 E2 97hp/t
+
+|HistoricalGallery= 
+File:Emil_2_Armor_historical_statistics. S17 EMIL 1952 E2 jpg{{!}}Historical armor statistics for the Emil II
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S17 EMIL 1952 E2 wot-news. S17 EMIL 1952 E2 com/2013/12/12/kranvagn-swedish-heavy-tank-development/
+* https://ftr. S17 EMIL 1952 E2 wot-news. S17 EMIL 1952 E2 com/2014/07/15/swedish-tanks-part-xii-emil-1952-1958/
+* https://www. S17 EMIL 1952 E2 ointres. S17 EMIL 1952 E2 se/2013-10_militar-historia_bkan. S17 EMIL 1952 E2 pdf
+* https://www. S17 EMIL 1952 E2 ointres. S17 EMIL 1952 E2 se/strv_103. S17 EMIL 1952 E2 htm
+* https://tanks. S17 EMIL 1952 E2 mod16. S17 EMIL 1952 E2 org/2013/12/07/memo-regarding-the-procurement-status-of-spg-spaag-and-tanks/
+* https://tanks. S17 EMIL 1952 E2 mod16. S17 EMIL 1952 E2 org/2013/12/07/project-emil-a-summary/
+* https://tanks. S17 EMIL 1952 E2 mod16. S17 EMIL 1952 E2 org/2013/11/23/meetings-at-bofors-in-late-1954-regarding-status-of-current-projects/
+* https://tanks. S17 EMIL 1952 E2 mod16. S17 EMIL 1952 E2 org/2013/11/23/orientation-regarding-current-projects-may-1954/
+* https://tanks. S17 EMIL 1952 E2 mod16. S17 EMIL 1952 E2 org/2013/11/23/various-1954-meeting-notes-regarding-bofors-project-6400/
+* https://imgur. S17 EMIL 1952 E2 com/a/7r9lg/all (in Swedish)
+* [https://ritastatusreport. S17 EMIL 1952 E2 live/2016/11/21/the-lies-about-the-swedish-heavies/ List of inaccuracies of the Swedish heavy tanks], written by one of the people who created by the Swedish tech tree in the first place
+
+}}

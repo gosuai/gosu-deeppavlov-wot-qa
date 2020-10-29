@@ -1,0 +1,74 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Excellent gun handling and good aimtime
+* Excellent ground resistance, retains speed well
+* Good gun depression and elevation
+* Low profile (turret is very flat) and good camouflage values
+* Good viewrange
+
+|InTheGame_cons= 
+
+* Lowest alpha damage in tier/class, low DPM
+* Top speed is not that high 
+* Very expensive and fairly ineffective premium ammunition
+* Low survivability - small healthpool and very thin armor
+
+|InTheGame_performance=
+The T92 is a classic scout tank in every sense of the word. A99 T92 LT  Fans of support-oriented light tanks will feel right at home in this machine, as will light tank drivers who are used to being hell on treads at tier 8. A99 T92 LT  Small, agile, fast, and lightly armed, the T92 is not capable of taking the 'pocket medium' role that some light tanks can accept. A99 T92 LT  Instead, it is designed to take advantage of four major light tank duties. A99 T92 LT 
+
+As a passive scout, it relies on its small size, 10 degrees of gun depression, and its 400 meter view range to quickly control ideal spotting positions. A99 T92 LT  Though it is slow for a light tank at only 60 kph, the T92 accelerates exceptionally well and retains a lot of speed climbing hills or plowing through bad terrain. A99 T92 LT  It can leave a [[WZ-132]] behind on most forms of terrain and can even beat an [[LTTB]] in a sprint. A99 T92 LT  Once in place, it can quietly hide out and keep an eye on enemy movement. A99 T92 LT  If discovered or the situation becomes untenable, it can easily back off and relocate. A99 T92 LT 
+
+As an active scout, it relies on its small size and good ground resistance to let it spot enemies on the move. A99 T92 LT  The T92 is low but wide, giving it the ability to retain a lot of speed in fast maneuvers and avoid taking shots, especially at mid to long range. A99 T92 LT  A madly swerving T92 can be almost impossible for some tanks to hit at medium range, especially for those with low shell velocity. A99 T92 LT  The T92 is unusually gifted in this area as it barely needs to poke above ridges to accomplish its task, because its turret is practically ''all'' cupola. A99 T92 LT  Peeking for an instant is usually enough to spot enemies. A99 T92 LT 
+
+As a supporting flanker, it relies on good gun handling and its ability to quickly change firing positions to deal damage over the course of a game. A99 T92 LT  A T92 will rarely take down a full health opponent, lacking alpha damage as it does. A99 T92 LT  However, it has average DPM and an unusually good stock APCR round. A99 T92 LT  While the penetration is average at best and the damage is laughable, it has a fast flight speed and, more importantly, retains penetration at all but the most extreme ranges, only dropping to 173mm of pen at 300 meters! This allows it to snipe at flanks with its normal ammunition. A99 T92 LT 
+
+As an artillery/tank destroyer hunter, it relies on its mobility and ability to fire on the move to track down isolated enemies and harass them. A99 T92 LT  The gun remains uncommonly accurate on the move, so use of the auto-aim feature is recommended, as this allows you to focus on the driving. A99 T92 LT  Circle any isolated, unsupported, or over-extended enemies, then punish their weaker side and rear armor. A99 T92 LT  Most artillery and casemate TDs such as the [[Ferdinand]] or even the mighty [[T95]] can be brought low with this tactic. A99 T92 LT  This is most effective towards the end of a match when enemies aren't coordinated. A99 T92 LT 
+
+The T92 is absolutely abysmal at straight fights and will lose a fair fight with many tanks as low as tier 6, so don't accept them. A99 T92 LT  Flank, disengage, hit enemies from odd positions. A99 T92 LT  Stay still only for passive scouting; otherwise, take advantage of the many comfortable handling characteristics of this tank to keep your opponent guessing and wondering why they're constantly sprouting new bullet holes 150 HP at a time. A99 T92 LT 
+
+It received a hidden buff in update 9. A99 T92 LT 21 that finally gave the tank some much needed engine durability and brought the health of the engine up from a mere 104 to an acceptable 260, allowing it to survive more than one shell before breaking. A99 T92 LT  This means that a 88mm shell will no longer instantly knock out the engine on a hit. A99 T92 LT  It is also less likely to completely lose both the tracks and the engine in a single shot from larger-caliber shells. A99 T92 LT 
+
+Recommended crew skills:<br/>
+Commander (Radioman): Camouflage, Sixth Sense, Brothers in Arms, Recon, Eagle Eye<br/>
+Driver: Camouflage, Clutch Braking, Brothers in Arms, Off-Road Driving, Smooth Ride<br/>
+Gunner: Camouflage, Deadeye, Brothers in Arms, Designated Target, Snap Shot<br/>
+Loader: Camouflage, Safe Stowage, Brothers in Arms, Adrenaline Rush, Repairs<br/>
+
+While normally desirable, the Repair skill is less effective on the T92, as it is too fragile to survive long with a destroyed track or engine. A99 T92 LT  Use of a Repair Kit is preferable. A99 T92 LT  Off-Road Driving and Smooth Ride improve the T92's ground resistance and on-the-move gun handling, but their effect on these already-strong stats is minor, and so these can be taken later. A99 T92 LT  For the same reason, the usually desirable Snap Shot can also be taken later, as its effect on the T92's already good gun handling is also minimal. A99 T92 LT  Intuition is not useful due to the T92's fast and painless reload speed. A99 T92 LT 
+
+|InTheGame_research= 
+As a premium vehicle, this tank comes elite in its stock configuration. A99 T92 LT 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics, Camouflage Net, Binocular Telescope
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+T92 Light Tank was an innovative American light tank developed in the 1950s by Aircraft Armaments. A99 T92 LT  At 18. A99 T92 LT 5 tonnes, 5m length, it was designed as an airborne/airdropped replacement for the 5 tonnes heavier [[M41 Walker Bulldog]]. A99 T92 LT  The T92 was never accepted into service. A99 T92 LT <br />
+The main gun was a conventional 76 mm cannon with a very low profile turret. A99 T92 LT  Little more was exposed than the main gun and two crew cupolas which allowed 50 caliber and 30 caliber machine guns to fire buttoned up. A99 T92 LT  The engine was moved to the front, which increased protection, and a rear access door provided an escape hatch and protection while reloading; this layout was later adopted by the Israeli Merkava battle tank. A99 T92 LT  It had a crew of four with a semi-automatic loading system. A99 T92 LT  It carried 60 main gun rounds, and automatically ejected spent shell casings. A99 T92 LT <br />
+Study of the Soviet PT-76 led to a new swimming requirement for light tanks, for which the design could not be modified. A99 T92 LT  The T92 would be passed over and the M551 Sheridan was eventually adopted instead. A99 T92 LT  It fielded an unconventional 152 mm gun-missile system which would suffer many technical problems, and its swimming system would be rarely used in combat. A99 T92 LT  The French AMX-13 tank was a somewhat similar design that was successfully fielded. A99 T92 LT 
+|HistoricalGallery= 
+File:T92 Light Tank. A99 T92 LT jpg{{!}}T92 on original trials
+
+|HistAcc=
+* The engine mounted was only a 340hp engine, not the 600hp it has in-game
+* The weight of the vehicle is heavier then in-game with a weight of 18. A99 T92 LT 5ton
+* Subsequent power to weight is 18. A99 T92 LT 38hp/t, significantly less then the 35. A99 T92 LT 32hp/t it has in-game
+* The T92's actual top speed is 56 km/h (currently 60 km/h). A99 T92 LT 
+* Rate of fire of the vehicle was only 12 rounds per minute due to the semi-automatic loading system. A99 T92 LT 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

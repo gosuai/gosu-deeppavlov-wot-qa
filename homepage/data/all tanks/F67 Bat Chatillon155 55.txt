@@ -1,0 +1,60 @@
+{{TankData|Tank=Bat_Chatillon155_55
+|
+
+|InTheGame_pros=
+* Gun range: stock: 1350 m, top: 1400 m 
+* Mobility is very good, comparable to a medium tank
+* Rotating turret and relatively high accuracy
+* Fast reload speed, high firerate
+* Painless stock grind; top gun only improves aiming time by 0. F67 Bat Chatillon155 55 5 seconds
+
+|InTheGame_cons=
+* No gun depression making 'TD Mode' hard
+* Low alpha damage per shot. F67 Bat Chatillon155 55  Avoid shooting heavily armored targets. F67 Bat Chatillon155 55  Even frontal hits on a [[Foch]] may do no damage at all
+* Needs a Radio Operator unlike its predecessor and successor, breaking Brothers in Arms, though you may still have one in barracks from the Lorraine 155 50
+* Low shell arc on its guns, cannot resist pre 9. F67 Bat Chatillon155 55 18 59-16 76mm AP/APCR shells, all HE can pen it now. F67 Bat Chatillon155 55 
+* Subpar stun time, piss poor armor, lost 13+ tons of weight so it is easier to ram kill, lost engine power. F67 Bat Chatillon155 55 
+
+|InTheGame_performance=The Bat Chatillon 155 55 is a very different artillery piece than any of the other tier 9's. F67 Bat Chatillon155 55   It features a 155mm gun that has the lowest-in-tier 750 alpha damage, but the best accuracy and reload of any artillery piece in its tier. F67 Bat Chatillon155 55   Similar to the Lorraine 155 51, it deals its damage over time by putting large numbers of rounds downrange. F67 Bat Chatillon155 55   However, due to its low alpha damage, its damage can vary greatly, as many of the super-heavy tanks in the game can shrug off its hits for little to no damage. F67 Bat Chatillon155 55   The gun, other than the damage, is a straight up upgrade to the tier 8 Lorraine 155 51, with better reload and accuracy. F67 Bat Chatillon155 55   It also gains a full 360 degree turret, which allows you to switch targets more easily. F67 Bat Chatillon155 55   The Bat Chatillon 155  55 is interesting in TD mode due to its high mobility and full turret, allowing it to surprise enemies from unexpected locations. F67 Bat Chatillon155 55   However, it is hindered due to its low alpha, meaning that the target will often survive your one shot, and nonexistent gun depression, which can make it hard to hit things. F67 Bat Chatillon155 55 
+
+
+
+|InTheGame_research=
+* The SCR 528F Radio carries over from the Lorraine 155 mle. F67 Bat Chatillon155 55  51. F67 Bat Chatillon155 55  Mount it immediately. F67 Bat Chatillon155 55 
+* Research the Batignolles-Châtillon 155 mle. F67 Bat Chatillon155 55  56 suspension first. F67 Bat Chatillon155 55  It gives huge boost to mobility. F67 Bat Chatillon155 55 
+* Research the Canon de 155 mm Gun. F67 Bat Chatillon155 55  
+* If you want more mobility, research the Continental AV-1790-7B Engine. F67 Bat Chatillon155 55 
+* Go from there. F67 Bat Chatillon155 55 
+
+|InTheGame_equipment=
+Medium-Caliber Artillery Shell Rammer,GLD,Camouflage Net
+
+|Gallery=
+
+
+|History=
+[[image:Batignolles_Chatillon155_mm_side_view. F67 Bat Chatillon155 55 jpg|thumb|200px|left|Batignolles Chatillon 155mm]]
+Following Lorraine’s project of the self propelled howitzer, Batignolles Chatillon started the work on the self propelled artillery vehicle with a fully rotatable turret. F67 Bat Chatillon155 55  Main feature was to be drum based automatic loader system installed in the turret. F67 Bat Chatillon155 55  In late 1958 all development was canceled and project was abandoned with only a one prototype built. F67 Bat Chatillon155 55 
+
+
+|HistoricalGallery=
+image:Bat chatillon 155 mm. F67 Bat Chatillon155 55 jpg
+image:Batignolles_Chatillon155_mm_side_view. F67 Bat Chatillon155 55 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+* https://www. F67 Bat Chatillon155 55 chars-francais. F67 Bat Chatillon155 55 net/2015/index. F67 Bat Chatillon155 55 php/liste-chronologique/de-1945-a-1990?task=view&id=40
+
+|Sidebar_Camostop=7. F67 Bat Chatillon155 55 1
+|Sidebar_Camomove=3. F67 Bat Chatillon155 55 7
+|Sidebar_Camofire=1. F67 Bat Chatillon155 55 0
+|Sidebar_Passhard=1. F67 Bat Chatillon155 55 151
+|Sidebar_Passmed=1. F67 Bat Chatillon155 55 342
+|Sidebar_Passsoft=2. F67 Bat Chatillon155 55 205
+|Sidebar_DispTurret=0. F67 Bat Chatillon155 55 537
+|Sidebar_DispRecoil=5. F67 Bat Chatillon155 55 753
+|Sidebar_DispAccel=0. F67 Bat Chatillon155 55 384
+|Sidebar_DispTurning=0. F67 Bat Chatillon155 55 384
+}}

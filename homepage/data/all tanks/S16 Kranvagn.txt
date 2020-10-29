@@ -1,0 +1,143 @@
+{{TankData|Tank= 
+|The final advancement of the Swedish turreted tank line. S16 Kranvagn  Shared with its predecessors; thanks to the size, weight and power to weight ratio, it's considered by many to be more of a medium tank rather than a heavy tank. S16 Kranvagn  The aforementioned size together with a tough frontal turret and a solid gun depression plus a decent mobility means that the Kranvagn can be extremely effective in a hulldown spot. S16 Kranvagn  However, be careful about your position. S16 Kranvagn  Exposing your hull will almost always result in a penetration, since it isn't as reliable as the turret front. S16 Kranvagn  Also mind that, when gun depression is used, the turret rear and commander's hatch is exposed which is a weak spot. S16 Kranvagn  You can counter this by pointing the gun upwards. S16 Kranvagn 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Amazing turret armor: when hulldown, the turret will reliably bounce the HEAT shells of a Jagdpanzer E100!
+
+- Best gun depression in its entire tier which can make the turret even harder to penetrate, higher alpha damage for a 12cm cannon (440 vs. S16 Kranvagn  average 390-400)
+
+- Low silhouette and small size for heavy tank; especially compared to [[AMX 50 B]] 
+
+- Second highest top speed for Heavy Tanks (60KM/H)
+
+- Decent accuracy and gun handling, has amazing damage per minute after update 1. S16 Kranvagn 5 (around 3000 base with a 100% crew, about a 400 improvement compared to pre 1. S16 Kranvagn 5)
+
+- Trollish upper and turret plate can create ricochets
+
+|InTheGame_cons= 
+- Lowest HP of all tier 10 heavies (2000 HP)
+
+- Overall mediocre hull armor, the upper plate is unreliable and very weak aside from autobounce angles
+
+- Mediocre in-clip reload (slightly better after 1. S16 Kranvagn 5 with 2. S16 Kranvagn 75 seconds instead of 3)
+
+- Contrasting with its amazing gun depression, it has one of the worst gun elevation in the game (only 10 degrees); will have a problem shooting enemies standing on the high ground
+
+- Fairly frequent module damage; driver dies very often and ammorack damage is frequent
+
+- Relatively sluggish acceleration; reaches its top speed only when going downhill
+
+- Premium ammo has very low penetration for tier 10 HEAT shell; standard APCR has much worse shell velocity than most APCR 
+
+- Very vulnerable to artillery due to its playstyle, low health and thin hull armor
+
+
+|InTheGame_performance= 
+
+The Kranvagn handles much like its predecessors only with slightly better gun-handling (decent dispersion @. S16 Kranvagn 36 for a tier 10 heavy-tank), drum reload-time, and even a stronger turret armor than the Emil II while still maintaining the 12 degrees of gun depression. S16 Kranvagn  The Kranvagn excels at mid-range combat and is best suited in hull-down positions where the hull is protected and the turret is the only part exposed. S16 Kranvagn  The turret is extremely strong, and can easily bounce Hi-caliber AP/APCR shells such as the JPZ-E100. S16 Kranvagn  This tank has the potential of being an absolute terror against anything unfortunate enough to be caught in the Kranvagn's gun range. S16 Kranvagn 
+
+Unfortunately for the Kranvagn, it suffers from an extremely weak and unreliable hull-armor (its armor is only slightly better than the [[Tank:G89_Leopard1|Leopard 1]]). S16 Kranvagn  It is imperative that the player be aware of the hull exposure while being focused at anytime to maximize survival; this tank is not good for brawling. S16 Kranvagn  While it doesn't often get ammo racked, it does catch fire fairly easy if shot in the rear. S16 Kranvagn  It should also be noted, that the side of the turret and cupolas are also vulnerable if they are exposed to enemy fire; Kranvagn drivers should keep this in mind while attempting to progress forward. S16 Kranvagn  The tank's mobility is average, as its acceleration is a bit sluggish and traverse is 30 deg/s; the tank is still mobile enough to get around and re-position wherever needed. S16 Kranvagn 
+
+This tank should be played as a support / frontline (on ridges where available). S16 Kranvagn  Fighting alone can lead to trouble quickly with this tank, so be cautious. S16 Kranvagn  Also Kranvagn players must be aware of artillery as they will punish the tank if it stays in the focus for too long. S16 Kranvagn  HE and HESH shells from Hi-caliber Tank-Destroyers such as the FV215B (183) can also inflict significant module damage even against the turret. S16 Kranvagn  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+Vertical Stabilizer Mk 2, Improved Ventilation Class 3, Coated Optics, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+In 1952, the development of the next Swedish tank was well underway – despite the fact the work started as early as in 1951, it was only now when it really picked up the pace. S16 Kranvagn  In 1952, the project was reworked from a set of basic requirements and schematics into a functional design. S16 Kranvagn  More outlandish ideas were scrapped in favor of technologies, that had already been prototyped or tested and several new ideas were being tested as well. S16 Kranvagn  As an example, the suspension was changed to a hydraulic one, based on the Lvkv 42 prototype self-propelled anti-aircraft gun and work started on a prototype gun on the basis of the old 15cm Haub m/39 howitzer. S16 Kranvagn 
+
+
+The EMIL project started out in 1951 as more of a medium tank, but in 1952, the army, like other western nations, decided that they needed something to counter the Soviet IS-3 heavy tank and it was this line of thought, that would above all else shape the EMIL project after 1951. S16 Kranvagn 
+
+The main inspiration for the design seems to have been drawn, initially at least, from the French and German tank designs – more specifically from the new AMX 13, which had recently been tested in Sweden, as well as the German Panther. S16 Kranvagn  The influence of these tanks can be seen in the addition of a French style oscillating turret with an autoloader and the well-sloped frontal glacis. S16 Kranvagn  But in 1952, as the design was being reworked, it was decided to borrow the Soviet idea of the pike nose in order to increase the effective thickness even further. S16 Kranvagn 
+
+Although all were based around the same principles, there were several different variants of the EMIL, specificially there were three main ones. S16 Kranvagn  First was the E1, which was to correspond with the 1951 proposal, but with the new pike nose front and with an American tank engine instead of a Swedish one. S16 Kranvagn  The second design was called E2 and was a sort of a middle range model, which would be heavier than the E1, but also would be able to carry a 15cm smoothbore instead of the 12cm rifled gun, planned for the earlier models. S16 Kranvagn  The E2 was also able to sport a bigger engine and this design was considered as the most realistic one, since there was no guarantee that a bigger engine could be acquired. S16 Kranvagn  Last was the E3, which was the top range model with a weight of over 40 tons and an American 810hp engine, this was at the time seen as a bit too heavy and unrealistic, but as the engine became available, this design was chosen and two hulls were built in 1955. S16 Kranvagn 
+
+A chart with various models
+
+[[File:Emil_models_chart. S16 Kranvagn jpg]]
+
+Some of the other variables that separated the designs included front and side armor for the hull and turret, engine output, main armament and suspension. S16 Kranvagn  In the case of frontal armor, there was a choice of either having a 120mm hull and 140mm turret armor or 145mm hull and 170mm turret armor, these thicknesses were specifically chosen to be able to withstand a frontal hit from the IS-3 heavy tank with either (in the first case) regular AP ammo or (in the latter) subcaliber ammo. S16 Kranvagn  Side armor was divided into 3 options: first was a 20mm hull and 40mm turret, 2nd was a 30mm hull and 60mm turret and third was a 40mm hull and 80mm turret. S16 Kranvagn  The rest of the armor was common to all variants of the tank. S16 Kranvagn  This included the hull roof, driver’s port (middle front glacis) and floor. S16 Kranvagn  The rear armor was 30mm for all the variants except for the one with 40mm side armor, where the rear was also 40mm thick. S16 Kranvagn 
+
+One of the most important variables was the engine output. S16 Kranvagn  As mentioned before, the engines considered were American tank engines, mainly from Continental. S16 Kranvagn  These included the AOS-195 (500hp), AV-1195 (540hp), AVS-1195 (665-668hp) and AV-1790 (810hp) models. S16 Kranvagn  Initially, it was thought that the acquisition of the more powerful engines wouldn’t be possible and therefore initial projections favored a middle range tank model in both weight and armor, but as negotiations continued, an example of the 810hp was acquired and considered for licensed production at SFA (the Swedish aircraft engine company). S16 Kranvagn  This meant that there were no longer any problems with the engine output for the tank and that the development of the top range model could be pursued. S16 Kranvagn  However, as the development of the tank continued, it was decided to use a Swedish engine instead, as one of sufficient power had been developed at SFA. S16 Kranvagn  The new engine was very powerful at around 900hp, but the power required to run the cooling system meant that when it was finally tested on the prototypes in 1955, it could only deliver 723hp with the rest being used up by the cooling system itself. S16 Kranvagn 
+
+Even before 1951, studies had been made regarding the armament of what would become the EMIL project. S16 Kranvagn  These studies had concluded that the best armament for a future tank project would be a high caliber gun (12cm or higher) in order to effectively use HEAT shells. S16 Kranvagn  But these were no regular HEAT shells – in fact the Swedish idea was to mix the properties of APDS and HEAT to create a heat shell with a discarding sabot. S16 Kranvagn  This would allow the shell to travel much faster than a normal HEAT shell. S16 Kranvagn  Ultimately, the development of these munitions would prove impossible for Sweden and would be a major reason behind the cancellation of the project. S16 Kranvagn  The actual gun considered to use this kind of shell was at first a 12cm L/40 rifled gun and later a 15cm L/40 smoothbore gun. S16 Kranvagn  Besides the HEAT shells, these guns were to fire mainly HE, although there were plans for APDS ammunition as well. S16 Kranvagn  There were also plans for a 10,5cm gun in case the development of the previously mentioned guns would prove too complicated. S16 Kranvagn  One thing of note is that the 150mm gun is not viable for World of Tanks, as it is a smoothbore. S16 Kranvagn 
+
+Drawing comparing the different gun options
+
+[[File:Gun_options_for_Emil. S16 Kranvagn jpg]]
+
+Suspension was another thing that varied quite a bit between the different designs. S16 Kranvagn  We know that there were plans for up to 8 roadwheels per side, but the final prototypes ended up with 6 per side. S16 Kranvagn 
+
+I should state however that some changes were made to the EMIL project after the completion of the prototypes in 1955. S16 Kranvagn  The main change was to the turret armor which was changed from the planned 170/80/40 to 170/70/30 in order to stabilize the gun better, elevation also changed from +8/-12 to +10/-12. S16 Kranvagn  Other than that, there were plans to potentially mount a British or French gun on the vehicle in 1958 after the development of a suitable Swedish one had failed. S16 Kranvagn 
+
+So to summarize, the Emil was to be a heavily armored but mobile tank with a weight of under 50 tons and a 10,5-15cm gun, capable of dealing with the IS-3 at long range. S16 Kranvagn  So you might be thinking, why was it that this tank never entered production? Well, initially the idea was that this tank would replace the WW2 vintage Strv m/42, but the gap between the two tanks would mean that Sweden would be without a modern tank during most of the 1950′s, until a production version of the EMIL was ready. S16 Kranvagn  What happened instead was that Sweden purchased the British Centurion tank as a stopgap measure and with the development of the L7 gun in the late 50′, there was no longer a need for the EMIL project. S16 Kranvagn  However, some work continued on the prototype chassis which had been named “Kranvagn” (crane vehicle) to confuse any potential spy. S16 Kranvagn 
+
+Akv 151 prototype SPG
+
+[[File:Akv_151_prototype_SPG. S16 Kranvagn jpg]]
+
+Work on a new 15cm autoloading SPG had been in progress since before the EMIL project and a version based on the EMIL hull had been in the work since the start of the project. S16 Kranvagn  After the initial testing in 1955-1956, it was decided that one of the prototype hulls would be converted to this SPG configuration. S16 Kranvagn  This vehicle prototype was built in 1960 and would eventually become the Bkan 1, but that is a story for another time
+
+There was also an idea to mount the Centurion Mk. S16 Kranvagn 10 turret on the Krv chassis in order to create a competitor to the Centurion Mk. S16 Kranvagn 10, but in the end, the Swedish army decided that it would be simpler if they just purchased the whole Centurion Mk. S16 Kranvagn 10 instead. S16 Kranvagn  However there were also plans to let a vehicle in this configuration serve as a prototype for future turreted tank concepts in Sweden, but nothing ever came of this. S16 Kranvagn  Instead, the remaining prototype had 4 of its roadwheels removed and was fitted with equipment for testing of the hydraulic suspension as well as a fixed 20pdr gun and was used as a test rig for the S-tank. S16 Kranvagn  This prototype chassis still exist in the Arsenalen museum, although it’s currently in storage and not on display. S16 Kranvagn 
+
+Interpretation of the Centurion/Kranvagn hybrid
+
+[[File:Centurion_Kranvagn_hybrid_interpretation. S16 Kranvagn jpg]]
+
+Kranvagn chassis during suspension testing for the S tank project
+
+[[File:Kranvagn_chassis_during_suspension_testing_for_the_S_tank_project. S16 Kranvagn jpg]]
+
+Last time the Krv chassis was seen by the public was its move to the new Arsenalen museeum storage
+
+[[File:Krv_chassis_moving_to_Arsenalen. S16 Kranvagn jpg]]
+
+|HistAcc=
+* The armor of in-game Kranvagn greatly differs from historical one:
+** The frontal hull armor is decreased from the historical 95mm of the upper glacis and the 145mm of the lower glacis to the in game 90 mm of the upper glacis and the 115 mm of the lower glacis. S16 Kranvagn 
+** The hull side armor is increased from the historical 37mm to the in game 70mm. S16 Kranvagn 
+** The turret front was increased from the historical 170mm to the in game 225mm. S16 Kranvagn 
+* One of its proposed armaments, a 150mm smoothbore gun, is missing. S16 Kranvagn 
+* Weight of the vehicle is heavier by 3ton compared to what is documented
+* Engine power is 23hp less then historically recorded
+* With documented weight of 41. S16 Kranvagn 8t and 723hp engine the power to weight is 17. S16 Kranvagn 29hp/t
+
+|HistoricalGallery= 
+File:Mock_up_of_45_tonne_Krv. S16 Kranvagn png{{!}}Mock up of the 45-ton Kranvagn
+File:Kranvagn_hull_with_dummy_turret. S16 Kranvagn jpg{{!}}Kranvagn hull with the dummy turret
+File:Krv_prototype_hull. S16 Kranvagn jpg
+File:Kranvagn_turret_armor_1953. S16 Kranvagn jpg{{!}}Planned turret armor for the Kranvagn
+File:KRV_welding_drawing. S16 Kranvagn jpg{{!}}Drawing for the Krv welded hull
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+{{VideoYT|aQaBgnyiUyE}}
+
+* https://ftr. S16 Kranvagn wot-news. S16 Kranvagn com/2013/12/12/kranvagn-swedish-heavy-tank-development/
+* https://ftr. S16 Kranvagn wot-news. S16 Kranvagn com/2014/07/15/swedish-tanks-part-xii-emil-1952-1958/
+* https://www. S16 Kranvagn ointres. S16 Kranvagn se/2013-10_militar-historia_bkan. S16 Kranvagn pdf
+* https://www. S16 Kranvagn ointres. S16 Kranvagn se/strv_103. S16 Kranvagn htm
+* https://tanks. S16 Kranvagn mod16. S16 Kranvagn org/2013/12/07/memo-regarding-the-procurement-status-of-spg-spaag-and-tanks/
+* https://tanks. S16 Kranvagn mod16. S16 Kranvagn org/2013/12/07/project-emil-a-summary/
+* https://tanks. S16 Kranvagn mod16. S16 Kranvagn org/2013/11/23/meetings-at-bofors-in-late-1954-regarding-status-of-current-projects/
+* https://tanks. S16 Kranvagn mod16. S16 Kranvagn org/2013/11/23/orientation-regarding-current-projects-may-1954/
+* https://tanks. S16 Kranvagn mod16. S16 Kranvagn org/2013/11/23/various-1954-meeting-notes-regarding-bofors-project-6400/
+* https://imgur. S16 Kranvagn com/a/7r9lg/all (in Swedish)
+* [https://ritastatusreport. S16 Kranvagn live/2016/11/21/the-lies-about-the-swedish-heavies/ List of inaccuracies of the Swedish heavy tanks], written by one of the people who created by the Swedish tech tree in the first place
+
+}}

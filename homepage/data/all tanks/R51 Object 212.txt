@@ -1,0 +1,87 @@
+{{TankData|Tank=212A
+| Despite having the same 203mm B-4 gun from its predecessors, the gun characteristics have been upgraded greatly, as it has larger gun traverse and a shorter reload time, also had a big jump in ammunition capacity to 40 shells up from 12 from the S-51 and 16 from the SU-14. R51 Object 212  However, is much less mobile than its predecessors, and plays at a higher tier. R51 Object 212 
+
+|Gallery=
+image:Object 212 1. R51 Object 212 jpg{{!}}Object 212 front left view
+image:Object 212 2. R51 Object 212 jpg{{!}}Object 212 front right view
+image:Object 212 3. R51 Object 212 jpg{{!}}Object 212 back left view
+image:Object 212 4. R51 Object 212 jpg{{!}}Object 212 back right view
+image:Obj212-1. R51 Object 212 jpg{{!}}Object 212, map Mountain pass
+
+|InTheGame_pros=
+* Good splash radius and damage
+* Can use ventilation equipment
+* Great ammo capacity
+* Upgraded gun has even higher vertical shell arc than the M53/55's upgraded gun, allowing you to hit targets behind cover
+* Painless grind; top gun is already researched, and weights less than stock. R51 Object 212  You can save exp on suspension and engine. R51 Object 212 
+
+
+|InTheGame_cons=
+* Large silhouette
+* Slow traverse speed along with low mobility
+* Narrow horizontal gun traverse
+* Very poor view range
+* Needs Radio Operator
+
+
+|InTheGame_performance=
+The 212A plays much like its predecessors with bonuses to various stats, as it has better accuracy and a faster reload than the SU-14-2. R51 Object 212   However, its horizontal gun traverse is still narrow and its mobility leaves much to be desired. R51 Object 212   However, its shell arc is higher than even the M53/55, meaning it can hit over cover and hit vehicles that think they are arty safe. R51 Object 212   as with the other low-mobility artillery pieces, it is not very effective in "TD mode", relying on ambush tactics to land the first shot. R51 Object 212 
+
+NB The 212A is the first Soviet SPG to need a Radio Operator since the SU-26. R51 Object 212  If you already have an experienced Artillery crew with the Brothers In Arms skill, this may cause you a problem. R51 Object 212 
+
+
+
+|InTheGame_research=
+* The 203 mm B-4 Gun and 12RT Radio carry over from the SU-14-2. R51 Object 212  Mount them immediately. R51 Object 212 
+* First, research the V-2K forced Engine. R51 Object 212 
+* Then research the 212A enhanced Suspension. R51 Object 212 
+* Alternetively, you can skip both engine and suspension and save 50k exp on your grind to Obj 261 without missing much. R51 Object 212 
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, GLD
+
+
+|History=
+Shortly before the war, the KV heavy chassis was the basis for the development of self-propelled guns, one of them being the Object 212A. R51 Object 212  Work was conducted in SCB-4 LKZ under supervision of J. R51 Object 212  Kotin, lead designer, appointed by C. R51 Object 212  H. R51 Object 212  Golburt. R51 Object 212  Drafts were submitted for consideration to the ABTU in late 1940, developed under influence of the Soviet-Finnish war in overcoming the long-term fortification of the "Mannerheim Line", which was much more difficult than thought by the Red Army General Staff: to break through it without the help of heavy artillery was simply impossible. R51 Object 212  In some cases, the firing of heavy guns was conducted on the Finnish border, which was not always possible while under heavy fire resistance. R51 Object 212  The problem could be solved with large-caliber SPGs, but such machines were not in test trials until early February 1940, when the enemy's defenses had been breached. R51 Object 212  Since the urgent need for this kind of self-propelled gun had decreased, Project T-100-Y and SU-14-1 became preferred more than the KV-2 tank. R51 Object 212  In this situation, Kotin decided independently to develop the heavy self-propelled guns class, which could be used for attacks on the rear of the enemy, or used on his front line of defense. R51 Object 212 
+
+For future self-propelled gun was chosen: the 152. R51 Object 212 4mm Br-2, which was previously installed on the Su-14 model 1937. R51 Object 212  This gun was created by the Bureau of Factory "Barricades" in 1931. R51 Object 212  Comparative tests with the B-30 gun were initially rejected, but for un-clear reasons, still entered service. R51 Object 212  The choice of the BR-2 was less than optimal since the gun itself had several design flaws, and its prototype was almost destroyed due to a rupture of the barrel. R51 Object 212  Nevertheless, during the years 1937-1940, 37 guns were fired, which later became part of the heavy cannon Regiment Reserve of the Supreme Command Headquarters. R51 Object 212 
+
+Nevertheless, for all its shortcomings (low mobility, the complexity in manufacturing, low lifespan of the barrel), the BR-2 had a high capacity. R51 Object 212  Ammunition for the BR-2 consisted of two types; high-explosive 53-PF-551 weighing 48. R51 Object 212 9 kg and betonoboynymi 53-D-551 weighing 49 kg. R51 Object 212  Muzzle velocity of the 53-PF-551 is 880 m / s, with maximum range of 25 km. R51 Object 212  Contact with any of these shells against a tank or armored personnel carrier resulted in their complete destruction. R51 Object 212  The gun itself consisted of a barrel (up 47. R51 Object 212 2 gauge), loader piston type, mast, hydraulic brakes, and hydropneumatic recuperator rollback. R51 Object 212  Loading guns - kartuznoe, but to facilitate the flow of shells from the ground, it had a special crane used for hoisting. R51 Object 212  In order to build this artillery system, HF had to significantly modify the chassis. R51 Object 212  The number of rollers was increased from 6 to 7, with the rear of the distance between them having been reduced, and in the middle (less loaded) it was increased. R51 Object 212  4 support rollers remained, but changes in the layout moved the driving wheel forward. R51 Object 212  A swivel wheel with a screw mechanism for track tensioning is now located on the rear. R51 Object 212  The suspension of self-propelled guns remained independent torsion. R51 Object 212  Self-propelled caterpillar design was melkozvenchatoy with a width of 660 mm tracks. R51 Object 212  Changes to the chassis were made because a full redesign of the layout. R51 Object 212  The fighting compartment was located behind and partially in the middle part of the body. R51 Object 212  Another compartment, where the driver and the radio operator were placed, was between the transmission and engine compartments. R51 Object 212  The hull was welded and assembled from rolled armor plates with thickness' of 20, 30, 50, and 60 mm. R51 Object 212 
+
+The BR-2 cannon is installed in the wheelhouse and equipped with a telescopic sight. R51 Object 212  Pointing angles were rather modest and ranged from -3 to 15 vertically and - \ 8 on horizontally. R51 Object 212  Despite the fact that the shells were now literally "at hand", the loading was severely difficult due to their weight. R51 Object 212  In order to facilitate the loading, provision was made for the installation of a special pan like the M-10 howitzer of the heavy tank, KV-2. R51 Object 212  The selection of ammunition for the gun was increased with the addition an armor-piercing projectile weighing 51. R51 Object 212 07 kg, which had an initial velocity 860 m / s and at a distance of 5000 meters, could penetrate 40-mm armor. R51 Object 212 
+
+To protect against infantry, the Object 212 was equipped with three machine guns, the DT 7,62 mm. R51 Object 212  One of them was placed in the frontal case, the second in the the crew compartment, the third was at the zenith, and had to be mounted on a turret on the roof of the crew compartment. R51 Object 212 
+
+Ammunition for the guns were 47 artillery rounds for the BR-2 and 3000 rounds for the machine-guns. R51 Object 212  By comparison, the KV-2 heavy tank came with 36 tank shells and 3,087 machine gun rounds. R51 Object 212 
+
+Since the estimated mass of the object 212A approached 65 tons, a heavy-duty engine was needed. R51 Object 212  The option chosen was the 2-engine combination drive with a centrifugal supercharger, which was supposed to reach a maximum capacity of 850 hp. R51 Object 212  This would allow a maximum speed of 35 km / h and a cruising range on the highway of about 200 km. R51 Object 212  External communication was with the 71-TC-3M radio and whip antenna, and internal communication (most likely) among the crew members would be an intercom system, ie: the TPU or TPU-3-3bis-F. R51 Object 212 
+
+Although the heavy self-propelled gun had lost its initial priority, it was approved by the Project 212A ABTU and was accepted for implementation. R51 Object 212  SAU sought to hold on to building LKZ, and in December 1940, was sent a set of working drawings for the construction of the body. R51 Object 212  However, at this time the company was heavily loaded with orders for the release of the KV-1 and IS-2, where on completion, were thrown into the main forces of the Kirov. R51 Object 212  In addition, in April 1941, preparatory work began on the production of the KV-3 (the first version with a lengthened chassis and a 76. R51 Object 212 2-mm gun), so the ACS forces had no choice. R51 Object 212 
+
+Final assembly of the unit was delayed until June 1941, and after the war, considered not up to the level of "assault" self-propelled guns. R51 Object 212  Perhaps it could be brought to sea trials, but did not have time to put the LKZ chassis on for ACS. R51 Object 212  As a result, the self-propelled gun was disassembled and Object 212A reduced to metal. R51 Object 212  
+
+|HistoricalGallery=
+image:Object 212 1A. R51 Object 212 jpg{{!}}The incomplete Object 212 prototype
+image:Object 212 2A. R51 Object 212 jpg{{!}}Object 212 Technical Drawing
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://www. R51 Object 212 aviarmor. R51 Object 212 net/TWW2/tanks/ussr/obj212a. R51 Object 212 htm
+
+
+|Sidebar_Camostop=3. R51 Object 212 71
+|Sidebar_Camomove=2. R51 Object 212 0
+|Sidebar_Camofire=0. R51 Object 212 31
+|Sidebar_Passhard=1. R51 Object 212 247
+|Sidebar_Passmed=1. R51 Object 212 438
+|Sidebar_Passsoft=2. R51 Object 212 397
+|Sidebar_DispTurret=0. R51 Object 212 575
+|Sidebar_DispRecoil=5. R51 Object 212 753
+|Sidebar_DispAccel=0. R51 Object 212 326
+|Sidebar_DispTurning=0. R51 Object 212 326
+}}

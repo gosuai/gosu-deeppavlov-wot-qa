@@ -1,0 +1,126 @@
+:''This article is about the American TD. A39 T28  For the Soviet medium tank, see [[T-28]]. A39 T28 ''
+
+{{TankData|Tank=T28
+|When you first play the T28, you will notice that it is much slower than the [[T25 AT]] and to some players slightly worse. A39 T28  This tank is a bit faster than the [[T95]], but just barely, so both tanks are easy prey for artillery and fast tanks. A39 T28  The frontal armor is decent for its tier unless they load premium shells, unlike that of its turreted counterpart the [[T28 Prototype]], although the lower part of the armor is flat and easily penetrated. A39 T28  The 120mm gun can bring down even the strongest opponents with rapid fire, good damage, and accuracy. A39 T28  The only things the driver needs to worry about are its side and rear armor, as they are quite thin, allowing quick movers to take you down with ease. A39 T28  Be patient, stay in cover, and provide support for your allies and the T28 will prepare you greatly for the monster [[T95]]. A39 T28 
+
+|InTheGame_pros=
+* 120mm Gun offers good Penetration, Accuracy, Aim Time and DPM
+* The HD Model as of 9. A39 T28 21 has provided the T28 with a much more robust armour profile, comparable to a down scaled T95
+* High 1500hp Health Pool is one of the highest for any tank at Tier 8 and can allow the T28 to play much closer to the front
+* Frontal track profile is the same as the T95, with no actual hull hit box behind the first 2 road wheels
+* Low profile of the tank over all allows it to use small dips in terrain much more effectively then taller tanks
+
+|InTheGame_cons=
+* 22km/h top speed still makes it one of the slower tanks in the game, and hull traverse speed that is also on the slow side
+* Cupolas remain a weak spot
+* Gun Depression is only -5 degrees and makes ridge work difficult
+* Thin roof armour is vulnerable to artillery shells
+* Stock grind is much harder due to the slower speed and 105mm gun, which is inadequate for damaging most Heavies and TDs past tier 8
+
+|InTheGame_performance=
+With the introduction of Patch 9. A39 T28 21 WG has released the T28 in HD, and with it a new play style that the previous model was incapable of fulfilling. A39 T28 
+
+The major change that the HD Model brought was a revised armour profile that saw the frontal profile changed to something more like that of the T95, but down scaled for Tier 8. A39 T28  The armour characteristics of the T28 are now:
+
+ 
+* Hull directly above the tracks,aka "Shoulders": 203mm sloped and angled @ 55 degrees for an Effective 330mm of armour. A39 T28 
+* Lower glacis: 127mm sloped @ 57 degrees for an Effective 240mm of armour
+* Mantle: 254mm of flat armour
+* Gun Mantlet: 254mm of rounded armour acting as spaced armour
+* Hull Side: 101. A39 T28 6mm of Flat armour. A39 T28 
+
+
+Due to the revised armour profile, the only tanks that can reliably penetrate the T28 frontally are tier 9 and 10 tank destroyers, as even some tier 10 heavies will struggle with their standard AP rounds to penetrate the T28's armour. A39 T28  It must be stated however that the effectiveness of the T28's new armour is only at it's strongest when facing your target frontally: Any over angling on the players part will reduce the effective armour of the shoulders, allowing them to be penetrated with ease. A39 T28  It should also me noted that while the mantle is 254mm of armour frontally, the mantle sides are only 127mm thick. A39 T28 
+
+The second major change to the T28 was the removal of hull hit box behind the tracks at the front. A39 T28  Previously, the ubiquitous lower glacis "chin" as it was referred to filled the hit box between the front idler gear and the rest of the hull, meaning any shot that was put into the tracks at the very front would not only track the T28 but also damage it. A39 T28  This made it very difficult to corner fight with the T28 effectively. A39 T28 
+
+With 9. A39 T28 21 and the HD model however, the T28's hull has been shortened and the "chin" removed. A39 T28  This has allowed the tank's hit box profile to be much closer to that of the T95, in which there is no actual hull between the front idler gear and 2nd road wheel. A39 T28  This means that any shot placed into this area (which can be considered the first 1/4 of the track profile) will only track the T28 while not damaging it. A39 T28  This change to the design allows the T28 to "Corner Feint" or "Corner Juke" in city maps like the T95. A39 T28  
+
+For those unfamiliar with this play style, this is when the driver of a T28/T95 hugs a corner of a building exposing just the edge of the track (usually the front idler gear only) and then proceeds to rotate the tank around the corner like that. A39 T28  The idea is to cause the enemy to shoot into the track in an attempt to damage the tank. A39 T28  All that will result however is the track blowing off and the enemy tank having wasted a shot. A39 T28  Combine this play style with a 100% Repair Skill, and the T28 is now a much more effective front line tank. A39 T28 
+
+As in previous patches, what truly makes the T28 stand out from it's tier 8 competitors is it's 120mm gun. A39 T28  The 120mm gun combines good accuracy (. A39 T28 35 w/ full crew and equipment), penetration in both AP and APCR, and DPM (7. A39 T28 5 second reload w/ 3200 DPM with BiA, Vents and Rammer). A39 T28  This allows the T28 to put out very effective fire support that plays well both in close up engagements or in a long range fire support role. A39 T28  The rate of fire of the 120mm is enough when fully upgraded that is can potentially keep targets continually tracked in placed while your allies knock them out. A39 T28  While the 120mm may not be the best in any one area, it's focus on balance makes it one of the most effective in it's tier. A39 T28 
+
+As before, however, the same considerations must be taken into account when playing the T28: Always stay close to your allies for support as a light or medium (and some heavies) can easily flank you due to your low speed and hull traverse speed. A39 T28  Be aware of artillery and always use hard cover for protection. A39 T28  Avoid open fields where enemy tanks can circle you with ease. A39 T28  Try and cover your LGP at all costs. A39 T28 
+
+With the revised HD model in Patch 9. A39 T28 21, the T28 now fills it's proper place in the American case-mate TD line as an intermediate tank between the lightly armoured, fast moving support tanks at Tier 6(M36 Jackson) and Tier 7 (T25AT) and the slow moving, heavily armoured front line tanks at tier 9 (T95) and Tier 10 (T110E3). A39 T28  
+
+The change to the T28 now allows the tank to fill it's intended role with ease as it can now lead the charge for your team and break through the enemy lines when top tier (as very few tanks can actually penetrate the T28's new armour) while also letting it get closer to the action when bottom tier and provide a constant stream of fire power to aid your allies, and even help push through the enemy line if needed. A39 T28 
+
+Wargaming has wiped the slate clean with the T28 and it's HD model and can now truly play like a Tier 8 T95 as was always intended. A39 T28  Though the tank does still have weaknesses that you must be aware of, these should not hold you back or deter you from taking advantage of it's new found strengths and capabilities and using them to your and your team's full advantage to help carry the day. A39 T28  
+
+|InTheGame_research=
+You may have the Tier X radio from other lines and the 105mm from the [[T25 AT]], but you will need to equip the tracks to be able to mount the 120mm. A39 T28  Then you should research the engine, which is the same one that is in the T95. A39 T28 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Camouflage net
+
+|Gallery=
+image:T28_001. A39 T28 jpg{{!}}T28_001
+image:T28_002. A39 T28 jpg{{!}}T28_002
+image:T28_003. A39 T28 jpg{{!}}T28_003
+image:T28_004. A39 T28 jpg{{!}}T28_004
+
+|History=
+[[image:T95c. A39 T28 jpg|thumb|200px|left|T95 tank]]
+The rejected M6A2E1 project proposed that a limited number of assault vehicles be improvised by modifying the stock of T1E1 heavy tanks. A39 T28  However, a far more extensive program to develop a heavily armed and armored combat vehicle had been initiated in September 1943. A39 T28  Studies by the Ordnance Department indicated that such a vehicle would be required after the invasion of Europe to penetrate heavily fortified areas such as the German West Wall. A39 T28  The original concept proposed mounting the new 105mm gun T5E1 in a tank with the equivalent of 8 inch frontal armor using the electric drive system developed for the heavy tank T1E1 and the medium tank T23. A39 T28  The high velocity T5E1 gun had excellent penetration performance against concrete and when installed in a heavily armored chassis was expected to be extremely effective in reducing heavy fortifications. A39 T28  The Chief of Ordnance proposed that 25 of the new tanks be produced and estimated that they could be completed in eight to twelve months, approximately the same time that would be required to build a single pilot. A39 T28  Such a schedule was expected to make them available in time for operations in Europe. A39 T28  The Army Ground Forces did not agree and recommended that only three pilot models be constructed and that the electric drive be replaced by a mechanical transmission. A39 T28  After a conference with the various parties concerned, the Army Service Forces in March 1944 authorized the procurement of five vehicles, designating them as the heavy tank T28. A39 T28  The original specification was modified to increase the frontal armor to 12 inches raising the estimated combat weight to 95 tons. A39 T28 
+
+== Technical specifications ==
+[[image:T95_technical_drawings. A39 T28 png|thumb|200px|right|T95 Technical drawings]]
+The proposed tank was a low silhouette vehicle without a turret. A39 T28  The 105mm gun T5E1 was to be mounted in the front of the hull with a traverse of 10 degrees to the right and left of center and an elevation range of -5 to +20 degrees. A39 T28 
+<br />
+<br />
+The power package in the T28 (T95) was essentially the same as in the M26 Pershing tank, although the weight of the new vehicle was more than twice that of the latter. A39 T28  To handle the T28 (T95), the 500 horsepower Ford GAF engine and the torqmatic transmission required a final drive gear ratio that reduced the maximum vehicle speed to about eight miles per hour. A39 T28  In fact, the maximum recommended sustained speed was seven miles per hour at 2600 rpm. A39 T28  Due to its extreme weight and low engine power, the T28 (T95) had extremely limited obstacle-crossing ability and could not cross any of the portable bridges available at the time. A39 T28  The great weight of the vehicle also required considerable ingenuity in design to reduce the ground pressure to an acceptable level. A39 T28  This objective was achieved by the use of two sets of tracks on each side. A39 T28  The outer set, along with the four inch thick armor side skirts, could be removed and towed behind the vehicle when operating on a hard surface. A39 T28  Removing the outer tracks also reduced the overall width from 179 1/2 inches to 124 inches permitting rail transportation. A39 T28  At Aberdeen, an inexperienced four man crew removed the outer tracks under field conditions in four hours on their first try. A39 T28  An equal amount of time was required to reassemble them onto the vehicle. A39 T28  By the third try, the same team had reduced the time to remove or replace the outer tracks to 2 1/2 hours. A39 T28 
+
+== Crew ==
+A crew of four was carried with the driver and gunner in the front hull on the left and right of the cannon respectively. A39 T28  The loader was at the left rear of the fighting compartment and the commander at the right rear behind the gunner. A39 T28  The driver and the commander were each provided with a vision cupola. A39 T28  A ring mount for a . A39 T28 50 caliber machine gun was installed around the commanders cupola. A39 T28  It could be used only with the commander standing in the open hatch and was the only secondary armament on the vehicle, except for the individual crew weapons. A39 T28  The gunner was equipped with a telescope alongside the cannon and a periscopic sight in the hull roof. A39 T28 
+== History ==
+[[image:T95a. A39 T28 jpg|thumb|200px|left|T95 Front view]]On 7 February 1945, a memorandum from the Chief of Ordnance requested that the T28 be redesignated as the 105mm gun motor carriage T95 because the cannon was not turret mounted and because of its limited secondary armament. A39 T28  OCM 26898, dated 8 March 1945, approved the name change and recorded the characteristics of the new vehicle. A39 T28  Because of the pressure of the wartime production program as well as the size and weight of the proposed vehicle, there was some difficulty in finding a facility to manufacture the five pilots. A39 T28  However, the Pacific Car and Foundry Company agreed to take on the project and in May 1945, (they were supplied with the basic vehicle design as well as detailed information on the gun mount and the horizontal volute spring suspension. A39 T28  Final design work began immediately. A39 T28  The first front end casting was delivered on 20 June and welding was completed on the first hull in August 1945. A39 T28 
+<br />
+<br />
+[[image:FtKnox_T95_back. A39 T28 jpg|thumb|200px|right|T95 at Fort Knox]]After the end of the war in the Pacific, the number of pilots was reduced from five to two with number 1 being shipped to Aberdeen Proving Ground on 21 December 1945 followed by number 2 on 10 January 1946. A39 T28  The first pilot, registration number 40226809, was used for engineering tests at Aberdeen, but the second, registration number 40226810, was transferred first to Fort Knox and later to the Engineer Board at Yuma, Arizona where it was used for testing floating bridges. A39 T28 
+<br />
+<br />
+The heavily armed and armored T95 did not quite fit any of the usual categories for U. A39 T28  S. A39 T28  Army fighting vehicles. A39 T28  For example, tanks were expected to carry their armament in fully rotating turrets and self-propelled guns usually were lightly armored to achieve maximum mobility. A39 T28  The T95 did not meet either of these criteria and in June 1946, there was another name change. A39 T28  At that time, OCM 30758 redesignated the vehicle as the super heavy tank T28. A39 T28  It then was considered that the combination of heavy firepower and heavy armor was more appropriate for a tank than a gun motor carriage. A39 T28  Regardless of the name, the T28 (T95) was under test at Aberdeen Proving Ground until late 1947, primarily to evaluate the durability of components on such a heavy vehicle. A39 T28  A total of 541 miles of operation was completed consisting of 128 miles on roads and 413 miles on gravel. A39 T28  Needless to say, the mileage accumulated slowly because of the low normal operating speed of five to six miles per hour and the low priority assigned to the project. A39 T28  Work was terminated before completion of the program in compliance with a War Department policy to discontinue development on combat vehicles in the 100-ton class. A39 T28  In 1947 one of the T28 (T95)'s was heavily damaged by an engine fire during trials at Yuma Proving Grounds and scrapped, and the other T28 (T95) was reported broken up and also sold for scrap. A39 T28  In 1974 the last prototype was discovered abandoned in a back field at Fort Belvoir, Virginia. A39 T28  It is unknown where it spent the intervening 27 years. A39 T28  It is the sole remaining example of these tanks and was exhibited at the Patton Museum of Cavalry and Armor in Kentucky. A39 T28 
+
+|HistAcc=
+The 105 mm AT Gun T5E1 is the T28's only historical gun. A39 T28  The other gun configurations are fake. A39 T28 
+* Ford GAF engine is considerably more powerful than in reality, with 670 hp compared to the historical 500. A39 T28  The 780 hp engine configuration is fake. A39 T28 
+* Even though the HD model of the vehicle is that of an early illustration there are no known records of an armour layout that were not either 8 or 12 inches (~203 and ~305mm respectively)
+
+|HistoricalGallery=
+image:T28a. A39 T28 jpg
+image:T95f. A39 T28 jpg
+T28_Illustration. A39 T28 jpeg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A39 T28  and C. A39 T28  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A39 T28 
+
+Hunnicutt, R. A39 T28 P. A39 T28 , 1988, '''<i>Firepower: A History of the American Heavy Tank</i>''', Presidio Press, 222p,  ISBN:9780891413042. A39 T28 
+
+Forty, G. A39 T28 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A39 T28 
+
+Foss, C. A39 T28 F. A39 T28  and W. A39 T28  Fowler, 2002, '''<i>The Encyclopedia of Tanks and Armored Fighting Vehicles</i>''', Thunder Bay Press, San Diego, CA, 544p, ISBN:9781571458063. A39 T28 
+
+Zaloga, S. A39 T28 J. A39 T28 , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A39 T28 
+
+
+|Ref_links=
+
+* [https://www. A39 T28 wwiivehicles. A39 T28 com/usa/self-propelled-guns/t28. A39 T28 asp '''T28'''] Photos & history on the T28 Gun Motor Carriage. A39 T28 
+
+|Sidebar_Camostop=18. A39 T28 3
+|Sidebar_Camomove=11. A39 T28 1
+|Sidebar_Camofire=5. A39 T28 5
+|Sidebar_Passhard=1. A39 T28 055
+|Sidebar_Passmed=1. A39 T28 342
+|Sidebar_Passsoft=2. A39 T28 781
+|Sidebar_DispTurret=0. A39 T28 077
+|Sidebar_DispRecoil=3. A39 T28 836
+|Sidebar_DispAccel=0. A39 T28 182
+|Sidebar_DispTurning=0. A39 T28 182
+}}

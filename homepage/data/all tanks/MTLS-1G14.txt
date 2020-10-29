@@ -1,0 +1,57 @@
+{{TankData|Tank=MTLS-1G14
+|This is the only tank in the game with the ability to use two guns. MTLS-1G14  If you run into one by any chance keep this in mind, as it can level most tanks at its tier. MTLS-1G14 
+
+This tank has never been made available for purchase on any server. MTLS-1G14  A few have been handed out through special circumstances like reward for alpha testers on american server. MTLS-1G14  Not available on the Xbox Live Version. MTLS-1G14 
+
+It was planned to be available on the [https://shop. MTLS-1G14 worldoftanks. MTLS-1G14 ru/katalog/k/podarochnye-izdanija Russian Portal] in a special Gift Box edition along with the [[BT-SV]], [[Pz. MTLS-1G14 Kpfw. MTLS-1G14  II Ausf. MTLS-1G14  J]] and [[SU-85I]], the enclosed code was valid for use on the RU, EU, NA and SEA servers, they were never released in box set though. MTLS-1G14  However several were released to players on the RU server, other than press accounts and WG staff accounts. MTLS-1G14 
+ 
+
+|Gallery= 
+
+|InTheGame_pros=
+*Decent mobility makes this tank a perfect flanker for fast elemination of enemies
+*2 guns, clip with 10 shells, every shell with 40 avg. MTLS-1G14  damage and a firepower of 36,75 (rnds/min) -> great duelist
+*10° of gun depression allow this tank to do a great job on hills
+*38 mm of frontal armor (turret and hull) can be effective when angled properly
+*Turret traverse of 45,89 (°/sec) and 1,64 sec. MTLS-1G14  aim time, very good gun handling
+
+|InTheGame_cons= 
+*Total reload time of the clip (15,2 sec. MTLS-1G14 ) will give you a hard time when being at the front
+*Low penetration (45 mm AP, 61 mm APCR) is almost useless against Tier V Heavies and Mediums, even some Tier IV enemies
+*No preferred matchmaking
+*Poor radio range, you have to engange at close ranges
+
+|InTheGame_performance= 
+
+|InTheGame_research=
+This is a premium tank, so no research is required. MTLS-1G14 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+A 4-man Dutch Tank, Model MTLS-1G14 built by the Marmon-Herrington Co, is a 42,000 pound, full track laying vehicle powered by a six cylinder, liquid-cooled, 240 horsepower engine manufactured by the Hercules Motor Corporation. MTLS-1G14  The vehicle is a front drive employing a five-speed transmission with a Marmon-Herrington controlled differential drive with dual controls. MTLS-1G14  The Marmon-Herrington all steel, 18 inch track uses outside guides intergrally cast in the track blocks and the suspension is a vertical volute spring type employing rubber-tired bogie wheels. MTLS-1G14  The hull is made of flat plates, bolted together, varying from 1-1/2” thick on the front to 1/2" thick on the top. MTLS-1G14  The turret has a 360 degree traverse and it mounts two 37 mm/44 cal. MTLS-1G14  Automatic guns, one swivel mounted cal. MTLS-1G14  . MTLS-1G14 30 machine gun, and one cal. MTLS-1G14  . MTLS-1G14 30 anti-aircraft machine gun mounted on the outside of the turret. MTLS-1G14  The auxiliary armament consists of three cal. MTLS-1G14  . MTLS-1G14 30 machine guns placed in the bow of the vehicle. MTLS-1G14  Two of the guns are in fixed mounts, while the third is flexibly mounted. MTLS-1G14 
+
+|HistoricalGallery= 
+image:MTLS-1G14 1. MTLS-1G14 jpg|MTLS-1G14 Front view
+image:MTLS-1G14 (2). MTLS-1G14 jpg|Rear view
+image:M22 Locust 2. MTLS-1G14 jpg|MTLS-1G14 (right) compared with the [[M22 Locust]] (left). MTLS-1G14 
+
+
+|Ref_references=
+
+|Ref_sources=
+*https://tanks. MTLS-1G14 gg/wot/tank/mtls-1g14
+
+|Ref_links=
+
+}}
+
+
+
+
+[[de:Tank:MTLS-1G14]]
+[[Category:USA Tanks]]

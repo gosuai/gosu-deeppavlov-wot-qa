@@ -1,0 +1,119 @@
+{{TankData|Tank=GB04_Valentine
+|Lowered to Tier 3 in 1. GB04 Valentine 9, the Valentine lost its heavy tank guns in exchange for the best armor on a non-premium tank in its tier and some of the highest-penetration guns on a Tier 3 light tank. GB04 Valentine  With its slow speed, relatively high armor values, and good selection of guns, a "Pocket Heavy Tank" might be the best way to describe the Valentine. GB04 Valentine  It is a light tank in name only, and should be played like a heavy, taking damage for your allies with your heavy armor. GB04 Valentine 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Very durable: best armor of any non-premium Tier 3 tank
+* Stock gun has best penetration of any gun on the tank, making for an easy stock grind
+* Good hull & turret traverse rate despite low power/weight ratio
+* Rather high camouflage value while stationary, but does not receive the light tank full-camo-on-moving bonus. GB04 Valentine  
+
+|InTheGame_cons=
+* Low top speed (24 km/h) and power/weight ratio
+* Armor has very little sloping; easy to hit a flat surface. GB04 Valentine 
+* Joint lowest HP of all Tier 3 light tanks (390)
+
+|InTheGame_performance=
+It has no problems accelerating with the top engine, but the 24km/h speed limit will mean you'll be picking up the rear of the advance. GB04 Valentine  Performance is also quite sluggish going uphill. GB04 Valentine  Turning is relatively fast, even with the stock engine, so you're not completely helpless against [[Light_Tanks|light tanks]] and other "brawlers". GB04 Valentine  Your armor, and the proper positioning, will help you bounce shells from Tier 3 vehicles and many Tier 4s. GB04 Valentine  Both the 2-pdr Mk. GB04 Valentine  X and 6-pdr Mk. GB04 Valentine  V early are worth trying out to see which suits the player best. GB04 Valentine 
+
+Your small silhouette, powerful guns, and thick armor makes this vehicle a pocket-sized heavy tank, especially in its new tier, able to hold down areas and deny the opponent access to contested area. GB04 Valentine  The small size and consequently good camouflage values allow it to hide very easily, and can be positioned at lanes where scouts tend to rush down. GB04 Valentine  The tank can hide behind virtually anything, and can even drive under some buildings. GB04 Valentine  The superior firepower and armor combined with on-par maneuverability would mean certain death to lone scouts. GB04 Valentine  Against heavier vehicles, it can hit well above its weight in a slugging match, presenting a small, hardened target. GB04 Valentine 
+
+The Valentine has a very short profile, giving it the option of going for stealth, if desired. GB04 Valentine  Given its slow speed (and the low fire rate of the 6-pdr Mk. GB04 Valentine  V early, if you choose to use it), passive spotting and sniping can work well if placed in a Tier 4 match. GB04 Valentine  Naturally this works better with the Camouflage skill, but it's up to the player whether it's worth the trade-off over other skills. GB04 Valentine  Like its older brother the Matilda, it can defend positions with its armor, which when angled can bounce all but the most powerful shots. GB04 Valentine 
+
+|InTheGame_research=
+* Nothing carries over from the Cruiser Mk. GB04 Valentine  II. GB04 Valentine 
+* You can research the engines first, but if you do, go all the way to the GMC 6004 6-71A. GB04 Valentine  The two in between give reduced chance of fire, but at the cost of reduced horsepower. GB04 Valentine 
+* Research the upgraded suspension for an increase in traverse speed. GB04 Valentine 
+* Research the second turret, then the two 6-pdr guns. GB04 Valentine 
+* Research the engines, if you haven't already. GB04 Valentine 
+* Finally, research the radios. GB04 Valentine 
+
+
+|InTheGame_equipment=
+Vents, GLD, Binocular Telescope, Spall Liner, Camouflage Net
+
+|History=
+The Tank, Infantry, Mk III, Valentine was an infantry tank produced in the United Kingdom during the Second World War. GB04 Valentine  More than 8,000 of the type were produced in 11 marks plus various purpose-built variants, accounting for approximately a quarter of wartime British tank production. GB04 Valentine 
+ 
+The many variants included riveted and welded construction, petrol and diesel power plants and a progressive increase in armament. GB04 Valentine  It was supplied in large numbers to the USSR and built under license in Canada. GB04 Valentine  Developed by Vickers, it proved to be both strong and reliable
+
+
+== Name ==
+
+There are several proposed explanations for the name Valentine. GB04 Valentine  According to the most popular one the design was presented to the War Office on St. GB04 Valentine  Valentine's Day, 14 February 1940, although some sources say that the design was submitted on Valentines Day 1938 or 10 February 1938. GB04 Valentine  White notes that "incidentally" Valentine was the middle name of Sir John V. GB04 Valentine  Carden, the man who was responsible for many tank designs including that of Valentine's predecessors, the A10 and A11. GB04 Valentine  Another version says that Valentine is an acronym for Vickers-Armstrong Ltd Elswick & (Newcastle-upon) Tyne. GB04 Valentine  The "most prosaic" explanation according to David Fletcher is that it was just an in-house codeword of Vickers with no other significance
+
+
+== Development ==
+
+Valentine started as a proposal based on their experience with the A9, A10 specification cruiser tanks and the A11 (Infantry Tank Mk I). GB04 Valentine  As a private design by Vickers-Armstrongs it did not receive a General Staff "A" designation; it was submitted to the War Office on 10 February 1938. GB04 Valentine  The development team tried to match the lower weight of a cruiser tank - allowing the suspension and transmission parts of the A10 heavy cruiser to be used - with the greater armour of an infantry tank. GB04 Valentine  Working to a specification for a 60mm armour basis (the same as the A. GB04 Valentine 11) but with a 2 pdr gun in a two man turret (the A. GB04 Valentine 11 was armed only with a heavy machine gun), and a lower silhouette and as a light as possible resulted in a very compact vehicle with a cramped interior. GB04 Valentine  Its armour was weaker than the Infantry Tank Mk II "Matilda" but, due to a lower powered engine, the lighter tank had the same top speed. GB04 Valentine  However, by using components already proven on the A9 and A10 the new design was easier to produce and much less expensive. GB04 Valentine 
+
+The War Office was initially deterred by the size of the turret since they considered a turret crew of three necessary to free the vehicle commander from direct involvement in operating the gun. GB04 Valentine  Concerned by the situation in Europe, however, it finally approved the design in April 1939 and placed the first order in July for deliveries in May 1940. GB04 Valentine  At the start of the war, Vickers were instructed to give absolute priority to the production of tanks. GB04 Valentine  The vehicle reached trials in May 1940, which coincided with the loss of much of Britain's materiel in France during the evacuation at Dunkirk. GB04 Valentine  The trials were successful and the vehicle was rushed into production as Tank, Infantry, Mark III; no pilot models were required as much of the mechanics had been proven on the A10, and it entered service from July 1941. GB04 Valentine 
+
+As well as Vickers, Metropolitan-Cammell Carriage and Wagon - an associate company of Vickers - and Birmingham Railway Carriage and Wagon Company (BRCW) were contracted to produce the Valentine. GB04 Valentine  Metropolitan and the BRCW had both built small numbers of the A. GB04 Valentine 10 and so had previous experience: their production runs were just finishing and they delivered their first Valentines in mid-1940. GB04 Valentine  Production by Vickers peaked at 20 tanks per week, in 1943. GB04 Valentine  Metropolitan used two sites - with Wednesbury joined by their Midland site in production of the Valentine. GB04 Valentine  Vickers output started at 10 per month rising to 45 per month in a year and peaking at 20 per week in 1943 before production was slowed and then production of the Valentine and and vehicles based on the Valentine stopped in 1945. GB04 Valentine  Vickers-Armstrong produced 2,515 vehicles and Metropolitan 2,135, total UK production was 6,855 units manufactured. GB04 Valentine  For developing its own tank forces, Canada had established its own tank production facilities. GB04 Valentine  An order was placed in 1940 with Canadian Pacific and after modifications to the Valentine design, to use local standards and materials the production prototype was finished in 1941. GB04 Valentine [9] Canadian production was mainly at CPR Angus Shops in Montreal. GB04 Valentine  1,420 were produced in Canada of which most were sent to the Soviet-Union, alongside 2,394 of British production. GB04 Valentine  They formed the Commonwealth's main export to the Soviet Union under the lend-lease programme. GB04 Valentine  The remaining 30 were retained for training. GB04 Valentine  The use of local GMC 'Detroit' diesel engines in Canadian production, was regarded as a success, and the engine was subsequently adopted for British production. GB04 Valentine 
+ 
+Between the British and Canadian production, at 8,275, the Valentine was the most produced British tank design of the war. GB04 Valentine 
+
+
+== Layout ==
+
+Valentine was of conventional layout internally divided into three compartments; from front to back the driver's position, the fighting compartment with the turret and finally the engine and transmission driving the tracks through rear sprockets. GB04 Valentine  The driver's area contained only the driver and the driving controls. GB04 Valentine  The driver sat on the centre of the hull line gaining access through either of two angled hatches over the seat, though there was an emergency exit hatch beneath his seat. GB04 Valentine  The driver had a direct vision port - cut in what was one of the hull's cross members - in front of him and two periscopes in the roof over his head. GB04 Valentine  Driving was by clutch and brake steering through levers whose control rods ran the length of the hull to the transmission at the rear. GB04 Valentine 
+ 
+Behind the driver was a bulkhead that formed another of the hull's crossmembers and separated him from the fighting compartment. GB04 Valentine  The first tanks had only a two man turret - the gunner on the left of the gun and the commander acting also as the loader on the right. GB04 Valentine  When three man turrets were introduced the commander set to the rear of the turret. GB04 Valentine  The turret was made up of a cast front and a cast rear riveted to the side plates which were of rolled steel. GB04 Valentine  All tanks carried the radio in the turret rear. GB04 Valentine  Early tanks used the No. GB04 Valentine  11 Wireless with tannoy for the crew; later tanks had the No. GB04 Valentine  19 Wireless which included crew communications with long and short range networks. GB04 Valentine  Turret rotation was by electric motor under the gunner's control with a hand-wheel for manual backup. GB04 Valentine  The restrictions that the two-man turret placed on the commander, made more so if they were a troop commander and responsible for directing the actions of two other tanks besides their own, were addressed by enlarging the turret for the Mark III so that a dedicated loader for the main armament could be carried. GB04 Valentine  The turret ring diameter was not changed so the extra space was found by moving the gun mounting forward in an extended front plate and increasing the bulge in the rear of the turret. GB04 Valentine  This cost a weight increase of half a ton on the 2. GB04 Valentine 5 ton two-man turret. GB04 Valentine 
+ 
+A final bulkhead separated the fighting compartment from the engine compartment. GB04 Valentine  The engine, clutch and gearbox were bolted together to form a single unit. GB04 Valentine 
+ 
+The first Valentines used a petrol engine. GB04 Valentine  The diesel engine which distinguished the Mark II - at the time Tank Infantry Mark III* - from the Mark I was based on the AEC Comet which was a commercial road vehicle engine. GB04 Valentine  The Mark IV used a GMC 'Detroit' diesel; these were the majority of those used in the desert campaigns. GB04 Valentine  The gearbox was a 5 speed, 1 reverse Meadows. GB04 Valentine  Improved tracks were added to later marks
+
+
+== Combat History ==
+
+The tank first served in Operation Crusader in the North African desert, when it began to replace the Matilda Tank. GB04 Valentine  Due to a lack of cruiser tanks, it was issued to armoured regiments in the UK from mid-1941. GB04 Valentine  The Valentine was better armed and faster than the Cruiser Mark II. GB04 Valentine 
+ 
+It was extensively used in the North African Campaign, earning a reputation as a reliable and well-protected vehicle. GB04 Valentine  The first tanks in action were with the 8th Royal Tank Regiment in Operation Crusader. GB04 Valentine  Some tanks had managed more than 3,000 miles by the time the British Army reached Tunisia. GB04 Valentine 
+ 
+The Valentine shared the common weakness of the British tanks of the period: its 2-pounder gun lacked high-explosive (anti-personnel) capability, and soon became outdated as an anti-tank weapon too. GB04 Valentine  Introduction of the 6-pdr in British service was delayed until the losses of Dunkirk had been made good so the 2-pdr was retained longer. GB04 Valentine  The small size of the turret and of the turret ring meant mountings for larger guns proved a difficult task. GB04 Valentine  Although versions with the 6-pounder and then with the Ordnance QF 75 mm gun were developed, by the time they were available in significant numbers, better tanks had reached the battlefield. GB04 Valentine  Another weakness was the small crew compartment and the turret for only two men. GB04 Valentine  A larger turret, with a loader position added, was used in some of the 2-pounder versions, but the position had to be removed again in variants with larger guns. GB04 Valentine  Its relatively low height was an advantage in a battlefield with little cover, allowing it to take up a "good hull-down position in any convenient fold in the ground". GB04 Valentine 
+ 
+By 1944, the Valentine had been almost completely replaced in front-line units of the European Theatre by the Churchill (the "Infantry Tank Mark IV") and the US-made Sherman tanks. GB04 Valentine  A few were used for special purposes or as command vehicles for units equipped with Archer. GB04 Valentine 
+ 
+In the Pacific, the tank was employed in limited numbers, at least until May 1945. GB04 Valentine  It was used by the 3rd New Zealand Division in the south-west Pacific campaign. GB04 Valentine  A squadron was required but the 2 pdr HE shell lacked power especially compared to the 18 pound shell of the 3-inch howitzer. GB04 Valentine  So Valentine III's in New Zealand had their main armament replaced by the 3 inch howitzer taken from Australian Matilda IV CS tanks. GB04 Valentine  The converted tanks carried 21 HE and 14 smoke shells. GB04 Valentine  Nine of the new 3-inch armed tanks and 16 normal Valentines - with 2 inch HE shells produced in New Zealand - formed the New Zealand Tank Squadron in 1944. GB04 Valentine  New Zealand retained Valentines until 1955. GB04 Valentine 
+ 
+In Soviet service the Valentine was used from the Battle of Moscow until the end of the war. GB04 Valentine  Although criticized for its low speed and weak gun, the Valentine was liked due to its small size, reliability, and generally good armour protection. GB04 Valentine 
+
+
+== Surviving Vehicles ==
+
+Around 40 Valentine tanks, and vehicles based on the Valentine chassis, survive. GB04 Valentine  Tanks in running condition are at the Bovington Tank Museum (Mark IX), and in private hands in New Zealand and the United Kingdom. GB04 Valentine  The Bovington collection includes two other Valentines - a Mark II and a Valentine Scissors Bridgelayer. GB04 Valentine 
+ 
+Other examples are displayed at the Imperial War Museum Duxford in the UK; the Royal Military Museum in Brussels, Belgium; the Musée des Blindés, Saumur, France and the Kubinka Tank Museum, Russia. GB04 Valentine  In the United States, the Military Vehicle Technology Foundation and the Virginia Museum of Military Vehicles both own Valentines. GB04 Valentine  Other examples are at the South African National Museum of Military History and the Indian Armoured Corps Museum in Ahmednagar Fort, Ahmednagar. GB04 Valentine 
+ 
+A number of Valentine hulls are in private ownership in Australia. GB04 Valentine  These were sent there after the war for use as agricultural vehicles. GB04 Valentine 
+ 
+Two Canadian-built Valentines survive. GB04 Valentine  Valentine Tank Mk VIIA, no. GB04 Valentine  838, built May 1943, was a Lend-Lease tank shipped to the Soviet Union. GB04 Valentine  It fell through the ice of a boggy river near Telepino (Telepyne, Ukraine), during a Soviet counter-offensive on January 25, 1944. GB04 Valentine  In 1990 a 74-year old villager helped locate the tank, and it was recovered and offered as a Glasnost-era gift to Canada. GB04 Valentine  It was presented to the Canadian War Museum by independent Ukraine in 1992, and stands on display in the LeBreton Gallery. GB04 Valentine  An additional Valentine built by Canadian Pacific resides at the Base Borden Military Museum in Barrie, Ontario. GB04 Valentine 
+ 
+A notable survivor is the only intact DD Valentine, this has been restored to running condition and is in private ownership in the United Kingdom by John Pearson. GB04 Valentine  A number of DD Valentines that sank during training still lie off the British coast; several have been located and are regularly visited by recreational divers. GB04 Valentine  This includes two in the Moray Firth in Scotland and two that lie 3. GB04 Valentine 5 miles (5. GB04 Valentine 6 km) out of Poole Bay in Dorset. GB04 Valentine  These tanks lie 100 metres apart in 15 metres (49 ft) of water. GB04 Valentine  A further tank is known to lie in around 10 meters of water in Bracklesham Bay, south of Chichester in West Sussex; the hull and turret are clearly recognizable as it sits on a gravel mound. GB04 Valentine 
+ 
+In October 2012, a Valentine Mk IX tank that fell through the ice while crossing a river in western Poland during the Soviet Army's march to Berlin was successfully recovered. GB04 Valentine  The only surviving Valentine Mk IX to have actually seen combat is reportedly well preserved and could be made operational again within three years. GB04 Valentine 
+
+|HistoricalGallery=image:VMkIIHG1. GB04 Valentine jpg
+image:VMkIIHG2. GB04 Valentine jpg
+image:VMkIIHG3. GB04 Valentine jpg
+image:VMkIIHG4. GB04 Valentine jpg
+
+|HistAcc=
+The actual crew layout of the Valentine is a commander, gunner and driver. GB04 Valentine  The commander acted as the loader. GB04 Valentine 
+*The Valentine Mk XI variant had four crew members, of whom the gunner is currently missing from the in-game vehicle. GB04 Valentine 
+*One of the Valentine's historical armaments, the OQF 3-inch howitzer, is also missing. GB04 Valentine 
+
+|Ref_references=
+
+
+|Ref_sources=*https://en. GB04 Valentine wikipedia. GB04 Valentine org/wiki/Valentine_tank
+
+
+|Ref_links=
+
+}}
+
+[[Category:British Tanks]]

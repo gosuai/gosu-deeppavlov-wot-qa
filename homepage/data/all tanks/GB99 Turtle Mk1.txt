@@ -1,0 +1,42 @@
+{{TankData|Tank= 
+
+| The Turtle Mk. GB99 Turtle Mk1 1 is a tier 8 British premium tank destroyer with a close resemblance to the [[Tank:GB32_Tortoise|Tortoise]] and the [[Tank:GB92_FV217|Badger]]. GB99 Turtle Mk1  It plays very similar to its British counterparts being able to block damage reliably as well as punish anyone willing to step infront of your 55 pounder gun which has a damage per minute simaler to the Badger in excess of 3000. GB99 Turtle Mk1  
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Thick frontal armor with few weakspots
+* Outstanding DPM
+* Massive gun arc for a turretless tank destroyer
+* Great gun depression
+* Good hitpoint pool for a tank destroyer
+
+|InTheGame_cons= 
+* Very low top speed, struggles to relocate
+* Poor agility and hull traverse speed, easily outflanked
+* Has a poorly armored lower plate, unlike the [[Tortoise]]
+* Poor penetration and shell velocity
+* Rear-mounted engine compartment is large and poorly armored
+
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

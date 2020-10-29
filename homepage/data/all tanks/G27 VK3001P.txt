@@ -1,0 +1,79 @@
+{{TankData|Tank=VK3001P
+|'''Note:''' this tank was changed from a Medium to a Heavy in Update 1. G27 VK3001P 9. G27 VK3001P 
+
+As this tank was used to prototype the [[Pz. G27 VK3001P Kpfw. G27 VK3001P  VI Tiger (P)]], it's similar in size and layout. G27 VK3001P  Its comparatively weak side armour and low traverse rate leaves the tank vulnerable to flank shots. G27 VK3001P  However, it makes up for this with decent speed and a gun that has good DPM and hits reasonably hard. G27 VK3001P   
+
+
+|Gallery=
+image:VK3001P front view 1. G27 VK3001P jpg {{!}}VK3001P front left view
+‎image:VK3001P front view 2. G27 VK3001P jpg‎{{!}}VK3001P front right view
+‎image:VK3001P back view 1. G27 VK3001P jpg‎{{!}}VK3001P back left view
+image:VK3001P back view 2. G27 VK3001P jpg‎{{!}}VK3001P back right view
+
+|InTheGame_pros=
+* Rather high DPM and decent gun handling
+* Once fully upgraded, has decent mobility and maneuverability for its class
+* Rather compact hull size and good gun depression, can hull down
+* Wide gun mantlet with the Krupp Turm turret is thick enough to fend off most regular shells in tier
+* 3rd highest HP of all Tier 6 heavy tanks
+
+|InTheGame_cons=
+* Unsloped armour with mediocre thickness everywhere besides the mantlet, offers no real protection
+* Poor penetration for a Tier 6 heavy
+* One of the worst stock grinds: extremely sluggish due to underpowered engine, lousy gun and weak turret with huge cupola
+ 
+|InTheGame_performance=
+
+Stock, the VK 30. G27 VK3001P 01 (P) comes with the same 75 mm gun as the Pz. G27 VK3001P Kpfw. G27 VK3001P  IV Ausf. G27 VK3001P  H, the penetration of which is unfortunately woefully inadequate at tier VI. G27 VK3001P  The stock engine meanwhile provides the maneuverability of a superheavy tank. G27 VK3001P  While this may provide an early taste of what the Maus has to offer, the incredibly weak engine is a severe handicap, even for a heavy tank. G27 VK3001P 
+
+Fully upgraded, the VK 30. G27 VK3001P 01 (P) is a workable support tank with good top speed. G27 VK3001P  You can and should flank with it when you can, but this tank is let down by sluggish turret traverse, and it tends to take a while to accelerate to its top speed (lowered from 60 to 45 in 1. G27 VK3001P 9). G27 VK3001P  It can also be an effective sniper, as it can make use its thick gun mantlet, making hull-down tactics somewhat effective. G27 VK3001P  When done properly, poorly aimed shells may penetrate only the gun mantlet, but not the actual turret. G27 VK3001P  As always, a lot depends on the matchmaker (i. G27 VK3001P e. G27 VK3001P  the tier of tanks you are up against). G27 VK3001P  Its decent power to weight ratio (with the upgraded engines) and relatively high top speed allow it to get to and stay at the front lines, but it's no longer able to exploit gaps or rush to help in an emergency nearly as well as it used to. G27 VK3001P 
+
+
+|InTheGame_research=
+* The '''FuG 12''' radio carries over from the [[Pz. G27 VK3001P  IV H]] and should be installed immediately. G27 VK3001P  The '''10,5 cm Kw. G27 VK3001P K. G27 VK3001P  L/28''' also carries over, but is locked behind the second turret. G27 VK3001P 
+* First, research the '''2x Porsche Typ 100/1''' engine for a much-needed increase in horsepower. G27 VK3001P 
+* Next, research the '''8,8 cm Kw. G27 VK3001P K. G27 VK3001P  36 L/56''' gun for a great boost to firepower. G27 VK3001P 
+* Research the '''Vk 30. G27 VK3001P 01 (P) verstärkteketten''' suspension and the '''Vk 30. G27 VK3001P 01 (P) Krupp Turm''' turret for improved survivability. G27 VK3001P 
+* Research the '''2x Porsche Typ 100/3''' for another small boost to horsepower. G27 VK3001P 
+* Finally, research the '''7,5 cm Kw. G27 VK3001P K. G27 VK3001P  42 L/70'''. G27 VK3001P 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|History=
+[[File:VK3001 h prototype during testing. G27 VK3001P jpg|thumb|200px|left|VK3001(P) prototype during testing. G27 VK3001P ]]
+
+In 1937, along with Henschel, Porsche was given the task of build the medium tank that would replace Panzerkampfwagen IV. G27 VK3001P  Its design was supposed to be capable of being armed with 75mm L/24 or even if possible 105mm L/28 gun and one 7. G27 VK3001P 92mm MG34 for local defence. G27 VK3001P  VK3001(P) was Porsche's first design since 1927's Grosstraktor I and its drawings were finished by September 5th of 1939 by Porsche's Chief Engineer Karl Rabe. G27 VK3001P 
+
+Prototypes were supposed to be fitted with turrets manufactured by Krupp. G27 VK3001P  Porsche considered arming the vehicle with 105mm KwK L/47, 105mm KwK L/52 gun and finally with 88mm KwK 36 L/56 gun (developed from 88mm Flak 36 gun). G27 VK3001P  Six turrets armed with 88mm guns were ordered in April of 1941, but none were produced. G27 VK3001P  Leopard's turret was similar in appearance to that used on Tiger(P) and Tiger. G27 VK3001P  Porsche planned to power VK3001(P) with gasoline-electric power/drive system (two air-cooled Porsche Typ 100 engines by Steyr and electric transmission). G27 VK3001P  Only one or two turretless prototypes were completed by Nibelungenwerke in St. G27 VK3001P Valentin, Austria in late (October) 1941, out of 3 hulls originally ordered. G27 VK3001P  Although many problems were encountered with its advanced power and drive system, prototype(s) performed well. G27 VK3001P  During tests prototype(s) reached maximum speed of 60km/h but its fuel consumption was 170 liters per 100 kilometers. G27 VK3001P  In order to solve the engine problems, Porsche designed diesel engine (Porsche Typ 200) but it was never produced. G27 VK3001P 
+
+VK3001(P) program was abandoned and two prototypes were used extensively in the development of VK4501(P) - Porsche's Tiger, which started in July of 1941. G27 VK3001P  In order to transport VK3001(P) tank, Porsche designed special tank transporter (Panzertransporter Porsche 142), but this project was also abandoned. G27 VK3001P  Tests continued until May of 1942, but VK3001(P) never went into production just like VK3001(H) and VK3601(H). G27 VK3001P  
+
+|HistoricalGallery=
+image:vk3001p03. G27 VK3001P jpg{{!}}Front right
+image:VK 3001 (P) 1. G27 VK3001P jpg{{!}}VK 3001 (P) 1
+image:VK 3001 (P) 2. G27 VK3001P jpg{{!}}VK 3001 (P) 2
+image:VK 3001 (P) 3. G27 VK3001P jpg{{!}}VK 3001 (P) 3
+image:VK 3001 (P) 4. G27 VK3001P jpg{{!}}VK 3001 (P) 4
+image:VK 3001 (P) 5. G27 VK3001P jpg{{!}}VK 3001 (P) 5
+
+|HistAcc=
+The VK3001P's hull armor thickness is actually 50/40/30 (currently 75/60/40). G27 VK3001P 
+*Actual weight is 30 tons (currently 35+ tons). G27 VK3001P 
+*One of the VK3001P's historical armaments, the 7,5 cm KwK 37 L/24, is missing. G27 VK3001P 
+*The 10,5 cm KwK L/28 was never considered for this tank. G27 VK3001P 
+*Work on the 7,5 cm KwK 40 L/48 began long after development of the VK3001P had ceased. G27 VK3001P 
+*The VK3001P's only engine output was 420hp. G27 VK3001P 
+*The VK 30. G27 VK3001P 01 (P) Krupp Turm does not exist on the historical record. G27 VK3001P 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* History Text: https://www. G27 VK3001P achtungpanzer. G27 VK3001P com/heu. G27 VK3001P htm 
+* vk3001p03. G27 VK3001P jpg: https://shushpanzer-ru. G27 VK3001P livejournal. G27 VK3001P com
+
+}}

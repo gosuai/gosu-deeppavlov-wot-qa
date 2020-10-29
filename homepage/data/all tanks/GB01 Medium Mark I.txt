@@ -1,0 +1,86 @@
+{{TankData|Tank=GB01_Medium_Mark_I
+|The Vickers Medium Mk. GB01 Medium Mark I  I is the only Tier 1 medium tank. GB01 Medium Mark I  Both of its guns are very good for tier 1, but unfortunately it has severe limitations in many other respects. GB01 Medium Mark I  It has the worst armour of any tier 1, it is very slow, and it is a medium tank so it does not keep its camo bonus while moving making it easy to detect. GB01 Medium Mark I  It's best not engage in close quarters using the Medium I because tanks with auto cannons or machine guns will easily do full damage and destroy you very quickly. GB01 Medium Mark I  It is recommended to try and provide medium range support, as the top gun's damage is devastating (70 points average) and for a tier 1 it is somewhat accurate (0. GB01 Medium Mark I 52 at 100m). GB01 Medium Mark I 
+|Gallery=
+
+
+|InTheGame_pros=
+* Both guns are excellent: 3 pdr for accuracy and 6 pdr for raw power (The HE Shells can practically wipe out all tier Is). GB01 Medium Mark I 
+* Fairly high DPM for a tier I tank
+* Has a full 5 man crew (Most others in its class have 2-3). GB01 Medium Mark I 
+* Highest HP pool of tier I. GB01 Medium Mark I 
+* Tracks are a little stronger than the hull and can (very rarely) absorb a shot
+|InTheGame_cons=
+* Absolutely ridiculous size (Some heavies have a higher camo rating!). GB01 Medium Mark I 
+* Armor can be penetrated by a pellet gun (Autocannons are instant death). GB01 Medium Mark I 
+* Very sluggish, can't get out of its own way. GB01 Medium Mark I 
+* 3 pdr has a longer aim time than the 6 pdr and slow shell velocity. GB01 Medium Mark I 
+* Can no longer mount the dreaded 15mm BESA Machinegun. GB01 Medium Mark I 
+
+|InTheGame_performance=
+One would think that as the only medium tank of Tier 1, the Vickers Medium Mk. GB01 Medium Mark I  I would be expected to be more heavily armed, less mobile, but more heavily armoured than its Tier 1 counterparts. GB01 Medium Mark I  The first two are quite true, but the third is unfortunately not. GB01 Medium Mark I  With a maximum armour thickness of 6 mm, the Medium Mk. GB01 Medium Mark I  I has the thinnest armour of any tank in the game, excluding the [[Tank:A101_M56|M56 Scorpion]]. GB01 Medium Mark I  Any gun will easily penetrate the armour, while high explosive rounds will almost certainly do full damage, wrecking the Mk. GB01 Medium Mark I  I. GB01 Medium Mark I  Under no circumstances must the Mk. GB01 Medium Mark I  I engage in close combat with other tanks armed with autocannons, as they will rip the Mk. GB01 Medium Mark I  I to shreds, turning the armour plates into swiss cheese in seconds. GB01 Medium Mark I 
+
+Besides the thin armour, the Medium Mk I is very sluggish and unmaneuverable. GB01 Medium Mark I  It is very vulnerable to being circled by other light tanks, exacerbated by the relatively slow turret traverse. GB01 Medium Mark I 
+
+The Vickers Medium Mk. GB01 Medium Mark I  I has a choice of two guns. GB01 Medium Mark I  It starts off with the '''OQF 3-pounder Mk. GB01 Medium Mark I  I''', which has the best accuracy of any Tier 1 gun, which is counterbalanced by the very long aim time. GB01 Medium Mark I  With APCR, it also has the best penetration of the Medium Mk. GB01 Medium Mark I  I's guns. GB01 Medium Mark I   The second gun is the '''QF 6-pounder 8 cwt Mk. GB01 Medium Mark I  II'''. GB01 Medium Mark I  The gun packs a huge punch, and is capable of killing any Tier 1 tank in two shots. GB01 Medium Mark I  This is counterbalanced by its horrible accuracy, although it does have a fairly good aim time. GB01 Medium Mark I 
+
+Despite having the most hit points of any Tier 1 tank, the Medium Mk. GB01 Medium Mark I  I, is also a lot larger than any of the other Tier 1 tanks and is a very attractive target. GB01 Medium Mark I  It is generally best to stay behind the main force and support them from behind, trying not to be spotted, or fight in urban areas, staying behind better armoured tanks like the [[Tank:NC27|Renault Otsu]], Renault FT, and [[NC-31]], providing support fire and using buildings as cover for reloading and to hide the massive hull. GB01 Medium Mark I  The 3-pounder is accurate enough (by Tier 1 standards) to snipe at fairly long distances, while the 6-pounder, despite its inaccuracy, can be used as a sort of pseudo-artillery to bombard enemy tanks at long distances. GB01 Medium Mark I 
+
+Please note the [[Battle_Mechanics#Map_Restrictions|Map Restrictions]] for Tier 1 tanks if you consider purchasing a camouflage skin/paint job for this tank. GB01 Medium Mark I 
+
+|InTheGame_research=
+* The only thing you can research (apart from other tanks) is the second gun, so get that. GB01 Medium Mark I 
+|InTheGame_equipment=
+Vents, GLD, Binocular Telescope, Camouflage Net
+
+|History=
+'''Background'''
+
+After the First World War Britain disbanded most of its tank units: their number was limited to five tank battalions, equipped with the Mark V and the Medium Mark C. GB01 Medium Mark I  A large budget was at first made available for tank design; this was however all spent on the failed development of the Medium Mark D. GB01 Medium Mark I  When in 1923 the government design bureau, the Tank Design Department, was closed, for the time being any direct official involvement in tank development was terminated. GB01 Medium Mark I  But private enterprise had already taken over the torch. GB01 Medium Mark I  Vickers-Armstrong had built two prototypes of a new tank in 1921. GB01 Medium Mark I 
+
+
+'''Vickers Light Tank'''
+
+In 1920 the Infantry had plans to acquire a Light Infantry Tank. GB01 Medium Mark I  Colonel Johnson of the Tank Design Department derived such a type from the Medium Mark D. GB01 Medium Mark I  In competition Vickers built the Vickers Light Tank. GB01 Medium Mark I 
+
+The Vickers design still was reminiscent of the Great War types. GB01 Medium Mark I  It had a high, lozenge-shaped, track frame with side doors but it also showed some improvements. GB01 Medium Mark I  There was a fully revolving turret and the suspension was sprung by vertical helical springs, while the Medium Mark C still had a fixed turret and was unsprung. GB01 Medium Mark I  The Vickers was really a light tank; it was small vehicle, just seven feet high and weighing only 8. GB01 Medium Mark I 5 short tons. GB01 Medium Mark I  It was driven by a separately compartmented 86 hp engine through an advanced hydraulic Williams-Jenney transmission, allowing infinitely variable turn cycles. GB01 Medium Mark I  The first prototype was a "Female" version with three Hotchkiss machine guns; the second prototype was "Male", its turret bristling with armament with the addition of a 3-pounder gun and a machine gun for anti-aircraft use. GB01 Medium Mark I  It had clearly been intended to give the vehicle a modern look: the turret, the front of the fighting compartment and the hull front plate were all strongly rounded. GB01 Medium Mark I  The advanced transmission proved to be utterly unreliable however and the project was abandoned in 1922 in favour of a generally more conventional design: the Vickers Light Tank Mark I, that would be renamed to Vickers Medium Tank Mark I in 1924 . GB01 Medium Mark I  The first prototypes were sent to Bovington for trial in 1923. GB01 Medium Mark I  The Vickers designation was A2E1. GB01 Medium Mark I 
+
+
+'''Description'''
+
+Despite being in general more conventional, in one aspect the Medium Mark I looked rather modern: instead of a high track run it possessed a low and flat suspension system with five bogies, each having a pair of small double wheels. GB01 Medium Mark I  The axles of these were too weakly constructed; as Major-General N. GB01 Medium Mark I W. GB01 Medium Mark I  Duncan put it in his Medium Marks I-III: "(. GB01 Medium Mark I . GB01 Medium Mark I . GB01 Medium Mark I ) a perpetual nuisance. GB01 Medium Mark I  The axles were continually breaking and the path of the Mark I tanks was littered with discarded wheels". GB01 Medium Mark I  This was cured by switching to a "box bogie" in 1931. GB01 Medium Mark I  To ease repairs the suspension was not protected by an armoured covering. GB01 Medium Mark I  There were two vertical helical springs of unequal length in each of the five bogie casings attached to the hull. GB01 Medium Mark I  In front and behind the normal ten road wheel pairs, there was a tension wheel pair. GB01 Medium Mark I  Ground pressure was very high, even though at 11. GB01 Medium Mark I 7 long tons the vehicle was not very heavy for its size. GB01 Medium Mark I 
+
+The engine was an air-cooled 90 hp Armstrong Siddeley engine derived from an aircraft type. GB01 Medium Mark I  Surprisingly the engine and transmission was distributed throughout the hull - with the engine to the left of the driver, the gearbox underneath the commander and final drive at the rear, which Duncan describes as "an unbelievable retrograde step in view of war-time experience". GB01 Medium Mark I  The Medium Mark B and the Mark VIII had introduced compartmentalisation to reduce the debilitating effects of engine noise and fumes on the crew. GB01 Medium Mark I  However with the Medium Mark I considerations of ease of maintenance had taken precedence. GB01 Medium Mark I 
+
+The engine drove, via a multiple dry-plate clutch, a four-speed gearbox. GB01 Medium Mark I  It had no synchromesh and switching between gears without excessive noise was a challenge to the driver. GB01 Medium Mark I  A propeller shaft connected the gearbox to a bevel box at the end of the tank which divided the power to a separate epicyclic gear for each track. GB01 Medium Mark I  These gears automatically provided extra emergency torsion to the normal first and second gear if the vehicle suddenly slowed down due to an obstacle or soft ground. GB01 Medium Mark I 
+
+The petrol tanks were at the very rear of the hull, so the fuel lines had to run along the whole length of the vehicle, pumping fuel to a secondary tank that fed the engine by gravity. GB01 Medium Mark I  The engine was lubricated and partially cooled by oil; leakage was common and the original four-gallon reservoir had to be replaced by a 13. GB01 Medium Mark I 5 one. GB01 Medium Mark I  The tank could be electrically started, but only if the motor was already warm, so the first start had to be done by hand from the inside of the vehicle. GB01 Medium Mark I  Maximum speed was about 15 mph and the range about 120 miles. GB01 Medium Mark I 
+
+There was a cylindrical bevelled turret on top of the hull that carried a "Quick Firing" (shell and cartridge in one complete round) three-pounder gun (47 mm calibre) and four ball mountings for Hotchkiss machine guns. GB01 Medium Mark I  A novel, unique feature was a three-man turret. GB01 Medium Mark I  This meant that commander was not distracted with performing either the loader's or gunner's tasks and could fully concentrate on maintaining situational awareness. GB01 Medium Mark I  This gave a huge potential combat advantage, but went largely unnoticed at the time. GB01 Medium Mark I  Other manufacturers tanks did not have this capability until the German Panzer III was developed in 1937. GB01 Medium Mark I  The practical importance of this feature is signified by the fact that later into the World War II, most of both sides tanks' designs either quickly switched to the three-man turret, or were abandoned as obsolete. GB01 Medium Mark I 
+
+There was no co-axial machine gun. GB01 Medium Mark I  There was only room to operate one machine gun from the turret; normally one gun was switched between the respective mountings as the guns were removable. GB01 Medium Mark I  The turret machine gunner doubled as main gun loader. GB01 Medium Mark I  In each side of the hull was a Vickers machine gun. GB01 Medium Mark I  There was one gunner to operate these, he also functioned as a mechanic. GB01 Medium Mark I 
+
+The shape of the Mark I Medium hull was very distinctive. GB01 Medium Mark I  The back was a simple armoured box; the front plate was high and perfectly vertical. GB01 Medium Mark I  Between them, from the armoured hood of the driver at the right of the vehicle six armour plates fanned out to the left, making for a complex hull geometry at that side. GB01 Medium Mark I  In all the tank made an ungainly squat impression. GB01 Medium Mark I  The crew of five was only poorly protected by 6. GB01 Medium Mark I 25 mm plating, rivetted to the chassis, barely enough to counter the threat posed by light machine guns. GB01 Medium Mark I  With its many shot traps the vehicle was unable to withstand even anti-tank rifle fire and it had a high profile. GB01 Medium Mark I  The internal lay-out worsened this vulnerability as the petrol tanks were inside the main compartment. GB01 Medium Mark I 
+
+
+'''Operational history'''
+
+The Medium Mark I replaced some of the Mark V heavy tanks; together with its successor, the slightly improved Vickers Medium Mark II, it served in the Royal Tank Regiments, being the first type of the in total 200 tanks to be phased out in 1938. GB01 Medium Mark I 
+
+The Medium Mark I was the first tank to see "mass" production since the last of the ten Char 2C's had been finished in 1921. GB01 Medium Mark I  Indeed, as of the next tank, the Renault NC27, only about thirty were built, the British Mediums represented most of the world tank production during the Twenties. GB01 Medium Mark I  They never fired a shot in anger and their performance in a real battle can only be speculated upon but as the only modern tanks in existence in the decade after the First World War they provided the British with a unique opportunity to test the many new ideas about mechanised warfare using real operational units. GB01 Medium Mark I  The knowledge thus gained would prove invaluable in the Second World War. GB01 Medium Mark I 
+
+|HistoricalGallery=
+image:Baby tank. GB01 Medium Mark I jpg{{!}}Vickers tanks on the move in England in the 1930s
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. GB01 Medium Mark I wikipedia. GB01 Medium Mark I org/wiki/Vickers_Medium_Mark_I
+* https://en. GB01 Medium Mark I wikipedia. GB01 Medium Mark I org/wiki/Besa_machine_gun
+
+}}
+
+[[Category:British Tanks]]

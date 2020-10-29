@@ -1,0 +1,18 @@
+{{TankData|Tank=T-26G FT
+
+
+|InTheGame_pros= 
+*It can pivot
+*ROF and DPM are very high
+*Large ammo capacity makes up for frequent misses
+*Good penetration
+
+|InTheGame_cons= 
+* Poor mobility
+* Almost no armour: can be taken out in one clip from many autocannons it faces
+* Prone to engine damage even from frontal hits
+* 6 degrees of gun depression not great compared to its competition
+|InTheGame_performance= 
+Stay back. Ch30 T-26G FT  Don't get hit. Ch30 T-26G FT  Try your best to actually hit something. Ch30 T-26G FT  If you have played the AT-1 you will feel right at home. Ch30 T-26G FT 
+
+}}

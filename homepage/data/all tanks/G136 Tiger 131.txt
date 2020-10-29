@@ -1,0 +1,74 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Gun boosts a very good DPM, aim time and accuracy;
+
+- Good traverse speed helps with angling your armor, with a good crew mobility isn't that bad;
+
+- Very good crew trainer for your German heavies;
+
+- Comes with a 100% crew with 'Brothers in Arms';
+
+- Very high ammo capacity, very unlikely to ran out of ammo in 1 battle;
+
+- Greater signal range and better camouflage ratings than the [[Tank:J19_Tiger_I_Jpn|Heavy Tank No. G136 Tiger 131 VI]]
+
+|InTheGame_cons= 
+- Armor is only effective against tier 4 tanks and tier 5 tanks who are in stock configuration;
+
+- Penetration and alpha damage are underwheling for a tier 6, will struggle in penetrating tier 8 tanks that are decent armored;
+
+- Juicy target for enemies, because of armor values and enormous amount of hitpoints. G136 Tiger 131  Kv-2's and O-I's are able to 1-shot you if you expose your side to them;
+
+- Has a standard camouflage print, so you can't choose your own camo-style. G136 Tiger 131 
+
+|InTheGame_performance= 
+The Tiger 131 is practically the same tank as the Japanese Heavy Tank No. G136 Tiger 131 VI, but this one has better signal range. G136 Tiger 131  Still there are some rules to play this tank correctly. G136 Tiger 131 
+At first the gun isn't the best in tier VI. G136 Tiger 131  The penetration is not so good, the alpha damage is a bit lacking. G136 Tiger 131  But, your good aim time and accuracy makes up for the penetration, as you can fire more easely at enemy's weakspots and having more chance to penetrate them. G136 Tiger 131  The fast reload makes up for the bad alpha damage. G136 Tiger 131 
+The mobility isn't the best either, but with a good crew this isn't a problem. G136 Tiger 131  You aren't very likely to change flanks during battle, so choose your flank wisely. G136 Tiger 131  Your traverse speed is good, so angling your armor with dancing style is an option. G136 Tiger 131  
+The armor isn't good. G136 Tiger 131  It's flat and not very thick. G136 Tiger 131  Only in a tier IV match-up you can have bounces, but tier IV games are very rare for this tank. G136 Tiger 131  If you don't play tier IV game you must trust your enormous amount of hitpoints to out-trade your oppontents, but you will get penetrated most of the time, with exception of some lucky bounces. G136 Tiger 131 
+Play style is very different, according to your match-up. G136 Tiger 131  In a tier 4 game you are the most agrassive tank, 2-shooting enemy tier 4's and bouncings shots like a regular heavy tank. G136 Tiger 131  But if you are in tier 5/6 games you should rely on your enormous amount of hitpoints to out-trade your opponents, most of the time you will get the primary target because of bad armor and a large amount of hitpoints, like the TOG II*. G136 Tiger 131  If you are bottom tier, you are a less important target, so you can be sneaky. G136 Tiger 131  The accuracy of this tank isn't sniperlike, but good enough for second-line support. G136 Tiger 131  Use your teammates as main shield an shoot while your enemies are reloading. G136 Tiger 131  Your good aimtime helps with shooting weakspots. G136 Tiger 131  NEVER attack without any decent cover, your camouflage isn't good! This tank has also a standard camouflagestyle. G136 Tiger 131  
+
+|InTheGame_research= 
+As it is a premium vehicle, the Tiger 131 comes elite in stock configuration. G136 Tiger 131 
+
+|InTheGame_equipment=
+
+Medium-Caliber Tank Gun Rammer, Improved Ventilation, Enhanced Gun laying drive
+
+|InTheGame_Equipment_Builds=
+
+Commander: Sixth Sense, Repairs, Recon
+
+Gunner: Snap Shot, Repairs, Dead Eye
+
+Driver: Smooth Ride, Off-Road Driving, Repairs
+
+Radio-operator: Situational Awereness, Repairs, Signal Boosting
+
+Loader: Adrenaline Rush, Repairs, Safe Stowage
+
+|External_Reviews= 
+
+|History= 
+Tiger 131 is a German [[Tiger I]] Heavy tank captured by the British 48th Royal Tank Regiment in Tunisia during World War II. G136 Tiger 131  Preserved at The Tank Museum in Bovington, England, it is the only operational Tiger tank in the world. G136 Tiger 131 
+|HistoricalGallery= 
+File:Tiger131ricochet. G136 Tiger 131 JPG{{!}}The damage that immobilized the turret on Tiger 131. G136 Tiger 131 
+File:The British Army in Tunisia 1943 NA3693. G136 Tiger 131 jpg{{!}}King George VI inspects Tiger 131, Tunis June 1943. G136 Tiger 131  The badge of the British First Army has been painted onto the tank. G136 Tiger 131 
+File:Tiger I 2 Bovington. G136 Tiger 131 jpg{{!}}Tiger 131 at The Tank Museum in Bovington, England, 2008. G136 Tiger 131 
+
+|HistAcc=
+Tiger tanks serving in North Africa were either painted in overall [https://i. G136 Tiger 131 pinimg. G136 Tiger 131 com/originals/b0/a5/51/b0a551e8a7cfaf57f5d081f8a232a88c. G136 Tiger 131 jpg RAL 8020] (gelbbraun) or [https://www. G136 Tiger 131 captainshrapnel. G136 Tiger 131 com/wp-content/uploads/2018/08/IMG_6344. G136 Tiger 131 jpg RAL 7008] (graugrün). G136 Tiger 131  The in-game Tiger 131 is painted in both gelbbraun and graugrün. G136 Tiger 131  This represents the tank's museum scheme. G136 Tiger 131 
+* Smoke dischargers are visible on both sides of the turret but there is no option to use them. G136 Tiger 131 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,90 @@
+{{TankData|Tank=KV-3
+|The KV-3 is defined by its lengthened and more heavily armoured KV chassis, and a much rounder turret design. R39 KV-3  It can use a large variety of guns, but it's best known for the 122mm D-25T cannon, a weapon it shares with the [[IS]]. R39 KV-3  It sports an impressive 120mm of frontal hull armour, its turret is relatively well-armoured too, and the conical design makes bouncing frequent. R39 KV-3  When upgraded, it can mount the V-2SN engine, which gives a huge boost of horsepower. R39 KV-3  It is however much slower than the [[IS]], and like the IS it lacks penetration compared to the German, French and US heavy tanks of its tier. R39 KV-3 
+
+
+|Gallery=
+image:KV3. R39 KV-3 jpg{{!}}Front right
+image:KV3-b. R39 KV-3 jpg{{!}}Front left
+image:KV3-c. R39 KV-3 jpg{{!}}Rear right
+image:KV3-d. R39 KV-3 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Good all-around armour, really tough when angled
+* High alpha damage with the 122 mm cannon and above-average DPM
+* Great at sidescraping
+* Well sloped Turret armour with auto bounce sides
+* Good max speed for its size (V-2SN engine)
+* Nice selection of guns. R39 KV-3 
+
+|InTheGame_cons=
+* Armor is very flat, vulnerable to T8-9 guns
+* Low accuracy and sluggish behaviour. R39 KV-3  The gun mantlet is very weak on the center. R39 KV-3  
+* Atrocious aiming time (3. R39 KV-3 4 seconds)
+* Side of the turret and hull have massive module hitboxes
+* Limited penetration, even with APCR
+
+|InTheGame_performance=
+While the KV-3 has a wide array of weapons to choose from, there are really one two options worth considering. R39 KV-3  107 mm ZiS-6 is the first one in the line and is probably already researched as it was available in the [[T-150]]. R39 KV-3  The 107 mm has less alpha damage than the 122 mm guns and does slightly less DPM as well, but has a more forgiving reload time and has cheap ammo. R39 KV-3   The 122 mm D-25T is simply more powerful than the 107 mm and has slightly better penetration. R39 KV-3  The increased power of the HE rounds should also not be overlooked, as they make a reasonable (and cheaper) alternative to APCR when facing higher tier opponents you cannot easily pen. R39 KV-3   However, the gun handles sluggishly due to its size, is the slowest and most inaccurate of the bunch, and its shells are very expensive. R39 KV-3  If you miss or bounce your shot, it's painful. R39 KV-3   The 100 mm D10T might look a bit bad on paper, having the lowest alpha and DPM, however, it has the shortest aim time, is the most accurate weapon you can mount, has even lower ammo cost than the 107mm and a higher rate of fire. R39 KV-3  Being sluggish and unwieldy at first, after mounting the best engine this tank gains mobility and agility more comparable with the IS. R39 KV-3  Like the majority of heavily armoured tank, its combat performance nowadays strongly depends on the enemy limiting themselves to standard shells, as with gold ammo the KV-3 is just a slow undergunned easy target. R39 KV-3  
+
+Lacking penetration for all its guns, the KV-3 is most effective up close where other tanks have trouble aiming down on the nearly unsloped frontal hull armour, though the large gun mantlet will now and then be penetrated by lower-tier medium tanks at point-blank range. R39 KV-3 
+While the IS has good frontal hull armour which is difficult to improve by angling the hull, the KV-3 has slightly worse frontal armour which is much easier to angle effectively and becomes much more effective than the IS' armour. R39 KV-3 
+The upgraded turret might be as tall as a house, but that house can bounce. R39 KV-3  While the turret cheeks of the IS can be penetrated easily by most guns with 120 penetration or more, the KV-3's cheeks are narrower and extremely sloped. R39 KV-3 
+
+|InTheGame_research=
+* It is possible to mount all upgraded modules onto the KV-3 without overloading the suspension (provided no additional equipment is mounted), so it is possible to ignore the Suspension until the end. R39 KV-3   However, the KV-3 is already quite bulky fully-upgraded, and the suspension's added traverse will help. R39 KV-3 
+* The 10RK radio, the 107 mm ZiS-6, and the 85 mm S-31 carry over from the T-150. R39 KV-3  The V-2IS engine and 122 D-2-5T carries over from the [[KV-85]] if you played that tank prior to this one. R39 KV-3 
+* The acceleration on the KV-3 is anaemic with the second turret without the top engine, inferior in hp/ton to the Maus even with the V-21S. R39 KV-3   Prioritize the research of the V-2SN, which will confer the KV-3 with a stately 11 hp/ton. R39 KV-3 
+* Now you can unlock the second turret and then the 122mm cannons. R39 KV-3   Consider upgrading the suspension and engine if you haven't done so after unlocking the first 122mm, as the D-25T only offers improved DPM. R39 KV-3 
+* The 100 mm D10T can be ignored entirely unless you wish to elite the tank or intend to play the IS-2-II in the future. R39 KV-3   You should pick up the top radio before moving on though as it's used on all Russian tier 8-9 tanks. R39 KV-3 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Coated Optics, Toolbox
+
+|History=
+Initially designed as a replacement for the KV-1, the hull and suspension were developed by the beginning of WWII. R39 KV-3  The KV-3 was not produced in series. R39 KV-3 
+
+== Development and preliminary design ==
+
+In 1940, the [[KV-1]] and [[KV-2]] tanks were the heavy tanks of the USSR army. R39 KV-3  Even before the war started, the Soviet military recognized the need for more armour. R39 KV-3  The KV was only just in mass production, but an order was made for an improved version of it on June 17th, 1940. R39 KV-3  The tank factory in Kirov was to make 4 prototypes by the end of the year: 2 versions with 90 mm and 2 versions with 100 mm armour. R39 KV-3  Of the two types, one should be armed with an 85 mm gun, the other with a 76 mm gun. R39 KV-3 
+
+The factory only managed to complete two of this prototypes: the 90 mm armoured design with a 76 mm gun, basically an up-armoured KV-1 tank, and a 100 mm armoured design with the 85 mm gun. R39 KV-3  They were respectively called [[T-150]] (or Object 150) and T-220 (or Object 220). R39 KV-3  Apart from extra armour, the T-150 only differed on some details from the KV-1 (an improved cupola and a new 700 hp engine are the most important changes). R39 KV-3  The inside of the tank didn't change, as the extra armour was mounted externally. R39 KV-3  During testing, the T-150 suffered from overheating in higher gears, even though outside temperatures were well below zero degrees centigrade. R39 KV-3  
+
+The T-220 was a more radical innovation. R39 KV-3  The hull was lengthened, a wheel was added and a new gun, the 85 mm F-30 main gun, was mounted. R39 KV-3  The gun was already successfully tested on the [[T-28]] that fall. R39 KV-3  Testing of the T-220 started at the end of January 1941, but after one day the 700 hp V-5 engine could not cope with the weight of 62 tons and failed. R39 KV-3  
+
+Despite these problems, orders were received to mass-produce the T-150, under the name KV-3, in March, as the current tanks of the Soviet army were becoming more and more obsolete. R39 KV-3  However, the factory and the designers chose to concentrate on developing the T-220 instead, now under the name [[KV-220]]. R39 KV-3  The tank was tested extensively and received a new 850 hp diesel engine with supercharger. R39 KV-3  However, not only the engine was suffering from the weight of 70 tons. R39 KV-3  Suspension and torsion bars bent and twisted, and the transmission had problems as well. R39 KV-3  Still, the tank was able to complete nearly 2,000 km of testing before the start of Operation Barbarossa. R39 KV-3 
+
+The factory started preparation for mass production again but was stopped by the Soviet military. R39 KV-3  Intelligence showed that the Germans were also designing a heavy tank, so the Soviet design would become even more important. R39 KV-3  If it failed, the Soviet army would not have an adequate counter to the German threat. R39 KV-3  This meant the design of the KV-3 was again subject to modification of both hull and turret, and a new gun, the 107 mm ZiS-6, was to be mounted on the tank. R39 KV-3 
+
+Moreover, new, heavier tanks were demanded, most notably the KV-4 heavy tank. R39 KV-3  With a design weight of 90 tons, this tank was too heavy to go in production, especially taking into account the problems with the transmission that were plaguing the much lighter KV tank. R39 KV-3  A KV-5 tank, with a hull height of 0. R39 KV-3 9 meters, was also ordered, but never got beyond the drawing board. R39 KV-3  Possibly the most feasible design proposal was the KV-9 heavy assault tank. R39 KV-3  With a weight of 48 tons, a 122 mm howitzer, and front armour of 135 mm, this was a much more realistic design. R39 KV-3  Two prototypes of the tank were completed, but the tank never went into mass production. R39 KV-3  Finally, a turretless prototype, the KV-7, was sent to Moscow for review. R39 KV-3  The tank-mounted multiple guns and was rejected by Stalin for this reason. R39 KV-3 
+
+== The fate of the prototypes ==
+
+With the war underway, the KV factories that were experimenting with prototypes focused on mass production of the KV, the only Soviet tank that was truly feared by Germany at the time. R39 KV-3  The unfinished prototypes were ripped of their experimental turrets and guns and were sent to the front with KV-1 turrets. R39 KV-3  The T-220 (KV-3) model served under the 124th tank battalion and was destroyed near the Ust-Tosno railway bridge in December 1941. R39 KV-3  The T-150 was sent to the 123th tank battalion, but its fate is unknown. R39 KV-3 
+
+Further development of the KV series was halted, but the experience of the testing was used to design the successful [[IS]] tank. R39 KV-3 
+
+== Conclusion ==
+
+The KV was a heavy, slow-moving tank, but the Soviet army wanted something even stronger. R39 KV-3  That meant all parts had to be more durable and able to cope with more weight. R39 KV-3  During testing, it showed that the designers did not succeed in developing a reliable, versatile heavy tank based on the KV-tank. R39 KV-3  Ultimately the projects were stopped and the focus of the Soviet tank designers shifted to developing a tank with reasonable weight, good mobility, and sufficient armour. R39 KV-3  The IS tank was the logical result of their quest. R39 KV-3 
+
+|HistoricalGallery=
+image:KV-3 1. R39 KV-3 jpg{{!}}From top to bottom: Proposed KV-3 turret, KV-1 turret on KV-3 hull and chassis
+image:KV-3 2. R39 KV-3 jpg{{!}}The full-scale KV-3
+
+|HistAcc=
+*There are no known plans that the KV-3 was to be equipped with a 122mm gun
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://english. R39 KV-3 battlefield. R39 KV-3 ru/kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R39 KV-3 html '''KV-3 & KV-4 Heavy Tanks'''] at battlefield. R39 KV-3 ru. R39 KV-3 
+
+[https://www. R39 KV-3 battlefield. R39 KV-3 ru/en/tank-development/32-experimental-vehicles/51-kv3-kv4-kv5-kv7-kv9-kv220. R39 KV-3 html battlefield. R39 KV-3 ru]
+}}
+
+[[Category:USSR Tanks]]

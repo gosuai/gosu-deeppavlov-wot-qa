@@ -1,0 +1,73 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Achilles scr 1. GB45 Achilles IIC jpg
+File:Achilles scr 2. GB45 Achilles IIC jpg
+File:Achilles scr 3. GB45 Achilles IIC jpg
+
+
+|InTheGame_pros=
+*Good DPM, penetration, and shell velocity
+*Superb accuracy
+*Decent mobility
+*Good view range
+
+
+|InTheGame_cons=
+*Slow turret traverse
+*Low alpha damage
+*Poor gun depression with the top gun despite the open turret
+*Thin armor and large target
+*Stock grind is awful
+
+|InTheGame_performance=
+The Achilles plays similarly to an uptiered M10 Wolverine. GB45 Achilles IIC  Absolutely dreadful when stock, you will have problems penetrating even certain medium tanks, let alone heavy tanks - the good gun depression does not help much, either. GB45 Achilles IIC  Unless your opponent's team is full of lightly armoured tanks, you will struggle to make any impact in a match - use your mobility and view range to take a more passive scouting role, and pounce on injured tanks to finish them off or take opportunistic shots when possible. GB45 Achilles IIC 
+
+However, with the 17-pounder you have a fighting chance to penetrate all but the heaviest tier 8 tanks, despite the inferior gun depression. GB45 Achilles IIC  Although it has high DPM, the low alpha means that you will have to expose your tank for long periods of time to get the gun working. GB45 Achilles IIC  Because of its horrible armor, most hits you receive will penetrate you, and artillery is especially deadly. GB45 Achilles IIC   With an accuracy of 0. GB45 Achilles IIC 33 and an aim time of 1. GB45 Achilles IIC 9 sec, the gun is good at delivering damage at range, which will reduce your chances of being hit, allowing you to make use of your DPM. GB45 Achilles IIC 
+
+|InTheGame_research=
+*Cross-branch research: the '''OQF 17-pdr AT Gun Mk. GB45 Achilles IIC  VII''' carries over from the AT 8 (or the Archer), but the upgraded turret is required to mount it. GB45 Achilles IIC  The '''Ford GAA''' engine carries over from the AT 7. GB45 Achilles IIC 
+* The '''WS No. GB45 Achilles IIC  19 Mk. GB45 Achilles IIC  III''' radio carries over from the AT 2 and should be installed immediately. GB45 Achilles IIC 
+* First, research the '''OQF 17-pdr AT Gun Mk. GB45 Achilles IIC  V''' for a much-needed penetration boost. GB45 Achilles IIC 
+* Next, research the '''Ford GAA''' engine for a massive boost to mobility. GB45 Achilles IIC 
+* Then, research the '''Achilles Duck Bill''' turret and the '''OQF 17-pdr AT Gun Mk. GB45 Achilles IIC  VII'''. GB45 Achilles IIC 
+* Finally, research the '''Achilles IIC''' suspension. GB45 Achilles IIC 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+Among the multitude of military vehicles supplied to Britain by the United States in World War 2 were around 1,600 M10 tank destroyers, including mid-production M10 I and late-production M10 II variants. GB45 Achilles IIC  They could be told apart by the shape of the counterweight on the turret rear: wedge-shaped on the I, and enlarged on the II. GB45 Achilles IIC  Unfortunately, initial encounters with heavyweight German opponents like the Tiger I and Panther showed shortcomings in the power of the 3-inch (76. GB45 Achilles IIC 2 mm) gun; with a counter-invasion of Europe looming, it was decided to fit the M10 with the British 17 pounder gun instead. GB45 Achilles IIC  The refitting process began in Spring 1944 and the majority of the roughly 1,000 converted were M10 IIs. GB45 Achilles IIC  These were renamed M10 IIC, with the C signifying the 17 pounder. GB45 Achilles IIC  Fitting the gun required a counterweight behind its muzzle brake, and the ammunition storage area was altered to take the bigger shells. GB45 Achilles IIC 
+<br>
+With the power to tear through Tiger I and Panther front armor from 1km, the M10 IIC quickly earned the trust of anti-tank units such as those of the 21st Army Group, and also on the Italian front. GB45 Achilles IIC  One prominent example of its ability was provided by the M10 IIC Battery of the 62nd Anti-Tank Regiment, which shook off a counter from Panthers and Panzer IVs to destroy 13 German tanks in fighting around Caen in the aftermath of the July 1944 Normandy landings. GB45 Achilles IIC  The M10 IIC was also deployed by Canadian and Polish units, and served into the 1950s. GB45 Achilles IIC 
+{{VideoYT|oudWxid-Dms}}{{VideoYT|ZaFkFcYcMvw}}
+
+|HistAcc=
+SCC No. GB45 Achilles IIC  15 Olive Drab paint scheme is missing. GB45 Achilles IIC  This was the base colour on all British AFVs in Europe from April 1944. GB45 Achilles IIC 
+* Allied star recognition marking is missing. GB45 Achilles IIC  This option exists in World of Tanks, but is restricted to only tier 8-10 vehicles. GB45 Achilles IIC 
+* The white-red-white Royal Armoured Corps recognition mark (or flash) was only used until mid-1942. GB45 Achilles IIC  Flashes painted on Achilles were red-white-red. GB45 Achilles IIC 
+* Uses the same 3-inch M7 gun as the French [[Tank:F112_M10_RBFM|M10 RBFM]], yet the penetration and damage values are inconsistent. GB45 Achilles IIC 
+* The Achilles has the same General Motors 6046 diesel engine as the [[M10 Wolverine]]. GB45 Achilles IIC  However, their horsepower and weight values are inconsistent. GB45 Achilles IIC  The British equivalent of the engine actually has the historical values. GB45 Achilles IIC 
+* 410 hp represents the diesel engine's gross horsepower. GB45 Achilles IIC  Net horsepower is 375 hp. GB45 Achilles IIC 
+* Actual gun depression is -10 degrees. GB45 Achilles IIC  The -5 degrees come from a removable stop that could be placed on the vehicle. GB45 Achilles IIC 
+
+|HistoricalGallery=
+3 inch Self Propelled. GB45 Achilles IIC jpg{{!}}British M10 on Sword Beach on 6 June 1944
+3 inch Self Propelled (2). GB45 Achilles IIC jpg{{!}}British M10 Wolverine providing indirect fire support in Italy on 12 August 1944
+17pdr SP Achilles. GB45 Achilles IIC jpg{{!}}17pdr SP Achilles firing at pillboxes on the German frontier on 12 October 1944
+17pdr SP Achilles (2). GB45 Achilles IIC jpg{{!}}Achilles tank destroyer in Holland on 12 October 1944
+17pdr SP Achilles (3). GB45 Achilles IIC jpg{{!}}German crews inspecting a knocked out Achilles in Normandy on 21 June 1944
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

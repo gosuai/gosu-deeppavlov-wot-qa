@@ -1,0 +1,75 @@
+{{TankData|Tank=RenaultFT_AC
+|The Renault FT AC excels at the stationary tank destroyer role. F30 RenaultFT AC  It offers an interesting selection of guns that can make short work of anything it comes across. F30 RenaultFT AC  Having the chassis of the FT, it is also quite slow and, being heavier, has noticeably worse maneuverability. F30 RenaultFT AC  It also has very limited gun elevation and traverse, and its armor is quite bad, comparable to the [[Panzerjäger I]]. F30 RenaultFT AC 
+
+|Gallery=
+
+File:Renault FT AC scr 1. F30 RenaultFT AC jpg
+File:Renault FT AC scr 2. F30 RenaultFT AC jpg
+File:Renault FT AC scr 3. F30 RenaultFT AC jpg
+
+
+|InTheGame_pros=
+* Fast reload times. F30 RenaultFT AC  Excellent DPM with top gun
+* Excellent guns with good aim times and penetration
+* Decent camouflage for its silhouette
+* Amazing gun depression. F30 RenaultFT AC  Good view range
+* Autocannon is completely broken
+
+|InTheGame_cons=
+* Poor top speed
+* The 25 mm guns have limited range
+* Very weak armor
+* Fairly big target thanks to the gun shield being counted as part of the hull
+* Fairly limited gun traverse and elevation
+
+|InTheGame_performance=
+At first glance, the Renault FT AC does not seem to offer anything that other tank destroyers do. F30 RenaultFT AC  It does not have the fantastic combination of high speed and powerful armament that the T3 HMC has, nor does it have the incredibly powerful guns that the AT-1 has access to. F30 RenaultFT AC  It does not have the speed and mobility that the Panzerjäger I has either. F30 RenaultFT AC 
+
+What the FT AC does have is a very interesting selection of guns. F30 RenaultFT AC  There are three 25 mm guns to choose from, each an improved version of the one before. F30 RenaultFT AC  All three use the same ammunition, with the same damage and penetration. F30 RenaultFT AC  None can use HE shells. F30 RenaultFT AC  The '''25 mm antichar SA-L mle. F30 RenaultFT AC  1934''' and '''25 mm antichar SA-L mle. F30 RenaultFT AC  1937''' are almost identical, with the second gun being slightly more accurate. F30 RenaultFT AC  The '''25 mm automatique mle. F30 RenaultFT AC  1936''' is unique to the FT AC, and it is the only tank destroyer with an autocannon in the game. F30 RenaultFT AC  Firing the same ammunition with the same penetration and damage, this autocannon is capable of shredding enemy tanks fooling enough to stay in the FT AC's sights. F30 RenaultFT AC  However, all the 25 mm guns have a significant weakness in the fact that they lose penetration at ranges over 395 m, forcing the FT AC to fight at relatively close ranges. F30 RenaultFT AC  The '''47 mm SA-L Mle. F30 RenaultFT AC  37''' offers an excellent combination of good penetration, rate-of-fire, accuracy, aim time, and damage. F30 RenaultFT AC  It can also reliably damage targets at longer distances than the other 25 mm guns. F30 RenaultFT AC 
+
+Being based on the Renault FT, the FT AC is not a very fast vehicle, though it turns quite well. F30 RenaultFT AC  Despite this, close combat with other tanks should generally be avoided. F30 RenaultFT AC 
+
+The FT has very light armor, and will be destroyed with incredible ease by almost every tank Tier 2 and up. F30 RenaultFT AC  It cannot go toe-to-toe with any of the other Tier 2 tank destroyers. F30 RenaultFT AC  Because of this, the FT AC must be used as a sniper tank and nothing else. F30 RenaultFT AC  Unlike the T18 and AT-1, the FT AC has an excellent view range, which helps it as a sniper. F30 RenaultFT AC 
+
+=='''Crew Skills'''==
+* Like on most other tank destroyers with weak armor, '''Camouflage''' is absolutely necessary on all crew members and should be prioritized over other skills. F30 RenaultFT AC 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly recommended. F30 RenaultFT AC 
+* Once Camouflage and Sixth Sense have been trained, more specialized skills may be considered. F30 RenaultFT AC  '''Situational Awareness''' is useful for the commander (who is also the radio operator), since it helps increase the already good view range. F30 RenaultFT AC  '''Snap Shot''' on the gunner (who is also the loader) provides less accuracy bonuses on limited-traverse tank destroyers like the FT AC, but is helpful nonetheless. F30 RenaultFT AC  '''Smooth Ride''' is probably the best skill for the driver, since it reduces the accuracy penalty incurred after moving in a straight line. F30 RenaultFT AC  
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. F30 RenaultFT AC  It should be saved for later on the FT AC, at least until after Camouflage and Sixth Sense have been fully trained. F30 RenaultFT AC 
+
+|InTheGame_research=
+* The Renault M26/27 engine and the ER 52 radio carry over from the [[RenaultFT|Renault FT]], and should be mounted immediately. F30 RenaultFT AC 
+* The 25 mm antichar mle. F30 RenaultFT AC  1937 is required to unlock the 47 mm SA-L Mle. F30 RenaultFT AC 37 and the 25 mm automatique mle. F30 RenaultFT AC  1936. F30 RenaultFT AC 
+* The 47 mm SA-L Mle. F30 RenaultFT AC 37 is required to unlock the Renault UE 57. F30 RenaultFT AC  
+* The Renault FT AC bis suspension is not required to mount modules and equipment, and can be saved for last. F30 RenaultFT AC 
+* The 25 mm automatique mle. F30 RenaultFT AC  1936 is not necessary for anything, nor does it carry over to other tanks, but it is interesting to use. F30 RenaultFT AC 
+
+|InTheGame_equipment=
+Camouflage Net, Binocular Telescope, GLD
+
+|History=
+[[image:Renault FT AC. F30 RenaultFT AC jpg|thumb|200px|left|Renault FT AC]]
+Immediately after Germany invaded Poland, whole France was in Panic. F30 RenaultFT AC  Years of cutting army budget left France unprepared for the inevitable war. F30 RenaultFT AC  At the time France suffered from chronicle lack of armor. F30 RenaultFT AC  One of the obvious choices was to improve the existing stack of Renault FT tanks, French tanks from the First World War. F30 RenaultFT AC  Although existing in large numbers, FT was the completely obsolete at the beginning of World War II. F30 RenaultFT AC  
+
+The original Renault FT 17 tanks were armed with either a 37 mm cannon Puteaux or a 8 mm machine gun Hotchkiss model 1914. F30 RenaultFT AC  The performance of both weapons hopelessly inadequate in anti-tank combat, so French army had the idea to modify the existing vehicles with the 25 mm S. F30 RenaultFT AC A. F30 RenaultFT AC  Mle 1934 and later the more modern 47 mm antichar model 1939 anti-tank gun. F30 RenaultFT AC  At the time there was around 1580 FT tanks in service, and as much as 1300 of them in reserve, so the idea of converting obsolete tanks into capable tank destroyer was in a sense logical step considering the situation France was facing. F30 RenaultFT AC  Newly installed gun would have an elevation + / - 15 ° lateral and 6 ° on either side, while crew was to consist of three men. F30 RenaultFT AC  Considering that there was around 300 FT tanks conserved with their armament removed, the plan also included a series of completely new, factory rebuild vehicles. F30 RenaultFT AC  
+
+The biggest problem was the speed. F30 RenaultFT AC  While 7,5 km/h while driving off-road was considered enough for World War I infantry support role, it was totally unsuitable for modern combat maneuvering mechanized divisions. F30 RenaultFT AC  Although the idea of conversion was not without grounds, it should have been implemented at least five years earlier. F30 RenaultFT AC  Considering that at the time France had a number of much more promising vehicles in development, like Laffly W 15 TCC, Lorraine 39 chars du Chasseur,  or Panhard Tourelle 178 modification of the existing stack of FT tanks was canceled, as it was considered to be waste of already very limited resources. F30 RenaultFT AC 
+
+
+|HistoricalGallery=
+image:FTAC 1. F30 RenaultFT AC jpg{{!}}Plans for the Renault FT AC
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* Francois Vauvillier - Le testament - Idées et projets - Du Pére des Chars - Et La Part des Cousins Pauvres Un Antichar Dissimulé Mobile Pour les Divisions D´Infanterie, Histoire de Guerre no. F30 RenaultFT AC 78, 9/2007
+* Pascal Danjou - Juin 1940 L´Impossible Sursaut, Tracstory no. F30 RenaultFT AC 5, ISBN 2-9520988-4-0
+
+
+|Ref_links=
+* https://en. F30 RenaultFT AC valka. F30 RenaultFT AC cz/viewtopic. F30 RenaultFT AC php/title/FRA-47-mm-Antichar-sur-Char-Renault-FT-17/t/87855
+
+}}
+[[Category:Append: History]]

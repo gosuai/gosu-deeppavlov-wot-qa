@@ -1,0 +1,51 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Pz. G70 PzIV Hydro Kpfw. G70 PzIV Hydro  IV hydrostat scr 1. G70 PzIV Hydro jpg
+File:Pz. G70 PzIV Hydro Kpfw. G70 PzIV Hydro  IV hydrostat scr 2. G70 PzIV Hydro jpg
+File:Pz. G70 PzIV Hydro Kpfw. G70 PzIV Hydro  IV hydrostat scr 3. G70 PzIV Hydro jpg
+
+
+|InTheGame_pros=
+* Great hull traverse speed
+* Demi-accurate gun with good ROF
+* Preferential matchmaking (tier 6 max, no tier 7 battles)
+* Excellent gun depression of -10 degrees
+* Very Rare
+
+|InTheGame_cons=
+* Worse hull armor than the Pz. G70 PzIV Hydro  IV H: thin UFP and no side-skirts, prone to H. G70 PzIV Hydro E. G70 PzIV Hydro  damage
+* Weak engine, acceleration suffers except on flat ground
+* Penetration is on the lower end in tier
+* Bad view range, scouting will be troublesome
+
+|InTheGame_performance=
+Those who have played the PZ. G70 PzIV Hydro  IV H for a good amount of time will immediately notice that this tank plays quite differently, especially if one is used to using the 105mm Derp gun on the PZ. G70 PzIV Hydro  IV H. G70 PzIV Hydro  The Hydrostat has only 50mm of frontal armor on the hull, and as such is much more prone to being penetrated, even by lower tier guns. G70 PzIV Hydro  It also tends to suffer from tier 5 derp guns, particularly those mounted on the M4, PZ. G70 PzIV Hydro  IV H, and KV-1. G70 PzIV Hydro  Although it has a rather weak engine, it is still quite agile- with 40 deg/sec of hull traverse. G70 PzIV Hydro  Despite for cruising at the mid forties, one might have to run a straight line for some time, it is not quite a slow tank. G70 PzIV Hydro  It is quite capable of flanking maneuvers, but in a head-on fight it will fall to pieces very quickly. G70 PzIV Hydro  It is also adept at counter-flanking tactics- combining the 40 deg/sec hull traverse and 44 deg/sec of the turret, this tank can effectively counter any circle-strafers it may come across. G70 PzIV Hydro  The gun is solid, with decent accuracy and ROF, but the penetration will struggle against heavier armored tanks, and you may need to call on APCR ammunition to deal with them. G70 PzIV Hydro 
+
+|InTheGame_research=
+All modules come fully researched. G70 PzIV Hydro 
+
+|InTheGame_equipment=
+Coated Optics, Medium-Caliber Tank Gun Rammer, Improved Ventilation Class 2
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+[[image:Panze_4_Hydraulic_Prototype. G70 PzIV Hydro JPG|thumb|200px|left|Panze 4 Hydraulic prototype]]In late 1943, Zahnradfabrik Augsburg equipped normal (turretless) Panzerkampfwagen IV Ausf G/H with newly developed hydraulic steering system. G70 PzIV Hydro  Thoma (non-liquid) oil drive transmission was installed and drive sprocket was replaced with the new one. G70 PzIV Hydro  The power train consisted of twin oil pumps driven by Maybach HL 120 TRM engine. G70 PzIV Hydro  In order to accommodate all the changes, entire engine deck and rear was modified. G70 PzIV Hydro  In mid 1944, this prototype was fitted with modified hydraulically operated turret. G70 PzIV Hydro  Tests were carried on but were never concluded. G70 PzIV Hydro  There are varying accounts as to what happened to the prototype afterwards; one is that it stayed at the testing facility and was captured there by the US Army, and the other account states that the prototype was sent to Russia and served with the Waffen SS unit. G70 PzIV Hydro  At the end of the war, this vehicle was captured by the US Army and was sent to United States for further examination. G70 PzIV Hydro  Tests were never concluded and this vehicle is still at Aberdeen U. G70 PzIV Hydro S Army Proving Grounds in Maryland. G70 PzIV Hydro 
+
+|HistoricalGallery=
+
+image:PzKpfw IV Ausf. G70 PzIV Hydro  H Hydraulic 2. G70 PzIV Hydro jpg{{!}}PzKpfw IV Ausf. G70 PzIV Hydro  H Hydraulic Front View
+image:PzKpfw IV Ausf. G70 PzIV Hydro  H Hydraulic 1. G70 PzIV Hydro jpg{{!}}PzKpfw IV Ausf. G70 PzIV Hydro  H Hydraulic Rear View
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,77 @@
+{{TankData|Tank=M60
+|The M60 is a gift tank awarded to players for finishing in top places in the first Clan War campaign (top 50 in RU cluster, top 30 in EU, NA, and SEA). A92 M60  It is not currently available in the tech tree, gift shop, or by any bonus codes at all but can be purchased for 15,000 bonds in the bond shop. A92 M60 
+
+The M60 is a representation of the first production variant of the M60, and should not be confused with the M60A1 and later variants. A92 M60 
+
+|Sidebar_Camostop=7
+|Sidebar_Camomove=5. A92 M60 2
+|Sidebar_Camofire=1. A92 M60 5
+|Sidebar_Passhard=0. A92 M60 671
+|Sidebar_Passmed=0. A92 M60 767
+|Sidebar_Passsoft=1. A92 M60 63
+|Sidebar_DispTurret=0. A92 M60 096
+|Sidebar_DispRecoil=3. A92 M60 356
+|Sidebar_DispAccel=0. A92 M60 096
+|Sidebar_DispTurning=0. A92 M60 096
+
+|InTheGame_pros=
+* Excellent gun handling, aim time and accuracy
+* Good gun depression
+* Excellent speed and mobility for an American medium tank
+* Highest base viewrange in the game at 420 metres
+* Low chance of engine fire
+
+|InTheGame_cons=
+* Poor armor protection, nigh-useless for Tier 10
+* Huge commander's cupola is a prominent weakspot
+* Very large and tall, terrible camouflage
+* Inferior DPM compared to the [[M48A5 Patton]]
+
+|InTheGame_performance=
+
+The M60 plays very much like a [[Leopard 1]], boasting the same gun depression, damage, and penetration. A92 M60  However, there are some key differences between the two. A92 M60  Overall, it has a slightly lower rate of fire, and it is larger with even worse camo values. A92 M60  However, to make up for this, the M60 has somewhat thicker armor, plus way better soft stats ex. A92 M60  aim time, etc. A92 M60   
+
+Because the tank is so large and underarmored, your best bet is to not get shot in the first place. A92 M60   Along with the usual flanking that a medium tank can do, the M60 is excellent at supporting its team from behind cover. A92 M60   The gun depression, combined with the superb gun handling allows you to pop above a hill and get a shot off before the other team may be able to react. A92 M60   The view range also allows you to spot most other tanks that your teammates may have missed. A92 M60 
+
+Going along with its view range, the M60 can also perform the role of a scout, assuming caution is taken. A92 M60   Because the M60 is such a large and poorly camouflaged target, using cover while spotting is a must. A92 M60   If you try to rush through enemy lines like an ELC, you will quickly find your tank destroyed. A92 M60   You can use the MG turret to your advantage by spotting targets from behind cover while exposing very little of yourself. A92 M60   Your view range alone will also enable you to light enemies that your teammates cannot see. A92 M60 
+
+|InTheGame_research=This vehicle is elite in its stock configuration
+
+
+|InTheGame_equipment=Vertical Stabilizer Mk 1,Improved Ventilation Class 2,Coated Optics,Medium-Caliber Tank Gun Rammer,
+
+
+|Gallery=
+
+
+|History=
+During the Hungarian Revolution of 1956, a Soviet T-54A medium tank was driven onto the grounds of the British embassy in Budapest by the Hungarians. A92 M60  After a brief examination of this tank's armor and 100 mm gun, British officials decided that their 20 pounder was apparently incapable of defeating it. A92 M60  There were also rumors of an even larger 115 mm gun in the works. A92 M60  Hence there was a need to adopt a 105 mm gun, which emerged as the famed Royal Ordnance L7. A92 M60  This information made its way to the United States, where the Army had been experimenting with a series of upgrades to their M48 Patton tanks. A92 M60  Most were relatively minor, all retaining its 90 mm gun. A92 M60  These experiments were concerned with improving the armor and the introduction of a variety of autoloader systems and upgraded rangefinders. A92 M60 
+
+
+The T95 program, launched after the Questionmark III conference in June 1954, was the intended replacement to the M48. A92 M60  It featured a host of innovative and experimental components such as its 90 mm smoothbore T208 cannon rigidly affixed to its turret, and its new powertrain and suspension. A92 M60  The burden of developing them however slowed the overall program to a crawl. A92 M60  General Taylor approved of a new tank development program in August 1957. A92 M60  This incorporated many ARCOVE recommendations and foresaw the eventual replacement of the light, medium, and heavy tanks with two types the airborne reconnaissance/assault vehicle and the Main Battle Tank. A92 M60  The MBT was to combine the firepower and protection sufficient for the assault role with the mobility to perform as a medium tank. A92 M60  A tank of the T95 series, armed with a smoothbore cannon and powered by a compression ignition engine, was envisaged by the Army Staff as the bearer of the role of future MBT. A92 M60 
+
+The course of this tank program was the source of widespread debate. A92 M60  The Bureau of Budget (BOB) believed that the Army was not progressing with sufficient speed in its tank modernization program and recommended the immediate replacement of the M48A2. A92 M60  Correctly predicting that the BOB would not approve the procurement of the M48A2 after the fiscal year of 1959, the Deputy Chief of Staff, Logistics (DCSLOG) proposed a tank based on the M48A2 featuring improved firepower and the AVDS-1790 engine. A92 M60  Of course the alternative was to introduce a tank from the T95 series but it remained highly experimental with its compression ignition engine not as developed as the AVDS-1790. A92 M60  An influential group of senior officers, by May of 1958, concluded that the T95 had only marginal advantages over the M48A2. A92 M60  They proposed that the most important improvements, better firepower and fuel economy, could be achieved by mounting a compression ignition engine and a more powerful gun on the M48A2. A92 M60 
+
+In 1957, plans were laid in the US for a universal or all purpose tank. A92 M60  Fulfilling this requirement with an interim tank resulted to the M60 series, which largely resembles the M48 it was based on, but has significant differences. A92 M60  The M60 mounted a 105 mm M68 main gun with the bore evacuator mounted towards the middle of the tube, compared with the M48's 90 mm M41, which mounted the bore evacuator towards the end of the tube right after its T-shaped blast deflector. A92 M60  It also had a hull with a straight front slope whereas the M48's hull was rounded, had three support rollers per side to the M48's five, and had road wheels constructed from aluminum rather than steel, although the M48 wheels were often used as spare parts. A92 M60 
+
+The improved design incorporated a Continental V-12 750 hp (560 kW) air-cooled, AVDS-1790-2 diesel engine, extending operational range to over 300 miles (480 km) while reducing both refueling and servicing. A92 M60  Power was transmitted through a CD-850-6 cross drive transmission, a combined transmission, differential, steering, and braking unit. A92 M60 
+
+The hull of the M60, like its predecessor the M48, could be cast as cast as a single piece or by welding smaller castings. A92 M60  The turret was similar to the M48A2's and was made as a single piece casting although it was modified to accept the new larger diameter cupola and the M116 mount for the 105mm gun. A92 M60  The hull was divided into three compartments, with the driver in front, fighting compartment in the middle and engine at the rear. A92 M60  The driver looked through three M27 day periscopes, one of which could be replaced by an M24 infrared night vision periscope. A92 M60 
+
+The M60 was the last U. A92 M60 S. A92 M60  main battle tank to utilize homogeneous steel armor for protection. A92 M60  It was also the last to feature an escape hatch under the hull. A92 M60  (The escape hatch was provided for the driver, whose top-side hatch could easily be blocked by the main gun. A92 M60  Access between the driver's compartment and the turret fighting compartment was also restricted, requiring that the turret be traversed to the rear). A92 M60 
+
+Originally designated the XM60, the new vehicle was put into production in 1959, standardized as the 105 mm Gun Full Tracked Combat Tank M60 on 16 March 1959, and entered service in 1960. A92 M60  There was a proposal in April 1959 to change the nomenclature to 105 mm gun main battle tank M60; this was however rejected due to a conflict with the Federal Cataloging Agency Policy. A92 M60  Over 15,000 M60s (all variants) were built. A92 M60 
+
+
+|HistoricalGallery= image:M60HG1. A92 M60 jpg
+image:M60HG2. A92 M60 jpg
+image:M60HG3. A92 M60 jpg
+image:M60HG4. A92 M60 jpg
+
+
+|Ref_references=
+
+|Ref_sources=*https://en. A92 M60 wikipedia. A92 M60 org/wiki/M60_Patton
+
+|Ref_links=
+}}

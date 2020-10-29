@@ -1,0 +1,64 @@
+{{TankData|Tank=VK3002M
+|
+
+|Gallery=
+File:VK 30. G96 VK3002M 02(M) 01. G96 VK3002M png
+
+
+|InTheGame_pros=
+*Very strong gun mantlet
+*Accurate top gun with high DPM and good penetration values
+*Large hitpoints pool
+*Powerful top engine which gives good mobility to tank
+*Large ammo capacity of 79 rounds. G96 VK3002M 
+
+|InTheGame_cons=
+*Weak side armour
+*Frontal gearbox means that hits on the lower glacis might damage the engine. G96 VK3002M 
+*Large ammorack that tends to get damaged easily
+*Somewhat large profile makes finding a good hiding spot or avoiding fire harder than other mediums
+*Expensive repair costs meaning it is possible to lose money in a bad match. G96 VK3002M 
+
+|InTheGame_performance=
+This tank is a sniper and flanker hybrid. G96 VK3002M   The armor while bouncy, is not thick enough to block the majority of tier VI weaponry. G96 VK3002M   Brawling should be avoided when possible due to fairly low alpha damage and low armor. G96 VK3002M   Hulldown is effective. G96 VK3002M   The turret while not being the smallest target has a very high tendency to bounce shots at long ranges, and the L/70 will make short work of most tanks. G96 VK3002M   Angling is not very effective due to the paper thin 40mm side armor, but can be used against small caliber guns to increase the chances of a bounce. G96 VK3002M   Also due to the fairly large profile, one has to take extra time to make sure the bush they are sitting in (if abusing camo skill and nets) is big enough to hide the entire tank. G96 VK3002M   It is also very hard to avoid enemy fire, since the tank is somewhat large for a medium (comparable to a small heavy), meaning that the only ways to take fire is in a hull down (moderately bouncy turret), or when angled properly with the lower plate preferably hidden (assuming the gun is a low end tier V or most tier IV guns, as anything with more then 130mm of penetration will go through the tank regardless of angle unless it gets a lucky bounce)
+
+The top gun is quite potent and capable of penetrating most tier VI and some VII tanks frontally. G96 VK3002M   Alpha damage is lacking but the gun offers fairly high DPM with the top turret. G96 VK3002M   Sniping is very good with this tank as the L/70 has the accuracy to hit weakspots up to a range of about 300m and has enough penetration as to allow penetrations to the front of most tanks. G96 VK3002M   
+
+Overall this tank is quite similar to the pre 8. G96 VK3002M 8 [[VK 30. G96 VK3002M 01 (H)|VK 30. G96 VK3002M 01 (H)]], with good maneuverability, much better hull armor, slightly worse turret armor, having access to the same guns, sans the 8. G96 VK3002M 8cm KwK 36 L/56, and overall allowing the use of similar tactics. G96 VK3002M   Anyone who enjoyed the VK 30. G96 VK3002M 01(H) will most likely enjoy this tank. G96 VK3002M  It should also be noted that this tank plays quite similarly to a historically accurate version of its child and successor, the Panther I, though the Panther historically was used more for sniping, and of course weighed more. G96 VK3002M   
+
+Still, take into consideration that the tank is designed for sniping or long range attacks. G96 VK3002M   While close up flanking may be a viable tactic, it makes more sense to start out taking long range shots at exposed enemies, letting your team soak up damage. G96 VK3002M   
+
+
+|InTheGame_research=
+The top gun should already be researched from the VK 30. G96 VK3002M 01(H), so mount it immediately. G96 VK3002M 
+
+The priority in this tank is to max out the engine and suspension due to it being much more mobile then the next tank in line, the Panther. G96 VK3002M 
+
+Finally get the upgraded turret for a slight boost in both armor and rate of fire. G96 VK3002M 
+
+
+|InTheGame_equipment= GLD, Medium-caliber tank gun rammer, vents, Coated Optics
+
+
+|History= The Panther was a direct response to the Soviet T-34 and KV-1 tanks. G96 VK3002M  First encountered on 23 June 1941,[4] the T-34 outclassed the existing models of the Panzer III and IV. G96 VK3002M [5] At the insistence of General Heinz Guderian, a special Panzerkommision was dispatched to the Eastern Front to assess the T-34. G96 VK3002M [6] Among the features of the Soviet tank considered most significant were the sloping armor, which gave much improved shot deflection and also increased the effective armor thickness against penetration, the wide track, which improved mobility over soft ground, and the 76. G96 VK3002M 2 mm gun, which had good armor penetration and fired an effective high explosive round. G96 VK3002M  Daimler-Benz (DB) and Maschinenfabrik Augsburg-Nürnberg AG (MAN) were given the task of designing a new 30- to 35-ton tank, designated VK30. G96 VK3002M 02, by April 1942 (apparently in time to be shown to Hitler for his birthday). G96 VK3002M 
+
+The DB design resembled the T-34 in hull and turret form. G96 VK3002M  DB's proposal used a leaf spring suspension, in contrast to the T-34s coil spring suspension. G96 VK3002M  The leaf spring suspension lay outside of the hull. G96 VK3002M  Subsequently, the hull was more narrow, offering a smaller turret ring. G96 VK3002M  Thus, the DB turret was necessarily smaller than that of the MAN design. G96 VK3002M  The main advantages of the leaf springs over a torsion bar suspension were lower hull silhouette and a simpler shock damping design. G96 VK3002M  Like the T-34, the DB design had a rear drive sprocket and a forward situated turret, but unlike the T-34, the DB design had the preferred three-man turret crew: commander, gunner, and loader. G96 VK3002M  As the planned L/70 75 mm gun was much larger than the T-34's, mounting it in the Daimler-Benz turret was difficult. G96 VK3002M  Plans to address the space limitations by reducing the turret crew to two men were considered, but were eventually discarded as experience had shown this to be a less effective arrangement. G96 VK3002M 
+
+The MAN design embodied more conventional German thinking with the transmission and drive sprocket in the front and a centrally mounted turret. G96 VK3002M  It had a gasoline engine and eight torsion-bar suspension axles per side. G96 VK3002M  Because of the torsion bar suspension and the drive shaft running under the turret basket, the MAN Panther was higher and had a wider hull than the DB design. G96 VK3002M  The Henschel firm's design concepts for their Tiger I tank's suspension/drive components, using its characteristic Schachtellaufwerk-format large, overlapping, interleaved road wheels with a "slack-track" using no return rollers for the upper run of track were repeated with the MAN design for the Panther. G96 VK3002M  These large, rubber-rimmed steel wheels added to the protection of the hull from a lateral penetrating shot. G96 VK3002M 
+
+The two designs were reviewed over a period from January through March 1942. G96 VK3002M  Reichminister Todt, and later, his replacement Albert Speer, both recommended the DB design to Hitler because of its several advantages over the initial MAN design. G96 VK3002M  However, at the final submission, MAN improved their design, having learned from the DB proposal, and a review by a special commission appointed by Hitler in May 1942 ended up selecting the MAN design. G96 VK3002M  Hitler approved this decision after reviewing it overnight. G96 VK3002M  One of the principal reasons given for this decision was that the MAN design used an existing turret designed by Rheinmetall-Borsig, while the DB design would have required a brand new turret to be designed and produced, substantially delaying the commencement of production. G96 VK3002M 
+
+
+|HistoricalGallery=
+File:Vk3002man. G96 VK3002M jpg
+File:Vk3002man. G96 VK3002M png
+
+|Ref_references= Jentz, Thomas (1995). G96 VK3002M  Germany's Panther Tank. G96 VK3002M  Atglen: Schiffer Pub. G96 VK3002M  ISBN 0-88740-812-5. G96 VK3002M 
+
+
+|Ref_sources= https://en. G96 VK3002M wikipedia. G96 VK3002M org/wiki/Panther_tank
+
+
+|Ref_links=
+
+}}

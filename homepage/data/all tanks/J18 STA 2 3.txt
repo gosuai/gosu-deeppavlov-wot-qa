@@ -1,0 +1,72 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:STA-2 scr 2. J18 STA 2 3 jpg
+File:STA-2 scr 3. J18 STA 2 3 jpg
+File:STA-2 scr 4. J18 STA 2 3 jpg
+File:STA-2 scr 5. J18 STA 2 3 jpg
+
+
+|InTheGame_pros=
+* Good AP (standard) penetration and shell velocity
+* Excellent HEAT (premium) penetration
+* Great gun depression
+* Good mobility, top speed and acceleration
+* Fairly generous healthpool for a medium tank
+
+|InTheGame_cons=
+* Poor armor, only the (small) gun mantlet has decent thickness
+* Poor gun elevation
+* Accuracy is fairly average
+* No preferential matchmaking
+
+
+|InTheGame_performance=
+Gameplay of STA-2 is similar to all the Japanese medium tanks except STB-1 a bit. J18 STA 2 3  Acceleration is mediocre for a medium, so avoid brawling and beware of everything. J18 STA 2 3  Also armor is bad so even if you are top tier you cant afford to dive in without thinking. J18 STA 2 3 
+STA has good gun depression, try to use ridgelines to peek. J18 STA 2 3  With a fair enough crew you can snap shots into the enemy, but always keep a rock between you and the enemy. J18 STA 2 3 
+The STA-2 can be considered fairly hard to play, hence it is not recommended for purchase for new players, especially considering it's low average credit earning ability. J18 STA 2 3 
+
+|InTheGame_research= Elite at purchase; no research necessary
+
+
+|InTheGame_equipment= Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 1, Coated Optics
+
+
+|InTheGame_Equipment_Builds= 
+One suggested crew layout:
+* Commander: Sixth Sense, Concealment, Recon, Situational Awareness
+* Gunner: Concealment, Snap Shot, Deadeye, Repair
+* Driver: Concealment, Smooth Ride, Clutch Braking, Repair
+* Loader: Concealment, Safe Stowage, Repair, Intuition
+[[File:sta2crewlayout. J18 STA 2 3 jpeg|frameless]]
+
+|History= 
+After World War II, Supreme Commander of the Allied Powers ceased all military manufacturing and development plants in Japan, resulting in Japan losing the technology needed to build and manufacture tanks and armored vehicles. J18 STA 2 3  However, due to the Korean War, SCAP ordered Japan to re-militarize, forming armed forces  and provided M4A3E8 Sherman and M24 Chaffee tanks. J18 STA 2 3 
+
+The average height of a Japanese person at the time was too small for the M4A3E8, and drivers had difficulty reaching the clutch pedal with their foot. J18 STA 2 3  In addition, the M4 was becoming obsolete. J18 STA 2 3  The M24, though it was popular amongst the Japanese crews, was inadequate when facing Soviet T-34/85s, as seen in Korea. J18 STA 2 3  Thus, as the tanks in JGSDF service at the time were obsolete/inadequate, the JGSDF was provided with the option of either purchasing the new American built M46 Patton and later, the M47 Patton or develop their own MBT in 1954. J18 STA 2 3  Due to the high cost of purchasing American made tanks, and because the M47 did not meet their requirements, the JGSDF decided on developing their own main battle tank, resulting in the development of the STA-1, which became later the Type 61. J18 STA 2 3  In this way, the domestic tank development in Japan restarted after a blank of 10 years from 1945. J18 STA 2 3 
+
+Four Prototyps were made in total
+
+'''STA-1''' is the first prototype built based on request specifications. J18 STA 2 3  Because they adopted rear engine front drive system, a shaft lies at a hull bottom. J18 STA 2 3  Some stature became high hereby. J18 STA 2 3  They designed turret ring lower than an engine deck in order to keep height. J18 STA 2 3  Therefore body length grows and had 7 wheels. J18 STA 2 3 
+
+'''STA-2''' was built with STA-1 by simultaneous progress. J18 STA 2 3  STA-2 body was shortened, and the upper hull was flattened. J18 STA 2 3  JGSDF executed a field examination with these 2 varieties of prototypes. J18 STA 2 3  They attached much importance to a mobility in deep mud, because a lot of paddy existed in Japan. J18 STA 2 3  They chose STA-2 which mobility ability was superior to. J18 STA 2 3  
+
+'''STA-3''' The semiautomatic loading system was produced experimentally for the shell loading, and AA machine gun on STA-3 is operated by remote control. J18 STA 2 3  However, because a real operation guarantee was unidentified and these devices exceeded a cost limit, it was omitted in next prototype STA-4. J18 STA 2 3 
+
+'''STA-4''' is prototype to be the nearest to the Type 61. J18 STA 2 3  The device of some examinations was omitted. J18 STA 2 3  But the engine was improved a little. J18 STA 2 3  The AA machine gun was enclosed by armour like a shellfish sealed. J18 STA 2 3  (But this machine gun system was abolished in manufacturing type. J18 STA 2 3 )
+
+
+|HistoricalGallery=
+image:STA2. J18 STA 2 3 jpeg{{!}}STA-2
+image:STA2b. J18 STA 2 3 jpg{{!}}STA-2
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links= 
+* https://en. J18 STA 2 3 wikipedia. J18 STA 2 3 org/wiki/Type_61
+* https://tankguy. J18 STA 2 3 gooside. J18 STA 2 3 com/type61history/Type61History. J18 STA 2 3 html
+}}

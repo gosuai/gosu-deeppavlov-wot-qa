@@ -1,0 +1,65 @@
+{{TankData|Tank=Pz_Sfl_IVc
+
+|The Panzer Selbstfahrlafette IVc, the "Toaster," or "Flak Bus," (with Flak meaning anti-aircraft in German) is a unique tank destroyer, as it receives two 88 mm guns, giving it formidable firepower for a tier 5 tank destroyer. G76 Pz Sfl IVc  It is also exceptionally mobile, with a top speed and traverse speed rivaling that of the [[Tank:StuG III Ausf. G76 Pz Sfl IVc  G|StuG III G]]. G76 Pz Sfl IVc  However, it has absolutely no armor and is a massive target, which means that it performs its best supporting allies from a sniping position, far away from the action of the battle. G76 Pz Sfl IVc  Moving in too close will get this machine destroyed in very short order. G76 Pz Sfl IVc 
+
+|Gallery=
+
+File:Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc  IVc scr 1. G76 Pz Sfl IVc jpg
+File:Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc  IVc scr 2. G76 Pz Sfl IVc jpg
+File:Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc  IVc scr 3. G76 Pz Sfl IVc jpg
+
+
+|InTheGame_performance= It should be noted, that the Flakbus does have some inherent characteristics that give it a very unique set of ways it can be exploited. G76 Pz Sfl IVc  The very high gun elevation, for example, allows it to be on the forward side of a hill (rather than behind it, like hull-down tanks play) and still be able to engage even targets on a higher hill in front of it. G76 Pz Sfl IVc  The effect of the downward slope gives the Flaktoaster the gun depression it normally lacks, but does make it very exposed if there are no bushes to hide behind. G76 Pz Sfl IVc  
+                
+It's a good sniper, but you must be aware of taking any damage. G76 Pz Sfl IVc  It's armor can be penetrated even with tier I guns. G76 Pz Sfl IVc  The best strategy is to stay undetected all the time possible, unless the situation no longer allows. G76 Pz Sfl IVc  
+
+
+|InTheGame_pros= 
+* Very high top speed and insanely quick traverse speed; Eliminates flanking as a threat and allows for quick relocation
+* Best gun elevation in game ( 90° when fully upgraded! )
+* The top 88mm gun can easily punch through even tier VII tanks and has good Alpha
+* Very easy grind, starts with good stock gun comparable to some top guns in tier
+* One of the most accurate tier V Tanks ( Good for sniping, it's primary role )
+
+|InTheGame_cons= 
+* Pathetic survivability: large, boxy target with little armor, becomes prime target if spotted 
+* In addition, its mediocre camouflage rating and size makes concealing difficult
+* Top gun has very narrow gun arc, hull traverse will often compromise its concealment even further 
+* Top gun also weighs a lot, drags down the acceleration by much
+* All its guns are exclusive, making grinding the top gun somewhat meaningless
+
+|InTheGame_research=
+* The FuG 8 radio carries over all the way from Marder II, mount it immediately
+* Research the short 88 and the upgraded engine, the stock suspension can handle the weight
+* Go from there
+
+|InTheGame_equipment=
+Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+
+|History=
+ The history of the Flakpanzer fur schwere FlaK began in 1941 when the Waffenamt ordered yet another heavy Panzerjager vehicle. G76 Pz Sfl IVc  the 8. G76 Pz Sfl IVc 8cm K (Pz Sf) auf Sonderfahrgestell. G76 Pz Sfl IVc  The chassis was also know as the Pz Sf IV c. G76 Pz Sfl IVc  A special version of the 8. G76 Pz Sfl IVc 8cm L/56 was planned to be mounted in an open turret carried by the Sonderfahrgestell. G76 Pz Sfl IVc  Later. G76 Pz Sfl IVc  It was envisaged to mount the L/71 version of the 88cm PaK. G76 Pz Sfl IVc  The chassis were built, but the requirement for this Panzerjager was cancelled and the chassis were used for the development of the heavy FlaK vehicle. G76 Pz Sfl IVc  In 1944, the FlaK41 was mounted, and plans were in hans to mount the Geraet 42. G76 Pz Sfl IVc  Krupp also proposed this as the chassis for the 10 5cm leFH43 Waffenträger. G76 Pz Sfl IVc 
+
+'''Specific features:'''
+ The Sonderfahrgestell was based on the Pz Kpfw IV, but was a very much modernized vehicle. G76 Pz Sfl IVc  The Flakpanzer could lower the superstructure sides to allow 360° traverse. G76 Pz Sfl IVc  New, wide (520mm) tracks were used in conjunction with Schachtellaufwerk (interleaved suspension). G76 Pz Sfl IVc 
+
+
+
+|HistoricalGallery=
+image:Flakpanzer_Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc IVc_model_note_360_degrees_traverse_for_the_gun. G76 Pz Sfl IVc jpg
+image:Flakpanzer_Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc IVc_model_with_superstructure_in_enclosed_position. G76 Pz Sfl IVc jpg
+image:Flakpanzer_Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc IVc_model_with_superstructure_in_lowered_position. G76 Pz Sfl IVc jpg
+image:Flakpanzer_Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc IVc_with_lowered_superstructure. G76 Pz Sfl IVc jpg
+image:Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc IVc_armed_with_the_FlaK37_L56_in_Italy_during_field_trials. G76 Pz Sfl IVc jpg
+image:Pz. G76 Pz Sfl IVc Sfl. G76 Pz Sfl IVc IVc_during_field_tests. G76 Pz Sfl IVc jpg
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

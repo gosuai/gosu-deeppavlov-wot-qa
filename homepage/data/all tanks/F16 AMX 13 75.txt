@@ -1,0 +1,96 @@
+{{TankData|Tank=AMX_13_75
+|The tank has a decent top-end gun and good dynamic performance. F16 AMX 13 75  The magazine reload is also better than its predecessor. F16 AMX 13 75  Something to note is that the gun depression of the AMX 13 75 (and AMX 13 90 in extension) is much better than the AMX 12t's. F16 AMX 13 75  Its gun elevation, however, is even worse. F16 AMX 13 75 
+The best way to play it is to let others go ahead, and when they make contact go and support where you can. F16 AMX 13 75  Due to its speed, the AMX 13 75 can easily move between engagements, deliver 4 rounds, and then retreat while reloading. F16 AMX 13 75 
+
+|Gallery=
+
+|InTheGame_pros=
+* 4-round drum autoloader has around 540 hp burst damage with rather fast reload (14sec base)
+
+* Accurate top gun (when fully aimed)
+
+* Fast reverse speed, as well as good acceleration (after 9. F16 AMX 13 75 18). F16 AMX 13 75 
+
+* One of the highest camouflage values of all tier 7 vehicles
+
+* Good APCR, giving around 35% pen buff
+
+|InTheGame_cons=
+* Highly outclassed by the American counterpart, [[T71]], in nearly every aspect. F16 AMX 13 75 
+
+* Slightly below average penetration for a scout of the tier, but much closer after other scouts got penetration nerfs. F16 AMX 13 75 
+
+* Poor gun elevation and mediocre depression
+
+* Modules are fairly close to each other, increasing risk of single shells, especially HE, damaging several modules at once. F16 AMX 13 75 
+
+* Low ammo count of only 36 rounds. F16 AMX 13 75 
+
+* Top speed is below average (although not by much). F16 AMX 13 75 
+
+
+|InTheGame_performance=
+The AMX 13 75 is an evolution of the design concepts introduced with the AMX 12t. F16 AMX 13 75  It keeps the good parts and fixes most of the flaws. F16 AMX 13 75  Once upgraded, the improved accuracy of the gun allows for long-range firing, when desired. F16 AMX 13 75  The wider tracks possibly improve off-road performance slightly. F16 AMX 13 75  As with the AMX 12t, this tank is primarily a flanker. F16 AMX 13 75  Use it to attack the side and rear, and finish off injured enemy tanks. F16 AMX 13 75  Its main weaknesses are its weak armor and low penetration for its tier. F16 AMX 13 75  Try not to play with heavies. F16 AMX 13 75  With only three crew, a crew injury is often devastating. F16 AMX 13 75  A First Aid kit is highly recommended. F16 AMX 13 75  Be careful as you are outclassed by many other of your peers in almost every statistic. F16 AMX 13 75  Playing passively will reward you towards end game, where there will be wounded, alone tanks which you can clean up easily with your autoloader. F16 AMX 13 75 
+
+The time it takes to reload the drum with a full 100% crew and Improved Ventilation is around 12 seconds. F16 AMX 13 75  This is able to be shortened further by Directives, Strong Coffee (a Premium consumable) and Brothers in Arms. F16 AMX 13 75  
+
+It's also worth noting that the enemy often tries to destroy the AMX 13 75 as soon as possible. F16 AMX 13 75  This is similar to the [[T71]]. F16 AMX 13 75  However, this deficiency can be reversed and used to your team's advantage. F16 AMX 13 75  That is, divert the attention of the enemy towards you until your allies take the position. F16 AMX 13 75  
+
+Stock, this tank doesn't have sufficient weight capacity for any equipment other than Coated Optics, since it doesn't weigh anything. F16 AMX 13 75  The Tank Gun Rammer is unavailable on this tank. F16 AMX 13 75  A Gun Laying Drive is useful for faster aiming. F16 AMX 13 75  Fans of passive scouting can equip a Camouflage Net. F16 AMX 13 75 
+
+Unfortunately, with the addition of the [[T71]], this tank is almost useless practically when compared to almost every aspect of each other. F16 AMX 13 75  Make use of APCR a lot, play more passively until late game, and make use of your good camo to stay alive and keep contributing to your team. F16 AMX 13 75 
+
+Luckily, the next tank, the Bat. F16 AMX 13 75 -Châtillon 12 t will reward you greatly. F16 AMX 13 75 
+
+
+|InTheGame_research=
+* Upgrade the suspension next and mount the 75 mm SA50 
+* Finish up with the Detroit Diesel 6V53T engine and the SCR 528F radio. F16 AMX 13 75 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Vents, Coated Optics, GLD, Camouflage Net, Toolbox
+
+|History=
+[[image:Amx13. F16 AMX 13 75 jpg|thumb|200px|left|AMX 13]]
+The AMX-13 is a French light tank produced from 1953 to 1985 (''The AMX 13 75 version was produced until 1966. F16 AMX 13 75 ''). F16 AMX 13 75  It served with the French Army and was exported to over twenty-five other nations. F16 AMX 13 75  Named after its initial weight of 13 tonnes, and featuring a tough and reliable chassis, it was fitted with an oscillating turret built by GIAT Industries (now Nexter) with revolver type magazines which was also used on the Austrian SK-105 Kürassier. F16 AMX 13 75  Including prototypes and export versions there are over a hundred variants including self-propelled gun, anti-aircraft systems, APCs, and ATGM versions. F16 AMX 13 75  Sporting a modified version of the Panther's 7. F16 AMX 13 75 5 cm KwK 42 L/70 gun with dual 6 round autoloading magazines, it allowed a quick succession of shots. F16 AMX 13 75  However, it could not be reloaded from within the vehicle and required disengaging from contact, finding cover for the crew to dismount and reload, then re-engaging the enemy. F16 AMX 13 75  Total production of the AMX-13 family is approximately 7,700 units, around 3,400 of which were exported. F16 AMX 13 75 
+
+Tidbits
+- The turret of the AMX 13 75 was mounted onto some Shermans to help augment their firepower
+
+== Design and Features ==
+The tank was designed at the Atelier de Construction d'Issy-les-Moulineaux in 1946 to meet a requirement for an air-portable vehicle to support paratroopers, the first prototype ran from 1948. F16 AMX 13 75  The compact chassis had torsion bar suspension with five road-wheels and two return rollers; the engine runs the length of the tank on the right side with the driver on the left. F16 AMX 13 75  It features an uncommon two-part oscillating turret where the gun is fixed to the turret and the entire upper turret changes elevation. F16 AMX 13 75  The turret is set to the rear of the vehicle and holds the commander and gunner. F16 AMX 13 75  The original 75 mm gun, allegedly modelled on the German 7. F16 AMX 13 75 5 cm KwK 42 L/70 gun (used, among others, in the Panther tank) but firing very different ammunition from a shorter barrel, was fed with an automatic loading system in two six-round magazines located in the turret's bustle. F16 AMX 13 75  The twelve rounds available in the loaders meant that the crew could engage targets quickly, however once those rounds were expended the vehicle had to retreat to cover and the crew reload them from outside the vehicle. F16 AMX 13 75 
+Production began at ARE (Atelier de Construction Roanne) from 1952, with the first tanks delivered the following year. F16 AMX 13 75  In 1964 production was transferred to Creusot-Loire at Chalon-sur-Saône, as the ARE moved to building the AMX 30 MBT, and the numbers produced declined significantly. F16 AMX 13 75 
+
+== Additional Characteristics ==
+* Ground clearance: 370 mm (15 in)
+* Fording: 600 mm (24 in)
+* Vertical obstacle 650 mm (26 in)
+* Trench: 1. F16 AMX 13 75 6 m (5 ft 3 in)
+* Gradient 60%
+* Side slope: 60%
+* NBC system: None
+* Night vision: Optional
+
+|HistAcc=
+Historical 75 mm CN 75-50 gun is missing. F16 AMX 13 75  This can only be found on the [[AMX 13 90]]. F16 AMX 13 75 
+* Both engines are considerably more powerful than in real life, with 300-400 hp compared to the historical 275-280 respectively. F16 AMX 13 75 
+* Both engines were only intended for export like Israel, Indonesia and Singapore. F16 AMX 13 75  Furthermore, France retired the AMX-13 in the 1970s; both engine upgrades took place in the 1980s. F16 AMX 13 75 
+* Historical [[Engine#SOFAM 8 Gxb|SOFAM 8 Gxb]] engine with 250 hp is missing. F16 AMX 13 75  This was the AMX-13's original engine. F16 AMX 13 75 
+* The 75 mm SA50 is actually the same gun on the [[Tank:F106_Panhard_EBR_75_Mle1954|Panhard EBR 75 (FL 10)]], yet the penetration, damage and weight values are inconsistent. F16 AMX 13 75  Ammo types are also inconsistent with the Panhard EBR. F16 AMX 13 75 
+
+|HistoricalGallery=
+image:AMX_13_75_Front. F16 AMX 13 75 jpg
+image:AMX_13_75_Rear. F16 AMX 13 75 jpg
+image:AMX_13_75_Right_Side. F16 AMX 13 75 jpg
+image:AMX_13_75_Left_Side. F16 AMX 13 75 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. F16 AMX 13 75 wikipedia. F16 AMX 13 75 org/wiki/AMX-13 History Article (minus comment in italics)
+
+}}

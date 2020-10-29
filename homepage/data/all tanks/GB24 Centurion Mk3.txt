@@ -1,0 +1,87 @@
+{{TankData|Tank=Centurion Mk. GB24 Centurion Mk3  7/1
+|The Centurion Mk. GB24 Centurion Mk3  7/1 was the ancestor of the MBTs (main battle tanks). GB24 Centurion Mk3  It takes the features of the Mk. GB24 Centurion Mk3  I, adopts them and improves upon them greatly. GB24 Centurion Mk3  While its propensity for module and crew damage seems to remain, the new Centurion has somewhat tougher armor both on the hull and turret, which combines with the good gun depression and quick acceleration to make it an even fiercer hill-climber. GB24 Centurion Mk3  But probably most significant is the fact that it is able to mount the Tier X  105mm caliber L7A1 cannon with access to unique HESH ammunition; the Mk. GB24 Centurion Mk3  7/1 possesses a significant edge in terms of alpha damage and penetration. GB24 Centurion Mk3  Thanks to its gun, this tank is able to provide top-tier fire support, and should have no problem contributing to a team above its own tier if it hangs back slightly. GB24 Centurion Mk3  
+
+|Gallery=
+
+File:Centurion Mk. GB24 Centurion Mk3  7 1 scr 1. GB24 Centurion Mk3 jpg
+File:Centurion Mk. GB24 Centurion Mk3  7 1 scr 2. GB24 Centurion Mk3 jpg
+File:Centurion Mk. GB24 Centurion Mk3  7 1 scr 3. GB24 Centurion Mk3 jpg
+
+
+|Sidebar_Camostop=11. GB24 Centurion Mk3 70
+|Sidebar_Camomove=8. GB24 Centurion Mk3 90
+|Sidebar_Camofire=2. GB24 Centurion Mk3 60
+|Sidebar_Passhard=0. GB24 Centurion Mk3 959
+|Sidebar_Passmed=1. GB24 Centurion Mk3 055
+|Sidebar_Passsoft=1. GB24 Centurion Mk3 822
+|Sidebar_DispTurret=0. GB24 Centurion Mk3 173
+|Sidebar_DispRecoil=3. GB24 Centurion Mk3 836
+|Sidebar_DispAccel=0. GB24 Centurion Mk3 173
+|Sidebar_DispTurning=0. GB24 Centurion Mk3 173
+
+|InTheGame_pros=
+* Excellent top gun - good alpha damage, penetration, shell velocity and accuracy
+* Premium ammunition are HESH, with high alpha damage and good penetration
+* Strong turret armor and great gun depression, excellent in hull-down positions
+* Good acceleration and agility
+* Excellent base viewrange
+
+|InTheGame_cons=
+* Low DPM and very poor gun handling
+* No premium ammo penetration increase with the top gun
+* Large target with a poorly armored hull
+* Poor camouflage
+* Vulnerable to module/crew critical hits
+
+|InTheGame_performance=
+The key to playing this tank is taking all the lessons learned from the Comet and the Centurion Mk. GB24 Centurion Mk3  I and applying them to an even further extent. GB24 Centurion Mk3 
+Using your gun depression is a great way to hide the bulky hull while still providing view range and fire power to the team. GB24 Centurion Mk3 
+Your gun is sure to be the quickest and might even be the most hard-hitting on your entire team, and you have the ability to take cover very well, so make use of this. GB24 Centurion Mk3  Unlike the Cromwell and Comet, you should not even consider acting as a scout, since your cannon is much too valuable to be lost in an early skirmish. GB24 Centurion Mk3  Instead, follow the main line and set up deadly long-range fire support, using cover at every opportunity. GB24 Centurion Mk3  Your gun's brilliant aim time and high muzzle velocity also make you a very effective scout-killer. GB24 Centurion Mk3  For later-game encounters, one should consider utilizing the HESH rounds which will decimate soft-skinned targets and hurt those bigger, badder ones seriouly if hit in softer parts. GB24 Centurion Mk3   
+
+For players who prefer DPM over alpha damage, the 20-pounder Type B is a viable alternative to the 105 mm gun. GB24 Centurion Mk3  It has nearly twice the rate of fire and the penetration of the standard ammunition, while not nearly as good as for the 105 mm, is still better than e. GB24 Centurion Mk3 g. GB24 Centurion Mk3  on the [[M46 Patton]], while the penetration on the premium rounds is nearly as good as that on other tier 9 medium tanks. GB24 Centurion Mk3 
+
+|InTheGame_research=
+The stock suspension is very weak and does not allow for a full set of equipment, even with only stock modules mounted. GB24 Centurion Mk3  If you are willing to spend the 10 gp demounting penalty it is worthwhile to mount Enhanced coil springs until you have unlocked the upgraded suspension. GB24 Centurion Mk3  
+Both 20-pounder guns are still effective at Tier 9 and will make the grind relatively painless. GB24 Centurion Mk3 
+* Suspension
+* B-barrel cannon
+* Upgraded turret
+* L7A1 cannon
+* Engine
+* Radio
+
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents, Binocular Telescope
+
+|External_Reviews= 
+{{#ev:youtube|jUzCBknNHPI}}
+
+|History=
+In 1943, the Directorate of Tank Design was asked to produce a new design for a heavy cruiser tank under the General Staff designation A41. GB24 Centurion Mk3  After a series of fairly marginal designs in the A series in the past, and bearing in mind the threat posed by the German 88 mm gun, the War Office demanded a major revision of the design requirements, specifically: increased durability and reliability, and the ability to withstand a direct hit from the German 88 mm gun withn a maximum weight of 40 tons. GB24 Centurion Mk3  The hull was to offer more protection against mines and top speed was not vital while agility was to be equal to that of Comet. GB24 Centurion Mk3  A high reverse speed was also required. GB24 Centurion Mk3 
+
+==Development history==
+
+The department responded by extending the long-travel five-wheel suspension used on the Comet with the addition of a sixth wheel and an extended spacing between the second and third wheels. GB24 Centurion Mk3  The Christie suspension, with vertical spring coils between side armour plates, was replaced by a Horstmann suspension with external horizontal springs. GB24 Centurion Mk3  The hull was redesigned with welded, sloped armour and featured a partially cast turret with the highly regarded 17 pounder as the main gun and a 20 mm Polsten cannon in an independent mounting to its left. GB24 Centurion Mk3  With a Rover-built Rolls-Royce Meteor as used on the Comet and Cromwell, the new design would have excellent performance. GB24 Centurion Mk3 
+
+Shortly after the programme commenced, it became clear that the requirement to withstand 88 mm weapons would be impossible to meet within the permitted weight. GB24 Centurion Mk3  The original specification had been set so that the A41 could be carried on the existing Mark I and Mark II transport trailers, which were limited to a 40-ton load. GB24 Centurion Mk3  The War Ministry decided it would be wiser to build new trailers, rather than hamper what appeared to be a superb design. GB24 Centurion Mk3  Even before prototypes of the original 40-ton design were completed, the design of a heavier version was well under way. GB24 Centurion Mk3  The new version carried armour equal to the heaviest infantry tanks, and cross-country performance was superior to even the early cruiser tanks. GB24 Centurion Mk3  The A41 was the first British tank that could "do it all", leading to the new designation "universal tank". GB24 Centurion Mk3  The design mockup built by AEC Ltd was viewed in May 1944. GB24 Centurion Mk3  Subsequently twenty pilot models were ordered with various armament combinations: ten with 17 pdr and 20mm Polsten gun of which half had a Besa machine gun in the turret rear and half an escape door, five with 17pdr and forward Besa and escape door, and five with QF 77mm gun and driver-operated hull machine gun. GB24 Centurion Mk3  Prototypes of the original 40-ton design, the Centurion Mark I, had 76 mm of armour in the front glacis, which was thinner than the then current infantry tank designs such as the Churchill which had 101 mm, but the glacis plate was highly sloped and so the effective thickness of the armour was very high—a design feature shared by other effective designs such as the German Panther tank and Soviet T-34. GB24 Centurion Mk3  The turret was extremely well armoured at 152 mm. GB24 Centurion Mk3  The tank was also highly mobile, and easily outperformed the Comet in most tests. GB24 Centurion Mk3  The uparmoured Centurion Mark II soon arrived; it had a new 118 mm-thick glacis and the side and rear armourhad been increased from 38 mm to 51 mm. GB24 Centurion Mk3  Only a handful of Mk I Centurions had been produced when the Mk II replaced it on the production lines. GB24 Centurion Mk3  Full production began in November 1945 with an order for 800 on production lines at Leyland Motors, Lancashire the Royal Ordnance Factories at Leeds and Woolwich, and Vickers at Elswick. GB24 Centurion Mk3  The tank entered service in December 1946 with the 5th Royal Tank Regiment. GB24 Centurion Mk3 
+
+Soon after the Centurion's introduction, Royal Ordnance finished work on the Ordnance QF 20 pounder (84 mm) tank gun. GB24 Centurion Mk3  By this point the usefulness of the 20 mm Polsten had been called into question, it being unnecessarily large for use against troops, so it was replaced with a Besa machine gun in a completely cast turret. GB24 Centurion Mk3  The new Centurion Mark III also featured a fully automatic stabilisation system for the gun, allowing it to fire accurately while on the move, dramatically improving battlefield performance. GB24 Centurion Mk3  Production of the Mk 3 began in 1948. GB24 Centurion Mk3  The Mk 3 was so much more powerful than the Mk 1 and Mk 2 that the earlier designs were removed from service as soon as new Mk 3s arrived, and the older tanks were then either converted into the Centurion Armoured Recovery Vehicle (ARV) Mark 1 for use by the Royal Electrical and Mechanical Engineers or upgraded to Mk 3 standards. GB24 Centurion Mk3  Improvements introduced with the Mk 3 included a more powerful version of the engine and a new gunsight and gun stabiliser. GB24 Centurion Mk3  The 20 pounder gun was used only for a short time, until the Royal Ordnance Factories introduced the now legendary 105 mm L7 gun. GB24 Centurion Mk3  All later variants of the Centurion, from Mark 5/2 on, used the L7. GB24 Centurion Mk3  Design work for the Mk 7 was completed in 1953 with production beginning soon afterwards. GB24 Centurion Mk3 
+
+The Centurion was used as the basis for a range of specialist equipment, including combat engineering variants with a 165 mm demolition gun Armoured Vehicle Royal Engineers (AVRE). GB24 Centurion Mk3  It is one of the longest-serving designs of all time, serving as a battle tank for the British and Australian armies from the Korean War (1950–1953) to the Vietnam War (1961–1972), and as an AVRE during the Gulf War in January–February 1991. GB24 Centurion Mk3 
+{{VideoYT|8Qibmb2va6A}}
+|HistAcc=
+The Centurion Mk 7/1 is essentially an uparmoured Centurion Mk 7 with the original 650 hp engine. GB24 Centurion Mk3  The other engine configurations are fake. GB24 Centurion Mk3  More powerful engine configurations were only done by foreign users of the Centurion like South Africa and Israel, but these were diesel and not gasoline. GB24 Centurion Mk3 
+* All variants of the Centurion, from Mark 5/2 on, used the L7A1 gun. GB24 Centurion Mk3  The 20-pdr configurations on the Mk 7/1 is fake. GB24 Centurion Mk3 
+
+|HistoricalGallery=
+image:Centurion Mk. GB24 Centurion Mk3  7. GB24 Centurion Mk3 jpg{{!}}The Centurion Mk. GB24 Centurion Mk3  7/1, side view
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

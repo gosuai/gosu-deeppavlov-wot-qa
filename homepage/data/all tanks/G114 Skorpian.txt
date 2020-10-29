@@ -1,0 +1,54 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+*Second best alpha damage among Tier 8 premium vehicles (after the SU-130PM)
+*Good accuracy and penetration 
+*Good top speed and decent acceleration 
+*Has a fully traversable turret 
+|InTheGame_cons= 
+*Bad traverse speed and horrible ground resistance limit mobility 
+*Awful dispersion values when moving and traversing, can't snapshot 
+*Large size, low healthpool and very thin armor 
+*Long aim time 
+*Disastrously bad camouflage values for a tank destroyer, even when fully maxed out 
+
+|InTheGame_performance= 
+The Skorpion G plays most like a very bloated Rhm. G114 Skorpian -Borsig Waffenträger with substantially better mobility and accuracy at the expense of inferior camouflage, gun handling, and DPM. G114 Skorpian  Thankfully, the mobility, penetration, and alpha damage allow you to remain useful even in tier 9 and 10 battles. G114 Skorpian  As with every low armor tank, you should pay special attention to not getting hit, as most hits will result in damage. G114 Skorpian  Under the right circumstances you can even play the like a medium tank, but it is a fine line between success and failure. G114 Skorpian  Support your team by striking at distracted enemies and vehicles that are still reloading. G114 Skorpian  In some rare instances you can also trade shots, especially versus lower tier mediums with 75mm guns. G114 Skorpian  Due to the horrible dispersion values, snapshots won't connect most of the time. G114 Skorpian  It is really important to let the gun aim, especially since you will be stuck reloading for over 10 seconds. G114 Skorpian  
+
+The 246mm of penetration on the AP rounds allows you to damage most tanks you will encounter reliably, which is especially important for a premium tank, since one typically uses them to earn credits. G114 Skorpian  While it does have great credit earning potential, the same cannot be said for crew training - the crew layout of the Skorpion only matches that of the Tier 4 Marder 38T, and the Commander doubles as the Loader. G114 Skorpian  
+
+It is important to remember that unlike the Rhm. G114 Skorpian -Borsig Waffenträger, the Skorpion G has poor camouflage ratings and a very large silhouette (comparable to the Panther II). G114 Skorpian  Situations in which the Rhm. G114 Skorpian -Borsig Waffenträger could have remained hidden or simply slunk into the nearest ditch to avoid being hit are often certain death for the much larger . G114 Skorpian  This can be partially mitigated with the use of a camouflage net, but you are still likely be spotted after your first shot unless there is substantial foliage cover between you and your target. G114 Skorpian  
+
+At the beginning of the battle you can decide to rush a key location or pick a TD spot. G114 Skorpian  Even if you are doing the latter, watch for gaps on the minimap. G114 Skorpian  Once a gap presents itself, exploit it and use your mobility to flank the enemy and put the pressure on. G114 Skorpian  Due to the mobility, this tank is also nicely suited for cleanup late during a match, just make sure you don't overextend yourself and end up in a spot with no way out. G114 Skorpian  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+Background 
+In early 1942 Wa. G114 Skorpian Prüf 4, the German organization in charge of field artillery, put forward a design requirement for a vehicle to move heavy artillery. G114 Skorpian  The main stipulation was that it should use parts from the new Panther medium tank. G114 Skorpian  A similar competition was already underway for a vehicle to move lighter field artillery, such as 10. G114 Skorpian 5 cm guns, using the Geschützwagen III/IV chassis. G114 Skorpian  This had inspired Wa. G114 Skorpian Prüf 4 to do the same for a vehicle to move heavier 12. G114 Skorpian 8 cm and 15 cm artillery pieces, as the Geschützwagen III/IV was too small to handle them. G114 Skorpian  The guns in question were the 12. G114 Skorpian 8 cm K 43 and 15 cm sFH 43. G114 Skorpian  The sFH 43 (schwerer Feld Haubitze, heavy field howitzer) was a projected improvement on the 15 cm sFH 18, the new gun was to use bagged propellant and had a screw-type breech. G114 Skorpian  The 12. G114 Skorpian 8 cm Kanone 43 is unknown in most literature but is presumably a predecessor to the 12. G114 Skorpian 8 cm K 44 L/55. G114 Skorpian  Neither of these cannons were ever built. G114 Skorpian  In order to keep weight down, the designs were to be open-topped. G114 Skorpian  Prototypes were to be built using Panther parts, but it was projected that any serial production vehicles would be made using the Panther II chassis. G114 Skorpian  This idea was discarded when the Panther II was cancelled in June of 1943. G114 Skorpian  
+
+Both Krupp and Rheinmetall-Borsig took part in this design competition. G114 Skorpian  All designs were able to be transported by rail with a few adjustments, and all could carry at least 30 rounds, however, Rheinmetall’s design had trouble with this. G114 Skorpian  
+
+Design and Fate 
+
+Like Krupp, Rheinmetall-Borsig also presented their first designs on the 1st of July, 1942. G114 Skorpian  They were the 12. G114 Skorpian 8 cm K 43 (Sfl. G114 Skorpian ) Rheinmetall-Borsig (indexed Gerät 5-1213), and 15 cm sFH 43 (Sfl. G114 Skorpian ) Rheinmetall-Borsig (indexed Gerät 5-1530). G114 Skorpian  The vehicles were identical except for armament. G114 Skorpian  Both had a 360-degree rotating turret and a hydraulic gun dismounting mechanism designed by Daimler-Benz, similar to that used on the Heuschrecke 10. G114 Skorpian  
+On January 7th, 1943, Rheinmetall produced three more designs. G114 Skorpian  In reality, these were the same vehicle, but with different armaments. G114 Skorpian  The vehicles had centrally mounted, 360-degree rotating, dismountable turrets. G114 Skorpian  The chassis was that of a Panther, extended to a wheelbase of 4,220mm. G114 Skorpian  They were designated 15 cm sFH 43, 12. G114 Skorpian 8 cm K 43 and 12. G114 Skorpian 8 cm P 43. G114 Skorpian  On or around the 24th of February, 1943, Rheinmetall’s entry for the Selbstfahrlafette für 12. G114 Skorpian 8 cm K 43 und 15 cm sFH 43 Project was assigned the cover name “Skorpion”. G114 Skorpian  
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

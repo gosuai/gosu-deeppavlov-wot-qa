@@ -1,0 +1,49 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Т-34-85М scr 1. R108 T34 85M jpg
+File:Т-34-85М scr 2. R108 T34 85M jpg
+File:Т-34-85М scr 3. R108 T34 85M jpg
+
+
+|InTheGame_pros=
+* Nice front armor can easily deflect most lower tier shots
+* High rate of fire & DPM with above average alpha on a medium tank
+* Unlike the Rudy, it has a five-men crew setup allowing more efficient training of mid-tier Russian medium crews
+
+|InTheGame_cons=
+* Below average traverse speed (turret and hull)
+* Retains the turret of regular T-34-85, with weak gun mantlet
+* Low module health
+* No premium matchmaking: will meet Tier 8 opponents on occasion
+
+|InTheGame_performance=
+Plays very similar to the in-game [[T-34-85]]. R108 T34 85M  The front armor is much thicker than the stock tanks with the same sloping, allowing a surprising number of bounces that the standard [[T-34]] would have eaten. R108 T34 85M  As the historical description alludes to, the suspension/tracks were the weak point, making this tank slightly less mobile than the standard -85. R108 T34 85M  This makes turning and maneuvering seem sluggish, although if you are using it as a crew trainer for your upper-tier crew the added skills and perks should mitigate this. R108 T34 85M  As to crew training, the tank contains the same crew slots as the regular -85. R108 T34 85M  This means if you've left the low tiers behind you will have to find a Radio Operator to fill that slot. R108 T34 85M  All in all this tank plays like the [[M4A3E2 Sherman Jumbo|E2]] version of the [[M4 Sherman|Sherman]], whereas the regular T-34-85 is closer to the [[M4A3E8 Sherman|E8]]. R108 T34 85M  
+Compared to the other premium Soviet tier 6 medium tank, the [[T-34-85 Rudy]], the T-34-85M has less mobility, but better DPM and hull armor and a slightly better camo-rating and radio range. R108 T34 85M  The T-34-85M also has a five-men crew, which makes it a more effective crew trainer. R108 T34 85M 
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+Tank Gun Rammer, Enhanced Gun Laying Drive, Coated Optics, Vents ,Binocular Telescope, Camouflage Net, 
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+
+|HistAcc=
+Uses the same 85 mm ZiS-S-53 second gun as the [[T-34-85]]. R108 T34 85M  However, their penetration values are more consistent with top gun of the [[T-34-85]] 85mm D5T-85BM
+
+|HistoricalGallery=
+
+|Ref_references=
+
+|Ref_sources=
+* Максим Коломиец (Maksim Kolomiec) – Т-44 и другие наследники «тридцатьчетверки» (T-44 and other descendants of the “thirty-four”)
+
+|Ref_links=
+* https://ftr. R108 T34 85M wot-news. R108 T34 85M com/2014/08/02/t-34-85m-upcoming-soviet-premium-tank/
+
+}}

@@ -1,0 +1,78 @@
+{{TankData|Tank=VK 36. G15 VK3601H 01 (H)
+
+|This tank was the first prototype of [[Germany]]'s [[Pz. G15 VK3601H Kpfw. G15 VK3601H  VI Tiger]]. G15 VK3601H  It's a average combat tank,  without any particular strongpoint. G15 VK3601H  It is very prone to being ammo racked and having its crew members killed. G15 VK3601H  Since the armour is not sloped at all, it is always recommended to partially angle your armour to 30 degrees in this tank. G15 VK3601H  
+
+Patch 8. G15 VK3601H 8 changed the VK 36. G15 VK3601H 01 (H) from a agile great medium tank into a slow cumbersome heavy. G15 VK3601H  While it received an DPM and HP buff, the tank on overall is performing significantly worse now. G15 VK3601H  
+
+|Gallery=
+image:VK3601H_front_view_1. G15 VK3601H jpg{{!}}Front right
+image:VK3601H_front_view_2. G15 VK3601H jpg{{!}}Front left
+image:VK3601H_back_view_1. G15 VK3601H jpg{{!}}Rear right
+image:VK3601H_back_view_2. G15 VK3601H jpg{{!}}Rear left
+image:PzVK36-1. G15 VK3601H jpg{{!}}Pz VK 36. G15 VK3601H 01 (H), map Karelia
+
+|InTheGame_pros=
+- Diamond angling will make you tough to pen. G15 VK3601H  at and below tier
+
+- Very high HP pool (1200 with top turret), only succeded by TOG II
+
+- Good view range and acceptable radio
+
+- Very high top speed (Will need some time due to somewhat low HP/Ton ratio however)
+
+- Top 7. G15 VK3601H 5 cm carries over from its predecessor, but is still reasonably powerful with high DPM)
+
+|InTheGame_cons=
+- Sluggish acceleration and traverse due to subpar Pow-to-Wt ratio (can pivot, however)
+
+- Weaker armor at the sides (only 60mm), careful not to exceed 30-45° angle
+
+- 8. G15 VK3601H 8 cm gun has better alpha, but poor accuracy and iffy penetration (only useful at tier VI)
+
+- 7. G15 VK3601H 5 cm gun has the worst alpha of the tier VI heavies
+
+- Terrible when stock ( The 10. G15 VK3601H 5 cm howitzer is just not acceptable anymore )
+
+|InTheGame_performance=
+The transformation into a Heavy Tank was not good for the VK 36. G15 VK3601H 01 H. G15 VK3601H  Its armor remains worthless and the DPM increase cannot compensate for the fact that the 8,8 cm gun is a very poor choice compared to competing heavies on the tier. G15 VK3601H  The 8,8 cm guns lack the accuracy to make its poor penetration work and its unimpressive alpha means that there are tier 5 tanks that can out trade you. G15 VK3601H  Hitpoints may be above average, but then the majority of tier 4 tanks can hurt you at any range. G15 VK3601H  The armor is so lousy, you have the real risk of getting oneshotted by 150mm howitzers found on the KV2 and O-I. G15 VK3601H  The 7. G15 VK3601H 5 cm gun is much better, but its alpha damage is not suited for a heavy tank brawling gamestyle. G15 VK3601H  For a sniper, the camo rating of the tank is far to bad. G15 VK3601H  Sidescraping can work due to the armor scheme. G15 VK3601H  
+
+The VK 36. G15 VK3601H 01 (H) doesn't have the best maneuverability and has horrible turret traverse. G15 VK3601H   While its top speed is only slightly slower than most medium tanks of its tier, its traverse speed is abysmal. G15 VK3601H   The 8. G15 VK3601H 8 engine changes have also given the tank sluggish acceleration, and simply cannot dream of reaching its top speed unless going downhill. G15 VK3601H  This makes the VK 36. G15 VK3601H 01 (H) much better suited to frontal attacks and slug matches. G15 VK3601H  It follows the German doctrine of long range firepower, so one way to counter this tank is to isolate it and then engage it close up with multiple opponents. G15 VK3601H  When the situation calls for it or when you see an opening in the enemy's defenses, take advantage of this opening and harass the enemy from the rear. G15 VK3601H  This tactic is useful in the mid-late game, and has the advantage of surprise, as the enemy team will most likely not expect a "slow and lumbering pseudo-Tiger" to execute a flanking attack. G15 VK3601H 
+
+
+|InTheGame_research=
+* Can use the excellent 7,5/5,5 cm Waffe 0725, which has excellent accuracy, penetration and DPM. G15 VK3601H 
+* Can use the 8. G15 VK3601H 8 cm KwK 36 L/56 which has better but still bad alpha damage at the cost of everything else. G15 VK3601H   
+* If you came from the VK 30. G15 VK3601H 01 (H) you should have all the guns already unlocked except for the 8. G15 VK3601H 8 cm KwK 36 L/56, and the Waffe can be used on the stock turret. G15 VK3601H  If you came from the Pz IV you will have to start with the 105 howitzer unless the 7,5 cm KwK 42 L/70 was researched from another line. G15 VK3601H 
+* Research the Waffe gun if you don't have it. G15 VK3601H  If you really can't stand the 105, you can stop for the 7,5 cm KwK 42 L/70 first as it costs less than half the XP. G15 VK3601H 
+* Research the suspension, You can only mount a 7. G15 VK3601H 5cm gum on the stock suspension. G15 VK3601H 
+* Research the turret and engine in whichever order you prefer. G15 VK3601H  The turret will add a whopping 190 HP to the tank and increase the RoF on the 7. G15 VK3601H 5 cm guns, while the engine will help with the sluggish mobility. G15 VK3601H 
+* You can skip the 7,5 cm KwK 42 L/70 entirely if you got the Waffe first as it gets researched for free upon unlocking the Tiger. G15 VK3601H 
+* Go from there. G15 VK3601H 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Coated Optics
+
+|History=
+On 9 September 1938, Henschel received permission to continue their work on the DW II. G15 VK3601H  Two similar designs were created, the lighter (32 tons) [[VK 30. G15 VK3601H 01 (H)]] and later, the heavier (40 tons) VK36. G15 VK3601H 01(H). G15 VK3601H  Both resembled [[Pz. G15 VK3601H Kpfw. G15 VK3601H  IV|PzKpfw IVs]] in their hull design, but their running gear was of a new design that consisted of overlapping road wheels. G15 VK3601H  [[VK 30. G15 VK3601H 01 (H)]] medium and VK 36. G15 VK3601H 01 (H) heavy tanks had many parts in common, making their production and service much easier. G15 VK3601H  
+
+Only four [[VK 30. G15 VK3601H 01 (H)]] prototypes were produced, two in March 1941 and two in October 1941. G15 VK3601H  All were completed in 1942 by Henschel. G15 VK3601H  In early 1942, one prototype VK 36. G15 VK3601H 01 (H) was built, along with 5 prototype chassis. G15 VK3601H  Originally, it was planned to mount the [[VK 30. G15 VK3601H 01 (H)]] with a turret armed with the 75mm L/24 or 105mm L/28 gun, but none of the prototypes were actually fitted with turrets. G15 VK3601H  The VK 36. G15 VK3601H 01 (H) was to be armed with the 75mm KwK 42 L/70 (Gerat 725), the 88mm KwK 36 L/56 (mounted in the VK 45. G15 VK3601H 01 (P)'s turret), or the 105mm L/20 or L/28 gun. G15 VK3601H  But just as with the [[VK 30. G15 VK3601H 01 (H)]], it was never armed with any weapon. G15 VK3601H  
+
+Both designs were completed as prototypes, but their further development was cancelled in 1942 in favor of the development of the VK 45. G15 VK3601H 01 (P) that later became the [[Pz. G15 VK3601H Kpfw. G15 VK3601H  VI Tiger|Tiger 1]]. G15 VK3601H  Turrets produced for both designs were never mounted and instead, in 1944, six [[VK 30. G15 VK3601H 01 (H)]] turrets were used in permanent fortifications: Panzerstellung/Turmstellungs of the Atlantic and West Wall. G15 VK3601H  Their running gear was later modified and used as a base for the Tiger and Panther's running gear. G15 VK3601H  
+
+In March 1941, two [[VK 30. G15 VK3601H 01 (H)]]s were ready and from August 1941 to March 1942, were converted into 128mm Pak 40 L/61 gun carriers, the Selbstfahrlafette 12. G15 VK3601H 8cm. G15 VK3601H  Another two prototypes completed in October 1941 remained in Henschel's factory in Haustenbek and were used as recovery, training, and test vehicles. G15 VK3601H  The VK 36. G15 VK3601H 01 (H) prototypes were used as recovery and towing vehicles. G15 VK3601H  The [[VK 30. G15 VK3601H 01 (H)]] and VK 36. G15 VK3601H 01 (H)'s design led to the subsequent development of Henschel's Tiger I. G15 VK3601H 
+
+|HistoricalGallery=
+image:VK 3601(H) during tests. G15 VK3601H . G15 VK3601H jpg{{!}}VK 36. G15 VK3601H 01(H)prototype during tests
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. G15 VK3601H achtungpanzer. G15 VK3601H com/heu. G15 VK3601H htm
+
+}}
+
+[[Category:German Tanks]]

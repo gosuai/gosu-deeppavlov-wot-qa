@@ -1,0 +1,70 @@
+{{TankData|Tank=
+|The T23E3 was first awarded to the top 6000 players during the "World on Fire" mini-campaign. A86 T23E3  Due to this, it is not visible in the tech tree nor the in-game store and it makes this tank quite a mysterious machine. A86 T23E3  
+
+Like most American medium tanks, it is a jack-of-all-trades-master-of-none. A86 T23E3  However, this tank is also very different in that it has a very hasty reload, low pressure and low caliber gun that make it much more akin to British mediums such as the [[Cromwell]] or [[Comet]]. A86 T23E3  Its armor is very similar to most other American medium tanks: it can not be relied upon. A86 T23E3  Furthermore, it features that excellent gun depression American tankers are accustomed to and tops it off with very decent soft statistics and mobility. A86 T23E3 
+
+Patch 9. A86 T23E3 12 saw this tank buffed with increased penetration of both standard and Premium shells: from 128 to 149mm, and 177 to 190mm respectively. A86 T23E3 
+
+|Sidebar_Camostop=
+|Sidebar_Camomove=
+|Sidebar_Camofire=
+|Sidebar_Passhard=0. A86 T23E3 575
+|Sidebar_Passmed=0. A86 T23E3 671
+|Sidebar_Passsoft=1. A86 T23E3 055
+|Sidebar_DispTurret=0. A86 T23E3 096
+|Sidebar_DispRecoil=2. A86 T23E3 589
+|Sidebar_DispAccel=0. A86 T23E3 192
+|Sidebar_DispTurning=0. A86 T23E3 192
+
+
+|Gallery=T23E3. A86 T23E3 png
+
+|InTheGame_pros= 
+* Great gun depression
+* Low reload time and high DPM
+* Very fast reverse speed, allowing for a speedy reverse escape. A86 T23E3 
+* Surprising accuracy on the move
+* Preferential matchmaking (no tier 9 battles)
+
+|InTheGame_cons=
+* Turret armor and mantlet do not overlap significantly
+* Poor terrain resistances, and sluggish turning
+* Low damage per shot
+
+|InTheGame_performance=
+The T23E3, affectionately known as the "Unicorn" is a tier seven premium medium tank. A86 T23E3  The Unicorn was designed as a successor to the T-20 and has a very similar playstyle. A86 T23E3  In its playstyle, it is very similar to the Comet in that it also relies greatly upon gun depression, rate of fire and flanking. A86 T23E3  It is worth noting that the T23E3 has one of the highest DPM's in tier 7 medium tanks and is only outclassed by the [[Comet]]. A86 T23E3  The T20 is quite a bother to drive with the stock 76mm but this issue is not present in the T23E3 as it has preferential matchmaking. A86 T23E3  Like the T20, it is quite sluggish while driving and requires some getting used to. A86 T23E3  It has surprising accuracy while moving, hitting most of its shots at medium range. A86 T23E3  The "Unicorn" gets its name from having very great stats on paper, but still being very difficult to use correctly. A86 T23E3  
+
+A side note is that the T23 turret is virtually identical to the upgraded turret of the [[M4 Sherman]] and the [[M4A3E8 Sherman]]. A86 T23E3  This is because the T23's turret was used when Shermans should have been equipped with the 76mm M1A1 and the 76mm M1A2 since both tanks share the same turret ring. A86 T23E3  
+
+|InTheGame_research=
+
+|InTheGame_equipment= Vertical Stabilizer, Tank Gun Rammer, Coated Optics, Vents
+
+|History=
+
+Like the T20 and T22, T23s with the 75 mm automatic gun and 3-inch gun were planned but never constructed. A86 T23E3  The T23 was the first of the T20 series prototypes completed and was found to be highly maneuverable. A86 T23E3  The Design was classified "limited procurement" in May 1943 and 250 T23s were ordered, although the design was never standardized or issued to front line units. A86 T23E3  Production models featured the T80 turret that would later be used in modified form on the up-gunned M4 variants. A86 T23E3  The T23 was not adopted for service partly because of its untried transmission system and partly because the design had poor weight distribution and excessive ground pressure. A86 T23E3  In an attempt to rectify this, two further variants were ordered, the T23E3 with torsion bar suspension and the T23E4 with horizontal volute suspension. A86 T23E3  The T23E4 was canceled before the design was completed, but the T23E3 prototype was completed and the Torsion bar suspension was found to have reduced the ground pressure by 20% compared to the T23. A86 T23E3 
+
+|HistoricalGallery=
+T23 Prototype 1. A86 T23E3 jpeg{{!}}T23 with vertical volute suspension. A86 T23E3 
+T23E3 Medium tank 01. A86 T23E3 png{{!}}T23E3 with torsion bar suspension. A86 T23E3 
+
+|Ref_references=
+
+|Ref_sources=
+
+* Hunnicutt, R. A86 T23E3 P. A86 T23E3 , 1971, '''<i>Pershing: A History of the American Medium Tank T20 Series</i>''', Presidio Press, 240p,  ASIN:B0006CEM9W
+
+
+|Ref_links=
+
+* https://www. A86 T23E3 wwiivehicles. A86 T23E3 com/usa/tanks-medium/t23. A86 T23E3 asp
+
+* https://en. A86 T23E3 wikipedia. A86 T23E3 org/wiki/T23_series#T23_series
+
+* https://en. A86 T23E3 wikipedia. A86 T23E3 org/wiki/M4_Sherman#U. A86 T23E3 S. A86 T23E3 _production_history
+
+* https://ftr-wot. A86 T23E3 blogspot. A86 T23E3 cz/2013/06/the-t23-medium-tankhistory-and. A86 T23E3 html
+
+}}
+
+[[Category:USA Tanks]]

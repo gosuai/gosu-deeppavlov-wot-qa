@@ -1,0 +1,89 @@
+{{TankData
+|Tank=Ch16_WZ_131
+|
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=16. Ch16 WZ 131 5
+|Sidebar_Camomove=16. Ch16 WZ 131 5
+|Sidebar_Camofire=3. Ch16 WZ 131 6
+|Sidebar_Passhard=0. Ch16 WZ 131 575
+|Sidebar_Passmed=0. Ch16 WZ 131 671
+|Sidebar_Passsoft=1. Ch16 WZ 131 342
+|Sidebar_DispTurret=0. Ch16 WZ 131 153
+|Sidebar_DispRecoil=3. Ch16 WZ 131 836
+|Sidebar_DispAccel=0. Ch16 WZ 131 153
+|Sidebar_DispTurning=0. Ch16 WZ 131 153
+
+|InTheGame_pros= 
+- Painless stock grind, most of its stats are fairly decent for a stock LT. Ch16 WZ 131 
+
+- Very fast and nimble; easily maintains at least 45 km/h even when making wide turns
+
+- Great Gun elevation (20 degrees)
+
+- Decent accuracy when stationing
+
+- After the 9. Ch16 WZ 131 18 patch, the progress of researching it is faster (only one gun to research, instead of something like 4). Ch16 WZ 131 
+|InTheGame_cons= 
+- Prone to multiple module and crew damage due to modules being cramped together; ammo rack is weak and explodes easily
+
+- Extremely fragile fuel tanks, will catch a fire very often
+
+- Poor gun depression like many higher tier Chinese tanks
+
+- Fairly sluggish on hill with stock engine, as well as no longer having the 100mm (250 alpha). Ch16 WZ 131 
+
+- Awful DPM, alpha, shell velocity, and reload time on both guns
+
+- Lose A LOT of accuracy when moving 
+
+|InTheGame_performance=
+The WZ-131 is best played as a light medium. Ch16 WZ 131  It is a fast, low profile light tank that has the gun and speed to deal a good sum of damage on the run. Ch16 WZ 131  It is a good passive scout, but that is not recommended on most maps; because the WZ-131 has good speed and maneuvers quite well, it is a good support/flanking tank. Ch16 WZ 131  
+
+Your speed is your advantage – use it wisely when fighting your opponents – your good maneuverability means that you lose very little speed while turning and you can easily circle lone heavy tanks or tank destroyers with poor turret and/or track traverse. Ch16 WZ 131 
+
+Keep in mind that the WZ-131 is "not" a scout, but more of a speedy medium with the camouflage bonus (and armour) of a Light tank. Ch16 WZ 131  Spotting targets for the team is still just as useful as before, but don't forget that you have a gun with enough penetration to go through the front of most Tier 7 heavy tanks, so don't be afraid to add some firepower of your own to the board when you get the chance. Ch16 WZ 131  
+
+Don't let yourself end up in bad situations however, the firepower on this light tank does not compensate for the lack of armor. Ch16 WZ 131  Even though this tank isn't one of the taller vehicles in game, its profile from the front and sides is quite wide, making it an easy target for the enemy to hit, so it is essential to use nearby cover to your advantage. Ch16 WZ 131 
+|InTheGame_research=
+*The WZ-131 no longer shares components with the Type-58 and now provides a fairly painless stock grind, particularly with the boost from  the second engine, which should be prioritized. Ch16 WZ 131  On the whole the research for this tank is very straightforward, with a simple line that has the top turret and gun and then follows on to the WZ-132. Ch16 WZ 131 
+
+
+*The stock suspension can handle all the upgraded equipment in terms of load limit, but you might want to get it for the extra 2 deg/s traverse speed. Ch16 WZ 131 
+
+
+*The stock radio is decent enough, but it is recommended to get the next radio, seeing as the WZ-131 is a tier 7 scout; it will see tiers 7-10, so the radio may come in handy. Ch16 WZ 131  
+
+
+|InTheGame_equipment= Vertical Stabilizer Mk 1, Coated Optics, Binocular Telescope, Camouflage net, Vents, Medium-Caliber Tank Gun Rammer
+
+
+|Gallery=
+
+
+|History=
+The Chinese long focused on swift maneuverable vehicles. Ch16 WZ 131   Rather than ploughing all their resources into building heavier and heavier vehicles like the western nations, they instead opted to pack as much punch into light skirmishing vehicles as possible. Ch16 WZ 131   The Type 59 proved to be a success in this regard, and so the Chinese engineers started to look for ways to evolve the concept even further. Ch16 WZ 131 
+
+The Type 62 was the next generation of Chinese skirmishing vehicles. Ch16 WZ 131   Several variants were produced – one of the more successful versions was known as the WZ-131. Ch16 WZ 131 
+
+The Type 62 was basically a cut down version of the Type 59. Ch16 WZ 131   It had lighter armour, a smaller size and an 85 mm gun. Ch16 WZ 131   The aim was for it to be a modern flexible machine capable of taking on infantry and other light vehicles. Ch16 WZ 131 
+
+Production began in 1958 and continued right up until 1989. Ch16 WZ 131   Nearly 1,400 vehicles were produced during this time. Ch16 WZ 131 
+
+The tank first saw combat during the Vietnam War and were widely used by the Vietnam People’s Army. Ch16 WZ 131   However, problems were encountered – the tank’s thin armour was simply too weak to withstand attacks, particularly by rocket-propelled grenades. Ch16 WZ 131 
+
+The tank was successfully exported to numerous nations across eastern Asia and Africa. Ch16 WZ 131   Many Type 62 / WZ-131 tanks are still in service today, although in China, they are currently in the process of being decommissioned. Ch16 WZ 131 
+
+|HistoricalGallery=
+WZ-131 his 01. Ch16 WZ 131 jpg
+Type 62 (2). Ch16 WZ 131 png
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

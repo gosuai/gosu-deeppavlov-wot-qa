@@ -1,0 +1,87 @@
+{{TankData|Tank=Pz38t
+|Visually, it's not that different than its predecessor, the [[Pz. G08 Pz38t Kpfw. G08 Pz38t  35 (t)]]. G08 Pz38t  It offers increased top speed and mounts a more powerful gun, but sacrifices traverse speed and has 1mm thinner armor on the sides and rear. G08 Pz38t 
+
+|InTheGame_pros=
+* Excellent top gun in all respects (alpha, penetration, accuracy, fire rate and aim time)
+* APCR ammo has generous 115mm of penetration and comparatively low cost of 800 credits, remains competitive even in tier 5 games
+* Good view and signal range
+* Excellent gun depression
+* Compact size and good camo values
+
+
+|InTheGame_cons=
+* Low top speed and traverse speed
+* Low ammo capacity
+* Thin armor
+
+|InTheGame_performance=
+This tank was designed as a combat tank, not a scout, so gauge its speed and maneuverability accordingly. G08 Pz38t  The traverse speed is vastly inferior to the Pz. G08 Pz38t Kpfw. G08 Pz38t  35 (t), though the overall maneuverability and handling characteristics are significantly improved. G08 Pz38t  Fortunately, it has the 4,7 cm Pak 38 L/43 gun, which is probably the highlight of this tank. G08 Pz38t  This gun is insanely light at only 100 kg, yet it's no slouch, with good damage, penetration, accuracy, and rate of fire for this tank's tier. G08 Pz38t  It's roughly equivalent to the 700 kg 5 cm KwK 38 L/42, with 10 less damage, but with slightly better penetration and vastly improved accuracy. G08 Pz38t  While the acceleration could be better, once it gets up to speed, it's able to maintain it well. G08 Pz38t  This means the tank can hit targets while running around quite well. G08 Pz38t 
+
+Unless you're in the top tier, you should avoid head-on engagements. G08 Pz38t  You don't have the armor for it and it means you won't be mobile, which is your best defense. G08 Pz38t  Typically you'll want to play as a support tank if you're not going for the enemy's artillery or acting as a passive scout. G08 Pz38t  Use hull-down positions whenever possible and remain undetected, as you may find yourself quickly destroyed. G08 Pz38t  Stay on the move, relocate often, especially in tier V battles, so the artillery and hostile guns won't pinpoint your location. G08 Pz38t  The good mobility makes this tank a great flanker. G08 Pz38t 
+
+To perform well, exercising caution is important. G08 Pz38t  The Pz. G08 Pz38t Kpfw. G08 Pz38t  38 (t) has fairly thin armor, but its good gun depression, small size and good camouflage factor help alleviate the problem. G08 Pz38t  The 4,7 cm Pak 38 L/43 gun has a great rate of fire, great penetration and good alpha damage, enabling you to dispatch tier II and III enemies with ease and remain competitive even in tier V battles. G08 Pz38t  Guerrilla tactics work very well; use cover, pop out to shoot and minimize exposure to the enemy. G08 Pz38t 
+
+|InTheGame_research=
+* Both the FuG 5 and FuG 8 radios carry over from the PzKpfw 35 (t), as well as the 2 cm Flak 38 L/112 auto-cannon. G08 Pz38t 
+* Upgrade the suspension first for weight capacity, increased traverse speed, and because it's cheap. G08 Pz38t 
+* Next either go for the 4,7 cm PaK 38 (t) L/43 gun or the Praga EPA/3 engine. G08 Pz38t 
+* Now get whichever one you didn't get on the line above. G08 Pz38t 
+* If you haven't researched the FuG 8 yet, do so, because it's a great radio that only weighs 50 kg. G08 Pz38t 
+* Finally, research the Pz. G08 Pz38t Kpfw. G08 Pz38t  38 (t) n. G08 Pz38t A. G08 Pz38t  tank. G08 Pz38t 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Camouflage Net, Binocular Telescope
+
+|Gallery=
+image:Pz 38 1. G08 Pz38t jpg{{!}}PzKpfw 38 (t) front left view
+image:Pz 38 2. G08 Pz38t jpg{{!}}PzKpfw 38 (t) front right view
+image:Pz 38 3. G08 Pz38t jpg{{!}}PzKpfw 38 (t) back left view
+image:Pz 38 4. G08 Pz38t jpg{{!}}PzKpfw 38 (t) back right view
+
+|History=
+[[image:PzKpfw_38(t)_Ausf_S. G08 Pz38t jpg|thumb|200px|right|PzKpfw 38(t) Ausf S]]
+
+The LT(Light Tank) vz. G08 Pz38t (model) 38 was destined to become one of the most widely used Czechoslovakian tanks, although not in Czechoslovak hands. G08 Pz38t  Ordered into production in 1938, the LT-38 drew on the experience from the earlier LT-35 and became the most successful product of the Czechoslovakian industry. G08 Pz38t  LT-38s in different variants was exported to many countries and gained an excellent reputation among its foreign users such as Sweden (THN Sv), Iran / Persia (TNH), Peru (LTP), Switzerland (LTH - Pz39), and Lithuania (LTL). G08 Pz38t 
+
+On March 23rd of 1939, CKD (Ceskomoravska Kolben Danek) delivered single LT-38 tanks to the Royal Armored Corps’ Gunnery School at Lulworth for demonstration, with hopes of selling tanks to the RAC. G08 Pz38t  The demonstration was concluded with a report that stated the following: "On the whole, the machine is almost equivalent to our cruiser tanks, but little experience or experiment has gone into the design of the fighting compartment, and performance has been obtained at the expense of the crew and general fight-ability. G08 Pz38t " The report largely criticized the LT-38 and the RAC did not purchase any tanks from CKD. G08 Pz38t 
+
+The 1938/39 German take-over of the Czechoslovakian state led to the confiscation of 150 LT-38s in production in March 1939, and CKD/Praga was ordered to complete them all. G08 Pz38t  All of them were incorporated into the German Army as the PzKpfw 38 (t) Ausf A - Sd. G08 Pz38t Kfz. G08 Pz38t 140. G08 Pz38t  After the German take-over of Czechoslovakia, the LT-38 became one of the most important tanks used by the Panzertruppe and was retained in production as a tank until June of 1942. G08 Pz38t  During the war, PzKpfw 38 (t)s were exported and saw service with German Allies including: Romania (50), Slovakia (90), Bulgaria (10), and Hungary (102). G08 Pz38t  The PzKpfw 38 (t) also saw service with the Allies. G08 Pz38t  A single tank was captured by the British and French in May / June 1940. G08 Pz38t  Another example (turret number 543) was captured either during the Italian Campaign in 1943 or Normandy in 1944 and was tested in England. G08 Pz38t  Numbers of PzKpfw 38 (t)s were captured and pressed into service by the Red Army. G08 Pz38t  A number of PzKpfw 38 (t)s in service with the Slovak Army participated in the Slovak national uprising in August of 1944. G08 Pz38t  Finally, in May of 1945, the PzKpfw 38 (t), now known as the LT-38/37 (37 standing for 37mm gun,) was back in service with the Czechoslovakian Army as a training tank until the early 1950s. G08 Pz38t 
+
+== PzKpfw 38 (t) ==
+Approximately 1400 PzKpfw 38 (t)s were produced in 8 different variants (Ausf A/B/C/D/E/F/S/G) with various modifications, improved armor protection, and armed with Czech-made 37mm Skoda A7 vz. G08 Pz38t 38 guns designated by the Germans as 37mm KwK 38(t) L/48 (L/47. G08 Pz38t 8). G08 Pz38t  It is interesting to note that Ausf Ss were vehicles purchased by Sweden, but impounded by the Germans in the Spring of 1940. G08 Pz38t  Instead, Germans granted Scania-Vabis licence and production rights, who in turn produced the Strv m/41. G08 Pz38t  The early model's construction was riveted (and a direct hit on its armor plate could tear rivet heads off and kill or wound the crew), while the later model's construction was largely welded. G08 Pz38t  Later on, earlier models were up-armored and a few were possibly rearmed with the German-made 37mm KwK 35/36 L/46. G08 Pz38t 5 gun, but it is unconfirmed. G08 Pz38t 
+
+A number were also converted to flamethrower tanks by replacing the hull machine gun with a flamethrower, while fuel was supplied from a towed single-axle trailer carrying 200 liters of fuel by a hose. G08 Pz38t  There was also the PzKpfw 38 (t) swimming tank with a prototype AP-1 float, but it never entered production. G08 Pz38t 
+
+Further production of the PzKpfw 38 (t)’s chassis continued with improved models of Ausf H/K/L/M, which were used as a base for various vehicles (such as the Marder III Ausf H/M, Bison/Grille Ausf H/K/M, and Hetzer). G08 Pz38t  In addition, older models returned for repair were often used as a base for a conversion. G08 Pz38t 
+
+PzKpfw 38 (t)s were built under German supervision and saw extensive service in Poland (3rd Leichte Division), Norway (XXXI Armee Korps), France (6th, 7th and 8th Panzer Division), Balkans (8th Panzer Division), and Russia (6th, 7th, 8th, 12th, 19th and 20th Panzer Division). G08 Pz38t  During the fighting in Russia, the need for heavier armor and armament made the PzKpfw 38 (t) inadequate and in 1942, it was relegated to other duties (e. G08 Pz38t g. G08 Pz38t  reconnaissance and service in armored trains). G08 Pz38t 
+
+In September of 1939, plans were laid for the development of a fast/light reconnaissance tank and in early 1942, 15 PzKpfw 38 (t) nAs (neuer Art) were produced by BMM (Praga/CKD), but its design was not accepted for production. G08 Pz38t  In 1942, the usual German process of adapting the chassis for other purposes commenced with vehicles such as the Marder III and Flakpanzer 38(t). G08 Pz38t  In 1942 and 1943, a number of PzKpfw 38 (t)s had their turrets removed and were converted to driver training vehicles that, late in the war, were mounted with wood-burning generators. G08 Pz38t  Training vehicles based on turret-less tanks were designated as PzKpfw 38 (t) Schulfahrwannes and were used by school units of the Wehrmacht and NSKK. G08 Pz38t  Some 351 PzKpfw 38 (t) turrets were used for German fortifications in Norway (75), Denmark (20), Western Atlantic shore (9), Italy (25), Southwest Europe (150), and the Eastern Europe/Front (78). G08 Pz38t 
+
+One of the most interesting conversions was the Aufklärungspanzer 38 (t) - Sd. G08 Pz38t Kfz. G08 Pz38t 141/1. G08 Pz38t  They were used as reconnaissance vehicles fitted with the "Hangelafette" turret (20mm KwK 38 L/55 gun and MG42 - used in armored cars) or armed with the 75mm KwK 37 L/24 (and MG42) gun mounted in the modified superstructure. G08 Pz38t  Only 50 to 70 Aufklärungspanzer 38(t)s armed with the 20mm gun were built from late 1943 to early 1944, and only 2 Aufklarungspanzer 38(t)s, armed with 75mm gun, were built in 1944. G08 Pz38t 
+
+|HistoricalGallery=
+image:Pan38ad. G08 Pz38t jpg{{!}}Pan38ad. G08 Pz38t jpg
+image:PzKpfw_38(t)_pic2. G08 Pz38t jpg{{!}}PzKpfw_38(t)_pic2. G08 Pz38t jpg
+image:PzKpfw_38(t)_pic1. G08 Pz38t jpg{{!}}PzKpfw_38(t)_pic1. G08 Pz38t jpg
+image:Pz38(t)_22d. G08 Pz38t jpg{{!}}Pz38(t)_22d. G08 Pz38t jpg
+image:Pz38(t)_36d. G08 Pz38t jpg{{!}}Pz38(t)_36d. G08 Pz38t jpg
+image:Pz38(t)_37d. G08 Pz38t jpg{{!}}Pz38(t)_37d. G08 Pz38t jpg
+
+|HistAcc=
+There are no historical records of the Panzer 38(t) being armed with either the 2 cm Flak 38 or 4,7 cm Kw. G08 Pz38t K. G08 Pz38t  (t) L/43. G08 Pz38t  
+The stock turret, LT vz. G08 Pz38t  40, was only mounted on export versions, and never on the Panzer 38(t). G08 Pz38t  The only engine ever mounted was a 125 HP 6 cylinder Praga EPA. G08 Pz38t 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. G08 Pz38t achtungpanzer. G08 Pz38t com
+* [https://www. G08 Pz38t vhu. G08 Pz38t cz/exhibit/lehky-tank-praga-lt-vz-38/ Czech Military Museum Lešany]
+* https://panzerwaffe. G08 Pz38t pl
+* https://ftr. G08 Pz38t wot-news. G08 Pz38t com/2014/09/30/fixing-the-panzer-38t-tank-in-hd/
+
+}}

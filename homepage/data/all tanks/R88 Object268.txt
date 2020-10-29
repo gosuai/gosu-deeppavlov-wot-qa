@@ -1,0 +1,237 @@
+{{TankData|Tank=Object268
+|The final advancement of its tank destroyer line, the Object 268 features good mobility, effective camouflage, and very well-sloped frontal armor which makes it tricky to attack from the front. R88 Object268  Its most notable feature, however, is its upgraded 152mm cannon, which boasts extreme penetration, high alpha damage, a decent rate of rate, and, unlike the BL-10 before it, is very accurate. R88 Object268  The Object 268 has worse gun depression than its predecessor, making it a bit more hard to use effectively. R88 Object268  However, when mastered, the Object 268 can be a very potent tier 10 TD. R88 Object268 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Exceptional penetration with both AP (standard) and HEAT (premium) ammunition
+* Good DPM, decent aim time, and very good accuracy
+* Good camouflage values for a rather large vehicle
+* Very good top speed and decent reverse speed, decent acceleration
+* Fairly good armor protection on the frontal arc
+
+
+|InTheGame_cons=
+* The frontal armor has some noticeable weakspots
+* Horrible on the move gun handling
+* Poor gun depression and horizontal gun arc
+
+
+|InTheGame_performance=
+This beast has an astounding 303mm of standard AP penetration, making it one of the highest penetrating guns, excluding end tier artillery vehicles and the [[FV215b (183)]] or [[Tank:GB83_FV4005|FV4005 Stage II]]. R88 Object268  It also has quite a high rate of fire for the damage it can do, giving it one of the highest DPM of all tier X tank destroyers. R88 Object268  
+
+Another noticeable feature of this tank is the extreme accuracy of the gun; and while 268's firepower is devastating, this TD is not without its flaws. R88 Object268  First off, while it is accurate, it follows suit of its predecessors with a long aim time, as well as having worse gun depression than the Object 704; use that 0. R88 Object268 33 accuracy effectively is not easy. R88 Object268 
+Map knowledge is very important with this tank but thankfully the 268 is very mobile, so it can get into positions early and achieve some early shots. R88 Object268 
+
+It is recommended to use Vents and GLD to make the gun handling and gun stats as effective as possible. R88 Object268  Optics is also a viable option to achieve higher view range. R88 Object268  If your crew is not as skilled however, then Binoculars are an okay choice as well. R88 Object268 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment= Tank Gun Rammer, Improved Ventilation Class 3, Enhanced Gun Laying Drive, Binocular Telescope, Coated Optics
+
+
+|History=
+
+'''The Last Soviet Heavy Tank Destroyers'''
+
+In the days of the Second World War, heavy self propelled guns played an important part on the battlefield. R88 Object268  It is not surprising that after the end of the war, heavy SPGs, including tank destroyers, remained a priority for designers from all nations. R88 Object268  It's surprising that only a handful of these vehicles were ever built in metal, and none were mass produced. R88 Object268  The Soviet Union and its Object 268 was no exception. R88 Object268 
+
+
+'''Weight Limit'''
+
+As with heavy tanks, prospective Soviet heavy SPGs were well protected vehicles with long 152 mm guns. R88 Object268  The first requirements for these vehicles were ready in 1945, but work began only a year later. R88 Object268  They were designed on the chassis of the Object 260 (IS-7) and Object 701 (IS-4) tanks. R88 Object268 
+
+The SPG on the IS-4 chassis, indexed Object 715, was meant to use the 152 mm M31 gun developed by factory #172, with identical ballistics to the 152 mm high power Br-2 gun. R88 Object268  The same gun was planned fro the Kirov factory's SPG. R88 Object268  It is unclear what it was called. R88 Object268  Some sources say Object 261, others say Object 263. R88 Object268 
+
+Later, factory #172's design bureau designed an even more powerful gun, indexed M48. R88 Object268  The design was similar to the M31 and even had a similar muzzle brake, but the muzzle velocity was increased to 1000 m/s. R88 Object268  Such a powerful weapon could destroy any enemy tank or pillbox without a problem. R88 Object268  The semi-open casemate Object 262 SPG was planned with the same gun. R88 Object268 
+
+The main obstacle for these plans was the delays of the IS-7 project and problems with mass production of the IS-4. R88 Object268  The last activity on these projects happened in 1947, after which they were put on hold until better days, but those days never came. R88 Object268 
+
+[[File:152_mm_M48_gun. R88 Object268 jpg]]
+
+152 mm M48 gun installed in a heavy SPG. R88 Object268  It is unclear at this moment which vehicle is pictures here. R88 Object268 
+
+On February 18th, 1949, decree #701-270ss was issued by the Council of Ministers of the USSR, which cancelled development and production of all heavy tanks that weighed more than 50 tons. R88 Object268  Along with the IS-4 and IS-7, SPGs on their chassis ceased to exist. R88 Object268 
+
+The same decree ordered ChKZ's SKB-2 and the experimental factory #100 in Chelyabinsk to design a heavy tank weighing less than 50 tons. R88 Object268  This project, designated Object 730, resulted in the IS-5 heavy tank. R88 Object268  The draft was presented in April of 1949, and ChKZ finished assembly of a prototype by September 14th. R88 Object268 
+
+It was logical to develop an SPG on the same chassis, but the designers were in no hurry. R88 Object268  They still remembered what happened with the IS-4 and IS-7. R88 Object268  Work only began when it was clear that the Object 730 was a success and its acceptance into service was not far off. R88 Object268 
+
+[[File:Object_116_with_152_mm_M53_gun. R88 Object268 jpg]]
+
+Object 116 (SU-152P) on trials. R88 Object268  Its 152 mm M53 gun was used by the Kirov factory design bureau for the new SPG. R88 Object268 
+
+Literature dedicated to the T-10 and vehicles on its chassis usually puts the start of work on the SPG on July 2nd, 1952, but the real sequence of events is different. R88 Object268  SPGs are usually designed with a very specific artillery system in mind. R88 Object268  However, the gun that eventually appeared on the Object 268 did not show up in the project until 1. R88 Object268 5 years later. R88 Object268  However, work on the gun began a lot earlier. R88 Object268 
+
+From this point of view, work on the new heavy SPG began in 1946, when factory #172's design bureau began work on the 152 mm M53 gun in parallel with the M31 and M48. R88 Object268  This gun with the muzzle velocity of 760 m/s was meant for the Object 116, also known as SU-152P. R88 Object268  The gun and the SPG were built in 1948. R88 Object268  Trials showed unsatisfactory precision, and the project was shelved. R88 Object268  Today, the SU-152P can be seen in Patriot Park. R88 Object268  This artillery system, in a slightly altered state, was proposed for the prospective SPG. R88 Object268 
+
+[[File:Draft_of_modified_152_mm_M53_gun. R88 Object268 jpg]]
+
+Draft of the M53 gun modified for installation in a heavy SPG, 1952. R88 Object268 
+
+Work on the new vehicle, initially without any kind of designation, was initially headed by P. R88 Object268 P. R88 Object268  Isakov. R88 Object268  The work was being done by the Special Technological Design Bureau (OKTB) of the Kirov factory in Leningrad. R88 Object268  Three variants of the vehicle were developed, two of which were drastically different from the Object 268 that is widely known today. R88 Object268  The fact that the design work began before July of 1952 is confirmed by the dates on the drafts of the 2nd and 3rd variants: April 25th, 1952. R88 Object268  By that time, the main parameters of the vehicle were already known. R88 Object268  One of the requirements was the mass: the new SPG had to weigh less than 50 tons. R88 Object268 
+
+[[File:SPG_on_Object_730_chassis. R88 Object268 jpg]]
+
+SPG on the Object 730 chassis. R88 Object268  This wasn't the first Soviet heavy SPG with a rear fighting compartment - the first was designed by N. R88 Object268 F. R88 Object268  Shashmurin back in 1944. R88 Object268 
+
+Variant #2 of the new SPG had a rear fighting compartment, which allowed the reduction of the hull length of 6675 mm. R88 Object268  Since the entire from of the vehicle was taken by the engine and transmission, the driver sat in the fighting compartment, to the right. R88 Object268  The driver's visibility with this layout was not great. R88 Object268 
+
+These inconveniences were balanced out by the relatively short overhang of the barrel, only 2300 mm. R88 Object268  The front of the casemate was 150-180 mm thick, the sides were 90 mm thick. R88 Object268  The upper front plate was only 75 mm thick, but sloped at 75 degrees. R88 Object268  The vehicle was well protected. R88 Object268  The crew consisted of four men. R88 Object268  In order to ease the loader's job, shells were stored in a loading drum behind the gun. R88 Object268 
+
+[[File:Variant_3_with_rotating_turret_of_Object_268. R88 Object268 jpg]]
+
+Variant #3 with the gun in a rotating turret, April 1952. R88 Object268 
+
+The third variant was no less original. R88 Object268  This was more of a tank than an SPG, but its armour had to be thinned out due to its heavy and powerful gun. R88 Object268 
+
+There was a significant difference between the Object 730 and SU-152 (as it was called in documentation). R88 Object268  The turret had to be designed from scratch, and the turret ring increased from 2100 mm in diameter to 2300 mm in order to accommodate the 152 mm gun. R88 Object268  The maximum thickness of the turret armour was 200 mm. R88 Object268  The ammunition capacity remained at 30 rounds. R88 Object268  Most of the ammunition was placed in the turret bustle, which would ease the loader's job. R88 Object268 
+
+The new turret made changes to the hull also necessary. R88 Object268  The length of the hull increased by 150 mm. R88 Object268  The thickness of the upper sides was reduced to 90 mm, and the lower sides to 50 mm. R88 Object268  This was done to keep the mass within the 50 ton limit. R88 Object268  The upper front plate and rear were reduced to 60 mm and 40 mm respectively. R88 Object268  The SPG had no coaxial gun, but it did have a KPV high caliber AA machinegun. R88 Object268 
+
+By the summer of 1952, the SPG on the Object 730 chassis project already took its shape. R88 Object268  The decree issued by the Council of Ministers on July 2nd approved an already existing project and made some changes to work that was already underway. R88 Object268  Around this time, the index "268" appeared on blueprints, and the SPG was named Object 268. R88 Object268 
+
+'''Soviet Jagdtiger'''
+
+Literature describes five variants of the Object 268, but that is not exactly correct. R88 Object268  The two aforementioned variants were designed before the final draft of the tactical-technical requirements was finished, nor did they carry the 268 index. R88 Object268 
+
+In reality, there were three variants of the vehicle, two of which were an evolution of previously developed drafts. R88 Object268  Both of these variants were ready by December of 1952. R88 Object268  The artillery system that was used in these projects was still under development. R88 Object268 
+
+According to preliminary calculations, the muzzle velocity of its shells would be 740 m/s. R88 Object268  The basis for the project was the M53 gun, mixed with some parts from the M62-T 122 mm tank gun. R88 Object268  The overall mass of this system with no official name was 5100 kg. R88 Object268 
+
+[[File:Variant_4_of_Object_268. R88 Object268 jpg]]
+
+Variant #4 had thicker armour and a roomier fighting compartment which housed 5 crew members. R88 Object268 
+
+The redesigned version of the 2nd variant which was indexed #4 was finished on December 18th, 1952. R88 Object268  This design already had the index 268, and the chief designer was listed as Zh. R88 Object268 Ya. R88 Object268  Kotin himself. R88 Object268  Externally, the 4th variant was similar to the 2nd, but the changes were significant. R88 Object268 
+
+First of all, the length of the hull was increased to 6900 mm, almost the same as on the Object 730. R88 Object268  The length of the barrel overhang was reduced by 150 mm. R88 Object268  The sloped rear of the casemate was straightened out, which increased the available size. R88 Object268  These changes were necessary, as the new technical requirements were for a crew of 5. R88 Object268 
+
+The new crew member was a second loader, positioned behind the commander. R88 Object268  The commander received a new cupola with a rangefinder and a machinegun with a curved barrel. R88 Object268  The driver's station was redesigned, and he received new observation devices. R88 Object268  The loading drum was left alone, but the project authors noted that the increased fighting compartment size meant that an even more powerful gun could be used. R88 Object268  In parallel with the increased fighting compartment size, the armour protection was increased. R88 Object268  The lower front plate was thickened to 160 mm. R88 Object268  The front of the casemate stayed at 180 mm, but 160 mm thick cheeks were positioned at a sharp angle. R88 Object268 The mass of the vehicle remained under 50 tons. R88 Object268 
+
+On December 10th, 1952, the third variant of the SPG was reworked, earning the index #5. R88 Object268  The length of its hull was reduced to the Object 730's length (6925 mm), and the upper sides became curved. R88 Object268  The front of the hull also changed somewhat, but its thickness remained the same. R88 Object268  The decreased length of the hull was achieved by using the V-12-6 engine, which later migrated to the T-10M. R88 Object268  The increased turret ring diameter also made its way over. R88 Object268 
+
+The 4 man turret was also redesigned. R88 Object268  The commander received a rangefinder, but the curved barrel machinegun was given to the loader. R88 Object268  Both reworked projects inherited the KPV AA machinegun. R88 Object268 
+
+[[File:Variant_5_of_Object_268. R88 Object268 jpg]]
+
+Variant #5 differed from variant #3 by a series of small changes and a 5 man crew. R88 Object268 
+
+Neither of these variants made it past the draft stage. R88 Object268  In January of 1953, they were presented to the GBTU Scientific-Technical Committee and Ministry of Transport and Heavy Machinebuilding. R88 Object268  After studying them, member of the committee decided that both projects require substantial changes to the hull and cannot be accepted. R88 Object268 
+
+The commission approved another, much more reasonable project, which required minimal changes to the chassis. R88 Object268  The biggest change was the installation of the more compact V-12-6 engine, which was also used in variant #5. R88 Object268 
+
+The redesigned version of the project was presented in June of 1953. R88 Object268  The commission was also shown a 1:10 scale model. R88 Object268  On August 25th, the Object 268 was approved by Colonel-General A. R88 Object268 I. R88 Object268  Radzievskiy. R88 Object268 
+
+Several sources say that this was the end of the design work, but that was not so. R88 Object268  Of course, the acceptance of the Object 730 into service on November 28th, 1953 had an effect on the development, but work continued. R88 Object268  N. R88 Object268 M. R88 Object268  Chisytakov was assigned as the lead engineer on the project, previously working in Nizhniy Tagil as a head of new projects. R88 Object268  Work on the Object 140 began under his supervision, but for a number of reasons the engineer left Nizhniy Tagil and moved to Leningrad. R88 Object268  The overall management of the project fell to N. R88 Object268 V. R88 Object268  Kurin, a veteran of the Kirov factory and the author of many SPG designs. R88 Object268 
+
+[[File:Draft_of_final_version_of_Object_268. R88 Object268 jpg]]
+
+Draft of the final version of the Object 268, June 1954. R88 Object268 
+
+There was another reason that development of the Object 268 dragged on that is not accounted for by some researchers. R88 Object268  The gun that would be installed on the SPG was still being designed. R88 Object268  Meanwhile, the factory #172 staff did not sit still. R88 Object268  After their M62 122 mm gun which was used on the Object 752 and Object 777 tanks, the designers from Perm started working on 152 mm guns in early 1954. R88 Object268 
+
+Seven years passed since the design of the M53, a modified version of which was going to go into the Object 268, and artillery did not sit still. R88 Object268  A new 152 mm gun, indexed M64, became available. R88 Object268  Its muzzle velocity was almost the same as on the M53 (750 m/s), but the length of the barrel was much shorter. R88 Object268  Since the fighting compartment of the T-10 and Object 268 were positioned in roughly the same place, this was very important. R88 Object268  To compare, the modified M53 had an overall length from the center of the casemate to the tip of the muzzle brake of 5845 mm, while the M64's length was 4203 mm. R88 Object268  The overhang of this new gun was only 2185 mm. R88 Object268 
+
+[[File:Object_268_in_spring-summer_1957. R88 Object268 jpg]]
+
+This was how the vehicle was built in metal. R88 Object268  Spring-summer 1957. R88 Object268 
+
+Officially, the technical project of the M64 was only inspected by the GAU in August of 1954, but the OKTB received information about this new gun much earlier. R88 Object268  The aforementioned thesis that work on the Object 268 ended in the fall of 1953 seems strange when there are blueprints dated late June, 1954. R88 Object268 
+
+The blueprints (overall, there were 37 pages of documentation) showed a vehicle that was very similar to the Object 268 that was later built. R88 Object268  In concept, the vehicle was reminiscent of the German Jagdtiger, which was made as similar as possible to the Tiger B. R88 Object268 
+
+There was a significant difference in that Soviet engineers managed to keep the dimensions of the T-10's hull and its mass. R88 Object268  The Object 268 was also slightly lower than the T-10. R88 Object268  The design inherited a commander's cupola with a rangefinder. R88 Object268  As with the predecessors, the thickness of the sides and rear of the hull had to be reduced, but the sides of the casemate grew to 100 mm. R88 Object268  The protection of the casemate from the front was also very impressive: 187 mm. R88 Object268  The casemate was widened to the dimensions of the hull and was quite roomy. R88 Object268 
+
+'''Between the Past and Future'''
+
+Plans for the Object 268 were finalized in March of 1955. R88 Object268  The due dates for prototypes were also set then. R88 Object268  According to plans, the first prototype was due in the first quarter of 1956, and two more would be build before the 4th quarter. R88 Object268  Sadly, work on new generation heavy tanks began around this time. R88 Object268  Chisytakov became the head of the Object 278 project, which had a direct impact on the development of the new SPG. R88 Object268 
+
+As for factory #172, the new 152 mm M64 was completed in December of 1955. R88 Object268  In February of 1956, after a series of factory trials, the gun with serial number 4 was sent to Leningrad, to the Kirov factory. R88 Object268 
+
+[[File:Front_of_Object_268. R88 Object268 jpg]]
+
+The vehicle looked very impressive from the front. R88 Object268  Surprisingly, it was even lower than the ISU-152. R88 Object268 
+
+These delays meant that the first Object 268 was only ready by the fall of 1956. R88 Object268  Overall, the vehicle was done to the project documentation, but there were some changes. R88 Object268  For example, the curved roof was deleted. R88 Object268  Instead, the SPG received a much simpler roof. R88 Object268  The machinegun with a curved barrel was also removed, the prototype had its port welded over. R88 Object268  The rear of the casemate was also straightened out. R88 Object268  This part was also made removable to facilitate installation and removal of the gun. R88 Object268 
+
+The crew remained the same, at 5 men. R88 Object268  Thanks to the good layout, it was not cramped inside at all, and even a very tall person could work in the SPG. R88 Object268  The ammunition capacity of this high caliber gun was 35 rounds. R88 Object268  The crew's comfort was also improved by features of the gun. R88 Object268  For one, it had a fume extractor, which reduced the amount of gases that ended up in the fighting compartment. R88 Object268  The gun also had a loading mechanism, which made the loaders' jobs easier. R88 Object268 
+
+[[File:Object_268_from_right. R88 Object268 jpg]]
+
+Object 268 from the right. R88 Object268 
+
+Factory trials began in the fall of 1956, and were completed in the spring of 1957. R88 Object268  Overall, the characteristics of the new vehicle were close to calculated ones. R88 Object268  The mobility of the Object 268 was similar to that of the T-10, including its top speed. R88 Object268 
+
+After these trials, the SPG was sent to Kubinka. R88 Object268  Gunnery trials showed that the delays weren't for nothing. R88 Object268  The precision of the gun was superior to that of the ML-20S on the ISU-152. R88 Object268  The gun was also superior in muzzle velocity, range, and rate of fire. R88 Object268 
+
+Alas, none of that mattered. R88 Object268  The order for two more prototypes was cancelled and the first prototype was sent to the NIIBT proving grounds museum. R88 Object268  Currently, the SPG can be seen in Patriot Park. R88 Object268  Recently, the museum staff restored the SPG to working order. R88 Object268 
+
+[[File:Object_268_from_aerial_angle. R88 Object268 jpg]]
+
+From this angle, you can see that the roof differs from the draft blueprints. R88 Object268 
+
+If the Object 268 had come around five years earlier, it would have had a very high chance of being accepted into service. R88 Object268  The vehicle was well designed, comfortable for the crew, and well protected. R88 Object268  However, by 1957, a whole sequence of events made the mass production of this SPG pointless. R88 Object268 
+
+To start, a new generation of heavy tanks was in development since 1955 (Objects 277, 278, 279, and 770), which had very thick armour. R88 Object268  Even the M64 gun would not be enough against them. R88 Object268  GBTU realized that foreign tank designers are also not sitting still. R88 Object268  The prospective SPG was armed with a gun that was already obsolete. R88 Object268 
+
+In addition, a modernization program for ISU-152 vehicles began in the mid-1950s that drastically increased their lifespan. R88 Object268  Unlike the Object 268 which had not started production, these SPGs were available here and no. R88 Object268  Yes, the ML-20S was inferior in all parameters to the M64, but not enough to justify a new SPG. R88 Object268 
+
+Finally, the production of the T-10 was ramping up slowly. R88 Object268  Loading the Kirov factory and ChTZ with SPGs meant that the already narrow trickle of T-10s would be reduced even further. R88 Object268  In addition, factory #172 had yet to master the new gun. R88 Object268 
+
+There was another reason, largely the same one that caused the British to cancel their FV215 and FV4005 heavy SPGs. R88 Object268  By 1956, work on anti-tank guided missiles had already begun. R88 Object268  On May 8th, 1957, the Council of Ministers of the USSR approved work on tanks and SPGs armed with guided missiles. R88 Object268 
+
+Many people mention "bad Khrushchev", but let's face the truth. R88 Object268  An ATGM launcher is much more compact than a gun. R88 Object268  Launching a missile is simpler, and it can be controlled in flight. R88 Object268  With a similar payload, a missile is more effective. R88 Object268  It is not surprising that the Object 268 was the last Soviet heavy assault gun. R88 Object268 
+
+[[File:Draft_of_Object_282T. R88 Object268 jpg]]
+
+Draft of a missile tank destroyer, Object 282T, 1958. R88 Object268 
+
+At the same time, work on SPGs on the T-10 chassis did not stop. R88 Object268  In 1957, the Kirov factory OKTB began work on a vehicle that was indexed Object 282. R88 Object268  It is often called a tank, but in practice, it was a heavy tank destroyer. R88 Object268  It was created to be used with 170 mm "Salamandra" anti-tank missiles, but when NII-48 did not manage to complete them, the armament was changed. R88 Object268  The final configuration, the Object 282T, could be armed with 152 mm TRS-152 missiles (ammunition capacity of 22) or TRS-132 missiles (ammunition capacity of 30). R88 Object268  
+
+[[File:Object_282T_at_trials_1959. R88 Object268 jpg]]
+
+Object 282T at trials, 1959. R88 Object268 
+
+The vehicle that was sent to trials in 1959 differed drastically from its predecessors. R88 Object268  Despite its impressive ammunition capacity and a 2-3 man crew, the tank was shorter than the T-10. R88 Object268  More importantly, its height was only 2100 mm. R88 Object268  The front of the tank was redesigned. R88 Object268  In addition, the designers moved the fuel tanks forward, separating them from the crew with a 30 mm bulkhead. R88 Object268  The tank received a V-12-7 1000 hp engine. R88 Object268  Its maximum speed increased to 55 kph. R88 Object268 
+
+The result was an unusual vehicle, which was killed by its armament. R88 Object268  Trials showed that the Object 282T's Topol control system did not work reliably enough, and the project was cancelled. R88 Object268 
+
+[[File:Object_282K. R88 Object268 jpg]]
+
+The reworked variant, Object 282K, would have looked like this, but it was never built in metal. R88 Object268 
+
+In 1959, the Kirov factory OKTB designed an improved vehicle indexed Object 282K. R88 Object268  Its mass increased to 46. R88 Object268 5 tons, and its height decreased to 1900 mm. R88 Object268  The vehicle was equipped with two TRS-132 launchers (20 missiles each), one per side. R88 Object268  The rear housed a 152 mm PURS-2 missile launcher with 9 missiles. R88 Object268  The fire control system was taken entirely from the Object 282T. R88 Object268  Due to poor results with the Object 282T, the Object 282K remained on paper. R88 Object268 
+
+This was the end of SPGs on the T-10 chassis. R88 Object268 
+
+
+{{VideoYT|_HQYn-hqMr4}}                  {{VideoYT|VYJjEzEeeFg}}
+
+|HistoricalGallery=
+image:Object 268. R88 Object268  note the sloped armor on the front. R88 Object268 jpg{{!}}Object 268. R88 Object268  Note the sloped armor on the front
+image:Object_268_In_Kubinka_museum. R88 Object268 jpg{{!}}Object 268 in Kubinka museum
+image:Object 268. R88 Object268 jpg{{!}}Object 268 side view during trials
+
+|Ref_references=
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://tankarchives. R88 Object268 blogspot. R88 Object268 com/2016/09/the-last-soviet-heavy-tank-destroyers. R88 Object268 html
+* https://warspot. R88 Object268 ru/6864-poslednie-sovetskie-tyazhyolye-istrebiteli-tankov The original article in Russian
+
+|Sidebar_Camostop=16. R88 Object268 6
+|Sidebar_Camomove=10. R88 Object268 0
+|Sidebar_Camofire=4. R88 Object268 3
+|Sidebar_Passhard=1. R88 Object268 055
+|Sidebar_Passmed=1. R88 Object268 247
+|Sidebar_Passsoft=1. R88 Object268 918
+|Sidebar_DispTurret=0. R88 Object268 077
+|Sidebar_DispRecoil=3. R88 Object268 836
+|Sidebar_DispAccel=0. R88 Object268 201
+|Sidebar_DispTurning=0. R88 Object268 201
+}}

@@ -1,0 +1,89 @@
+{{TankData|Tank=105_leFH18B2
+|
+It is the first premium self-propelled gun to be added into the game. F28 105 leFH18B2   Overall it can be compared to the [[AMX 13 105 AM mle. F28 105 leFH18B2  50]], since its gun has about the same damage, accuracy, and range. F28 105 leFH18B2   It makes a valuable addition to firepower on public matches but still loses against opponents like the [[Grille]] for its unmatched accuracy and damage. F28 105 leFH18B2   Many players will feel right at home using this equipment as it can be very forgiving. F28 105 leFH18B2   Its relatively thick armour is able to bounce shots from low tier guns, giving it a better defense against light tanks. F28 105 leFH18B2   The leFH18B2 also weighs in at almost 33 tons, allowing it to destroy light tanks that attempt to ram it. F28 105 leFH18B2 
+
+This tank has kept the damage and penetration from before version 9. F28 105 leFH18B2 18, making it arguably the most powerful artillery tier-for-tier in the game -- even more so after 9. F28 105 leFH18B2 18 -- assuming it hits its target. F28 105 leFH18B2   The low splash radius and time to land can be frustrating for players and necessitates that you fully aim shots. F28 105 leFH18B2 
+
+This tank was removed from the in-game store in the 8. F28 105 leFH18B2 6 update. F28 105 leFH18B2   It will be given as special awards during specials and events, as well as sometimes appearing as a special offer in the premium shop, but generally only as a freebie for a package with the highest gold offers. F28 105 leFH18B2 
+
+|InTheGame_pros=
+- Above average view range
+
+- Great aim time and murderous rate of fire allows you to keep enemy tanks permanently tracked
+
+- Highest DPM of all SPG's in the game (2700) enables you to delete enemy tanks single-handedly
+
+- Retains full 105mm damage and penetration after the 9. F28 105 leFH18B2 18 SPG re-balance. F28 105 leFH18B2   Its penetration is nearly on a par with Tier IX SPG's, and is capable of one-shotting Tier V mediums and can deal serious damage to HT's
+
+- Retains AP and HEAT shells to complement it's HE rounds even after 9. F28 105 leFH18B2 18
+
+- High shell arc means hitting targets behind cover is easier than some other SPG's
+
+
+|InTheGame_cons=
+- Below average top speed
+
+- Slow traverse and acceleration
+
+- Despite the thick armour the gun shield is rather thin
+
+- Long shell travel time due to high shell arc
+
+- Did not receive a splash buff to it's HE rounds in 9. F28 105 leFH18B2 18 like other SPG's
+
+
+|InTheGame_performance=
+
+The 105 leFH18B2 has gun elevation and depression which enables it to fire behind some rocks and small buildings and will greatly help in self defense when needed. F28 105 leFH18B2   It has the thickest armour of all artillery for its tier, making an exceptionally difficult target to kill by low tier scouts that do not stop and aim at the weaker armoured superstructure, although, just like the [[B1]] this SPG can be crippled by aiming at the exposed tracks depriving it of movement, but it will take several shots to actually destroy it. F28 105 leFH18B2 
+A side effect of its strong armour is that it is nearly impossible to destroy by ramming by lighter vehicles. F28 105 leFH18B2   Light tanks that attempt to do so will instead destroy themselves. F28 105 leFH18B2 
+
+The 105 leFH18B2 does not share the agility or speed of the [[B1]], so relocation and placement can be a problem and has a rather large silhouette in comparison to other SPG's of the same tier, but it can still make good use of the camo net. F28 105 leFH18B2 
+
+It has an impressive view range (fully trained crew with BIA and coated optics can exceed 445m even on the move) which can be exploited to use it as a tank destroyer in combination with binoculars, but this should be done only in emergency situations. F28 105 leFH18B2   Keeping a few HEAT rounds for more consistent damage to use in self defense in shotgun mode can be useful. F28 105 leFH18B2   It can be very threatening to targets that get too close to you. F28 105 leFH18B2 
+
+Hitting small targets can be difficult due to the lack of HE splash damage, just like the [[AMX 13 105 AM mle. F28 105 leFH18B2  50]]. F28 105 leFH18B2   However its insane rate of fire means you will have multiple opportunities as long as they stay spotted. F28 105 leFH18B2 
+
+While the leFH18B2 does have the lowest damage per shot of its tier it also has the fastest rate of fire for its tier by a decent margin, which makes up for the lack of splash damage. F28 105 leFH18B2 
+
+Note that this vehicle cannot stun due to the low caliber of the gun, but unlike most arty retains the ability to fire both AP and HEAT (Premium ammo). F28 105 leFH18B2 
+ 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=
+Artillery Shell Rammer, Enhanced Gun Laying Drive, Binocular Telescope, Camouflage Net
+
+
+|Gallery=
+File:105leFH18 head. F28 105 leFH18B2 png
+File:105a. F28 105 leFH18B2 png
+File:105b. F28 105 leFH18B2 png
+File:105c. F28 105 leFH18B2 png
+File:105d. F28 105 leFH18B2 png
+File:105le. F28 105 leFH18B2 png
+
+
+|History=
+[[image:105_leFH18B2-a. F28 105 leFH18B2 jpg|thumb|200px|left|105_leFH18B2-a German modification of the French B1 bis tank]]105 leFH18B2 was a German 105-mm howitzer self-propelled artillery unit based on a chassis of French B-1 bis tank. F28 105 leFH18B2   In the early spring of 1941 a decision was made to convert sixteen captured French B1 bis tanks into self-propelled artillery units. F28 105 leFH18B2  Rheinmetall-Borsig company, which was in charge for the development choose to install leFh18/3(sf) ((German: leichte FeldHaubitze - "light field howitzer"), standard Wehrmacht infantry light howitzer. F28 105 leFH18B2  The weapon was crude, but simple to maintain and very effective. F28 105 leFH18B2  It had a heavy, simple breech mechanism with a hydro-pneumatic recoil system. F28 105 leFH18B2  With a newly installed muzzle brake, it could fire a 14,81 kg HE round to a maximum distance of 10675 meters. F28 105 leFH18B2  Muzzle velocity was around 460 m/s with a rate of fire between 4-6 round per minute. F28 105 leFH18B2  Production of 105 leFH18B2 was launched in late 1941, and by the end of 1942, all planned units were delivered to the troops. F28 105 leFH18B2 
+
+
+|HistoricalGallery=
+image:105_leFH18B2-b. F28 105 leFH18B2 jpg{{!}}105_leFH18B2
+image:105_leFH18B2-a. F28 105 leFH18B2 jpg{{!}}105_leFH18B2
+image:105_leFH18B2-c. F28 105 leFH18B2 jpg{{!}}105_leFH18B2
+image:105_leFH18B2-d. F28 105 leFH18B2 jpg{{!}}105_leFH18B2
+image:LeFh18-3sf on the eastern front. F28 105 leFH18B2 jpg{{!}}LeFh18-3sf light artillery howitzer was chosen as a main weapon
+
+|HistAcc=
+The 105 leFH18B2 was actually a Rheinmetall-Borsig conversion that was used by the German military. F28 105 leFH18B2   Its configuration as a French SPG is fake. F28 105 leFH18B2 
+* The leFH18B2 was actually painted with the German Balkenkreuz. F28 105 leFH18B2   In '''''World of Tanks''''', however, the markings are instead French roundels. F28 105 leFH18B2 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+
+}}

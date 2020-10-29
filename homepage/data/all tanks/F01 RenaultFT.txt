@@ -1,0 +1,127 @@
+{{TankData|Tank=RenaultFT
+|The first French tank available to the player, and is the oldest tank in the game. F01 RenaultFT  It has good acceleration, but poor top speed. F01 RenaultFT  The available guns have only subpar damage output, but a very high rate of fire. F01 RenaultFT  The armour is fairly thick for its tier. F01 RenaultFT 
+
+|InTheGame_pros=
+* Decently thick and rounded turret armour, though it can't be relied upon at close range
+* Excellent gun elevation
+* Excellent rate of fire
+* High acceleration and hull traverse
+* Good aim times with both guns
+
+|InTheGame_cons=
+* Poor top speed and turret traverse speed
+* Both guns have poor accuracy
+* Upgraded gun has limited effective range
+* Only 2 crew, which is easily taken out by frontal shots
+* Very poor gun depression with the 37 mm
+
+|InTheGame_performance=
+The FT can play out its strengths on maps with more narrow sections, where you can essentially be a roadblock for enemy tanks. F01 RenaultFT  Something to note is that the gun elevation is as good as the T57, but the gun depression is very poor (i. F01 RenaultFT e. F01 RenaultFT  it's good at shooting up, but bad at shooting down) with the 37mm Canon. F01 RenaultFT 
+
+The 37mm Canon APX SA18 is only decent, as it has poor penetration, especially for a single-shot cannon, but partially makes up for it with its high rate of fire. F01 RenaultFT  The only other option is the 13. F01 RenaultFT 2 mm Hotchkiss mle. F01 RenaultFT  1930, which can deal a large amount of damage in a short amount of time but pays for it with its effective range (it can only damage targets up to 400 meters away) and even worse penetration. F01 RenaultFT 
+
+The armour of the FT is fairly good, especially its turret, which is thick and rounded at the edges. F01 RenaultFT  One can try to go "hull-down" with this tank, though the poor gun depression with the 37 mm can make this difficult. F01 RenaultFT 
+
+Please note the [[Battle_Mechanics#Map_Restrictions|Map Restrictions]] for Tier 1 tanks if you consider purchasing a camouflage skin/paint job for this tank. F01 RenaultFT 
+
+|InTheGame_research=
+* Simply get the second gun. F01 RenaultFT 
+
+|InTheGame_equipment=
+Vents, Camouflage Net, Toolbox, Enhanced Gun Laying Drive
+
+|Gallery=
+image:Renault_FT_001. F01 RenaultFT jpg{{!}}Renault FT 001
+image:Renault_FT_002. F01 RenaultFT jpg{{!}}Renault FT 002
+image:Renault_FT_003. F01 RenaultFT jpg{{!}}Renault FT 003
+image:Renault_FT_004. F01 RenaultFT jpg{{!}}Renault FT 004
+
+
+|History=
+The Renault FT, model of 1917, was a ''Char Léger'', or French light tank, that is widely acknowledged as one of the most revolutionary and influential tank designs in history. F01 RenaultFT  The FT was the first operational tank to have its armament mounted within a fully rotating turret. F01 RenaultFT  The FT's basic configuration with the turret on top, engine in the back, and the driver in front became the standard pattern, repeated in most tanks to this day. F01 RenaultFT  Armor historian Steven Zaloga has called the Renault FT "the world's first modern tank". F01 RenaultFT  ('''1''')
+
+The FT was the ancestor of a long line of French tanks produced by Renault: the FT Kégresse, the NC1, the NC2, the Char D1, the Char D2, and the R35. F01 RenaultFT   ('''2, 3''')&#160;&#160;&#160; It inspired and influenced many later designs by other manufacturers including the H35 and the Somua 35. F01 RenaultFT  ('''4''')&#160;&#160;&#160; In addition to its pioneering design, the FT proved to be both cheap and suitable for mass production techniques. F01 RenaultFT  It became a popular export for France and Renault and was also licensed and copied for production by other countries. F01 RenaultFT 
+
+In the U. F01 RenaultFT S. F01 RenaultFT , a slightly modified version was built under license from Renault as the Six Ton Tank, or M1917 (of which 950 were built, 64 before the end of WWI, but too late to be used in action). F01 RenaultFT  The Italians produced as their standard tank the FIAT 3000, a moderately close copy of the FT. F01 RenaultFT  The Soviet Red Army captured fourteen burnt-out Renaults from White Russian forces during the Russian Civil War, and rebuilt them at the Krasnoye Sormovo Factory in 1920. F01 RenaultFT  Nearly 15 exact copies, called "Russian Renoe" were produced in 1920-1922, but due to technical production problems, they never actually saw the battlefield. F01 RenaultFT  In 1928-1931 the first completely Soviet-designed tank was the T-18, a derivation of the Renault with sprung suspension. F01 RenaultFT 
+
+In all, the Renault FT was used by the armies of Afghanistan, Belgium, Brazil, the Republic of China, Czechoslovakia, Estonia, Finland, France, Nazi Germany, Iran, Japan, Lithuania, the Netherlands, Poland, Romania, the Russian White Army, the Soviet Union, Spain, Sweden, Switzerland, Turkey, Norway, the United Kingdom, the United States and the Kingdom of Yugoslavia. F01 RenaultFT 
+
+
+=== Development and Production ===
+Studies on the production of a new light tank were started in May 1916 by the famous car producer Louis Renault. F01 RenaultFT  The evidence strongly suggests that Renault himself drew up the preliminary design, unconvinced that a sufficient power-to-weight ratio could be achieved by the medium tanks requested by the military. F01 RenaultFT  One of his most talented designers, Rodolphe Ernst-Metzmaier, prepared the final drawings. F01 RenaultFT 
+
+Though the project was far more advanced than the first two types of French tank, the Schneider CA1 and the heavy Saint-Chamond, Renault had at first great trouble getting his design accepted by the head of the French tank arm, Colonel (later General) Jean Baptiste Eugène Estienne. F01 RenaultFT  Even after the first British use of tanks, on 15 September 1916, when the French people called for the deployment of their own chars, the production of the light tank was almost cancelled in favour of that of a superheavy tank (the later Char 2C). F01 RenaultFT  However, now with the support of Estienne and the successive French Commanders in Chief, who saw light tanks as a more feasible and realistic option, Renault was at last able to proceed with the design. F01 RenaultFT  The design remained in competition with the Char 2C until the very end of the war. F01 RenaultFT 
+
+The prototype was slowly refined during the first half of 1917, although the FT was plagued by radiator fan belt and cooling system problems throughout the war. F01 RenaultFT  Only 84 FTs were produced in 1917 but 2,697 were delivered before the WWI Armistice. F01 RenaultFT  At least 3,694 FTs were produced in total, perhaps more; some estimates go as high as 4,000 for all versions combined. F01 RenaultFT  A total of 3,177 were delivered to the French Army; 514 were directly delivered to the U. F01 RenaultFT S. F01 RenaultFT  Army; 24 to Great Britain; and three to Italy - giving a total production number of at least 3,694. F01 RenaultFT  
+
+The first FT tanks had a round cast turret; later improvements consisted of either an octagonal turret or an even later rounded turret of bent steel plate (called the Girod turret, after one of the factories that produced it). F01 RenaultFT  The latter two turrets could carry a Puteaux SA 18 gun, or a 7. F01 RenaultFT 92 mm Hotchkiss machine gun. F01 RenaultFT  
+
+
+=== Service History ===
+The FT was widely used by the French and the US in the later stages of World War I, after 31 May 1918. F01 RenaultFT  It was cheap and well-suited for mass production. F01 RenaultFT  It reflected an emphasis on quantity, both on a tactical level and strategic: Estienne proposed to overwhelm the enemy defences using a "swarm" of light tanks, and the Entente was thought to be able to gain the upper hand by outproducing the Central Powers. F01 RenaultFT  A goal was set of 12,260 to be manufactured (including 4,440 of the US version) before the end of 1919. F01 RenaultFT 
+
+After WWI, FT tanks were exported to many countries. F01 RenaultFT  As a result, FT tanks were used by most nations having armored forces, invariably as their first tank type, including the United States. F01 RenaultFT  They took part in many later conflicts, such as the Russian Civil War, Polish-Soviet War, Chinese Civil War, Rif War, Spanish Civil War and Estonian War of Independence. F01 RenaultFT 
+
+FT tanks were also used in the Second World War, among others in Poland, Finland, France and Kingdom of Yugoslavia, although they were completely obsolete by then. F01 RenaultFT  In 1940 the French army still had eight battalions equipped with 63 FTs each and three independent companies with ten each, for a total strength of 534, all with machine guns. F01 RenaultFT 
+
+During the battle of France, in June 1940, when the German drive to the Channel cut off the French and British units, the complete French materiel reserve was sent to the front as an expediency measure; this included 575 FT tanks. F01 RenaultFT  Earlier, 115 sections of FT had been formed for airbase defence. F01 RenaultFT  The Wehrmacht captured 1,704 FT tanks. F01 RenaultFT  A hundred were again deployed in German service and used for airfield defence. F01 RenaultFT  Another 650 were used for patrolling occupied Europe. F01 RenaultFT  Some of the tanks were also used by the Germans in 1944 for street-fighting in Paris. F01 RenaultFT  ('''5''')
+
+Today, approximately 41 Renault Ft survive, in addition to two Russian-built copies known as Russkiy Renos, three FT TSF command tanks, and twenty American-built M1917's. F01 RenaultFT 
+
+|HistoricalGallery=
+image:FT_at_Brussels_Royal_Army_Museum. F01 RenaultFT jpg{{!}}FT at Brussels Royal Army Museum
+image:French_Renault_FT_17_tank_on_display_at_Musée_de_l%27Armée,_Les_Invalides. F01 RenaultFT jpg
+image:FT_17_on_the_battlefield. F01 RenaultFT jpg
+image:Ft_17,_lineup. F01 RenaultFT jpg
+image:FT-17%27s_going_forward_to_the_battle_line_at_the_Forest_of_Argonne. F01 RenaultFT . F01 RenaultFT gif
+image:Leiutenant_Colonel_Dwight_D. F01 RenaultFT _Eisenhower,_inm_front_of_FT17_tank,_1919. F01 RenaultFT . F01 RenaultFT jpg
+image:Lt. F01 RenaultFT _Col_Gene_Berbaum_with_a_FT-17. F01 RenaultFT jpg
+image:Polish_FT_tanks_during_the_Battle_of_Dyneburg. F01 RenaultFT jpg
+image:Renault_entering_the_trench_on_trials. F01 RenaultFT jpg
+image:Renault_FT_17_-_prototype. F01 RenaultFT . F01 RenaultFT jpg
+image:Renault_FT_37mm_SA18_-_22_6_-_8. F01 RenaultFT jpg
+image:Renault_FT_modèle_1917. F01 RenaultFT jpg
+image:Renault_FT-17a. F01 RenaultFT jpg
+image:Crew_locations_shown_with_panels_open. F01 RenaultFT gif
+File:Renault_FT_with_25mm. F01 RenaultFT jpg{{!}}A plan to re-arm the Renault FT with the 25mm Raccourci, dating to 1933. F01 RenaultFT  This would later re-surface in 1939 as the Renault FT AC. F01 RenaultFT 
+
+|HistAcc=
+* The Renault FT never mounted the 13. F01 RenaultFT 2 mm Hotchkiss mle. F01 RenaultFT  1930. F01 RenaultFT  The machine guns it was equipped with were the 8 mm Hotchkiss M1914 machine gun and the Reibel 7. F01 RenaultFT 5mm machine gun, both of which aren't available in game. F01 RenaultFT 
+* The FT could not go faster than 7. F01 RenaultFT 7 km/h. F01 RenaultFT 
+
+|Ref_references=
+1 - Zaloga, 2010<br />
+2 - Bingham, 1973a<br />
+3 - Bingham, 1973b<br />
+4 - Bingham, 1971<br />
+5 - Regenberg and Scheibert, 1997<br />
+
+|Ref_sources=
+Bingham, J. F01 RenaultFT , 1971, '''<i>AFV Weapons Profile 36 - Chars Hotchkiss, H35, H39, and Somua 35</i>''', Profile, Windsor, UK,  24p. F01 RenaultFT 
+
+Bingham, J. F01 RenaultFT , 1973, '''<i>AFV Weapons Profile 58 - French Infantry Tanks Part I (Char 2C, D and B) </i>''', Profile, Windsor, UK,  24p. F01 RenaultFT 
+
+Bingham, J. F01 RenaultFT , 1973, '''<i>AFV Weapons Profile 59 - French Infantry Tanks Part II (including R 35 and FCM 36) </i>''', Profile, Windsor, UK,  24p. F01 RenaultFT 
+
+Regenberg, W. F01 RenaultFT  and H. F01 RenaultFT  Scheibert, 1997, '''<i>Captured French Tanks Under the German Flag</i>''', Schiffer, Atglen, PA, 48p, ISBN:9780764302657. F01 RenaultFT 
+
+Touzin, P. F01 RenaultFT , 1979, '''<i>Les Véhicules Blindés Français 1900-1944</i>''', EPA, Paris, 266p, ISBN:9782851200945. F01 RenaultFT 
+
+Vauvillier, F. F01 RenaultFT , 2013, '''<i>The Encyclopedia Of French Tanks And Armoured Fighting Vehicles: 1914-1940</i>''', Histoire & Collections, Paris, 176p, ISBN:9782352503224. F01 RenaultFT 
+
+Zaloga, S. F01 RenaultFT J. F01 RenaultFT , 2010, '''<i>French Tanks of World War I</i>''', New Vanguard Series 173, Osprey Publishing, Oxford, 48p, ISBN:9781846035135. F01 RenaultFT <br />
+
+
+|Ref_links=
+
+* [https://www. F01 RenaultFT chars-francais. F01 RenaultFT net/new/index. F01 RenaultFT php?option=com_content&task=view&id=688&Itemid=36 '''<i>1917 Char Renault FT</i>'''] Web page at Chars-Francais. F01 RenaultFT net. F01 RenaultFT  Photos, specs, and brief history in French. F01 RenaultFT 
+
+* [https://www. F01 RenaultFT militaryfactory. F01 RenaultFT com/armor/detail. F01 RenaultFT asp?armor_id=225 '''<i>Renault FT-17 Light Tank (1917)</i>'''] Web page at the MilitaryFactory. F01 RenaultFT com. F01 RenaultFT 
+
+* [https://www. F01 RenaultFT tanks-encyclopedia. F01 RenaultFT com/ww1/fr/renault_ft. F01 RenaultFT php '''<i>Renault FT</i>'''] Web page at Tanks-Encyclopedia. F01 RenaultFT com. F01 RenaultFT 
+
+* [https://en. F01 RenaultFT wikipedia. F01 RenaultFT org/wiki/Renault_FT '''<i>Renault FT</i>'''] Web page at Wikipedia. F01 RenaultFT com
+
+* https://forum. F01 RenaultFT worldoftanks. F01 RenaultFT com/index. F01 RenaultFT php?/topic/456746-renault-ft-with-25mm-canon-raccourci-mle-1934/
+
+}}

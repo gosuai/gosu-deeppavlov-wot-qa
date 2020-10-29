@@ -1,0 +1,105 @@
+{{TankData|Tank=
+|Sloped and thicker armor gives this tank a chance to bounce more shells compared to other Shermans, but the Jumbo is slower and less maneuverable. A36 Sherman Jumbo  It has armor rivaling the heaviest tanks around its tier, and even tanks above it like the [[T29]] and Tiger tanks. A36 Sherman Jumbo  in addition, it is also smaller than comparable [[Heavy Tanks|heavy tanks]], making it harder for artillery to hit you. A36 Sherman Jumbo  It possesses a medium's firepower and health pool, combined with a heavy's armor and speed. A36 Sherman Jumbo  As a result, you will be forced to try and play smart - keep flashing your frontal armor and gun mantlet, and fire your gun at weak spots in the enemy armor. A36 Sherman Jumbo  Due to its thick armor and lack of maneuverability, the Jumbo tends to be more successful as a brawler than as a typical flanking medium tank. A36 Sherman Jumbo  Overall, the Jumbo is both very comfortable for beginners and very rewarding for veterans. A36 Sherman Jumbo 
+
+|Sidebar_Camostop=11. A36 Sherman Jumbo 7
+|Sidebar_Camomove=8. A36 Sherman Jumbo 9
+|Sidebar_Camofire=3. A36 Sherman Jumbo 1
+|Sidebar_Passhard=1. A36 Sherman Jumbo 342
+|Sidebar_Passmed=1. A36 Sherman Jumbo 438
+|Sidebar_Passsoft=2. A36 Sherman Jumbo 205
+|Sidebar_DispTurret=0. A36 Sherman Jumbo 115
+|Sidebar_DispRecoil=3. A36 Sherman Jumbo 356
+|Sidebar_DispAccel=0. A36 Sherman Jumbo 23
+|Sidebar_DispTurning=0. A36 Sherman Jumbo 23
+
+|InTheGame_pros=
+- High damage per minute with 76mm M1A2 and 105mm
+
+- Heavily armored stock turret front with large mantlet and great frontal hull armor, But cannot mount 76mm M1A2. A36 Sherman Jumbo 
+
+- More versatile than a heavy tank
+
+- Very efficient against lightly armoured tanks with 105mm, powerfull in T6 skirmishes
+
+- American gun depression (-10°), very strong in a hulldown position
+
+|InTheGame_cons=
+- Low top speed (35km/h) and below average traverse for a tier 6 medium tank
+
+- Low penetration and shell damage with 76mm
+
+- Bad aim time and accuracy 
+
+- Top turret is a huge downgrade in armor and should be mounted only when using the 76mm M1A2
+
+- Stock turret has low view range and keep the tank at 730HP
+
+- can mount vertical stabilizer
+
+|InTheGame_performance=
+The main advantage of the Jumbo is its strong front armor, especially its turret. A36 Sherman Jumbo  This is especially true in city-fighting when it is angled around corners, hiding its weaker side armor. A36 Sherman Jumbo  Being virtually impenetrable(except for weakspots) from tier 5 guns, the M4A3E2 is a very dangerous opponent for many. A36 Sherman Jumbo   For this reason the M4A3E2 can spearhead charges and come out with little injury whenever it is on top of the list. A36 Sherman Jumbo 
+
+Against higher tier opponents, it will find its armor more of a liability. A36 Sherman Jumbo  More so, its gun proves to be very weak unless hitting weakspots . A36 Sherman Jumbo  When facing a tougher target, flanking should often be the only option, but its slow speed is not conducive to flanking anything unless you catch them by surprise. A36 Sherman Jumbo  As a result, you should shift into a supporting role when facing higher tiers. A36 Sherman Jumbo  If alone and facing tanks with poor depression, it is a good idea to facehug them. A36 Sherman Jumbo  With the stock turret's 152mm thick armor and extremely thick mantlet, it is almost impossible to penetrate. A36 Sherman Jumbo  Be careful if you use the 105mm however, as the HE damage can damage your gun or even lower your HP. A36 Sherman Jumbo  In such cases it is advisable to wait until the enemy has fired, then back away, fire and hug again. A36 Sherman Jumbo 
+
+Another potential tactic is side-scraping. A36 Sherman Jumbo  Although the lower section of the side is only 38mm, the upper section is 76, and still can bounce any gun in game if angled correctly. A36 Sherman Jumbo If caught in the open, don't be afraid to show a bit of your side at an extreme angle. A36 Sherman Jumbo  This tactic will increase both your frontal armor and side armor, causing tanks such as the Cromwell, T-34/85, and VK series to have trouble penning you. A36 Sherman Jumbo  Players who have experience with German tanks like the E-75 and E-50 will be very comfortable with this tactic. A36 Sherman Jumbo 
+
+With generally better armor and roughly the same speed and manoeuvrability as the M6, this tank plays better as a heavy than as a medium. A36 Sherman Jumbo  The only advantage the M6 has is its 90 mm gun. A36 Sherman Jumbo  So, focus on targets you can penetrate and use your superior rate of fire to whittle them down. A36 Sherman Jumbo 
+
+One of more interesting aspects of the Jumbo are that it is one of the very few tanks in the game with a real choice between which turret to use. A36 Sherman Jumbo  The 2nd turret is needed to use the improved M1A2 gun, offers more HP, and has superior view range and traverse. A36 Sherman Jumbo  The 1st turret has very strong armour all around, but will leave you with the exact same guns the tier 5 M4 had (though with better RoF). A36 Sherman Jumbo  It is up to player preference whether to play the tank as a pseudo-heavy using the 1st turret and 105mm howitzer, or as a heavy medium using the 2nd turret and M1A2 gun. A36 Sherman Jumbo 
+
+The Jumbo also has a 139mm thick lower glacis plate that is somewhat similar to the one found on the M36 Jackson but far thicker. A36 Sherman Jumbo  This unusual feature makes the Jumbo a tough nut to crack, even when it's cresting a hill. A36 Sherman Jumbo  When you get tracked while cresting, you can still bounce some shots but artillery will soon fire on you. A36 Sherman Jumbo  Therefore, use this feature defensively and play smart. A36 Sherman Jumbo 
+
+|InTheGame_research=
+* The Wright Continental R-975C4 engine, radio, 76mm M1A1 and 105 all carry over from the M4. A36 Sherman Jumbo 
+* You need to upgrade the suspension first, as the tank starts fairly close to its initial weight limit. A36 Sherman Jumbo 
+* From there you either get the engine next if you intended to keep the stock turret, or you can get the 2nd turret and M1A2. A36 Sherman Jumbo 
+* Interestingly, if you are certain you do not want to use the 2nd turret you can skip the M1A2 and research the T29. A36 Sherman Jumbo   Doing so will unlock the M1A2 for free. A36 Sherman Jumbo   You can also get the top engine for free upon researching the T20, but skipping that is not advised as the jumbo really wants that extra engine power. A36 Sherman Jumbo 
+* Players who wish to progress from the Sherman Jumbo to the T29, instead of going through the T1 and M6 should keep in mind that they will not have access to the 90 mm gun. A36 Sherman Jumbo  This makes the T29 effectively unplayable. A36 Sherman Jumbo  This can be fixed by first unlocking the T20 and using it to grind the 90 mm gun. A36 Sherman Jumbo 
+
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|Gallery=
+image:M4A3E2_Jumbo_Sherman_001. A36 Sherman Jumbo jpg
+image:M4A3E2_Jumbo_Sherman_002. A36 Sherman Jumbo jpg
+image:M4A3E2_Jumbo_Sherman_003. A36 Sherman Jumbo jpg
+image:M4A3E2_Jumbo_Sherman_004. A36 Sherman Jumbo jpg
+
+|History=
+In June–July 1944, the Army accepted a limited run of 254 of M4A3E2 Jumbo Shermans, an up-armored version of the venerable M4 Sherman series with thicker armor and the 75 mm gun in a heavier T23-style turret. A36 Sherman Jumbo   The Jumbo had even thicker frontal armor than the Tiger I and was intended for assaulting hardened enemy fortifications in the allied push to break out of the Normandy beachhead. A36 Sherman Jumbo   It entered combat in August 1944, 
+
+The  "Jumbo," nicknamed came from her crews, due to the extra size from the added armor (including 4 inches on front), but at a slower about 3-4 mph. A36 Sherman Jumbo  Built with 75 mm gun, it was frequently re-armed with 76-mm guns by the using units. A36 Sherman Jumbo  Users: US, France (one vehicle)
+
+[[image:M4_Sherman_M4A3E2_Sherman_Jumbo_75mm_gun. A36 Sherman Jumbo jpg|thumb|200px|left|M4A3E2 Sherman Jumbo: Some units replaced the original 75 mm gun with a 76 mm gun. A36 Sherman Jumbo ]]
+
+During the war, U. A36 Sherman Jumbo S. A36 Sherman Jumbo  crews found that on soft ground such as mud or snow, the narrow tracks gave poor ground pressure compared to wide-tracked second-generation German tanks such as the Panther. A36 Sherman Jumbo  Soviet experiences were similar and tracks were modified to give better grip in the snow. A36 Sherman Jumbo  The U. A36 Sherman Jumbo S. A36 Sherman Jumbo  Army issued extended end connectors or "duckbills" to add width to the standard tracks as a stopgap solution. A36 Sherman Jumbo  Duckbills were original factory equipment for the heavy M4A3E2 Jumbo to compensate for the extra weight of armor. A36 Sherman Jumbo 
+
+''Additional information can be found in an article at the'' [https://www. A36 Sherman Jumbo militaryfactory. A36 Sherman Jumbo com/armor/detail. A36 Sherman Jumbo asp?armor_id=111 Military Factory] ''web site, which does not permit reproduction. A36 Sherman Jumbo ''
+
+|HistAcc=
+The 105mm howitzer was only mounted on the M4 and M4A3 variants. A36 Sherman Jumbo  The M4A3E2 was only armed with either the 75mm or 76mm gun. A36 Sherman Jumbo 
+* Ford GAA engine is more powerful than in reality, with 520 hp compared to the historical 500. A36 Sherman Jumbo 
+* The Wright Continental engines were only fitted to the M4, M4 Composite and M4A1 variants. A36 Sherman Jumbo  Its configuration on the M4A3E2 is fake. A36 Sherman Jumbo 
+* The [[Gun/USA#76 mm Gun M1A2|76 mm M1A2]] is the same gun used on the [[Tank:A103_T71E1|T71 DA]]. A36 Sherman Jumbo  Yet the penetration value of the AP shell is inconsistent. A36 Sherman Jumbo 
+
+|HistoricalGallery=
+image:Jumbo1. A36 Sherman Jumbo jpg{{!}}Sherman Jumbo
+image:Jumbo2. A36 Sherman Jumbo jpg‎{{!}}Sherman Jumbo
+image:Jumbo3. A36 Sherman Jumbo jpg{{!}}Sherman Jumbo
+image:M4A3E2-a. A36 Sherman Jumbo jpg{{!}}Sherman Jumbo
+image:945, 17 January, Herrlisheim. A36 Sherman Jumbo  Erwin Bachmann (I. A36 Sherman Jumbo  SS. A36 Sherman Jumbo  Panzer-Regiment 10 ) captured 12 M4A3 75 W of 43rd Tank Battalion. A36 Sherman Jumbo . A36 Sherman Jumbo jpg{{!}}January 17, 1945, Herrlisheim. A36 Sherman Jumbo  Erwin Bachmann (I. A36 Sherman Jumbo  SS. A36 Sherman Jumbo  Panzer-Regiment 10 ) captured 12 M4A3 75 W of 43rd Tank Battalion
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* History Text: https://en. A36 Sherman Jumbo wikipedia. A36 Sherman Jumbo org/wiki/M4_Sherman
+
+}}
+
+[[Category:USA Tanks]]

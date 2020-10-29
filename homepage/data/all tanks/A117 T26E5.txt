@@ -1,0 +1,75 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+|InTheGame_pros=
+* Good standard penetration
+* Thick, well armored gun mantlet
+* Great gun depression
+* Decent top speed and reverse speed
+* Good viewrange
+
+|InTheGame_cons=
+* Small gun caliber, poor alpha damage and DPM
+* Poor gun handling for a 90mm gun
+* Limited penetration boost from premium ammunition
+* Hull armor is rather weak for a heavy tank
+* High ground resistance, sluggish mobility
+
+|InTheGame_performance=
+The T26E5 is basically an up-armored [[M26 Pershing]] labeled as a heavy tank. A117 T26E5  Turret armor on the T26E5 is thinner than on the [[T34]] and [[T32]], but is still strong enough to bounce many lower and same tier guns, and its small profile will frustrate attackers trying to dig it out of a defensive position from a distance. A117 T26E5  The hull armor is thicker than on the [[T32]] and [[T34]], but ultimately weaker than the [[T32]]'s because of flatter angles. A117 T26E5  The machinegun port and large lower front plate of the T26E5 are glaring weaknesses that make it vulnerable to even tier 6 guns, regardless of angle. A117 T26E5 
+
+The 230mm of penetration allows the T26E5 to retain some fighting potential even in tier 9 and 10 games. A117 T26E5  Do note, however, that it fires APCR as both standard and premium ammunition types, so be aware of its unique properties compared to AP rounds. A117 T26E5  While the accuracy is largely improved over the [[T32]], it is still far from that of German and British heavies, so allow the to gun aim fully for the best chance of hitting enemy weak spots. A117 T26E5  The short reload-time allows this tank to comfortably trade fire with most mediums of the same tier. A117 T26E5  This also means it can whittle down heavy tanks with slower reload-times, though trading fire with other heavies is still a risky proposition because of your inferior alpha damage. A117 T26E5 
+
+The 704 horsepower engine provides the T26E5 with an excellent specific power of 15. A117 T26E5 17, allowing it to accelerate better than many other tier 8 heavies. A117 T26E5  Terrain resistances and hull traverse are poor, preventing you from outmaneuvering medium tanks in spite of your otherwise competitive acceleration. A117 T26E5  
+
+Although its stats look impressive, and it has received very favourable reviews, the T26E5 suffers from being a compromise design even more than most American tanks and can struggle to find a role on the battlefield. A117 T26E5  Unlike the Sherman Jumbo, which it resembles in concept, the T26E5 cannot lead assaults, even when it is high tier. A117 T26E5  Its armour, though better than that of the Pershing, is not strong enough to bounce the shells of other heavy tanks reliably. A117 T26E5  At the same time, its mobility, though decent, is not good enough to manoeuver against medium tanks. A117 T26E5  The alternative, fighting from a distance, is not viable owing to the low accuracy of the gun. A117 T26E5  
+As result of these limitations, the T26E5 does not do well on its own, especially when confronted with multiple opponents. A117 T26E5 
+In particular when in tier 9 and 10 games, your role is limited to supporting top tier vehicles while avoiding incoming fire as much as possible. A117 T26E5 
+
+
+|InTheGame_research=
+As this is a premium tank, research not required. A117 T26E5 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 2, Improved Ventilation, Coated Optics
+
+|History=
+
+The success of the M4A3E2 "Jumbo" Sherman led to research into an equivalent modification of the T26 tank. A117 T26E5  This modification had the effective armour of 8 inches in the front, as well as a new equilibrator, to offset the heavier gun mantlet. A117 T26E5  The vehicle's weight was estimated to be 97,000, but the tracks were widened with 5 inch wide connectors, making the vehicle's ground pressure 11. A117 T26E5 5 psi. A117 T26E5  The width of the tank with these tracks was 143 inches, 124 inches for railroad transport. A117 T26E5  The recommendation to perform this modification of the T26E3 and name it T26E5 was submitted on January 18th, 1945, and approved on February 8th. A117 T26E5  On March 29th, 1945, it was recommended that the thickness of the front armour be increased further, and 27 of these tanks be produced. A117 T26E5  The new T26E5 would have:
+
+
+* A 6 inch thick UFP positioned at 46. A117 T26E5 5 degrees
+* A 4 inch thick LFP positioned at 54 degrees
+* An 11 inch thick unsloped gun mantlet
+* Increased equilibrator capacity
+* Increased thickness of the front turret ring splash guard
+* Decreased width of the rear portion of the hull escape hatch doors to eliminate a turret weak spot
+
+The weight of the vehicle increased to 107,000 pounds, and ground pressure grew to 12. A117 T26E5 1 psi. A117 T26E5  The vehicle was thought to be capable of speeds that could seriously damage the two front bogies on rough terrain, and modifications to the shock absorbers, torsion bars, and wheel bearings were designed, just in case. A117 T26E5  However, these changes did not make it to the production line, as it was decided to perform them on an individual basis. A117 T26E5  
+
+These changes made the tank unwieldy. A117 T26E5  The only bridge capable of carrying it would be the M4 Floating Bridge, at a current speed of less than 5 miles per hour. A117 T26E5  The bridge, only 148 inches wide, could not safely accommodate a T26E5 when extended track connectors were uses. A117 T26E5  The first T26E5 was built and delivered to the Aberdeen Proving Grounds in July of 1945, with the other 26 being finished in August. A117 T26E5  The tanks were later used as test vehicles against newer HEAT and HVAP shells. A117 T26E5 
+
+|HistAcc=
+The T26E5 was actually armed with the [[Gun/USA#90 mm Gun M3|90 mm M3 gun]]. A117 T26E5 
+* The T7E1 gun designation does not exist. A117 T26E5  It was only known as T7. A117 T26E5  The weapon itself was actually the main armament of the [[Tank:A111_T25_Pilot|T25]]. A117 T26E5  Its configuration on the T26E5 is fake. A117 T26E5 
+* Uses the same gun as the T25 Pilot Number 1, yet the penetration values are inconsistent. A117 T26E5 
+* Historical Ford GAF engine is missing. A117 T26E5 
+* The Continental AV-1790 is actually the historical engine of the M26E2/M46. A117 T26E5  Its configuration on the T26E5 is also fake. A117 T26E5 
+
+|HistoricalGallery=
+File:T26e5. A117 T26E5 jpg
+File:T26E5_as_test_vehicles_document. A117 T26E5 jpg{{!}}Document detailing the use of the T26E5's as test vehicles
+
+|Ref_references=
+
+|Ref_sources=
+* DoD Report AD48311 May 1954
+* DoD Report AD389304 July 1964
+* Pershing: A History of a Medium Tank T20 Series by R. A117 T26E5  P. A117 T26E5  Hannicutt
+
+|Ref_links=
+* https://tankarchives. A117 T26E5 blogspot. A117 T26E5 com/2014/08/t26-variants. A117 T26E5 html
+
+}}

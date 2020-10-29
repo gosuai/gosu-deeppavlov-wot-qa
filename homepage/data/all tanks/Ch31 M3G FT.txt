@@ -1,0 +1,15 @@
+{{TankData|Tank=M3G FT
+
+
+
+|InTheGame_pros= 
+-Good penetration with both guns
+
+|InTheGame_cons= 
+
+|InTheGame_performance= 
+This tank can be played with either gun. Ch31 M3G FT  The 57MM has excellent penetration (making it the only tier III tank that can reliably penetrate a Panzer IIJ), but suffers from poor accuracy. Ch31 M3G FT  The 76mm has much less penetration, but still sufficient for a tier III tank destroyer and is more accurate. Ch31 M3G FT 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Camouflage Net
+}}

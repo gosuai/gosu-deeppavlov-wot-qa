@@ -1,0 +1,60 @@
+{{Alert 
+|i
+|content = This page is about the Soviet Lend Lease Matilda. R32 Matilda II LL  The British Matilda can be found [[Matilda|here]]. R32 Matilda II LL 
+}}
+
+{{TankData|Tank=Matilda IV
+|Though the Matilda IV is classified as a medium tank, when compared to similar-tiered vehicles it emerges more than equal in terms of durability, but its low mobility lends this tank to be played more as a [[Heavy Tanks|heavy tank]], specifically a tiny stock KV-1. R32 Matilda II LL 
+
+|Gallery=
+
+|InTheGame_pros=
+* Amazing gun depression/elevation, superior to even the American [[M4 Sherman]]
+* Decent DPM for its tier
+* Very high survivability in class, thanks to a combination of thick all-around armor, small size and high HP
+* Crew layout matches those of Soviet medium tanks from tier 7 onward
+* Preferential matchmaking (tier 6 max, no tier 7 battles)
+
+|InTheGame_cons=
+* Painfully low mobility: top speed, P-W ratio and terrain resistance values are all abysmal
+* Incompetent gun: even the premium APCR has serious difficulty engaging properly armored targets, also mediocre accuracy 
+* Couldn't angle well due to large hull cheeks
+
+|InTheGame_performance=
+The Matilda IV is more like a heavy tank than a medium tank in playstyle. R32 Matilda II LL  Like any other slow tank, it requires careful analysis of the enemy team composition and map layout in order to be able to ensure that it arrives in time to make a difference in the battle. R32 Matilda II LL 
+
+The '''76 mm ZiS-96''' has a phenomenally good aim time by Soviet standards, and has the rate-of-fire to make up for any shots that may have bounced or missed. R32 Matilda II LL  Its primary failing is the low penetration, especially by the standards of Tier 5. R32 Matilda II LL  The gun is nearly the same thing as the 76 mm ZiS-5 (the KV-1's stock gun) or the 76 mm F-34 (the T-34's intermediate 76 mm gun), but oddly way worse than the same gun on the [[KV-220-2]]; and even with APCR, it will have a very difficult time penetrating most heavy tanks and some sturdier mediums. R32 Matilda II LL  The accuracy is also fairly disappointing, making long range shots and targeting weakspots in heavily armored tanks somewhat tricky. R32 Matilda II LL  The ammunition capacity is also somewhat limited, given the high rate-of-fire, so shots must be taken with care. R32 Matilda II LL 
+
+The Matilda IV boasts good armor for a medium tank, and this combined with its excellent gun depression (one of the best in the game) makes it very good at fighting on hilly terrain. R32 Matilda II LL  Many lower tier tanks will have significant trouble penetrating it from most angles, but equal and higher tier tanks, especially heavy tanks and medium tanks armed with howitzers, will have very little trouble penetrating its armor It is also very important to avoid open areas and stay artillery-safe, because even though the Matilda IV does not take too much damage from lower tier artillery, they are still capable of wearing it down with repeated hits. R32 Matilda II LL 
+
+The role in which the Matilda IV excels is that of flank protection. R32 Matilda II LL  It will have absolutely no problems destroying any light tank and most medium tanks that it faces, and it has the HP to take a few hits. R32 Matilda II LL  This makes it ideal for protecting allied heavy tanks from lower tier tanks and medium tanks, allowing the heavy tanks to focus on tougher targets. R32 Matilda II LL  With the good HP, armor, and slow speed, it may be tempting to play like a heavy tank, but in that role the Matilda IV is very outclassed. R32 Matilda II LL  In short, stick to side alleys, flanking passages, and allow your low pen but fast firing gun to take threatening mediums and light tanks out of harm's way of your team. R32 Matilda II LL 
+
+|InTheGame_research=
+As a premium tank, the Matilda IV does not have any modules to be researched. R32 Matilda II LL 
+
+|InTheGame_equipment=
+Vents, Medium-Caliber Tank Gun Rammer, GLD, Coated Optics, Toolbox, Spall Liner, Binocular Telescope
+
+|History=
+The Soviets began receiving the Matilda infantry tank from the British via Lend-Lease in 1941, following the German invasion in June of that year. R32 Matilda II LL  While they liked the thick armor, they were highly dissatisfied with the Matilda's low mobility, and especially its Ordnance QF 2-pounder gun, which not only had inadequate penetration but also lacked a useful high explosive round. R32 Matilda II LL  In order to at least address the armament problem, the GAU (''Glavnoye Artilleriskoye Upravleniye'' - Main Artillery Directorate) began a project in November 1941 to rearm the Matilda with the 76 mm ZiS-5 that also armed the indigenous KV-1 heavy tank. R32 Matilda II LL  
+
+One Matilda Mk. R32 Matilda II LL  III was thus modified in December 1941, essentially by removing the complete gun and gun mantlet assembly associated with the 2-pounder gun, and welding in place the gun and gun mantlet assembly of the KV-1. R32 Matilda II LL  The modified Matilda underwent trials that same month, but development was cancelled in January 1942, primarily due to conflict between the GAU and the GABTU (''Glavnoye AvtoBronetankovoye Upravleniye'' - Main Automobile and Tank Directorate), the body primarily responsible for Soviet tank development. R32 Matilda II LL  The arrival of Matilda CS tanks under Lend-Lease that same year, which were armed 3-inch howitzers with adequate high explosive ammunition, and the increasing production of Soviet T-34 and KV-1 tanks also made the project superfluous. R32 Matilda II LL 
+
+|HistAcc=
+Uses the same ZiS-5 gun as the [[KV-220-2]] (simply redesignated F-96 for this experimental upgrade), yet the penetration values are inconsistent. R32 Matilda II LL 
+* The Matilda IV has the same twin diesel engines as the [[Matilda]] and [[Matilda Black Prince]], yet the engine power values are inconsistent. R32 Matilda II LL  The Soviets never upgraded the original engines on their Matildas. R32 Matilda II LL 
+
+|HistoricalGallery=
+File:MatildaLL. R32 Matilda II LL jpg{{!}}Matilda Lend Lease upgun experiment, rearmed with the ZiS-96
+File:MatildaTank. R32 Matilda II LL jpg{{!}}Matilda Lend Lease
+File:MatildaSWF. R32 Matilda II LL jpg{{!}}Soviet Matildas being transported to the frontlines, about April 1942. R32 Matilda II LL 
+File:MatildaSWF2. R32 Matilda II LL jpg{{!}}Soviet Matildas being transported to the frontlines, about April 1942. R32 Matilda II LL 
+File:MatildaSovietPort. R32 Matilda II LL jpg{{!}}Soviet Matildas being off loaded in the Soviet port of Arkhangelsk (Archangel), about February 1942. R32 Matilda II LL  
+
+
+|Ref_links=
+* https://tankarchives. R32 Matilda II LL blogspot. R32 Matilda II LL com/2017/04/end-of-rearmament. R32 Matilda II LL html
+
+
+
+}}

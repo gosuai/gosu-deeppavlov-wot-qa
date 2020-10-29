@@ -1,0 +1,79 @@
+{{for|the light tank|M2 Light Tank}}
+{{TankData|Tank=M2_med
+|It has the improved 37mm and a very powerful 75mm howitzer, which requires the M2M7 turret. A25 M2 med  At first, with the 37mm, the M2 can feel a bit handicapped fire-power wise. A25 M2 med  Once armed with the 75mm howitzer, it is a force to be reckoned with. A25 M2 med  This, coupled with its good mobility, makes the M2 a fun tank to play and the grind to M3 Lee* should be quick and painless. A25 M2 med  *The M3 Lee and M2 Medium are now Collector Vehicles, meaning they are still able to be bought from the Store for credits, but they are no longer in the tech tree. A25 M2 med   
+
+|InTheGame_pros=
+* Speed and traverse is very good for a medium tank
+* 2nd turret yields almost unheard of view range at its tier
+* Frontal hull armor is sloped and can occasionally bounce shells 
+* Excellent signal range
+* Insanely good gun elevation and depression with 2nd turret ( +40/-20 respectively )
+
+|InTheGame_cons=
+* Very low HP for some odd reason ( only 210 when fully upgraded ), 375 as of 1. A25 M2 med 9
+* Outside of the UFP, the armor sucks, especially vs. A25 M2 med  higher tier tanks
+* 2nd turret is open top ( Arty will be all over you )
+* The MG housings behind the UFP are very obvious weakspots
+* Statistically a very poor performer in higher tier matches, though 9. A25 M2 med 18 MM has negated this somewhat
+|InTheGame_performance=
+Firepower wise when equipped with the 75mm howitzer, the M2 Medium tank shines. A25 M2 med  It can one shot or heavily damage most tanks its tier and below, and have some capability of fighting higher tier tanks frontally (Although flanking is always the best choice. A25 M2 med ) The 75mm HEAT shell has enough penetration to hurt most tier 5 (4 as of 9. A25 M2 med 18, tier III can no longer see tier V) vehicles with good aim. A25 M2 med  The M-6 37mm gun does offer upgraded penetration, accuracy, and rate of fire, but at Tier 3 these traits are negated by the rather low damage per shot versus the raw damage the 75mm gun offers. A25 M2 med  
+
+The gun depression is extremely excellent, allowing the M2 MT to take up very effective hull-down positions, which is extremely important. A25 M2 med  In a tier 3 match this will allow you to bounce most small caliber fire. A25 M2 med 
+
+Armor wise, it has decent frontal armor, but with the second turret being an open top, it becomes very vulnerable to enemy arty and HE (most notably, enemy M2 MT's), so avoid slugging fights where possible and try to end them quickly with the 75mm gun, or your low reload speed may put you in a situation where you will be outgunned quickly by faster firing enemies or their artillery support. A25 M2 med 
+Also be aware that the MG ports are large weakspots. A25 M2 med 
+
+One interesting thing to note is that this tank is the poster child for the [[Crew#Skills|Relaying skill]]. A25 M2 med  It has the highest signal range for tier 3, excellent view range, and it has two Radio Operators. A25 M2 med  Tier 3 is low enough that your team can genuinely benefit from Relaying skill. A25 M2 med  However, since this is still a medium tank, it is not well suited for actively scouting behind enemy lines. A25 M2 med  Instead, stay back a bit and let the Relaying skill passively boost the signal range of everyone around you. A25 M2 med  Also of note is that with Binocs, you can have the maximum allowable view range at tier 3. A25 M2 med  This can be quite powerful on maps like Province and Malinovka. A25 M2 med 
+When bottom tier, act as a support tank. A25 M2 med  Take flanking shots and support bigger allies. A25 M2 med 
+
+|InTheGame_research=
+* The SCR 210 and SCR 506 radios carry over from the T2 Medium Tank and can be installed immediately. A25 M2 med 
+* First research the turret for improved frontal armor and much improved view range. A25 M2 med 
+* Next research either the 37 mm Gun M-6 or the 75 mm Howitzer M3, depending on you wanting damage and derpeffect or RoF and penetration. A25 M2 med 
+* You don't need more weight capacity, but get the upgraded suspension for the improved traverse speed. A25 M2 med 
+* Go from there. A25 M2 med 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Coated Optics, Binocular Telescope
+
+|Gallery=
+image:M2_Medium_Tank_001. A25 M2 med jpg
+image:M2_Medium_Tank_002. A25 M2 med jpg
+image:M2_Medium_Tank_003. A25 M2 med jpg
+image:M2_Medium_Tank_004. A25 M2 med jpg 
+
+|History=
+The Medium Tank M2 was a United States Army tank that was first produced in 1939 by the Rock Island Arsenal, just prior to the commencement of the war in Europe. A25 M2 med  Production was 18 M2 tanks, and 94 slightly improved M2A1 tanks, for a total figure of 112. A25 M2 med 
+
+The M2's unique features included an unusually large number of machine guns, bullet deflector plates, and sloped armor on the hull front (glacis plate). A25 M2 med  The main armament was a 37 mm gun, with 32 mm armor. A25 M2 med  The M2A1 had a 51 mm gun mantlet. A25 M2 med  For combat it was a poor design, with thin armor, inadequate main armament and a high profile. A25 M2 med  The four sponson-mounted machine guns proved to be completely unnecessary. A25 M2 med 
+
+The M2 was already obsolete when it entered service. A25 M2 med  It compared poorly with the latest European tanks, such as the French S-35, German Panzer III and Soviet BT-7, which could easily withstand 37 mm hits. A25 M2 med 
+
+The 37 mm main armament of the M2 was equivalent to the 37 mm in the Panzer III, but the BT-7 (45 mm) and the S-35 (47 mm) had more powerful guns. A25 M2 med  By 1941, Germany had upgunned the Panzer III with a 50 mm L/42 gun, and the Soviets had fielded the vastly superior T-34, with a 76 mm gun and a sloped 52 mm glacis plate. A25 M2 med  Given this, the M2 was essentially a stopgap measure until more capable tanks like the M3 Lee and M4 Sherman came along in 1942-43. A25 M2 med  Although 18 M2s and 94 M2A1s were produced, the Ordnance office recommended in 1942 that they should only be used for training purposes, and they were never sent overseas to combat areas. A25 M2 med 
+
+|HistoricalGallery=	
+image:M21. A25 M2 med jpg{{!}}An M2A1 Medium Tank (late production series). A25 M2 med 
+image:M22. A25 M2 med JPG{{!}}a M2 medium tank, used in World War II by American forces. A25 M2 med 
+
+|HistAcc=
+The only changes to the M2 Medium Tank were an enlarged turret, automotive improvements and thicker armour. A25 M2 med  There were no plans to replace its original 37 mm gun. A25 M2 med  Thus the 75 mm howitzer configuration is fake. A25 M2 med 
+*The open-topped turret configuration on the M2 is also fake. A25 M2 med 
+*Historical [https://4. A25 M2 med bp. A25 M2 med blogspot. A25 M2 med com/-kIJPatnhbRo/WOE9ZiU4d5I/AAAAAAAANC4/tivPwriajNg5ayQ0uzSITqJvIeVQznocACLcB/s640/m2medium16-2e5400c0787bc51cb2507fd3aff35fe9. A25 M2 med jpg early M2 turret] is missing. A25 M2 med 
+*Historical twin 37 mm M2A1 guns are also missing. A25 M2 med  This experimental configuration was known as the T5 Phase I (Early). A25 M2 med 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A25 M2 med  and C. A25 M2 med  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A25 M2 med 
+
+Hunnicutt, R. A25 M2 med P. A25 M2 med , 1971, '''<i>Pershing: A History of the American Medium Tank T20 Series</i>''', Presidio Press, 240p,  ASIN:B0006CEM9W
+
+Hunnicutt, R. A25 M2 med P. A25 M2 med , 1976, '''<i>Sherman: A History of the American Medium Tank</i>''', Presidio Press, 572p,  ISBN:9780891410805. A25 M2 med 
+
+
+|Ref_links=
+
+* [https://www. A25 M2 med wwiivehicles. A25 M2 med com/usa/tanks-medium/m2. A25 M2 med asp '''M2 Medium Tank'''] Photos & history. A25 M2 med 
+}}

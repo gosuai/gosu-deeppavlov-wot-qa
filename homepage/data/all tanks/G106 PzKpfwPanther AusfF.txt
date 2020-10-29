@@ -1,0 +1,70 @@
+{{TankData|Tank=G106_PzKpfwPanther_AusfF
+|
+
+The Panther mit 8,8 cm L/71 (or Panther 88) is fairly similar to its tech tree counterpart, the [[Panther II]], but has some minor differences: slightly weaker hull armor, but better terrain resistance values and hull traverse giving an edge to its mobility. G106 PzKpfwPanther AusfF  It also sports superior RoF and gun handling than [[Panther II]] mounting the very same 8. G106 PzKpfwPanther AusfF 8cm L/71. G106 PzKpfwPanther AusfF 
+|Gallery=
+
+File:Panther mit 8,8 cm L 71 scr 2. G106 PzKpfwPanther AusfF jpg
+File:Panther mit 8,8 cm L 71 scr 3. G106 PzKpfwPanther AusfF jpg
+File:Panther mit 8,8 cm L 71 scr 4. G106 PzKpfwPanther AusfF jpg
+File:Panther mit 8,8 cm L 71 scr 1. G106 PzKpfwPanther AusfF jpg
+
+
+|InTheGame_pros=
+* Very good accuracy, great DPM (much higher than the [[Panther II]])
+* Acceptable AP (standard) penetration
+* Better acceleration and agility compared to the [[Panther II]]
+* Good hitpoint pool, equal to same-tier heavy tanks
+* Excellent at ramming lighter and poorly armored tanks
+
+|InTheGame_cons=
+* Rather long aimtime
+* Large target with poor concealment
+* Same hull armor as the Tier 7 [[Panther]] is inadequate for Tier 8
+* Poor gun elevation
+* Top speed caps at only 46 km/h, much worse than the [[Panther II]]
+
+|InTheGame_performance=
+
+The Panther 88 can be considered a lighter brother of the [[Panther II]], carrying shorter gun, but also less weight. G106 PzKpfwPanther AusfF  The well-known 8. G106 PzKpfwPanther AusfF 8cm L/71 gun might appear underwhelming for Tier VIII, but it comes with improved characteristics to compensate for the platform's weaknesses. G106 PzKpfwPanther AusfF  It excels at long/medium range combat, where it can use its superior accuracy to pick off targets. G106 PzKpfwPanther AusfF  In a hull-down position, the Schmalturm turret presents a small and difficult target at long ranges, which can greatly enhance survivability. G106 PzKpfwPanther AusfF  Due to its similarities to the [[Panther II]], it can use most of the same tactics, although one has to be very mindful of the weaker hull armor and the inferior mobility and adjust accordingly. G106 PzKpfwPanther AusfF 
+
+The hull of the Panther 88 is exactly the same as that of the Tier VII [[Panther]]. G106 PzKpfwPanther AusfF  While the armor of the Panther is somewhat acceptable at Tier VII, it is absolutely no match for many of the powerful guns encountered at Tier VIII+. G106 PzKpfwPanther AusfF  It is also a huge target, and exposing it should be avoided as much as possible. G106 PzKpfwPanther AusfF  The side armor is also only 50 mm thick. G106 PzKpfwPanther AusfF  It is a small consolation that this can only be overmatched by the relatively rare 150 mm and larger guns, but it is still very dangerous to expose it in combat, considering that the side of the hull contains ammunition racks and fuel tanks. G106 PzKpfwPanther AusfF 
+
+At short ranges, the Panther 88 suffers, as short range combat favors tanks with heavy armor, high damage guns, or both, neither of which the Panther 88 has. G106 PzKpfwPanther AusfF  The relatively flat portions of the turret are also much easier to hit at short ranges, a problem it shares with other high tier German tanks. G106 PzKpfwPanther AusfF  This is not to say that it cannot be effective at close ranges, for it still has a high rate-of-fire and a large HP pool, but using it effectively at close ranges requires a great deal of skill and management of the HP pool, as the armor is effectively irrelevant. G106 PzKpfwPanther AusfF  It is not recommended that inexperienced players purchase the Panther 88, as it requires a significant amount of knowledge and experience with the game to use effectively. G106 PzKpfwPanther AusfF 
+
+It must be noted that the Panther 88 does not enjoy non-preferential matchmaking and can therefore face Tier X tanks, against which the gun will struggle to do consistent damage from the front. G106 PzKpfwPanther AusfF  It should also be noted that this tank is on the cheaper end of all Tier VIII premium tanks made available, with the [[T26E4 Super Pershing]], [[59-Patton]] and [[M4A1 Revalorisé]] being cheaper. G106 PzKpfwPanther AusfF 
+
+*Note: As of Update 1. G106 PzKpfwPanther AusfF 10. G106 PzKpfwPanther AusfF 1, the Panther 8. G106 PzKpfwPanther AusfF 8cm has been buffed. G106 PzKpfwPanther AusfF  Previously, the alpha was 240, which is what the vast majority of tier VIII Mediums have or are close to having. G106 PzKpfwPanther AusfF  The Panther 8. G106 PzKpfwPanther AusfF 8cm now has 280/280/370 alpha, up from 240/240/295, with no reload reduction, vastly improving trading and DPM. G106 PzKpfwPanther AusfF  Previously, the DPM was 2,176; now, as of 1. G106 PzKpfwPanther AusfF 10. G106 PzKpfwPanther AusfF 1, it has 2,539. G106 PzKpfwPanther AusfF  This makes it have a HUGE DPM advantage, about the same as the E 50 with the stock turret and L/100. G106 PzKpfwPanther AusfF  The Panther 8. G106 PzKpfwPanther AusfF 8 actually now has the highest DPM of a tier VIII Medium, slightly surpassing the previous highest Obj. G106 PzKpfwPanther AusfF  416. G106 PzKpfwPanther AusfF  This does make a rather large difference with the Panther II and Panther 8. G106 PzKpfwPanther AusfF 8cm; although the L/71 is on both tanks, it is vastly different; the Panther II still has 240/240/295 alpha on it, with a worse reload and overall gun handling, while the Panther 8. G106 PzKpfwPanther AusfF 8's L/71 is more similar to the L/100 the Panther II has. G106 PzKpfwPanther AusfF 
+
+|InTheGame_research=
+Premium vehicle
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Coated Optics, "Wet" Ammo Rack Class 1 	
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+{{VideoYT|aEUK4gbJaUI}}
+
+|History=
+
+(See the [[Panther]] article for more history on the Panther tank as a whole)
+
+
+In January 1945, a Schmalturm for Panther with KwK 43 (88mm L/71) was proposed by Daimler Benz. G106 PzKpfwPanther AusfF  The first drawing of the DB turret actually comes from 18. G106 PzKpfwPanther AusfF 10. G106 PzKpfwPanther AusfF 1944 and based on that, DB recieved a contract to develop this variant and it was in January they presented the results. G106 PzKpfwPanther AusfF  It was to have a -8/+15 elevation and depression and was to be equipped with SFZ2 or SFZ3 stabilized gunsights. G106 PzKpfwPanther AusfF  And all the while the whole thing weighted only a ton more than the current Panther turret. G106 PzKpfwPanther AusfF  However, the work on the project never got beyond wooden mockup, which was found in the DB plant after the war. G106 PzKpfwPanther AusfF 
+
+It should be noted that the project to mount the 88mm L/71 onto the Schmalturm is entirely separate from the Panther II project. G106 PzKpfwPanther AusfF  The Panther II was developed and cancelled before the Schmalturm turret was proposed. G106 PzKpfwPanther AusfF 
+
+|HistoricalGallery=
+File:Panther_Schmalturn_with_L_71_88. G106 PzKpfwPanther AusfF jpg{{!}}Picture of the Schmalturm turret with the 88mm L/71 KwK 43, as illustrated by Hilary Louis Doyle. G106 PzKpfwPanther AusfF 
+
+|Ref_references=
+
+|Ref_sources=
+* H. G106 PzKpfwPanther AusfF L. G106 PzKpfwPanther AusfF Doyle, T. G106 PzKpfwPanther AusfF Jentz – Panther Variants 1942-1945
+
+|Ref_links=
+* https://ftr. G106 PzKpfwPanther AusfF wot-news. G106 PzKpfwPanther AusfF com/2013/10/15/panther-ultimate-evolution-panther-ausf-f/
+
+}}

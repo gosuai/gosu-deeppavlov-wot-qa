@@ -1,0 +1,83 @@
+{{TankData|Tank= AMX 50 Foch B
+
+| Replaced [[Tank:AMX_50Fosh_155|Foch 155]] in 9. F64 AMX 50Fosh B 20 patch, the '''AMX 50 Foch B''' is basically Foch 155 with rapid-fire autoloader gun. F64 AMX 50Fosh B  It sacrifice its alpha damage and penetration in favor of high burst damage, high DPM, and accuracy. F64 AMX 50Fosh B  resulting to insane damage per clip at 2400+, close to the monstrosity damage per clip of [[Tank:G98_Waffentrager_E100|Waffentrager E 100]]. F64 AMX 50Fosh B  It still suffers some of problems with Foch 155, however. F64 AMX 50Fosh B 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- High accuracy and shell velocity allow efficient sniping
+
+- Incredible 2,400 burst damage distributed among 6 shells with quick intra-clip reload and acceptable full clip reload time
+
+- Tough front armor, thick and sloped
+
+- Good top speed and respectable weight make potential rammer against medium or light tanks 
+
+- Shock factor like the previous [[Tank:G98_Waffentrager_E100|WT E 100]] due to clip potential, enemy tanks may panic upon sighting you
+
+|InTheGame_cons= 
+
+- 2nd worst alpha damage and worst penetration on both standard and premium ammunition of all Tier X TDs (excluding HE(SH) shell of British TDs)
+
+- Autoloader size combined with penetration and role means loading almost all APCR to do its job, which is extremely expensive even for Tier X
+
+- Long and weakly armored side armor, will not bounce unless shells hit at an auto-bounce angle
+
+- Rangerfinder can be easily penetrated by even Tier VIIs, and makes obvious target up close
+
+- Weak engine compartment roof, extremely vulnerable against artillery fire or tall facehuggers
+
+- Sluggish due to bad terrain resistance
+
+- Limited gun arc, -6/+18 degrees vertical and ±10 degrees horizontal
+
+
+|InTheGame_performance= 
+
+The Foch B is a slightly evolutionary upgrade of the Tier IX Foch with one big exception that makes all the difference. F64 AMX 50Fosh B  The autoloader magazine doubles in size from three shots to six. F64 AMX 50Fosh B  So while it is still a 120mm gun tank destroyer with obvious weakspots, staring it down is now a deadly proposition. F64 AMX 50Fosh B  
+
+After undergoing a considerable revamp in patch 9. F64 AMX 50Fosh B 20, the Tier X Foch received a 120mm gun and more powerful engine. F64 AMX 50Fosh B  In compare to its previous 155mm mounting configuration, the new Foch B can now relocate and snipe with ease, making a much better supporter. F64 AMX 50Fosh B  While losing in penetration and alpha damage, the new 6 rounder still possesses formidable if not stronger one-clipping capability, provided one knows to exploit weak spots. F64 AMX 50Fosh B  With 2 more shells in drum than other 120mm sporting autoloaders, the Foch B can choose to expend a shot or two de-tracking first, thus pinning down the target for easier kill. F64 AMX 50Fosh B  In terms of protection, thicker sides and fighting compartment roof are now proof against large caliber autopens, but still prone to flanking or plunging fire. F64 AMX 50Fosh B  
+
+{{VideoYT|kv899UQK-vI}}
+
+|InTheGame_research= 
+The AMX 50 Foch B comes elited, thus requires no research. F64 AMX 50Fosh B 
+
+|Gallery=
+N/A
+
+|InTheGame_equipment=
+
+Binocular Telescope, Enhanced Gun Laying Drive, Improved Ventilation Class 3
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+See the [[AMX50 Foch]] history page for a complete history on the Foch itself. F64 AMX 50Fosh B 
+
+The Foch B is essentially a "what-if" based on the AMX 50 Foch having a drum-based autoloader, similar to the AMX 50 heavy tanks. F64 AMX 50Fosh B  There are no known projects or blueprints that show such a design ever existed. F64 AMX 50Fosh B 
+
+|HistAcc=
+In-game description is false. F64 AMX 50Fosh B  The Foch was never designed to hold an autoloader even on blueprints. F64 AMX 50Fosh B  The historical version with the single-shot gun does not exist in World of Tanks. F64 AMX 50Fosh B 
+* There was never any Foch project designated "Foch B". F64 AMX 50Fosh B 
+* The tank is essentially a clone of the [[Tank:F37_AMX50_Foch|tier 9 AMX 50 Foch]] with almost identical specifications (gun, engine, radio) with the only difference at its extra sideskirt. F64 AMX 50Fosh B  Yet several stats were inconsistent to the original vehicle (such as the Foch B's suspension load limit is lower than original Foch, and extra ammunition capacity). F64 AMX 50Fosh B 
+|HistoricalGallery= 
+File:AMX_50_Foch_blueprint. F64 AMX 50Fosh B jpg{{!}}AMX 50 Foch armor layout
+File:AMX_50_Foch_blueprint_1. F64 AMX 50Fosh B jpg{{!}}The Foch's ammunition storage
+File:AMX_50_Foch_blueprint_2. F64 AMX 50Fosh B jpg{{!}}AMX 50 Foch interior blueprint
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F64 AMX 50Fosh B jpg
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH_1. F64 AMX 50Fosh B jpg
+image:Amx50foch058ln. F64 AMX 50Fosh B jpg
+image:Amx50foch037rz. F64 AMX 50Fosh B jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

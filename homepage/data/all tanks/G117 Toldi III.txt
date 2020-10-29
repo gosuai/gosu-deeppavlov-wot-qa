@@ -1,0 +1,59 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:43 M. G117 Toldi III  Toldi III scr 1. G117 Toldi III jpg
+File:43 M. G117 Toldi III  Toldi III scr 2. G117 Toldi III jpg
+File:43 M. G117 Toldi III  Toldi III scr 3. G117 Toldi III jpg
+
+
+|InTheGame_pros= 
+*Reasonably mobile with good hull traverse and power to weight ratio
+
+*Decent radio range
+
+*Decent sloped glacis armor, can bounce some autocannons if properly angled
+
+|InTheGame_cons=
+
+* View range is severely lacking, 270 meters is just not enough
+
+* '''Very bad''' gun. G117 Toldi III  Low accuracy and bad dispersion penalty; everything else is on the lower side. G117 Toldi III  
+
+* Has the lowest DPM in the game, 3rd lowest if you equip the strv fm/21 and the 4TP, it's closest competitors
+with stock guns
+
+* In addition, reload time is ridiculously long at 4 seconds, even a few Tier 2 vehicles might outtrade you
+
+* Recommended not to snipe due to BAD dispersion and shell velocity 
+
+|InTheGame_performance= 
+* Soft armor leads to frequent module damage 
+
+* Outclassed in almost every aspect by the [[Pz. G117 Toldi III Kpfw. G117 Toldi III  T 15]], [[Strv m/40L]] and the [[M3 Stuart|Stu]][[Stuart I-IV|arts]], totally depriving its gameplay or credit farming/crew training values. G117 Toldi III  Avoid purchasing it unless solely for collection purpose. G117 Toldi III 
+
+
+
+
+|InTheGame_research= None, This is a Premium vehicle. G117 Toldi III 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The 38M Toldi was a Hungarian light tank, based on the Swedish Landsverk L-60B tank. G117 Toldi III  It was named after the 14th century Hungarian knight Miklós Toldi. G117 Toldi III 
+|HistoricalGallery= 
+File:Toldi I tank kub. G117 Toldi III jpg{{!}}38M Toldi (Toldi I variant)
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

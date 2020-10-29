@@ -1,0 +1,79 @@
+{{TankData|Tank=F32_Somua_Sau_40
+|Contrary to what the ingame description says, the SAu40 was developed as an SPG on the basis of the Somua S35 but was later converted to a tank destroyer, one prototype was built. F32 Somua Sau 40 
+
+The SAu 40 is not the little tankette that its predecessor, the UE 57 was. F32 Somua Sau 40  Instead, it is a large, slow-moving warehouse and it may come with a steep learning curve if one is used to the playing style of the UE 57. F32 Somua Sau 40  To start with, it comes with an average 75mm short-barreled gun with decent damage for its tier but with poor accuracy and sub-par penetration. F32 Somua Sau 40  Once upgraded, it can equip an able 75 mm long-barreled gun that will take care of any foes up to its tier level, or a very powerful 105 mm howitzer able to destroy or cripple any higher tier tank that it may face, so using it before moving on to the next tier can be a rewarding experience. F32 Somua Sau 40  The SAu 40's frontal armor is not very good, even by Tier 4 standards, but the most glaring weakness is the small turret (also known as "The Tumor") on top, where it can be easily penetrated. F32 Somua Sau 40 
+
+|Gallery=
+
+File:Somua SAu 40 scr 1. F32 Somua Sau 40 jpg
+File:Somua SAu 40 scr 2. F32 Somua Sau 40 jpg
+File:Somua SAu 40 scr 3. F32 Somua Sau 40 jpg
+
+
+|InTheGame_pros=
+* Short aim time on all guns
+* Good gun elevation and depression
+* Highest rate of fire and view range of any tier 4 TD offering a 105mm howitzer
+* Very fast shell velocity for a howitzer
+
+|InTheGame_cons=
+* Fairly poor accuracy
+* Poor mobility all round
+* Narrow gun traverse arc
+* top 75mm's premiun round gives only 29% extra penetration, meaking it useless against properly positioned tanks. F32 Somua Sau 40  
+* Poor protection against anything it might face, with a big turret on the top attracting fire
+
+|InTheGame_performance=
+Compared to the tiny and fairly mobile Renault UE 57 that preceded it, the SAu-40 is a completely different machine. F32 Somua Sau 40  It is much slower and less mobile, has a far larger silhouette that is much more difficult to hide. F32 Somua Sau 40  In exchange, it gets thicker armour and more HP, as well as far more powerful armament. F32 Somua Sau 40  The 105 mm Canon de 105 court mle. F32 Somua Sau 40  1934S AC deals massive damage, but requires patience and a window of opportunity to be used to its fullest. F32 Somua Sau 40  The 75 mm Long 44 AC, on the other hand, kills tanks it can penetrate faster than the 105mm, and is somewhat more accurate than the 105 mm Canon de 105 court mle. F32 Somua Sau 40  1934S AC. F32 Somua Sau 40  
+
+The 105mm has higher accuracy than comparable guns and has a fairly high shell velocity for a howitzer. F32 Somua Sau 40 
+
+Depending on the gun equipped, the SAu 40 can either play as a second-line support tank destroyer, or an ambusher. F32 Somua Sau 40  The inaccuracy of its weapons would preclude using it as a sniper, but you have little other choice, as you can not go hulldown with this tank, and it's viewrange is decent. F32 Somua Sau 40  Use the occasional food and only fire at a distance when fully aimed. F32 Somua Sau 40  The SAu 40's thin armour also precludes its use as a frontline tank destroyer. F32 Somua Sau 40  It plays similarly to the Hetzer, but is much larger, and has thinner armour. F32 Somua Sau 40 
+
+A camouflage net would be a good choice of equipment, as the SAu-40 is quite sluggish to maneuver for relocation, allowing it to get as many shots off as possible before being spotted. F32 Somua Sau 40 
+
+|InTheGame_research=
+* The ER 53 and ER 56 radios carry over from the Renault UE 57. F32 Somua Sau 40  Install the ER 56 immediately. F32 Somua Sau 40 
+* Research the upgraded suspension first, as the additional weight capacity is required in order to upgrade the gun. F32 Somua Sau 40 
+* Next research the 75 mm Long 44 AC gun for much improved penetration. F32 Somua Sau 40 
+* Now research Somua S-40 Bis engine. F32 Somua Sau 40 
+* Go from there. F32 Somua Sau 40 
+
+|InTheGame_equipment=
+Vents, Binocular Telescope, Camouflage Net
+
+|History=
+[[image:Sau40 01. F32 Somua Sau 40 jpg|thumb|200px|left|Somua Sau-40 derived from the S35 medium tank chasis]]In 1935 France started the development of the new self propelled gun \ tank destroyer vehicle. F32 Somua Sau 40  Two companies responded with proposals. F32 Somua Sau 40  Societé d'Outillage Mécanique et d'Usinage d'Artillerie (SOMUA) started work on a project that was to become the SOMUA SAu 40, and Atelier de Construction de Rueil (ARL)began developing its ARL 39V prototype. F32 Somua Sau 40 
+
+
+Unlike the ARL V39, which was based on the BDR G1B tank, SOMUA derived the SAu 40 from the very promising S35 cavalry tank that proved to be the best tank in the French arsenal at the beginning of World War 2. F32 Somua Sau 40  The SOMUA SAu 40 prototype was to be finished and presented to the army in 1937. F32 Somua Sau 40  Unfortunately, since it shared the main gun with competing ARL V39, it had to wait for a full year for the both primary and secondary armament to be mounted. F32 Somua Sau 40  Main armament was to be the 75 mm APX gun, a modification of the ''mle. F32 Somua Sau 40  1929 de Casemate'' gun originally developed for fortifications. F32 Somua Sau 40  The gun un had a semi-automatic breech, automatic shell rammer, and a very odd and unusual feature: it could be retracted inside the hull to decrease the vehicle's length. F32 Somua Sau 40  Secondary armament consisted of a 7. F32 Somua Sau 40 5 mm machine gun placed in a small turret on the roof, similar to the competing ARL project. F32 Somua Sau 40  The 75 mm gun APX 1929 gun was to have a traverse arc of 7 degrees to the left and 7. F32 Somua Sau 40 6 to the right with an excellent elevation arc from -10 to 30 degrees. F32 Somua Sau 40  Maximum effective range was to be 2000 m, with an ammunition capacity of 102 rounds. F32 Somua Sau 40  The sights were quite advanced for its time, and they offered 4x magnification, with a field of view of 125 degrees. F32 Somua Sau 40  
+
+With tensions running high in Europe just prior to the outbreak of World War 2, France was desperate for any kind of modern armor, and the SOMUA SAu 40 was ordered into series production. F32 Somua Sau 40  An order for a total of 36 vehicles was placed. F32 Somua Sau 40  By 1 May 1940, 72 vehicles had been ordered, but only the prototype was armed with the 75 mm gun. F32 Somua Sau 40  The production vehicles were instead armed with the powerful 47 mm SA 37 anti-tank gun as tank destroyers. F32 Somua Sau 40  It is known that the prototype SAu 40 fought during the Battle for France in June 1940, probably along with a few production vehicles. F32 Somua Sau 40  The fall of France in June 1940 brought an end to all further development. F32 Somua Sau 40 
+
+
+|HistoricalGallery=
+image:Sau40 01. F32 Somua Sau 40 jpg
+image:Sau40 02. F32 Somua Sau 40 jpg
+image:Sau40 03. F32 Somua Sau 40 jpg
+image:Sau40 04. F32 Somua Sau 40 jpg
+image:Sau40 05. F32 Somua Sau 40 jpg
+
+|HistAcc=
+The Somua SAu 40 was only ever equipped with the stock 75 mm gun, not the 105 mm Howitzer nor the long 75 mm gun, the latter of which was only developed after 1940. F32 Somua Sau 40  
+
+|Ref_references=
+
+
+|Ref_sources=
+
+* Bingham, J. F32 Somua Sau 40 , 1971, '''<i>AFV Weapons Profile 36 - Chars Hotchkiss, H35, H39, and Somua 35</i>''', Profile, Windsor, UK,  24p. F32 Somua Sau 40 
+
+|Ref_links=
+
+* [https://www. F32 Somua Sau 40 chars-francais. F32 Somua Sau 40 net/2015/index. F32 Somua Sau 40 php/liste-chronologique/de-1930-a-1940?task=view&id=54 '''<i>1937 Canon Automoteur Somua Sau 40 at chars-francais. F32 Somua Sau 40 net</i>'''] Photos, specs, and brief history in French. F32 Somua Sau 40 
+
+* https://en. F32 Somua Sau 40 valka. F32 Somua Sau 40 cz/viewtopic. F32 Somua Sau 40 php/title/FRA-SAu-40/t/78625
+
+* https://ftr. F32 Somua Sau 40 wot-news. F32 Somua Sau 40 com/2015/03/02/somua-s40-modernization/
+
+}}

@@ -1,0 +1,119 @@
+{{TankData|Tank=PzVI_Tiger_P
+|While in stock form, its 7. G57 PzVI Tiger P 5 cm KwK 42 L/70 is insufficient for targets above its tier. G57 PzVI Tiger P  Once its accurate and powerful 8. G57 PzVI Tiger P 8 cm KwK 43 L/71 is mounted, the Tiger (P) becomes a real sniper, capable of destroying higher tier tanks. G57 PzVI Tiger P  Its unusually thick hull armor and the 100mm thick mantlet covering the frontal 100mm plate of the upgraded turret makes it hard for many enemy tanks to penetrate frontally. G57 PzVI Tiger P  It has a slightly different game style compared to its cousin, the [[Pz. G57 PzVI Tiger P Kpfw. G57 PzVI Tiger P  VI Tiger]]; it has less engine power, the same weapons, a lower rate of fire, a lot more armor on the front, and lower top speed. G57 PzVI Tiger P  Like the PzKpfw VI Tiger, the Tiger (P) excels as a sniper, though with its 200mm thick hull front, it is capable of leading the charge if required. G57 PzVI Tiger P  
+
+|InTheGame_pros=
+- Great frontal hull armor
+
+- High hit points for its tier
+
+- Good accuracy and penetration with the top gun making it an excellent sniper
+
+- Good view range and top-end radio range
+
+- Decent top speed for a Heavy
+
+- It can used to shift into 4 lines; All of 3 Germans superheavy line and JPZE100 line. G57 PzVI Tiger P 
+
+|InTheGame_cons=
+- Overall sluggish due to poor power to weight ratio
+
+- Frontal armor is tough, but relies on thickness rather than slope
+
+- The top gun has a fairly slow reload and damage per minute compared to other tanks using it
+
+- Large silhouette
+
+- Small lower glacis is really weak
+
+- Gun mantlet is frustratingly weak
+
+- Extremely prominent Commander's cupola can be an easy target. G57 PzVI Tiger P 
+
+- Extremely weak tracks, easily damaged or destroyed. G57 PzVI Tiger P 
+
+|InTheGame_performance=
+Depending on the map, with its frontal armor and sluggish speed it can lead the front of a group assault or act as tough second line to counter breakthroughs. G57 PzVI Tiger P  The problem is that the tracks, turret and sides are vulnerable, so it needs another tank to cover its rear. G57 PzVI Tiger P  The top gun is reliable at causing damage but has a fairly standard rate of fire for a heavy tank. G57 PzVI Tiger P  Due to its low speed, you have to be cautious of arty. G57 PzVI Tiger P  The large gun mantlet also adds a significant amount of protection to the front of the turret. G57 PzVI Tiger P 
+
+The strong front armor makes it impervious to shells from most Tier 6 tanks. G57 PzVI Tiger P  Many conventional T7 tanks will also have trouble penetrating. G57 PzVI Tiger P  However, it has no slope and relies instead on thickness alone. G57 PzVI Tiger P  Powerful HE shells can deal nominal damage to your front, so angle it for maximum effectiveness. G57 PzVI Tiger P  This tank rewards angling greatly, so use it as much as you can. G57 PzVI Tiger P  However, take care not to expose the ``cheeks'' of the hull armor next to the massive frontal plate. G57 PzVI Tiger P  They are only 80 mm thick and can be penetrated by nearly every tank the Tiger(P) encounters. G57 PzVI Tiger P  Of course, the sheer thickness can usually stop most shells, but beware higher tiered tanks and their guns. G57 PzVI Tiger P  The turret has 100 mm of frontal armor coupled with a thick gun mantlet, which is good enough for most conventional shells. G57 PzVI Tiger P  Most unfortunately, the cupola is tall and weak, almost negating your armor. G57 PzVI Tiger P  From a distance, though, it is hard to hit, so stick to sniping. G57 PzVI Tiger P 
+
+Although the armor on this tank is impressive, its speed is not, so avoid combat. G57 PzVI Tiger P  Stay away from the fight and snipe unsuspecting foes. G57 PzVI Tiger P  Do note that your speed will make it difficult to run when you are eventually discovered, so have an escape route planned. G57 PzVI Tiger P  If you must fight close-quarters, have some allies to cover your flanks and protect you from fast enemies. G57 PzVI Tiger P  When you are top tier, don't be afraid to show your enemies how thick your armor is. G57 PzVI Tiger P  The armor on this tank can be an effective frontal assault leader. G57 PzVI Tiger P  The plate bolted over the driver's view port and radioman's machine gun are vulnerable. G57 PzVI Tiger P  The lower glacis plate is thin (a well-aimed shot with the [[M4 Sherman]]'s [[Gun|M1A1]] is able to penetrate). G57 PzVI Tiger P  Keep this in mind while fighting. G57 PzVI Tiger P 
+
+Overall, the Tiger P is a formidable tank that can really scare enemies if caught off guard. G57 PzVI Tiger P  Sniping is the best option, but sometimes you can give your opponents a firsthand experience of just how good German armor can be. G57 PzVI Tiger P  
+
+|InTheGame_research=
+* The 8,8 cm KwK 36 L/56 Gun, 2x Porsche Typ 100/3 Engine, and FuG 12 Radio carry over from the VK 30. G57 PzVI Tiger P 01 (P). G57 PzVI Tiger P  Mount them immediately. G57 PzVI Tiger P 
+* The 8. G57 PzVI Tiger P 8 L/71 requires the tracks, so research those first. G57 PzVI Tiger P 
+* Next research the gun itself, which will really boost performance. G57 PzVI Tiger P 
+* Finally, research the Tiger-(P)-Turm Ausf. G57 PzVI Tiger P  F Turret. G57 PzVI Tiger P 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD
+
+|Gallery=
+image:Tiger (P) front view 1. G57 PzVI Tiger P jpg {{!}}Tiger (P) front left view
+image:Tiger (P) front view 2. G57 PzVI Tiger P jpg‎{{!}}Tiger (P) front right view
+image:Tiger (P) back view 1. G57 PzVI Tiger P jpg‎{{!}}Tiger (P) back left view
+image:Tiger (P) back view 2. G57 PzVI Tiger P jpg‎{{!}}Tiger (P) back right view
+image:TigerP-a. G57 PzVI Tiger P jpg{{!}}Tiger P, map Karelia
+
+|HistAcc= 
+Actual name is VK 45. G57 PzVI Tiger P 01 (P). G57 PzVI Tiger P 
+*The 8,8 cm Kw. G57 PzVI Tiger P K. G57 PzVI Tiger P  43 L/71 was only intended for the Tiger II. G57 PzVI Tiger P  Its configuration on the Tiger (P) is fake. G57 PzVI Tiger P  Moreover, the turret would not have been able to accommodate the gun for the following reasons:
+**The turret would need a counter weight fitted as well as a weight on the breech of the gun. G57 PzVI Tiger P <br>
+**Ammunition storage would require nearly a full rebuild of the ammunition storage racks, it would also make the forward racks inaccessible by the loader reducing the amount of ready storage without rotating the turret 90 degrees to access it. G57 PzVI Tiger P <br>
+**Handling of the ammunition in the turret was impossible using the original Tiger turret. G57 PzVI Tiger P  The length of the shell from where the breech sat in the turret was longer than the entry of the breech to the turret aft. G57 PzVI Tiger P  Basically, the shell could not go into the breech due to how close the breech sat near the aft of the turret. G57 PzVI Tiger P 
+*The Tiger (P)'s reverse speed is incorrect. G57 PzVI Tiger P  The gasoline-electric power/drive system would allow it to have the same reverse speed as forward speed. G57 PzVI Tiger P  Same goes for almost all the VK (P) tanks. G57 PzVI Tiger P 
+
+|History=
+[[image:Tiger(p) 4 note the zimmerit. G57 PzVI Tiger P jpg|thumb|200px|right|
+Only one completed Tiger (P) with chassis number 150013 saw combat service as a command tank - Panzerbefehlswagen VI (P) with schwere Heeres Panzerjager Abteilung 653. G57 PzVI Tiger P  It was used by its commander, Hauptmann Grillenberg (turret number 003), on the Eastern Front in early/mid of 1944. G57 PzVI Tiger P ]]
+On May 26th of 1941, during the meeting concerning the development of new weaponry, Adolf Hitler ordered both Dr. G57 PzVI Tiger P Porsche and Henschel to supply their designs for a heavy tank, which was to be ready in the summer of 1942. G57 PzVI Tiger P  Krupp was in charge of supplying main armament and producing turrets for designs by both Henschel and Porsche. G57 PzVI Tiger P  The project was known as the "Tigerprogram". G57 PzVI Tiger P 
+
+'''Contesters'''
+
+Henschel Tiger’s development was based on previous designs of VK 3001 (H) and VK 3601 (H), while Porsche Tiger’s development was based on previous design of VK 3001 (P) - Leopard. G57 PzVI Tiger P  None of those vehicles entered production but they provided designers with valuable experience. G57 PzVI Tiger P  The new 45-ton panzer was to be armed with a 88mm KwK L/56 mounted in a turret designed by Krupp. G57 PzVI Tiger P  Development of Porsche’s Tiger was progressing much faster than that of Henschel since Porsche worked on an independent project for heavy tank since autumn of 1940. G57 PzVI Tiger P  Henschel was not that advanced and utilized as many already available components from its previous projects to complete its VK 4501 design. G57 PzVI Tiger P 
+
+'''Development'''
+
+In order to speed up the development of VK 4501 (P), components of VK 3001 (P) were modified and used. G57 PzVI Tiger P  The suspension was modified version of the suspension used in the VK 3001 (P) prototype. G57 PzVI Tiger P  It was made up of six road-wheels and lacked return rollers. G57 PzVI Tiger P  Tracks had 109 links per side and were 640mm wide with track surface contact of 4175mm (4. G57 PzVI Tiger P 175m). G57 PzVI Tiger P  Tiger (P) was powered by two (air-cooled) Porsche Typ 101/1 engines mounted in the rear part of the hull. G57 PzVI Tiger P  Gasoline engines drove electrical generators, which drove two electric motors, which provided power to the tracks. G57 PzVI Tiger P Gasoline engines were produced with defects and were repaired but remained unreliable, while electric system used copper, which was a critical war material. G57 PzVI Tiger P  Drive sprocket was in the rear instead of the standard location at the front. G57 PzVI Tiger P  Electric transmission system was used similar to that of the VK 3001 (P). G57 PzVI Tiger P  Overall gasoline-electric power/drive system with which many problems were encountered (such as engine fire) was utilized. G57 PzVI Tiger P  Its power/weight distribution limited its cross-country performance and during trials, VK 4501 (P) prototype was often bogged down (especially in the soft ground) and had to be towed away by recovery vehicles. G57 PzVI Tiger P 
+
+[[image:Albert Speer Ferdinand Porsche and Tiger(P). G57 PzVI Tiger P jpg|thumb|200px|left|From left to right. G57 PzVI Tiger P  Albert Speer, Ferdinand Porsche and Tiger (P) prototype vehicle. G57 PzVI Tiger P ]]
+Both, Henschel and Porsche’s prototypes arrived to a station near Rastenburg on April 19th of 1942 and then traveled 11km to Rastenburg, while constantly breaking down. G57 PzVI Tiger P On April 20th of 1942 at 11:00am, both Porsche and Henschel prototypes were presented to Adolf Hitler (on his birthday) in Wolfschanze (Rastenburg), East Prussia. G57 PzVI Tiger P  Tests were scheduled for July and preliminary tests proved that the Tiger (P)’s design was far from being perfect and modifications were made, but none of the technical problems were fully solved from the lack time. G57 PzVI Tiger P  Both VK 4501 (P) and VK 4501 (H) were armed with powerful 88mm KwK 36 L/56 gun, developed from 88mm Flak 36 L/56 gun. G57 PzVI Tiger P  Originally, Krupp designed and produced the turret for Porsche’s VK 4501, but then it was modified and used by Henschel’s VK 4501. G57 PzVI Tiger P  The first eight turrets produced had lower sides and a flat roof with raised centre section to allow the gun to be depressed through larger arc. G57 PzVI Tiger P 
+
+Tiger (P) had its turret mounted forward, what also made the operating in enclosed areas dangerous. G57 PzVI Tiger P  In July of 1942, both prototypes were put to the extensive tests at the tank school in Berka, Germany. G57 PzVI Tiger P  During the tests, Porsche’s VK 4501 (P) was a failure, while Henschel’s VK 4501 (H) was a great success. G57 PzVI Tiger P  Main failure of Porsche’s design laid in its advanced power and drive system, which was prone to breakdowns and required continuous maintenance. G57 PzVI Tiger P  Also Tiger (P) was longer than its competitor, what made it less maneuverable. G57 PzVI Tiger P  Porsche also provided possibility to arm Tiger (P) in future with 150mm KwK L/37or 100mm L/70 gun, but it was never realized. G57 PzVI Tiger P  There were also plans to utilize 88mm L/100 gun but they were also never realized. G57 PzVI Tiger P 
+
+'''Henschel wins the contract'''
+
+In July of 1942, Henschel Tiger - VK 4501 (H) was approved and went into production. G57 PzVI Tiger P  Only five Tiger (P) were fully completed in July of 1942 by Nibelungenwerke with armored parts supplied by Krupp, before the production was stopped in August of 1942 (chassis number 150001-150010). G57 PzVI Tiger P  Even before the rejection of Tiger(P)’s design, production began on 90 pre-production VK4501 (P) chassis and continued into early September of 1942. G57 PzVI Tiger P  It was decided to equip two sPzAbts (including sPzAbt 501) destined for North Africa with Tiger(P)s. G57 PzVI Tiger P  This decision was made simply because of the stage of development and the fact that Tiger (P)’s engines were air-cooled. G57 PzVI Tiger P  Once again unresolved problem of technical unreliability led to the cancellation of the production. G57 PzVI Tiger P 
+
+'''Variants and derivates'''
+[[image:Bergetiger(P). G57 PzVI Tiger P jpg|thumb|200px|left|Three out five completed vehicles were converted into Bergepanzer Tiger (P) ARV's ]]
+Only five fully completed Porsche Tigers were issued for training and testing purposes to the facility in Dollersheim, Austria. G57 PzVI Tiger P  From August to September of 1943, three of those were converted into recovery vehicles designated - Bergepanzer Tiger (P). G57 PzVI Tiger P  On September 22nd of 1942, it was decided to convert 90 of the existing chassis into Ferdinand / Elephant, heavy assault gun and tank destroyers. G57 PzVI Tiger P  Based on the experiences of Stalingrad street fighting, on November 22nd of 1942, Hitler approved the production of a single Rammtiger - barricade and obstacle destroyer. G57 PzVI Tiger P  Porsche completed the planning stage by December 7th of 1942 and on January 5th of 1943, Adolf Hitler decided that three VK4501(P) chassis are to be modified and converted to Rammtiger / Raumpanzer Tiger (P). G57 PzVI Tiger P  This lightly armed (with MG) vehicle was to be a standard VK4501 (P)’s hull mounted with streamlined upper superstructure and front mounted plow (ploughshare). G57 PzVI Tiger P  The streamlined shape of the superstructure would allow the rubble to slide off the vehicle. G57 PzVI Tiger P  In May of 1943, three superstructures were completed and three Rammtigers were ready in August of 1943. G57 PzVI Tiger P  Their fate is unknown after August of 1943, but it is unlikely that they saw any combat and probably remained at Nibelungenwerke. G57 PzVI Tiger P  Other sources state that only 1:10 and / or 1:15 scale model was made when the entire concept was rejected and three chassis were used as previously planned. G57 PzVI Tiger P 
+
+<!-- Line breaks to make the History panel extend down far enough to enclose the last picture. G57 PzVI Tiger P  -->
+<br><br><br>
+
+|HistoricalGallery=
+image:Tiger(p). G57 PzVI Tiger P jpg{{!}}Tiger (P) prototype transported by rail
+image:Tiger(p) 1. G57 PzVI Tiger P jpg{{!}}Crew of Tiger (P)sitting on the tank while being transported by rail
+image:Tiger(p) 2. G57 PzVI Tiger P jpg{{!}}Crew of Tiger (P)sitting on the tank while being transported by rail
+image:Tiger(p) 3. G57 PzVI Tiger P jpg{{!}}Grillenbergs Tiger (P) sn. G57 PzVI Tiger P  003 deployed on the Eastern front in early 1944
+image:Tiger(p) 4 command veichle. G57 PzVI Tiger P jpg{{!}}The only operational Tiger (P) in the war. G57 PzVI Tiger P  Note the anti magnetic zimmerit coating 
+image:Rammtiger. G57 PzVI Tiger P jpg{{!}} A model of the Rammtiger (Note:The streamlined body used in ramming. G57 PzVI Tiger P )
+image:Ramtiger Chasis. G57 PzVI Tiger P jpg{{!}}One of the completed Rammtigers captured at Nibelungenwerke depot
+image:PzKpfwVI_photo_2. G57 PzVI Tiger P png{{!}}Two views of the Tiger (P) on trials, 3rd image is Tiger (4501 H) prototype
+image:Tiger(P)Ramtiger model. G57 PzVI Tiger P jpg{{!}}Rammtiger computer generated model 
+image:Tiger(P)Ramtiger model img2. G57 PzVI Tiger P jpg{{!}}Rammtiger plastic model
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+Unfortunately the original poster didn't document his/her sources. G57 PzVI Tiger P  Most of the historical information and pictures appear to come from the following site:
+* [https://www. G57 PzVI Tiger P alanhamby. G57 PzVI Tiger P com/tiger. G57 PzVI Tiger P html Tiger I Information Center]
+
+}}

@@ -1,0 +1,110 @@
+{{TankData|Tank=PzIII_AusfJ
+|Despite being a medium tank, it can be considered one of the best scout-gameplay tanks in the German tree, with excellent acceleration and turning giving a mobility rivaling the Luchs. G10 PzIII AusfJ  Comparing the two, Panzer III has less maneuverability than the Luchs, potentially more firepower (but less standard penetration), thicker but flat armor. G10 PzIII AusfJ  There are two guns: the 5 cm KwK 39 L/60 long-cannon with higher penetration and flanking is the best choice for newer players, but there is also an howitzer-like 7. G10 PzIII AusfJ 5 cm KwK 37 L/24; with HEAT being a near-necessity and requiring some extra skills and equipment. G10 PzIII AusfJ  Both guns have their place on a fully upgraded Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III, it depends on player preference and playstyle. G10 PzIII AusfJ  Competing with other tanks, its agility makes it very effective against other light and medium tanks, but its guns are almost useless against heavy tanks. G10 PzIII AusfJ  Be sure to avoid engaging multiple opponents - flank, use cover, and only come out to shoot when you need to. G10 PzIII AusfJ  Use this tank to learn the camo, spotting, and player-distraction techniques of the Leopard line. G10 PzIII AusfJ 
+
+|InTheGame_pros=
+* Very fast speed and traverse; can easily be a scout when needed
+* Upper front armor gives many at-tier enemies trouble
+* Fast firing, somewhat accurate 50mm gun with ridiculous APCR pen. G10 PzIII AusfJ  boost
+* Some at tier and many below tier enemies fear the 75mm (espicially with HEAT loaded)
+* The turret has a large mantlet that might absorb some shells; sacrifices 1° of gun depression however
+
+|InTheGame_cons=
+* Both the 50 and 75mm guns don't do well outside of tier IV without premium ammo
+* Frontal armor is a lie, lower plate is only 50mm; can't angle well due to weak side and rear armor 
+* Typical Front mounted transmission, akin to many German tanks, gets destroyed by hits to the weak lower glacis
+* Many players get cocky with this tanks speed and die (primarily due to subpar view range and bad reverse speed)
+* Can't mount the deadly 7. G10 PzIII AusfJ 5cm Kw. G10 PzIII AusfJ  K 40 L/43 like the Pz. G10 PzIII AusfJ IV D; Underwhelming armory for a medium in general
+
+|InTheGame_performance=
+The Panzer 3 is a decent flanker with speed/mobility and okay DPM. G10 PzIII AusfJ  Once you purchase the Panzerkampfwagen III (or Panzer 3), you realize it is as fast as its predecessor and can be played similar to the parent Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III Ausf. G10 PzIII AusfJ  E as a scout, but its view range is poorer for the tier. G10 PzIII AusfJ  The addition of better armour can be 'lucky', but should only be used when necessary. G10 PzIII AusfJ  In short, you will need to reevaluate your tactics against higher tier tanks. G10 PzIII AusfJ 
+
+The Panzer III's armour is an illusion. G10 PzIII AusfJ  It suffers from very weak side, turret, and lower glacis armor, making it unreliable. G10 PzIII AusfJ  Its frontal armor isn't sloped, which makes it insufficient against anything of equal tier or higher where penetration often exceeds 90mm. G10 PzIII AusfJ   It is obvious why the Wehrmacht wanted to replace the turret: its can only fit a gun selection suited for combat against light tanks. G10 PzIII AusfJ  Its best gun has 67mm of penetration and cannot penetrate any tanks above the tier IV level without premium ammo, for example having great difficulty damaging a Matilda. G10 PzIII AusfJ   Therefore, it is recommended that the Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III equip the 75mm gun and load unhistorical HEAT rounds, for maximum alpha. G10 PzIII AusfJ  It should be played as a flanker where aim time is not a problem, and only brawl in 1v1s; but if you have a good crew, you can be a sniper-flanker with the 5cm L60 at a longer range as well. G10 PzIII AusfJ  
+
+Hang back and spot while you evaluate your team spread at the start, while looking for deficiencies in your enemy's team composition or locations! Your spotting range won't be good enough without Commander skills and vision, which you need to work on. G10 PzIII AusfJ  You are more deadly at the end of the battle when you can attack lone tanks, and can flank around into enemy TDs and SPGs: so don't try to out-duel other tanks at the start! Even if you encounter an lone enemy, do not engage from the front the tide will quickly turn against you due to your poor damage over time. G10 PzIII AusfJ  Instead, poke-and-spot in under-populated lanes, harassing by secondary more hilly lanes if they are empty to support the team's pushes. G10 PzIII AusfJ  If you have enough warning, your superior forwards speed allows you to retreat and avoid damage, but if you are too late your 20km/h is insufficient and you will have to deal with the enemies as they come. G10 PzIII AusfJ  You are no light tank, but this is why vision equipment is vital! The Panzer III is also a great interceptor, it can destroy enemy scouts very effectively with its strong frontal hull and agility. G10 PzIII AusfJ 
+
+There are now some specific information on situations this tank can encounter:
+
+In a game where the Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III is the top tier tank, it becomes a very deadly machine. G10 PzIII AusfJ  While its speed is that of a scout tank, and thanks to its frontal armor it can prove more than a match for tier 4 and lower tier tanks head on,  With the addition of better guns than the Ausf. G10 PzIII AusfJ  A, you'd find yourself the most mobile and possibly the best flanking/scouting tank at your tier. G10 PzIII AusfJ  Its 70mm frontal armor can deflect many shots and its speed enables it to be played very aggressively. G10 PzIII AusfJ   However, be careful not to get overextended in these games because the side armor of this tank is still an issue at lower tiers. G10 PzIII AusfJ   Still, with the gun selection of the tank, it is quite easy to overwhelm weaker light/medium tanks and seize objectives quickly for your allies to follow up upon. G10 PzIII AusfJ  
+
+In contrast, in a match where the Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III is at the bottom of the list, it really should be played as a scout. G10 PzIII AusfJ   Due to the insuffecient gun selection, the tank should be played cautiously. G10 PzIII AusfJ   Players should make use of the tank's low silhouette and speed to scout the enemy and allow their allies to do the heavy hitting. G10 PzIII AusfJ   Don't underplay the tank and be too cautious though, because the Pz. G10 PzIII AusfJ Kpfw III should still take opportunities to flank enemy tanks where its weaker guns can make its mark. G10 PzIII AusfJ 
+
+The best two guns of Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III uses are the 7. G10 PzIII AusfJ 5 KwK 37 L/24 and the 5 KwK 39 L/ 60. G10 PzIII AusfJ   It is recommended that when equipped with the 7. G10 PzIII AusfJ 5 cm KwK 37 L/24, it should only use HE rounds, since the AP rounds will have about the same penetration and less damage. G10 PzIII AusfJ   A well aimed HE shot can destroy many open-top vehicles such as the Marder II or the SU-76, in a single hit. G10 PzIII AusfJ   However, this gun has horrible penetration for its tier and its accuracy isn't so great when you are at top speed. G10 PzIII AusfJ   The 5 cm KwK L/60 has much better penetration, but its damage is somewhat less. G10 PzIII AusfJ  However, it breaches a higher DPM level on average, because it has such an extreme Rate of Fire. G10 PzIII AusfJ  It's better suited for targeting critical areas on a tank such as the track or turret, or if the player has enough accuracy, the viewports and cupola. G10 PzIII AusfJ 
+
+
+|InTheGame_research=
+The Engine should be researched first (in order to fulfil your role as a scouting medium tank), for it will give plenty more acceleration followed by the Tracks, from there, research the turret and the guns, the radio can be costly to research, so save it for last. G10 PzIII AusfJ 
+
+|InTheGame_equipment=
+Improved Ventilation Class 2, Enhanced Gun Laying Drive, Coated Optics, Additional Grousers, Medium Spall Liner, "Wet" Ammo Rack Class 1, Enhanced Torsion Bars 3 t Class, Binocular Telescope
+
+|Gallery=
+image:Pz3a. G10 PzIII AusfJ jpg{{!}}Front right
+image:Pz3b. G10 PzIII AusfJ jpg{{!}}Front left
+image:Pz3c. G10 PzIII AusfJ jpg{{!}}Rear right
+image:Pz3d. G10 PzIII AusfJ jpg{{!}}Rear left
+
+|History=
+<div class="thumb tright">{{VideoYT|W9l2_8rh1vs|320}}</div>
+<div class="thumb tright">{{VideoYT|O8N_70he_G0|320}}</div>
+[[image:PzKpfw III Ausf M, Deutsches Panzermuseum. G10 PzIII AusfJ jpg|thumb|200px|left|PzKpfw III Ausf M, display at Deutsches Panzermuseum]]
+Following specifications laid down by Heinz Guderian in 1934, the Army Weapons Department drew up plans for a medium tank with a maximum weight of 24,000 kg and a top speed of 35 kilometers per hour (21. G10 PzIII AusfJ 75 mph). G10 PzIII AusfJ  It was intended to be the main tank of the German Panzer divisions, capable of engaging and destroying opposing tank forces. G10 PzIII AusfJ  Daimler-Benz, Krupp, MAN, and Rheinmetall all produced prototypes. G10 PzIII AusfJ  Testing of the prototypes took place in 1936 and 1937, leading to the Daimler-Benz design being chosen for production. G10 PzIII AusfJ  The first model of the Panzer III, the Ausf A, came off the assembly line in May 1937, while mass production of the Ausf F version began in 1939. G10 PzIII AusfJ  Much of the early development work on the Panzer III was a quest for a suitable suspension. G10 PzIII AusfJ  Several varieties of leaf-spring suspensions were tried on Ausf A through Ausf D before the torsion-bar suspension of the Ausf E was standardized. G10 PzIII AusfJ  The Panzer III, along with the [[KV-1|Soviet KV heavy tank]], was one of the first tanks to use this suspension design. G10 PzIII AusfJ 
+
+A distinct feature of the Panzer III was its three-man turret. G10 PzIII AusfJ  This meant the commander was not distracted by the loader's or gunner's tasks and could fully concentrate on maintaining situational awareness. G10 PzIII AusfJ  Other tanks of the time did not have this capability, providing the Panzer III with a potential combat advantage. G10 PzIII AusfJ  [[image:PzKpfw III Panzerbefehlswagen (command tank) III ausf E or F in Greece, fitted with a 37 mm gun and two coaxial machine guns (1940. G10 PzIII AusfJ jpg|thumb|200px|right|PzKpfw III Panzerbefehlswagen (command tank) III Ausf E or F somewhere in Greece 1940. G10 PzIII AusfJ  Fitted with a 37 mm gun and two coaxial machine guns]]For example, the Somua S-35 had a one-man turret crew, while the original [[T-34|Soviet T-34]] featured a two-man turret. G10 PzIII AusfJ  Also, the Panzer III, as opposed to the [[Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  IV]], had no turret basket, merely a foot rest platform for the gunner. G10 PzIII AusfJ 
+
+The Panzer III was intended as the primary battle tank of the German forces. G10 PzIII AusfJ  However, when it initially met KV and T-34 tanks, it proved to be inferior in both armor and gun power. G10 PzIII AusfJ  To meet the growing need to counter these tanks, the Panzer III was up-gunned with a longer and more powerful 50-millimeter cannon and received more armor, although this failed to effectively address the problem caused by the KV tanks. G10 PzIII AusfJ  As a result, production of self-propelled guns, as well as the up-gunning of the Panzer IV, was initiated. G10 PzIII AusfJ 
+
+In 1942, the final version of the Panzer III, the Ausf N, was created with a 75-millimeter KwK 37 L/24 cannon: a low-velocity gun designed for anti-infantry and close-support work. G10 PzIII AusfJ  For defensive purposes, the Ausf N was equipped with HEAT ammunition that could penetrate 70 to 100 millimeters of armor, but these were strictly used for self-defense as this variant of the tank was not intended for an anti-tank role. G10 PzIII AusfJ 
+
+Starting with the Ausf E, from December 1938 through February 1943, a total of 4958 tanks and 321 commander's vehicles were produced. G10 PzIII AusfJ 
+
+== Armour and Mobility ==
+[[image:PzKpfw III AUSF-N. G10 PzIII AusfJ jpg|thumb|200px|left|PzKpfw III AUSF-N]]
+The Panzer III Ausf A through C had 15 millimeters of homogeneous steel armor on all sides with 10 millimeters on the top and 5 millimeters on the bottom. G10 PzIII AusfJ  This was quickly determined to be insufficient, and was upgraded to 30 millimeters on the front, sides, and rear in the Ausf D, E, F, and G models, with the H model having a second 30-millimeter layer of face-hardened steel applied to the front and rear hull. G10 PzIII AusfJ  The Ausf J model had a solid 50-millimeter (1. G10 PzIII AusfJ 97 in) plate on the front and rear, while the Ausf J¹, L, and  M models had an additional layer of 20 millimeters (0. G10 PzIII AusfJ 79 in) of armor on the front hull and turret. G10 PzIII AusfJ  This additional frontal armor gave the Panzer III frontal protection from most British and Soviet anti-tank guns at all but close ranges. G10 PzIII AusfJ  The sides were still vulnerable to many enemy weapons, including anti-tank rifles at close ranges. G10 PzIII AusfJ 
+
+The Panzer III Ausf A through C were powered by a 250 horsepower (183. G10 PzIII AusfJ 87 kW) 12-cylinder Maybach HL 108 TR engine, giving a top speed of 32 kilometers per hour (19. G10 PzIII AusfJ 88 mph), and a range of 150 kilometers (93. G10 PzIII AusfJ 21 mi). G10 PzIII AusfJ  All later models were powered by the 300 horsepower (220. G10 PzIII AusfJ 65 kW) 12-cylinder Maybach HL 120 TRM engine. G10 PzIII AusfJ  Top speed varied, depending on the transmission and weight, but was around 40 kilometers per-hour. G10 PzIII AusfJ  The range was generally around 155 kilometers. G10 PzIII AusfJ  
+
+== Firepower ==
+[[image:PzKpfw III Ausf M with side skirts in southern USSR (1943)). G10 PzIII AusfJ jpg|thumb|200px|right|PzKpfw III Ausf M somewhere in southern USSR 1943. G10 PzIII AusfJ  Note the armor skirts on the sides and turret. G10 PzIII AusfJ ]]
+The Panzer III was intended to fight other tanks: in the initial design stage, a 50-millimeter cannon was specified. G10 PzIII AusfJ  However, the infantry at the time were being equipped with the 37-millimeter PaK 36, and it was thought that in the interest of standardization, the tanks should carry the same armament. G10 PzIII AusfJ  As a compromise, the turret ring was made large enough to accommodate a 50-millimeter cannon, should a future upgrade be required. G10 PzIII AusfJ  This single decision would later assure the Panzer III a prolonged life in the German army. G10 PzIII AusfJ   The Ausf A to early Ausf F were equipped with a 3. G10 PzIII AusfJ 7 cm KwK 36 L/46. G10 PzIII AusfJ 5, which proved adequate during the campaigns of 1939 and 1940. G10 PzIII AusfJ  The later Ausf F to Ausf J were upgraded with the 5 cm KwK 38 L/42, and the Ausf J to M with the longer 5 cm KwK 39 L/60 cannon in response to increasingly better armed and armored opponents. G10 PzIII AusfJ 
+
+By 1942, the Panzer IV was becoming Germany's main medium tank because of its better upgrade potential. G10 PzIII AusfJ  The Panzer III remained in production as a close support vehicle. G10 PzIII AusfJ  The Ausf N model mounted a low-velocity 7. G10 PzIII AusfJ 5 cm KwK 37 L/24 cannon, the same used by the early Panzer IV Ausf A to F models. G10 PzIII AusfJ  These guns had originally been fitted to older Panzer IV Ausf A to F1 models, and had been placed into storage when those tanks had also been up-armed to longer versions of the 75mm gun. G10 PzIII AusfJ 
+
+All early models up to and including the Ausf F had two 7. G10 PzIII AusfJ 92 mm MG 34 machine guns mounted coaxially with the main gun, and a similar weapon in a hull mount. G10 PzIII AusfJ  Models from the Ausf G and later had a single coaxial MG34 and the hull MG34. G10 PzIII AusfJ 
+
+== Combat history ==
+[[image:PzKpfw III ausf g(tp) during the north african campaign. G10 PzIII AusfJ jpg|thumb|200px|left|PzKpfw III Ausf G(tp) during the North African campaign. G10 PzIII AusfJ jpg]]
+The Panzer III was extensively used in the campaigns against Poland, France, the Soviet Union, and in North Africa, while a handful were still in use in Normandy and at Arnhem in 1944. G10 PzIII AusfJ   In the Polish and French campaigns, the Panzer III formed a small part of the German armored forces. G10 PzIII AusfJ  Only a few hundred Ausf A through Fs were available in these campaigns: most armed with the 37-millimeter gun. G10 PzIII AusfJ  They were the best medium tanks available to the Germans and outclassed most of their opponents, such as the Polish 7TP and French R-35 and H-35 light tanks. G10 PzIII AusfJ  
+
+[[image:PzKpfw III Ausf G captured by the British in North Africa (1941). G10 PzIII AusfJ jpg|thumb|200px|right|PzKpfw III Ausf G captured by the British in North Africa (1941). G10 PzIII AusfJ jpg]]
+Prior to the invasion of the Soviet Union, the Panzer III was numerically the most important German tank. G10 PzIII AusfJ  At this time, the majority of the available tanks had the 50 millimeter KwK 38 L/42 cannon, which also equipped the majority of the tanks in North Africa. G10 PzIII AusfJ  Initially, the Panzer IIIs were outclassed and outnumbered by Soviet T-34 and KV tanks. G10 PzIII AusfJ  However, the most numerous Soviet tanks were the [[T-26]] and BT tanks. G10 PzIII AusfJ  This, along with superior German tactical skill, crew training, and the good ergonomics of the Panzer III, contributed to an approximate 6:1 favorable kill-ratio for German tanks of all types in 1941. G10 PzIII AusfJ 
+
+With the appearance of T-34 and KV tanks, re-arming the Panzer III with a longer, more powerful 50-millimeter cannon was prioritized. G10 PzIII AusfJ  The T-34 was generally invulnerable in frontal engagements against the Panzer III until the 50 mm KwK 39 L/60 gun was introduced on the Panzer III Ausf J¹ in the spring of 1942. G10 PzIII AusfJ  This cannon could penetrate the T-34 frontally at ranges under 500 metres. G10 PzIII AusfJ  Against the KV, it was a threat if armed with special high-velocity tungsten rounds. G10 PzIII AusfJ  In addition, in 1943 the Ausf L version began the use of spaced armour skirts around the turret and on the hull sides to counter anti-tank rifles. G10 PzIII AusfJ  However, due to the introduction of the up-gunned and up-armoured Panzer IV, the Panzer III was relegated to secondary roles after the Battle of Kursk and replaced as the main German medium tank by the Panzer IV and the [[Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  V Panther]]. G10 PzIII AusfJ 
+
+The Panzer III chassis was the basis for the turretless [[StuG III]] assault gun, one of the most successful self-propelled guns of the war, and the single most-produced German armored fighting vehicle design of World War II. G10 PzIII AusfJ 
+
+By the end of the war, the Panzer III had almost no frontline use and many had been returned to the factories for conversion into StuG assault guns, which were in high demand due to the defensive warfare style adopted by the German Army. G10 PzIII AusfJ 
+
+|HistoricalGallery=
+image:A Pz III Ausf. G10 PzIII AusfJ  L Afrika. G10 PzIII AusfJ jpg{{!}}PzKpfw III Ausf L, somewhere in North Africa
+image:A_Pz_III_Ausf. G10 PzIII AusfJ _M_from_the_11. G10 PzIII AusfJ _PzRgt. G10 PzIII AusfJ . G10 PzIII AusfJ jpg{{!}}A Pz III  Ausf. G10 PzIII AusfJ  M from the 11. G10 PzIII AusfJ  PzRgt 6 at Kursk
+image:A impact of a boys projectile at the commanders cuppola of a Pz III. G10 PzIII AusfJ jpg{{!}}A impact of a boys projectile at the commanders cuppola of a Pz III
+image:Eastern front near kharkov. G10 PzIII AusfJ jpg{{!}}Eastern front near kharkov
+image:Pz 3 Northern africa. G10 PzIII AusfJ jpg{{!}}PzKpfw III somewhere in Northern Africa
+image:Pz_III_Crew_out. G10 PzIII AusfJ jpg{{!}}Panzer III with crew driving out in the open
+image:Panzer III on trials. G10 PzIII AusfJ jpg{{!}}Panzer III during trials
+image:Daimler benz production line Pz III. G10 PzIII AusfJ jpg{{!}}Daimler Benz PzKpfw III production line
+
+|HistAcc=
+* One of the PzKpfw III's historical modifications, the Schürzen side-armour panels, are missing. G10 PzIII AusfJ 
+* Only the Pz. G10 PzIII AusfJ Kpfw. G10 PzIII AusfJ  III Ausf. G10 PzIII AusfJ  N had the 7,5cm Kw. G10 PzIII AusfJ K. G10 PzIII AusfJ  37 L/24, which was considered as a bad decision. G10 PzIII AusfJ 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://panzerwaffe. G10 PzIII AusfJ pl
+
+}}

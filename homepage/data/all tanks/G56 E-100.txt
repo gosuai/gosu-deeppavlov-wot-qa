@@ -1,0 +1,92 @@
+{{TankData|Tank=E-100
+|The last tank of the Entwicklung series, the E-100 is a fearsome opponent on the battlefield. G56 E-100  While it is not a [[Maus]] by any stretch of the imagination, this tank does share a similar play-style with it while maintaining a bit more flexibility over it's colossal counterpart. G56 E-100  The massive armor of the E-100 is comparable but not identical to that of the Maus. G56 E-100  While boasting excellent thickness on all sides, it is significantly more vulnerable to incoming fire due to several large weak spots. G56 E-100  First and foremost, the lower glacis plate is enormous and wide, making angling this tank an absolute must. G56 E-100  However, even when angled properly, the lower plate is still susceptible to penetration and will succumb to a surprising amount of unblocked damage. G56 E-100  Despite this, the E-100 enjoys a much better angled side armor with spaced skirts which can deflect shots with far greater efficiency than the flat side armor of the Maus. G56 E-100  The turret on the E-100 is very tall and only slightly angled making it an easy target. G56 E-100  Though it sports very thick frontal armor, the inadequate sloping will permit several well placed shots to punch through. G56 E-100  In addition, the significantly large turret ring and the top bar are also prevalent weak points. G56 E-100  Angling your armor is, once again, a must. G56 E-100  
+
+The starting main gun of the E-100 is the same 12,8cm gun which is used by the Maus, but the E-100 has the option of upgrading to the 15cm KwK L/38 cannon which trades the default gun's accuracy and rate of fire for a significantly increased alpha damage output. G56 E-100  The long reload of both guns means that your defensive game needs to be strong due to your main role being that of a close to medium range brawler and, as such, will require effective usage of your armor. G56 E-100  In addition, you will absolutely require your teammates aid when engaging multiple vehicles, because should your enemy decide to press your flanks, there's little that can be done to protect yourself from being encircled and mercilessly slaughtered. G56 E-100  And although the E-100 does boast improved speed and maneuverability, artillery will still have a field day with you if you are not privy to your surroundings and your cover. G56 E-100  Overall, the E-100 should be played much more aggressively than the Maus due to it's many marked differences and should not only act as a shield for its more vulnerable teammates but as a dealer of significant damage in return. G56 E-100  Basically, the player is advised to take the hits but to return them in kind as well. G56 E-100  Play this tank to it's strengths and the enemy team will have a very hard time stopping your advance as you confidently lead the assault to break through their defenses and head forth to victory. G56 E-100 
+|InTheGame_pros=
+* Strong armor all around; spaced armor over tracks
+* Third highest hit point pool
+* Side skirts help protect the tracks from artillery and make the E 100 great at [[sidescraping]]
+* 15cm gun has very high damage per shell compared to other heavy tanks
+* Tall tank: allows you to take shots that over-match roof armor of most tanks
+*You can angle your armor at a 45 degrees and just bounce bullets. G56 E-100 
+* Can face to face battle and just angle your turret at a 45 degrees when reloading. G56 E-100 
+
+|InTheGame_cons=
+* Large size and low mobility
+* Very vulnerable lower glacis with front-mounted transmission behind it; when angled, front wheel sprocket becomes a weakspot instead
+* Long reload time and quite bad DPM with both guns; also has subpar penetration on AP rounds
+* 15cm gun has mediocre accuracy; this limits effective use to close-quarters fighting. G56 E-100 
+* Unangled turret is basically a weakspot against most premium rounds
+
+
+|InTheGame_performance=
+While boasting the same gun as the [[E-75]] in one configuration, the E-100 has the option of mounting the 15cm KwK 44 L/38 with very high alpha damage at 750/750/950. G56 E-100  Penetration at 246 mm with AP rounds is slightly not on par with other Tier X Heavy Tanks, however, armed with HEAT ammunition, this tank easily becomes one of the most immediate threats to your health around, if your willing to spend the credits. G56 E-100  This tank is "expensive" like the 
+T-54, you can easily compensate for your terrible penetration by pressing your 2 key but theres a good chance you'll be losing money instead of earning. G56 E-100 
+However keeping this in mind, the normal rounds are more then enough if aimed properly. G56 E-100 
+
+The entire lower front plate is a huge weakness on the E 100, as even tier 8 guns can penetrate it (though a little angling quickly resolves this). G56 E-100  Combined with the front-mounted transmission, you are at high risk for engine damage, so a fire extinguisher is a must. G56 E-100  It is the one of two tier X heavies to mount a gun that can do an average of 750 damage per shell, on par with 15cm Tank Destroyers. G56 E-100  
+During the long reload time, it's advised that the player angles the turret by about 25° which will make the effective armor of the turret as thick as 300 mm on both front and on the exposed side of the turret. G56 E-100  Your turret ring is still vulnerable, however, and when angling the hull, there is a small weak point on either sides of the tracks. G56 E-100  Although moving the tank back and forward quickly while angling the hull at 45 degrees and the turret at 25 makes the turret ring, lower plate and the side of the tracks harder to hit. G56 E-100  It also helps if you "wiggle" both the hull and the turret left and right as well as the angeling and moving back and forward. G56 E-100  
+It might be tricky at first but once you get the hang of it, you will annoy the enemy as they will get sick of their commanders yelling "ricochet!"
+
+|InTheGame_research=
+Unlike most tier 10 tanks the E-100 does not come elite. G56 E-100  Here you have a choice, you can stay with the 12. G56 E-100 8cm gun from the E-75 or grind xp for the 15cm for the extra alpha damage. G56 E-100 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Vertical Stabilizer
+
+|Gallery=
+image:E100game1. G56 E-100 jpg‎{{!}}E-100 on Malinovka. G56 E-100  (Note: The bounces on the hull and turret. G56 E-100 )
+image:E100-a. G56 E-100 jpg‎{{!}}E-100, map Mountain pass
+image:E100-a1. G56 E-100 jpg‎{{!}}E-100, map Komarin
+
+|External_Reviews=
+{{VideoYT|2xzxmpLayIg}}
+|History=
+[[image:E 100 remaining chassis. G56 E-100 jpg|thumb|200px|left|Three Adler employees working on the E-100 chasis]]
+The E-100 was originally designed as an Heereswaffenamt alternative to the Porsche-designed superheavy Maus tank. G56 E-100  It was authorized in June 1943, and work continued in earnest until 1944 when Hitler officially ended development of superheavy tanks due to raw material scarcity. G56 E-100  After Hitler's announcement, only three Adler employees were allowed to continue assembly of the prototype, and the work was given the lowest priority. G56 E-100  Even with these handicaps, the three workers were able to virtually complete the prototype by war's end at a small Henschel facility near Paderborn. G56 E-100  The prototype lacked only a turret (which was to be identical to the Maus turret save in armament). G56 E-100 
+
+== Design ==
+For its initial tests, a Tiger II Maybach HL230P30 engine had been fitted. G56 E-100  This engine, of course, was far too weak to properly power the 140 ton E-100. G56 E-100  The production engine was to be the Maybach HL234. G56 E-100  The HL234 provided 800hp, which was only 100hp better than the HL230P30. G56 E-100  Some sources indicate that a Diamler-Benz diesel providing 1000hp would have ultimately been used. G56 E-100   The Maus mounted the 12. G56 E-100 8cm KwK 44 L/55 found in the [[Jagdtiger]]. G56 E-100  Using the same turret, the E-100 was initially slated to use the 15cm KwK44 L38, but provisions were made to eventually up-gun the vehicle with a 17cm KwK 44. G56 E-100 
+
+The E-100 was very conventional in its architecture. G56 E-100  The standard rear-engine / front-drive layout was maintained. G56 E-100  The engine deck of the [[Pz. G56 E-100 Kpfw. G56 E-100  Tiger II|Tiger II]] was also carried over into this design (rather than the updated design of the E 50/75). G56 E-100  The suspension was characteristic of the E-series, however, in that it was of the externally-mounted Belleville Washer type. G56 E-100  While the engine-deck layout of the prototype was taken directly from the Tiger II, it is entirely possible that it would have been changed to match the E 50/75 had production of the E-series actually begun to allow for maximum commonality of components. G56 E-100 
+
+The armor on the E-100 was designed to withstand hits from just about any anti-tank round of the day. G56 E-100  Armor on the turret ranged from 200mm on the sides and rear to 240mm on the front. G56 E-100  The turret roof was protected by a seemingly paltry 40mm of armor. G56 E-100  Unfortunately, the round shape of the turret front could have acted as a shot trap, deflecting rounds downward into the top of the superstructure. G56 E-100  Armor protection on the superstructure varried from 200mm on the front to a total of 180mm on the sides and 150mm on the rear. G56 E-100  The top of the superstructure was protected by the same 40mm of armor found on the turret. G56 E-100  The hull had 150mm of armor on the front and rear and 120mm on the sides behind the suspension. G56 E-100  Protection on the bottom of the hull was good at 80mm. G56 E-100  Given the armor protection of the E-100, most tanks would have needed a shot to deflect into the top of the superstructure from the turret front to knock it out. G56 E-100  The vehicle would have, however, been highly vulnerable to air attack as the angles presented to dive bombers or fighter/bombers would have been protected by only 40mm of armor. G56 E-100  This protection is comparable to the Tiger II in the same areas. G56 E-100 
+
+|HistoricalGallery=
+image:E-100a. G56 E-100 jpg{{!}}Unfinished E-100 chasis
+image:E 100 remaining chassis 1. G56 E-100 jpg{{!}}E-100 chassis captured by the British prior to vehicle completion 
+image:E 100 remaining chassis 2. G56 E-100 jpg{{!}}E-100 chassis undergoing allied evaluation 
+image:E-100 1. G56 E-100 jpg{{!}}Rear view of the E-100's hull and chassis
+image:E-100 2. G56 E-100 jpg{{!}}Front view of the E-100's hull and chassis
+image:E-100 3. G56 E-100 jpg{{!}}E-100 Technical Drawing. G56 E-100  note that it share similar turret with [[Maus]]
+File:Maus_II_Turret. G56 E-100 jpg{{!}}Maus II turret as compared to the initial Maus turret. G56 E-100  This turret was presented in World of Tanks as E-100's turret. G56 E-100 
+image:E-100 4. G56 E-100 jpg{{!}}E-100 rear side view Technical Drawing
+image:E-100 5. G56 E-100 jpg{{!}}E-100 rear view Technical Drawing
+image:E-100 6. G56 E-100 jpg{{!}}E-100 front side view Technical Drawing
+
+
+|HistAcc=
+The planned armor specifications of the E-100 turret is actually 200/80/150 (currently 250/150/150). G56 E-100 
+*One of its historical turrets, the [[Maus]]turm, is missing. G56 E-100 
+*Due to the lack of multi-gun controls in World of Tanks, the coaxial 7,5 cm cm K 51 L/24 gun (visible above the main gun) is merely cosmetic. G56 E-100 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+|Sidebar_Camostop=3. G56 E-100 1
+|Sidebar_Camomove=1. G56 E-100 7
+|Sidebar_Camofire=0. G56 E-100 3
+|Sidebar_Passhard=0. G56 E-100 959
+|Sidebar_Passmed=1. G56 E-100 151
+|Sidebar_Passsoft=2. G56 E-100 014
+|Sidebar_DispTurret=0. G56 E-100 096
+|Sidebar_DispRecoil=3. G56 E-100 836
+|Sidebar_DispAccel=0. G56 E-100 201
+|Sidebar_DispTurning=0. G56 E-100 201
+}}

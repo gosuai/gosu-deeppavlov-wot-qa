@@ -1,0 +1,65 @@
+{{TankData|Tank=GB68_Matilda_Black_Prince
+|The Black Prince is an effective, if unexceptional, tier V medium. GB68 Matilda Black Prince  It has generally lower armor than the [[Churchill III]], but a better profile and a more accurate gun. GB68 Matilda Black Prince  It is best used in the second line, as your fast rate of fire and quick turning turret will make short work of flankers and scouts. GB68 Matilda Black Prince  It is always best to aim for weak spots when using this tank as even some lower tier tanks may bounce shots you'll think are certain to penetrate. GB68 Matilda Black Prince  Since its top speed is barely 22km/h, you wont be able to keep up with the pace of fast battles, but you can make an exceptional defender, sniper, ambusher, and hill fighter with 13 degrees of gun depression. GB68 Matilda Black Prince 
+
+|Gallery=
+
+|InTheGame_pros=
+* Armor is better than it appears thanks to heavy angles and a large internal gun mantlet
+* High rate of fire
+* Relatively low profile
+* Excellent APCR penetration at close range
+* Preferential matchmaking (tier 6 max, no tier 7 battles)
+* Above average HP
+* Good gun depression
+* Side skirts have thin spaced armor
+
+|InTheGame_cons=
+* Agonizingly slow, with poor power to weight ratio. GB68 Matilda Black Prince  Crawls uphill
+* Low damage and penetration
+* Very high loss of APCR penetration at range, only goes through 126mm at 400m
+* Small ammo capacity
+* Mediocre accuracy
+* Poor aiming time, gun reloads faster than it can aim
+* Largely inferior to the [[T-25]] and [[Type 3 Chi-Nu Kai]], yet costs more gold
+* Inferior to a regular [[Matilda]] in almost every aspect
+
+|InTheGame_performance=
+Compared to a fully upgraded [[Matilda]] armed with the QF 2-pdr Mk. GB68 Matilda Black Prince  X-B gun, the Matilda Black Prince (commonly abbreviated as MBP) has better gun depression, damage, hit points, signal range, view range and credit income. GB68 Matilda Black Prince  However, it is a tier higher, has poorer hull traverse, turret armor, ammo capacity, penetration, accuracy, aim time, rate of fire and speed. GB68 Matilda Black Prince  Despite the lighter turret, the MBP strangely weighs a whopping 30 tons compared to the tier IV Matilda's 26 tons. GB68 Matilda Black Prince 
+
+Take it slow, pick your targets, and watch your ammo. GB68 Matilda Black Prince  With around 30 shots a minute and only 55 spare, you'll run dry quick if you don't make your shells count. GB68 Matilda Black Prince  It is better to wait until you are fully aimed before firing, so try to avoid the Churchill tactic of slinging shells at your target knowing you'll hit eventually. GB68 Matilda Black Prince  Do not engage long-range targets as the 6-pdr gun has slower aim time than reload time, as well as mediocre accuracy. GB68 Matilda Black Prince 
+
+Avoid climbing hills or crossing rivers, stay on paved ground whenever possible. GB68 Matilda Black Prince  Its abysmal speed makes it a horrible tank for flanking. GB68 Matilda Black Prince  This often results in the Matilda BP falling far behind the team's advance. GB68 Matilda Black Prince  Enemy light tanks passive spotting will have detected you by then before you can even get into position. GB68 Matilda Black Prince  Its only option is to take the shortest route to the enemy, supporting teammates along the way. GB68 Matilda Black Prince  Do not advance without heavy tanks if there are any. GB68 Matilda Black Prince  It is ill-advised to treat the MBP as a heavy tank as its armament, armor and speed are insufficient for that. GB68 Matilda Black Prince  All you can do is accompany your teammates and hope for the best. GB68 Matilda Black Prince 
+
+Besides the tier IV Matilda, the MBP is not great for training British medium tank crews, as its playstyle is very different. GB68 Matilda Black Prince  The lack of a radio operator position further diminishes its effectiveness as a crew trainer. GB68 Matilda Black Prince  Its crew layout is only compatible with high tier British medium tanks like the [[Centurion Mk. GB68 Matilda Black Prince  I]]. GB68 Matilda Black Prince  However, the loader will be unable to use radio operator skills. GB68 Matilda Black Prince 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD
+
+|History=
+
+The Matilda Black Prince (as it is known in-game, see the Historical Accuracy section below) was a project that featured a 6-pounder gun fitted in the A27 turret mounted to the Matilda II tank. GB68 Matilda Black Prince  Only one prototype was produced, after which development was discontinued due to complications with the turret mounting. GB68 Matilda Black Prince  The vehicle never entered service. GB68 Matilda Black Prince  Called the Matilda II with A27 turret. GB68 Matilda Black Prince  It is sometimes wrongly called the Matilda Cromwell (because of the A27 Cromwell turret). GB68 Matilda Black Prince 
+
+|HistAcc=
+The name is incorrect; Matilda Black Prince referred to a separate project involving the Matilda. GB68 Matilda Black Prince  The real Matilda Black Prince was a radio-controlled tank meant to draw enemy fire and reveal anti-tank gun locations or for demolition missions. GB68 Matilda Black Prince  This was cancelled due to requiring a conversion of the suspension from Rackham clutch transmission to the Wilson type suspension. GB68 Matilda Black Prince 
+* Both the Matilda BP and [[Matilda IV]] use the same twin Leyland diesel engines, yet the latter has superior horsepower. GB68 Matilda Black Prince 
+* Uses the exact same turret as the [[Cromwell]], yet the view range is inconsistent. GB68 Matilda Black Prince 
+
+|HistoricalGallery=
+image:MBP 1. GB68 Matilda Black Prince jpg{{!}}Matilda II fitted with an A27 turret. GB68 Matilda Black Prince 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://mailer. GB68 Matilda Black Prince fsu. GB68 Matilda Black Prince edu/~akirk/tanks/ TANKS! Armoured Warfare Prior To 1946]
+* https://www. GB68 Matilda Black Prince tanks-encyclopedia. GB68 Matilda Black Prince com/ww2/gb/Infantry_Tank_Matilda_II. GB68 Matilda Black Prince php
+
+}}
+
+[[Category:British Tanks]]

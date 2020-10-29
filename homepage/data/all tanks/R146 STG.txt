@@ -1,0 +1,46 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros=
+* High alpha damage
+* Very good accuracy and aimtime for a 122mm Soviet gun
+* Fairly good turret armor
+* Low profile and good camouflage values
+* Terrain resistance values are good, they compensate the average power to weight ratio 
+
+|InTheGame_cons= 
+* Poor DPM, one of the lowest for tier 8 medium tanks
+* Poor gun depression
+* Low power to weight ratio
+* Bad hull armor has limited usefulness
+* Premium ammunition's penetration boost is limited
+
+|InTheGame_performance= 
+Much like the other rear mounted soviet mediums, this tank works best as a mobile sniper. R146 STG  In a pinch (and depending on the map and the matchup) this tank can be a serious hull down wall that punishes poor plays with 390 alpha bombs, however the weak hull armour makes this tricky in higher tier matchups. R146 STG  The DPM for this tank is also very low, on par with heavies such as the Lowe, a tank not renounced for its DPM, so unless you trade shots, you will not come out on top. R146 STG 
+
+Play to the strengths of the alpha damage and superb accuracy to snipe and the STG will be your best friend. R146 STG 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= In June of 1953, a draft project appeared that depicts the hero of this article. R146 STG  Little is known about it, only its author (Gremyakin). R146 STG  This was not a proposal to the department of inventions, the tank was designed in an official capacity. R146 STG  The overall concept was similar to what was designed by the OKB IK SV and factory #75. R146 STG  The armament and armour of this vehicle were the same as on heavy tanks, but it was a medium tank in size. R146 STG  The armament consisted of the D-25T, but that is just a placeholder. R146 STG  In reality, the M-62 gun would have likely been used. R146 STG  Like the K-91 and Object 416, the driver sat in the turret in a rotating station. R146 STG  The ammunition was also stored in a similar way to its predecessors. R146 STG  Since the tank never received an index, it is called STG (Gremyakin's medium tank) in the game. R146 STG 
+
+|HistoricalGallery= 
+
+
+|Ref_references=
+
+|Ref_sources= 
+
+|Ref_links= 
+Tank Archives: Soviet Rear Turret Tanks: https://tankarchives. R146 STG blogspot. R146 STG hk/2017/08/soviet-rear-turret-tanks. R146 STG html 
+
+}}

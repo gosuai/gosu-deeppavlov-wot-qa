@@ -1,0 +1,96 @@
+{{TankData|Tank= Chi_He
+|
+
+|Gallery=
+
+File:Type 1 Chi-He scr 1. J09 Chi He jpg
+File:Type 1 Chi-He scr 2. J09 Chi He jpg
+File:Type 1 Chi-He scr 3. J09 Chi He jpg
+
+
+|InTheGame_pros=
+* Hull and Turret armor thicknesses have been virtually doubled at the front compared to the Chi-Ha
+* Plays similarly to the now-familiar Chi-Ha - Second-line sniper
+* Can equip much more powerful weaponry than the Chi-Ha
+* Fantastic gun depression
+* Good camo value
+
+|InTheGame_cons=
+* Plays similarly to the old Chi-Ha - not a frontline fighter in any way
+* Despite the improved armor, it still does not help much against higher tier guns
+* Low penetration on all guns makes it difficult to penetrate a number of tier V and IV enemies. J09 Chi He 
+* Struggles over hills with stock engine
+* Does not improve much in visual range over the Chi-Ha
+
+
+|InTheGame_performance=
+This tank, while not the fastest, can get to advantageous positions quite quickly, especially once the tank has been upgraded with the top tracks and engine. J09 Chi He  Its main feature is its 15° of gun depression, which can be used to take a shot over a hill and quickly retreat. J09 Chi He  Due to rather underperforming armor, minimizing exposure is advised. J09 Chi He  
+
+The grind can be quite difficult, but if second-line support is your playstyle, this tank is incredible once upgraded! The Chi-He is also unbearably sluggish when stock, but you will quickly wonder if your driving a new tank once you get the top tracks and engine. J09 Chi He  
+
+When it comes to the two top guns, the stats above are incorrect. J09 Chi He . J09 Chi He . J09 Chi He  the 57mm has (compared to the 75mm) better:
+* Max Aim (smallest the circle will get)
+* Rate of fire (almost twice than the 75mm)
+* Penetration (except for HE. J09 Chi He . J09 Chi He . J09 Chi He  by the way, use mostly AP on this tank. J09 Chi He  You will do little with the rather bad HE)
+* Damage
+The only place where the 75mm is better than the 57mm is when using HE, since the 75mm (being a bigger gun) can actually do something with it's tiny HE dmg. J09 Chi He  However, since this is a sniping tank, not a brawler, this is usually ill-advised and only useful against enemy light tanks. J09 Chi He 
+
+Overall, the Type 1 Chi-He is a difficult tank to play right and seemingly an easy kill when stock. J09 Chi He . J09 Chi He . J09 Chi He  but an amazingly deadly second line sniper capable of dominating matches when played skillfully. J09 Chi He 
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+
+|History=
+
+
+The Type 1 medium tank Chi-He (一式中戦車 チへ Ichi-shiki chusensha Chihe) was an improved version of the Type 97 Chi-Ha medium tanks of the Imperial Japanese Army in World War II. J09 Chi He  It had a more powerful main gun, engine and thicker armor. J09 Chi He  It was the first Japanese tank to have a communication radio as standard equipment. J09 Chi He  Production of the tank did not begin until 1943, due to the higher priority of steel allocated to the Imperial Navy for warship construction. J09 Chi He  A total of 170 units were built. J09 Chi He  All of the tanks produced were allocated for the defense of the Japanese home islands, against the anticipated Allied Invasion. J09 Chi He 
+
+==History and development==
+
+After 1941, the Imperial Japanese Army quickly realized that its 1930s designed medium tank, the Type 97 Chi-Ha, was inferior to the 1940s generation of Allied armor, such as the M4 Sherman. J09 Chi He  Since the Type 97’s low-velocity 57 mm main gun was designed for infantry support in 1938, it could not penetrate the 1940s generation of Allied armor, whereas its own thin armor made the Type 97 vulnerable to most adversaries equipped with anti-armor capabilities. J09 Chi He 
+In response, a new series of tanks based on an improved Type 97 design was conceived. J09 Chi He  The first of this new series was the Type 1 Chi-He. J09 Chi He  Work on the design began in 1941. J09 Chi He  However, production did not begin until 1943, due to the higher priority of steel allocated to the Imperial Navy for warship construction. J09 Chi He  A total of 170 units were built from 1943–44, and they did not see any combat. J09 Chi He 
+
+
+Compared to the Type 97, the Type 1 Chi-He was slightly longer and taller. J09 Chi He  Its angled, thicker frontal armor was welded, as opposed to riveted. J09 Chi He  The adding of the frontal armor and a fifth crewman increased the weight, but the "streamlining" of the hull reduced the increase to only 1. J09 Chi He 5 tons. J09 Chi He 
+The Mitsubishi Type 100 diesel engine at 240 hp provided 70 hp more power than the Mitsubishi Type 97 diesel engine, and was thus more than able to compensate for the additional weight in armor. J09 Chi He 
+
+The Type 1 Chi-He's 47 mm high-velocity gun had a barrel length of 2. J09 Chi He 250 m, a muzzle velocity of 810 m/s (2,700 ft/s), and a penetration capability of 55 mm/100 m, 40 mm/500, 30 mm/1,000 meters; over double that of the Type 97s low-velocity main gun. J09 Chi He  It was more reliable and more accurate, but did require the installation of elevation gear (on the earlier Type 97 the gunner had to physically move the gun up or down on his shoulder). J09 Chi He  In light of these improvements, the gun was adequate against Allied armor. J09 Chi He  The ammunition was the same as used with the anti-tank version of the gun. J09 Chi He  The tanks carried 120 rounds of ammunition with both armor-piercing and armor-piecing high explosive shells. J09 Chi He  The gun was placed in a three-man turret, which had space for the commander, gun-layer and loader. J09 Chi He  The gun could be elevated and depressed between +20 and -15 degrees. J09 Chi He  This gun was used in the Type 97-Kai Shinhoto Chi-Ha tank, and on the Type 3 Ka-Chi Amphibious Tank. J09 Chi He 
+
+The Type 1 Chi-He was also the first Japanese tank to carry a radio as standard equipment in each tank, eliminating the need to use signal flags. J09 Chi He 
+
+==Combat record==
+
+All of the Type 1s were allocated to the Japanese home islands to defend against the projected Allied Invasion. J09 Chi He  Despite the Type 1's superiority in terms of armor and firepower over the earlier Type 97, it still underperformed against the American M4 Sherman, leading to a new design known as the Type 3 Chi-Nu. J09 Chi He 
+
+After the end of World War II, Type 1 Chi-He tanks captured by the Soviet Red Army were turned over to the Communists Chinese army for use in the Chinese Civil War. J09 Chi He  After victory, the People's Liberation Army continued to use them in their inventory. J09 Chi He 
+
+==Variants==
+* Type 1 Ta-Ha Self-propelled Anti-Aircraft Gun
+A prototype version with twin Japanese-built 37 mm Flak 18 anti-aircraft guns fitted in place of the 47 mm gun was built, but did not go into production. J09 Chi He 
+
+* Type 2 Ho-I
+An infantry support tank that shared the same hull as the Chi-He, this tank is represented in World of Tanks with the Chi-He's upgraded turret. J09 Chi He  This tank primarily used the 7. J09 Chi He 5cm Type 99 Tank Gun, although it was also tested with the Experimental 57 mm Tank Gun Shin. J09 Chi He  A total of 30 units were made, with none having seen combat and all being destroyed post-war. J09 Chi He 
+
+|HistoricalGallery=
+File:Type_1_Chi_He. J09 Chi He jpg
+File:Chi_He_rear_view. J09 Chi He jpg
+
+|Ref_references=
+
+* Foss, Christopher (2003). J09 Chi He  Great Book of Tanks: The World's Most Important Tanks from World War I to the Present Day. J09 Chi He  Zenith Press. J09 Chi He  ISBN 0-7603-1475-6. J09 Chi He 
+* Foss, Christopher (2003). J09 Chi He  Tanks: The 500. J09 Chi He  Crestline. J09 Chi He  ISBN 0-7603-1500-0. J09 Chi He 
+* Hara, Tomio (1972). J09 Chi He  Japanese Medium Tanks. J09 Chi He  AFV Weapons Profiles No. J09 Chi He  49. J09 Chi He 
+* Tomczyk, Andrzej (2007) [2002]. J09 Chi He  Japanese Armor Vol. J09 Chi He  2. J09 Chi He  AJ Press. J09 Chi He  ISBN 978-8372371119. J09 Chi He 
+* Zaloga, Steven J. J09 Chi He  (2007). J09 Chi He  Japanese Tanks 1939–45. J09 Chi He  Osprey. J09 Chi He  ISBN 978-1-84603-091-8. J09 Chi He 
+
+|Ref_sources=
+
+|Ref_links=
+* https://en. J09 Chi He wikipedia. J09 Chi He org/wiki/Type_1_Chi-He
+* https://www3. J09 Chi He plala. J09 Chi He or. J09 Chi He jp/takihome/chi-he. J09 Chi He htm
+* https://www. J09 Chi He historyofwar. J09 Chi He org/articles/weapons_type_1_chi_he. J09 Chi He html
+* https://sensha-manual. J09 Chi He blogspot. J09 Chi He com/2016/11/wt-type1-chi-he. J09 Chi He html
+* https://sensha-manual. J09 Chi He blogspot. J09 Chi He com/2016/11/wt-type2-ho-i. J09 Chi He html
+
+}}

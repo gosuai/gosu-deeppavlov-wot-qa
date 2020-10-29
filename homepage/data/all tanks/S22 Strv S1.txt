@@ -1,0 +1,98 @@
+{{TankData|Tank= 
+
+| The Stridsvagn S1 is practically a T8 version of the 103-0, with somewhat similar mobility and handling. S22 Strv S1  Like its T8-10 brethren, playing style is ultimately defined by the so-called siege mode. S22 Strv S1  This limits the tank destroyer greatly in an offensive role - while mobility is fair when in travel mode, siege mode (which lets you actually aim vertically) limits you to 9-10km/h. S22 Strv S1  Furthermore, aiming and moving is a challenge at best, which somewhat limits the usefulness of the low profile and good tank/gun depression. S22 Strv S1  It's recommended to try at least the UDES before you buy a S1, as the siege mode mechanic is not for everyone. S22 Strv S1 
+
+Unlike the 103-0 and 103B, it gets overmatched by guns 90 mm and larger. S22 Strv S1  That means it can be useful against up to T8 medium tanks, but very few heavy tanks. S22 Strv S1  This limits how effective the tank can be in an offensive role, though it remains a viable support vehicle due to low profile and depression. S22 Strv S1  The exceptional penetration and accuracy will allow you to deal with most T10 tanks even frontally, including tanks like Maus and Type 5. S22 Strv S1  This will typically lead to the enemies focusing on you if you're spotted. S22 Strv S1   With a great gun comes low survivability. S22 Strv S1 
+
+Despite the disadvantages, the S1 holds up remarkably well in T10 matches, which thanks to the matchmaking system you will see a lot of. S22 Strv S1  The excellent mobility makes taking advance positions a viable tactic, as opposed to sitting in the back. S22 Strv S1  If you're one of those, you're likely looking for the Skorpion G, which at about the same cost hits harder for when you want to sit in the base and moves far better when you'd rather not. S22 Strv S1 
+
+Can generally be considered a good credit maker, due to low dependence on Premium rounds and high chance of penetrating your shots. S22 Strv S1 
+
+|Gallery= 
+
+
+|InTheGame_pros= 
+* Exceptional penetration with standard rounds, rarely needs Premium rounds. S22 Strv S1 
+
+* Very good concealment. S22 Strv S1 
+
+* High reverse speed and good hp/t ratio. S22 Strv S1 
+
+* Fires APCR as standard shells, with high muzzle velocity. S22 Strv S1 
+
+* Enormous radio signal range at 850 meters. S22 Strv S1 
+
+* Siege Mode grants great gun handling. S22 Strv S1 
+
+|InTheGame_cons=  
+* Second lowest health pool among Tier 8 tank destroyers (tied with [[UDES 03]] and [[AMX AC mle. S22 Strv S1  48]]). S22 Strv S1 
+
+* Very thin armor that relies on auto-bounce mechanics, effective only against calibers than 90mm or less, and thus vulnerable to HE. S22 Strv S1 
+
+* Entirely reliant on Siege Mode and sniping to deal damage - the gun barrel is bolted to the hull and unmovable. S22 Strv S1 
+
+* Terrible mobility while in Siege Mode, easily flanked and destroyed in close combat. S22 Strv S1 
+
+* High ground resistance values means that it's slower than the hp/t value would suggest. S22 Strv S1 
+
+* Transitioning between Travel and Siege mode requires the tank to stay still for a couple seconds. S22 Strv S1 
+
+* Very low view range at 350 meters. S22 Strv S1 
+
+|In Game Performance= 
+
+The Strv-S1 is a good example of a good, traditional sniper. S22 Strv S1  This Swedish tank combines extremely good firepower (when being in Siege mode) with good camouflage values and decent mobility, which makes this tank suitable as a 3rd line support, or perhaps in the right circumstances, even 2nd line. S22 Strv S1  But there are some rules that makes this tank unique in both gameplay and performance. S22 Strv S1 
+
+The most important thing that the Strv-S1 features is a mighty tier 10 gun, with extremely great accuracy, aim time and penetration. S22 Strv S1  Be aware of the fact that you'll have to be in Siege mode to be able to actually use and aim the gun properly. S22 Strv S1  While in Siege mode, you can aim your gun both horizontally and vertically (unlike in travel mode where you can only aim horizontally), aim quicker and fire more accurate (aim time and dispersion values improve significantly while in siege mode. S22 Strv S1  2. S22 Strv S1 94s aim time vs 1. S22 Strv S1 37s and 0. S22 Strv S1 39 vs 0. S22 Strv S1 29 with a 100% crew). S22 Strv S1  The gun has the best penetration values of any tier 8 tank, with 288 mm of standard penetration and 330mm with "gold" shells. S22 Strv S1  The S1 features APCR as both standard and gold shells, meaning you'll be able to hit moving targets from far away much easier. S22 Strv S1  Alpha damage is 390 with an 8. S22 Strv S1 61 second reload with a 100% crew and vents + rammer (the shortest possible reload is 8. S22 Strv S1 07 seconds with vents, rammer, crew with Brothers in Arms and combat rations). S22 Strv S1  Try to avoid close combat at any costs! You will be focused almost instantly because of how poorly armored you are. S22 Strv S1  The same goes for getting spotted, artillery loves the S1, especially one that doesn't move. S22 Strv S1 
+
+The mobility of the Swede is very good when being in Travel mode. S22 Strv S1  However, in this mode your fighting ability is very limited due to the already mentioned longer aim time, worse accuracy and horizontal aiming only. S22 Strv S1  The Swede can switch flanks very easily if needed but also retreat quite effectively due to it having the same top speed both forwards and backwards. S22 Strv S1  The tank has mediocre ground resistance values, so it will feel sluggish in difficult terrain. S22 Strv S1  Remember that it takes 1. S22 Strv S1 3 seconds to get from Siege to Travel mode and 2 seconds from Travel to Siege so keep that in mind when you are engaging tanks that are close to you. S22 Strv S1  
+
+With just 30mm of all-around armor and an HP pool of 1000, the Strv S1's survivability is definitely not the best when compared to other tier 8 tank destroyers. S22 Strv S1  Therefore, you should always aim to utilize the S1's gun and its camo ratings to the maximum. S22 Strv S1  Find a good sniping position and support your teammates, relocate if necessary. S22 Strv S1  If you are in a hotspot where an enemy tank is likely to spot you when you shoot, make it a habit to shoot, exit siege mode, get back and hide, wait until you are no longer spotted, get back in the spot and shoot again. S22 Strv S1 
+
+
+
+|InTheGame_research= 
+
+No research needed, this is a premium tank. S22 Strv S1 
+
+|InTheGame_equipment=
+Improved Ventilation, Gun Rammer Class 2, Binocular Telescope, Camouflage Net. S22 Strv S1 
+
+|InTheGame_Equipment_Builds=
+
+Commander: Sixth Sense, Concealment, Recon, Designated Target, Brothers in Arms. S22 Strv S1 
+
+Driver: Concealment, Off-Road Driving, Clutch Braking, Snap Shot, Brothers in Arms. S22 Strv S1 
+
+Radio Operator: Concealment, Situational Awareness, Repairs, Relaying, Brothers in Arms. S22 Strv S1  
+
+|External_Reviews= 
+
+|History= 
+
+In 1961, the first 2 prototypes for the S-tank project were constructed – these would be called S1 and S2 and were the first proper test vehicles for the S-tank concept. S22 Strv S1  The first prototype (S1) was little more than a test-bed for the hydraulic suspension and commander’s cupola, it was powered by an electric generator and was used to test aiming of the hull and the observation from the commander’s cupola. S22 Strv S1  The second (S2) prototype was however much more impressive, it had complete superstructure, based on the 1961 mock up and it also for the first time had the major components such as suspension, autoloader, drivetrain and engine together. S22 Strv S1 
+
+
+The S2 prototype was finished sometime in late 1962 and continued the tests started with the S1. S22 Strv S1  In addition, these tests the vehicle was used for included the drivetrain and the autoloader. S22 Strv S1  While the autoloader generally proved to be a good and solid design, the drivetrain and in particular the engine turned out to be a major problem. S22 Strv S1  The use of a combined diesel engine and gas turbine was decided since 1959 and Volvo was tasked with their development and implementation into the tank, but as the first test results came in, it became clear that some serious improvements were needed – in fact, it was found that the tank could go through several engine packs in under a week. S22 Strv S1  These problems wouldn’t be truly resolved until the later versions of the pre-production models. S22 Strv S1 
+
+Also in 1962, the tank was for the first time shown to the world in the form of the S2 prototype. S22 Strv S1  It drew major attention with its low turretless design and everyone from France to the US lined up to get a better look at the tank and test it. S22 Strv S1  The interest went as far as the US president John F. S22 Strv S1  Kennedy asking about it and receiving a report on the US Army’s thoughts on the vehicle. S22 Strv S1  The US report on the S-tank was for the most part accurate, the tank had been designed from the ground up for a type of defensive ambush warfare, that was more typical for tank destroyers and therefore it was considered as a tank destroyer in the USA. S22 Strv S1 
+
+|HistAcc=
+* The S2 prototype was the one that was armed and is the basis of the model of the in-game tank, not the S1 prototype. S22 Strv S1  The S1 was only used for testing the hydraulic suspension and the commander's cupola. S22 Strv S1 
+
+|HistoricalGallery= 
+File:Strv_S1_and_1961_mock-up. S22 Strv S1 jpg{{!}}The S1 prototype on the left and the 1961 mock-up on the right. S22 Strv S1 
+File:Strv_S2_picture_1. S22 Strv S1 jpg{{!}}The S2 prototype in 1962 with equipment for swimming
+File:Strv_S2_picture_2. S22 Strv S1 jpg
+File:Strv_S2_prototype_today. S22 Strv S1 jpg{{!}}The S2 prototype today
+File:Strv_S2_prototype_today_side_view. S22 Strv S1 jpg
+File:Strv_S2_prototype_today_rear_view. S22 Strv S1 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S22 Strv S1 wot-news. S22 Strv S1 com/2014/08/21/swedish-tanks-part-xvii-strv-103/
+
+}}

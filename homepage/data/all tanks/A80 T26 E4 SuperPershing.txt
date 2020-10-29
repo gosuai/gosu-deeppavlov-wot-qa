@@ -1,0 +1,75 @@
+{{for|the non-premium vehicle|M26 Pershing}}
+{{TankData|Tank=
+|The T26E4 "Super Pershing" is a [[M26 Pershing]] with upgraded protection in the form of spaced armor scrapped off from one of the Panther tanks. A80 T26 E4 SuperPershing  It is analagous to the [[M4A3E2 Sherman Jumbo]] in that it is the up-armored variant of a mobile medium. A80 T26 E4 SuperPershing  The T26E4 does not however have access to the upgraded engine or the long 90mm of the M26 (although as of 9. A80 T26 E4 SuperPershing 17, AP penetration is similar to each other), but does have the similar but historically-accurate long 90mm tested on the tank. A80 T26 E4 SuperPershing  The turret face of the T26E4 has very good durability to complement the tough frontal hull. A80 T26 E4 SuperPershing  This makes it nearly impervious to HE shells from the front, and allows it to hold positions or assault them reasonably well. A80 T26 E4 SuperPershing  
+
+The armor, while very tough, is not completely immune to gunfire. A80 T26 E4 SuperPershing  The T26E4 has three large weakpoints: the turret cheeks under the "ears" formed by the additional armor welded on, the commander's hatch and the long viewing port on the right side of the hull. A80 T26 E4 SuperPershing  Shots entering here will penetrate and deal damage. A80 T26 E4 SuperPershing  However, these weakpoints are covered up nicely when hull-down on a reverse slope. A80 T26 E4 SuperPershing  The T26E4 is very slow for a medium tank and is especially vulnerable while climbing hills or when it has found itself to have been flanked. A80 T26 E4 SuperPershing  It may be advisable to use the oil consumable now and then. A80 T26 E4 SuperPershing   While it is claimed to eat HEAT shells, it is an complete lie as tanks that has about 330mm+ of HEAT pen can reliably penetrate the upper hull arrmor and the lower hull armor reliably - such as the T-54's HEAT Rounds and the M103's HEAT rounds. A80 T26 E4 SuperPershing  This, coupled with the T26E4's sluggish turret traverse, means it will often be easily flanked, where its much thinner side and rear armor can be engaged. A80 T26 E4 SuperPershing  Likewise, this means the Super Pershing will not be able to flank most opponents, forcing you to fight enemies head-on but at a reasonable range where it will be more difficult for them to aim at the Super Pershing's weak spots. A80 T26 E4 SuperPershing  The T15E1 gun has average accuracy, and lacks in alpha and DPM to face most heavy tanks. A80 T26 E4 SuperPershing  When playing the Super Pershing, great care must be taken to aim for the weakpoints on enemy armor and to keep the three weak spots hidden or constantly moving. A80 T26 E4 SuperPershing  Overall, the T26E5 is a better choice in everything but camouflage values. A80 T26 E4 SuperPershing  
+
+|Sidebar_Camostop=13. A80 T26 E4 SuperPershing 40
+|Sidebar_Camomove=10. A80 T26 E4 SuperPershing 00
+|Sidebar_Camofire=3. A80 T26 E4 SuperPershing 10
+|Sidebar_Passhard=1. A80 T26 E4 SuperPershing 151
+|Sidebar_Passmed=1. A80 T26 E4 SuperPershing 342
+|Sidebar_Passsoft=2. A80 T26 E4 SuperPershing 589
+|Sidebar_DispTurret=0. A80 T26 E4 SuperPershing 153
+|Sidebar_DispRecoil=3. A80 T26 E4 SuperPershing 356
+|Sidebar_DispAccel=0. A80 T26 E4 SuperPershing 23
+|Sidebar_DispTurning=0. A80 T26 E4 SuperPershing 23
+
+|InTheGame_pros=
+* Good base and premium penetration
+* Frontal arc is covered by spaced armor and is quite resilient, especially the mantlet
+* Great gun depression
+* Large hitpoint pool, on par with many Tier 8 heavy tanks
+* Preferential matchmaking, won't see Tier 10 battles
+
+|InTheGame_cons=
+* Only the front of the tank is well-protected, sides and rear are exposed and vulnerable
+* Despite its improved armor, the frontal arc is littered with weakspots
+* Very weak engine power and bad ground resistance, sluggish mobility  
+* Very poor gun handling for a medium tank
+* Playstyle is very different compared to regular American medium tanks
+
+|InTheGame_performance=
+In the patch 8. A80 T26 E4 SuperPershing 8 the Super Pershing was "re-balanced. A80 T26 E4 SuperPershing " While on paper, it's frontal armor was reduced by 1mm, its angle was changed causing the tank to lose over a third of its effective frontal armor. A80 T26 E4 SuperPershing  On the other hand view range and camouflage value received a buff. A80 T26 E4 SuperPershing  Accuracy on move and dispersion during turret rotation was significantly improved resulting improved fire control, even if on paper it remains the same. A80 T26 E4 SuperPershing  Terrain resistance was buffed and tank can reach around 30kph on flat ground, slightly surpassing the [[IS-6]]. A80 T26 E4 SuperPershing  Hill climbing still remains abysmal. A80 T26 E4 SuperPershing 
+
+In patch 9. A80 T26 E4 SuperPershing 8, the Super Pershing received further changes to its armor in conjunction with its HD model update. A80 T26 E4 SuperPershing  The upper and lower glacis are now protected by 2 layers of spaced armor covering nearly the entirety of the frontal hull, making the tank very difficult to penetrate from the front once more: the upper glacis adds up to about 285mm while the lower glacis has an effective thickness of approximately 250mm. A80 T26 E4 SuperPershing  In addition, 102mm of turret face was added behind the mantlet, giving most of the frontal turret effective protection in excess of 300mm. A80 T26 E4 SuperPershing  The turret cheeks and "forehead" above the mantlet have also become slightly smaller in area, making it more difficult to snapshot the T26E4's turret weakspots. A80 T26 E4 SuperPershing  Overall, the frontal armor of the Super Pershing is significantly improved, and the tank is again capable of leading the charge in a push. A80 T26 E4 SuperPershing  
+
+The front of a T26E4 is a serious challenge to inexperienced players and tanks at a distance. A80 T26 E4 SuperPershing  The front is virtually immune to high-explosive or HEAT shells (Assuming it has lower than 330mm+ penetration), due to the mass of the turret armor and the very well-sloped spaced armor on the front. A80 T26 E4 SuperPershing  Under no circumstances should HE or HEAT rounds be fired (unless you fire 330mm+ penetration HEAT rounds) at the front of the Super Pershing, aside from weakspots. A80 T26 E4 SuperPershing  The T26E4 is similar to the [[M26 Pershing]] in many ways, such as shape and armament; however, the T26E4 suffers a significant decrease in speed and mobility as it uses a very strained 500 horsepower engine that makes it slow while turning, accelerating, and going uphill. A80 T26 E4 SuperPershing  Speed is definitely not the T26E4's strong point. A80 T26 E4 SuperPershing  Another downside is the very weak sides and rear of the T26E4 which, when combined with sluggish mobility, make it very vulnerable when flanked. A80 T26 E4 SuperPershing  Although very difficult to penetrate at a distance, an up-close T26E4 can be more easily dispatched by enemies that are familiar with the T26E4's numerous weakspots. A80 T26 E4 SuperPershing  The most commonly exploited weak spots include the commander's hatch, viewing port and turret ring behind the armour. A80 T26 E4 SuperPershing  Face-hugging in a T26E4 is not usually advised - it will be easier for opponents to avoid your strongpoints. A80 T26 E4 SuperPershing  Nevertheless, at a medium range, the Super Pershing's frontal armor is resistant to nearly every gun it can see, and the frontal weakspots become very difficult to hit. A80 T26 E4 SuperPershing  A T26E4 must be very aware of its surroundings and keep its weak spots and sides protected to fully utilize the potential of its armor. A80 T26 E4 SuperPershing 
+
+Whereas other mediums may be speedy, thinly armored, and rely on flanking maneuvers and wolf-pack tactics, the T26E4 finds itself better suited to playing as a breakthrough tank. A80 T26 E4 SuperPershing  Since patch 9. A80 T26 E4 SuperPershing 17, penetration was buffed to 192, and gun handling is usually acceptable given the slow speed. A80 T26 E4 SuperPershing  An alternative to targeting weakspots while in a T26E4 are its premium rounds which boast greatly increased penetration. A80 T26 E4 SuperPershing  These rounds often exceed the armor-penetration capabilities of non-premium Tier 8 medium tanks. A80 T26 E4 SuperPershing  Furthermore, as with most American vehicles, the T26E4 has great gun depression which allows it to hull-down and use cover comfortably. A80 T26 E4 SuperPershing  It is advised that the Super Pershing attack in a group with heavies when possible and, if available, exploit terrain features using its excellent gun depression and turret armor. A80 T26 E4 SuperPershing  When this is not practical, the frontal armor of the Super Pershing is generally superior to that of any tier 8 heavy, allowing the Super Pershing to take an aggressive forward position and absorb heavy fire for its teammates. A80 T26 E4 SuperPershing  The durability of the armor also affords the T26E4 the luxury of being able to expose itself out in the open for greater periods of time, giving you the opportunity to fully aim and ensure accuracy. A80 T26 E4 SuperPershing  However, it is weak 1vs1 against tanks due to it's slow reload. A80 T26 E4 SuperPershing 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|External_Reviews=
+{{VideoYT|OVIM_mXiyY4}}
+Review Romana
+{{#ev:youtube|jAW0yamxFzw}}
+|Gallery=
+
+File:T26E4 SuperPershing scr 1. A80 T26 E4 SuperPershing jpg
+File:T26E4 SuperPershing scr 2. A80 T26 E4 SuperPershing jpg
+File:T26E4 SuperPershing scr 3. A80 T26 E4 SuperPershing jpg
+
+
+|History=
+[[image:Super_pershing. A80 T26 E4 SuperPershing jpg|thumb|200px|left|The so called "Super Pershing" before extra armor welded on. A80 T26 E4 SuperPershing  Note length of barrel, 73 calibres, to compete with the 88 mm KwK 43 L/71 gun of the Tiger II]]
+The 90-mm M3 gun of the Pershing was similar to the German 88 mm KwK 36 used on the Tiger I. A80 T26 E4 SuperPershing  In an effort to match the firepower of the Tiger II's more powerful 88 mm KwK43, the T15E1 90 mm gun was developed and mounted in a T26E1 in January 1945. A80 T26 E4 SuperPershing  This tank was designated T26E1-1. A80 T26 E4 SuperPershing  The T15E1 gun was 73 calibers in length and had a much longer high capacity chamber. A80 T26 E4 SuperPershing  This gave it a muzzle velocity of 3,750 ft/s (1,140 m/s) with the T30E16 APCR shot and could penetrate the Panther's frontal armor at up to 2,600 yd (2,400 m). A80 T26 E4 SuperPershing  This model used a single piece 50 in (1,300 mm) long ammunition and was the only Super Pershing sent to Europe. A80 T26 E4 SuperPershing 
+
+A second pilot tank was converted from a T26E3 and used a modified T15E2 gun that used a two piece ammunition. A80 T26 E4 SuperPershing  A total of 25 of these tanks were built and designated as the T26E4. A80 T26 E4 SuperPershing  An improved mounting removed the need for stabilizer springs. A80 T26 E4 SuperPershing  Since M26 was designed to fight the heaviest German armour, weak mantlet proved to be a big problem. A80 T26 E4 SuperPershing  It wasn’t able to stop the shells from 88 mm KwK 36 used on the Tiger I, not to mention 88 mm KwK43 from the Tiger II. A80 T26 E4 SuperPershing  The designers chose crude, but effective method. A80 T26 E4 SuperPershing  They welded additional 80 mm armor plate in front of the mantlet to increase its resilience. A80 T26 E4 SuperPershing  Original plate that was welded was salvaged from the destroyed Panther tank. A80 T26 E4 SuperPershing 
+
+Post-war, two M26 tanks had the T54 gun installed, which had the same long gun barrel, but the ammunition cartridge was designed to be shorter and fatter, while still retaining the propellant force of the original round. A80 T26 E4 SuperPershing  They also had the muzzle brake and bore evacuator from the M3A1 gun of the M26A1 and M46. A80 T26 E4 SuperPershing  The tanks were designated as the M26E1 tank, but lack of funds cut off further production
+
+|HistoricalGallery=
+image:Super_pershing. A80 T26 E4 SuperPershing jpg{{!}} The so called "Super Pershing" before extra armor welded on. A80 T26 E4 SuperPershing  Note length of barrel, 73 calibres, to compete with the 88 mm KwK 43 L/71 gun of the Tiger II
+image:M26_Super_Pershing. A80 T26 E4 SuperPershing jpg{{!}} M26E4 with the extra 80 mm armor plate welded in front of the mantlet
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

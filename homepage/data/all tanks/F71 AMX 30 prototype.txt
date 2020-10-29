@@ -1,0 +1,68 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:AMX 30 1er prototype scr 1. F71 AMX 30 prototype jpg
+File:AMX 30 1er prototype scr 2. F71 AMX 30 prototype jpg
+File:AMX 30 1er prototype scr 3. F71 AMX 30 prototype jpg
+File:AMX 30 1er prototype scr 4. F71 AMX 30 prototype jpg
+
+
+|InTheGame_pros= 
+* Good alpha damage and excellent DPM
+* Excellent straight line speed, both forward and reverse
+* Good acceleration for a medium
+* Large gun mantlet and sharp angles on the upper front plate are surprisingly bouncy
+* Usable gun depression
+
+|InTheGame_cons= 
+* Weak armor everywhere but the turret front
+* Bad hull traverse, run rings in large diameter which can be tricky in cities and against fast turning tanks
+* Frontally mounted fuel tank and ammo rack next to the driver, leads to frequent fires and loss of ammo rack
+* Disappointing accuracy (same as Batchat 25t), unreliable for sniping
+* Has a dedicated loader unlike all tanks preceding it
+
+|InTheGame_performance= 
+This tank is all about making use of excellent speed and DPM. F71 AMX 30 prototype  With 100% crew, rammer, vents, BiA and food you can reach in excess of 3400 DPM, which is outstanding. F71 AMX 30 prototype  Enemies who are unfamiliar with your tank will often be shocked by your fast reload and 390 damage on average. F71 AMX 30 prototype  When facing heavy targets, try to flank them at all times and make every shot count. F71 AMX 30 prototype  Your penetration, although quite good, is not capable of reliably penetrating most heavies of your tier or higher from the front, so aim for weakspots, softer targets, or use excellent HEAT shell. F71 AMX 30 prototype  Aim fully before shooting, since snapshots simply don't work on this tank - you will miss more often than not. F71 AMX 30 prototype  Since your hull armor is weak, try to avoid engaging enemies head-on in the open, unless you have more HP or can quickly finish them with your DPM. F71 AMX 30 prototype  Your cupola can sometimes bounce, so hulldown positions with peeking and retreating are actually viable (your gun depression is good), and you can also quickly relocate when required. F71 AMX 30 prototype  Your main weakness is a weak ammo rack which gets damaged quite often, so get safe stowage perk for your crew and bring repair kits, and, of course, try to avoid getting shot in the first place. F71 AMX 30 prototype  The other weakness is that this tanks really likes to burn. F71 AMX 30 prototype  A LOT. F71 AMX 30 prototype  So much in fact, that not only automatic fire extinguisher is highly recommended, but even getting a 2nd fire estinguisher (manual) is not a bad idea at all. F71 AMX 30 prototype  You will be thankful for it many times. F71 AMX 30 prototype 
+
+When stock, the AMX 30 Prototype is a pain. F71 AMX 30 prototype  Although the mobility is still fairly good, the gun is only really effective for flank shots or even rear shots for some of the more heavily armored tanks in the game. F71 AMX 30 prototype  However the stock mobility is good enough to reach these required positions. F71 AMX 30 prototype 
+
+Researching the 100 mm SA47 should be a main priority. F71 AMX 30 prototype  Note that the gun is too heavy to be initially mounted so the tracks should be researched or Enhanced Suspension mounted (it is cheap anyway). F71 AMX 30 prototype 
+ 
+The final gun, the 105 mm mle. F71 AMX 30 prototype  F1, is an excellent addition to this tank. F71 AMX 30 prototype  It combines acceptable penetration (248mm) with good alpha and outstanding rate of fire to make the AMX 30 Prototype a medium with a nasty punch for unsuspecting enemies. F71 AMX 30 prototype  
+
+|InTheGame_research= 
+*If you have free XP to unlock the tracks, do so. F71 AMX 30 prototype  If not, mount enhanced suspension, it is cheap and will allow faster progress to the 2nd gun if you don't already have it unlocked. F71 AMX 30 prototype  Mobility with stock tracks and engine is very good anyway, so the firepower should be your priority. F71 AMX 30 prototype 
+*Research and mount the 100 mm SA47 gun for a much needed boost in penetration and damage. F71 AMX 30 prototype  If you played through AMX 50 100 or Bat. F71 AMX 30 prototype -Châtillon 25 t AP, you should have this gun readily available. F71 AMX 30 prototype 
+*Research the 105mm gun, it is what makes the tank
+*Research the turret for increased view range, better HP (1550->1650), faster reload, as well as better frontal armor
+*If not already done in step 1, research the tracks to allow for a higher weight limit, better traverse speed, and to free up 1 slot for combat-oriented equipment (occupied by enhanced suspension up to this point)
+*Research the upgraded engine; it has a lower chance of engine fire (12%) and slightly better mobility due to lower weight
+*Finally, research the radio
+
+|InTheGame_equipment= Vertical Stabilizer Mk 1 , Tank Gun Rammer ,  Improved Ventilation Class 2 , Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|yqvqH0N0SNU}}
+
+|History= 
+
+|HistAcc=
+HEAT is actually the standard ammunition of the 105 mm mle F1 gun. F71 AMX 30 prototype  The APCR round is fake. F71 AMX 30 prototype 
+* The HEAT round is considerably weaker than in reality, with only 300 mm of penetration compared to the historical 400. F71 AMX 30 prototype 
+* The HE round is considerably stronger than in reality, with 53 mm of penetration compared to the historical 26. F71 AMX 30 prototype 
+* Historical smoke and illumination rounds for the 105 mm gun is missing. F71 AMX 30 prototype 
+* Historical HEAT round with 320 mm of penetration for the 90 mm F3 gun is missing. F71 AMX 30 prototype  The APCR round is fake. F71 AMX 30 prototype 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

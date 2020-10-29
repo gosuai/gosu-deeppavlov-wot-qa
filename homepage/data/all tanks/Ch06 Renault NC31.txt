@@ -1,0 +1,95 @@
+{{TankData|Tank=Ch06_Renault_NC31
+|The Renault NC-31 is faster and more maneuverable than the Renault FT, while still having excellent weapons for its tier, such as an automatic 13. Ch06 Renault NC31 2mm machine gun or a 37mm gun, capable of hurting every tank that it sees, with the trade off of having a slightly longer aim time and not so great accuracy. Ch06 Renault NC31  It's a solid starter tank for new Chinese tree players. Ch06 Renault NC31 
+
+|InTheGame_pros=
+* Surprisingly good armor for a tier 1, due to its slope
+* Decent acceleration
+* Surprisingly great maneuverability
+* Top gun has good RoF and pen
+
+|InTheGame_cons= 
+* Low top speed
+* Gun has a long aiming time
+* Modules (engine, ammo rack, etc. Ch06 Renault NC31 ) often get taken out
+* Crew is killed fairly often
+
+|InTheGame_performance=
+Many will have a Tier-1 "Keeper" they enjoy playing, but it seems unlikely the NC-31 will grace many garages long term. Ch06 Renault NC31  However this tank could fit a niche style of play for those who enjoy low tier matches. Ch06 Renault NC31  The high maneuverability of this tank, plus the slope of the armor, cause the NC-31 to preform surprisingly well as the lead tank in a group fellow T1 tanks. Ch06 Renault NC31 
+
+Unlike its French counter part, the NC-31 is built faster, and with better armor. Ch06 Renault NC31  It can deal a good bit if damage from close or long range. Ch06 Renault NC31  It has decent accuracy for a tier 1 and d/m. Ch06 Renault NC31   
+
+Please note the [[Battle_Mechanics#Map_Restrictions|Map Restrictions]] for tier 1 tanks and the Camo Type for those maps when purchasing a camouflage skin/paint job for this tank. Ch06 Renault NC31  
+
+
+|InTheGame_research=
+The only thing to unlock is the next gun. Ch06 Renault NC31 
+
+|InTheGame_equipment=
+Vents, Toolbox, Binocular Telescope
+
+
+|Gallery=
+
+
+|History=
+After WWI, Renault sought to upgrade and improve on its successful Renault FT. Ch06 Renault NC31  The first generation in this upgrade line was given the model designation "NC" and appeared in 1924. Ch06 Renault NC31  Like the designation FT, the term NC was merely an in-house Renault model number and was not an acronym or abbreviation with some other significance. Ch06 Renault NC31  The main improvements of the NC over the FT were a new form of suspension which included three assemblies of four bogie wheels on each side with vertical coil springs. Ch06 Renault NC31  The NC was slightly larger than the FT, but still carried the same two man crew. Ch06 Renault NC31  Armor was increased in places from 20mm to 30mm and the weight increased from 6 to 8 tons. Ch06 Renault NC31  A more powerful Renault 60hp engine raised top speed from 16 to 18 kph. Ch06 Renault NC31  Another major improvement was the introduction of the Cletrac differential steering control system developed in America for agricultural tractors. Ch06 Renault NC31  
+ 
+Two additional NC versions were produced for testing, the first of which appeared in 1927 and was designated the NC-1. Ch06 Renault NC31  The second version, the NC-2, appeared in 1931. Ch06 Renault NC31  The primary differences between the NC-1 and the NC-2 were in the turrets and armaments. Ch06 Renault NC31  The NC-1 carried the same turret as the FT and mounted a single 1918 model 37mm main gun. Ch06 Renault NC31  The NC-2 mounted an improved turret and offered twin coaxial mounted machine guns. Ch06 Renault NC31  Although Renault sought an export market for the NC, and did sell several units to foreign powers for testing purposes; the model did not realize success in France. Ch06 Renault NC31  Further development was discontinued by Renault in order to focus on the NC's successor the Renault D-1. Ch06 Renault NC31 [2]
+
+The Japanese army purchased 10 Renault NC tanks with 37mm guns for testing purposes in 1930. Ch06 Renault NC31  In Japan these became known as Renault B or Type-B. Ch06 Renault NC31  The Renault NC saw action between 18 January and 3 March 1932 in what the Japanese (3,000+ K. Ch06 Renault NC31 I. Ch06 Renault NC31 A) refer to as the "First Shanghai Incident" and the Chinese (4,000 K. Ch06 Renault NC31 I. Ch06 Renault NC31 A) refer to as the "January 28 Incident". Ch06 Renault NC31  The Japanese were dissatisfied with the NC, citing inferior combat performance due to chronic over-heating of the engine, easily damaged suspension, and malfunction of the power train. Ch06 Renault NC31  [3]
+
+The NC31 is direct ancestor for the Renault [[D1]] tank. Ch06 Renault NC31 
+
+The French plan of 1926, calling for the creation of a Light Infantry Support Tank, led to the development of the existing Renault NC1 prototype into the Char D1. Ch06 Renault NC31  One hundred and sixty vehicles of this type were produced between 1931 and 1935. Ch06 Renault NC31  There was a pre-series of ten vehicles and later 150 standard vehicles were built. Ch06 Renault NC31  Until 1936 the vehicles were fitted with Renault FT turrets because the intended cast ST2 turrets were not ready yet. Ch06 Renault NC31  The ST2 turret was armed with a short 47mm SA34 tank gun with a coaxial 7. Ch06 Renault NC31 5mm MG. Ch06 Renault NC31  The hull carried a 7. Ch06 Renault NC31 5mm MG in the bow. Ch06 Renault NC31  The type did not serve as an infantry support tank as originally intended, but as France's major battle tank of the early thirties; it was quickly phased out in 1937 because of its mechanical unreliability. Ch06 Renault NC31 
+'''''Development'''''
+After World War I, France possessed a very large fleet of Renault FT light infantry support tanks. Ch06 Renault NC31  Although many of these were sold to other nations, over 2800 remained. Ch06 Renault NC31  In contrast to the United Kingdom, that after the war greatly reduced its armoured forces and scrapped any redundant AFVs, France maintained a large number of active or reserve armoured units (with an organic tank strength of about 1260) and all of the remaining Renault FTs were kept in working order. Ch06 Renault NC31  This implied that in the early twenties France had the strongest and most modern armoured force in the world, but this very fact led to a state of complacency. Ch06 Renault NC31  Development of new tank models was not seen as urgent, also because budgetary restraints would for the immediate future prohibit any further tank production anyway. Ch06 Renault NC31  When in 1922 General Jean Baptiste Eugène Estienne concluded an official study containing guidelines for long term tank design, no provisions were made for any new light infantry tank. Ch06 Renault NC31 
+
+'''''FT Kégresse'''''
+
+However, the remaining Renault FT vehicles, though having shown themselves to be very effective in trench warfare, were in their present state of technological development not well adapted to peacetime conditions. Ch06 Renault NC31  The main problem was their low top speed, which necessitated the use of special tank transporters whenever the vehicles had to be moved outside of their base area and which made them fundamentally unsuited to patrolling duty in the colonies. Ch06 Renault NC31  It was therefore decided to modify a number of existing vehicles, by fitting them with a more effective suspension system. Ch06 Renault NC31  The first modifications were of the Renault FT Kégresse-type, which featured the suspension of the Kégresse half-track, fitted with a special rubber steel-reinforced track. Ch06 Renault NC31  In 1925 42 vehicles were rebuilt this way and deployed in 1926 during the Berber insurrection in Morocco. Ch06 Renault NC31  The modification allowed for a top speed of 17 km/h but field experience showed that the track was liable to suddenly snapping at top speed with often catastrophic consequences and the modification project was therefore discontinued. Ch06 Renault NC31  Nine Renault FT Kégresse vehicles were later sold to Yugoslavia and five to Poland. Ch06 Renault NC31 
+
+'''''Renault NC'''''
+
+Meanwhile Louis Renault had obtained an order in 1923 to build two new prototypes as a parallel modification project, with the factory designation Renault NC; it was intended to feature not only an improved suspension system but also a stronger engine. Ch06 Renault NC31  Like "FT", "NC" is simply a combination of code letters devoid of any meaning. Ch06 Renault NC31  One prototype happened to be finished second, in December 1925, and was therefore called the NC2. Ch06 Renault NC31  It was fitted with a strongly modified Kégresse leaf spring suspension and a 62 hp engine. Ch06 Renault NC31  It had as an alternative designation Renault Modèle 24/25, because Renault proposed to build it as a possible "fast tank" as specified in Plan 1924 of the French Cavalry. Ch06 Renault NC31  This line of development was discontinued however. Ch06 Renault NC31  The first prototype to be ready, thus named the NC1, had a completely different suspension system, with twelve wheels and three large vertical volute springs per side. Ch06 Renault NC31  It allowed for a top speed of 18. Ch06 Renault NC31 5 km/h, making it in 1926 the fastest French tank ever. Ch06 Renault NC31 
+As had been the case for the Renault FT Kégresse, this project was still primarily intended to merely result in a modification proposal to rebuild existing Renault FTs. Ch06 Renault NC31  In 1926 it transpired however that the Char de Bataille project, that much later would result in the Char B1, was evolving into a far heavier tank than at first intended. Ch06 Renault NC31  It would be impossible to procure this heavier design in sufficient numbers and therefore specifications were made in the Infantry Plan 1926 for a new Char léger d'accompagnement d'infanterie, a "light infantry support tank". Ch06 Renault NC31  Renault immediately tried to offer his NC1, now called the Renault Modèle 26/27, as the logical candidate for this role. Ch06 Renault NC31 
+Renault also tried to open foreign markets. Ch06 Renault NC31  In 1928 he sold a single NC prototype to Sweden, in that country named the Stridsvagn fm/28; in 1929 he obtained an order of ten vehicles for Japan, there called the Renault Otsu-Gata ("Type B"); and 24 more were according to some sources delivered to Poland, fitted with 25 mm side armour, bringing the weight from 7. Ch06 Renault NC31 5 to 9. Ch06 Renault NC31 5 metric tons. Ch06 Renault NC31  In the early thirties a single tank was delivered to Greece. Ch06 Renault NC31  All of these vehicles were by postwar writers subsumed under the name NC27; this was not a contemporary designation, however. Ch06 Renault NC31 
+
+'''''NC31'''''
+
+In 1928 Renault succeeded in his attempt to get his Renault NC accepted as the basis for further light infantry tank development; he was granted an order to build two prototypes. Ch06 Renault NC31  The Army called this project the Char D, Renault used the designation NC28. Ch06 Renault NC31  Of the two prototypes, the first was fitted with the twin machine gun turret of the SRA Char de Bataille prototype. Ch06 Renault NC31  Also a new suspension system was tested incorporating the special chenille légère ("light track") designed by Colonel Balland, which was optimised for high speeds. Ch06 Renault NC31  As this vehicle was a derivative of the NC1, it was later indicated with the designation NC2, creating confusion with the earlier project of that name; many later books assumed they were one and the same vehicle. Ch06 Renault NC31  The Army made a choice in March 1929 for the second prototype, the NC3 gun tank, and ordered a pre-series of ten vehicles in December 1929. Ch06 Renault NC31  These had the Renault factory designation NC31, after the intended year of delivery. Ch06 Renault NC31  Renault merely had to build the hulls at a price of 400,000 FF each; the cast turrets were, as usual in France, separately ordered with the Schneider company; they were of the ST1 type (Schneider Tourelle 1). Ch06 Renault NC31  As this turret was much wider than the Renault FT turret used on all previous NC models, Renault broadened the hull accordingly; the typical tapering nose point of the Renault FT was abandoned. Ch06 Renault NC31  The ten hulls were delivered between May and November 1931: after an interval of ten years after the delivery of the last Char 2C in 1921, French tank series production for the home market was thus resumed. Ch06 Renault NC31 
+The ten pre-series hulls were tested by the 503e Régiment de Chars de Combat. Ch06 Renault NC31  Many shortcomings were discovered by the Commission de Bourges, the French Infantry matériel commission. Ch06 Renault NC31  Steering was difficult, the suspension too weak and the exhaust pipes overheated the engine compartment. Ch06 Renault NC31  Nevertheless the type was accepted for mass production — the commission had little choice in this as the main series had already been ordered — provided that changes were made. Ch06 Renault NC31  The strangely squeezed ST1 turret, the first ten of which were delivered from November 1930, was rejected though as being unacceptably cramped and unbalanced. Ch06 Renault NC31  To prevent that each time the gun was loaded, the breech had to be lowered into the fighting compartment or otherwise the round could not be shoved in, the main armament had been placed in a very forward position. Ch06 Renault NC31  The ST1 turrets were therefore again removed from the first ten vehicles. Ch06 Renault NC31 
+
+'''''Char D1'''''
+
+On 23 December 1930 a first order of 70 main production series vehicles was made, followed on 12 July 1932 by a second order of 30; the last order on 16 October 1933 was of 50 vehicles, for a total of 150, delivered between January 1932 and early 1935, at a price of 375,000 FF per hull. Ch06 Renault NC31  Including the NC31s the series numbers were 1,000-1,160. Ch06 Renault NC31  The factory designation was still Renault NC. Ch06 Renault NC31 
+The series vehicles had many improvements: a Cleveland differential; a 74 hp instead of a 65 hp engine; the exhaust pipes were placed to the right, no longer crossing the engine room and there were support rollers fitted to prevent resonance in the top track run. Ch06 Renault NC31  Finally, the fuel tank was enlarged to 165 litres and a new radiator was fitted. Ch06 Renault NC31 
+In May 1930 Renault was asked to develop two derived types, the Char D2 and the Char D3; the original Char D now received as designation Char D1. Ch06 Renault NC31 
+
+|HistoricalGallery=
+image:NC31 2. Ch06 Renault NC31 jpg{{!}}A knocked out Renault M26/27
+image:NC31 1. Ch06 Renault NC31 jpg{{!}}Renault NC31
+
+|HistAcc=
+The Renault NC-31 is actually a tank with leaf spring suspension. Ch06 Renault NC31  Renault FTs fitted with Kegresse were known as "FT Kegresse", "Renault M26/27" or "Renault NC2 Kegresse". Ch06 Renault NC31 
+* There's no record that the NC-31 was ever in service with the Chinese army. Ch06 Renault NC31  These NC-31s were used by the Kwantung Army, a unit of the Imperial Japanese Army. Ch06 Renault NC31  The implicit suggestion of them being captured/inherited by the People's Liberation Army lacks substantiation. Ch06 Renault NC31 
+* The 3. Ch06 Renault NC31 7 cm KwK 36 gun configuration is fictitious. Ch06 Renault NC31 
+
+|Ref_references=
+
+1. Ch06 Renault NC31  Bingham 1973, p2. Ch06 Renault NC31 <br />
+2. Ch06 Renault NC31  Bingham 1973, p3. Ch06 Renault NC31 <br />
+3. Ch06 Renault NC31  Hara 1972, p7. Ch06 Renault NC31 <br />
+
+
+|Ref_sources=
+
+Bingham, J. Ch06 Renault NC31 , 1973, '''<i>AFV Weapons Profile 59 - French Infantry Tanks Part II (including R 35 and FCM 36)</i>''', Profile, Windsor, UK,  24p. Ch06 Renault NC31 <br />
+Hara, T. Ch06 Renault NC31 , 1972, '''<i>AFV Weapons Profile 49 - Japanese Medium Tanks</i>''', Profile, Windsor, UK,  24p. Ch06 Renault NC31 <br />
+
+
+|Ref_links=
+[[https://www. Ch06 Renault NC31 aviarmor. Ch06 Renault NC31 net/tww2/tanks/france/renault_m24. Ch06 Renault NC31 htm aviarmor. Ch06 Renault NC31 net (Russian)]]
+
+* [https://www. Ch06 Renault NC31 chars-francais. Ch06 Renault NC31 net/new/index. Ch06 Renault NC31 php?option=com_content&task=view&id=66&Itemid=37 '''<i>1925 CHAR RENAULT NC at chars-francais. Ch06 Renault NC31 net</i>'''] Photos, specs, and brief history in French. Ch06 Renault NC31 
+
+}}

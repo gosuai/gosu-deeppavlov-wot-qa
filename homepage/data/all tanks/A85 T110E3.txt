@@ -1,0 +1,95 @@
+{{TankData|Tank=
+|The T110E3 is the tier X American Tank Destroyer on the turretless tech tree. A85 T110E3  A compact, slightly more mobile than the [[T95]], the E3 can move around the battlefield better with its increased top speed, but at the dire sacrifice of overall armor protection. A85 T110E3  Cutting the side and rear armor by more than half, the T110E3 is much more vulnerable to flanking tanks, and the lack of "skirt" armor on the sides makes the E3 take in more damage from artillery shells. A85 T110E3  However, the E3 still maintains the 305mm of frontal armor that the [[T95]] is famous for, so fighting this tank from the front is incredibly difficult. A85 T110E3  The increased vulnerability should not scare anyone away from trying to get this tank, as it can still do much of what the [[T95]] was able to do and even more. A85 T110E3 
+
+|Sidebar_Camostop=9
+|Sidebar_Camomove=4
+|Sidebar_Camofire=2. A85 T110E3 17
+|Sidebar_Passhard=1. A85 T110E3 438
+|Sidebar_Passmed=1. A85 T110E3 63
+|Sidebar_Passsoft=2. A85 T110E3 877
+|Sidebar_DispTurret=0. A85 T110E3 077
+|Sidebar_DispRecoil=3. A85 T110E3 836
+|Sidebar_DispAccel=0. A85 T110E3 211
+|Sidebar_DispTurning=0. A85 T110E3 211
+
+|Gallery=
+
+|InTheGame_pros= 
+- Shares the same very strong 305mm frontal armor with its predecessor. A85 T110E3  And unlike its predecessor and other T110E tanks, the Cupola is outrageously strong. A85 T110E3 
+
+- Gun Mantlet with superstructure behind it is 600+ mm of effective armor, making it truly invincible. A85 T110E3 
+
+- Yields an improoved variant of the T95s 155mm gun with better penetration, slightly better accuracy, and higher damage per minute. A85 T110E3 
+
+- -8° of gun depression allows for more usable hull-down tactics than the T95. A85 T110E3  
+
+
+
+|InTheGame_cons=
+- Side (Below superstructure) and rear armor is very weak and vulnerable to HE. A85 T110E3  Can also be overmatched by +133mm guns. A85 T110E3  
+
+- Sluggish speed and traverse, one of the slowest tanks in the game. A85 T110E3  
+
+- Lower glacis is very weak and easily penned, but can be trollish at times. A85 T110E3 
+
+- Gets shot at with nothing but HE and Premium rounds all the time, damaging you frequently even in hulldown. A85 T110E3 
+
+- Bad terrain resistance, even on hard ground. A85 T110E3 
+
+- Awful gun handling, long aim time with below average accuracy. A85 T110E3  
+
+- Repair costs are high, even for a tier X. A85 T110E3  Being killed will suck close to 25K silver from your earnings
+
+|InTheGame_performance=
+The T110E3 is a truly devastating tank destroyer. A85 T110E3  Its ability to reliably bounce shells from nearly all tanks in the game means it can single-handedly distract an enemy team as they focus fire without any significant results. A85 T110E3  Woe to the enemy tankers who sit face to face with a T110E3 as the likelihood of survival is virtually nil in the right hands. A85 T110E3  T95 drivers will notice many of the same characteristics of the T95 in the T110E3 and should play it the same way with some minor adjustments. A85 T110E3  The T110E3's primary weak point from the front is its lower hull corners, so T110E3 drivers should seek camping spots that cover this area, or if not possible, terrain that can cover large portions of the lower glacis. A85 T110E3  If achieved, the only other weak point from the front is the Commander's view port on top of the tank, but even so it is still a very difficult target to penetrate and bounces shells as well. A85 T110E3  While faster and more agile than the T95, it is still weak to flanking and getting tracked, so play smart and use reverse and track any tank attempting to flank you and ram his front. A85 T110E3  Doing so will essentially guarantee a win as their shells cannot penetrate your upper hull and your shells will pierce every time, quickly destroying them. A85 T110E3 
+
+While the side and rear armor is statistically weaker than the front, everything above the tracks is still difficult to penetrate. A85 T110E3  The T110E3 works best in conjunction with support tanks acting as the tank that leads the rush around corners into enemy formations and focusing directly on the highest tiered tank, running into it if possible. A85 T110E3  If that support requirement is met, the enemy will shoot the T110E3 in a futile effort only to immediately be overrun. A85 T110E3  The camo rating for the T110E3 is low so sniping from distance can be difficult except if hidden behind a heavy brush. A85 T110E3  Sixth sense skill is strongly recommended for T110E3 drivers for this reason. A85 T110E3  The gun is accurate to specific areas on enemy tanks up to 350m and larger tank sections up to 500m. A85 T110E3 
+
+The T110E3 is still highly underestimated and does not receive as much respect and fear as it should. A85 T110E3  Take advantage of this doubt as the enemy attempts to exchange shots with you and finish them off swiftly. A85 T110E3  The only other tank a T110E3 fears fighting against is another T110E3 simply because it's so difficult to damage it. A85 T110E3 
+
+The Armor on a T110E3 is 305mm on the superstructure front, the gun mantle is 305mm of spaced armor plus 305mm of base armor behind that, and the hull "beak" is also 305mm thick. A85 T110E3  The hull, while based on the same design as the T110E5s, is actually tougher by ~10mm of actual thickness (not effective) on the upper and lower glacis while the beak is a 51mm upgrade. A85 T110E3  Keeping in mind how sloping increases the effective thickness of thicker armor drastically more than on thinner armor and you can get an idea of just how strong the rounded sloped frontal hull of the E3 is even compared to the E5. A85 T110E3  In fact when aiming at the lower glacis you should still aim for the corners or the flattest part relative to your firing angle because if the shot hits at evenly a slightly odd angle anything but tier 10 TDs will get trolled by the lower glacis. A85 T110E3  If you go for a fully aimed shallow angle shot and the round diverts to the outside of the aiming circle it will probable face ~268mm of armor. A85 T110E3  If the shot is poorly aimed and hits the lower glacis at a moderately bad to extreme angle it will almost certainly just richochet off. A85 T110E3 
+
+It is also worth noting that the E3 has very potent HE, if you are doubting your capabilities to land AP or even APCR rounds on targets, or prefer to actually do damage instead of running the risk bouncing, the HE of the T110E3 is quite forgiving, and will almost always deal no less than 300 damage, on top of this, such HE rounds are an absolute nightmare to Chinese tanks or even exposed tanks in general for that matter, having a Gunner with Deadeye maxed will mean high chances at critically hitting multiple modules on just one enemy vehicle, which can lead to fires and delayed kills, or at least crippling these tanks severely. A85 T110E3  It is highly recommended for use against softer targets (Especially like the Grille 15, which, if it penetrates, will chop off over half of its health), and can also prove handy for pounding mediums like Obj. A85 T110E3  140s, T-62A's, etc that are using hull down tactics. A85 T110E3 
+
+Overall the E3 is an offensively flexible and, at least from the front, defensively powerful tank destroyer, harness such power wisely. A85 T110E3 
+
+|InTheGame_research= This tank is elite in its stock configuration
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Spall Liner, GLD, Toolbox
+
+|External_Reviews= 
+{{#ev:youtube|AjgJXMf_2Zk}}
+
+|History= 
+
+The T110E3 as represented in game is the third Chrysler proposal of the T110 120mm Heavy tank project. A85 T110E3  This should not be confused with the [https://blog. A85 T110E3 tankpedia. A85 T110E3 org/wp-content/uploads/2013/05/Capture6. A85 T110E3 png third Detroit T110 proposal]. A85 T110E3  The Chrysler T110E3 is mostly identical to the T110E4 save for being slightly shorter due to a worse power plant. A85 T110E3 
+
+
+
+The T110E3/4 was planned to use an AOI-1490 engine located in the rear of the hull along with the transmission. A85 T110E3  The rear section of the hull was to be covered with infrared shielding. A85 T110E3  The main weapon of the T110 series (the T123 120 mm gun, prototype to the M58) was to be mounted in a gimbal ring mount. A85 T110E3 This arrangement gave the tank 15 degrees of movement either left or right and -10 to +20 degrees of depression/elevation. A85 T110E3  The gun mantlet was to weight ~2 tons and would be ~230 mm thick without any curvature being taken into consideration. A85 T110E3  The rest of the hull was to be protected by 127 mm of armor sloped at 60 degrees(254 mm of effective armor). A85 T110E3  There was to be 4 crew members with the driver and gunner being located uncomfortably in the front of the vehicle wedged against 127 mm of armor. A85 T110E3  The cupola was to have a . A85 T110E3 30 caliber MG and was to use an OPTAR rangefinder using pulsed light. A85 T110E3 
+
+|HistAcc=
+* The frontal armor of the T110E3 is much thicker than historically proposed. A85 T110E3 
+* The only gun planned for the whole of the T110 series was the T123 120mm gun. A85 T110E3 
+* The AOI-1490 engine only had 700 horsepower in real life, but in game it has 875 horsepower. A85 T110E3 
+
+|HistoricalGallery=
+image:T110E3 1. A85 T110E3 jpg{{!}}Internal layout of the T110E3 (T110E4 in real life)
+image:T110E3 3. A85 T110E3 jpg{{!}}T110E3/4 plans
+image:T110E3 2. A85 T110E3 jpg{{!}}T110E3/4 mock up
+
+
+|Ref_references=
+
+
+|Ref_sources=
+R. A85 T110E3 P. A85 T110E3  Hunnicutt - A History of the American Heavy Tank: Firepower, 1988 Presidio Press, ISBN 0891413049
+
+|Ref_links=
+* https://blog. A85 T110E3 tankpedia. A85 T110E3 org/2013/05/30/the-t110-120mm-heavy-tank-project/
+* https://ftr. A85 T110E3 wot-news. A85 T110E3 com/2013/06/11/the-t110e4/
+
+}}
+
+[[Category:USA Tanks]]

@@ -1,0 +1,75 @@
+{{TankData|Tank=F34_ARL_V39
+|The ARL V39 is a drastic change from the S 35 CA. F34 ARL V39  It is a victim of a general trend in the French tank destroyer line where deceptively good on-paper statistics are completely ruined by numerous drawbacks that are not immediately apparent in the garage. F34 ARL V39  This can make it very frustrating to play compared to other tank destroyers. F34 ARL V39  It does, however, boast a selection of powerful guns, and if left unhindered, it can deal a lot of damage in spite of its drawbacks. F34 ARL V39 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Powerful weapon selection, although each has drawbacks. F34 ARL V39 
+* Decent maximum speed, power/weight ratio, and acceleration. F34 ARL V39 
+* Third best view range of the Tier 6 tank destroyers (after the [[M18 Hellcat]], [[M36 Jackson]] and [[Nashorn]]). F34 ARL V39 
+* Slightly more HP than the other Tier 6 tank destroyers. F34 ARL V39 
+
+|InTheGame_cons=
+* Poor gun dispersion values for a tank destroyer (except with the 90mm AC DCA 45). F34 ARL V39 
+* Absolutely useless stock gun with a horrible stock grind. F34 ARL V39 
+* Poor hull traverse and reverse speeds. F34 ARL V39 
+* Very narrow gun traverse arc. F34 ARL V39  Also did not get +10 AP pen for its 105mm like the ARL 44 and AMX M4 45. F34 ARL V39 
+* Large size and poor camouflage rating . F34 ARL V39 
+* Weak armor, exacerbated by the machine gun turret (also known as "The Tumor"). F34 ARL V39 
+
+
+|InTheGame_performance=
+The ARL V39 generally works best at medium to long ranges, either providing second line support to the team or sniping at long ranges, depending on the gun of choice. F34 ARL V39  The 90 mm DCA 45 provides outstanding penetration that is rivaled only by the Churchill Gun Carrier's 32-pounder gun, but at the cost of a low damage-per-minute value. F34 ARL V39  At 212 penetration, it is capable of defeating even Tier 8 heavy tanks at long ranges, with acceptable accuracy. F34 ARL V39  The 105 mm gun trades the penetration and accuracy for much greater damage output, especially with APCR, and works best with an aggressive playstyle. F34 ARL V39  Unfortunately, both guns are marred by poor gun dispersion values, and they cannot reliably hit and penetrate opponents without aiming, like most French tank guns. F34 ARL V39 
+
+In terms of armor, there is nothing much to speak of. F34 ARL V39  Any Tier 6, or even Tier 5, should have few problems penetrating it, and it is generally best to remain hidden to survive. F34 ARL V39  Special mention should be made about the absolutely useless machine gun turret on the top of the tank, whose only purpose is to allow enemies to hit the ARL V39 as it crests a hill before the ARL V39 can even hit back with its own gun. F34 ARL V39  Hill-fighting is highly not recommended. F34 ARL V39 
+
+Mobility-wise, the ARL V39 is nothing special either. F34 ARL V39  It has enough to get where it needs to go (unlike the AT 8), but the disappointing hull traverse make it very vulnerable to getting flanked by fast tanks. F34 ARL V39 
+
+It should be noted that the stock suspension cannot mount any other gun than the short 75 mm gun, and it is '''highly''' recommended that enough free XP be saved to buy the upgraded suspension immediately, or an equipment slot sacrificed for the enhanced suspension temporarily. F34 ARL V39 
+
+Overall, the ARL V39 is a flawed tank destroyer that is not as easy to use as some of its competitors at Tier 6, but it does have some redeeming features. F34 ARL V39  It is the last of the pre-World War II French tank destroyers in the line. F34 ARL V39 
+
+
+
+|InTheGame_research=
+* The ER 53 radio carries over from the S-35 CA and can be installed immediately. F34 ARL V39  The Canon de 105 mle. F34 ARL V39  1930 Schneider AC and 90 mm canon DCA 30 AC guns also carry over, but require additional weight capacity. F34 ARL V39  The Renault T14 engine can be researched on the BDR G1B. F34 ARL V39 
+* Research the '''ARL V39 bis''' suspension first (consider using free experience to get it), as nothing else can be mounted without it and the stock gun is a joke at tier 6. F34 ARL V39  Alternatively, use the enhanced suspension equipment. F34 ARL V39 
+* Next research the '''Renault T14''' engine, if it has not already been researched. F34 ARL V39 
+* Finally, research the '''90 mm DCA 45 AC'''. F34 ARL V39 
+
+|InTheGame_equipment= 
+Vents, Tank Gun Rammer, GLD, Enhanced Suspension, Binocular Telescope, Coated Optics, Toolbox
+
+|History=
+[[image:ARL_V39_canon_retracted. F34 ARL V39 jpg|thumb|200px|left|ARL V39 with the canon in retracted position]]
+In the middle of 1935, France started the development of a new assault self propelled gun, and two companies responded with their suggestions. F34 ARL V39   Somua (Société d'Outillage Usinage Mécanique et d'd 'Artillerie) started a project that was to become the Somua SAU S40, and ARL (Atelier de Construction de Rueil) developed the ARL 39V prototype. F34 ARL V39 
+
+The ARL V39, also known as the ARL 1940 V939 or ARL 40, heavily relied on the parts developed for and used by the Char B1 tank. F34 ARL V39   Its frontal armor had a maximum armor thickness of 50 mm. F34 ARL V39  Its main armament was a 75 mm APX gun; a modification of the model 1922 de Casemate gun originally developed for destroying fortifications. F34 ARL V39   The gun had a semi-automatic breech, automatic charging machine and a very odd feature; its main gun could be retracted inside the hull to decrease the vehicle length. F34 ARL V39  The ARL V39's secondary equipment consisted of a 7. F34 ARL V39 5 mm machinegun placed in the small turret on the roof, which was similar to the competing Somua SAU-40 vehicle. F34 ARL V39   The development was officially finished in 1938, and army field trials were conducted between 23 and 25 March, 1939. F34 ARL V39   The French army was satisfied with the performance of the new vehicle, and approved the start of its serial production. F34 ARL V39   
+
+The numbers vary from source to source, but apparently between 72 and 80 vehicles were ordered in the first series, together with 24 command vehicles. F34 ARL V39   The fall of France stopped all production plans, and only two prototype vehicles were built. F34 ARL V39   Both prototypes were evacuated to Morocco, but their fates remain a mystery. F34 ARL V39   
+
+
+|HistoricalGallery=
+image:ARL_39V_front_view. F34 ARL V39 jpg
+image:ARL_V39_canon_retracted. F34 ARL V39 jpg
+image:Arl_v39. F34 ARL V39 jpg
+image:ARLV39_cannon_extended. F34 ARL V39 jpg
+image:Sau40 05. F34 ARL V39 jpg
+
+|HistAcc=
+The ARL V39 was only armed with the stock 75 mm APX mle. F34 ARL V39  1938, and there exist no records of plans to arm it with any other guns. F34 ARL V39 
+
+|Ref_references=
+* Touzin, Pierre (1979). F34 ARL V39  Les véhicules blindés français, 1900–1944. F34 ARL V39  France: EPA Editions. F34 ARL V39  ISBN 2851200941. F34 ARL V39 
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://en. F34 ARL V39 valka. F34 ARL V39 cz/viewtopic. F34 ARL V39 php/title/FRA-ARL-V-39/t/78857 '''<i>ARL V39</i>'''] in Czech. F34 ARL V39 
+* https://www. F34 ARL V39 chars-francais. F34 ARL V39 net/2015/index. F34 ARL V39 php/liste-chronologique/de-1930-a-1940?task=view&id=792
+* https://en. F34 ARL V39 wikipedia. F34 ARL V39 org/wiki/ARL_V_39
+
+}}

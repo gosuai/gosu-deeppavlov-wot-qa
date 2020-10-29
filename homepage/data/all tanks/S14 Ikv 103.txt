@@ -1,0 +1,73 @@
+{{TankData|Tank= Ikv 103
+
+|
+
+|Gallery=
+
+|InTheGame_pros= 
+
+* Good alpha damage
+* Good acceleration and top speed
+* Good aimtime
+* Small target, great camouflage values
+* Great gun depression and good elevation
+
+|InTheGame_cons= 
+
+* Sluggish traverse, and can only reach its top speed when going downhill
+* Poor shell velocity and accuracy, sniping is not advised
+* Good camouflage negated by the need to engage at mid-short range
+* Very thin armor and small healthpool
+* Can only fire HEAT ammunition
+
+|InTheGame_performance= 
+Arguably one of the most interesting tank destroyers ingame. S14 Ikv 103  Armed with a very unique high-alpha HEAT slinging gun, coupled with immensely high mobility and very poor armor, this tank destroyer stands apart from the crowd. S14 Ikv 103 
+
+Not only does the Ikv 103 use howitzers exclusively, the guns themselves are atypical. S14 Ikv 103  Unlike normal howitzers, the top gun does not fire any AP shells nor HE shells, only firing HEAT for both standard and premium rounds. S14 Ikv 103  While HEAT do have the advantage of not losing any penetration over distances, they will fail against spaced armor and have no normalization against sloped armor. S14 Ikv 103  Additionally, the lack of any HE shells means that this vehicle can be almost completely ineffective against highly armored opponents. S14 Ikv 103  As such, you should be careful about the shots you take in this tank destroyer, as a missed opportunity to kill an enemy will often result in dangerous return fire. S14 Ikv 103  Spaced and highly sloped armor can foil HEAT shells, so shots should be focused on areas of flat armor without obstructions like the tanks suspension or gun mantlets to absorb the shot. S14 Ikv 103 
+
+Fortunately, the Ikv 103 has the highest camouflage value while stationary of all tier 5 tank destroyers. S14 Ikv 103  Despite its sloping, its armor is exceedingly weak and will be over matched by almost every tank you will meet. S14 Ikv 103  Unlike its predecessor, the Ikv 103 is also quite mobile and has a high power-to-weight ratio. S14 Ikv 103  While its top speed of 60 kph is somewhat optimistic as it will take a long period of acceleration even with a 100% driver to reach that on flat ground, it will still be able to move around at 45-50 kph on average, making it quite easy to re-position. S14 Ikv 103  It's track traverse is a bit slow though, so make sure to not let any light or medium tanks to sneak up and flank you. S14 Ikv 103  Finally, like all Swedish tank destroyers, the Ikv 103 has excellent gun depression, letting it poke over ridge-lines, fire, and scoot back before taking any damage. S14 Ikv 103  However, because of its terrible shell velocity the Ikv 103 does not preform well as a sniper, it's much better suited for a player with a semi- or simply aggressive play style. S14 Ikv 103  Play it like a light/medium tank, use the speed, gun depression, and high alpha to your advantage, avoid situations where damage is exchanged with the enemy as much as possible, and try to camp as little as possible. S14 Ikv 103 
+
+|InTheGame_research= 
+You can mount everything without the need of the upgraded suspension, then you can skip it (unless you want to mount equipment). S14 Ikv 103  Start researching the Ford 391 engine, since it needs a small amount of experience and it will give you a 25 hp boost. S14 Ikv 103  The default 10,5cm gun is enough to kill/hit targets, so research the Ra 105 radio (you can unlock it if you buy the next tank, the [[Ikv 65 Alt II]]). S14 Ikv 103  Finally, research the 10,5cm Ikv 103 gun. S14 Ikv 103  You can research the upgraded suspension for increased mobility. S14 Ikv 103 
+
+
+|InTheGame_equipment=
+Tank gun rammer, Camouflage net, Binocular Telescope, Vents
+
+|InTheGame_Equipment_Builds=
+|Gallery=
+|External_Reviews= 
+
+|History= 
+In 1956, along with the refit of the Infanterikanonvagn 72 to Infanterikanonvagn 102 (see previous part), it was decided to start the production of a second batch of Ikv’s with the upgrades considered for the Ikv 72 built in to the design. S14 Ikv 103  This vehicle would become known as the Infanterikanonvagn 103 and a total of 81 vehicles of this type were produced between 1956 and 1957, making it the most widely produced assault gun in the Swedish army at that point. S14 Ikv 103  Although externally similar to the earlier models, the Ikv 103 featured a number of changes, such as the addition of a roof, a change of the main armament from a 75mm to 105mm and the addition of a more powerful engine. S14 Ikv 103  The engine, used in the Ikv 103 was a 150hp 4-cylinder boxer engine, originally developed by Svenska Flygmotor AB for use in the Saab Safir training aircraft. S14 Ikv 103  The air for the new engine did not need to pass through the crew compartment (something appreciated by crews in winter) and this also gave the vehicle its distinctive “grills” on both sides of the engine compartment. S14 Ikv 103 
+
+[[File:Ikv_103_rear. S14 Ikv 103 jpg|thumb|Ikv 103 rear, here the “grills” can clearly be seen. S14 Ikv 103 ]]
+
+Generally the vehicle was well liked by its crews, who enjoyed its great manoeuvrability and high top speed. S14 Ikv 103  After the Ikv 103, there would be an almost 10 year break before the development would start on the next Ikv project, but in the meantime, there were some interesting things going on with the Ikv 103. S14 Ikv 103  Sometime during the early 60′s, three Ikv 103 had their guns removed and were experimentally fitted with a new upgraded 6-cylinder engine called B61. S14 Ikv 103  The new engine almost doubled the horsepower of the original, going from 150hp to 230hp. S14 Ikv 103  This increased the mobility of the vehicle considerably and gave it a power to weight ratio of over 25hp/t. S14 Ikv 103  However, it was found out that the new engine was insufficiently cooled and therefore the project was cancelled and the vehicles were restored to their original condition. S14 Ikv 103 
+
+[[File:Ikv_103_with_experimental_engine. S14 Ikv 103 jpg|thumb|One of the three Ikv 103 refitted with the experimental engine]]
+
+In addition to these tests, attempts were made to sell the Ikv 103 design to both Switzerland and India with a new 199hp Ford engine. S14 Ikv 103  There were even plans for a troop carrier version for India, but nothing ever came of it. S14 Ikv 103  That’s not the end of it however, since there seems to have been an attempt to sell an unarmed variant of the vehicle as a reconnaissance version. S14 Ikv 103 
+
+[[File:Reconnaissance_Ikv_103. S14 Ikv 103 jpg|thumb|Drawing of reconnaissance version of the Ikv 103]]
+
+|HistAcc=
+* Infanterikanonvagn 103 was never intended for anti-armour purposes, but strictly for providing the Swedish infantry with a shrapnel-protected field gun to take out enemy machine gun nests and the like with High Explosive shells. S14 Ikv 103  It was eventually given a supplementary HEAT-round for self-defence situations. S14 Ikv 103 
+* The real life gun depression of the Ikv 103 was 16 degrees, but in game it is only 12 degrees. S14 Ikv 103 
+* The planned B61 engine had 230 HP but is currently unavailable. S14 Ikv 103  The top Ford 391 engine, intended for export to India and Switzerland, should have had 199 hp. S14 Ikv 103 
+
+|HistoricalGallery= 
+File:Preserved_Ikv_103. S14 Ikv 103 jpg{{!}}Preserved Ikv 103
+File:Ikv_103_photo_1. S14 Ikv 103 jpg
+File:Ikv_103_photo_2. S14 Ikv 103 jpg
+File:Ikv_103_datasheet. S14 Ikv 103 jpg{{!}}Ikv 103 datasheet
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S14 Ikv 103 wot-news. S14 Ikv 103 com/2014/11/22/swedish-tanks-part-xx-ikv-103-ikv-65/
+* https://www. S14 Ikv 103 ointres. S14 Ikv 103 se/ikv_72_102_103_73. S14 Ikv 103 htm
+* https://ritastatusreport. S14 Ikv 103 live/2016/09/24/swedish-tree-supertest-and-beyond-messed-up-models-and-made-up-stats/
+}}

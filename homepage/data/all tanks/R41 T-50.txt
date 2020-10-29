@@ -1,0 +1,85 @@
+{{TankData|Tank=T-50
+|With its extreme maneuverability and reasonably good gun, the T-50 has switched roles from a lightning-fast scout that can turn the tide of a battle into one of the most versatile flankers at Tier V. R41 T-50  Its previously infamous turning has been buffed to even higher levels. R41 T-50  However, it is somewhat slower when stock and accelerates a bit sluggishly. R41 T-50  The end result is a DPM flanker/passive scout, much like the [[59-16]]. R41 T-50 
+
+|InTheGame_pros=
+* Excellent maneuverability and agility
+* Very good rate of fire with plentiful ammo capacity
+* Good gun depression by Soviet standard
+* Rather good camo
+* Sloped armor will bounce shots relatively often
+
+|InTheGame_cons=
+* Subpar alpha damage compared to other 75mm-carrying lights
+* Shots faster than it aims with gun rammer mounted, limiting its damage output at distance
+* Subpar view range
+* Somewhat fragile ammo racks
+
+|InTheGame_performance=
+Since the introduction of Patch 8. R41 T-50 7, the 440HP and 500HP engines have been removed, somewhat slowing down this tank. R41 T-50  Yet the originally ridiculous traverse speed of the T-50 has been buffed even FURTHER, making it extremely maneuverable, and terrain resistance has been reduced, helping it attain its former glory. R41 T-50  As of Patch 9. R41 T-50 18, The 37mm Automatic SH-37 gun has been removed, and 45mm guns replaced by dedicated versions. R41 T-50  The new 45 mm VT-43M possesses even higher alpha damage comparable to 57mm guns such as british 6-pounders, but has slightly worse accuracy, increased aimtime and reduced rate of fire. R41 T-50 
+
+With that said, the T-50 now also receives better matchmaking, no longer meeting tier VIII enemies. R41 T-50  
+
+
+Use the T-50 like a support recon. R41 T-50  Due to the accuracy of your gun, take defensive scout positions and if possible, snipe in the early game, picking off suicide scouts and lightly armored medium tanks and scouts. R41 T-50  Track enemies with your insane rate of fire to gain tracking bonuses, but do not get into the thick of the battle due to your low hitpoint pool. R41 T-50  As the battle progresses and enemy numbers dwindle, one could probe deeper into the map and also secure large portions in the process. R41 T-50  If presented the chance, do not hesitate to circle any lone enemy heavy tank or heavy TD and reap its HP. R41 T-50  You should have no problem circling him, as the M4A3E8 Sherman has even lower speed than you and is considered one of the more known circling tanks available. R41 T-50  You could also hunt artillery by taking advantage of distracted enemies. R41 T-50  Your "piddly" gun will make sure that you are not prioritized by heavier enemies with larger guns, allowing you to take advantage of their concentration and penetrate through enemy lines. R41 T-50  Once finding an artillery piece, destroy it with impunity. R41 T-50  However, do NOT sit in front of the SPG and plink away at its armor. R41 T-50  Your armor is thin, and no amount of sloping can help you against 155mm caliber high-explosive shells, which will consistently one-shot your tank even with splash damage. R41 T-50 
+For active scouting purposes, it's great maneuverability can be a shining asset in addition to the high camo values; but the below average view range makes doing so tricky, especially if sent into uptiered battle where most vehicles could see 20m or even further than the T-50 do. R41 T-50 
+
+The new changes to the T-50 force a change of playstyles, which is not entirely a bad thing. R41 T-50  Persevere with the new T-50, and you might enjoy the new playstyle that gives it an arguably higher value in battles than before. R41 T-50 
+
+|InTheGame_research=
+* Unfortunately, not a single module carries over unless you've already researched MT-25 through T-34. R41 T-50  In that case, you might want to mount '''45 mm VT-43M''' immediately with enhanced torsion bars installed. R41 T-50   
+* Research the '''T-50M''' suspension to increase the already crazy traverse speed and to allow mounting of more advanced modules. R41 T-50 
+* Unlock the '''45mm VT-43M''' to receive a major boost on firepower, improving aimtime, accuracy, damage output and penetration altogether. R41 T-50 
+* Research the '''V-4M''' engine for increased mobility. R41 T-50 
+* Research the '''KRSTB''' radio set to allow you to receive enemy positions from much more distant locations. R41 T-50 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Medium-Caliber Tank Gun Rammer, Binocular Telescope, Coated Optics, Vents, Enhanced Suspension, Camouflage Net
+
+|History=
+[[image:T50. R41 T-50 jpg|thumb|200px|left|T-50]]
+The T-50 light infantry tank was built by the Soviet Union at the beginning of World War II. R41 T-50  The design for this vehicle had some advanced features, but was complicated and expensive, and only a short production run of 69 tanks was completed. R41 T-50  Furthermore, even before it was ready for mass production wartime experience invalidated the underlying concept of light tanks. R41 T-50 
+
+==Design==
+The T-50 was an advanced design for its time, with torsion-bar suspension, diesel engine (in common with all the new Soviet tanks) and well-sloped, all-welded armor. R41 T-50  An excellent feature was the three-man turret with commander's cupola, which would not appear on other Soviet tanks until 1942. R41 T-50  Most Soviet tanks of the 1939-43 era had either one-man or two-man turrets, which are far less efficient in combat than three-man turrets. R41 T-50  Additionally, all T-50s had radios, a feature only found on the commander's vehicle in earlier models. R41 T-50  However, the T-50 had several weaknesses; to begin with, like many Soviet tanks, it was very cramped inside. R41 T-50  The main problems, however, were related to the new V-4 engine developed specifically for this tank, unlike other Soviet light AFVs, which used standard truck engines. R41 T-50  The T-60 and T-70 light tanks and the SU-76 self-propelled gun used standard GAZ truck engines. R41 T-50  Specialized tank engines, more expensive to produce, were reserved for higher-performance AFVs. R41 T-50  The very mobile BT-8 fast tank, the T-34 medium tank, KV-1, the IS-2 heavy tanks, and their derivatives all used variants of the same standard 12-cylinder model V-2 diesel engine. R41 T-50  The V-4 engine was extremely unreliable, and the design flaws could not be worked out. R41 T-50  The engine's low reliability and high cost contributed to the demise of the T-50. R41 T-50 
+
+==Production history==
+[[image:T-50 with Finnish markings at Parola tank museum. R41 T-50 jpg|thumb|200px|right|T-50 with Finnish markings at Parola tank museum]]
+The T-50 was a light tank developed on the eve of World War II for the Red Army. R41 T-50  The experience of the Spanish Civil War led to an effort to upgrade or replace the large Soviet tank fleet. R41 T-50  Prior to 1939, most tanks in Red Army service were improved versions of foreign designs. R41 T-50  For example, the most numerous tank, the T-26 light infantry tank, was a copy of the British Vickers 6-Ton tank with a Soviet-designed turret and 45 mm gun. R41 T-50  However, just prior to and during the war, the USSR developed new light, medium and heavy tanks of wholly indigenous design. R41 T-50  The T-50 light tank was intended to replace the T-26 infantry tank; in prewar planning, the T-50 was intended to become the most numerous Soviet tank, operating alongside the BT fast tank. R41 T-50 
+
+Development of the T-50 started as the SP project (Soprovzhdeniya Pekhoty, ‘Infantry Support’) in 1939 at the OKMO design bureau in the S. R41 T-50 M. R41 T-50  Kirov Factory Number 185 in Leningrad, under the direction of S. R41 T-50  Ginzburg and L. R41 T-50  Troyanov. R41 T-50  Initial prototypes, called T-126 and T-127, were not much improved over the T-46-5 project which had been abandoned earlier that year, but the heavier T-126 was selected for further development. R41 T-50  The design bureau was gutted during the Great Purge, and was unable to continue the project, so it was transferred to the K. R41 T-50 E. R41 T-50  Voroshilov Factory Number 174 in May 1940. R41 T-50  Troyanov completed the T-50 design in January 1941 and production was authorized, but due to technical problems, it was unable to proceed. R41 T-50  In the meantime, a replacement for the BT fast tanks was developed and built at the KhPZ factory in Ukraine, which exceeded its original programme. R41 T-50  The result was the very capable and economical T-34 medium tank. R41 T-50 
+
+After the German invasion, Operation Barbarossa in June, tank factories were ordered to be transferred to the Urals. R41 T-50  Part of OKMO was moved to Omsk after September, and production was finally begun. R41 T-50  The T-50 was of an excellent design, but still suffered from technical problems, and at that time was found to be as expensive to produce as the more capable T-34. R41 T-50  Much simpler T-60 light tanks were already being mass-produced. R41 T-50  A total of 69 T-50 tanks were built (only 48 of them armed), before production ended in January 1942. R41 T-50 Some further infantry tank design work on a prototype, called the T-45, continued at Factory Number 174 and the Kirovskiy Factory Number 100. R41 T-50  But faced with the need to accelerate T-34 production, and due to a lack of interest from troops in the field, the Soviet infantry tank concept was abandoned. R41 T-50 
+
+==Combat history==
+The few T-50s available were deployed on the Leningrad front. R41 T-50  Few in-service photos survived and not much is known of their combat record. R41 T-50  One uparmored T-50 was captured by Finnish forces and was used by them in 1944. R41 T-50  This unit survived the war and is now on display in Finland. R41 T-50 On paper, the T-50 should have been easily able to hold its own against any early-war German tank, however, paper specifications cannot always predict real-world performance. R41 T-50 
+Most light tank production in 1941–43 consisted of the less advanced but simpler T-60 and T-70 light tanks. R41 T-50  By 1943, the infantry tank role was considered obsolete, and cheaper SU-76 self-propelled guns took over the light infantry support role. R41 T-50  Light tanks in tank regiments were being replaced by T-34 medium tanks. R41 T-50  The liaison and reconnaissance roles of light tanks were assumed by cheaper armoured cars and Lend-Leasesupplies of Canadian and British Valentine tanks and U. R41 T-50 S. R41 T-50  M3 Stuart light tanks. R41 T-50 
+
+'''Variants'''
+
+There were two variants; a basic model and an up-armored model. R41 T-50  Just prior to the German invasion of the USSR, many Soviet tanks had their armor reinforced with welded or bolted add-on plates. R41 T-50  Some Kliment Voroshilov heavy tanks, T-28 medium tanks and T-26 light tanks received add-on armor fittings. R41 T-50  A few T-50s also received these add-ons. R41 T-50  This up-armored variant is recognizable by the bolt heads that hold the armor added to the turret sides and hull front. R41 T-50  The normal T-50 is a very 'clean' looking vehicle by comparison. R41 T-50  Ironically, the armor add-ons were in response to erroneous reports of powerful German antitank and tank guns. R41 T-50  The uparmored T-50 had 57 mm of armor at its thickest points. R41 T-50 
+
+'''Surviving vehicles'''
+
+Today, at least two T-50s survive. R41 T-50  One is at the Finnish tank museum at Parola. R41 T-50  This is a later model with bolted-on appliqué armour. R41 T-50  A standard T-50 is on display at the Kubinka armor collection outside Moscow. R41 T-50 
+
+|HistAcc=
+The 45 mm VT-43 was actually developed for the [[T-80]]. R41 T-50  Its configuration on the T-50 is fake. R41 T-50 
+* The T-50 was only fitted with a 300 hp engine. R41 T-50  The 400 hp engine configuration is also fake. R41 T-50 
+* There is no option to upgrade the tank's armor with welded or bolted add-on plates. R41 T-50 
+
+|HistoricalGallery=
+image:T50 at Kubinka tank museum. R41 T-50 jpg{{!}}T-50 at Kubinka tank museum
+image:T50_with_dtiver_hatch_open. R41 T-50 jpg{{!}}T-50 with driver standing out through the open driver hatch
+image:One unit was captured from the Soviets and remained on Finnish inventory until 1955. R41 T-50 jpg{{!}}One T-50 was captured from the Soviets and remained on Finnish inventory until 1955. R41 T-50  It was used as a command tank
+image:T50 1. R41 T-50 jpg{{!}}A destroyed T-50
+|Ref_references=
+
+
+|Ref_sources=
+https://www. R41 T-50 flickr. R41 T-50 com/photos/peer_gynt/3702578860/
+
+|Ref_links=
+* [https://english. R41 T-50 battlefield. R41 T-50 ru/t-50. R41 T-50 html '''T-50 Light Tank'''] at battlefield. R41 T-50 ru. R41 T-50 
+* https://en. R41 T-50 wikipedia. R41 T-50 org/wiki/T-50_tank
+
+}}

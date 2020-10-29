@@ -1,0 +1,96 @@
+{{TankData|Tank=T57_58
+|The T57 Heavy Tank is a tier X heavy tank in the American tech tree and unlike the [[T110E5]], the T57 is armed with a 4 round auto loader. A67 T57 58  Apart from that and the slow aim time, the T57's gun is nearly the same as the T110E5's one. A67 T57 58  Its armor isn't as good as that of the T110E5, but it can bounce shots if angled correctly. A67 T57 58  The reload on this tank is really outstanding, only needing about 22 seconds to load the magazine and a 2 second delay between shots, giving the gun amazing burst and DPM potential. A67 T57 58  Use the quick clip reload to your advantage and help your team deal massive damage to the enemy and this tank will be a force to be reckoned with. A67 T57 58  
+
+
+|InTheGame_pros=
+
+- Highest DPM of all tier 10 heavy tanks and one of the highest in general. A67 T57 58 
+
+- High burst damage, with only 2 seconds between shots
+
+- Surprisingly quick magazine reload. A67 T57 58 
+
+- Very nice HP pool (2250 - 50 points higher than E5)
+
+- Gun depression is very good for a tank with an oscillating turret. A67 T57 58 
+
+- Decent accuracy when fully aimed (Same as AMX 50 B's). A67 T57 58 
+
+|InTheGame_cons=
+- Armor is an amusing joke. A67 T57 58  Side and rear is extremely weak even compared to MTs, and lower plate is very flat in one's perspective (only less than 130mm effective). A67 T57 58 
+
+- Module damage: ammo rack can be damaged through lower glacis; turret ring is very exposed and frequently gets jammed/damaged. A67 T57 58 
+
+- Poor aim time and overall worst gun handling, does not do well from distances, unlike the [[AMX 50B]]
+
+- Very vulnerable (and priority target) to artillery due to being a high-threat target with poor overall mobility and poor hull armor. A67 T57 58 
+
+
+|InTheGame_performance=
+With all the right crew skills, modules and consumables, your T57 will reload the clip in about 22 seconds, which is quite impressive. A67 T57 58   The time to load between the 4 rounds held in the clip is a mere 2 seconds. A67 T57 58   The armor, while it is not stellar, is still somewhat capable and will bounce if you angle well. A67 T57 58  Gun depression is better than most autoloaders, which will help you in hulldown positions. A67 T57 58 
+
+When supporting a tougher tank in close-quarters combat, the opportunity to unload 1600 burst damage for free into distracted tanks can be devastating. A67 T57 58   The T57 is less effective on its own, because it can be rushed while on reload. A67 T57 58  Never go anywhere alone if there is even a slightest chance that you'll get rushed. A67 T57 58  However, if you can dictate range or corner fighting, you can trade 3 or even 4 shots for 1, which is quite good. A67 T57 58  By all means try to preserve your HP into the lategame, because T57 is one of the best finishers in the game - clipping down half-health or multiple one-shot tanks in return for only a fraction of your health can and will swing a tight match in your favor. A67 T57 58 
+
+When driving this tank, always have in mind that you are a priority target for pretty much everyone, especially artillery. A67 T57 58  Use cover as much as you can at all times. A67 T57 58 
+
+Having BIA and vents is recommended, as it not only shortens the aim time and clip reload time (although the 25sec magazine reload speed is still blisteringly fast when compared to its french counterpart) but it also increases the accuracy of the gun (0. A67 T57 58 34 with BIA/vents separately, 0. A67 T57 58 32 with both BIA and vents, 0. A67 T57 58 31 with BIA and vents and cola), helping to make every shot count. A67 T57 58  In an autoloader making your shots count is critical so if you have the chance to fit your tank and crew with the mentioned augmentations then take it. A67 T57 58 
+
+All told, the T57 is one of the best and most flexible damage-dealers in the game. A67 T57 58   If you manage to get yourself into the right positions in the battle, react appropriately and most importantly survive and don't attract too much attention, it is not unusual to dish out 5000, 6000 or more damage in a game. A67 T57 58 
+
+|InTheGame_research=
+*None required
+
+|InTheGame_equipment= 
+Vertical Stabilizer, Vents, GLD
+
+
+|Gallery=
+
+|History=
+The T57 was a heavy tank developed in the U. A67 T57 58 S. A67 T57 58  in the mid-50's, It was a slightly modified version of the US T43E1 prototype that further evolved into the M103 heavy tank. A67 T57 58  
+
+==Development history==
+[[image:T57d. A67 T57 58 jpg |thumb|200px|left|T58 prototype version fitted with a 155 mm gun in oscillating turret ]]
+
+In October 12, 1951, a decision was made to develop a prototype of a heavy tank with an oscillating turret,  a new idea at the time invented by the French AMX company, and adopted on a highly successful AMX 13 light tank, and not so successful AMX 50 series of heavy tanks. A67 T57 58  The new American tank, designated T57 (according to the American post-war terminology - "120-mm gun tank T57“), was based on the chassis of the T43 tank (a prototype that further evolved into the M103) with a brand new oscillating turret that hosted a powerful 120 mm T123E1 gun. A67 T57 58 
+
+'''Oscillating turret'''
+
+The oscillating turret design, lacking a conventional gun-mantlet, is in two separate parts, with an upper and lower part connected by two hinge bolts or pivots, the gun being fixed within the upper section. A67 T57 58  The horizontal movement of the gun, traversing, is conventional, but the vertical movement, elevation, is achieved through the pivoting of the entire upper section with respect to the lower section. A67 T57 58  This method of elevation has two main advantages. A67 T57 58  Firstly it allows for a smaller turret volume, as no internal space is needed for the vertical movement of the gun breech. A67 T57 58  Secondly, it allows the use of a relatively simple auto-loader fed by multiround magazines, achieving a very high rate of fire for as long as the magazines were loaded. A67 T57 58  The Automatic loader was located in the back of a massive tower, and  consisted of the feeder drum with 8 rounds. A67 T57 58  The drum was loaded by a hydraulic actuator, and the commander or gunner could pick three different types of ammunition. A67 T57 58  Spent cartridges were ejected through a special hatch on the roof of the turret. A67 T57 58  
+
+'''Design flaws'''
+
+Main armament of the tank was 120 mm T123E1 gun with the rifled barrel, and placing such a big, powerful and heavy weapon into the oscillating turret was plagued by various problems. A67 T57 58   Handling the immense recoil of the gun, and stabilizing the heavy turrets were among the issues that were never completely resolved. A67 T57 58  The tank had the crew of 4, where the loaders' job was to reload the drum after all rounds had been fired. A67 T57 58  The tank carried a total of 10 additional rounds in the ammo rack, making a total ammo load to 18 rounds. A67 T57 58  Other issues were limited gun elevation (due to the back of the turret movement being limited by the hull), problems with ammo protection at certain angles (oscillating turret doesn't have mantlet that solves this problems on classic turrets) and the lack of protection against radiation, chemical or biological weapons, which was considered very important back in the fifties and sixties. A67 T57 58 
+
+'''Fate'''
+
+The development was very slow and interest in the tank started to fade. A67 T57 58  Changing priorities in favor of the development of small, aero transportable tanks led to the cancellation of the project in January 1957, before the prototype reached operational status and could be tested. A67 T57 58  No photos of the assembled prototype T57 with the 120mm gun have survived. A67 T57 58 
+
+|HistoricalGallery=
+file:T57 1. A67 T57 58 jpg{{!}}Model of the T57 tank
+file:T57 3. A67 T57 58 jpg{{!}}Model of the T57 tank
+file:T57 2. A67 T57 58 jpg{{!}}Model of the T57 tank
+file:T57 4. A67 T57 58 jpg{{!}}Diagram of the automatic loader in the T57 tank
+file:T57d. A67 T57 58 jpg{{!}}T58 prototype fitted with a 155 mm gun
+
+|Ref_references=
+
+
+|Ref_sources=
+R. A67 T57 58 P. A67 T57 58  Hunnicutt - A History of the American Heavy Tank: Firepower, 1988 Presidio Press, ISBN 0891413049
+
+|Ref_links=
+
+|Sidebar_Camostop=5. A67 T57 58 1
+|Sidebar_Camomove=2. A67 T57 58 3
+|Sidebar_Camofire=0. A67 T57 58 6
+|Sidebar_Passhard=1. A67 T57 58 151
+|Sidebar_Passmed=1. A67 T57 58 247
+|Sidebar_Passsoft=2. A67 T57 58 301
+|Sidebar_DispTurret=0. A67 T57 58 173
+|Sidebar_DispRecoil=3. A67 T57 58 356
+|Sidebar_DispAccel=0. A67 T57 58 24
+|Sidebar_DispTurning=0. A67 T57 58 24
+}}
+
+[[Category:USA Tanks]]

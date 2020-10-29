@@ -1,0 +1,69 @@
+{{TankData|Tank=
+|Most easily likened to the American T110E5, the 215b is outfitted with a marginally better hull than the [[Caernarvon]] and [[Conqueror]]. GB13 FV215b  Nevertheless, the tank makes some spectacular leaps from its predecessor in terms of turret thickness, gun performance, general stats, and not the least agility as it receives roughly a 65% increase in traverse speed. GB13 FV215b  Also, its rear mounted turret enables gameplay slightly similar to that of the [[Maus]] and may take a bit of time to adjust to when coming off of the traditional layout of the Conqueror. GB13 FV215b  The FV215b enjoys a low vertical profile and can effectively take cover behind most terrain irregularities. GB13 FV215b  As a sniping tank, few other heavy tanks excel at unleashing as devastating a barrage of gunfire as the FV215b. GB13 FV215b  Combine that with it's superb maneuverability, the fact that this tank can re-position effectively and cover an area with confidence, and the FV215b becomes a lovable machine which handles effortlessly and rewards daring players with great results. GB13 FV215b     
+
+The FV215b was replaced with the more historical [[Tank:GB91_Super_Conqueror|Super Conqueror]] and turned into Special vehicle in 9. GB13 FV215b 20. GB13 FV215b 1 patch. GB13 FV215b  
+
+As of 28th October 2019, the tank is available for purchase in the Bonds Shop for 12,000 bonds. GB13 FV215b 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Great DPM, penetration, accuracy, gun handling and aimtime
+* Strong turret armor and decent upper glacis
+* Decent gun depression for a rear-turreted tank (-7 degrees)
+* Excellent hull traverse speed for a heavy tank
+* Large hitpoint pool
+
+
+|InTheGame_cons= 
+* Rear-mounted turret can be inflexible at times
+* Vulnerable to ammo rack and fuel tank damage
+* Extremely weak lower glacis and overall rather mediocre hull armor
+* Low ammo capacity for such a fast firing gun
+* Expensive, requires 12. GB13 FV215b 000 bonds to be purchased
+
+
+|InTheGame_performance=
+Originally the Tier 10 techtree British heavy tank before being replaced by the [[Super Conqueror]] in update 9. GB13 FV215b 20. GB13 FV215b 1, the FV215b is something of a "glass cannon" heavy - it has excellent turret armor, though marred by small weakspots, and a fairly adequate though unreliable hull, along with decent mobility for a heavy tank. GB13 FV215b  Its most outstanding feature is its gun, which enjoys excellent DPM and aim time along with very good accuracy and good penetration on all its types of ammunition. GB13 FV215b  Fully boosted with all relevant equipment and consumables, it can achieve a truly outrageous damage output for a heavy tank, capable of shredding most if not all opposition with its accurate, fast firing gun. GB13 FV215b 
+
+While its firepower is amazing, the FV215b has some serious drawbacks. GB13 FV215b  Most of all, it being a rear-turreted tank hampers flexibility on uneven terrain (fortunately it still enjoys a decent -7 degrees of gun depression), and its hull armor, while decent, is overall rather mediocre and riddled with weakspots, chiefly a large and very poorly armored lower frontal plate. GB13 FV215b  Adding to that, the tank is very prone to ammo rack and especially fuel tank damage, making the option of trading a fire extinguisher for a food consumable a risky one at best. GB13 FV215b  It is also fairly slow in terms of speed, though its hull traverse is good for a heavy tank. GB13 FV215b 
+
+Lastly, despite being a premium tank, it does not have an improved credit income and can therefore be very expensive to play, especially when carrying large amounts of premium ammunition and/or premium consumables. GB13 FV215b  It is also rather time-consuming to obtain, as it is only available in the bonds shop for the hefty price of 12. GB13 FV215b 000 bonds. GB13 FV215b 
+
+|InTheGame_research=
+The tank comes elite in its stock configuration. GB13 FV215b 
+
+|InTheGame_equipment= 
+Coated optics, vertical stabilizer, tank gun rammer, vents
+
+|External_Reviews=
+{{VideoYT|rJmcQHRWcV4}}
+
+|History=
+The FV215b in World of Tanks is a fictional combination of the FV215 chassis and the Conqueror's turret and armament. GB13 FV215b  There were no plans to ever mount the turret and hull of the two tanks together. GB13 FV215b 
+
+|HistAcc=
+The FV215b as it is ingame is a complete Wargaming fabrication. GB13 FV215b  The rear mounted turret Conqueror, known only as the FV215, was only planned to be armed with a 183mm gun, which exists ingame as the FV215b (183). GB13 FV215b  Wargaming took the original tank destroyer, replaced the 183mm with a 120mm, replaced the turret with the Conqueror's, and called it a heavy tank. GB13 FV215b 
+
+|HistoricalGallery=N/A
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* Bill Munro, The Centurion Tank, The Crowood Press Ltd, 2005
+* David Flether, The Big Gun Centurions, Classic Military Vehicles, 10–2012, Key Publishing Ltd. GB13 FV215b 
+* Bovington Tank Museum
+
+|Ref_links=
+* https://warspot. GB13 FV215b ru/4393-britanskiy-ispolin-protivotankovaya-183-mm-sau-fv4005
+* https://tankarchives. GB13 FV215b blogspot. GB13 FV215b co. GB13 FV215b uk/2016/02/british-colossus-fv4005. GB13 FV215b html?m=1
+* https://www. GB13 FV215b tanks-encyclopedia. GB13 FV215b com/cold-war-british-prototypes/fv215-heavy-gun-tank/
+* https://overlord-wot. GB13 FV215b blogspot. GB13 FV215b com/2017/07/the-biggest-gun-in-west. GB13 FV215b html
+* https://ftr. GB13 FV215b wot-news. GB13 FV215b com/2014/07/30/british-tanks-final-decision/
+
+}}
+
+[[Category:British Tanks]]

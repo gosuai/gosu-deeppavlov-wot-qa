@@ -1,0 +1,63 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:Pz. G107 PzKpfwIII AusfK Kpfw. G107 PzKpfwIII AusfK  III Ausf. G107 PzKpfwIII AusfK  K scr 1. G107 PzKpfwIII AusfK jpg
+File:Pz. G107 PzKpfwIII AusfK Kpfw. G107 PzKpfwIII AusfK  III Ausf. G107 PzKpfwIII AusfK  K scr 2. G107 PzKpfwIII AusfK jpg
+File:Pz. G107 PzKpfwIII AusfK Kpfw. G107 PzKpfwIII AusfK  III Ausf. G107 PzKpfwIII AusfK  K scr 3. G107 PzKpfwIII AusfK jpg
+
+
+|InTheGame_pros= 
+* Same DPM as Pz4H's 75mm gun. G107 PzKpfwIII AusfK  More DPM than the Hydrostat and the T-25
+* Good view range(for German med, "average" for tier)
+* High HP value
+* Good camouflage rating
+* Good gun depression
+* Decent hull traverse
+
+|InTheGame_cons= 
+* Very low ammo capacity, only 9 rounds more than the Turán III PT!
+* Worst Gun handling of all tier 5 mediums. G107 PzKpfwIII AusfK  Vomit-inducing base accuracy for a fragile medium. G107 PzKpfwIII AusfK 
+* Poor top speed and acceleration, and terrible reverse speed
+* Poor all-around armor, HE will be the bane of this tank. G107 PzKpfwIII AusfK  
+* Anemic shells penetration value, will force you to use premium rounds to penetrate enemies semi-reliably. G107 PzKpfwIII AusfK 
+
+|InTheGame_performance= 
+
+A  mediocre tank, the Panzer III K suffers quite a lot in comparison to other tier 5 medium tanks. G107 PzKpfwIII AusfK  It has quite poor armor, and is even worse than its tier 4 counterpart the Panzer III, at only 50mm at most except for the gun mantlet and the commander's cupola. G107 PzKpfwIII AusfK  While the tank has rather nice gun depression at 10 degrees, its gun mantlet is small and only covers a small portion of the turret, meaning most shots fired at a hull-down Panzer III K will penetrate. G107 PzKpfwIII AusfK  The tank is blessed with a large amount of health at 790 hit points, so it can absorb a fair amount of shots before going down. G107 PzKpfwIII AusfK  It's mobility is also much worse than a standard Panzer III, and mediocre by tier 5 standards. G107 PzKpfwIII AusfK  Its above average average ground resistances aren't enough to make up for its weak engine and low top speed, leaving the tank outpaced by most other medium tanks, unless it is equipped with the new turbocharger equipment, even then it will still lag out a bit compared to its peers. G107 PzKpfwIII AusfK 
+
+The tank does have a decent view range, but never attempt to spot enemies if you have no backups or a close escape route, as its mobility is rather lackluster. G107 PzKpfwIII AusfK  Sniping in this thing is a very iffy option, a practice in futility at best, due to the tank's horrendous gun dispersion values, which are the among the worst in the tier on paper, and practically '''the''' worst in its tier taking its dispersion penalty on the move into account. G107 PzKpfwIII AusfK  The gun also lacks in penetration, making dealing with higher tier opponents - which can include tier 7's due to its lack of preferential matchmaking - difficult without premium ammunition. G107 PzKpfwIII AusfK  As such, the Panzer III K is best played as more of a support tank than a contemporary medium like the DS PZInż, the T-34 or the M4, getting into ranges far enough to make sure that you won't get annihilated within 10 seconds, but close enough to make sure that your gun will work semi-reliably. G107 PzKpfwIII AusfK  Overall, a tank that you should not get unless you're used to bad gun handlings, and a Christmas gift for a clan member or a friend that you hate the most. G107 PzKpfwIII AusfK 
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+{{VideoYT|AUz5o72mUkA}}
+
+|History= 
+
+The Panzer III, while effective when first introduced, struggled later in World War 2 due to being hopelessly outgunned by T-34 and KV tanks, while being in trouble returning fire as both 5cm and 7. G107 PzKpfwIII AusfK 5cm L/24 cannons were effective only when firing special ammunition such as APCR or HEAT. G107 PzKpfwIII AusfK  APCR was a short term patch, although an expensive one, while operationally the Panzer III ended up being replaced by the rearmed Panzer IV with the 75mm L/43 and L/48, while the chassis itself found its second life as STUG III. G107 PzKpfwIII AusfK 
+
+In an attempt to lengthen the usefulness of the Panzer III chassis, in December 1941 Krupp was requested to mount the Panzer IV turret in a Panzer III chassis, and by the end of the year a preliminary design was ready:
+
+[[File:Panzer_III_K_proposal. G107 PzKpfwIII AusfK png]]
+
+However, this design was never carried out due to several factors, including a large increase in weight that would require new suspension and tracks. G107 PzKpfwIII AusfK  Mounting a bigger turret without serious modifications to the hydraulics means that rotation would have become a lot more sluggish, prone to failure or would plainly require manual cranking. G107 PzKpfwIII AusfK  Moreover, the tank would have been severely unbalanced. G107 PzKpfwIII AusfK 
+
+It should be noted that this proposal should not be confused with the Panzerbefehlswagen III Ausf. G107 PzKpfwIII AusfK K, a radio command variant of the Panzer III that carried a 50 mm cannon unlike other radio command variants. G107 PzKpfwIII AusfK 
+
+|HistoricalGallery= 
+File:Panzer_III_K_proposal. G107 PzKpfwIII AusfK png{{!}}Panzer III K proposal, from Panzer Tracks 20-1
+
+|Ref_references=
+
+|Ref_sources=
+* Panzer Tracts No. G107 PzKpfwIII AusfK  20-1 Paper Panzers: Panzerkampfwagen, Sturmgeschuetz, and Jagdpanzer
+
+|Ref_links=
+* https://ftr-wot. G107 PzKpfwIII AusfK blogspot. G107 PzKpfwIII AusfK com/2013/04/buff-my-tank-panzer-iii. G107 PzKpfwIII AusfK html
+
+}}

@@ -1,0 +1,57 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:ИСУ-122С scr 1. R116 ISU122C Berlin jpg
+File:ИСУ-122С scr 2. R116 ISU122C Berlin jpg
+File:ИСУ-122С scr 3. R116 ISU122C Berlin jpg
+
+
+|InTheGame_pros= 
+ * Amazing DPM, among the best in the game 
+ * Fairly good gun stats for a 122mm gun
+ * Good camouflage values
+ * Good top speed, fast in a straight line
+ * Crew layout matches high tier Soviet TD's
+
+|InTheGame_cons= 
+ * Low muzzle velocity and poor accuracy for a TD gun
+ * Narrow gun traverse
+ * Turns sluggishly, very vulnerable if flanked
+ * Only the gun mantlet provides any real protection
+ * Penetration is unimpressive for a tank destroyer
+
+|InTheGame_performance= 
+Equipped with a quick-firing variant of the common 122 mm D-25, the ISU-122S can be a terror on the battlefield. R116 ISU122C Berlin  With a fantastic rate of fire of 8. R116 ISU122C Berlin 11 rounds per minute, the ISU-22S fires almost twice as fast as the [[IS]] and [[IS-2]]. R116 ISU122C Berlin  The fantastic rate of fire of the gun allows the ISU-122S to potentially rip apart any same tier vehicle in less than half a minute of sustained fire while casually blowing up any lesser tanks . R116 ISU122C Berlin  The ISU-122S can drill through the enemy team with impunity. R116 ISU122C Berlin 
+
+However, the ISU-122S is far from perfect. R116 ISU122C Berlin  The armor is rather inadequate for a Tier VII vehicle and most of the same tier tanks can penetrate it with ease from any direction. R116 ISU122C Berlin  It is also a large target with a 30mm roof, leaving it an extremely juicy target for artillery which can wreak havoc on its rather puny 870 hit points pool. R116 ISU122C Berlin  The lack of turret accompanied by a mediocre traverse both in hull and gun leave it weak to flanking maneuvers. R116 ISU122C Berlin  The layout of the vehicle also causes it to take module damage quite often. R116 ISU122C Berlin  Your gun takes about half of the hull and is often damaged, and the rest of the shots seem to home on the gunner who has the life expectancy of a KV-5 radioman. R116 ISU122C Berlin  These two can be highly irritating due to the accuracy of 0. R116 ISU122C Berlin 41. R116 ISU122C Berlin 
+
+In Tier VIII and IX matches that the ISU-122S faces due to the lack of preferential matchmaking the D-25 isn't nearly as scary as before, forcing you to play much more cautiously. R116 ISU122C Berlin  Less than ideal accuracy coupled with 175 mm of penetration will make it difficult to hit weak spots when required. R116 ISU122C Berlin  However you still have your massive damage per minute, turning flanking shots and thinly armored targets into smoking wrecks. R116 ISU122C Berlin 
+
+As far as crew training is concerned, the five man crew layout with two loaders matches the "Alpha Damage" line from Tier VII onwards starting with the [[SU-152]] and the "Mobility / DPM line" from Tier IX onwards starting with the [[Object 263]]. R116 ISU122C Berlin  This saves you the trouble of having to switch loaders in comparison to the [[SU-122-44]] plus all of your crew members get trained at the same time, which will speed up progression. R116 ISU122C Berlin  If one of those vehicles is your designated target of choice the ISU-122S makes for an excellent crew trainer, especially since this vehicle up to this point was always offered with a 100% zero experience Brothers in Arms perk crew, essentially receiving it for free. R116 ISU122C Berlin 
+
+All in all the ISU-122S is surprisingly fast vehicle with a good gun that allows it to manhandle any opposition in capable hands, RNG willing. R116 ISU122C Berlin 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Tank gun Rammer, Vents
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|HistAcc=
+*Like many soviet tanks in game the ISU-122S has increased gun depression. R116 ISU122C Berlin  In reality it had -3° instead of -6°
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

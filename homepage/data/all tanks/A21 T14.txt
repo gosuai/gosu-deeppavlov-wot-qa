@@ -1,0 +1,81 @@
+{{TankData|Tank=A21_T14
+|With its thin, angled frontal armor, even a properly angled T14 can't withstand hits from any but the smallest guns available at tier IV. A21 T14   Not only is the T14 poorly protected, but it is also slow and poorly armed. A21 T14  This tank was removed from sale in the gift shop and to buy for gold via the in game tech tree on 4/5/15 with the release of 9. A21 T14 7  [https://worldoftanks. A21 T14 eu/en/news/pc-browser/premium/premium-tanks-removal-sales/ Premium Tanks: Removal from Sales] as part of the WG retirement plan. A21 T14 
+
+|Sidebar_Camostop=8. A21 T14 0
+|Sidebar_Camomove=4. A21 T14 3
+|Sidebar_Camofire=2. A21 T14 3
+|Sidebar_Passhard=0. A21 T14 988
+|Sidebar_Passmed=1. A21 T14 093
+|Sidebar_Passsoft=1. A21 T14 64
+|Sidebar_DispTurret=0. A21 T14 153
+|Sidebar_DispRecoil=3. A21 T14 836
+|Sidebar_DispAccel=0. A21 T14 23
+|Sidebar_DispTurning=0. A21 T14 23
+
+|InTheGame_pros=
+* Gets Premium MM, useful considering its subpar gun. A21 T14 
+
+|InTheGame_cons=
+* Hull is thin. A21 T14 
+* The gun has poor pen. A21 T14  and horrid accuracy; will struggle against Tier V heavies and most tier VI tanks. A21 T14 
+* Very slow hull and turret traverse makes flanking a high risk. A21 T14 
+* Small strips of armor above the skirts are only 51mm and can be penned by even tier 3 guns. A21 T14 
+* The MG port is a glaring weakspot (only 63 mm). A21 T14 
+* The turret is deceptively weak to guns bigger than those on mediums and lights and cannot be angled effectively. A21 T14 
+* Ammo rack gets damaged at nearly every penetrating side shot
+
+|InTheGame_performance=
+The turret and lower glacis are the most well armored places on the tank, which means the T14 can take advantage of angling and hull down positions. A21 T14  Unfortunately, you must be wary of the seemingly strong turret. A21 T14  101mm of armor seems nice, but the turret front is poorly sloped, and the mantlet adds little. A21 T14  The cheeks of the turret (front not covered by the mantlet) will certainly not stand up to anything more than light tanks or small medium tank guns, and the mantlet will not reliably protect you from most Tier V vehicles, especially if they hit the unrounded horizontal middle of it (think maus turret, with angled upper and lower parts but a flat middle), or tank destroyers. A21 T14  Tier 6 vehicles will chew through it. A21 T14  Gold will make short work of the turret, and the hull if you do not angle. A21 T14  Even so, the simple thickness of it, and the angles of the top and bottom of the mantlet, will pull off some bounces. A21 T14   Despite having all this weight, the T14 is fairly quick to accelerate thanks to its powerful engine. A21 T14 
+
+Though the T14 may be able to take a beating, its armament has a hard time doing damage in return. A21 T14   The T14 is armed with the same 75mm M3 cannon used by the M3 Lee. A21 T14   Its alpha damage isn't particularly bad, but its biggest issues come in the form of its mediocre penetration and terrible accuracy. A21 T14   While powerful enough for taking out smaller lights and mediums, the T14's gun struggles to penetrate other heavies and even some more heavily armored mediums. A21 T14   When faced with large, well armored opponents, the T14 often needs to use its speed to flank and outmaneuver them. A21 T14   Unfortunately, while it has good acceleration in a straight line, the T14 has very slow top speed and hull and turret traverse speeds, which complicates this. A21 T14   Because the T14s traverse speed is so marginal, a T14 with an inexperienced crew will struggle to maneuver. A21 T14 
+
+
+
+====Compared to Similar Tanks====
+The T14 is very similar to the [[Excelsior]], the British tier V premium heavy tank. A21 T14   Both are quick to accelerate (for heavies), and feature similar weak 75mm armaments. A21 T14   Generally speaking, the T14 is less "lopsided" than the Excelsior. A21 T14   It's hull armor is weaker, yet it can be angled more effectively. A21 T14   In addition, the T14's turret is smaller and well sloped, which allows it to take advantage of hull-down positions unlike the Excelsior. A21 T14   Although both are fairly quick in a straight line, the T14 is much less manueverable with 12 degrees/sec less traverse speed. A21 T14 
+
+|InTheGame_research=
+All modules are researched with the tank. A21 T14 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox, 
+
+|InTheGame_Equipment_Builds=
+Because the T14 is already sufficiently protected, equipment builds should focus on getting the most out of the T14's gun. A21 T14   A gun laying drive is necessary to mitigate the gun's awful accuracy. A21 T14   A gun rammer also comes in handy; since accurate fire is difficult in the T14, often times its just better keep firing unaimed shots instead of spending the time to aim accurate shots. A21 T14   The last equipment slot can be occupied by either vents or a toolbox, and which one is used depend on player preference. A21 T14   Vents will help improve the tank's poor turret traverse and accuracy a little, and a toolbox will help get the T14 back in action when tracked (as it likely often will be). A21 T14 
+
+|Gallery=
+image:T14 screen 01. A21 T14 jpg{{!}}T14
+image:T14 screen 02. A21 T14 jpg{{!}}T14
+image:T14 screen 03. A21 T14 jpg{{!}}T14
+image:T14 screen 04. A21 T14 jpg{{!}}T14
+image:T14 screen 05. A21 T14 jpg{{!}}T14
+image:T14 screen 06. A21 T14 jpg{{!}}T14
+
+|History=
+The Assault Tank T14 was a joint project between the United States and the United Kingdom. A21 T14  The T14 tank was supposed to be a design that was to be shared by both countries to give an infantry tank for British use. A21 T14 
+
+The pilot model was not produced by 1944, by which time the British [[Churchill I]] tank had been in service for two years and was greatly improved over its initial model. A21 T14  The T14 project never came to fruition. A21 T14  US efforts of working on a similarly well-armored tank with a higher speed for use other than as infantry support led to the [[T20]] tank. A21 T14 
+
+== Design and development ==
+In 1941, the head of the United States Ordnance Department travelled to Britain to discuss designing a well-armed and armored combat vehicle, one that was stronger than the British Tank, Infantry, Mk IV (A22) "Churchill", then under production. A21 T14 
+
+The tank design would have a 6 pdr or a US 75 mm gun sharing many parts with the M4 Sherman, but with armor twice as thick as that of the M4 at 100 mm thick. A21 T14 
+The British initially ordered 8,500 in 1942. A21 T14  Testing of the pilot model, which was completed in 1944, showed the vehicle to be much too heavy for practical use. A21 T14  By this time, the British Army was already using the Churchill and further production of the T14 was halted. A21 T14  Only 2 were built; one tested in the US and the other sent to Britain. A21 T14 [2] The example sent to Britain survives in the Bovington tank museum. A21 T14 
+
+|HistoricalGallery=
+image:T14 1. A21 T14 jpg{{!}}T14
+image:T14 2. A21 T14 jpg{{!}}T14
+
+
+|Ref_references=
+# Steven J. A21 T14  Zaloga, Tony Bryan, Jim Laurier M26/M46 Pershing Tank 1943-53 p6
+# a b Forty, George (1995). A21 T14  World War Two Tanks. A21 T14  Osprey. A21 T14  pp. A21 T14  133–139. A21 T14  ISBN 1855325322. A21 T14 
+
+|Ref_sources=
+* David Fletcher ''The Universal Tank: British Armour in the Second World War''
+
+|Ref_links=
+* [[https://www. A21 T14 wwiivehicles. A21 T14 com/usa/self-propelled-guns/m12. A21 T14 asp WWII vehicles]]
+* [[https://mailer. A21 T14 fsu. A21 T14 edu/~akirk/tanks/UnitedStates/mediumtanks/MediumTanks. A21 T14 html United States Medium Tanks]]
+
+}}

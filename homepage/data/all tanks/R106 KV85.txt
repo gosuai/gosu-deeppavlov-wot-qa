@@ -1,0 +1,68 @@
+{{TankData|Tank=R106_KV85
+|Like its predecessor, the [[KV-1S]], the KV-85 is heavy tank that trades armour for speed and maneuverability. R106 KV85   The KV-85 is most deadly on the flanks of its opponents, where it can use either a fast firing 100mm S-34 gun with excellent overall DPM, or the high-alpha 122mm D-2-5T gun capable of taking out half a tier VI heavy's hit points with one hit. R106 KV85 
+
+|Gallery=
+
+File:КВ-85 scr 1. R106 KV85 jpg
+File:КВ-85 scr 2. R106 KV85 jpg{{!}}Орудие 100 мм С-34 в башне КВ-122 обр. R106 KV85  1944
+File:КВ-85 scr 5. R106 KV85 jpg{{!}}Орудие 122 мм Д-2-5Т в башне КВ-122 обр. R106 KV85  1944
+File:КВ-85 scr 3. R106 KV85 jpg
+File:КВ-85 scr 4. R106 KV85 jpg
+
+
+|InTheGame_pros=
+* Has two good gun choices: the DPM-rich 100 mm and the amazingly powerful 122 mm
+* Good maneuverability and speed for a heavy tank
+* Somewhat bouncy frontal turret armor that can pull of the occasional ricochet
+
+|InTheGame_cons=
+* Practically no gun depression at a mere -3°
+* Poor view range
+* Poor aim time and dispersion
+* Rather weak hull armor
+* 122 mm takes as long as artillery to reload. R106 KV85  
+
+|InTheGame_performance=
+The KV-85 is characterised by its poor armour, excellent guns and above-average mobility for a heavy tank. R106 KV85  Coming right off of the KV-1S, players will be right at home with the KV-85 as they are virtually the same tank. R106 KV85  However, the KV-85 has one of the poorest non-SPG gun depression ratings at only -3 degrees, making the tactic of "ridge popping"- or even just fighting on hills- difficult to employ without taking a considerable amount of incoming fire. R106 KV85  Even the slightest irregularity in the ground (that you wouldn't notice in any other tank) can leave you with your gun suddenly aiming up into the air and your shot going high. R106 KV85 
+
+When fully stock, the KV-85 is very frustrating and difficult to play. R106 KV85  The stock 85mm D-5T gun is wholly inadequate for its tier and will fail to penetrate a KV-1 most of the time. R106 KV85  The tank's main advantage, its speed, can only be found in the upgraded engine, meaning that a stock KV-85 is very sluggish, and with the stock suspension, very difficult to maneuver. R106 KV85  The weak armour, slow speed, and poor penetration of the 85mm D-5T gun make it a very hard tank to grind, especially since upgraded gun requires both the turret and the new suspension. R106 KV85  However, the difficult grind is well worth the effort, as the KV-85 has impressive selections of guns, and is very maneuverable for a heavy tank. R106 KV85                         
+
+When armed with the 100mm S-34 gun, the better penetration and damage should make driving the KV-85 considerably more enjoyable. R106 KV85  With a reload time of around 7 seconds or more, an average alpha damage of 250 and an accuracy of 0. R106 KV85 38, the tank is well equipped for dealing with tanks of tiers 7 and 8. R106 KV85  The lower alpha means that this gun is more suited to play a support role where its good rate of fire coupled with respectable penetration and damage can lay waste to enemies in minutes. R106 KV85  With the upgraded engine, the KV-85 essentially become a slower but better armoured medium that can flank slower heavies and target their weaker side and rear armour, as well as aid team mates who are attempting a push from the front. R106 KV85  In tier 8 matches, however the 250 alpha and low hit points will steer the KV-85 to its destruction. R106 KV85  In these matches, use it as an impromptu sniper or flanker and it can still be very helpful to the team. R106 KV85  However, it is worth noting that the excellent maneuverability and DPM can combine to create a devastating tank capable of fighting anything it can meet. R106 KV85 
+
+When equipped with the 122mm D-2-5T, the tank changes drastically from a flanker into an opportunistic brawler. R106 KV85  The 20 sec long reload, poor accuracy of 0. R106 KV85 50 and an aiming time of 3. R106 KV85 6 seconds means that this gun is best suited for close to point blank combat, where the gun's impressive damage of 390 will send medium and light tanks retreating and heaving reconsidering their plan, as it can almost kill tier 6 heavies in two shots. R106 KV85  However, the inaccuracy of the gun forces the tank to get close to the enemy, where its weak hull armour can easily be penetrated. R106 KV85  As such, it is wise to follow another heavy tank for supporting fire by hitting reloading enemies for a massive 390 damage then pulling back to cover your poor DPM. R106 KV85  In the right hands, this gun can easily cause very high damage, just watch out for misses and non-penetrations, as a single AP shell costs 1,025 credits. R106 KV85 
+
+All in all, the KV-85 is a very versatile tank, able to be played both as a flanker and a brawler. R106 KV85  The frustratingly terrible gun depression, armour, and occasional inaccuracy of the guns of the tank  will  be a great disadvantage, but is more than made up for by the KV-85's mobility and good gun damage. R106 KV85  Play this tank cautiously and patiently to have the best results. R106 KV85 
+
+|InTheGame_research=
+After the split of the KV-1S and KV-85, the S-34 gun is no longer needed to be researched first if seeking the 122mm D-2-5T, however, you still need the top turret and the upgraded suspension. R106 KV85  The top engine will further enhance the KV-85's agility and will make playing the tank considerably more rewarding. R106 KV85  Even if using the S-34, it is recommended to unlock the 122mm D-2-5T to lessen the grind on the IS. R106 KV85 
+
+|InTheGame_equipment=
+Large-Caliber Tank Gun Rammer, Coated Optics, Vents, GLD
+
+|History=As the war continued, the KV-1 continued to get more armour to compensate for the increasing effectiveness of German weapons. R106 KV85  This culminated in the KV-1 model 1942 (German designation KV-1C), which had very heavy armour, but lacked a corresponding improvement to the engine. R106 KV85  Tankers complained that although they were well-protected, their mobility was poor and they had no firepower advantage over the T-34 medium tank. R106 KV85 
+
+
+In response to criticisms, the lighter KV-1S was released, with thinner armour and a smaller, lower turret in order to reclaim some speed. R106 KV85  Importantly, the KV-1S had a commander's cupola with all-around vision blocks. R106 KV85  It also had a sophisticated planetary transmission that significantly increased reliability, and allowed use of more efficient regenerative geared steering, unlike the solely clutch and brake steering systems used the Panzer III, IV and T-34. R106 KV85  Its reduced weight allowed it to achieve a top speed of 43. R106 KV85 3 km/h. R106 KV85  Over 1,300 were built before production ended in August 1943. R106 KV85  Although KV-1S was the best of the mass-produced KV tanks, overcoming its predecessors problems, more modern tanks were already in sight. R106 KV85  Up-arming the regular turret of the KV-1S with an 85mm S-31 resulted in the KV-1S-85 or KV-85G. R106 KV85  This was rejected as it came with the unacceptable loss of a dedicated commander, reducing the turret crew to two. R106 KV85  However, the thinning-out of the armor called into question why the tank was being produced at all, when the T-34 could seemingly do everything the KV could do and much more cheaply. R106 KV85  The Soviet heavy tank program was close to cancellation in mid-1943. R106 KV85 
+
+The appearance of the German Panther tank in the summer of 1943 convinced the Red Army to make a serious upgrade of its tank force for the first time since 1941. R106 KV85  Soviet tanks needed bigger guns to take on the growing numbers of Panthers and the few Tigers. R106 KV85 
+A stopgap upgrade to the KV series was the short-lived KV-85 or Objekt 239. R106 KV85  This was a KV-1S with the new turret from the Object 237(IS-85) still in development, mounting the same 85 mm D-5T gun as the SU-85 and early versions of the T-34-85. R106 KV85  The 85 mm proved capable of penetrating the Tiger I from 1000 m and the demand for it slowed production of the KV-85 tremendously (only 148 were built in the end). R106 KV85  The KV-85 appeared on the front beginning in September 1943 and its production ended by December 1943. R106 KV85  Soviet industry was therefore able to produce a heavy tank as well armed as the Tiger I before the end of 1943. R106 KV85  In spite of being an excellent opponent to the Tigers and Panthers, the KV-85 was built in too few a number to influence the war. R106 KV85  The complete Object 237 was accepted into service as the IS-85 and was produced in the autumn and winter of 1943-44; they were sent to the front as of October 1943 and production of the IS-85/IS-1 was stopped by the spring of 1944 once the IS-122/IS-2 entered full-scale production. R106 KV85 
+
+* KV-85 – A KV-1S with the 85mm D-5T cannon in a new turret, with the ball mounted hull machine gun removed and the hole welded shut, 148 of these tanks were produced in the second half of 1943 until the spring of 1944; they were a stopgap until the IS tank series entered production. R106 KV85 
+* KV-100 - A KV-85 with the 100mm S-34 cannon. R106 KV85  One prototype was made in 1944. R106 KV85  Not taken in service. R106 KV85 
+* KV-122 (Object 239) - A KV-85 with the 122mm D-25T cannon. R106 KV85  One prototype was made in 1944. R106 KV85  Not taken in service. R106 KV85 
+
+|HistoricalGallery=image:KV1S1. R106 KV85 jpg
+image:KV1S3. R106 KV85 jpg
+
+|HistAcc=
+*The 100 mm S-34 is technically not compatible with either turret choices as it required shifting the gunner and the commander (and hence his crew station and cupola) to the right side of the turret, while the loader sat on the left. R106 KV85 
+
+|Ref_references=
+
+|Ref_sources=
+*https://en. R106 KV85 wikipedia. R106 KV85 org/wiki/Kliment_Voroshilov_tank
+*https://tankarchives. R106 KV85 blogspot. R106 KV85 com/2018/12/the-kvs-last-bow. R106 KV85 html
+
+|Ref_links=
+[https://tankarchives. R106 KV85 blogspot. R106 KV85 com/2018/12/the-kvs-last-bow. R106 KV85 html]
+}}

@@ -1,0 +1,176 @@
+{{TankData|Tank=KV4
+|It is in many ways the antithesis of the [[IS-3]] - it is slow but heavily armored, just like the [[KV-5]], and has the same pitiful turret traverse speed. R73 KV4  This ensures that the KV-4 is ill-suited to defend against flankers or circling tanks. R73 KV4  While it does have 180mm of frontal armor, it is nearly unsloped and it is recommended that the hull of the tank be angled to maximize its effect and make use of the sturdy sides. R73 KV4  The long 107mm's penetration and damage are comparable to those of German long 105mm from the [[Pz. R73 KV4 Kpfw. R73 KV4 _Tiger_II|Tiger II]] and it is relatively accurate. R73 KV4  While the gun may be accurate it is NOT to be used as a sniper. R73 KV4  This tank weighs over a 100 tons, roughly 53% of the [[Maus]]'s weight and only 29 tonnes lighter than the [[E-100]] . R73 KV4  The weight ensures that any tanks that dare ram this tank will receive a harsh punishment. R73 KV4 
+
+|Gallery=
+image:KV-4-a. R73 KV4 jpg{{!}}KV-4 1
+image:KV-4-b. R73 KV4 jpg{{!}}KV-4 1
+image:KV-4-c. R73 KV4 jpg{{!}}KV-4 1
+image:KV-4-d. R73 KV4 jpg{{!}}KV-4 1
+
+|InTheGame_pros=
+
+* Heavily armored hull sides and thick tracks. R73 KV4  Excellent for sidescraping. R73 KV4 
+* High mass makes it resistant to being rammed, and also makes it a good rammer
+* Unreal ability to soak up damage (even artillery shells sometimes seem to just get absorbed)
+* Long 107mm gun is pretty accurate for a Russian gun, premium shells have very high penetration values
+* High HP
+
+
+|InTheGame_cons=
+* Low view range and very bad mobility
+* Armor is mostly unsloped, making it especially vulnerable to gold shells. R73 KV4  Huge silhouette
+* Excruciating stock grind with expensive to research modules that do not carry over to successor tank
+* Long aim time (3. R73 KV4 4 seconds) and bad DPM 
+* Turret its a weakspot by itself
+* Poor frontal armour will be easily penetrated by newer premiums
+* Lacks the huge HP pool of "newer super-heavies"
+
+|InTheGame_performance=
+Equipped with the 107mm gun, top engine and turret, it will become in many ways superior to the [[KV-5]], as they both share the same amount of armor but the KV-4 lacks the weak frontal "R2-D2" radioman turret from the [[KV-5]], and has superior penetration. R73 KV4  Unfortunately, the KV-4's top gun has a very slow fire-rate and low DPM, less than 1700 damage per minute (base with 100% crew), while the KV-5 has 2100. R73 KV4  Another problem is the long aiming time. R73 KV4  The KV-4 also has slower top speed, making ramming less effective. R73 KV4 
+
+It should also be noted that the KV-4 is a fairly decent tank to play, especially if you have cover from artillery. R73 KV4  It is very bouncy, and many shots, including those from Tier 8, and sometimes even tier 9 TD's will ricochet if tank is angled properly. R73 KV4  Note that miniturret on top of update turret is not really a weak spot, but has the same armor as the flat turret face. R73 KV4  It's possible to angle the turret between shots to increase its effective armor. R73 KV4 
+
+Coaxing out a KV-4 from a narrow defensive position will take great effort, especially on alleys or bridges, and even so, it shall be noted that the indicated side armor value does not account for the fact that shells hitting the sides will also have to go though the massive tracks, much to the dismay of the enemy. R73 KV4  In addition to its thick side armor, the mid-mounted turret allows it to use side-scraping techniques much more effectively than the front mounted turrets used by most other tier 8 heavy tanks. R73 KV4  
+
+When confronted by fast mediums or light tanks at close range (a favoured tactic because of the KV-4's extremely poor traverse speed) the best tactic is to use ramming tactics. R73 KV4  Although the KV-4 can rarely work up to full speed, it is so heavy that even a light brush against an enemy tank will take its tracks off, leaving it an easy target. R73 KV4 
+
+The introduction of the Japanese super-heavies and of the newer German and Soviet heavy tanks of late (such as the [[IS-M]], the [[Tank:R134_Object_252U|Object 252U]] and the [[VK 100. R73 KV4 01 P]]) has relegated the KV-4 into a second-line support tank. R73 KV4  It cannot trade damage in a straight up brawl simply because the long 107mm cannot pump out enough damage per shot to compete with the bigger guns many of the newer heavy tanks carry. R73 KV4  This is despite the fact that the 107mm has better accuracy and faster reload time by comparison. R73 KV4  Like the [[Tiger II]] the KV-4 now has to sit back and let their bigger teammates lead a spearhead or soak up damage while taking shots of opportunity. R73 KV4  With that said, the KV-4 is still a very potent defensive tank that can hold territory firmly especially narrow streets or avenues. R73 KV4  Veteran KV-4 drivers will now have to adjust their playstyle while newer players are warned not to use the KV-4 to lead a charge unless absolutely necessary. R73 KV4    
+|InTheGame_research=
+
+Researching the long 107 will be top priority as the penetration of the 122mm gun is inadequate for the KV-4 as a tier 8. R73 KV4   Once the 107 is researched and mounted, it is possible, and somewhat plausible, to simply grind on through to the ST-I. R73 KV4  None of the other modules transfer through, and you can equip the 107mm on the stock suspension without having to purchase torsion bars. R73 KV4   If however you feel that the extra mobility that the suspension, engines and turret traverse (2 extra degrees/s) provide are valuable follow the research guide below. R73 KV4   
+* Research the Engine
+* Research the Suspension
+* Research the Turret
+* Research the Radio
+Alternatively, if you are willing to spend the credits on premium ammunition, you can stay with the 122 mm and grind the suspension and engine upgrades first. R73 KV4  Keep in mind that the 107 is a very long grind (44000) and the KV-4 has terrible mobility with the stock engine. R73 KV4 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vertical Stabilizer, Spall Liner, Toolbox
+
+|History=
+
+On March 11th, 1941, Soviet intelligence reported on the production of new German heavy tanks. R73 KV4  The largest of them, Type VII, allegedly had a mass of 90 tons and was armed with a 105 mm gun. R73 KV4  Soviet high command took this report very seriously. R73 KV4  Design work started to create a worthy opponent for German heavy tanks. R73 KV4  The result of this work was the creation of several unusual projects: KV-4 and KV-5. R73 KV4 
+
+
+==Fear Magnifies==
+
+The information was partially correct, as the VK 65. R73 KV4 01 project was finished in June of 1940, and it really was indexed Pz. R73 KV4 Kpfw. R73 KV4  VII. R73 KV4  One of the tanks was to be armed with a 105 mm gun, but only 20 calibers long. R73 KV4  The design of the 36 ton VK 36. R73 KV4 01 started in the middle of 1940, which was indexed Pz. R73 KV4 Kpfw. R73 KV4  VI Ausf B. R73 KV4  This was the mass of the "Type V" mentioned in the report. R73 KV4  Information on real vehicles ended up mixed with hearsay. R73 KV4  This hearsay created such a stir in the Soviet Union that heavy tank designs were radically revised. R73 KV4 
+
+It is thought that the flywheel of superheavy tanks started spinning on April 7th, 1941, when USSR SNK and CC of the VKP(b) decree #827-345ss was issued. R73 KV4  In reality, everything started two weeks before. R73 KV4  Having studied the intelligence report, GAU assumed that the 90 ton tank was armed with a tank version of the 105 mm Flak 39. R73 KV4  This gun was purchased in 1940 by a Soviet commission. R73 KV4  Trials demonstrated that a 130 mm armour plate provided adequate defense from this gun. R73 KV4 
+
+On March 21st, 1941, tactical-technical requirements were composed for the tank that would be named KV-4. R73 KV4  Its mass was estimated at 70-72 tons. R73 KV4  The front of the hull and the entire turret would have 130 mm of armour, the sides of the hull would have 120 mm. R73 KV4  The armament would consist of a 107 mm F-42 (ZiS-6) gun and three machineguns. R73 KV4  A note at the end of the document said that two tanks should be made, one with a 76 mm gun (the ZiS-5 with 3-K ballistics) and one with a 107 mm gun. R73 KV4  The tank would store 70-80 107 mm shells. R73 KV4  A 1200 hp engine was specified as the power plant. R73 KV4  As a temporary measure, an 850 V-2SN engine was acceptable. R73 KV4  With the more powerful engine, the maximum speed of the tank was rated at 35 kph. R73 KV4 
+
+By March 27th, the draft of the decree "On the production of experimental prototypes of heavy tanks" was ready. R73 KV4  According to it, both heavy tank prototypes were due on November 1st, 1941. R73 KV4  The blueprints would be ready at the Kirov factory by July 17th, and Izhor factory had to have the hulls and turrets ready by October 1st. R73 KV4  Factory #92 would deliver one 76 mm ZiS-5 and one 107 mm ZiS-6 by September 1st. R73 KV4 
+
+As for the engines, plans were awaited within ten days for V-2 and M-40 based designs. R73 KV4  The V-2 was the V-2SN, but the second engine is a much more interesting proposal. R73 KV4  This aircraft based engine was produced at the Kirov factory. R73 KV4  Its stock power output was 1000 hp, but a supercharged 1500 hp M-40F also existed. R73 KV4 
+
+The sixth point in the decree contained ideas about transporting the tank by rail. R73 KV4  The People's Commissariat of Supply Lines (NKPS) could only offer four-axle platforms with a capacity of 60 tons. R73 KV4  Obviously, for a 70 ton tank, this was not enough. R73 KV4 
+
+Anyway, by April 7th, the situation changed drastically. R73 KV4  Instead of the KV-3, a reworked T-150 with a mass of 50 tons, a new tank would be built, with the same index, a mass of 68 tons, 120 mm of front armour, and a 107 mm gun. R73 KV4  The approach to the KV-4 changed as well. R73 KV4  Its mass increased to 75 tons, and the armour could potentially increase to 140-150 mm. R73 KV4  The sides thickened to 125 mm. R73 KV4  The deadline was moved: it was now necessary to prepare the model and technical project by June 15th and the turret and hull were expected by August 15th, 1941. R73 KV4 
+
+This wasn't all. R73 KV4  Instead of a KV-4 wit a 76 mm gun, decree #827-345ss instructed the Kirov factory to build a tank that would be an answer to the phantom Pz. R73 KV4 Kpfw. R73 KV4  VII. R73 KV4  As the German vehicle, this KV-5 would have a mass of 90 tons. R73 KV4  Its armament and engine would be the same as on the KV-4. R73 KV4  The increase in mass was due to the front armour, which was 170 mm thick in the front and 150 mm thick on the sides. R73 KV4  The crew of both tanks would be between 6 and 8 men. R73 KV4 
+
+According to the decree, the blueprints for this tank were due at the Izhor factory by July 15th, and full documentation with a full scale model was due on August 1st. R73 KV4  The Kirov factory would receive a turret and a hull by October 1st, and the tank itself would be finished on November 10th, 1941. R73 KV4 
+
+==Heavy Duty==
+
+These new requirements meant that if the tank wouldn't have to be made from scratch, the idea would have to be drastically revised. R73 KV4  Zh. R73 KV4 Ya. R73 KV4  Kotin, the director of the Kirov factory design bureau, had a difficult problem that had to be solved quickly. R73 KV4 
+
+Zhosef Yakovlevich took the same road as the design bureau of factory #185 when developing heavy and medium tanks in the late 1930s. R73 KV4  During development of the 115 and T-100 tanks, several variants were prepared by different groups. R73 KV4  Kotin went one step further and included nearly all designers from the factory into the project. R73 KV4  For extra motivation, the authors of the more successful designs would be awarded a bonus. R73 KV4 
+
+Work started in the middle of April of 1941. R73 KV4  The conditions of the contest limited the engineers fairly loosely. R73 KV4  The only constants were the engine (M-40), mass (80-100 tons) and the presence of a turret. R73 KV4  A multi-turret layout was allowed. R73 KV4  The main gun would be a 107 mm ZiS-6, and the military insisted on a secondary 45 mm gun. R73 KV4  In total, 27 projects were provided for the contest. R73 KV4  The size of this article does not permit to cover them all, so we will discuss the more interesting designs. R73 KV4 
+
+N. R73 KV4 L. R73 KV4  Dukhov was the most successful in this task. R73 KV4  Without coming up with any excessive fantasies, Nikolai Leonidovich approached the issue conservatively and expanded the T-220 tank. R73 KV4  The hull was somewhat lengthened and widened, increasing the number of road wheels to 8 per side. R73 KV4  The turret was also evolutionary, resembling the T-220 turret. R73 KV4  The T-220 also donated its commander's cupola (with some changes), equipped with a DT machinegun. R73 KV4  The armament, a 107 mm and a 45 mm gun, was combined into a single system. R73 KV4 
+
+The mass of Dukhov's tank was 82 tons, the lightest of all KV-4 proposals. R73 KV4  The armour was at the levels required by the project, and the maximum speed of the tank was on the order of 40 kph. R73 KV4  This design won the contest. R73 KV4 
+
+The second place was taken by a collective design by K. R73 KV4 I. R73 KV4  Kuzmin, P. R73 KV4 S. R73 KV4  Tarapanin, and V. R73 KV4 I. R73 KV4  Tarotko (some sources list S. R73 KV4 V. R73 KV4  Mitskevich instead of Tarapanin). R73 KV4  Kuzmin and Tarotko later proved themselves to be talented hull designers. R73 KV4  The KV-4 tank proposed by this group was unusual. R73 KV4  Its fighting compartment was moved to the back, and the engine was placed in the center. R73 KV4  The main gun was placed in a casemate with a wide horizontal range. R73 KV4  The 45 mm gun was in a separate turret. R73 KV4  The mass of the tank was 88 kph, and the speed was estimated at 36 kph. R73 KV4 
+
+The third place was taken by N. R73 KV4 V. R73 KV4  Tseits. R73 KV4  Nikolai Valentinovich was the most experienced designer at the Kirov factory, starting his job in the 1920s, and having a wide variety of vehicles under his belt. R73 KV4  Tseits' design was progressive and conservative at the same time. R73 KV4  The second gun was discarded, as he considered it unnecessary. R73 KV4  Tseits' design is characterized by a tall turret, allowing the vertical placement of one-piece 107 mm shells. R73 KV4  In theory, this layout would greatly ease the loader's job. R73 KV4  In order to compensate for the tall turret, the hull was made as low as possible. R73 KV4  A "step" separated the fighting and engine compartments. R73 KV4 
+
+Another project received praise, designed by A. R73 KV4 S. R73 KV4  Yermolayev, who proposed two variants. R73 KV4  The first 95 ton KV-4 had two turrets. R73 KV4  The main one had a 107 mm gun, and the second, placed in front of it, had a 45 mm gun. R73 KV4  The second variant was the same, but the 45 mm gun turret was missing, taking 5 tons of weight with it. R73 KV4  Yermolayev must have remembered the SMK, the development of which he was in charge of. R73 KV4  It's worth noting that at least five other authors used the same layout as Yermolayev. R73 KV4 
+
+The heaviest design was by G. R73 KV4 V. R73 KV4  Kruchenyh, who later designed the turret for the IS-3. R73 KV4  Like Kuzmin, Tarapanin, and Tarotko, the engine in this design was moved forward. R73 KV4  The tank had two turrets, one on top of another. R73 KV4  A commander's cupola with a machinegun made up the third level. R73 KV4  Krucheniy's KV-4 weighed a whopping 107 tons. R73 KV4  The idea of turrets stacked on top of one another came up in five other projects. R73 KV4 
+
+At last, let us mention the KV-4 designed by N. R73 KV4 F. R73 KV4  Shashmurin. R73 KV4  Nikolai Fedorovich indexed the KV-4 and KV-5 projects "BS", which he decoded as "a madman's nonsense" (bred sumashedshevo). R73 KV4  No one can describe what he came up with better than the man himself. R73 KV4 
+
+"Having received the task to design a multi-turreted cyclops among the other leading designers of the bureau, I, without the enthusiasm about that condition (just think, we just rejected the "supermarket" SMK) I made a "knight's move", rejecting turrets altogether, and doing what I once did for the KV-1, installing the M-10 howitzer in a caponier structure, a casemate. R73 KV4  Since we just made a super-heavy KV-3 tank, I didn't think too hard about a new one. R73 KV4  I took off the turret and repeated my previous work, a high power SPG, installing Grabin's 107 mm gun. R73 KV4  I explained in a note that, if necessary, the gun could be removed and replaced with an infantry squad. R73 KV4  This modification was not allowed to enter the competition, as it violated the conditions: not enough armour, mass outside the 80-100 ton range, no turrets. R73 KV4  In order to avoid a conflict, I made a compromise. R73 KV4  Maintaining that a superheavy cannot be a tank, I added the necessary protection, reaching about 90 tons. R73 KV4  I kept the main gun in a casemate, but added a KV-1 turret on the roof. R73 KV4  I. R73 KV4 M. R73 KV4  Zaltsmann liked the design (due to its "reasonable universality", as he called it) and I received a second place award, 1000 roubles. R73 KV4  That was nice, I bought a fur coat for my wife. R73 KV4 "
+
+==Backup Option==
+
+On May 9th, 1941, the contest winners were annouced. R73 KV4  Dukhov received 5000 roubles for first place. R73 KV4  Kuzmin, Tarotko, and Mitskevich received 3000 for their second place project. R73 KV4  Tseits, Yermolayev, and Sychev received 2000 roubles each. R73 KV4  Shashmurin received 1500 roubles. R73 KV4 
+
+After that, work on the KV-4 went slowly. R73 KV4  According to the decree, the project was due in mid June, but judging by the correspondence sent, not much progress was made towards that goal. R73 KV4  Things got to the point that Marshall Kulik himself intervened and demanded that work speed up. R73 KV4  No one knows how much effect that had, since his letter was dated June 12th, and the war started ten days later. R73 KV4 
+
+Another stakeholder, the NKPS, was doing much better. R73 KV4  GABTU and NKPS actively exchanged mail regarding railroad platforms for new tanks since spring of 1941. R73 KV4  The goal at first was 72 tons, but in April, the numbers changed to 80-100 tons. R73 KV4  GABTU ordered 200 of these platforms for 1941 and 1500 for 1942. R73 KV4  Unlike the tankers, the railroaders completed their mission. R73 KV4  In 1941, production of six-axle 120 ton platforms began, with length and weight capacity to spare. R73 KV4 
+
+As for the KV-5, almost no work was done until June of 1941. R73 KV4  According to Zaltsmann's letters, there was an idea to announce a prize for the winning KV-5 design as well, but that idea was dropped. R73 KV4  Kotin's competition was rejected and more successful KV-4 designs were reused. R73 KV4  As Dukhov's design was already being worked on and the front-engined tank was too progressive, Tseits' KV-4 was selected. R73 KV4  Nikolai Valentinovich was appointed as the lead designer. R73 KV4  Other engineers from the KV-4 contest were involved in the project: Kuzmin was designing the hull, Sychev the turret and gun mount. R73 KV4  Fedorchuk, the most experienced designer, was given the suspension. R73 KV4 
+
+The KV-4 and KV-5 were in an odd place. R73 KV4  On one hand, GABTU's position was that the KV-3, the work on which was progressing at full throttle, was a temporary solution, and would be replaced in 1942 by the KV-4 or KV-5. R73 KV4  Which design would win would be a matter settled by competitive trials. R73 KV4 
+
+On the other hand, the KV-4, approved in May, had nearly no documents completed. R73 KV4  The same could not be said for the KV-5, work on which continued even after the start of the war and the order to cease work. R73 KV4  Even the manufacturing technology was changed. R73 KV4  The last blueprints were dated August of 1941, when the Germans were already near Leningrad. R73 KV4 
+
+As mentioned above, the KV-5 was based on Tseits' KV-4. R73 KV4  The idea of a tall turret and short hull was expanded upon and adapted to mass production. R73 KV4  The "step" in front of the turret was removed. R73 KV4  The driver received a personal casemate, and the hull gunner got a mini turret. R73 KV4  Because of this, the front of the hull was only 920 mm tall. R73 KV4  Second, the circular shape of the main turret was revised. R73 KV4  The front armour grew to 180 mm, making it invincible to any gun of that era. R73 KV4 
+
+==Battle of Phantoms==
+
+The development of the KV-4 and KV-5 is usually seen as a senseless waste of time and money. R73 KV4  This is largely true. R73 KV4  Even if the war did not start in 1941, it is doubtful that these tanks could enter mass production. R73 KV4  However, where there's smoke, there's fire. R73 KV4  The mistakes made by Soviet intelligence have a basis in fact. R73 KV4 
+
+Study of Bunderarchiv documents shows that, in March of 1941, Kripp began production of the 15 cm K. R73 KV4  L/40 Sfl. R73 KV4 , or 149 mm self-propelled gun. R73 KV4  In the fall of 1941, this project turned into 15 cm L L/40 fur VK 70. R73 KV4 01. R73 KV4  Yes, this is the very same VK 70. R73 KV4 01, better known as Lowe or Pz. R73 KV4 Kpfw. R73 KV4  VII. R73 KV4  The mass of this tank was also 90 tons, and one of the armament variants was a 105 mm gun. R73 KV4  Perhaps this is the Pz. R73 KV4 Kpfw. R73 KV4  VII that intelligence discovered. R73 KV4  In any case, this is not the VK 70. R73 KV4 01 that is widely known now, as sloped armour was only used in Germany after the fall of 1941 when the Germans became familiar with the T-34. R73 KV4 
+
+
+|HistoricalGallery=
+image:Kliment Voroshilov 4 1. R73 KV4 gif{{!}}S. R73 KV4  Fedorenko's KV-4 Project
+image:Kliment Voroshilov 4 2. R73 KV4 gif{{!}}M. R73 KV4  Kreslavsky's KV-4 Project
+image:Kliment Voroshilov 4 3. R73 KV4 jpg{{!}}N. R73 KV4  Shashmurin's KV-4 Project
+image:Kliment Voroshilov 4 4. R73 KV4 gif{{!}}K. R73 KV4  Buganov's KV-4 Project
+image:Kliment Voroshilov 4 5. R73 KV4 gif{{!}}P. R73 KV4  Mikhailov's KV-4 Project
+image:Kliment Voroshilov 4 6. R73 KV4 gif{{!}}G. R73 KV4  Kruchenykh's KV-4 Project
+image:Kliment Voroshilov 4 7. R73 KV4 gif{{!}}M. R73 KV4  Tseit's KV-4 Project
+image:Kliment Voroshilov 4 8. R73 KV4 gif{{!}}L. R73 KV4  Pereverzev's KV-4 Project
+image:Kliment Voroshilov 4 9. R73 KV4 gif{{!}}K. R73 KV4  Kuzmin, P. R73 KV4  Tarapatin and V. R73 KV4  Tarotko's KV-4 Project  
+image:Kliment Voroshilov 4 10. R73 KV4 jpg{{!}}Unknown author of a KV-4 Project 
+image:Kliment Voroshilov 4 11. R73 KV4 jpg{{!}}Unknown author of a KV-4 Project 2
+image:Kliment Voroshilov 4 12. R73 KV4 jpg{{!}}Top to bottom: Unknown author 1, Unknown author 2, N. R73 KV4  Dukhov's
+
+|HistAcc=
+*There were no plans to mount a 122 mm or the high-powered ZiS-24 107 mm gun. R73 KV4  Only proposed armament was the ZiS-6
+*Only the stock turret was planned for Dukhov's design (in-game model), upgraded turret is from a different design variant. R73 KV4 
+*Only the 1200 hp M-40 engine was planned for the tank, the twin V-2K powerplant was supposedly for the KV-5. R73 KV4 
+*Vehicle weight is higher than planned, design weight was 82. R73 KV4 5 tons. R73 KV4 
+*Hull armour is thicker than the design. R73 KV4  Hull armour was supposedly 130-150 mm thick at the front, and 125 mm at the side. R73 KV4 
+
+|Ref_references=
+
+
+|Ref_sources=
+* ЦАМО РФ
+* BAMA (Bundesarchiv)
+* Архив автора
+* Архив Геннадия Малышева
+* Архив Александра Смирнова
+* Отечественные бронированные машины. R73 KV4  XX век. R73 KV4  Том 1. R73 KV4  1905–1941, А. R73 KV4  Солянкин, М. R73 KV4  Павлов, И. R73 KV4  Павлов, И. R73 KV4  Желтов, Экспринт, 2002 г. R73 KV4 
+* 50 лет Противоборства. R73 KV4  К вопросу о развитии отечественного танкостроения. R73 KV4  Н. R73 KV4  Ф. R73 KV4  Шашмурин, 1987 г. R73 KV4 
+
+|Ref_links=
+
+* [https://english. R73 KV4 battlefield. R73 KV4 ru/tanks/14-experimental/62-kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R73 KV4 html '''KV-3 & KV-4 Heavy Tanks'''] at battlefield. R73 KV4 ru. R73 KV4 
+* https://tankarchives. R73 KV4 blogspot. R73 KV4 com/2013/09/grabins-superguns. R73 KV4 html
+* https://tankarchives. R73 KV4 blogspot. R73 KV4 com/2013/04/soviet-107-mm-guns. R73 KV4 html
+* https://tankarchives. R73 KV4 blogspot. R73 KV4 com/2016/03/kv-4-initial-proposal. R73 KV4 html
+* https://tankarchives. R73 KV4 blogspot. R73 KV4 ca/2016/02/kv-4-at-edge-of-insanity. R73 KV4 html
+* https://warspot. R73 KV4 ru/4995-tankostroenie-na-grani-zdravogo-smysla Original article in Russian, also has more pictures. R73 KV4 
+
+
+|Sidebar_GunAlt= 107mm ZiS-24
+|Sidebar_Camostop=2. R73 KV4 3
+|Sidebar_Camomove=1. R73 KV4 1
+|Sidebar_Camofire=0. R73 KV4 6
+|Sidebar_Passhard=1. R73 KV4 247
+|Sidebar_Passmed=1. R73 KV4 438
+|Sidebar_Passsoft=2. R73 KV4 397
+|Sidebar_DispTurret=0. R73 KV4 153
+|Sidebar_DispRecoil=3. R73 KV4 836
+|Sidebar_DispAccel=0. R73 KV4 221
+|Sidebar_DispTurning=0. R73 KV4 221
+}}

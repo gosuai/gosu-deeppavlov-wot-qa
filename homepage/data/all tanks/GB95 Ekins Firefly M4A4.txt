@@ -1,0 +1,50 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- ''See [[Sherman Firefly]] for more details''
+* Improved gun handling and RoF over the techtree Firefly
+
+* Has straight cornered hull similar to the [[Sherman III]], easier to angle when required
+
+* Has small strip of spaced armor "collar" protecting the turret ring
+
+* A bit higher top speed
+
+|InTheGame_cons= 
+* Less engine power than a fully upgraded tech tree Firefly, somewhat hampering its mobility
+
+* The armor patches protecting critical parts is absent, thus less lucky bounce would occur
+
+|InTheGame_performance= 
+Pretty much a clone of the famous [[Sherman Firefly]], inheriting its playstyle. GB95 Ekins Firefly M4A4  Apart from the unique exterior style and welded hull, differences are all but minor. GB95 Ekins Firefly M4A4  Better firepower does make it generally considered a directly supporter, but not by any large degree. GB95 Ekins Firefly M4A4  Play as one would in a regular Firefly, the extra credit & XP income will not be disappointing. GB95 Ekins Firefly M4A4 
+
+
+|InTheGame_research= 
+Premium vehicle, comes elite in its stock configuration. GB95 Ekins Firefly M4A4 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistAcc=
+While the Sherman Firefly was capable of carrying 77 rounds of ammunition, design features of the tank meant only 23 rounds were easily and readily available when the tank was in action. GB95 Ekins Firefly M4A4 
+* The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Sherman VC Firefly entered service in May 1944. GB95 Ekins Firefly M4A4 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

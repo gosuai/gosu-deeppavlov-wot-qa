@@ -1,0 +1,68 @@
+{{TankData|Tank=
+| 
+
+|Gallery= 
+File:ISU-130 screen. R111 ISU130 jpg
+File:ИСУ-130 scr 1. R111 ISU130 jpg
+File:ИСУ-130 scr 2. R111 ISU130 jpg
+File:ИСУ-130 scr 3. R111 ISU130 jpg
+
+|InTheGame_pros=
+- Great blend of damage and rate of fire
+
+- Highest DPM of all tier 8 tanks
+
+- Low dispersion, lose only few accuracy from movement
+
+- Rather good gun depression
+
+- Receives the same credit bonus as normal tier 8 premiums
+
+
+|InTheGame_cons= 
+- Poor accuracy makes sniping difficult
+
+- Rather slow; usually moves around at 25 km/h
+
+- Very poor all-around armor and low HP (1000)
+
+- Low penetration is troublesome against heavily armored targets
+
+- Narrow gun arc, large size, and sluggishness make close combat especially difficult
+
+- Sub-par view range and radio range
+
+- Premium ammunition has lower penetration than the standard AP shell
+
+|InTheGame_performance= 
+Not only does the ISU-130 look like it's an ISU-152 with a different gun, that actually is just about what it is. R111 ISU130   Besides the ISU-130 being slower, they end up being rather similar. R111 ISU130 
+
+|InTheGame_research= 
+
+This is a premium tank, thus research is not required. R111 ISU130  
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+As part of a plan to further increase the firepower of the ISU-122S, two new guns were tested on the vehicle. R111 ISU130  A single prototype was produced under the name ISU-130, armed with a 130mm S-26 cannon. R111 ISU130  Several months late, the ISU-130 was delivered for trials at Leningrad proving grounds on November 15 th, 1944. R111 ISU130  Trials began in December, revealing several defects which ended up delaying any further testing until the issues were fixed in May the next year. R111 ISU130  By the time the ISU-130 finished trials, the war had already ended. R111 ISU130  This, along with several other factors were the end of the ISU-130. R111 ISU130  The ISU-130 can still be seen in the Kubinka tank museum today. R111 ISU130 
+
+|HistoricalGallery= 
+ИСУ-130 foto 1. R111 ISU130 jpg
+ИСУ-130 foto 2. R111 ISU130 jpg
+ИСУ-130 foto 3. R111 ISU130 jpg
+
+|HistAcc=
+*Like many soviet tanks in game the ISU-130 has increased gun depression. R111 ISU130  In reality it had ~-2° instead of -8°
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

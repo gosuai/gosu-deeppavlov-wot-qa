@@ -1,0 +1,56 @@
+{{TankData|Tank= 
+| This tank was given out as a Gift Tank to anyone logging into the game between August 12-19 2015 for NA or August 12-17 for ASIA and EU as part of Wargaming's 5th World of Tanks anniversary celebration. R105 BT 7A  The BT-7 art. R105 BT 7A  is much like the [[BT-7]]. R105 BT 7A  Although not as fast, it more than makes up for this with its 76mm howitzer. R105 BT 7A  It is capable of one-shotting most tier II tanks, devastating tier III tanks, and can still damage tier IV tanks when using HE. R105 BT 7A  It can use AP rounds but HE has better penetration and damage values. R105 BT 7A  With poor view range and poor hull traverse when going full speed, it isn't very good at active or passive scouting. R105 BT 7A  But the BT-7 art. R105 BT 7A  can derp ambush enemy tanks like the T67, and the rate of fire isn't very bad. R105 BT 7A 
+
+|Gallery= 
+<gallery>
+File:shot_003. R105 BT 7A jpg|Bt-7 artillery, side view
+</gallery>
+
+|InTheGame_pros= 
+* Amazing acceleration with 37. R105 BT 7A 04 hp/t;agile. R105 BT 7A 
+* Great damage per shot and best DPM of all tier 3 lights
+* Good maneuverability
+* HE shells can penetrate most of its opponents(especially at the same tier)
+* High shell arc
+ 
+|InTheGame_cons= 
+* Horrible view range 
+* Shells travel rather slowly
+* Armor is vulnerable to even HE shells
+* Poor accuracy on the move and during turret rotation, long aim time; Can not mount vertical stabiliser
+* Slow traverse speed while moving
+* Sells for a whopping 1000CR. R105 BT 7A  when soled, other T3 prems sell for 100-200K credits
+
+
+|InTheGame_performance= 
+While the BT-7A has good speed, it has very thin armor. R105 BT 7A  Only the [[Pz. R105 BT 7A Kpfw. R105 BT 7A  I Ausf. R105 BT 7A  C|Pz. R105 BT 7A  I C]] can bounce on it(with little angling), but on other hand, this tank has good alpha and reload time for a howitzer. R105 BT 7A  The elevation is good but the depression makes aiming at low-height vehicles like the [[Hetzer]] more difficult in close-quarter combat, which due to the Howitzer's accuracy is essential. R105 BT 7A  Knowing your enemies in tier IV and V matches is useful since the potential damage of the howitzer starts varying significantly between vehicles in these tiers - for instance it can easily destroy an [[Alecto]] but struggles against the heavily-armoured [[Matilda]]. R105 BT 7A 
+
+It plays best as flanker, possibly with guerrilla (pop out, shoot at tank rears then take cover) tactics, or as a [[Self-Propelled Guns|SPG]] hunter later on in the battle. R105 BT 7A  During flanking, exposure to the enemy can be minimized by peeping out via the front of the tank. R105 BT 7A 
+This vehicle follows a similar playstyle for many of the other vehicles with howitzers in different nations (E. R105 BT 7A g. R105 BT 7A  British and German [[Tank Destroyers|tank destroyers]]) - generally thin armor, decreased rate of fire and high-damage gun to similar-tier vehicles. R105 BT 7A 
+
+
+|InTheGame_research= 
+It's premium no need to research
+|InTheGame_equipment=
+Vents,Binocular Telescope,Camouflage Net, GLD
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= In parallel with the main modification, 154 BT-7A artillery tanks were produced between 1936 and 1938. R105 BT 7A  These were fitted with a larger turret and a 76 mm KT-type gun with 50 rounds of ammunition (40 in a tank with a portable radio). R105 BT 7A <br />
+<br />
+In 1938, four experimental BT-8 tanks mounted with V-2 diesel engines were produced. R105 BT 7A  After comparative tests of the BT-7 and BT-8, the diesel tanks were put into production in 1940 (under the designation BT-7M) with the power plants being produced in a separate plant of the Voroshilovets factory to ensure supply. R105 BT 7A  From December 1939, the BT-7A went into production with some minor modifications - additional bracing for rigidity, a floor hatch, and a smaller air filter. R105 BT 7A  The diesel tanks were more fuel efficient, and the petrol-powered tanks were soon placed into reserve. R105 BT 7A 
+
+|HistAcc=
+Historical [[Gun/USSR#76 mm F-32|76 mm F-32]] gun is missing. R105 BT 7A  This variant does not exist in World of Tanks. R105 BT 7A 
+
+|HistoricalGallery= 
+File:BT-7 A artillery support tank was a self-propelled gun variant, armed with a 76. R105 BT 7A 2 mm howitzer. R105 BT 7A . R105 BT 7A jpg{{!}}BT-7A Artillery support tank was a self-propelled gun variant, armed with a 76. R105 BT 7A 2 mm howitzer. R105 BT 7A 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,75 @@
+{{TankData|Tank=Pz38_NA
+|Essentially a [[Pz. G52 Pz38 NA Kpfw. G52 Pz38 NA  38 (t)]] with more armor, more hit points, and a higher top speed, but lower acceleration. G52 Pz38 NA 
+The "nA" in the tank's name stands for ''neuer Art'', which might be considered similar to the term "state-of-the-art" in English. G52 Pz38 NA   Its upgraded cannons are surprisingly powerful and are even able to damage a Tier VII tank in certain situations. G52 Pz38 NA   However, it is slow in reverse, making reversing an unreliable way to get out of a jam. G52 Pz38 NA 
+
+|InTheGame_pros=
+* Good top speed and accuracy on the move
+* Good turret traverse speed
+* Best view range of all Tier IV vehicles, comparable to many Tier VI scouts
+* Fairly small size and excellent camo values
+* High penetration premium rounds -- can penetrate tier VI vehicles
+
+|InTheGame_cons=
+* Poor track traverse speed
+* Poor armor
+* Mediocre signal range for this tier
+* Poor acceleration for a scout tank
+
+|InTheGame_performance=
+The Pz38nA is one of the most misunderstood and under-rated scout tanks in the game. G52 Pz38 NA   Most players cannot advance past its slow acceleration and poor traverse rate, thus it ends up being labeled a dog. G52 Pz38 NA   It is far from that. G52 Pz38 NA   Once you adjust your play style to the 38nA's lack of agility you begin to unlock the true potential of this little gem of a scout. G52 Pz38 NA 
+
+In high-tier matches, it is best played as a passive scout. G52 Pz38 NA  With a base view range of 370m, it can easily spot unsuspecting enemy vehicles when sitting in strategic positions on the map. G52 Pz38 NA  When spotted the tank can utilize its relatively small size and decent top speed to get out of harm's way and relocate. G52 Pz38 NA  Do note that the acceleration is quite slow, and so it may be difficult to get into positions first at the start of the match and to retreat once you've been spotted. G52 Pz38 NA  Alternatively, one can also play this tank as an active scout, though once again, the sluggish acceleration and poor armor will be your biggest limitations. G52 Pz38 NA  Loading APCR on its top gun grants it the ability to penetrate tanks in tiers 5 and 6. G52 Pz38 NA 
+
+In similar or lower-tier matches, the Pz38nA can absolutely dominate thanks to its rate of fire, speed, and camouflage rating. G52 Pz38 NA  Its top gun has no problems penetrating tier 3 and most tier 4 vehicles, which it can quickly decimate thanks to its high rate of fire. G52 Pz38 NA  Its speed also allows it to relocate and bring its gun to different parts of the map quickly. G52 Pz38 NA  In addition, it can still function as a scout, making it all the more dangerous in the hands of a skilled player. G52 Pz38 NA 
+
+Perhaps the biggest flaw in this tank is its armor. G52 Pz38 NA  The majority of tanks have no problems penetrating it. G52 Pz38 NA  As such it is not advisable to get up-close and personal with the Pz38nA. G52 Pz38 NA  Its direct competitor, for example, the Luchs, can quickly send the Pz38nA back to the garage thanks to its fast-firing autoloader. G52 Pz38 NA  Instead, support your better-armored allies. G52 Pz38 NA  Flank your enemies and annoy them with your high rate of fire when they have their backs turned on you. G52 Pz38 NA  This is especially relevant in higher tier games, where a single hit can eat a large chunk of your hitpoints. G52 Pz38 NA 
+
+With the right playstyle, crew skills, and equipment, you can be a major asset to your allies through valuable scouting work and place yourself amongst the top 5 by experience earned through spotting-assisted damage,
+
+As with most scouts, your goal once the initial passive spotting phase is over should focus on flanking and sniping. G52 Pz38 NA   
+
+|InTheGame_research=
+* Both the FuG 5 and FuG 8 radios carry over from the PzKpfw 38 (t), as well as the 4. G52 Pz38 NA 7 cm PaK 38 (t) L/43 gun, which should be installed immediately
+* Research the Praga NR engine first
+* Next research the upgraded suspension
+* Go from there
+* The ''5 cm Kw. G52 Pz38 NA K. G52 Pz38 NA  39 L/60'' is required for researching into the [[Pz. G52 Pz38 NA Kpfw. G52 Pz38 NA  IV Ausf. G52 Pz38 NA  H|Pz. G52 Pz38 NA  IV Ausf. G52 Pz38 NA  H]] but don't automatically mount it -- the 4. G52 Pz38 NA 7cm gun has much better accuracy, '''1 second''' shorter aim time, 600kg less weight(which matters for such a light vehicle) and much cheaper ammunition, only at the cost of 10 less damage per shot, a bit of penetration, and shell velocity. G52 Pz38 NA 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, Camouflage Net
+
+|Gallery=
+image:PzKpfw_38_nA_01. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_01
+image:PzKpfw_38_nA_02. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_02
+image:PzKpfw_38_nA_03. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_03
+image:PzKpfw_38_nA_04. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_04
+
+|History=
+Developed on the chassis of the PzKpfw 38 (t) in Fall of 1939, this prototype used welding technology instead of rivets for both the chassis and turret. G52 Pz38 NA   A 250 h. G52 Pz38 NA p. G52 Pz38 NA  V-8 engine allowed for acceleration to a speed of 62 km/h. G52 Pz38 NA   The manufacturer indicated 15 were produced for prototyping and testing, but despite successfully passing all performance tests and achieving a very high speed, no order was placed. G52 Pz38 NA   The vehicle never entered mass-production and never saw combat. G52 Pz38 NA 
+
+|HistoricalGallery=
+image:PzKpfw 38 nA 1. G52 Pz38 NA jpg{{!}}PzKpfw 38 nA 1
+image:PzKpfw 38 nA 2. G52 Pz38 NA jpg{{!}}PzKpfw 38 nA 2
+
+|HistAcc=
+*The tank's actual weight was 11. G52 Pz38 NA 8 tons. G52 Pz38 NA   In '''''World of Tanks''''', however, it weighs 10. G52 Pz38 NA 86 tons (12. G52 Pz38 NA 47 when upgraded). G52 Pz38 NA 
+*Its top speed is currently 64 km/h, but a test report from Kummersdorf indicated it reached 70 km/h. G52 Pz38 NA 
+*Both of its current engines have incorrect values. G52 Pz38 NA   The two most historical engines for the vehicle would be the 220hp Tatra T-103 and 225hp Praga NRI (the latter's output was later increased to 248 horsepower by using twin carburetors). G52 Pz38 NA 
+*Its stock turret -- the Pz. G52 Pz38 NA Kpfw. G52 Pz38 NA  38 (t) Ausf. G52 Pz38 NA  G -- was never developed for the PzKpfw 38(t) nA. G52 Pz38 NA 
+*Neither the 2cm Flak 38 nor 4. G52 Pz38 NA 7cm Kw. G52 Pz38 NA K. G52 Pz38 NA  (t) L/43 gun were developed for the PzKpfw 38(t) nA. G52 Pz38 NA 
+*One of the Pzkpfw 38(t) nA's historical radios, the FuG 2, is missing. G52 Pz38 NA   Neither the FuG 37 nor FuG 8 radio were developed for it. G52 Pz38 NA 
+
+|Ref_references=
+
+
+|Ref_sources=
+* I. G52 Pz38 NA Pejčoch – Obrněná Technika
+* I. G52 Pz38 NA Pejčoch – Lehké tanky
+* V. G52 Pz38 NA Francev – Československá obrněná vozidla 1918-1945
+
+|Ref_links=
+* https://ftr. G52 Pz38 NA wot-news. G52 Pz38 NA com/2014/12/03/fixing-the-panzer-38t-na-in-hd/
+
+}}
+
+[[Category:German Tanks]]

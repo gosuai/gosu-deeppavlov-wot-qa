@@ -1,0 +1,252 @@
+{{TankData|Tank=BT-7
+|The BT-7 is a decent upgrade from the [[BT-5]], offering better stats in all areas except acceleration. R03 BT-7  It is one of the fastest tanks in the game, in exchange for very poor armor and relatively weak armament. R03 BT-7 
+
+|Gallery=
+image:BT7-1. R03 BT-7 jpg{{!}}BT-7 1
+image:BT7-2. R03 BT-7 jpg{{!}}BT-7 2
+image:BT7-3. R03 BT-7 jpg{{!}}BT-7 3
+image:BT7-4. R03 BT-7 jpg{{!}}BT-7 4
+
+|InTheGame_pros=
+* Excellent speed, acceleration, and maneuverability
+* Low profile and good camouflage values
+* ZiS-19 gun has good accuracy when on the move
+* Surprisingly good for ramming
+
+|InTheGame_cons=
+* Paper-thin armor and below average HP
+* Will not survive a face-off against higher tier tanks
+* Poor damage and penetration on both weapons, made worse by its move to Tier 4
+* Bad view range for a scout; passive scouting is, even against tier 5, not really an option
+
+|InTheGame_performance=
+The BT-7 is a somewhat improved [[BT-5]] with slightly more HP that can now face tanks up to Tier 6. R03 BT-7  It has the choice of two weapons: the '''45 mm 20K''' gun has mediocre accuracy, fairly good penetration, and good damage, while the '''37 mm ZiS-19''' offers better penetration and has excellent accuracy, but a somewhat disappointing damage output. R03 BT-7 
+
+The BT-7 excels as a raider/breakthrough exploitation tank, the role for which it was originally designed. R03 BT-7  Once it has broken through the enemy's front line, it can hunt down enemy artillery and, in skilled hands, cause a great amount of disruption and can own basically any tank tier 4 and below. R03 BT-7  The BT-7 works particularly well in combination with other BT tanks. R03 BT-7 
+
+While adequate enough to allow the BT-7 to act as a battle tank in Tier 4 matches, all the weapons have insufficient penetration to deal with heavier tanks that the BT-7 sometimes faces. R03 BT-7  In such matches, the BT-7 is best used as a support sniper or flanker, not drawing any unnecessary attention to itself. R03 BT-7  While the BT-7 is quite capable of pulling off the circling technique against heavier tanks and tank destroyers, this should only be used against isolated enemies and with an experienced driver. R03 BT-7 
+
+The BT-7's great speed and good camouflage also allow it to be used in the scouting role. R03 BT-7  Its superb speed will allow it to take up forward spotting positions quickly after the start of the game. R03 BT-7  However, the BT-7's view range is merely okay, though this can be remedied to an extent with the use of Binoculars, Coated Optics, and the Recon or Situational Awareness skills. R03 BT-7  The BT-7 can also be used as a counter-scout, as it has the speed and sufficient agility and firepower to intercept most enemy light tanks without too much trouble. R03 BT-7 
+
+In addition, the blistering speed combined with rather decent mass allow ramming to be a somewhat viable option for this tank. R03 BT-7  But unless your driver has the Controlled Impact skill, this should only be done if the enemy tank has low health, and against serious threats which have a small enough mass to take serious damage from a collision. R03 BT-7 
+
+=='''Crew Skills'''==
+* '''Camouflage''' as the first skill on all the crew members is a good choice and is invaluable if the BT-7 is required to take up the scouting role. R03 BT-7  '''Repairs''' is not very useful, as getting tracked or having the engine damaged on the BT-7 without a repair kit is almost always fatal. R03 BT-7 
+* A more specialized set of first skills would be '''Situational Awareness''' (Commander/Radio Operator), '''Snap Shot''' (Gunner/Loader), '''Smooth Ride''' (Driver). R03 BT-7  Situational Awareness provides a bigger view range bonus than Recon, and is generally superior. R03 BT-7  Snap Shot and Smooth Ride combined act like a Vertical Stabilizer (which the BT-7 does not have access to), reducing the accuracy penalties incurred while moving and rotating the turret. R03 BT-7  Due to its speed, the BT-7 has higher accuracy penalties while moving than most tanks, and this can be important in helping the BT-7 get its shot off first. R03 BT-7  '''Off-Road Driving''' is also a viable option for the driver to further augment the BT-7's excellent mobility. R03 BT-7 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is an excellent option. R03 BT-7  '''Deadeye''' is a good perk for the gunner, especially when targeting weak spots like engines and ammunition racks. R03 BT-7  The gunner also acts as the loader, but the loader only has access to perks which are not particularly useful for the BT-7: '''Safe Stowage''' increases the HP of the ammunition rack, but the BT-7's best defence is to not take a hit at all, while the BT-7 will very rarely find itself at under 10% of its HP so that the '''Adrenaline Rush''' perk activates. R03 BT-7 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R03 BT-7  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R03 BT-7 
+
+|InTheGame_research=
+* The '''12LL''' radio carries over from the BT-5. R03 BT-7 
+* The first priority should be the '''M-17T''' engine, which dramatically increases the BT-7's performance. R03 BT-7 
+* The '''BT-7''' suspension should be researched next for increased hull traverse speed and load limit
+* The '''BT-7 conical''' turret should be researched next, followed by the '''37 mm ZiS-19'''. R03 BT-7 
+* Finally, the '''V-2''' engine is required to unlock the [[A-20]], but it is inadvisable to equip it; it provides 20 hp less than the M-17F and also weighs 140 kg more, significantly reducing performance. R03 BT-7  The only benefit it has over the M-17T is a 5% lower chance of catching fire when hit. R03 BT-7 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Enhanced Suspension, Binocular Telescope, Camouflage Net, GLD
+
+|History=
+[[image:BT-7 early-fast-tank-01. R03 BT-7 png|thumb|200px|left|Early variant of the BT-7 tank]]
+The BT-7 was the last of the BT tank series of Soviet cavalry tanks that were produced in large numbers between 1935 and 1940. R03 BT-7  They were lightly armored, but reasonably well-armed for their time, and had much better mobility than other contemporary tank designs. R03 BT-7  The BT tanks were known by the nickname Betka from the acronym, or its diminutive Betushka. R03 BT-7  BT (Russian: БТ) stands for fast tank (Быстроходный танк, Bystrokhodny tank). R03 BT-7  The successor of the BT-7 Tank would be the famous T-34 medium tank, introduced in 1940, which would replace all of the Soviet fast tanks, infantry tanks, and medium tanks then in service. R03 BT-7 
+
+==Development history==
+The first prototypes of the BT-7 had a distinctive canted-ellipse shaped turret mounting both the main gun and a coaxial machine-gun. R03 BT-7  The specification also called for the project to allow for installation without any significant change to the framework of new guns: the 76 mm CT or PS-3 main gun (a short-barreled howitzer) and the 45 mm 20K model 1932/38, a long-barreled, high-velocity gun useful against tanks, but less effective than the 76 mm gun against infantry. R03 BT-7  
+In the rear of the turret, there was housed a rotating drum-type magazine for 18 76 mm shells or a radio station. R03 BT-7  The prototype underwent an extensive testing program in the summer and autumn of 1934. R03 BT-7  As a result of this testing, it was felt that a machine-gun was unnecessary on a tank with a 3-man crew, especially as it made the assembly of the turret more complicated. R03 BT-7  [[image:BT-7 -2 Fast Tank training turret. R03 BT-7 png|thumb|200px|right|BT-7-2 Training turret at Stalin Military Academy]]
+Therefore, in early 1935, the tank went into production with a simpler design, incorporating the turret from the BT-5. R03 BT-7  (However, the idea of wheeled/tracked vehicle with a 76 mm cannon was not abandoned and the plant was commissioned to develop a new BT-7 turret from the turret of the T-26-4). R03 BT-7  In the production model, a cylindrical turret housed a 45 mm 20K gun with a DT-model machine-gun. R03 BT-7  On some of the tanks, a model 71-TC radio with frame antenna was installed. R03 BT-7 
+The crew consisted of three men: the commander (who also served as the gunner), the loader, and the driver. R03 BT-7  In 1937, the company launched production of the BT-7 with a conical turret. R03 BT-7  Main armament remained the same, but the ammunition was increased to 44 rounds. R03 BT-7  All serving tanks now installed the DT machine gun in the rear niche. R03 BT-7  For the firing of the gun and coaxial machine gun at night, the tank was equipped with two special projector-type headlamps, and a mask placed on the gun. R03 BT-7  Subsequently, these Lights were retrofitted to earlier models of the tank. R03 BT-7  Improvements were also made to the drive wheels, caterpillar tracks, and gearbox by 1938. R03 BT-7 
+In parallel with the main modification, 154 [[BT-7A]] artillery tanks were produced between 1936 and 1938, fitted with a larger turret and a 76 mm CT-type gun, with 50 rounds of ammunition (40 in a tank with a portable radio). R03 BT-7 
+In 1938, four experimental BT-8 tanks mounted with V-2 diesel engines were produced. R03 BT-7  After comparative tests of the BT-7 and BT-8, the diesel tanks were put into production in 1940 (under the designation BT-7M) with the powerplants being produced in a separate plant of the Voroshilovets factory to ensure supply. R03 BT-7  From December 1939, the [[BT-7A]] went into production with some minor modifications; additional bracing for rigidity, a manhole underneath, and a smaller air filter. R03 BT-7  The diesel-powered tanks showed much-reduced fuel costs, and the petrol tanks were soon placed into reserve. R03 BT-7 
+[[image:BT-7 M on wheels; 1940. R03 BT-7 jpg|thumb|200px|left|BT-7 M on wheels; 1940. R03 BT-7 jpg]]
+Several experimental tanks were conceived based on the BT series, for example: the wheeled BT-IC, designed by NF Tsyganova, a platoon commander in the 4th Armoured Regiment of the Ukraine Military District and self-taught designer. R03 BT-7  The type successfully passed field tests, but was not ordered in bulk. R03 BT-7  Another Tsyganova design was the S-2 "Turtle", with a new design of hull and turret. R03 BT-7  There was also the command tank CBT-7 with a fixed turret, the OT-7 mounting a flamethrower, the HBT-7 designed to protect from toxic contamination and lay smokescreens, the PBT bridgelayer, and the TTBT-7 and Thubten-7 radio-controlled tanks (known at the time as Teletanki). R03 BT-7 
+Shortly before Operation Barbarossa, the BT-7 underwent an up-armor program. R03 BT-7  In 1940, Mariupol Ilyich Iron and Steel Works produced 50 sets of hinged homogeneous armor for the BT-7M, which increased the weight of the test tank to 18 tons. R03 BT-7  On the installation of these kits to military units, unfortunately, nothing is known. R03 BT-7 
+
+==Combat history==
+[[image:BT-7_and_T-26_with_additional_armor_are_moving_to_the_frontline. R03 BT-7 _5th_Tank_Brigade_Western_Front,_Nov. R03 BT-7 41. R03 BT-7 jpg|thumb|200px|right|BT-7 and T-26 with_additional armor are moving to the frontline. R03 BT-7  5th Tank Brigade Western Front, Nov. R03 BT-7 1941. R03 BT-7 ]]
+Between 1935 and 1940, between 2700 to 5328 BT-7 tanks of all modifications (except [[BT-7A]]) were built. R03 BT-7  They were operated by the armored and mechanized forces of the Red Army for almost the entire war. R03 BT-7  Over 2000 BT-7 series tanks were lost in the first 12 months on the Eastern Front. R03 BT-7  Hundreds had been immobilized even before the invasion by poor maintenance, and had to be abandoned as all Soviet forces withdrew eastward. R03 BT-7  The survivors fought against the Wehrmacht in numbers gradually reduced by attrition, until superseded by more modern types in 1944. R03 BT-7  The BT-7 series continued in use elsewhere, including being used against Japanese forces (Battle of Khalkhyn Gol and Manchurian Strategic Offensive Operation) in Manchuria in 1945. R03 BT-7 
+
+
+<table style="text-align:center;" frame="box" rules="vertical;horizontal" >
+<caption>Comparison of the BT-2, BT-5, BT-7, BT-7A, and BT-8</caption>
+
+<tr>
+<td></td>
+	<th>[[BT-2]]</th>
+	<th>BT-5</th>
+	<th>BT-7</th>
+	<th>[[BT-7A]]</th>
+	<th>BT-7M (BT-8)</th>
+</tr>
+<tr>
+<th>Number built</th>
+	<td>620</td>
+	<td>2,108</td>
+	<td>4,965</td>
+	<td>154</td>
+	<td>790</td>
+</tr>
+<tr>
+<th>crew</th>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
+</tr>
+<tr>
+<th>weight</th>
+<td>10. R03 BT-7 2 t</td>
+<td>11. R03 BT-7 5 t</td>
+<td>14 t</td>
+<td>14. R03 BT-7 5 t</td>
+<td>14. R03 BT-7 7 t</td>
+</tr>
+<tr>
+<th>length</th>
+	<td>5. R03 BT-7 58 m</td>
+	<td>5. R03 BT-7 58 m</td>
+	<td>5. R03 BT-7 66 m</td>
+	<td>5. R03 BT-7 66 m</td>
+	<td>5. R03 BT-7 66 m</td>
+</tr>
+<tr>
+<th align="right">width</th>
+	<td>2. R03 BT-7 23 m</td>
+	<td>2. R03 BT-7 23 m</td>
+	<td>2. R03 BT-7 29 m</td>
+	<td>2. R03 BT-7 29 m</td>
+	<td>2. R03 BT-7 29 m</td>
+</tr>
+<tr>
+<th>height</th>
+	<td>2. R03 BT-7 20 m</td>
+	<td>2. R03 BT-7 25 m</td>
+	<td>2. R03 BT-7 42 m</td>
+	<td>2. R03 BT-7 52 m</td>
+	<td>2. R03 BT-7 42 m</td>
+</tr>
+<tr>
+	<th>armour</th>
+	<td>6–13 mm</td>
+	<td>6–13 mm</td>
+	<td>6–13 mm</td>
+	<td>6–13 mm</td>
+	<td>6–22 mm</td>
+</tr>
+<tr>
+<th>main gun</th>
+	<td>37 mm<br />
+		Model 30</td>
+	<td>45 mm<br />
+		Model 32</td>
+	<td>45 mm<br />
+		Model 35</td>
+	<td>76. R03 BT-7 2mm<br />
+		Model 27/32</td>
+	<td>45 mm<br />
+		Model 38</td>
+</tr>
+<tr>
+<th>main gun<br />
+ammunition</th>
+	<td>96 rounds</td>
+	<td>115 rouds</td>
+	<td>146 rounds</td>
+	<td>50 rounds</td>
+	<td>146 rounds</td>
+</tr>
+<tr>
+<th>machine guns</th>
+	<td>DT</td>
+	<td>DT</td>
+	<td>DT</td>
+	<td>2×DT</td>
+	<td>3×DT</td>
+</tr>
+<tr>
+<th>engine power<br />
+model</th>
+	<td>400 hp<br />
+		Liberty</td>
+	<td>400 hp<br />
+		M-5</td>
+	<td>500 hp<br />
+		M-17T</td>
+	<td>500 hp<br />
+		M-17T</td>
+	<td>450 hp<br />
+		V-2</td>
+</tr>
+<tr>
+<th>fuel</th>
+	<td>400 l<br />
+		gasoline</td>
+	<td>360 l<br />
+		gasoline</td>
+	<td>620 l<br />
+		gasoline</td>
+	<td>620 l<br />
+		gasoline</td>
+	<td>620+170 l<br />
+		diesel</td>
+</tr>
+<tr>
+<th>road speed</th>
+	<td>100 km/h (62 mph)</td>
+	<td>72 km/h (45 mph)</td>
+	<td>86 km/h (53 mph)</td>
+	<td>86 km/h (53 mph)</td>
+	<td>86 km/h (53 mph)</td>
+</tr>
+<tr>
+<th>power:weight</th>
+	<td>39 hp/t</td>
+	<td>35 hp/t</td>
+	<td>36 hp/t</td>
+	<td>34 hp/t</td>
+	<td>31 hp/t</td>
+</tr>
+<tr>
+<th>road range</th>
+	<td>300 km</td>
+	<td>200 km</td>
+	<td>250 km</td>
+	<td>250 km</td>
+	<td>700 km</td>
+</tr>
+<tr>
+<th>tactical range</th>
+	<td>100 km</td>
+	<td>90 km</td>
+	<td>120 km</td>
+	<td>120 km</td>
+	<td>400 km</td>
+</tr>
+</table>
+
+{{VideoYT|jSklu7OatOI}}{{VideoYT|zgvd8iaLy9A}}
+
+|HistAcc=
+The 37 mm ZiS-19 was only developed for the [[T-60]]. R03 BT-7  Its configuration on the BT-7 is fake. R03 BT-7 
+* The 23 mm VJa was only mounted on aircraft like the Il-2. R03 BT-7  Its configuration on the BT-7 is also fake. R03 BT-7 
+
+|HistoricalGallery=
+image:BT-7 tanks on parade. R03 BT-7 jpg ‎{{!}}BT-7 tanks on parade in Moscow
+image:BT-7 Heavy chasis modification. R03 BT-7 jpg{{!}}BT-7 chasis modified into heavy rocket artillery. R03 BT-7 jpg
+image:BT-7 A artillery support tank was a self-propelled gun variant, armed with a 76. R03 BT-7 2 mm howitzer. R03 BT-7 . R03 BT-7 jpg{{!}}BT-7A Artillery support tank was a self-propelled gun variant, armed with a 76. R03 BT-7 2 mm howitzer. R03 BT-7 
+image:BT-7 A-fast-tank-ukraine-1941-01. R03 BT-7 jpg‎{{!}}BT-7A, Ukraine 1941. R03 BT-7 
+image:BT-7 Finnish BT-42 assault gun, built on the BT-7 chassis. R03 BT-7 . R03 BT-7 jpg{{!}}BT-7 Finnish BT-42 assault gun, built on the BT-7 chassis
+image:Bt7. R03 BT-7 jpg{{!}}BT-7
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. R03 BT-7 wwiivehicles. R03 BT-7 com/ussr/tanks-medium/bt-7. R03 BT-7 asp '''BT-7 Light Tank'''] Photos & history. R03 BT-7 
+* [https://english. R03 BT-7 battlefield. R03 BT-7 ru/bt-7. R03 BT-7 html '''BT-7 Light Tank'''] at battlefield. R03 BT-7 ru. R03 BT-7 
+
+}}

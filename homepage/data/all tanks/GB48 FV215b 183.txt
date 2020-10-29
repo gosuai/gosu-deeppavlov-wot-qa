@@ -1,0 +1,123 @@
+
+{{TankData|Tank=GB48_FV215b_183
+|Assault tank based on the Conqueror chassis with a 183mm gun mounted on it. GB48 FV215b 183  The project was cancelled in the 1950s and it never saw military service. GB48 FV215b 183  
+
+Known as the "'''Death Star'''", this tank destroyer is well-known for its apocalyptic gun. GB48 FV215b 183  Especially when loaded with premium shells, this monster is a death sentence to any tank and you must avoid frontal combat with this tank at all costs unless it's reloading. GB48 FV215b 183 
+
+As a downside, the FV215b (183) can only turn its turret 45 degrees either direction. GB48 FV215b 183  The gun has a horrific load time and low ammo capacity, comparable to SPGs, and is not very accurate. GB48 FV215b 183  So as long as you can outmaneuver its gun range you will be able to destroy it. GB48 FV215b 183 
+
+The FV215b (183) was replaced by the [[Tank:GB92_FV217|FV217 Badger]] turretless tank destroyer and became a special vehicle for those who had it before the replacement. GB48 FV215b 183 
+
+|Gallery=
+
+|InTheGame_pros=
+
+- Unbelievable raw gun statistics: mind-boggling damage-per-shot, tied with the [[Tank:GB83_FV4005|FV4005]] for the best basic ammo penetration in the game
+
+- Also tied with [[Tank:GB83_FV4005|FV4005]] for the largest gun caliber of all non-SPGs (183mm), allowing it to overmatch any tanks with sloped armor (Swedish TDs for example)
+
+- HE premium rounds had highest alpha damage and highest penetration of all HE rounds in the game; can one-shot many Tier IX and below tanks
+
+- Very wide fire arc vs other British TDs or even TDs in general, although its turret is not fully traversable. GB48 FV215b 183 
+
+- Fantastic turret armor
+
+|InTheGame_cons=
+
+- Tied with [[Tank:GB83_FV4005|FV4005]] for worst single shot reload time of any TD in the game (28 second with 100% crew)
+
+- Hull armor is unreliable, side armor is very weak and not suitable for face-to-face sidescraping
+
+- Poor gun handling: aim time is pretty long, dispersion bloom from any source is extreme; very poor accuracy and poor gun depression
+
+- With all of the cons stated above,  it's very vulnerable to flanking and hit-and-run. GB48 FV215b 183 
+
+- Very weak roof armor, any hit from SPGs will guarantee either the driver dies, or the engine being damaged. GB48 FV215b 183  Also prone to engine fire due to fuel tanks being placed on the front
+
+- Extremely poor mobility due to poor terrain resistances and p/w ratio, will never reach top speed unless it's downhill
+
+- As a reward tank, the FV215 does not have increased credit income
+
+|InTheGame_performance=
+This vehicle is essentially the tier X counterparts of the [[KV-2]]. GB48 FV215b 183  The 183mm gun is still immensely powerful (currently the most powerful gun in the game after SPG rebalance) and has a turret as well. GB48 FV215b 183  Due to these facts, the vehicle is capable to spread fear and unorganized retreat under its opponents on close and middle distances, making it a quite powerful defensive unit. GB48 FV215b 183  Nevertheless, these advantages are only useful in urban battlefields, where flanking operations are often unavailable for the enemy due to cover from the own team. GB48 FV215b 183  
+
+On open and plain maps players should strictly avoid to lead a push in the first few minutes of a round if they do not want to get blown up by artillery fire and flanking medium or light tanks. GB48 FV215b 183  Furthermore a player should look for good cover, where one can fire from . GB48 FV215b 183  In case of the necessity of a push always stay in the second row and try to get flank cover from other tanks. GB48 FV215b 183  If your teammates do not react or even refuse to cover you, try to use the landscape even more in order to avoid as much direct enemy fire as possible. GB48 FV215b 183  When this is not possible, have an eye on the positions of the enemy and those of your team members and go to positions, from which you have natural cover from your team members (because then they will spot the enemy  before they are able to spot you). GB48 FV215b 183  
+
+In its current version, the FV215b (183) is now able to carry up to twenty shell, which is enough to fill the AP and HE/premium HE(SH) for ammo switch depending on the situlation; firing AP to maximize average damage-per-shot dealt against heavies and some mediums, normal HE against sidescraping opponents or when their weakspots were covered (or, if lucky enough, some tanks with paper-thin armor), its HE(SH) shell had the same behavior as other HE rounds (dealt some damage when hit spaced armor) but with 230mm penetration, which is enough to penetrate most tank's side and roof, and possibly get a penetrating hit and do full damage. GB48 FV215b 183 
+|InTheGame_research= Vehicle is elite in its stock configuration. GB48 FV215b 183 
+
+|InTheGame_equipment= Large-caliber Tank Gun Rammer, Enhanced Gun Laying Drive, Improved Ventilation Class 3
+
+|History=
+
+The story of Britain's most powerful tank destroyer began in late January of 1951, when it was decided to develop a tank destroyer even more powerful than the FV4004 Conway, armed with a 120 mm L1A1 gun. GB48 FV215b 183  It was destined to become the most powerful tank destroyer ever built. GB48 FV215b 183  According to the requirements, it had to confidently penetrate a target with 150 mm of armour at 60 degrees from almost two kilometers away. GB48 FV215b 183  This target was based on the IS-3. GB48 FV215b 183  After appearing at the Victory Parade in 1945, this tank was considered the most dangerous opponent of Western tanks for decades. GB48 FV215b 183 
+
+
+==Anti-IS QF L4 gun and its variants==
+
+In order to meet these requirements, the designers had to find a much more powerful gun than the L1A1. GB48 FV215b 183  The British didn't bother with the small stuff and went right up to a caliber of 7. GB48 FV215b 183 2 inches (183 mm). GB48 FV215b 183  Using such a powerful caliber was no accident. GB48 FV215b 183  This new gun was based on the 183 mm BL 7. GB48 FV215b 183 2 inch Howitzer, which was developed from 8-inch howitzers dating back to World War 1. GB48 FV215b 183  Initially, the howitzer had a barrel length of 22. GB48 FV215b 183 4 calibers, but later versions of the howitzer extended the barrel length to 33. GB48 FV215b 183 1 calibers. GB48 FV215b 183  Unfortunately, even this extension was not enough to fight Soviet tanks. GB48 FV215b 183 
+
+In 1950, work started on the QF L4 gun, the most powerful tank gun in the world. GB48 FV215b 183  The gun weighed a little under 4 tons and had nearly 87 tons of recoil force. GB48 FV215b 183  In order to clear the fighting compartment of propellant fumes, the gun had a fume extractor fitted. GB48 FV215b 183  Only one type of shell was planned for this gun: HESH (High Explosive Squashed Head). GB48 FV215b 183  Not only is the caliber of the L4 stunning, but also the weight of the rounds. GB48 FV215b 183  The propellant was separate from the shell, but this didn't make the loader's job much easier: the mass of the shell was 72 kg, and the mass of the propellant was 32. GB48 FV215b 183 8 kg. GB48 FV215b 183 
+
+The 183mm was tested in live fire trials against a Centurion and a Conqueror. GB48 FV215b 183  In 2 shots, the 183 blew the turret clean off the Centurion, and split the mantlet of the Conqueror in half. GB48 FV215b 183 
+
+On November 9th, 1950, the War Office held a meeting to determine what vehicle this super-powerful gun would be placed on. GB48 FV215b 183  The meeting resulted in four variants:
+
+A fully armoured fighting machine (effectively a tank) with a fully rotating turret. GB48 FV215b 183 
+An SPG with powerful front armour, but a limited traverse angle. GB48 FV215b 183 
+An SPG with a fully rotating turret, but thin armour. GB48 FV215b 183 
+An SPG without armour. GB48 FV215b 183 
+
+==Variant 1/2: FV215==
+
+The contract to develop the first variant went to Morris and was later transferred to Vickers-Armstrong. GB48 FV215b 183  The chassis of the heavy FV200 tank was used, with the suspension from the heavy FV214 Conqueror tank. GB48 FV215b 183  The project had multiple names: Heavy Gun Tank No. GB48 FV215b 183 2, Heavy Anti-Tank SP No. GB48 FV215b 183 2, FV215 Heavy Anti-Tank SP No. GB48 FV215b 183 2 or simply FV215. GB48 FV215b 183  The index Heavy Gun Tank No. GB48 FV215b 183 2 was incorrectly interpreted by historians, resulting in a mythical project called FV215B. GB48 FV215b 183  In reality, all these indices pointed to the same vehicle armed with the 183 mm L4 gun. GB48 FV215b 183 
+
+This project combined the first and second variants. GB48 FV215b 183  Theoretically, the turret could rotate fully, but the gun was limited to firing within a 90 degree arc. GB48 FV215b 183  The turret was placed in the rear in order to prevent the huge barrel from sticking out too far. GB48 FV215b 183  The ammunition capacity was only 20 shells. GB48 FV215b 183  The rate of fire of the tank was supposed to reach 6 RPM. GB48 FV215b 183  but whoever set that requirement was a hopeless optimist. GB48 FV215b 183  The size of the turret did not allow for a loading mechanism, and loading that quickly by hand was not possible. GB48 FV215b 183  Aside from the gun, the tank had two machineguns. GB48 FV215b 183  One was a coaxial Browning . GB48 FV215b 183 30 Cal. GB48 FV215b 183  (7. GB48 FV215b 183 62mm) machine gun, supplied by 4000 rounds. GB48 FV215b 183  It was mounted in a small structure on the forward right of the turret roof. GB48 FV215b 183  The other machine gun was an . GB48 FV215b 183 50 cal (12. GB48 FV215b 183 7 mm) M2HB on an AA mounting above the Loader’s hatch, on the right rear of the turret. GB48 FV215b 183 
+
+The 65 ton vehicle was supposed to accelerate to 31. GB48 FV215b 183 7 kph. GB48 FV215b 183  In order to achieve this, the tank would have an 810 hp Meteor Mk. GB48 FV215b 183 12 engine. GB48 FV215b 183  As for the armour, it kept changing throughout the development process. GB48 FV215b 183  The thickness of the upper front plate varied between 125 and 152 mm, the sides were 50 mm thick (plus spaced armour). GB48 FV215b 183  As for the turret, the specification was only for the front, which was 254 mm (10 inches) thick. GB48 FV215b 183 
+
+The FV215 Heavy Anti-Tank SP No. GB48 FV215b 183 2 was not meant to be. GB48 FV215b 183  Morris was supposed to first build a full scale model and then two prototypes: one for mobility trials and one as a target for armour testing. GB48 FV215b 183  In June of 1954, Vickers-Armstrong, the new owner of the contract, was given the same task. GB48 FV215b 183  Development of the SPG continued until January of 1957. GB48 FV215b 183  At that point, the full scale model and 80% of the blueprints were ready. GB48 FV215b 183  But, the War Office got its own Khrushchev and the development of the FV215 Heavy Anti-Tank SP No. GB48 FV215b 183 2 was shut down in favour of ATGMs. GB48 FV215b 183 
+
+|HistoricalGallery=
+File:FV215_blueprint. GB48 FV215b 183 jpg{{!}}Original blueprint of the FV215
+File:FV215_blueprint2. GB48 FV215b 183 jpg{{!}}Whitened and enhanced blueprint
+image:FV215b (183) 1. GB48 FV215b 183 jpg{{!}}Wooden mock-up of the FV215. GB48 FV215b 183  Despite the caption, the "b" in FV215b was due to confusion over the FV215 project's many names. GB48 FV215b 183 
+File:FV215_mock-up_1. GB48 FV215b 183 jpg{{!}}Close-up of the forward deck on the FV215 mock-up. GB48 FV215b 183  Courtesy of Ed Francis
+File:FV215_mock-up_2. GB48 FV215b 183 jpg{{!}}Mock-up of the ammunition storage in the turret of the FV215. GB48 FV215b 183  Courtesy of Ed Francis
+File:FV215_mock-up_3. GB48 FV215b 183 jpg{{!}}Commander's position on the FV215 mock-up. GB48 FV215b 183  Courtesy of Ed Francis
+File:Miniature_FV215_mock-up. GB48 FV215b 183 jpg{{!}}Miniature version of the FV215 mock-up
+File:FV215_mock-up_4. GB48 FV215b 183 jpg{{!}}Frontal view of the miniature FV215 mock-up
+
+|HistAcc=
+The "(183)" is only used as in-game name to distinguish it from the [[FV215b]] heavy tank which is completely fictional. GB48 FV215b 183  However, the actual designation wasn't FV215b, but just FV215. GB48 FV215b 183 
+* The 183 mm gun was only meant to fire HESH rounds. GB48 FV215b 183  The AP and HE shell configurations are fake. GB48 FV215b 183 
+* Its actual planned engine is Rover M120 No. GB48 FV215b 183  2 Mk. GB48 FV215b 183  1, which produced 810 hp, its in-game configulation with Rolls-Royce Meteor engine is fake. GB48 FV215b 183 
+* Due to "balancing" reasons, the premium HESH round type was changed into HE so that it can inflict damage to enemy tanks even if it hits spaced armor. GB48 FV215b 183 
+
+
+|Ref_references=N/A
+
+|Ref_sources=
+* Bill Munro, The Centurion Tank, The Crowood Press Ltd, 2005
+* David Flether, The Big Gun Centurions, Classic Military Vehicles, 10–2012, Key Publishing Ltd. GB48 FV215b 183 
+* Bovington Tank Museum
+
+|Ref_links=
+* https://warspot. GB48 FV215b 183 ru/4393-britanskiy-ispolin-protivotankovaya-183-mm-sau-fv4005
+* https://tankarchives. GB48 FV215b 183 blogspot. GB48 FV215b 183 co. GB48 FV215b 183 uk/2016/02/british-colossus-fv4005. GB48 FV215b 183 html?m=1
+* https://www. GB48 FV215b 183 tanks-encyclopedia. GB48 FV215b 183 com/cold-war-british-prototypes/fv215-heavy-gun-tank/
+* https://overlord-wot. GB48 FV215b 183 blogspot. GB48 FV215b 183 com/2017/07/the-biggest-gun-in-west. GB48 FV215b 183 html
+
+|Sidebar_Camostop=10. GB48 FV215b 183 3
+|Sidebar_Camomove=6. GB48 FV215b 183 3
+|Sidebar_Camofire=2. GB48 FV215b 183 0
+|Sidebar_Passhard=1. GB48 FV215b 183 151
+|Sidebar_Passmed=1. GB48 FV215b 183 342
+|Sidebar_Passsoft=2. GB48 FV215b 183 301
+|Sidebar_DispTurret=0. GB48 FV215b 183 384
+|Sidebar_DispRecoil=5. GB48 FV215b 183 753
+|Sidebar_DispAccel=0. GB48 FV215b 183 249
+|Sidebar_DispTurning=0. GB48 FV215b 183 249
+}}
+
+[[Category:British Tanks]]

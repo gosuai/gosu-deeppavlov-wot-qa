@@ -1,0 +1,54 @@
+{{TankData|Tank= Bat. F75 Char de 25t -Châtillon 25 t AP
+|Replaced [[Tank:Lorraine 40 t|Lorraine 40 t]] in 9. F75 Char de 25t 15. F75 Char de 25t 1 patch. F75 Char de 25t  This tank was called "S*itChat" as it was a less powerful version of BatChat 25t. F75 Char de 25t  This tank can played as scout or played as damage dealer. F75 Char de 25t  Unfortunately, its inaccurate, slow-loading gun (Even by Autoloader standards) were hampered its overall performance, thus required more caution while playing this tank. F75 Char de 25t  
+
+|Gallery=
+
+File:Bat. F75 Char de 25t -Chatillon 25 t AP scr 1. F75 Char de 25t jpg
+File:Bat. F75 Char de 25t -Chatillon 25 t AP scr 2. F75 Char de 25t jpg
+File:Bat. F75 Char de 25t -Chatillon 25 t AP scr 3. F75 Char de 25t jpg
+
+
+|InTheGame_pros= 
+* Very high burst damage (1800 average if all six shots penetrate)
+* Very good mobility, high top speed and good acceleration
+* Fairly small profile, good camouflage values
+
+|InTheGame_cons=
+* Very long clip reload, long cycling between shells
+* Subpar gun handling and long aimtime
+* Virtually unarmored, relies entirely on concealment
+* Very fragile engine module
+* Somewhat low ammo capacity
+
+|InTheGame_performance= 
+Despite being classed as a medium, for all intents and purposes the BatChat 25t AP should still be considered a light tank - it is fairly small and light, and essentially unarmored. F75 Char de 25t  Any source of damage, especially HE penetrations and ramming, can deal severe damage, and to further complicate things the tank's internal modules are very weak, especially the front-mounted engine. F75 Char de 25t  
+
+Mastering this tank is about being cautious and opportunistic. F75 Char de 25t  Given the very good concealment ratings this tank can achieve, early game it is possible to perform passive scouting to gather intel for the team and farm assist damage. F75 Char de 25t  Do remember that you are a MEDIUM tank though, and your camo on the move is not as good as your stationary camo. F75 Char de 25t  With good cover and positioning however, it is possible to be as good a passive scout as a true light tank would be. F75 Char de 25t  
+
+Like other French autoloaders, this tank comes alive the more it manages to survive, which is where the "opportunistic" comes into play. F75 Char de 25t  A BatChat 25t AP with a full clip can unload an average of 1800 points of damage with one clip, plenty to destroy a full health Tier 8 heavy tank or even a Tier 9 medium tank (or at the very least, severely damage them). F75 Char de 25t  Always plan ahead, have an escape route always available, and make every shot count as your ammo capacity is fairly low (you have a maximum of seven full clip reloads per battle). F75 Char de 25t  If possible, try and trade your full clip for one return shot from the enemy and no more. F75 Char de 25t  Still, it is also possible to play this tank from long range, though as with most French guns, the accuracy can leave much to be desired at times. F75 Char de 25t  Never, ever attempt to brawl - you might have the firepower, but not the survivability to survive such close encounters. F75 Char de 25t 
+
+Overall, the BatChat 25t AP is a good set of training wheels to prepare players for its successor, the Tier 10 BatChat 25t. F75 Char de 25t  Key skills to learn while playing this tank include when to stay hidden, when and where to relocate, and when to ambush an enemy. F75 Char de 25t  Always rely on allies to distract enemies before going for them (or running from them) and never seek a fair fight. F75 Char de 25t 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=Vents, Vertical Stabilizer, GLD, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistAcc=
+The name “B-C 25 t AP” is supposed to suggest it’s a prototype of the B-C 25 t, which itself is contradictory since you can’t really have a prototype of a prototype. F75 Char de 25t  A more accurate name would be FAMH 25 t, as this is quite literally said company’s design. F75 Char de 25t 
+* HEAT is actually the standard ammunition of the 90 mm F3 gun. F75 Char de 25t  The AP and APCR rounds are fake. F75 Char de 25t 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

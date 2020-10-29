@@ -1,0 +1,65 @@
+{{TankData|Tank=T-46
+|Unlike the [[T-26]], this tank has decent acceleration and speed, as it's actually a T-26 with a [[BT-2]] suspension. R22 T-46  While it still possesses weak armor, it gains access to some considerably superior weapons; an accurate 45mm cannon, a quick-firing 37mm autocannon, and a hard-hitting 76mm howitzer that can deal massive damage to the enemy. R22 T-46  It excels at flanking and supporting allied movements. R22 T-46  
+
+|Gallery=
+image:T46-a. R22 T-46 jpg{{!}}Front right
+image:T46-b. R22 T-46 jpg{{!}}Front left
+image:T46-c. R22 T-46 jpg{{!}}Rear right
+image:T46-d. R22 T-46 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Good turret traverse speed
+* Good mobility and agility
+* Excellent gun selection
+* 76mm howitzer is very powerful for its tier
+* 37mm autocannon tears apart tanks of the same tier and below
+
+|InTheGame_cons=
+* Paper thin armor
+* Relatively long aim time
+* Short signal range
+* Low accuracy with the 76 mm L-10
+* Atrocious penetration with the 37mm autocannon, unable to reliably pen tier 5 heavy tanks
+* Semi-poor view range
+
+|InTheGame_performance=
+The T-46 offers a good combination of speed and firepower, but has no noticeable armor at all. R22 T-46  Its speed and acceleration is on par with the faster tier 3 tanks like the [[Pz. R22 T-46 Kpfw. R22 T-46  III Ausf. R22 T-46  A]], the [[M3 Stuart]], and the [[Cruiser Mk. R22 T-46  IV]], but it has problems keeping up with the [[BT-7]] or [[Pz. R22 T-46 Kpfw. R22 T-46  I Ausf. R22 T-46  C]]. R22 T-46  Its gun selection includes the accurate and high penetration 45mm VT-42 (the third highest penetration of any tier III light tank), the 76mm L-10 close range howitzer (on par with the 75mm KwK 37), and the 37mm Automatic SH-37. R22 T-46  The best gun for this tank depends on personal play style and preferences, as it can be played successfully with any of the three. R22 T-46 
+
+|InTheGame_research=
+* The 37mm ZiS-19 gun carries over from the T-26. R22 T-46  Install it immediately. R22 T-46 
+* All upgraded modules can be used without upgrading the suspension. R22 T-46 
+* If you prefer a more supportive play style, research the second turret and then the 45mm gun. R22 T-46 
+* If you prefer a more aggressive play style, research the second engine, then the turret, and then either the 76mm or the autocannon. R22 T-46 
+* If you want to reach the T-28 as fast as possible, you can skip the 10R radio, because it is the KV-1's stock radio and will be researched automatically with the tank, and since it only adds 60m range compare to the stock radio so is generally not advised to spent that experience for. R22 T-46 
+* Go from there. R22 T-46 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer
+
+|History=
+[[image:T46 1. R22 T-46 jpg|thumb|200px|left|T46-1 prototype]]
+The T-46 Light Tank was developed in an attempt to improve the mobility of the T-26, the most numerous Soviet tank from the mid-1930s until the German invasion of 1941. R22 T-46  The T-26 suspension consisted of eight small road wheels carried in pairs on small bogies. R22 T-46  The bogies were supported in pairs by leaf springs. R22 T-46   This was less effective than the Christie suspension used on the BT series of fast tanks, and so in 1935, S. R22 T-46  Ginzburg of the OKMO team at Zavod No. R22 T-46 185 was ordered to produce a new version of the T-26 using the Christie suspension. R22 T-46  A small production run of seventy tanks was planned. R22 T-46 
+
+The project was abandoned after the production of a number of prototypes (or possibly of all seventy tanks from the first production run). R22 T-46  The T-46 proved to be too complex to mass produce (a flaw that would also cause the failure of the T-25). R22 T-46  It also offered little or no benefit over the BT series tanks. R22 T-46  Ginzburg and his team were ordered to concentrate on improving the design of the T-26, and produced the T-26S Model 1937. R22 T-46  
+
+One brigade is known to have used some of the existing T-46s during the fighting in Finland in 1940, where the Red Army suffered a humiliating setback. R22 T-46  A few T-46 prototypes were deployed in October 1941 as one of the desperate measures to stop the German advance to Moscow. R22 T-46  Although it is not clear weather these T-46s ever engaged in actual combat, they were used in a static defense line. R22 T-46  With wheels and tracks removed and buried into the ground, emerging turrets had the role of a static pillbox. R22 T-46  
+
+|HistAcc=
+The 45 mm 20K was the T-46's only main armament. R22 T-46  All other gun configurations are fake. R22 T-46 
+* MT-5 engine is more powerful than in reality, with 350 hp compared to the historical 330. R22 T-46 
+
+|HistoricalGallery=
+image:T-46 img2. R22 T-46 jpg ‎{{!}}T-46-1 prototype
+image: T-46 Rear view. R22 T-46 jpg ‎{{!}}T-46-1 prototype
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. R22 T-46 wwiivehicles. R22 T-46 com/ussr/tanks-light/t-46. R22 T-46 asp '''T-46 Light Tank'''] Photos & history. R22 T-46 
+
+}}

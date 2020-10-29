@@ -1,0 +1,70 @@
+{{TankData|Tank=M37
+|While the hull is a conversion of the [[M24 Chaffee]], unfortunately the extra weight means it retains little of the original vehicle's maneuverability. A17 M37  The initial acceleration and hull traverse rate are very poor. A17 M37   The gun should be the first upgrade as the suspension will handle the weight. A17 M37  Upgrading the gun will allow you to fire almost across the map (the increased range isn't listed on the in-game stats). A17 M37  Despite the vehicle's flaws, both 105mm guns hit very hard for their tier and allow the M37 to punch above its weight in heavier battles. A17 M37  Another important thing to note is the M37's extremely wide gun traverse arc of 52 degrees, which, along with the [[GW Panther]], gives it the widest gun traverse arc in the game for an SPG without a traversable turret. A17 M37  
+
+As of the 8. A17 M37 6 update the M37 has been bumped up to tier 4, with the previously tier 4 [[M7 Priest]] taking its place. A17 M37 
+
+|InTheGame_pros=
+* Gun range: stock: 650 m, top: 990 m 
+* Excellent ammo capacity
+* High top speed
+* Good firing range with the top gun
+* Excellent signal range
+* Very wide gun traverse arc
+* Surprisingly good gun depression
+
+|InTheGame_cons=
+* Slow traverse speed
+* Large dispersion while turning/moving
+* Tiny splash damage radius
+* Rather poor accuracy, but on par for its tier
+* Somewhat large target, hard to camouflage and easy to hit
+* Stock gun has slow velocity
+
+|InTheGame_performance=
+The M37 has moved up a tier, being the M7's historical successor. A17 M37  Mounting similar guns as the M7 Priest a tier below, the M37 shoots much faster than the M7 Priest with ridiculous amounts of ammunition. A17 M37  By not needing to get so close to the action, the minimal armor becomes far less of an issue. A17 M37  This Artillery has the same damage, penetration and firing range as the [[Wespe]] and [[Lorraine39 L AM]], but it carries far more ammunition and has a much wider gun arc, making it superior in this aspect. A17 M37  The massive ammo supply allows liberal use of guess work when firing at unseen targets, a definite advantage over the limited ammo capacity of other SPGs. A17 M37  With that said, the M37 is arguably the best of the normal tier IV artillery pieces. A17 M37  The [[Birch Gun]] has a much faster firing gun with far less damage and a fully traversable turret, and the Sturmpanzer II lobs larger, heavier, more powerful shells at a higher ammo cost, worse accuracy and worse rate of fire. A17 M37 
+
+Being based on the M24 Chaffee's chassis, the M37 is reasonably fast, although the removal of its top engines hampers its acceleration. A17 M37 
+
+|InTheGame_research=
+* Unfortunately, no modules are carried over from the M7 Priest. A17 M37 
+* If you have played the M24 Chaffee before, you are able to mount the top engine. A17 M37  The radio can also be researched from the turreted tank destroyer line, and the T69. A17 M37 
+* Research the 105 mm Howitzer M4 first for improved RoF, accuracy, and much-improved range. A17 M37 
+* Research the upgraded suspension afterward for added traverse speed and weight capacity. A17 M37 
+* Go from there. A17 M37 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+image:M37_001. A17 M37 jpg{{!}}M37_001
+image:M37_002. A17 M37 jpg{{!}}M37_002
+image:M37_003. A17 M37 jpg{{!}}M37_003
+image:M37_004. A17 M37 jpg{{!}}M37_004
+
+|History=
+[[image:M37_Aberdeen. A17 M37 png|thumb|200px|right|105mm Howitzer Motor Carriage M37 at Aberdeen proving ground]]
+The 105mm HMC M37 was based on a lengthened chassis of the M24 Chaffee light tank, and the vehicle was modified much the same way as the 105mm HMC M7, which used the medium tank M3 or M4 chassis. A17 M37  The M4 105mm howitzer was the same as that used in the howitzer-armed Shermans, and was mounted on the M37 to the right of the carriage's centerline, replacing the assistant driver's position. A17 M37  The . A17 M37 50cal machine gun ring mount was to the right of the howitzer mount. A17 M37 
+
+'''Manufacturers'''
+* American Car & Foundry Co. A17 M37 
+* Cadillac Motor Car Division of General Motors Corp. A17 M37 
+
+|HistoricalGallery=
+image:Spanish Army M37 105 mm howitzer. A17 M37 jpg{{!}}Spanish Army M37 105 mm howitzer. A17 M37  The vehicle is based on a m24 Chaffee chasis
+image:M37 105mm Howitzer Motor Carriag. A17 M37 jpg{{!}}M37 105mm Howitzer Motor Carriage. A17 M37 
+image:M37_top. A17 M37 png{{!}}M37 Howitzer Motor Carriage top view. A17 M37  Note the ammunition storage on the left side of the vehicle
+image:M37 105mm Howitzer Motor Carriage (HMC) is moved from Aberdeen Proving Ground 6 August 2009. A17 M37 jpg{{!}}M37 105mm Howitzer Motor Carriage (HMC) during relocation moved from Aberdeen Proving Ground. A17 M37  August 6th. A17 M37  2009
+
+|Ref_references=
+
+
+|Ref_sources=
+* Hunnicutt, R. A17 M37 P. A17 M37  Stuart: A History of the American Light Tank, volume 1. A17 M37  Navato, CA: Presidio Press, 1992. A17 M37 
+Reprinted with permission from Stuart, R. A17 M37 P. A17 M37  Hunnicutt ©1992, available from Presidio Press, 505B San Martin Drive, Suite 160, Navato, CA 94945. A17 M37 
+* Chamberlain, Peter, and Chris Ellis. A17 M37  British and American Tanks of World War Two. A17 M37  Frome, England: Cassell & Co. A17 M37 , 2000. A17 M37 
+* Halberstadt, Hans. A17 M37  Inside the Great Tanks. A17 M37  Huddersfield, England: The Crowood Press, Ltd. A17 M37 , 1997. A17 M37 
+* Siemers, Cary. A17 M37  "USA's M7, M7B1, M37 105 mm Self Propelled Howitzer. A17 M37 " World War II Tanks & Vehicles and Advanced Squad Leader. A17 M37  11 Feb 2001. A17 M37  18 Feb 2001 
+|Ref_links=
+
+* [[https://www. A17 M37 primeportal. A17 M37 net/artillery/david_lueck/m37_105mm_hmc/ Nice Walk around look at the M37]]
+}}

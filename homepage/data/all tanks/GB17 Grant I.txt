@@ -1,0 +1,70 @@
+{{TankData|Tank=GB17_Grant_I
+|
+
+|Gallery=
+
+File:Grant scr 1. GB17 Grant I jpg
+File:Grant scr 2. GB17 Grant I jpg
+File:Grant scr 3. GB17 Grant I jpg
+
+
+|InTheGame_pros=
+* Good gun selection and great rate of fire 
+* Superior survivability over [[Tank:M3_Grant|M3 Lee]]: superstructure turret is smaller, and its front is stronger. GB17 Grant I 
+* Top engine has very high durability
+* Top engine only gives 10 extra hp, so it can be skipped. GB17 Grant I 
+* 75mm gun M3 can overwhelm even some tier fives
+|InTheGame_cons=
+* Forced to fight at range, due to to limited gun traverse and large profile. GB17 Grant I  Armour is mediocre at close ranges. GB17 Grant I 
+* Accuracy is below average, though still works in its tier. GB17 Grant I 
+* High silhouette, which makes hiding behind rocks difficult. GB17 Grant I  Worse camo than [[Tank:R06_T-28|T-28]]. GB17 Grant I 
+* Top engine is nearly five times heavier, worsening its power/wt ratio if equipped
+* Premium rounds for 75mm guns give little boost in performance and are simply a waste of credits. GB17 Grant I 
+|InTheGame_performance=
+This tank fights best at the edge of render range, preferably on flat ground with a spotter. GB17 Grant I  This allows it to actually survive without being taken out quickly, due to its large silhouette. GB17 Grant I  While the accuracy is poor, the rate of fire more than compensates for this. GB17 Grant I  Cheap ammo also encourages this type of gameplay. GB17 Grant I 
+However, in a contradictory fashion, it can also excel at close range urban combat, which negates it's abhorrent accuracy. GB17 Grant I  In the cities, you also don't need to be as concerned with your large profile, especially if the terrain is flat. GB17 Grant I  Here, in the cities, your strange gun mounting actually can help, as you can position just your gun around a left corner. GB17 Grant I  But likewise, turning a corner on your right will result in the entire tank being exposed before the gun can be brought to bear. GB17 Grant I  
+
+Compared to the M3 Lee this tank is far superior. GB17 Grant I  Notably it is far more survivable as the superstructure turret has been redesigned. GB17 Grant I  The armour has been thickened to 80mm effective thickness after sloping, and the profile has been improved as this tank is without a tumourous commander's cupola (yet, it sports improved view range). GB17 Grant I  Additionally, the British 6-pound gun has higher penetration and powerful APCR rounds, able to pen tier 5s and 6s tanks much more reliably than the American low-velocity 75mm guns, meaning that this tank has a chance of success once it has been spotted and engaged. GB17 Grant I  However, the 6-pounder has lower dpm than 75mm M3 gun (1800 compare to 2200) and is further inhibited by the fact that it reloads before it aims. GB17 Grant I  Its low alpha damage also makes its premium rounds a very expensive thing to play with. GB17 Grant I 
+|InTheGame_research=
+* The top radio carries over from other british tanks for the grant. GB17 Grant I  Mount it immediately if you have it. GB17 Grant I  If not mount the radio you can currently mount on the tank. GB17 Grant I 
+* Next, research the 6-pdr gun. GB17 Grant I  This gun is considered the best gun for the Grant,as it has the best pentration values with APCR and the best dpm. GB17 Grant I 
+* Research the tracks to be able to mount anything else on the grant or use equipment and for better traverse speed. GB17 Grant I 
+* If you do not wish to elite the Grant and/or mount equipment on it, it is recommended to just research the 90 mm M3 gun to be able to research and grind the Sherman III from there on and skip the tracks. GB17 Grant I 
+* If you do, just go from the tracks to research all other modules, but don't mount the top engine. GB17 Grant I  It will not do you good. GB17 Grant I 
+
+
+
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+Though not at war, the U. GB17 Grant I S. GB17 Grant I  was willing to produce, sell and ship armored vehicles to Britain. GB17 Grant I  The British had requested that their Matilda and Crusader tank designs be made by American factories, but this request was declined. GB17 Grant I  With much of their equipment left on the beaches near Dunkirk, the equipment needs of the British were acute. GB17 Grant I  Though not entirely satisfied with the design, they ordered the M3 in large numbers. GB17 Grant I  British experts had viewed the mock-up in 1940 and identified features which they considered flaws — the high profile, the hull mounted main gun, the lack of a radio in the turret (though the tank did have a radio down in the hull), the riveted armor plating (whose rivets tended to pop off inside the interior in a deadly ricochet when the tank was hit by a non-penetrating round), the smooth track design, insufficient armor plating and lack of splash-proofing of the joints. GB17 Grant I [7] The British desired modifications for the tank they were purchasing, including the turret being cast rather than riveted. GB17 Grant I  A bustle was to be made at the back of the turret to house the Wireless Set No. GB17 Grant I  19 radio. GB17 Grant I  The tank was to be given thicker armor plate than the original U. GB17 Grant I S. GB17 Grant I  design, and the machine gun cupola was to be replaced with a simple hatch. GB17 Grant I  With these modifications accepted the British ordered 1,250 M3s. GB17 Grant I  The order was subsequently increased with the expectation that when the M4 Sherman was available it could replace part of the order. GB17 Grant I  Contracts were arranged with three U. GB17 Grant I S. GB17 Grant I  companies. GB17 Grant I  The total cost of the order was approximately 240 million US dollars. GB17 Grant I  This equaled the sum of all British funds in the US. GB17 Grant I  It took the Lend-Lease act to solve the United Kingdom's shortfall. GB17 Grant I 
+
+The prototype was completed in March 1941 and production models followed with the first British specification tanks produced in July. GB17 Grant I  Both U. GB17 Grant I S. GB17 Grant I  and British tanks had thicker armor than first planned. GB17 Grant I [8] The British design required one fewer crew member than the US version due to the radio in the turret. GB17 Grant I  The U. GB17 Grant I S. GB17 Grant I  eventually eliminated the full-time radio operator, assigning the task to the driver. GB17 Grant I  After extensive losses in Africa and Greece the British realized that to meet their needs for tanks both the Lee and the Grant types would need to be accepted. GB17 Grant I  Some of the tanks had their turret guns replaced with the 2 pounder, and the hull gun with the 6 pounder. GB17 Grant I 
+
+The U. GB17 Grant I S. GB17 Grant I  military used the "M" (Model) letter to designate nearly all of their equipment. GB17 Grant I  When the British Army received their new M3 medium tanks from the US, confusion immediately set in,[9] as the M3 medium tank and the M3 light tank were identically named. GB17 Grant I  The British Army began naming their American tanks after American military figures, although the U. GB17 Grant I S. GB17 Grant I  Army never used those terms until after the war. GB17 Grant I [10] M3 tanks with the cast turret and radio setup received the name "General Grant", while the original M3s were called "General Lee", or more usually just "Grant" and "Lee". GB17 Grant I  The M3 brought much-needed firepower to British forces in the North African desert campaign. GB17 Grant I 
+{{VideoYT|_p7eJr0grTc}}{{VideoYT|Pu8NwLls7PY}}
+
+|HistAcc=
+Historical turret-mounted 37mm M5/M6 gun is missing. GB17 Grant I  The turret with the gun is visible on the in-game model, but due to the lack of multi-turret controls in World of Tanks the gun is unusable and merely serves as a hitbox. GB17 Grant I 
+* The 6-pdr gun configuration is fictitious. GB17 Grant I 
+* Uses the same General Motors 6046 diesel engine as the [[M10 Wolverine]]. GB17 Grant I  However, their horsepower and weight values are inconsistent. GB17 Grant I  The British equivalent of the engine actually has the historical values. GB17 Grant I 
+
+|HistoricalGallery=
+Grant. GB17 Grant I jpg{{!}}Grant tank passing a Pz. GB17 Grant I Kpfw. GB17 Grant I  I wreck in North Africa on 6 June 1942
+Grant (2). GB17 Grant I jpg{{!}}General Bernard Montgomery beside a Grant tank near Tripoli, Libya on 27 January 1943
+Grant (3). GB17 Grant I jpg{{!}}Montgomery's Grant II command tank in Italy on 27 September 1944
+GrantandLee. GB17 Grant I jpeg{{!}}British M3 Grant (left) and Lee (right) in the Western Desert, 1942, showing differences between the larger British turret and the original design. GB17 Grant I 
+
+|Ref_references=
+
+|Ref_sources=
+https://en. GB17 Grant I wikipedia. GB17 Grant I org/wiki/M3_Lee#British_variants
+
+|Ref_links=
+
+}}

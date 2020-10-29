@@ -1,0 +1,98 @@
+{{TankData|Tank=VK3001H
+|'''Note:''' this tank was changed from a Heavy to a Medium in Update 1. G13 VK3001H 9. G13 VK3001H 
+
+This tank was slow for a Tier 5 heavy, and is now the slowest of the Tier 5 mediums, though its armor is far more comparable to its peers that it was as a heavy. G13 VK3001H  Unfortunately, to be able to mount the 7,5 cm Waffe gun, the turret has to be upgraded, which will noticeably decrease the power/weight ratio and traverse speed of the tank due to the added weight. G13 VK3001H  This tank is recommended for mid-range encounters, as the relatively accurate and highly penetrating 7,5 cm Waffe proves extremely effective against even tier 7 tanks. G13 VK3001H  Just make sure you have backup. G13 VK3001H  This tank is a very good for learning more advanced defensive tactics: it has decent hull down potential with above average gun depression of 8 degrees, and can easily diamond-angle (angle to the maximum of up to 45 degrees, although the tank is rather long). G13 VK3001H 
+
+|Gallery=
+
+|InTheGame_pros=
+* Huge gun selection; this tank can unlock nearly every mid-tier German gun
+* Insane penetration on the top gun; best penetration and accuracy of all tier 5 mediums with very high shell velocity
+* Long engagement range; amazing accuracy and one of the highest view ranges of all tier 5 mediums (only behind the Shermans)
+* Effective hull-down fighter, and able to diamond-angle and sidescrape effectively due to thick tracks and side armor
+* Highest HP of all Tier 5 medium tanks
+
+|InTheGame_cons=
+* Sluggish hull and turret traverse, poor top speed, and low power/weight ratio
+* Engine frequently gets damaged from frontal hits, although much rarer than later tanks in the Tiger line
+* Long guns have slightly worse aim time than other 7,5 cm guns
+* Prone to being ammo racked. G13 VK3001H 
+
+|InTheGame_performance=
+This tank should be played as a sniper, preferably hull-down, to make use of the excellent turret and above-average gun depression. G13 VK3001H  Because of the terrible hull armour, you cannot poke and sidescraping can be risky, so you must learn good strategic positioning. G13 VK3001H  Poking tricks can be learned later once you have decent alpha, side armour, and knowledge of the fundamentals. G13 VK3001H  The playstyle of this tank can be compared to [[Tiger]], [[VK 30. G13 VK3001H 02 (M)]] or [[Panther]], and this tank will prepare you for future German tanks. G13 VK3001H 
+
+For open terrain, you will likely get the top turret. G13 VK3001H  However, this makes the tank very slow, so it is imperative you fit binoculars or optics when you make the transition. G13 VK3001H  From there you will want one of the long-barreled guns - the slower fire rate, but better accuracy allows you to be more consistent at longer ranges. G13 VK3001H  However, take note of the reduction of gun depression by 2 degrees to a final value of 8 degrees. G13 VK3001H  A gun laying drive can be of use and reduces your vulnerability when spotted, or in a solo situation. G13 VK3001H 
+
+For players that favor close-ranged combat, the 10. G13 VK3001H 5cm gun is a good option with its high damage output per shell. G13 VK3001H  However you will have to deal with the cons of this vehicle in order to use this gun effectively. G13 VK3001H  This gun can be used to good effect in urban environments with ranges limited from 50 to 100 meters. G13 VK3001H  Just be sure to aim for the weak spots and have some support when reloading. G13 VK3001H  Also, if you do use the howitzer, the AP ammo is a waste of time and money because of the low penetration and accuracy. G13 VK3001H  With HE shells, you can deal splash damage even if you do not penetrate. G13 VK3001H 
+
+|InTheGame_research=
+* The '''5 cm Kw. G13 VK3001H K. G13 VK3001H  39 L/60''' and '''FuG 12''' radio carry over from the Pz. G13 VK3001H  III J and should be installed immediately. G13 VK3001H 
+* First, research the '''7,5 cm Kw. G13 VK3001H K. G13 VK3001H  40 L/70''' for a serious upgrade to firepower. G13 VK3001H 
+* Next, research the '''VK 30. G13 VK3001H 01 (H) verstärkteketten''' suspension and '''VK 36. G13 VK3001H 01 (H)''' turret. G13 VK3001H 
+* Research the '''10,5 cm Kw. G13 VK3001H K. G13 VK3001H  L/28''' for another boost to firepower. G13 VK3001H 
+* Research the '''Maybach HL 190''' and '''Mayback HL 150''' engines for a much-needed horsepower increase. G13 VK3001H 
+* Make your way through the '''7,5 cm Kw. G13 VK3001H K. G13 VK3001H  40 L/48''' to get the '''7,5/5,5 cm Waffe 0725'''. G13 VK3001H 
+* Finally, research the '''7,5 cm Kw. G13 VK3001H K. G13 VK3001H  42 L/70'''. G13 VK3001H 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox
+
+|History=
+[[image:Vk3001_h_during_testing_. G13 VK3001H Note_the_concrate_rings_to_simulate_the_weight_of_the_turret. G13 VK3001H jpg|thumb|200px|left|VK 30. G13 VK3001H 01(H) prototype during tests. G13 VK3001H  Note the concrete rings to simulate the weight of the turret. G13 VK3001H jpg]] 
+
+VK 30. G13 VK3001H 01 (H) is a further development of the Durchbruchswagen concept. G13 VK3001H  The DW vehicles (DW1 and DW2) were – as their name in German suggests – attempts to create a breakthrough tank (in other words, essentially a heavy tank). G13 VK3001H  On September 9, 1938, it was decided to continue with the DW 30 ton category development. G13 VK3001H  On January 1, 1939, Krupp decided that the new vehicle should be equipped with a 75mm L/24 cannon, the crew should be equal to that of Panzer IV and the tank should have 50mm armor all around. G13 VK3001H  On January 31, 1939, this new vehicle program was renamed to Panzerkampfwagen VI (7,5cm), but the new experimental designation for it was VK 30. G13 VK3001H 01 (experimental/tracked vehicle, 30 tons, 1st prototype). G13 VK3001H  At the same time, the old DW projects were renamed to VK 30. G13 VK3001H 01 (Alte Konstruktion), while the new VK 30. G13 VK3001H 01 was referred to as “Neue Konstruktion” (new design). G13 VK3001H 
+
+Design-wise, it was a classical German tank, with typical Henschel suspension that would eventually evolve into the Tiger suspension via VK 36. G13 VK3001H 01. G13 VK3001H  The roadwheels had torsion bar suspension. G13 VK3001H 
+
+3 prototypes were ordered. G13 VK3001H  The hulls were made by Krupp in Essen and delivered to Henschel in Kassel for final assembly in 1940. G13 VK3001H  Turrets were also ordered and Krupp was supposed to deliver them in 1940. G13 VK3001H  However, these came later and most likely were never installed on any prototype machines. G13 VK3001H  The three prototypes instead had a concrete cube installed instead of the turret to simulate the turret weight. G13 VK3001H  The vehicles were equipped with 300hp Maybach HL116 engines and their maximum road speed was 35km/h. G13 VK3001H 
+
+On May 25, 1941, the first order for 8 0-series VK 30. G13 VK3001H 01 (H) tanks was signed. G13 VK3001H  Between October 1941 and January 1942, Henschel also recieved the 8 turrets from Krupp that were to be mounted on the 0-series vehicles. G13 VK3001H  The first 0-series hull was delivered on August 8, 1941, and on November 15, 1941, the first 0-series VK 30. G13 VK3001H 01 (H) (with a mounted turret) was tested in Sennelager. G13 VK3001H  This first 0-series VK 30. G13 VK3001H 01 (H) was by no means finished, however, (some components were missing) and it was sent back to Henschel. G13 VK3001H  The last hull was delivered on November 10, 1941 and the last turret on January 21, 1942. G13 VK3001H  Maybach also built 18 engines in total for the VK 30. G13 VK3001H 01 between 1941 and 1943. G13 VK3001H 
+
+On January 30, 1942, based on the preliminary tests (which did not show the vehicle in a very positive light), it was decided to reduce the amount of the 0-series tanks being built to only 4 vehicles, which were built in March (2 vehicles) and October 1942 (another 2). G13 VK3001H  These tanks were sent to training units and were used for crew training. G13 VK3001H 
+
+The armament (which was still the 75mm L/24, quite insufficient for the 1942 battlefield) was also discussed – Krupp proposed on October 7, 1941 the following options to the Waffenprüfamt 6:
+
+* 75mm KwK L/34,6 (lengthened version of L/24)
+* 50mm KwK L/50
+* 50mm KwK L/60
+* 75mm Waffe 0725
+
+WaPA 6 responded in the sense that they would like the 75mm KwK 40 L/43 to be installed. G13 VK3001H  Krupp replied that in order to do that, either the gun would have to be modified, or the turret would have to be bigger. G13 VK3001H  In January 1942, the re-arm project was scrapped. G13 VK3001H 
+
+Two hulls were subsequently used to build the two 128mm tank destroyers “12,8cm Kanone 40 L/61 auf VK 30. G13 VK3001H 01(H)”, known as “Sturer Emil”. G13 VK3001H  Additional turrets that were already manufactured before the 0-series VK 30. G13 VK3001H 01 (H) project was reduced were used for fixed emplacements in France (the Atlantic Wall). G13 VK3001H 
+
+The remaining machines were used for crew training and testing various equipment until the end of the war, when they were scrapped. G13 VK3001H 
+
+|HistAcc=
+* The 10,5 cm L/28 and the 75mm L/48 and L/70 were never considered for the tank. G13 VK3001H  In addition, the 75mm L/43 and waffe 0725 guns were unable to be fitted into the tank. G13 VK3001H 
+* The planned 50mm KwK L/50 and 75mm KwK L/34,6 are unavailable in-game. G13 VK3001H 
+* The only engine fitted to the VK 30. G13 VK3001H 01 (H) was the 300hp Maybach HL116 engine. G13 VK3001H 
+
+|HistoricalGallery=
+image:Vk3001_h_during_testing_. G13 VK3001H Note_the_concrate_rings_to_simulate_the_weight_of_the_turret. G13 VK3001H jpg{{!}}VK3001(H) prototype during tests. G13 VK3001H  Note the concrete rings to simulate the weight of the turret. G13 VK3001H jpg
+image:VK 3001 (H) 2. G13 VK3001H jpg{{!}}VK 3001 (H) 2
+image:VK 3001 (H) 3. G13 VK3001H jpg{{!}}VK 3001 (H) 3
+image:VK 3001 (H) 4. G13 VK3001H jpg{{!}}VK 3001 (H) 4
+image:VK 3001 (H) 5. G13 VK3001H jpg{{!}}VK 3001 (H) 5
+image:VK 3001 (H) 6. G13 VK3001H jpg{{!}}VK 3001 (H) 6
+image:VK 3001 (H) 7. G13 VK3001H jpg{{!}}VK 3001 (H) 7
+image:VK 3001 (H) 8. G13 VK3001H jpg{{!}}VK 3001 (H) 8
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Pejčoch – Obrněná technika
+Doyle – Panzer Tracts
+Jentz, Doyle – Germany’s Tiger Tanks
+Chamberlain, Jentz, Doyle – Encyclopedia of German tanks of WW2
+
+
+|Ref_links=
+* https://ftr. G13 VK3001H wot-news. G13 VK3001H com/2013/08/09/historical-vk3001h/
+* https://forum. G13 VK3001H valka. G13 VK3001H cz/topic/view/90742
+
+}}
+
+[[Category:German Tanks]]

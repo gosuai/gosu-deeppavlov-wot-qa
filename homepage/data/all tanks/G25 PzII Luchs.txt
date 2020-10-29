@@ -1,0 +1,72 @@
+{{TankData|Tank=PzII_Luchs
+|The first of five dedicated scouting tanks in the German tech tree, the Luchs is a fast and nimble tank. G25 PzII Luchs  If equipped with the 3cm auto-cannon, it can decimate most tier 3s and some tier 4s with one clip and it will hurt many tier V's, VI's and VII's as it has decent damage for an auto-cannon and outstanding penetration (95mm with the AP on the 3 cm Mk 103) for tier 4. G25 PzII Luchs 
+
+|InTheGame_pros=
+* Excellent top speed, maneuverability (also able to pivot), and acceleration
+* Good camouflage values
+* Good view range
+* Adorable
+* High penetration and burst damage on the 3cm auto-cannon
+* The 5cm L/60 provides accuracy and high DPM
+* Top turret can bounce off of its sides
+
+|InTheGame_cons=
+* 3cm auto-cannon has a long reload time (Around 16-19 seconds long) along with very poor accuracy
+* Drifts very easily (can be useful if you want to cross up tanks)
+* Short radio range of 455 meters strains the scouting role, much worse than predecessors
+* Sluggish when stock
+* Often targeted as an easy kill when spotted. G25 PzII Luchs    
+
+|InTheGame_performance=
+As a stock tank, the Luchs has maneuverability similar to the [[Tank:Ltraktor|Leichttraktor]], and guns that are usually inadequate against the tanks it meets. G25 PzII Luchs  Once upgraded, the Luchs gains incredibly high acceleration, the ability to turn on a dime often causing it drift when turning at high speeds. G25 PzII Luchs 
+
+Compared to other Tier 4 Scout tanks, the Luchs has access to a very unique gun known in-game as the "3cm M. G25 PzII Luchs K. G25 PzII Luchs  103" which is an auto-cannon that has high penetration that averages 95mm and fires 2 shots per burst and has 5 bursts in the magazine (4 in the stock turret). G25 PzII Luchs  The weapon is designed similarly to the French light tank style of play: "Hit and run". G25 PzII Luchs  Charge in and unload your magazine into an enemy tank and get away quickly as you reload your gun. G25 PzII Luchs  However the main problem is the agonizing long reload of the gun taking roughly 16-19 seconds to reload. G25 PzII Luchs  This is why the gun is somewhat unfit to hunt multiple artillery as the long reloads can slow down the destruction of the enemy artillery. G25 PzII Luchs  Its general inaccuracy at over 300 meters and high gun dispersion when firing makes it strictly a short to point blank range weapon. G25 PzII Luchs 
+
+The other option is to equip the "5cm KwK39 L/60" which is fast firing and accurate cannon but with average penetration that averages 67mm which makes it solely effective with taking on enemy scouts, some tank destroyers and enemy artillery. G25 PzII Luchs 
+
+The Luchs would almost be the perfect tier 4 scout, if it wasn't held back by a poor top radio, the FUG Spr. G25 PzII Luchs  1 with up to 455 meters range which is below average for a scout tank. G25 PzII Luchs  However if your allies have large radio ranges, you should be fine. G25 PzII Luchs   With the 9. G25 PzII Luchs 1 MM changes, the Luchs is very capable scout that often gets to be a deadly combat light when in Battle Tier 4 and 5 matches. G25 PzII Luchs 
+
+|InTheGame_research=
+* The FuG 7 and FuG Spr. G25 PzII Luchs  1 radios carry over from the Pz. G25 PzII Luchs Kpfw. G25 PzII Luchs  I Ausf. G25 PzII Luchs  C and Pz. G25 PzII Luchs Kpfw. G25 PzII Luchs  II Ausf. G25 PzII Luchs  G, as does the 2 cm Flak 38 L/112 and the 3cm M. G25 PzII Luchs K. G25 PzII Luchs  103 [[Automatic Loader#Autocannons|auto-cannon]]. G25 PzII Luchs  Install the FuG 7 and 3cm M. G25 PzII Luchs K. G25 PzII Luchs  103 immediately. G25 PzII Luchs 
+* Research the Maybach HL 66 P and the Maybach HL 90. G25 PzII Luchs 
+* Next research the upgraded suspension. G25 PzII Luchs 
+* Go from there. G25 PzII Luchs 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, Camouflage Net, Suspension. G25 PzII Luchs 
+
+|External_Reviews= 
+{{VideoYT|mYSc7EYQYxk}}
+
+|Gallery=
+image:Luchts 1. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs front left view
+image:Luchts 2. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs front right view
+image:Luchts 3. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs rear left view
+image:Luchts 4. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs front right view
+
+|HistAcc=
+The 2cm Flak 38 and 3 cm M. G25 PzII Luchs K. G25 PzII Luchs  103 configurations are fictitious. G25 PzII Luchs  Neither guns were ever equipped on the Luchs. G25 PzII Luchs 
+
+|History=
+The final development of Panzerkampfwagen II was the Panzerspaehwagen II Ausf L Luchs (Lynx) - Sd. G25 PzII Luchs Kfz. G25 PzII Luchs 123 (VK 1303). G25 PzII Luchs  This light reconnaissance tank was produced by MAN and Henschel (in small numbers) from September 1943 to January 1944. G25 PzII Luchs  An order for 800 was made, but only 104 (some sources state 134) were manufactured (chassis number 200101-200200). G25 PzII Luchs  MAN developed the chassis and Daimler-Benz the superstructure and turret. G25 PzII Luchs  The Luchs was a development of the VK 901 (Ausf G) and used its modified suspension and hull. G25 PzII Luchs  It was powered by the 180hp 6-cylinder Maybach HL66P engine withf ZF Aphon SSG48 gearbox. G25 PzII Luchs  The Luchs weighed 13 tons and had a road range of 290km. G25 PzII Luchs  The four-man crew consisted of a commander, gunner, driver, and radio-operator. G25 PzII Luchs  Communication equipment consisted of the FuG12 MW receiver and 80-watt transmitter. G25 PzII Luchs  The communication between the crew was by the use of intercom. G25 PzII Luchs 
+
+This light reconnaissance tank saw service until the end of the war on both the Eastern and Western Front with Panzer-Aufklärungs-Abteilungen (armored reconnaissance detachments) of Wehrmacht and Waffen-SS. G25 PzII Luchs  Reported users include the 116th Panzer Division on the Western Front, and the 3rd, 4th, and 6th Panzer Division on the Eastern Front. G25 PzII Luchs  It is reported that both the 3rd SS Panzer Division Totenkopf and 5th SS Panzer Division Wiking on the Eastern Front also used the Luchs. G25 PzII Luchs 
+
+Vehicles sent to the Eastern Front were mounted with additional frontal armor plates for increased protection. G25 PzII Luchs  Small numbers was fitted with additional radio equipment and antennas, serving as reconnaissance communication vehicles. G25 PzII Luchs  The Luchs was to be eventually armed with the (Luchs 5 cm) 50mm KwK 39 L/60 gun (VK 1602 Leopard), but only variants with 20mm KwK 38 L/55 cannon were produced. G25 PzII Luchs  The 20mm cannon was fitted with a TZF6 optical sight, and had a rate of fire of 420 to 480 rounds per minute. G25 PzII Luchs  It is also reported, but not confirmed, that 31 Luchs were mounted with an open-top turret armed with the 50mm KwK 39 L/60 gun and began equipping troops in late 1943. G25 PzII Luchs  Also, plans were made to produce a recovery version, the Bergepanzer Luchs, but they never materialized. G25 PzII Luchs  Along with Bergepanzer Luchs, a scale model of the Flakpanzer Luchs anti-aircraft tank based on a lengthened chassis (VK 1305) and armed with either the 20mm Flakvierling or 37mm Flak 36 gun was made, but this project was never realized. G25 PzII Luchs 
+
+|HistoricalGallery=
+image:Luchs_driving. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs
+image:Luchs_1. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs
+image:Luchs1147339609. G25 PzII Luchs jpg{{!}}PzKpfw II Luchs
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [[https://en. G25 PzII Luchs wikipedia. G25 PzII Luchs org/wiki/Panzer_II ''see Wikipedia for additional information'']]
+* [[https://the. G25 PzII Luchs shadock. G25 PzII Luchs free. G25 PzII Luchs fr/Surviving_Panzers. G25 PzII Luchs html ''See Surviving Panzers for additional information and Surviving Panzer II Tanks PDF download'']]
+
+}}
+
+[[Category:German Tanks]]

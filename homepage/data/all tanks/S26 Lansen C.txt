@@ -1,0 +1,47 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good alpha damage
+* Great gun depression
+* Outstanding acceleration
+* Good camouflage
+* Small for a medium tank, can use most cover effectively
+
+|InTheGame_cons= 
+* Very poor armor profile, at most expect lucky ricochets
+* Long aim time and rather bad gun handling
+* Limited top speed and hull traverse
+* Lightweight for a medium tank, vulnerable to ramming
+* Frequent module damage and crew injury
+
+
+|InTheGame_performance= 
+{{VideoYT|AqO1NZw0wbQ}}
+|InTheGame_research= None required
+
+|InTheGame_equipment=
+Tank Gun Rammer, Improved Ventilation, Coated Optics, Vertical Stabilizer
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+File:10. S26 Lansen C 5_cm_lansen_blueprint. S26 Lansen C jpg{{!}}Blueprint of the Lansen variant using the 10. S26 Lansen C 5cm gun
+File:Lansen_mockup. S26 Lansen C jpg{{!}}Mockup of the 10. S26 Lansen C 5cm Lansen
+File:Lansen_mockup_size_comparison. S26 Lansen C jpg{{!}}Mockup size compared to a Strv m/42
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [////http://forum. S26 Lansen C worldoftanks. S26 Lansen C com/index. S26 Lansen C php?/topic/284927-european-tank-discussion/page__st__1160__pid__8948542#entry8948542 '''Lansen project archive material'''] posted by SP15 on the forums
+* http://ftr. S26 Lansen C wot-news. S26 Lansen C com/2014/05/15/swedish-tanks-part-x-strv-lansen/
+
+}}

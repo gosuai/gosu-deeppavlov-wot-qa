@@ -1,0 +1,95 @@
+{{TankData|Tank= AMX_13_90
+|It comes with a 4 round [[Automatic Loader|autoloader]]. F17 AMX 13 90  
+
+As with the the AMX 13 75, it works best waiting for engagements to occur and then flanking the enemies, firing on their sides and rear rapidly, and then fleeing to reload. F17 AMX 13 90  It is also fairly good at scouting and artillery killing, although it doesn't accelerate as fast as some other lights, so it should avoid stopping or slowing down when performing these roles. F17 AMX 13 90 
+ 
+|Gallery=
+image:IngameAMX1390-1. F17 AMX 13 90 jpg{{!}}AMX 13 90, map Port
+image:AMX1390-a. F17 AMX 13 90 jpg{{!}}AMX 13 90, map Highway
+
+|InTheGame_pros=
+*4-round autoloader with fairly quick shell cycling and decent clip reload
+*Great camouflage, among the best in its tier spread
+*Stock suspension can carry all upgraded modules and equipment
+
+|InTheGame_cons=
+*Virtually unarmored, as most other light tanks
+*Long aim time and average accuracy
+*Bad gun depression and elevation
+*Limited ammo capacity
+*Inadequate viewrange for a Tier 9 scout 
+
+|InTheGame_performance=
+Coupled with the right mindset and determination, the 13 90 can be either a rewarding tank to play, or extremely frustrating. F17 AMX 13 90  The first thing to understand about the 13 90 is that the gun doesn't make it a medium tank, and playing it as one will bring a quick death. F17 AMX 13 90  Despite having an auto loader, the 13 90 is not a good flanker, it has the worst on the move gun handling. F17 AMX 13 90 
+
+The key to survival in the 13 90 is camouflage. F17 AMX 13 90  Almost all of your time should be spent either running or behind a bush. F17 AMX 13 90  The AMX 13 90 should strive to keep his autoloader in the fight without attracting enemy attention, as taking any fire will quickly result in a death. F17 AMX 13 90  The only time the 13 90 should be the enemy's primary target is when he is able to quickly finish off any enemy shooting at him and able to quickly get back into cover. F17 AMX 13 90 
+
+The AMX 13 90 has very poor gun depression and elevation. F17 AMX 13 90  Terrain bumps and dips should be used to angle your hull up and down to allow shots that couldn't normally be made. F17 AMX 13 90 
+
+|InTheGame_research=
+* The SCR-528F radio carry over from earlier vehicles, mount it immediatly. F17 AMX 13 90 
+* Then upgrade the gun to the 90mm F3 for a much needed increase in burst damage total and penetration. F17 AMX 13 90 
+* The suspension should be researched next. F17 AMX 13 90  The suspension not only increases the load capacity and the traverse speed, but also improves the terrain resistances and gun handling of the vehicle. F17 AMX 13 90 
+* Final engine - allowing you to get up to speed and flex better around the battlefield. F17 AMX 13 90 
+
+|InTheGame_equipment=Vents, Coated Optics, Vertical Stabilizer, GLD
+
+|External_Reviews= 
+{{#ev:youtube|lqbvDS_cNRw}}
+
+|History=
+[[image:Amx13. F17 AMX 13 90 jpg|thumb|200px|left|AMX 13]]
+The AMX 13 90 is a version of the AMX-13 French light tank that was produced from 1966 to 1985. F17 AMX 13 90  
+
+
+== Design and Features ==
+From 1966 on, the 75mm high-velocity gun was replaced by a 90 mm (the AMX-13/90) medium velocity gun firing more effective HEAT ammunition, with the French upgrading all existing base models to this specification. F17 AMX 13 90  By the early 1970s export models were available with an even more potent 105mm gun. F17 AMX 13 90  Although there were many variants on the turret the basic chassis was almost unchanged until 1985 when changes including a new diesel engine, fully automatic transmission and new hydro-pneumatic suspension were introduced. F17 AMX 13 90 
+Production halted with the Model 1987. F17 AMX 13 90  After sales support and upgrades are still offered through GIAT Industries (now Nexter). F17 AMX 13 90 
+The AMX-13 tank was phased out of service with the French Army in the 1980s. F17 AMX 13 90  Current French armoured vehicles with a similar role are the ERC 90 Sagaie and the AMX 10 RC. F17 AMX 13 90 
+
+
+'''Additional Characteristics'''
+* Ground clearance: 370 mm (15 in)
+* Fording: 600 mm (24 in)
+* Vertical obstacle 650 mm (26 in)
+* Trench: 1. F17 AMX 13 90 6 m (5 ft 3 in)
+* Gradient 60%
+* Side slope: 60%
+* NBC system: None
+* Night vision: Optional
+
+|HistAcc=
+Historical HEAT round with 320 mm of penetration is missing. F17 AMX 13 90  This was the standard ammunition of the 90 mm F3 gun. F17 AMX 13 90  Other historical rounds were APFSDS, HE and smoke. F17 AMX 13 90  The APCR rounds are fake. F17 AMX 13 90 
+* Actual ammo capacity is 32 rounds. F17 AMX 13 90 
+* Historical [[Engine#SOFAM 8 Gxb|SOFAM 8 Gxb]] engine with 250 hp is missing. F17 AMX 13 90  This was the AMX-13's original engine. F17 AMX 13 90 
+* The Detroit Diesel 6V53T engine is considerably more powerful than in reality, with a whopping 400-470 hp compared to the historical 280. F17 AMX 13 90 
+* The Detroit Diesel 6V53T was only intended for export like Israel, Indonesia and Singapore. F17 AMX 13 90  Furthermore, France retired the AMX-13 in the 1970s; the diesel engine upgrade took place in the 1980s. F17 AMX 13 90 
+* The [[Gun/France#90 mm F3|90 mm F3]] is the same gun on the [[ARL 44]], [[AMX M4 mle. F17 AMX 13 90  45]], [[AMX 50 100]] and [[Bat. F17 AMX 13 90 -Châtillon 25 t]]. F17 AMX 13 90  Yet the penetration value of the AP shell is inconsistent. F17 AMX 13 90 
+
+|HistoricalGallery=
+image:AMX_13_90_Front_With_Turret_Turned. F17 AMX 13 90 jpg{{!}}AMX 13 90
+image:AMX_13_90_Side. F17 AMX 13 90 jpg{{!}}AMX 13 90
+image:AMX_13_90_Israel_Front. F17 AMX 13 90 jpg{{!}}AMX 13 90
+image:AMX_13_90_Israel_Rear_With_Gun_Elevated. F17 AMX 13 90 jpg{{!}}AMX 13 90
+
+|Ref_references=
+
+
+|Ref_sources=
+History Article (from Design and Features on): https://en. F17 AMX 13 90 wikipedia. F17 AMX 13 90 org/wiki/AMX-13
+
+|Ref_links=
+
+|Sidebar_Camostop=17. F17 AMX 13 90 7
+|Sidebar_Camomove=17. F17 AMX 13 90 7
+|Sidebar_Camofire=4. F17 AMX 13 90 6
+|Sidebar_Passhard=0. F17 AMX 13 90 767
+|Sidebar_Passmed=0. F17 AMX 13 90 863
+|Sidebar_Passsoft=1. F17 AMX 13 90 342
+|Sidebar_DispTurret=0. F17 AMX 13 90 173
+|Sidebar_DispRecoil=3. F17 AMX 13 90 836
+|Sidebar_DispAccel=0. F17 AMX 13 90 201
+|Sidebar_DispTurning=0. F17 AMX 13 90 201
+}}
+
+[[Category:French Tanks]]

@@ -1,0 +1,136 @@
+{{TankData|Tank=Jagdtiger
+|The undisputed "King" of German tank destroyers before the 7. G44 JagdTiger 5 update, & by some still considered to be better than the Jagdpanzer E-100, the Jagdtiger offers thick frontal armor & a selection of two heavy guns capable of dealing massive damage to any target. G44 JagdTiger  Due to its high weight, it is slow & unwieldy. G44 JagdTiger  The gun mantlet, while thick, shots which hit it still manages to damage the gun. G44 JagdTiger  If de-tracked, or attacked from the rear or sides, it will die easily & quickly . G44 JagdTiger  Do not approach this tank from the front even if you have a gun with sufficient penetration; it will probably be the last thing you see before becoming a smoking wreck. G44 JagdTiger  This tank destroyer is best played with one or two [[Medium Tanks|mediums]] acting in support role, defending its sides & rear. G44 JagdTiger  It has a large weak spot, as with most German tanks, on the lower glacis plate. G44 JagdTiger  Either way, drive or attack this tank destroyer with caution. G44 JagdTiger  
+
+Note that the Jagdtiger in World of Tanks is the Henschel version with 9 wheels on each tracks. G44 JagdTiger 
+
+|Gallery=
+image:Jagdtiger front view 1. G44 JagdTiger jpg‎{{!}}Jagdtiger front left view
+image:Jagdtiger front view 2. G44 JagdTiger jpg‎{{!}}Jagdtiger front right view
+image:Jagdtiger back view 2. G44 JagdTiger jpg‎{{!}}Jagdtiger back left view
+image:Jagdtiger back view 1. G44 JagdTiger jpg‎{{!}}Jagdtiger back right view
+image:JagdTigergame1. G44 JagdTiger jpg{{!}}Jagdtiger, Malinovka map
+image:JagdTiger-1. G44 JagdTiger jpg{{!}}Jagdtiger, map Highway
+
+|InTheGame_pros=
+- Second highest HP pool of all TDs in the game (2100)
+
+- Very thick frontal upper superstructure armor (250 mm)
+
+- Very accurate gun
+
+- Excellent DPM
+
+- Decent gun depression
+
+- Good base view range for a TD (390 m), can be boosted considerably with equipment & skills
+
+- Decent maneuverability & acceleration for its size
+
+|InTheGame_cons=
+- Weak rear & side armor (80 mm) makes it very vulnerable from flanking
+
+- Although thick, superstructure is flat & can be penned by "premium" ammo when un-angled, & even standard-issue ammo in tiers IX & X
+
+- Upper glacis is only 200 mm effective thick & unreliable, easily penetrated by even lower tier TDs
+
+- Lower plate is extremely weak & easily penetrated by anyone you meet
+
+- Poor camo rating, although good view range compensates for this
+
+- Slow traverse speed, easily circled
+
+- Extremely weak ammo rack
+
+|InTheGame_performance= The JT is a relatively one-dimensional tank that uses several facets in pursuit of that. G44 JagdTiger  The first & foremost focus of the JT player is one thing: damage. G44 JagdTiger  The JT cannot scout & cannot flank other tanks; its role isn't distraction or spotting. G44 JagdTiger  Its role is to simply hammer away at the foes' hitpoints, one shell at a time. G44 JagdTiger  Compared to many TDs at these tiers, the JT seems to be a less damaging tank, what with its 490 (later 560) damage-per-shot rating, when many other tier IX & especially tier X TDs are doing 750 or more. G44 JagdTiger  
+
+However, it is easy to forget that for all the awesome power the 150 mm+ class guns have, there is a cost to such damage: long reload cycles. G44 JagdTiger  So long, it should be noted, that most large guns don't have any real suppressive power: they take a shot & regardless of results, they are open & vulnerable for enough time for a medium or a group of tanks to push up & focus fire them without any recourse. G44 JagdTiger  The JT on the other hand excels at punishing a foe when they make the attempt to push forward. G44 JagdTiger  With the shorter reload of the 12,8 cm gun the JT is capable of running sustained fire on targets in the open, & doing so allows it to rake in more damage overall than the single-shot cannons while simply being a more flexible weapon. G44 JagdTiger 
+
+There are some drawbacks to the JT though: the mobility & lack of effective armor. G44 JagdTiger  It also has bad camouflague values, so it is not a particularly good idea to rely on it. G44 JagdTiger  It should be said that the 250 mm casemate plate, mantlet, & 8 degrees of gun depression does make the JT quite good in a hull down position. G44 JagdTiger  However, when attempting to relocate to a location, or in the open without cover, the JT is without question vulnerable. G44 JagdTiger  If flanked, the large profile makes it easy to track & hit. G44 JagdTiger  The armor, outside of the casemate front, doesn't amount to more than 210 mm effective, which is less than almost any tier 9 or 10 tank can do anyways. G44 JagdTiger  The best way to use the JT is to use situational awareness: pay attention to what everyone in front of you is focused on, make sure that you're not the focus of their attention, & then use that time gap to move from cover to cover. G44 JagdTiger  Outside of some hills & small rocks, the JT isn't a terribly good tank for abusing cover, but it still can hope to do more damage than it takes, even if it gets caught in the open 1-on-1, with its damage-per-minute. G44 JagdTiger  The most effective JT is either in the second line sniping what forward spotters see, or immediately in front of an opponent, facehugging & annihilating them. G44 JagdTiger  The tank is most comfortable at long or zero range; its weaknesses are more apparent in the midrange game where its weakspots are large enough to be targeted accurately & where it is often easy to be targeted by more than one enemy at once, focus fired, & reduced to flame & ash. G44 JagdTiger  
+
+
+|InTheGame_research=
+- Stock suspension can handle top radio easily
+- You then face a choice between the engine (which carries over from the [[Jagdpanther]]) or equipment. G44 JagdTiger  Sadly there's not enough weight limit for a tank gun rammer, something you'd want to use on any tank with a usable gun
+- Then the upgraded suspension to make the poor mobility a bit better & enough weight limit to load everything in
+- Finally, the 12,8 cm Pak 44/2 L/61 offers much increase in all aspects of gun performance. G44 JagdTiger 
+
+
+|InTheGame_equipment=
+Large-caliber tank Gun Rammer, toolbox, binocular telescope, coated optics, large spall liner, camouflage net
+
+|History=
+[[image:Jagdtiger_ussr. G44 JagdTiger jpg|thumb|200px|right|Captured JagdTiger, photo taken by Soviet forces in 1945. G44 JagdTiger ]]
+Jagdtiger: the common name of a German tank-destroyer (German: Jagdpanzer) of World War II. G44 JagdTiger  The official German designation was Panzerjäger Tiger Ausf. G44 JagdTiger  B. G44 JagdTiger  The ordnance inventory designation was Sd. G44 JagdTiger  Kfz. G44 JagdTiger  186. G44 JagdTiger  It saw service from late 1944 to the end of the war on both the Western and Eastern Fronts. G44 JagdTiger  The Jagdtiger was the heaviest armored fighting vehicle to see service during World War II. G44 JagdTiger 
+
+Although well protected and armed, it suffered from mechanical problems attributed to its excessive weight. G44 JagdTiger  A total of almost 80 vehicles were manufactured. G44 JagdTiger 
+
+== Development ==
+
+With the success of the StuG III in the tank-destroyer role, the military leadership of Nazi Germany decided to use the chassis' of existing armored fighting vehicles as the basis for self-propelled guns. G44 JagdTiger  German tank destroyers of World War II lacked turrets, using fixed casemates instead, and as a result, they were capable of mounting larger caliber guns than on turreted AFVs on the same chassis. G44 JagdTiger  The lack of turrets also reduced their production time and cost, as fewer complex components need to be manufactured. G44 JagdTiger 
+
+In early 1942, a request was made by the Army General Staff to mount a 128 mm gun on a self-propelled armored chassis. G44 JagdTiger  On May 18 1942, Adolf Hitler ordered that the 128 mm gun be utilized in the tank-destroyer role, rather than for infantry support. G44 JagdTiger  Firing tests of the 128 mm gun showed it to have a high percentage of hits. G44 JagdTiger  Lower caliber heavy shells such as the 88 mm and 105 mm were also tested. G44 JagdTiger 
+
+By early 1943, a decision was made to install a 128 mm gun on a Panther or Tiger I chassis as a heavy assault gun. G44 JagdTiger  The Panther chassis was considered unsuitable after a wooden mockup of the design was constructed. G44 JagdTiger  On October 20 1943, another wooden mockup was constructed on a Tiger II chassis, and presented to Hitler in East Prussia. G44 JagdTiger  Two prototypes were produced; a version with the eight road wheel Porsche suspension system (number 305001) and a version with the Henschel nine overlapping-wheel suspension system (number 305002), as used on the production Tiger II, were completed in February 1944. G44 JagdTiger  It was originally designated as Jagdpanzer VI, but was later named the Jagdtiger. G44 JagdTiger  It received the special ordnance number Sd. G44 JagdTiger Kfz. G44 JagdTiger  186. G44 JagdTiger 
+
+== Design ==
+[[image:Jagdtiger_Bovington. G44 JagdTiger jpg|thumb|200px|right|Jagdtiger at [[https://en. G44 JagdTiger wikipedia. G44 JagdTiger org/wiki/Bovington_Tank_Museum Bovington Tank Museum]] ]]
+The Jagdtiger was a logical extension of the creation of Jagdpanzer designs from tank designs, such as the Jagdpanther from the Panther tank. G44 JagdTiger  The Jagdtiger used a boxy casemate superstructure on top of a lengthened Tiger II chassis. G44 JagdTiger  The resulting vehicle featured very-heavy armor and the 128 mm PaK 44 L/55 gun,:capable of defeating any tank fielded in World War II, even at very long ranges (over 3,500 m). G44 JagdTiger  It had 250 mm armor on the front of the casemate and 150 mm on the glacis plate. G44 JagdTiger  The main gun mount had a limited traverse of only 10 degrees; the entire vehicle had to be turned to aim outside that narrow field of fire. G44 JagdTiger 
+
+The Jagdtiger suffered from a variety of mechanical and technical problems due to its immense weight and under-powered engine. G44 JagdTiger  The vehicle had frequent breakdowns. G44 JagdTiger  Ultimately, more Jagdtigers were lost to mechanical problems or lack of fuel than to enemy action. G44 JagdTiger 
+
+== Production ==
+
+150 Jagdtigers were ordered, but only half that number were produced. G44 JagdTiger  Eleven of them, serial numbers 305001 and 305003 to 305012, were produced with the Porsche suspension (8 roadwheels): all following used the Henschel suspension (9 roadwheels). G44 JagdTiger 
+
+Production figures vary depending on source and other factors, such as if prototypes are included and if those made after VE day are included. G44 JagdTiger  Totals range from about 77 to 88 produced from July 1944 to May 1945. G44 JagdTiger  Approximately 48 from July 1944 to the end of December 1944, 36 from January to April 1945, and serial numbers from 305001 to 305088 (such as examples from May 1945, and pre-production prototypes, and whether incomplete chassis are counted). G44 JagdTiger  Some sources say no more vehicles were completed after February. G44 JagdTiger  Towards the end, some were lacking important equipment and could not be used operationally, or could not be deployed to units. G44 JagdTiger 
+
+== Combat history ==
+[[image:Jagdtiger_AOM. G44 JagdTiger jpg|thumb|200px|right|Vehicle 305020, [[https://en. G44 JagdTiger wikipedia. G44 JagdTiger org/wiki/United_States_Army_Ordnance_Museum US Army Ordnance Museum]]. G44 JagdTiger ]]
+Only two heavy anti-tank battalions (schwere Panzerjäger-Abteilung), numbered 512 and 653, were equipped with Jagdtigers, with the first vehicles reaching the units in September 1944. G44 JagdTiger  About twenty percent were lost in combat, most were destroyed by their own crews when abandoned, chiefly due to mechanical breakdowns or lack of fuel in the desperate final stages of the war. G44 JagdTiger 
+
+The gun used separate-loading ammunition, which meant that two loaders were used to insert the projectile and the cased propelling charge separately. G44 JagdTiger  This resulted in a slow rate of fire. G44 JagdTiger  The tremendous amount of smoke would often give-away the position of the vehicle, in addition to momentarily blinding the crew, although the latter was a moot point, owing to the very-slow reload time. G44 JagdTiger 
+
+Tiger ace Otto Carius commanded the second of three companies of Jagdtigers in Panzerjagerabteilung 512. G44 JagdTiger  His memoir "Tigers in the Mud" provides a rare combat history of the ten Jagdtigers under his command. G44 JagdTiger  He states that Jagdtigers were not utilized to their full potential due to several factors. G44 JagdTiger  Allied air supremacy made it difficult to move, the massive gun needed to be re-calibrated from jarring after traveling off-road for even short distances, it was slow, and transmissions and differentials broke down easily because the whole 72 ton vehicle needed to rotate to traverse. G44 JagdTiger  The massive gun had to be locked down, otherwise mounting brackets would have worn too much for accurate firing. G44 JagdTiger  However, he also recorded that a 128 mm projectile went through all the walls of a house and destroyed an American tank behind it. G44 JagdTiger 
+
+Insufficient crew training and depleted morale was the biggest problem for Jagdtiger crews under Carius' command. G44 JagdTiger  At the Ruhr pocket, two Jagdtiger commanders failed to attack an American armored column about 1. G44 JagdTiger 5 km  away in daylight for fear of attracting an air attack, even though Jagdtigers were well-camouflaged. G44 JagdTiger  Both vehicles broke down while withdrawing through fear of air attack, and one was then destroyed by the crew. G44 JagdTiger  To prevent such a disaster at Siegen, Carius himself dug in on high ground. G44 JagdTiger  An approaching American armored column avoided the prepared ambush because German civilians warned them of it. G44 JagdTiger  Later, one of his vehicles fell into a bomb crater at night and was disabled, and another was lost to Panzerfaust attack by friendly Volkssturm troops who had never seen a Jagdtiger before. G44 JagdTiger 
+
+Near Unna, one Jagdtiger attacked uphill against five American tanks six-hundred meters away; two withdrew and the other three opened fire. G44 JagdTiger  The Jagdtiger took several hits, but they could not penetrate the 250 mm frontal armor. G44 JagdTiger  The inexperienced German commander then lost his nerve and turned around instead of backing away, exposing the thinner side armor, which was eventually penetrated and all six crew were lost. G44 JagdTiger  Carius wrote that it was useless when crews were not trained or experienced enough to have the thick frontal armor facing the enemy at all times. G44 JagdTiger 
+
+When unable to escape the Ruhr pocket, Carius ordered the guns of the remaining Jagdtigers destroyed and surrendered to American forces. G44 JagdTiger  The ten Jagdtigers of 2nd Company, Panzerjagerabteilung 512, destroyed one American tank for one Jagdtiger lost to combat, one lost to friendly fire, and eight others lost to breakdown or destroyed by their crews to prevent capture. G44 JagdTiger 
+
+|HistAcc=
+The 12,8 cm Pak L/66 gun was merely a proposal by Krupp to add an extension to the rear of the Jagdtiger's superstructure in order to fit the gun. G44 JagdTiger  Due to the gun's enormous size, it had to be retracted into the rear casemate when the tank is moving. G44 JagdTiger  The project was deemed unrealistic and rejected. G44 JagdTiger  Therefore, the L/66 configuration on the Jagdtiger without the extension is fake. G44 JagdTiger 
+* The Jagdtiger was already plagued with mechanical problems due to its excessive weight. G44 JagdTiger  Hypothetically, upgunning the tank and extending the superstructure would've necessitated an upgrade of the engine and suspension to cope with the increased weight. G44 JagdTiger  However, no option exists to mount a stronger engine other than the historical version. G44 JagdTiger 
+* From August 1944, German tanks had a dark yellow base coat, RAL 7028 Dunkelgelb. G44 JagdTiger  Jagdtigers produced from autumn 1944 had a "light and shadow" camouflage pattern with dark yellow and dark green spots. G44 JagdTiger  The base colour was changed to dark green in November 1944. G44 JagdTiger  In World of Tanks, however, the Jagdtiger is in early Panzer Grey; there is no option to apply Dunkelgelb other than purchasing a paint from "exterior" section. G44 JagdTiger 
+* Historical Sla. G44 JagdTiger 16 diesel engine with 750 hp is missing. G44 JagdTiger  According to various of sources such as ''Military Engineer and Amazing Porsche and Volkswagen Story'', the engines were tested with positive results. G44 JagdTiger  A diesel engine was mounted onto a [[Tiger II]] as a prototype built by Nibelungen Werke and went through testings in the spring of 1945, though results has not been found from this test. G44 JagdTiger  Further proposals also wanted the engine to be mounted in the [[Panther]] and Jagdtiger vehicles for increased power, but the war's constraint on supplies and Nazi Germany's capitulation resulted in the cancellation of these programs. G44 JagdTiger 
+
+|HistoricalGallery=
+image:Jagdtiger, destroyed by his own crew at the battle of Ruhn. G44 JagdTiger jpg{{!}}Jagdtiger, destroyed by his own crew at the battle of Ruhn
+image:Jagdtiger, somewhere in France. G44 JagdTiger jpg{{!}}Jagdtiger, somewhere in France
+image:Jagdtiger,_rear_view_with_recognisable_King_tigar_exhaust_pipes. G44 JagdTiger jpg{{!}}Jagdtiger, rear view with recognisable King tiger exhaust pipes
+image:Jagdtiger_frontal_view. G44 JagdTiger jpg{{!}}Jagdtiger frontal view
+image:Jagdtiger note the massive superstructure and a huge gun. G44 JagdTiger jpg{{!}}Jagdtiger, note the massive superstructure and a huge 128 mm gun
+image:800px-Jagdtiger 1 Bovington. G44 JagdTiger jpg{{!}}Jagdtiger at Bovington Tank Museum. G44 JagdTiger 
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://en. G44 JagdTiger wikipedia. G44 JagdTiger org/wiki/Jagdtiger Wikipedia]
+* https://panzerwaffe. G44 JagdTiger pl
+
+|Sidebar_Camostop=10. G44 JagdTiger 9		 
+|Sidebar_Camomove=6. G44 JagdTiger 6		 
+|Sidebar_Camofire=3. G44 JagdTiger 1		 
+|Sidebar_Passhard=1. G44 JagdTiger 055		 
+|Sidebar_Passmed=1. G44 JagdTiger 247		 
+|Sidebar_Passsoft=2. G44 JagdTiger 301		 
+|Sidebar_DispTurret=0. G44 JagdTiger 077		 
+|Sidebar_DispRecoil=2. G44 JagdTiger 877		 
+|Sidebar_DispAccel=0. G44 JagdTiger 173		 
+|Sidebar_DispTurning=0. G44 JagdTiger 173		 
+}}

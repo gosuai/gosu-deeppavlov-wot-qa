@@ -1,0 +1,58 @@
+{{TankData|Tank= "M4_Thunderbolt"
+
+|
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Great frontal armor, able to bounce many same tier or even higher tier guns
+* Good gun handling stats: dispersion and aim time are better than other tier 6 American mediums
+* Fairly fast with excellent ground resistances, maintains speed well
+* Thick tracks and spaced armor on turret and hull diminish threat of HEAT shells
+* Comes with 'zero-skill' Brothers In Arms crew
+
+|InTheGame_cons= 
+* Slower than standard E8, less turret armor than stock Jumbo
+* Several weakspots on cupola/roof, turret ring, and machine gun port
+* Lowest acceleration and slowest traverses of all Tier 6 Sherman variants
+* Poor power to weight ratio, loses a lot of speed when going uphill
+* Low signal range
+*Worse gun depression that the E8 Sherman by 2° although it is superb at 10°
+
+|InTheGame_performance= 
+The M4 Thunderbolt is a premium variant of the the [[M4A3E8_Sherman|M4A3E8 Sherman]], falling somewhere between the standard E8 and the [[M4A3E2_Sherman_Jumbo|Sherman Jumbo]] in terms of its stats and playstyle. A118 M4 Thunderbolt  While the E8 is faster and more agile with better DPM, the Thunderbolt has better gun handling and armor, granting it better survivability than the standard E8. A118 M4 Thunderbolt  The Jumbo may have access to a howitzer and a more impressive weight of armor, especially on its stock turret, but the Thunderbolt has superior mobility and flexibility, allowing it to react more quickly when new threats or opportunities arise. A118 M4 Thunderbolt 
+
+The Thunderbolt is truly a 'jack of all stats' tank, as it falls squarely in the middle of all the Sherman variants at tier 6 in a way that the [[M4A3E8_Fury|Fury]] does not quite manage. A118 M4 Thunderbolt  It is extremely forgiving of player error and is able to hold its own in most situations. A118 M4 Thunderbolt  It serves well as part of a medium wolfpack, or in hilly terrain as a support tank. A118 M4 Thunderbolt  Because of the gun depression, spaced armor panels, and thick frontal armor, a hull-down Thunderbolt can be an unusually tough customer, to the point that it can reliably absorb or bounce shots from any gun with 175mm of penetration or less, including the common 122mm D-series guns on higher-tier Russian heavy tanks such as the [[IS]]. A118 M4 Thunderbolt  The improved aim time, accuracy, and dispersion of the Thunderbolt's gun allows it to more precisely aim for weak points or have a chance to hit distant/moving targets. A118 M4 Thunderbolt 
+
+The main weakness of the Thunderbolt is that its standard 76mm M1A2 gun is an average gun at best on a tier 6 vehicle, especially with this version's lower rate of fire and the same 128mm of penetration, which can be insufficient against even some same-tier mediums. A118 M4 Thunderbolt  Flanking is a must, but unlike the E8 or [[Cromwell]], it cannot simply rush to its desired engagements points first, and so must rely on its armor to help it into position. A118 M4 Thunderbolt  Some knowledge of angling is vital to survival in the Thunderbolt, as while it has distinct weak spots, it also has the uniquely un-Sherman quality of possessing enough side armor to actually sidescrape thanks to its spaced armor panels. A118 M4 Thunderbolt  Good terrain resistance and low turret dispersion means that it can also turn its entire hull in a fight to bring its strongest armor to bear against an enemy, allowing it to have some defense in a brawl that a vehicle like the E8 would otherwise lack. A118 M4 Thunderbolt 
+
+The Thunderbolt's basic strengths allows for some flexibility in its equipment fit. A118 M4 Thunderbolt  Though a gun rammer can be considered mandatory, the remaining two slots allow for some intriguing variation. A118 M4 Thunderbolt  A combination of coated optics and vents allows for excellent sight ranges and a reload time under 3 seconds, to the point where it starts to feel like a British 6-pounder gun. A118 M4 Thunderbolt  Pairing coated optics and a vertical stabilizer is the classic flanking medium setup and remains an effective selection on the Thunderbolt for the same reasons. A118 M4 Thunderbolt  A vertical stabilizer and vents improves the widest array of stats, especially in the area of gun handling (though at the cost of overall view range). A118 M4 Thunderbolt  It can also make use of less-common selections as well--a toolkit is not an unreasonable selection due to the large tracks, and it is also one of a handful of mediums that genuinely benefits from the addition of a spall liner to limit the stun effect and crew injuries from high-explosive fire (a serious concern for any tank that shares a tier with the [[KV-2]]!) as well as improve its ramming options (see below). A118 M4 Thunderbolt 
+
+The Thunderbolt's frontal armor is former Panther armor that has been field-fitted onto the front of the tank; due to not being designed for the shape of the tank, part of the lowest frontal plate juts out from in front of the road wheels. A118 M4 Thunderbolt  Though of no use defensively due to its narrow size and awkward placement, its location and designation as spaced armor effectively allows it to act as a ram bar. A118 M4 Thunderbolt  This means that a Thunderbolt going for a ramming attack will receive somewhat less damage than usual and often return more of that damage to the enemy. A118 M4 Thunderbolt  The Thunderbolt is the heaviest of the Tier 6 Shermans, so if ramming is required it will stand a chance of doing decent damage. A118 M4 Thunderbolt 
+
+The Thunderbolt is a tough and flexible medium tank with many desirable characteristics, especially for players who prefer vehicles with overall balanced parameters. A118 M4 Thunderbolt  Its weaknesses may turn off players who prefer faster medium tanks, but with its survivability and pleasantly low operating costs, the Thunderbolt can be a profitable credit earner for a Tier 6 vehicle. A118 M4 Thunderbolt 
+
+|InTheGame_research= 
+*As a premium tank the M4 Thunderbolt VII is elite in stock configuration. A118 M4 Thunderbolt 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+M4A3E8/M4A3(76)W HVSS (Easy Eight) - Upgraded with widetrack Horizontal Volute Spring Suspension (HVSS), fitted with the 76mm High Velocity cannon. A118 M4 Thunderbolt 
+
+{{VideoYT|C2aNyrQ2cmU}}
+|HistoricalGallery= 
+File:M4A3E8 at Patton Museum of Cavalry. A118 M4 Thunderbolt jpg{{!}}M4A3E8 at the Patton Museum of Cavalry and Armor, 2003. A118 M4 Thunderbolt 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

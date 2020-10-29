@@ -1,0 +1,118 @@
+{{TankData|Tank=Object416
+|
+
+|Gallery=
+
+|InTheGame_pros=
+* Outstanding DPM, highest in tier/class
+* Exceptional premium ammo penetration for its tier, comparable to TDs
+* Good gun handling and aim time
+* Very low profile and one of the best camouflage values for a medium tank
+* Top gun has equal shell velocity for all shell types, no adjustment to preaim needed
+
+
+|InTheGame_cons=
+* Poor armor and low health, relies on concealment for defense
+* Rear-mounted turret with limited traverse 
+* Very poor gun depression
+* Subpar shell velocity (895 m/s) makes shooting at moving targets difficult
+* Front mounted engine leads to frequent engine damage and fires when hit
+
+|InTheGame_performance=
+The Object 416 shares some similarities with the [[ELC AMX]]. R60 Object416  Both have limited turret traverses, good mobility and outstanding camouflage values even for their own class. R60 Object416 
+Almost undeniably, the 416 has the best gun a tier 8 medium could ask for. R60 Object416  With great alpha damage, great penetration, the highest damage per minute out of all tier 8 medium tanks, and roughly average aim time, accuracy, and dispersion values. R60 Object416  Were it not for the alpha not quite cutting it, it could very easily be on par with a tank destroyer's gun. R60 Object416  Be aware that this gun seems to have a very temperamental accuracy and shell velocity, meaning that sometimes RNG can be a huge factor in your success of hitting and penetrating a target or not. R60 Object416 
+
+The 416 has a very small stature that would make you think it's a light tank. R60 Object416  With a base camouflage value of 24%, and 47% with camo training and paint, it's actually better than most tank destroyers in its tier. R60 Object416  It can stay un-spotted at very close ranges that other tanks wouldn't even dream of being at without expecting to get shot as it has the best camouflage rating of any medium tank in the game. R60 Object416 
+It can also passive scout well due to the good mobility and average view range, which can be combined with optics or a binocular telescope. R60 Object416 
+
+Sadly, even the best tanks have their downsides. R60 Object416  While the 416 loans a lot of good features from tank destroyers and light tanks, it also comes with some bad ones. R60 Object416  Most notable are the very poor gun depression (-3 degrees) and the limited turret traverse. R60 Object416  The low health comes into play time to time as you will easily be penetrated by most things firing at you and you cannot minimize exposure much without camo, as you do not have any gun depression or armor to rely on once you get spotted. R60 Object416  Furthermore, the gun has mediocre accuracy and slow shell velocity for a sniping gun, and can be frustrating at times to use despite the excellent DPM. R60 Object416 
+
+Due to the unique characteristics of this weird medium tank, it greatly rewards knowledge of firing lanes, defensive techniques, vision mechanic abuse, and knowing what roles suits it in particular situations, as depending on circumstances, it can easily perform, the roles of passive scout, sniper, and flanker. R60 Object416  These traits also belong to the ELC, and experience driving it can help. R60 Object416 
+
+Fortunately, for the most part, the 416's cons are not very prevalent as it can spend whole matches un-spotted due to the high camouflage value it has and due to the fact its engagement ranges are limited by its poor armor and gun depression. R60 Object416  Nonetheless it is an excellent tank for its tier and should not be underestimated by its looks as an upside-down frying pan. R60 Object416 
+
+However, as more recently the meta shifts toward favouring quick-paced battle and the rework of high-to-top tier LTs, one may also command the 416 with a more dynamic mindset: the incredibly high damage output and decent agility could also work well as a flanker as per terrain allows. R60 Object416 
+
+|InTheGame_research=
+*The R-113 radio carries over from some other Russian branches. R60 Object416 
+*Substitute the top tracks with the equipment ''Enhanced Torsion Bars''. R60 Object416 
+*Next up should be the gun. R60 Object416   While the D10T is not that bad, the M-63 is what makes the tank. R60 Object416 
+*Research the turret next. R60 Object416   Not only does it have better angles, it also boosts your rate of fire, increases your health, and enlarges your view range. R60 Object416 
+*Go ahead and research the radios if you haven't already. R60 Object416 
+* ---------- IF YOU HAVE ENOUGH FREE EXP ----------
+*Research the top Gun 1st if possible, this way you will save 260kgs from the stock Gun, which allows you to mount the Medium-Caliber Tank Gun Rammer and the Binocular Telescope right away. R60 Object416 
+*If you have the top Radio researched already, you could save another 50kg, which is just enough to mount the Camouflage Net. R60 Object416 
+*Next will be the Turret, for an improved stats boost all-around. R60 Object416 
+*Lastly the Tracks, for a major improvement on soft ground resistance and for more choice of Equipment to be mounted. R60 Object416 
+
+
+|InTheGame_equipment=
+Camouflage Net, Medium-Caliber Tank Gun Rammer, Binocular Telescope, Vents 
+
+|History=
+The Object 416 medium tank was developed at the Construction Bureau of Factory No. R60 Object416  75, starting in the fall of 1949. R60 Object416  The blueprint was developed by March 1950. R60 Object416  Because of technical problems with the turret, a working prototype was not ready until April 1952. R60 Object416  Improvements were made and another prototype was built in the summer of 1953, but the vehicle never entered mass production. R60 Object416 
+
+== Development history ==
+
+Development of Object 416 started at Kharkov Plant no. R60 Object416 75. R60 Object416  The goal of the project was to create an entirely new tank, that would be protected as much as possible while weighting as little as possible. R60 Object416  The technical project for it was finished in 1950. R60 Object416  First prototype was buil t one year later, in 1951. R60 Object416  Preliminary tests revealed a number of defects, most of which had to do with drivetrain and suspension reliability. R60 Object416  The extremely low height of the vehicle, implemented so that the frontal silhouette is as small as possible, and also to minimize the volume so adequate armor protection can be achieved with using as less steel as possible. R60 Object416  However, this concept had severe impact on crew operation – the tank was simply too small to do anything in! Since it proved practically impossible to drive the vehicle and fire the gun simultaneously, the work on the prototype was stopped and “Object 416″ was redesigned into a self-propelled gun, receiving an official designation of SU-100M. R60 Object416 
+
+In 1952, SU-100M passed the tests, but it was never adopted in service. R60 Object416  The reason for that was that in most parameters, SU-100M was basically equal to SU-100P (and in some parameters it was even worse), which was serially produced since 1952 – and therefore there was no need to implement it. R60 Object416  At that point the project was canceled, and all further development was stopped. R60 Object416 
+
+
+'''Design characteristics'''
+
+Crew: 4 
+
+Weight: 24 tons
+
+Engine: 400hp V12 diesel
+
+Power to weight ratio: 16,7 hp/t
+
+Maximum speed: 45 km/h
+
+Hull armor: 60mm/45mm/45mm
+
+Turret armor: front 110mm (+110mm mantlet)
+
+Gun: 100mm L/58 M-63 (variant of the well-known D-10T gun)
+
+Gun depression/elevation: -3/+15
+
+
+{{VideoYT|U0VIpxZltgU}}
+|HistoricalGallery=
+image:Object_416_on_static_display_at_Kubinka_museum. R60 Object416 jpg{{!}}Object 416 on static display at Kubinka_museum
+image:Object_416_prototype. R60 Object416 jpg{{!}}Object 416 prototype
+image:Object_416_reclassivied_as_Su100M1_tank_destroyer. R60 Object416 jpg{{!}}Object 416 reclassivied as Su100M1 tank destroyer
+image:Object_416-1. R60 Object416 jpg{{!}}Object 416 during early testing phase
+image:Object_416-4. R60 Object416 jpg{{!}}Object 416 prototype ready for testing
+
+|HistAcc=
+
+* Object 416 historically had 5° gun depression and 36° elevation. R60 Object416 
+* It was also designated initially as a light tank, then re-designated as a tank destroyer. R60 Object416  The Soviets never considered it a medium tank. R60 Object416 
+* The turret's limited rotation was only when moving; it was capable of full 360° rotation when the tank was stationary. R60 Object416 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. R60 Object416 tanks-encyclopedia. R60 Object416 com/prototypes/object-416-su-100m/
+* https://ftr. R60 Object416 wot-news. R60 Object416 com/2013/06/27/object-416-upcoming-t8-medium/
+
+|Sidebar_GunAlt= 100mm M-63
+|Sidebar_Camostop=24. R60 Object416 2
+|Sidebar_Camomove=14. R60 Object416 6
+|Sidebar_Camofire=4. R60 Object416 8
+|Sidebar_Passhard=0. R60 Object416 671
+|Sidebar_Passmed=0. R60 Object416 767
+|Sidebar_Passsoft=1. R60 Object416 534
+|Sidebar_DispTurret=0. R60 Object416 115
+|Sidebar_DispRecoil=3. R60 Object416 356
+|Sidebar_DispAccel=0. R60 Object416 115
+|Sidebar_DispTurning=0. R60 Object416 115
+}}

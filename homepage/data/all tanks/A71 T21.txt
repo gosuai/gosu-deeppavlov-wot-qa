@@ -1,0 +1,65 @@
+{{TankData|Tank=T21
+|The T21 is a lighter variant of the T20 medium tank. A71 T21  It has good maneuverability & a great view range, on top of having a good power to weight ratio. A71 T21  Additionally, it uses the same gun as the M4 E8/E2, having rather low penetration in exchange for a high rate of fire & great handling. A71 T21 
+
+|Sidebar_Camostop=15. A71 T21 4
+|Sidebar_Camomove=15. A71 T21 4
+|Sidebar_Camofire=4. A71 T21 3
+|Sidebar_Passhard=0. A71 T21 863
+|Sidebar_Passmed=0. A71 T21 959
+|Sidebar_Passsoft=1. A71 T21 63
+|Sidebar_DispTurret=0. A71 T21 115
+|Sidebar_DispRecoil=3. A71 T21 356
+|Sidebar_DispAccel=0. A71 T21 134
+|Sidebar_DispTurning=0. A71 T21 134
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Good view range (tied for 2nd best out of Tier 6 lights with [[VK 28. A71 T21 01]])
+* Decent camo rating makes a great passive or active scout with binos or optics
+* Nice penetration & RoF on the top gun, its gun handling surpasses even the famous [[M4A3E8 Sherman|Easy Eight]] 
+* Excellent hp/weight ratio & very high traverse gives this scout tank good mobility & speed 
+* Decent peek-a-boo flanker
+* Has full 10° gun depression, unlike the previous vehicle [[M7]], or the [[T37]]
+
+|InTheGame_cons=
+* Poor armor even for a light tank, exceptionally vulnerable to HE shells
+* Worst top speed of all Tier 6 light tanks (by 3 Km/h), racing for scout spots can be difficult
+
+
+
+|InTheGame_performance=
+As with any tank, equipment improves the effectiveness of the T21. A71 T21  It is recommended to combine (or mix & match as preferred) equipment to these main playstyles:
+
+Scout: Camouflage Net, Binoculars, (choice is yours, recommend Coated Optics) In this role, you'll play more passive than active scouting. A71 T21  The T21 doesn't have the speed or low profile to play an active scout, so guerrilla tactics are important here; hence the Net and Binoculars. A71 T21 
+
+Flanker: Gun Rammer/Coated Optics, Vertical Stabilizer, & Vents. A71 T21  This will let you use that sweet M1A2 at will. A71 T21  Play always in & with support & you can lay some serious damage on the enemy. A71 T21  However, do be aware you won't last nearly as long as mediums do while trying to function in the same role as them. A71 T21  Coated Optics might help you if you choose this set up, as it allows you to become a deadly Artillery Hunter, finding & eliminating any SPGs. A71 T21 
+
+A more balanced setup would use binoculars, a rammer, & a vertical stabilizer. A71 T21  This setup will maximize your flexibility & allow you to fulfill multiple roles. A71 T21  This will maximize your DPM & ability to fire accurately on the move. A71 T21  Of note is the T21's ability to fire accurately on the move; this is great for chasing other tanks or for flanking. A71 T21 
+
+|InTheGame_research=
+* Neither the 76 mm Gun M1A2L nor the Ford GAN A Engine require the upgraded suspension, so research them in whichever order you want to. A71 T21 
+* Finally, research the VVSS T48M1A2 Suspension. A71 T21 
+
+|InTheGame_equipment=
+Coated Optics, Binocular Telescope, Vertical Stabilizer, Medium-Caliber Tank Gun Rammer, Vents, Camouflage Net
+
+|History=
+[[image:T21_wooden_mockup. A71 T21 jpg|thumb|200px|left|T21 wooden mockup]]
+Not strictly part of the T20 series medium tanks, but closely related to them, the T21 was proposed as a replacement for the M3 & M5 series of Light tanks. A71 T21  It was to have been based on the T20 mechanics, would have had a 30 mm armour base, been armed with the 76 mm gun & weighed 24 tons. A71 T21  The design was prepared but held in abeyance as it was deemed too heavy for the light tank class. A71 T21  Ultimately the T21 concept was superseded by the T24 program, which was standardized as the M24 Chaffee. A71 T21 
+
+|HistoricalGallery=
+image:T21_wooden_mockup. A71 T21 jpg{{!}}T21 wooden mockup
+
+|Ref_references=
+These two volumes are widely regarded as the definitive reference works on the American Light Tanks. A71 T21  Volume-1 covers the real life counterparts of the in-game light tanks: T1, T2/M2, M3, & M5 series & the T21. A71 T21 
+* Hunnicutt, R. A71 T21 P, 1992, '''<i>Stuart: A History of the American Light Tank - Volume-1</i>''', Presidio Press, 508p,  ISBN:0891414622. A71 T21 
+* Hunnicutt, R. A71 T21 P. A71 T21 , 1995, '''<i>Sheridan: A History of the American Light Tank -  Volume 2</i>''',  Presidio Press, 340p,  ISBN:9780891415701. A71 T21 
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

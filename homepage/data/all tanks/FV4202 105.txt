@@ -1,0 +1,71 @@
+#REDIRECT [[Tank:GB70_N_FV4202_105]]
+{{sidebar
+|Tank=FV4202 105 |nation=uk|class=medium|tier=10
+|Sidebar_Camostop=14. FV4202 105 00
+|Sidebar_Camomove=10. FV4202 105 60
+|Sidebar_Camofire=3. FV4202 105 10
+|Sidebar_Passhard=0. FV4202 105 671
+|Sidebar_Passmed=0. FV4202 105 767
+|Sidebar_Passsoft=1. FV4202 105 534
+|Sidebar_DispTurret=0. FV4202 105 115
+|Sidebar_DispRecoil=3. FV4202 105 836
+|Sidebar_DispAccel=0. FV4202 105 173
+|Sidebar_DispTurning=0. FV4202 105 173
+}}
+[[File:AnnoGB70 FV4202 105. FV4202 105 png|left]] The '''FV4202 105''' was a [[UK|British]] tier 10 [[medium Tanks|medium tank]]. FV4202 105 
+
+Something of a departure from the philosophies of more or less all British mediums before it, the FV4202 may seem at first to be simply an upgrade of the [[Centurion Mk. FV4202 105  7/1]] - and may indeed be played as such - but is in fact quite its own beast. FV4202 105  Its significantly smaller profile, extremely well-sloped frontal armor and increased agility means that this tank can stand to take on a much more frontal role than its predecessor, and contributes to make it a much more well-rounded vehicle. FV4202 105  In fact, the only things that truly stand out about the FV4202 are its good cannon and turret, and slow top speed; in all other regards it behaves very much like a "Jack of all trades, master of none" sort of tank when compared to its classmates. FV4202 105 
+
+The FV4202 has been removed from its tier X medium location as of patch 9. FV4202 105 12 to become a tier VIII premium tank in a future patch, while its tier X medium role has been filled by the [[Centurion Action X]]. FV4202 105 
+
+==Gallery==
+<gallery>
+FV4202 front left. FV4202 105 jpg
+FV4202 front right. FV4202 105 jpg
+FV4202 rear left. FV4202 105 jpg
+FV4202 rear right. FV4202 105 jpg
+</gallery>
+
+
+{{InTheGame
+|pros=
+* Very good responsiveness and mobility
+* HESH shells allow for inordinate damage over time against soft-shelled targets
+* Excellent gun depression and gun handling with and balanced gun characteristics
+* Surprisingly strong upper front plate due to sloping
+
+|cons=
+* Limited top speed
+* No effective armor other than upper front plate
+* No gun mantlet leading to an overall less reliable turret, unlike its predecessors
+
+|performance=
+The FV4202, by dint of being so well-rounded, fills some sort of imaginary hole between nearly all other Tier X medium tanks. FV4202 105  By now, having played the Centurions, one will be used to the role of support tank, and thanks to its quite accurate gun and higher DPM than the [[E-50 Ausf. FV4202 105  M]] the Brit can fill this role neatly. FV4202 105  However, limiting oneself to that alone is sort of undeserving of this tank's potential, as it has superior gun depression and respectable camouflage. FV4202 105  Its agility also means that it can fight in between buildings and wolf pack quite effectively, which all adds up to making it a quite potent flanker, best employed as a long-range harasser and sharpshooter from the sides of the enemy front. FV4202 105 
+
+|research=
+* None, as all modules are already researched upon acquiring the tank
+
+
+|equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents, Binocular Telescope
+}}
+
+==Historical Info==
+FV4202 was a British experimental vehicle based on the Centurion medium tank. FV4202 105  The vehicle was in development from 1956 through 1959. FV4202 105  Total mass of the tank was around 40 tons. FV4202 105  Three prototypes were made before the project was canceled. FV4202 105  Technical decisions and innovations implemented in FV4202 became the basis for FV4201 Chieftain. FV4202 105 
+
+===Historical Gallery===
+<gallery>
+image:FV4202HG1. FV4202 105 jpg
+image:FV4202HG2. FV4202 105 jpg
+</gallery>
+
+==Historical Accuracy==
+Actual armament is the OQF 20-pdr gun. FV4202 105  The 105 mm Royal Ordnance L7A1 configuration does not exist. FV4202 105 
+*Actual frontal hull armour is 51 mm thick, not 121 mm. FV4202 105  Actual turret armour is 170/90/90, not 196/196/35. FV4202 105 
+
+==External links==
+*https://ftr. FV4202 105 wot-news. FV4202 105 com/2014/07/30/british-tanks-final-decision/
+
+{{British Tanks}}
+{{medium Tanks}}
+[[Category:medium Tanks]]
+[[Category:British Tanks]]

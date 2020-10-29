@@ -1,0 +1,244 @@
+{{TankData|Tank=
+
+| The Churchill is one of the most popular tier 5 premium tanks, which boasts a rapid rate of fire, large hitpoint pool, and good armor that reliably deflects shots from most tanks of its tier and lower. R33 Churchill LL  It fares best against light and medium tanks of tier 5 and below that it can puncture to death rapidly; with a gun rammer, vents, and a good crew the reload can be around 1. R33 Churchill LL 9 seconds. R33 Churchill LL  A well-known advantage of the Churchill III is that it generates large amounts of EXP, which makes the Churchill III a very popular crew trainer. R33 Churchill LL 
+
+|Gallery=
+image:Churchill III screen 01. R33 Churchill LL jpg{{!}}Churchill
+image:Churchill III screen 02. R33 Churchill LL jpg{{!}}Churchill
+image:Churchill III screen 03. R33 Churchill LL jpg{{!}}Churchill
+image:Churchill III screen 04. R33 Churchill LL jpg{{!}}Churchill
+image:Churchill III screen 05. R33 Churchill LL jpg{{!}}Churchill
+
+|InTheGame_pros=
+
+* Angling the hull will hide almost all frontal weakspots against Tier IVs and some Tier Vs. R33 Churchill LL 
+* With proper crew skills and equipment, it can reload in 1. R33 Churchill LL 82s, making it a 140 round autoloader!
+* Tied with O-I Exp. R33 Churchill LL  for the largest hitpoints pool of Tier V tanks. R33 Churchill LL 
+* Generates a high level of EXP, which speeds crew training. R33 Churchill LL 
+* Preferential matchmaking (Tier VI max, no Tier VII battles). R33 Churchill LL 
+* Will never run out of ammo. R33 Churchill LL  Cheap standard and premium ammo and repair costs, making it a great credit earner. R33 Churchill LL 
+* Hull armor (particularly the lower plate) and speed is slightly better than the British tier 5 [[Churchill I]]
+
+|InTheGame_cons= 
+* Poorly armored turret, prone to ammo racks if hit by a large shell, 1-hit kills from an O-I AP shell, and an injured gunner. R33 Churchill LL 
+* Moves, accelerates, and rotates slowly. R33 Churchill LL  Long chassis and central turret make it dangerous when poking out of corners. R33 Churchill LL 
+* Low alpha damage and penetration, gun reloads faster than it can aim
+* Priority target for artillery
+* Front of turret has large opening which is a huge weak-spot; the Crusader, Cromwell, and Comet share this weak-spot. R33 Churchill LL 
+* No HE ammunition which can be a problem against tougher targets where even APCR can't reliably penetrate
+
+|InTheGame_performance=
+The Churchill III is a decent heavy tank, but is slower than most others. R33 Churchill LL  This tank makes up for its slow traverse speed with the fast fire of its gun. R33 Churchill LL  The Churchill III's gun is virtually transformed into a machine gun when equipped with a Tank Gun Rammer, making it have a 2 second reload with a 50% crew, if you can get your crew to 100%, you can have less than a 2 second reload time. R33 Churchill LL  Aiming at delicate areas of enemy tanks and having the Dead Eye skill can devastate opponents. R33 Churchill LL  The Churchill is also one of the few tanks that maintains decent accuracy when firing while on the move. R33 Churchill LL  Furthermore, despite a relatively poor accuracy, shots tend to go down the center of the reticule. R33 Churchill LL 
+
+Lights and mediums of your own tier fear the Churchill III's firepower, but tier 5-6 heavies are to be avoided. R33 Churchill LL  The [[KV-1]] can be a problem, unless you can get at close range and hammer his driver's hatch. R33 Churchill LL  Similar situation with the [[T1 Heavy Tank]] and [[BDR G1 B]]. R33 Churchill LL  The [[AT 2]] should be absolutely avoided, same goes for the [[T-150]]. R33 Churchill LL  A [[KV-2]] can one-shot a Churchill without breaking a sweat, even though you can use the reload time of the gun to hammer it and the 122mm gun on the [[KV-85]] takes out more than half of your tank per shot, but if you can get to its flanks, they are quite weak and hitting it repeatedly can end up setting it on fire. R33 Churchill LL 
+
+The low damage and high rate of fire call for you to do module damage instead of trading shots at range - try not to engage enemy heavies beyond punching distance. R33 Churchill LL  Tracking an enemy in a peek-a-boo position can keep him permanently stuck while dealing consistent damage if you stay out of his gun and keep firing at front wheel. R33 Churchill LL  And beware whilst on turret down positions: thanks to the slope on the front hemisphere, you will autobounce many small caliber shots, but optical devices will be taken out very frequently if you do this. R33 Churchill LL 
+
+The upkeep costs for the Churchill are low and a good match can earn you anything between 10-20,000 credits, sometimes even more. R33 Churchill LL  An outstanding match in the Churchill III will easily bag you over 3,000 exp. R33 Churchill LL  Being a good player in this tank will benefit you greatly
+
+|InTheGame_research= Premium tank, requires no additional research
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Spall Liner, Toolbox
+
+|InTheGame_Equipment_Builds=
+
+|InTheGame_builds=
+
+|External_Reviews= 
+
+|History=
+
+The Tank, Infantry, Mk IV (A22) was a heavy British infantry tank used in the Second World War, best known for its heavy armor, large longitudinal chassis with all-around tracks with multiple bogies, and its use as the basis of many specialty vehicles. R33 Churchill LL  It was one of the heaviest allied tanks of the war. R33 Churchill LL  This series of tanks was named after Winston Churchill,[1] who was Prime Minister of the United Kingdom and Minister of Defence at the time, and had been involved with the development of the tank as a weapon during the First World War. R33 Churchill LL 
+
+== History ==
+==== A20 ====
+Initially specified before the outbreak of the Second World War, the (General Staff designation) A20 was to be the replacement for the Matilda II and Valentine infantry tanks. R33 Churchill LL  The British turned to this tank after a great number of tanks were lost in France. R33 Churchill LL  In accordance with British infantry tank doctrine and based on the expected needs of World War I-style trench warfare, the tank was required to be capable of navigating shell-cratered ground, demolishing infantry obstacles such as barbed wire, and attacking fixed enemy defences. R33 Churchill LL  For these purposes, great speed and heavy armament was not required. R33 Churchill LL  For these purposes, if was heavily armoured, and the tracks ran around the length of the hull for maximum weight distribution and off-road performance. R33 Churchill LL 
+
+The vehicle was specified initially to be armed with two QF 2 pounder guns each located in a side sponson, with a coaxial BESA machine gun. R33 Churchill LL  A third BESA and a smoke projector would be fitted in the front hull. R33 Churchill LL  The specification was revised to prefer a turret with 60 mm of armor to protect against ordinary shells from the German 37 mm gun. R33 Churchill LL  Outline drawings were produced based on the A12 Matilda turret and the engine of the Covenanter tank. R33 Churchill LL  Detail design and construction of the A20 was given to the Belfast shipbuilders Harland and Wolff, who completed four prototypes by June 1940. R33 Churchill LL  During the construction period, the armament was reconsidered; which including fitting either a 6 pounder or a French 75 mm gun in the forward hull. R33 Churchill LL  In the end, a 3-inch howitzer was chosen. R33 Churchill LL [2][3] The A20 designs were short-lived however, as at roughly the same time the emergency evacuation of the British Expeditionary Force from Dunkirk occurred. R33 Churchill LL 
+
+At 43 tons, with a 300 hp Meadows engine, the A20 had limited power. R33 Churchill LL  Vauxhall were approached to see if they could build the A20 and one example was sent to Vauxhall at Luton to see if they could provide an alternative engine. R33 Churchill LL  To this end, they developed a flat 12 petrol engine. R33 Churchill LL [4]
+
+==== A22 ====
+With France conquered, the scenario of trench warfare in Northern Europe was no longer applicable and the design was revised by Dr. R33 Churchill LL  H. R33 Churchill LL E. R33 Churchill LL  Merritt,[note 2] Director of Tank Design at Woolwich Arsenal, based on the combat witnessed in Poland and France. R33 Churchill LL  These new specifications, for the A22 or Infantry Tank Mark IV, were given to Vauxhall in June 1940. R33 Churchill LL [5]
+
+With German invasion looking imminent and the United Kingdom having lost most of its military vehicles in the evacuation from France, the War Office specified that the A22 had to enter production within the year. R33 Churchill LL  By July 1940, the design was complete and by December of that year the first prototypes were completed. R33 Churchill LL  In June 1941, almost exactly a year as specified, the first Churchill tanks began rolling off the production line. R33 Churchill LL 
+
+A leaflet from the manufacturer was added to the User Handbook which stated that it had great confidence in the fundamental design of the tank, but that the model had been put into production without time for proper honing and that improvements would be made in time. R33 Churchill LL 
+
+:“	. R33 Churchill LL . R33 Churchill LL . R33 Churchill LL . R33 Churchill LL Fighting vehicles are urgently required, and instructions have been received to proceed with the vehicle as it is rather than hold up production. R33 Churchill LL 
+All those things which we know are not as they should be will be put right. R33 Churchill LL . R33 Churchill LL . R33 Churchill LL 	”
+
+The document then covered, for each area of the tank affected; the fault, precautions to avoid the fault, and what was being done to correct the problem. R33 Churchill LL 
+
+This hasty development had not come without cost though, as there had been little in the way of testing and the Churchill was plagued with mechanical faults. R33 Churchill LL  Most apparent was that the Churchill's engine was underpowered and unreliable, and difficult to access for servicing. R33 Churchill LL  Another serious shortcoming was the tank's weak armament, the 2 pounder (40 mm) gun, which was improved by the addition of a 3 inch howitzer in the hull (the Mk IICS had the howitzer in the turret) to deliver an HE shell, albeit not on a howitzers usual high trajectory. R33 Churchill LL  These flaws contributed to the tank's poor performance in its first use in combat, the disastrous Dieppe Raid in August, 1942. R33 Churchill LL  The problem resulted in the howitzer's low traverse and the inadequate main armament. R33 Churchill LL 
+
+Production of a turret to carry the QF 6 pounder gun began in 1941, but problems with the plate used in an all-welded design led to an alternative cast turret also being produced. R33 Churchill LL  These formed the distinction between Mark III and Mark IV. R33 Churchill LL [6]
+
+The poor performance of the Churchill nearly caused production to be ceased in favor of the upcoming Cromwell tank. R33 Churchill LL  It was saved by the successful use of the Mk III at the Second Battle of El Alamein in October 1942. R33 Churchill LL 
+
+The second major improvement in the Churchill's design, the Mk VII, was first used in the Battle of Normandy in 1944. R33 Churchill LL  The Mk VII improved on the already-heavy armor of the Churchill with a wider chassis and the 75 mm gun which had been introduced on the Mk VI. R33 Churchill LL  It was primarily this variant, the A22F, which served through the remainder of the war and was re-designated as the A42 in 1945. R33 Churchill LL 
+
+== Design ==
+The hull was made up of simple flat plates which were initially bolted together and welded in later models. R33 Churchill LL  The hull was split into four compartments; the driver's position at the front, then the fighting compartment including the turret, the engine compartment, and the gearbox compartment. R33 Churchill LL  The suspension was fitted under the two large "panniers" on either side of the hull, the the track running over the top. R33 Churchill LL  There were eleven bogies on either side, each carrying two 10-inch wheels. R33 Churchill LL  Only nine of the bogies were taking the vehicle weight normally, the front coming into play when the vehicle nosed into the ground or against an obstacle, the rear acting, in part, as a track tensioner. R33 Churchill LL  Due to the number of wheels, the tank could survive losing several without much in the way of adverse affects, as well as traversing steeper terrain obstacles. R33 Churchill LL  As the tracks ran around the panniers, escape hatches in the side could be incorporated into the design. R33 Churchill LL  These were retained throughout the revisions of the Churchill and were of particular use when the Churchill was adopted as the AVRE. R33 Churchill LL 
+
+The Bedford Vehicles engine was effectively two engines in horizontally opposed configuration ("flat twelve") on a common crankshaft. R33 Churchill LL  There were four Solex carburators, each on a separate manifold, that fed three cylinders formed as a single cylinder head. R33 Churchill LL  The elements of the engine and ancillary components were laid out so they could be reached for maintenance through the engine deck covers. R33 Churchill LL  Air for the engine was drawn from the fighting compartment through air cleaners. R33 Churchill LL  Cooling air was drawn into the engine compartment through louvres on the sides, across the radiators and through the engine compartment by a fan driven by the clutch. R33 Churchill LL  This fan blew the air over the gearbox and out the rear of the hull. R33 Churchill LL  By opening a flap between the fighting compartment and the engine compartment, this airflow could be used to remove fumes produced by firing the armament. R33 Churchill LL  The 1,296 cubic inch capacity engine was rated at 350 bhp at 2,000 rpm, delivering 960 lb. R33 Churchill LL ft over an engine speed range of 800 to 1,600 rpm. R33 Churchill LL 
+
+The gearbox featured a regenerative steering system that was controlled by a tiller bar instead of the more commonplace brake levers or steering wheel. R33 Churchill LL  The tiller was connected, with servo assistance, hydraulicly to the steering brakes. R33 Churchill LL  The Churchill was also the first tank to utilise the Merritt-Brown gearbox, which allowed the tank to be steered by changing the relative speeds of the two tracks; this effect became more pronounced with each lower gear, ultimately allowing the tank to perform a "neutral turn" when no gear was engaged: it could fully turn on its own axis. R33 Churchill LL  There were final reduction gears, of the planetary type, in the driving wheels. R33 Churchill LL 
+
+The first turrets were of cast construction and were rounded in shape, providing sufficient space to accommodate the relatively small 2 pounder gun. R33 Churchill LL  To fulfil its role as an infantry support vehicle, the first models were equipped with a 3 inch howitzer in the hull in a layout very similar to the French Char B. R33 Churchill LL  This enabled the tank to deliver a useful high-explosive capability while retaining the anti-tank capabilities of the 2 pounder. R33 Churchill LL  However, like other multi-gun tanks, it was limited by a poor fire arc: the entire tank had to be turned to change the aim of the hull gun. R33 Churchill LL  The Mk II dispensed with the howitzer and replaced it with a bow machine gun, and on the Mk III, the 2 pounder was replaced with the 6 pounder, significantly increasing the tank's anti-tank capabilities. R33 Churchill LL  The tank underwent field modification in North Africa with several Churchills being fitted with the 75 mm gun from destroyed M4 Shermans. R33 Churchill LL  These "NA75" variants were used in Italy. R33 Churchill LL  The use of the 75 mm, which was inferior as an anti-tank weapon to the 6 pounder, but better as an all-around gun, was soon made standard on successive versions. R33 Churchill LL 
+
+Churchills made use of the Vickers Tank Periscope MK. R33 Churchill LL IV. R33 Churchill LL  In the Mark VII, the driver had two periscopes as well as a vision port in the hull front that could be opened. R33 Churchill LL  The hull gunner had a single periscope as well as the sighting telescope on the BESA mounting. R33 Churchill LL  In the turret, the gunner and loader each had a single periscope and the commander had two fitted in his hatch cupola. R33 Churchill LL 
+
+The armor on the Churchill, often considered its most important trait, was originally specified to a minimum of 16 millimeters (0. R33 Churchill LL 63 in) and a maximum of 102 millimeters (4. R33 Churchill LL 0 in). R33 Churchill LL  This was increased with the Mk VII to a range of 25 millimeters (0. R33 Churchill LL 98 in) to 152 millimetrer (6. R33 Churchill LL 0 in). R33 Churchill LL  Though this armour was considerably thicker than its rivals (including the German Tiger I tank, but not the Tiger II) it was not sloped, reducing its effectiveness. R33 Churchill LL  Earlier models were given extra armor by the expedient of welding extra plates on. R33 Churchill LL 
+
+On the Mark VII, the hull front armor was made up of a lower angled piece of 5. R33 Churchill LL 5 in (140 mm), a nearly flat 2. R33 Churchill LL 25 in (57 mm) plate, and a vertical 6 inch plate. R33 Churchill LL  The hull sides, were for the most part, 3. R33 Churchill LL 75 in (95 mm). R33 Churchill LL  The rear was 2 in (51 mm) and the hull top 0. R33 Churchill LL 525 in (13. R33 Churchill LL 3 mm). R33 Churchill LL  The turret of the Mark VII was 6 in (150 mm) to the front and 3. R33 Churchill LL 75 in (95 mm) for the other sides. R33 Churchill LL  The turret roof was 0. R33 Churchill LL 79 (20 mm) thick. R33 Churchill LL  Plate was specified as IT 80, the cast sections as IT 90. R33 Churchill LL [7]
+
+The A22F, also known as "Heavy Churchill", was a major revision of the design. R33 Churchill LL  The most significant part was the use of welding instead of riveted construction. R33 Churchill LL  Welding had been considered earlier for the Churchill, but until its future was assured, this was no more than testing techniques and hulls at the firing ranges. R33 Churchill LL  What welding reduced in the overall weight (estimates were around 4%), the thicker armor of the A22F made up for. R33 Churchill LL  Welding was also required fewer man-hours in construction. R33 Churchill LL  The hull doors changed from square to round, which reduced stresses. R33 Churchill LL  A new turret went with the new hull. R33 Churchill LL  The sides, which included a flared base to protect the turret ring, were a single casting while the roof, which did not need to be so thick, was a plate fitted to the top. R33 Churchill LL [8]
+
+Since the engines on the Churchill were never up-graded, the tank became increasingly slower as additional armor and armament was equipped and weight increased; while the Mk I weighed 39,118 kg (40 long tons) and the Mk III weighed 39,626 kg, the Mk VII weighed 40,643 kg. R33 Churchill LL  This caused a reduction in maximum speed of the tank from its original 26 kilometers per hour (16 mph) down to 20. R33 Churchill LL 5 kilometers per hour (12. R33 Churchill LL 7 mph). R33 Churchill LL  The engines also suffered from many mechanical problems. R33 Churchill LL 
+
+Another problem was the tank's relatively small turret that prevented the use of powerful weapons; definitive versions of the tank were armed with either the QF 6 pounder or the derivative QF 75 mm gun, both having reasonable power against armored and soft targets respectively, but with limited performance against the other. R33 Churchill LL  Although earlier Churchills could out-gun many contemporary German medium tanks, like the Panzer IV with the short-barrel 75 mm gun and the Panzer III's 50 mm gun with its 6 pounder, and the thick armor of all Churchill models could usually withstand several hits from any German anti-tank gun, late in the war, Germans had 75 mm high-velocity cannons as their main armament and increased protection, against which the Churchill's own guns often lacked sufficient armor penetration to fight back effectively. R33 Churchill LL 
+The Churchill had many variations, including many specialized modifications. R33 Churchill LL  The most significant change to the Churchill was that it was up-gunned from a 2 pounder, a 6 pounder, and then 75 mm guns over the course of the war. R33 Churchill LL  By the war's end, the late model Churchill Mk VII had exceptional amounts of armor: considerably more than the German Tiger tank. R33 Churchill LL  However, the firepower weakness was never fully addressed. R33 Churchill LL  The Mark VII turret that was designed for the 75 mm gun was of composite construction: cast with top and bottom plates welded into position. R33 Churchill LL [5]
+
+It is important to note that, despite its weaknesses, the Churchill had a significant advantage that was apparent throughout its career. R33 Churchill LL  Due to its multiple bogie suspension, it could cross terrain obstacles that most other tanks of its era could not. R33 Churchill LL [citation needed] This feat served it served well, especially during the fighting in Normandy, and particularly, the capture of Hill 309 between the 30th and 31st July 1944 in operation Bluecoat, conducted by the VIII Corps. R33 Churchill LL 
+
+== Service history ==
+
+==== North Africa ====
+A few Churchills were in use for the Second Battle of El Alamein in October 1942. R33 Churchill LL  The six Mk III tanks (with the 6 pounder gun) of "KingForce" went into battle in support of the 7th Motor Brigade. R33 Churchill LL  Although all were heavily shelled by German anti-tank guns, only one received more than light damage. R33 Churchill LL  One tank was said to have been hit up to 80 times. R33 Churchill LL [9][10]
+
+Kingforce was disbanded afterwards. R33 Churchill LL  The Churchills had been sent to Africa to see if they could operate there, and a Tank Brigade ( three tank regiments[note 3]) was sent to Africa, going into action in February. R33 Churchill LL 
+
+In one encounter, a Churchill tank got the better of a German heavy tank, a Tiger I, when a shot lodged between the Tiger's turret and turret ring. R33 Churchill LL  The crew abandoned the Tiger, which was subsequently captured by the British. R33 Churchill LL  As the first Tiger captured by the Western Allies, it was particularly useful, and is now on display at Bovington Tank Museum in the United Kingdom. R33 Churchill LL 
+
+==== Italy ====
+As the mainstay of the Tank Brigades, which operated in support of the infantry, Churchill units were in operation more often than other tank units. R33 Churchill LL [11]
+The "NA75" conversions of Churchill Mark III to carry the US 75 mm gun were used in Italy. R33 Churchill LL  As the Churchill proved to be a better gun platform, the effective range of the 75 mm was increased. R33 Churchill LL 
+
+==== North-West Europe ====
+Churchills saw widespread action in Normandy as well as subsequent operations in the Low Countries and into Germany, such as the fighting in Reichwald during Operation Veritable. R33 Churchill LL 
+
+=== Other theatres ===
+In tests conducted in the Madang by the Australian Army in mid-1944 at the request of Britain's War Office, the Churchill was tested against the M4 Sherman and found it to be, overall, a superior tank for jungle warfare. R33 Churchill LL  However the Churchill was not used in the Far East. R33 Churchill LL 
+
+==== Korean War and after ====
+In late 1950, a Churchill Crocodile squadron was sent to Korea. R33 Churchill LL  In action against the Chinese, they mostly fought as gun tanks. R33 Churchill LL  These were the last use of the Churchill in action by the British. R33 Churchill LL  The tank remained in the service of the British Army until 1952 with one, a bridge-layer, remaining in service well into the 1970s. R33 Churchill LL 
+
+==== USSR ====
+The Soviet Union received a total of 301 Churchill Mk III and Mk IV types as part of the Lend-Lease programme. R33 Churchill LL 
+
+==== Irish Army Service ====
+The Irish Army took delivery of three Churchill Mk VI tanks in 1948 and a fourth in 1949. R33 Churchill LL  They were rented from the British War Office as trials vehicles until 1954, when they were purchased outright. R33 Churchill LL  This purchase was despite the fact that the supply and transport corps workshops, who maintained them, had reported that spares had all but run out. R33 Churchill LL [12] Experiments were carried out involving replacing the existing Bedford engine with a Rolls Royce Merlin engine salvaged from an Irish Air Corps Seafire aircraft. R33 Churchill LL  The experiment was not a success, although the reasons are not recorded. R33 Churchill LL [12] By 1967, only one Churchill remained serviceable, and by 1969 all were retired. R33 Churchill LL  One remains preserved in the Curragh Camp. R33 Churchill LL 
+
+== Variants ==
+[[image:Churchill_VII_AVRE_With_Fascine. R33 Churchill LL jpg|thumb|200px|right|Churchill AVRE with fascine on tilt-forward cradle. R33 Churchill LL  This particular example is a post-WW2 AVRE on the MK VII chassis. R33 Churchill LL ]]
+
+[[image:Churchill_ARC. R33 Churchill LL jpg|thumb|200px|right|Churchill Ark Mk II. R33 Churchill LL ]]
+
+[[image:Churchill_Kangaroo. R33 Churchill LL jpg|thumb|200px|right|A postwar Churchill Kangaroo viewed from the rear corner]]
+
+[[image:Churchill_Crocodile. R33 Churchill LL jpg|thumb|200px|right|Churchill Mk VII -- Churchill Crocodile. R33 Churchill LL ]]
+
+With number produced
+* '''Churchill I (303)''' --- Equipped with a 2 pounder gun in the turret (150 rounds), and a coaxial Besa machine gun. R33 Churchill LL  There was a 3 inch howitzer in the hull (58 rounds). R33 Churchill LL  It was a tank that was noted for poor mechanical reliability. R33 Churchill LL  It was the main tank issued to the Canadian forces at Dieppe. R33 Churchill LL 
+* '''Churchill Mk II (1,127)''' --- Replaced the hull howitzer for another machine gun to reduce cost and complexity. R33 Churchill LL  Sometimes referred to as Churchill Ia. R33 Churchill LL 
+* '''Churchill Mk IICS (Close Support)''' --- Placed the gun in the hull and the howitzer in the turret, available in very limited numbers. R33 Churchill LL  Sometimes called Churchill II. R33 Churchill LL 
+* '''Churchill Mk III (675)''' --- The III was the first major armament overhaul of the series, eliminating the hull howitzer and equipping the tank with a more powerful 6 pounder gun (84 rounds). R33 Churchill LL  Unlike early versions, it had a welded turret. R33 Churchill LL 
+* '''Churchill Mk IV (1,622)''' --- The IV was the most numerous Churchill produced, and was virtually identical to the III, the largest change being a return to the less-costly cast turret. R33 Churchill LL 
+* '''Churchill Mk V (241)''' --- A Churchill III / IV which was equipped with a close support 95 mm howitzer in place of the main gun (47 rounds). R33 Churchill LL 
+* '''Churchill Mk VI (200)''' --- Along with several minor improvements, it was produced as standard with the 75 mm Mk V gun. R33 Churchill LL  Few were built due to the near release of the VII and current up-gunning of the III / IV. R33 Churchill LL 
+* '''Churchill Mk VII (A22F) (1,600 with VIII)''' --- The second major redesign from previous models, the VII used the 75 mm gun, was wider, and had much more armor. R33 Churchill LL  It is sometimes called the Heavy Churchill. R33 Churchill LL  This version of the Churchill first saw service in the Battle of Normandy, and was re-designated A42 in 1945. R33 Churchill LL 
+* '''Churchill Mk VIII''' --- A Churchill VII which replaced the main gun with a 95 mm howitzer (47 rounds). R33 Churchill LL 
+Refitted previous versions:
+* '''Churchill Mk IX''' --- Churchill III / IV upgraded with turret of the VII. R33 Churchill LL  Extra armor added along with gearbox and suspension modifications. R33 Churchill LL  If the old 6 pounder had been retained, it would have the additional designation of LT ("Light Turret"). R33 Churchill LL 
+* '''Churchill Mk X''' --- The same improvements as for the IX applied to a Mk VI. R33 Churchill LL 
+* '''Churchill Mk XI''' --- Churchill V with extra armor and Mk VIII turret. R33 Churchill LL 
+* '''Churchill NA75 (200)''' --- Churchill III / IV with up-graded weaponry using the turret and mantlet from a destroyed or scrapped Sherman (known as NA 75 from North Africa where the conversions took place), or having their current gun re-bored to 75 mm (III* / IV (75 mm) ) (84 rounds). R33 Churchill LL  More IVs were modified than IIIs, and their performance is virtually identical to the VI. R33 Churchill LL  To fit the Sherman mantlet required cutting away the front of the Churchill turret before it was welded in place, then the mantlet slot had to be cut away to give sufficient elevation. R33 Churchill LL  The Sherman 75 mm gun was designed for a left hand loader and the Churchill, in common with British practice, had a right hand loader. R33 Churchill LL  The gun was therefore turned upside down and the firing controls adapted. R33 Churchill LL [13] The conversion of about 200 tanks was carried out between March–June 1944, and the conversion project earned the officer in charge an MBE as well as promotion. R33 Churchill LL 
+
+==== Specialist vehicles ====
+* '''Churchill Oke (3)''' --- A Churchill II or III with a flamethrower. R33 Churchill LL  The Oke flamethrowing tank was named after its designer, Major J. R33 Churchill LL M. R33 Churchill LL  Oke. R33 Churchill LL  The design was basically for a Churchill tank fitted with the Ronson flamethrower equipment. R33 Churchill LL  A tank containing the flame fuel was fitted at the rear, with a pipe from it leading to the mounting on the front hull to the left, leaving the hull machine gun unobstructed. R33 Churchill LL  There were three (named "Boar", "Beetle" and "Bull") present, in the first wave, at Dieppe which were quickly lost,[14] and abandoned. R33 Churchill LL 
+* '''Churchill AVRE (Armoured Vehicle Royal Engineers)''' --- A Churchill III or IV equipped with the Petard, a 290 mm Spigot mortar, throwing the 40 lb (18 kg) "Flying dustbin" with its 28 pound high explosive warhead; a weapon designed for the quick levelling of fortifications developed by MD1. R33 Churchill LL  The AVRE was designed after the Canadian defeat at Dieppe, and could also be equipped with numerous other attachments, such as mine flails, fascine rollers, explosive placers, etc. R33 Churchill LL  Post war, the Churchill AVRE was re-armed with a breech-loaded low velocity 165mm demolition gun which, was less dangerous for the loader (the hull gunner) as he previously had to stick his head and torso out of the Spigot Mortar armed AVRE to load the Mortar. R33 Churchill LL  The crew of six were drawn from the Royal Engineers, except for the driver who came from the Royal Armoured Corps. R33 Churchill LL  One of the RE crew was a demolitions NCO sapper responsible for priming the "Flying dustbin" and who led the crew when they dismounted from the tank to place demolition charges ("Wade" charges). R33 Churchill LL 
+* '''Churchill ARV (Armoured Recovery Vehicle)''' --- Mk I - A turretless Mk I with a jib. R33 Churchill LL  Mk II - A Churchill with a fixed turret/superstructure with a dummy gun. R33 Churchill LL  It was equipped for recovering other tanks from the battlefield. R33 Churchill LL  Mounted a front jib with a 7. R33 Churchill LL 5 ton capacity, a rear jib rated for 15 tons, and winch that could pull 25 tons. R33 Churchill LL  Crew was 3 with enough room to carry the crew of the tank being recovered. R33 Churchill LL  Armament was a single Besa machine gun. R33 Churchill LL 
+* '''Churchill ARK (Armoured Ramp Carrier) / Churchill Ark Mk II''' --- A turretless Churchill with ramps at either end and along the body to form a mobile bridge. R33 Churchill LL  The Mark 1 had trackways over the tracks for vehicles to drive along. R33 Churchill LL  The Mark 2 was an improvised version and crossing vehicles drove directly on the Churchill's tracks. R33 Churchill LL  the Link Ark (or "Twin Ark") was two ARKs used side-by-side to give a wide crossing. R33 Churchill LL  The ramps on these were folding types giving a longer, 65 ft (20 m), crossing. R33 Churchill LL [15] This was used for the post war Conqueror heavy tank. R33 Churchill LL 
+* '''Churchill Crocodile (no more than 800[16])''' --- The Crocodile was a Churchill VII which was converted by replacing the hull machine gun with a flamethrower. R33 Churchill LL  The fuel was in an armored wheeled trailer towed behind. R33 Churchill LL  It could fire several 1 second bursts over 150 yards. R33 Churchill LL  The Crocodile was one of "Hobart's Funnies": another vehicle used by the 79th Armoured Division. R33 Churchill LL  A working example can still be seen at the Cobbaton Combat Collection in North Devon. R33 Churchill LL [citation needed]
+* '''Gun Carrier, 3in, Mk I, Churchill (A22D) (50)''' --- A fixed 88 mm (3. R33 Churchill LL 5 in) thick superstructure with the gun in a ball mount. R33 Churchill LL  The gun was an otherwise obsolete 3 inch anti-aircraft gun. R33 Churchill LL  Fifty were built in 1942, but none are known to have been used - the 17 pounder anti-tank gun gave the British the necessary firepower. R33 Churchill LL 
+* '''Churchill Flail FV3902 or Toad''' --- A post-war (1950s) mine-clearing flail tank built on a Churchill chassis. R33 Churchill LL 
+* '''Churchill Goat''' --- A chargelayer like the Double Onion device. R33 Churchill LL 
+* '''Churchill Great Eastern''' --- A much larger longer ramp than the ARK for crossing 60 ft. R33 Churchill LL  The ramp was launched into position with rockets. R33 Churchill LL  Ten built and two delivered in 1945, but not used in action. R33 Churchill LL [17]
+* '''Churchill Kangaroo''' --- Churchill hull converted to an APC. R33 Churchill LL 
+
+==== Designs based on chassis ====
+In 1943, an attempt was made to up-gun the Churchill by using Heavy Churchill tanks modified to take a 17 pounder gun, as was done with the Sherman Firefly. R33 Churchill LL  This resulted in the Tank, Infantry, Black Prince (A43) in May 1945. R33 Churchill LL  Six prototypes were built, but the project was cancelled due to the emergence of the new and less complicated Centurion Mk1 which offered the same armament and armor and had just entered production. R33 Churchill LL 
+
+==== Operators ====
+* Australia retired, replaced with the Centurion tank
+* Canada retired, replaced with the Centurion tank
+* Ireland retired in 1969, replaced with the Comet tank
+* Poland (Polish Armed Forces in the West) retired in 1947, no replacement
+* United Kingdom retired, replaced with the Centurion tank
+* Soviet Union (Lend-Lease) retired, replaced with IS-3 and T-10 tanks
+
+|HistAcc=
+The Bedford Twin-Six engine is more powerful than in reality, with 374 hp compared to the historical 350. R33 Churchill LL 
+* Actual ammo capacity is 84 rounds, not a whopping 140. R33 Churchill LL 
+* The Bedford Twin-Six is the same engine on the [[Churchill I]], [[Churchill VII]], [[Black Prince]] and [[Churchill Gun Carrier]], yet the horsepower and chance of fire on impact are inconsistent. R33 Churchill LL 
+* Dramatically worse gun elevation and depression than in reality, -6°/+12° instead of -12°/+20°. R33 Churchill LL 
+
+|HistoricalGallery=
+image:Churchill_Mk_III. R33 Churchill LL jpg{{!}}Churchill III
+image:Churchill_IV. R33 Churchill LL jpg{{!}}Churchill IV
+
+|Ref_references=
+
+# TOAD Flail in reserve for British Army until mid 1960s
+# who was also responsible for the triple differential design of the Merritt-Brown gearbox used in the Churchill
+# North Irish Horse, 51st Royal Tank Regiment and 142 (Suffolk) Regiment RAC
+
+''' Citations '''
+
+# Churchill Tank (1983) page ix
+# Fletcher p21
+# Perrett, p. R33 Churchill LL  4
+# Fletcher p 21, p 58
+# a b "Fabrication of the new Churchill Tank, MK VII"
+# Fletcher p59
+# Churchill - vehicle history and specifications
+# Fletcher The Universal Tank
+# KingForce
+# Perrett p17
+# Perrett p. R33 Churchill LL 11
+# a b Martin, Karl (2002). R33 Churchill LL  Irish Army vehicles: transport and armour since 1922. R33 Churchill LL  p. R33 Churchill LL  58. R33 Churchill LL  ISBN 0954341309. R33 Churchill LL 
+# Perrett, p. R33 Churchill LL  9
+# Perrett p16
+# https://www. R33 Churchill LL remuseum. R33 Churchill LL org. R33 Churchill LL uk/articles/rem_article_assaultbridge. R33 Churchill LL htm
+# 800 Crocodile conversion kits were produced. R33 Churchill LL  Delaforce p. R33 Churchill LL  71
+# Chris Shillito. R33 Churchill LL  "Churchill Great Eastern Ramp". R33 Churchill LL  Armourinfocus. R33 Churchill LL co. R33 Churchill LL uk. R33 Churchill LL  Retrieved 2010-03-06. R33 Churchill LL 
+
+|Ref_sources=
+
+* Chant, Christopher (1997). R33 Churchill LL  An Illustrated Data Guide to Battle Tanks of World War II. R33 Churchill LL  London: Chelsea House Publications. R33 Churchill LL  ISBN 9781855018563. R33 Churchill LL 
+* Delaforce, Patrick (2006). R33 Churchill LL  Churchill's Secret Weapons: the story of Hobart's Funnies. R33 Churchill LL  Barnsley: Pen & Sword. R33 Churchill LL  ISBN 1 84415 464 5. R33 Churchill LL 
+* Perrett, Bryan; Sarson, Peter; Chappell, Mike (1993). R33 Churchill LL  Churchill Infantry Tank 1941-1945. R33 Churchill LL  Osprey Publishing. R33 Churchill LL  ISBN 9781855322974. R33 Churchill LL 
+* "Fabrication of the new Churchill Tank, MK VII". R33 Churchill LL  www. R33 Churchill LL royaltankregiment. R33 Churchill LL com. R33 Churchill LL  The Royal Tank Regiment Association. R33 Churchill LL 
+* Fletcher, David - The Great Tank Scandal: British Armour in the Second World War Part 1 1989 HMSO
+* Fletcher, David - Universal Tank: British Armour in the Second World War Part 2 1989 HMSO
+* Churchill Tank - Vehicle History and Specifications 1983 HMSO ISBN 0 11 290404 1
+
+|Ref_links=
+
+* [[https://www. R33 Churchill LL churchilltank. R33 Churchill LL com/Churchill_Tank/Churchill_Tank_Project. R33 Churchill LL html Churchill tank restoration project]]
+* [[https://www. R33 Churchill LL wwiiequipment. R33 Churchill LL com/churchill. R33 Churchill LL aspx Churchill Tank development and technical data]]
+* [[https://www. R33 Churchill LL armourinfocus. R33 Churchill LL co. R33 Churchill LL uk/a22/ Armour in Focus A22]]
+* [[https://henk. R33 Churchill LL fox3000. R33 Churchill LL com/churchill. R33 Churchill LL htm Henk of Holland]]
+* OnWar specifications: [[https://www. R33 Churchill LL onwar. R33 Churchill LL com/tanks/uk/fchurchill1. R33 Churchill LL htm Churchill I]] [[https://www. R33 Churchill LL onwar. R33 Churchill LL com/tanks/uk/fchurchill4. R33 Churchill LL htm Churchill IV]] [[https://www. R33 Churchill LL onwar. R33 Churchill LL com/tanks/uk/fchurch7. R33 Churchill LL htm Churchill VII]]
+* [[https://freespace. R33 Churchill LL virgin. R33 Churchill LL net/shermanic. R33 Churchill LL firefly/church1. R33 Churchill LL html Development of the Churchill]]
+* [[https://freespace. R33 Churchill LL virgin. R33 Churchill LL net/chris. R33 Churchill LL shillito/a22new/articles/a20devtext. R33 Churchill LL htm A20 developmental history]]
+* [[https://www. R33 Churchill LL wwiivehicles. R33 Churchill LL com/unitedkingdom/infantry/churchill. R33 Churchill LL html WWII Vehicles]]
+* [[https://rkkaww2. R33 Churchill LL armchairgeneral. R33 Churchill LL com/galleries/Lendlease/Churchill. R33 Churchill LL htm Churchills in Soviet Union]]
+* [[https://www. R33 Churchill LL battlefield. R33 Churchill LL ru/en/armors/56-lend-lease/154-churchill4. R33 Churchill LL html "Churchill" Heavy Infantry Tank in the Soviet Battlefield]]
+* [[https://web. R33 Churchill LL archive. R33 Churchill LL org/web/20070927082011/https://www. R33 Churchill LL royaltankregiment. R33 Churchill LL com/9th_RTR/appendices/Appx+5+The+Churchill+Tank. R33 Churchill LL htm Detailed vehicle description at 9th Battalion, Royal Tank Regiment website]]
+* [[https://web. R33 Churchill LL archive. R33 Churchill LL org/web/20070226224441/https://www. R33 Churchill LL royaltankregiment. R33 Churchill LL com/9th_RTR/TT/CONTENTS. R33 Churchill LL HTM Detailed history of the 9th Battalion, using Churchills from introduction to war's end]]
+* [[https://www. R33 Churchill LL bbc. R33 Churchill LL co. R33 Churchill LL uk/ww2peopleswar/stories/58/a1981758. R33 Churchill LL shtml Memories of Frank Meredith]], 9th Battalion Driver/Mechanic 1942-1945 
+
+}}

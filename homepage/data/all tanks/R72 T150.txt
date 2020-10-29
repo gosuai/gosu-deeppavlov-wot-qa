@@ -1,0 +1,135 @@
+{{TankData|Tank=T150
+
+|Despite its name, the T-150 is an upgraded [[KV-1]]. R72 T150  It has the same chassis and turret, with some notable improvements. R72 T150  Additional armor has been added to the hull, a considerably more powerful engine is available, and perhaps most importantly, it can mount the 107 mm ZiS-6 gun. R72 T150  The tank can in fact be frustrating at first, but stick with it, and the improvement of the tank will be extremely noticeable. R72 T150  
+The T-150 has an extremely tough grind to its top gun, arguably worse than that of the [[M3 Lee]], because in order to mount the top gun, you need the turret, and for that you need the suspension too (a high grand total of 23,450 XP). R72 T150  The grind can be lessened somewhat by first researching the [[KV-2]], as you will be able to research the V-5 engine and the ZiS-6. R72 T150 
+
+The alternative [[Tank:R106 KV85|KV-85]] is more mobile in terms of maneuverability and sports a more consistent 100mm as well as a more damaging, but slow-reloading 122mm, but lacks the solid overall armour and respectable alpha and DPM of the T-150. R72 T150 
+
+|Gallery=
+T-150-a. R72 T150 jpg
+T-150-b. R72 T150 jpg
+T-150-c. R72 T150 jpg
+T-150-d. R72 T150 jpg
+
+|InTheGame_pros=
+* Good 90mm all-round hull armor can create 121mm of armor when fully angled and helps protect against flankers
+* Excellent at sidescraping due to side armor thickness and large tracks. R72 T150  Strong turret with small weakspots. R72 T150 
+* Powerful 107mm with good penetration and damage, acceptable rate of fire. R72 T150 
+* Good HP, well suited for spearheading a game with favorable match making, much better gun depression than KV-85 -7° vs -3°
+* Can keep up with the KV-85 in many situations, due to similar p/w ratio and top speed
+
+|InTheGame_cons=
+* Armor, especially the weak gun mantlet, is no match against gold shells
+* Subpar mobility and slower traverse speed than the KV-85
+* Extremely long grind to top gun as it requires the top turret which requires the top suspension
+* Abysmal accuracy on all guns (57mm is an exception)
+* Awful view range
+
+|InTheGame_performance=
+When stock, the T-150 is slow, well armored, but not enough, sluggish and weakly armed, playing much like low-tier French light tanks. R72 T150  Stock it equips much 
+of the same weapons of the KV-1, like the 57mm Project 413, 122mm U-11, and the KV-1S's 85mm S-31 cannon that has 1mm less penetration than the 
+[[KV-1]]'s 85mm F-30 and is 10kg lighter, but is otherwise identical. R72 T150  
+The stock 76mm ZiS-5 gun is an amusing novelty and has no business being in a tier VI heavy tank. R72 T150  The other weapons have good damage and 
+acceptable accuracy, but severely lack penetration. R72 T150  The 122mm U-11 provides the most consistent penetration/damage rate out of all the guns
+you can mount before the 107mm and is therefore most likely the best choice for your stock grind. R72 T150 
+
+Once upgraded with the 107mm ZiS-6 and engine, this tank is a nice upgrade to the KV-1. R72 T150  In contrast with the [[KV-2]], this tank has better armor, 
+with a turret that's much lower in profile, tougher, with faster traverse and sloped sides. R72 T150  
+Therefore, a T-150 with the ZiS-6 is quite a bit better than a KV-2 with the ZiS-6, although the reload time is slightly longer and the T-150 naturally can't mount the KV-2's 152 mm M-10. R72 T150 
+
+The 107mm ZiS-6 is a far cry from the 122mm D-2-5T of the [[KV-85]]. R72 T150  While the 122m deals 90 more damage per shot, the 107mm fires twice as fast. R72 T150  This means that while you lose out on the large alpha damage and psychological value of the 122mm, 
+you also don't have to worry so much about reload times, allowing one to HOLD, not just defend, a single point. R72 T150  The 107mm is also 0. R72 T150 05m more accurate than the 122mm. R72 T150  The tables are turned, however, when you compare the T-150's 107mm gun with the KV-85's 100mm gun. R72 T150  The 100mm not only reloads faster than the 107mm, it handles better and has slightly better AP penetration at the cost of only 50 damage per shot. R72 T150 
+
+An economical advantage of the 107mm over the D-2-5T and the 100mm S-43 is that its shells have an excellent damage-for-cost value. R72 T150  At 270 credits for 300~ damage, the 107mm definitely outclasses the D-2-5T's 1025 credits for 390~ damage and barely outclasses the S-43's 252 credits for 250~ damage  This makes the T-150 a cost-effective credit farmer compared with the KV-85 and both of its main guns. R72 T150  
+
+A very well known mistake when people drive the T-150 is that they think the tank is invincible, and make no attempt to angle or use sidescraping techniques. R72 T150  This results in many times a player dying uselessly in the first few minutes of the game. R72 T150  To do well in this tank, make full use of its armor; when facing tanks out in the open, angle that armor at no more than 45 degrees to give a lesser chance of penetration, when in a city, use sidescraping to bait tanks into shooting at the side and return fire when they are reloading. R72 T150  Used properly, the armor of a T-150 can prove to be a frustrating obstacle even to Tier 8 heavies. R72 T150 
+
+After the introduction of the Japanese Heavy tank line, the T-150 finds itself a victim of the power-creep. R72 T150  It is outclassed by the [[O-I]] in terms of firepower and armor. R72 T150  Both the 15cm and the 10cm guns of the O-I are significant threats in close-quarter battles. R72 T150  Ironically, the T-150 must look to its marginally-superior mobility and smaller profile in order to challenge the O-I and subsequent Japanese heavies. R72 T150  Bringing more gold rounds also helps. R72 T150 
+
+Make no mistake, the T-150 is still a potent heavy tank in the hands of a player who understands how to maximize its strengths. R72 T150  
+
+|InTheGame_research=
+* The 57 mm 413 and 122 mm U-11 guns, and the 10RK radio carry over from the KV-1. R72 T150  Mount whichever gun you prefer immediately. R72 T150 
+* Research and mount the suspension. R72 T150 
+* Research and mount the second turret
+* Now, research the ZiS-6 as soon as possible. R72 T150 
+* Lastly, go for the engines. R72 T150  
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox
+
+|History=
+Already in the summer of 1940, after the beginning of mass production of the KV tank, the issue arose concerning the strengthening of the tank's armor. R72 T150  On 17 June 1940, the SNK of the USSR and the TsK VKP(b) adopted resolution No. R72 T150  1288-495ss, which said in part,
+
+"By 1 November 1940, the Kirov Plant is to prepare two KV tanks with 90 mm armor. R72 T150  One of them will have the F-32 76 mm main gun, the other an 85 mm main gun. R72 T150  One hull will be delivered from the Izhorsk Plant at the end of October and the preparation of this tank is to be completed by 5 November. R72 T150  The second hull will be completed in November. R72 T150 
+
+By 1 December 1940 the Kirov Plant is to prepare two KV tanks with 100mm armor. R72 T150  One will have the F-32 76mm main gun, the other the 85mm main gun. R72 T150  One hull will be delivered at the end of October, the other in November. R72 T150 " 
+
+However, the deadline was not met. R72 T150  The plant delivered one KV with 90mm armor and the F-32 Main Gun on 5 November (in documents it is referred to as '''tank T-150 or Object 150'''), and one KV with 100mm armor and the 85mm main gun on 5 December (in documents it is referred to as "T-220" or "Object 220"). R72 T150 
+
+The T-150 was constructed on the base of the production KV and differed from it only in the magnitude of thickness of the hull armor, which had been increased from 75 to 90 mm. R72 T150  Because the thickening of the armor plates was accomplished externally, all the internal dimensions of the vehicle remained unchanged. R72 T150  In addition, the T-150 had modified mounting brackets for the chassis components and a commander's cupola with periscope and three vision blocks. R72 T150  In connection with the increase in the tank's weight, which had reached 50 tons, a V-2 Engine whose output had been boosted to 700 h. R72 T150 p. R72 T150  was installed. R72 T150 
+
+From 15 January to 14 February 1941 the vehicle underwent range testing (199 km total movement), which exposed a number of substantial deficiencies in the functioning of the engine. R72 T150  For example, during movement on a hard-surface road in 3d and 4th gear, at ambient air temperatures of -9° to -12° the lubricant in the engine became overheated. R72 T150  For this reason the tank was withdrawn from testing, and the Kirov Plant and Plant No. R72 T150  75 in Kharkov were directed to improve the cooling system and increase the temperature drop of the lubricant that passed through the engine. R72 T150 
+
+The KV-220 externally differed from ordinary KVs by the greater length of the hull, an increase of one support roller in the track, and a new turret with the 85 mm F-30 Main Gun. R72 T150  The weapon was specially designed for arming this tank in the design bureau of Plant No. R72 T150  92, under the supervision of Grabin. R72 T150  It was tested successfully in the T-28 Medium Tank in the fall of 1940. R72 T150  Because of the steep growth in the weight of the tank, which now reached 62 tons, the V-5 engine with 700 h. R72 T150 p. R72 T150  was mounted. R72 T150  Testing of the KV-220 commenced on 30 January 1941 and was halted the very next day because of engine failure. R72 T150 
+
+On 15 March 1941 the SNK and TsK VKP(b) by their resolution No. R72 T150  548-232ss '''required the Kirov Plant to transition to mass production of the T-150 tank in June under the designation KV-3. R72 T150 '''
+
+ The following technical specifications were established:
+
+'''"Combat weight - 51-52 tons, length - 6. R72 T150 76 metres, width - 3. R72 T150 33 metres, height - 3. R72 T150 0 metres, ground clearance - 0. R72 T150 4 metres, armor - 90 mm, armament - one F-34 76 mm main gun, three DT machine-guns, one PPSh submachine-gun, 114 main gun rounds, 2900 machine-gun cartridges, maximum road speed - 35 km/h, cross-country speed - 15-20 km/h, maximum slope gradient - 40 degrees, range - 250 km (10 hours), V-5 engine with 700 h. R72 T150 p. R72 T150 , turret with commander's cupola, KRSTB radio set (with mounting of 71-TK-3 possible), and a guaranteed vehicle life of 2,000 km. R72 T150 "'''
+
+"Regarding the KV-3 Tank (T-150). R72 T150 
+
+1. R72 T150  In modification of SNK and TsK VKP(b) Resolution No. R72 T150  548-232ss of 15 March 1941, I order:
+
+a) the front-slope armor of the KV-3 to be 115-120 mm and the turret armor to be 115 mm;
+
+b) the KV-3 will be armed with the ZIS-6 107 mm Cannon with a muzzle velocity of 800 m/s;
+
+2. R72 T150  The KV-3 turret is to be formed from forgings with slope angles not less than 30 degrees under the mount for the ZIS-6 107 mm Cannon. R72 T150  The director of the Kirov Plant, Comrade Zaltsman will:
+
+a) by 15 April 1941, together with the Izhorsk Plant, prepare and deliver to the Izhorsk Plant drawings (blueprints) for the modified KV-3 turret and hull;
+
+b) by 25 April 1941, together with the Izhorsk Plant, present for approval of the NKO a mockup of the KV-3 turret. R72 T150 
+
+3. R72 T150  The Kirov Plant will establish a plan for production in 1941 of 500 KV-3 tanks with the ZIS-6 107 mm Cannon. R72 T150 
+
+4. R72 T150  The director of the Kirov Plant, Comrade Zaltsman, is to keep in mind and consideration that:
+
+a) the Izhorsk Plant is obligated to deliver to the Kirov Plant by 20 May 1941 the first forged turret and KV-3 tank hull with full mechanical assemblies and artillery system armor protection. R72 T150  Subsequently, the Izhorsk Plant is responsible to ensure the production and assembly of these turrets and hulls in accordance with the schedule for the output of the KV-3 tanks that has been approved by the Government;
+
+b) The NKV (Comrade Vannikov), Plant No. R72 T150  92 (Comrade Yelyan), and the Chief Designer of Plant No. R72 T150  92 (Comrade Grabin), along with the Kirov Plant, are required to develop the drawings for the mounting of the ZIS-6 107 mm Cannon in the KV-3 turret and present them to the NKO for approval by 30 May 1941;
+
+c) Plant No. R72 T150  92 is required to deliver to Kirov Plant by 25 May 1941 a ZIS-6 107 mm Cannon with mounting parts, mount it in a KV-3 turret, and along with Kirov Plant develop the armor protection for this system;
+
+d) Plant No. R72 T150  92 of the NKV is required to deliver to Kirov Plant ZIS-6 107 mm Cannons for the 1941 program by the following schedule:
+
+July - 45 Cannons
+
+August - 80 Cannons
+
+September - 110 Cannons
+
+October - 110 Cannons
+
+November - 110 Cannons
+
+and by 15 December - 65 Cannons
+
+For more info see the '''Sources and External Links''' Section
+
+|HistoricalGallery=
+image:T-150 1. R72 T150 jpg{{!}}T-150 1
+image:T-150 2. R72 T150 jpg{{!}}T-150 2
+
+|Ref_references=https://english. R72 T150 battlefield. R72 T150 ru/kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R72 T150 html
+
+
+|Ref_sources=https://english. R72 T150 battlefield. R72 T150 ru/kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R72 T150 html
+
+
+|Ref_links=https://english. R72 T150 battlefield. R72 T150 ru/kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R72 T150 html
+
+
+}}

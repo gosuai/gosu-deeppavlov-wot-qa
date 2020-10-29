@@ -1,0 +1,64 @@
+{{TankData|Tank= Chi nu kai
+|The first Japanese tank introduced into the game. J12 Chi Nu Kai  With the introduction of the Japanese medium tank line, it has been rendered one of the most pointless premium tanks in the game due to being mostly identical to the standard [[Type 3 Chi-Nu]]. J12 Chi Nu Kai  Compared to a fully upgraded [[Type 3 Chi-Nu]], it has a better hull traverse speed and stronger turret armour, in exchange for worse gun depression and worse mobility. J12 Chi Nu Kai 
+
+|Gallery=
+
+File:Type 3 Chi-Nu Kai scr 1. J12 Chi Nu Kai jpg
+File:Type 3 Chi-Nu Kai scr 2. J12 Chi Nu Kai jpg
+File:Type 3 Chi-Nu Kai scr 3. J12 Chi Nu Kai jpg
+
+
+|InTheGame_pros= 
+''See [[Type 3 Chi-Nu]] for details; only differences are listed here''
+* Has a small strip of 150mm & 95mm thick frame around its gun mantlet
+* Turret sides and rear are also thicker, might pull lucky ricochets
+* Has somewhat better gun elevation
+
+|InTheGame_cons= 
+* Has worse gun depression of only 6 degress and a half
+* Lacks the top engine and radio option; really sluggish
+* Is also heavier than the base model, but not so much that it matters in ramming 
+
+|InTheGame_performance= 
+The Chi-Nu Kai is a very slow and tall for a tier V medium tank, relegating its role to be a mid-far range sniper. J12 Chi Nu Kai  The gun does have a fairly quick aim time as well as decent accuracy to support this playstyle. J12 Chi Nu Kai  Trying to fight on the front lines is discouraged, as you will constantly find yourself struggling as it does not have the alpha damage to trade shots with enemies nor the armor to take hits back from them. J12 Chi Nu Kai  Its poor overall mobility also makes relocating to another sniping position fairly difficult. J12 Chi Nu Kai 
+
+The Chi-Nu Kai has poor armor overall, as the 25 mm of hull side armor can be overmatched by any gun larger than 75 mm, meaning side-scraping will more often than not be unsuccessful. J12 Chi Nu Kai  However, you can sometimes get a lucky bounce along the edges of your gun mantlet, which are 150 mm thick. J12 Chi Nu Kai  This, combined with a decent gun depression at 6. J12 Chi Nu Kai 5 degrees, can make going hull-down against lower tiers an option, albeit an unreliable one due to the rest of the turret only being 50-75mm thick. J12 Chi Nu Kai 
+
+
+|InTheGame_research= 
+It's a premium vehicle so no research required. J12 Chi Nu Kai 
+
+|InTheGame_equipment=
+Improved Ventilation, Tank Gun Rammer, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+Medium Caliber Tank Gun Rammer, Enhanced Gun Laying Drive, Binocular Telescope
+
+|External_Reviews= 
+
+|History= 
+
+(See more on the [[Type 3 Chi-Nu]] history)
+
+The Type 3 Kai is the post-war popular designation of the proposed upgrades to the Type 3 Chi-Nu. J12 Chi Nu Kai  Given the late development of the Type 4 Chi-To and Type 5 Chi-Ri, the IJA needed a tank that could actually counter the M4 Sherman and other tanks of the Allies. J12 Chi Nu Kai  To this end it was decided to put the Type 5 75 mm Tank Gun one way or another on the Type 3 Chi-Nu, with expanded use of welding to strengthen the hull and adding some armor. J12 Chi Nu Kai 
+
+There were two proposals for installing the Type 5 75 mm Tank Gun on the Chi-Nu: Using the turret of the Type 4 Chi-To, or adapting the Tank Gun for the turret of the Chi-Nu. J12 Chi Nu Kai  Due to inherent flaws in the design of the Chi-Nu turret such as a lack of ventilation for the gases produced by the main cannon, the former option was chosen. J12 Chi Nu Kai  On March 19, 1945, tests using the prototype Chi-To turret on a Chi-Nu hull were conducted at the Irago Firing Ground, and it was deemed that the handling of the tank was unaffected, and the results were satisfactory. J12 Chi Nu Kai  This single test vehicle became known as the Chi-Nu Kai. J12 Chi Nu Kai 
+
+The success of this test led to the development of the (never officially named) Chi-Nu II, which mounted the production model Chi-To's turret on the Chi-Nu chassis. J12 Chi Nu Kai  Only a few tanks of this model were constructed though before the war ended. J12 Chi Nu Kai 
+
+|HistoricalGallery= 
+File:Chi_Nu_Kai_top_and_Production_version_of_Chi_Nu_bottom. J12 Chi Nu Kai jpg{{!}}The Chi-Nu Kai at the top and the production version of the Chi-Nu - unofficially called the Chi-Nu II - on the bottom. J12 Chi Nu Kai  Both were fitted with the  Type 5 75mm cannon. J12 Chi Nu Kai 
+File:Chi-Nu_Kai. J12 Chi Nu Kai PNG{{!}}Drawing of the Chi-Nu Kai by Tomio Hara
+
+|Ref_references=
+
+|Ref_sources=
+* “Japanese Tanks” Hara 1978
+* Maru December 2012
+
+|Ref_links=
+* https://ftr. J12 Chi Nu Kai wot-news. J12 Chi Nu Kai com/2013/07/23/chi-nu-kai-quick-rundown/
+* https://ftr. J12 Chi Nu Kai wot-news. J12 Chi Nu Kai com/2013/09/23/type-3-chi-nu-upcoming-tier-4-medium-tank/
+* https://sensha-manual. J12 Chi Nu Kai blogspot. J12 Chi Nu Kai com/2017/01/wt-type3-chi-nu-ii. J12 Chi Nu Kai html
+
+}}

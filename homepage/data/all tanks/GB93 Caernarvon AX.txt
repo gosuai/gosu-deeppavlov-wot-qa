@@ -1,0 +1,47 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Outstanding DPM and reload speed, second best in tier/class
+* Good gun handling and excellent accuracy
+* Good shell velocity and penetration
+* Strong turret armor, spaced armor adds protection against HEAT and HE
+* Great gun depression
+
+|InTheGame_cons= 
+* Abysmal alpha damage for a heavy tank
+* High ammunition cost per damage done
+* Rather bad hull armor, only the upper plate has good durability
+* Vulnerable ammo rack located right behind the thin lower plate
+* Poor reverse speed
+
+|InTheGame_performance= 
+{{videoYT|Yhat4jhMxFQ}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|1JVArKB1ZGI}}
+
+|History=
+
+|HistAcc=Although both Caernarvon and the Centurion resilient mantlet were developed these were separate projects. GB93 Caernarvon AX  The burster plates were never used on Caernarvon or the resilient turret being only ever used for HESH testing. GB93 Caernarvon AX  The Caernarvon Action X never existed in blueprints, plans, papers or minutes and remains a purely fictional vehicle. GB93 Caernarvon AX . GB93 Caernarvon AX  
+
+
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

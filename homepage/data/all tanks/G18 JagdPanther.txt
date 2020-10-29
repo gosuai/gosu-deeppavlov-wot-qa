@@ -1,0 +1,85 @@
+{{TankData|Tank=JagdPanther
+|The Jagdpanther, along with most lower tier German tank destroyers, boasts an accurate gun, high mobility, and decent armor. G18 JagdPanther  It has similar speed and the same armor of the [[Pz. G18 JagdPanther Kpfw. G18 JagdPanther  V Panther|Panther]], and, with the hitting power of the 10,5cm Pak 45 L/52, is able to pose a threat to all tanks. G18 JagdPanther 
+|Gallery=
+image:Jagdpanther front view 1. G18 JagdPanther jpg‎{{!}}Jagdpanther front left view
+image:Jagdpanther front view 2. G18 JagdPanther jpg‎{{!}}Jagdpanther front right view
+image:Jagdpanther back view 1. G18 JagdPanther jpg‎{{!}}Jagdpanther back left view
+image:Jagdpanther back view 2. G18 JagdPanther jpg‎{{!}}Jagdpanther back right view
+
+|InTheGame_pros=
+*Two great guns with good rate of fire, DPM and alpha
+*Good gun arc compared to other Tier VII TDs
+*Good mobility with top engine and tracks
+*10,5 cm has great aim speed and good alpha 
+*Cheap ammo costs for the 88mm L/71
+*370m base viewrange is above average
+*Gun mantlet and rim are surprisingly bouncy 
+*The 10,5 cm can pen even tier 9 heavy tanks
+
+|InTheGame_cons=
+*Weak armor, with no particularly hard points besides the gun mantlet
+*10,5 cm gun is not as accurate as the 88mm L/71, though still very accurate
+*Quite a large TD. G18 JagdPanther  Camouflage value is not as good as the Russian TDs of the tier
+*Frontal Transmission, engine damaged easily
+*Tough stock grind as it is the first TD in the line to use the 88mm L/71. G18 JagdPanther  However it can be researched with the Nashorn
+
+
+
+
+
+|InTheGame_performance=
+The Jagdpanther is a very good TD and, mounted with the 105mm gun, presents a serious threat to all enemies. G18 JagdPanther  It has no obvious weak points, aside from the usual downsides of turretless TDs (weak side armor, quite helpless if detracked, and so on), but its large profile means you will have a hard time hiding it properly. G18 JagdPanther 
+
+The highly sloped armor is still very thin, so distance combat is desired. G18 JagdPanther  Avoid fighting up close. G18 JagdPanther  The Jagdpanther can be used as an assault gun, but only in a pinch. G18 JagdPanther  The Jagdpanther works well as a stationary sniper at long range, as long as it is not spotted. G18 JagdPanther  In urban maps, make use of long alleys and streets. G18 JagdPanther  The playstyle depends on the gun equipped. G18 JagdPanther  With the 88mm, this TD is an amazing sniper, combining German accuracy with a high DPM, although the alpha damage is lower. G18 JagdPanther   Shell costs with this gun are five times lower as well, making misses less costly. G18 JagdPanther   Equipped with the top engine and 105mm gun, however, this TD can still be played as a sniper, but also able to brawl and out-DPM the enemy if necessary. G18 JagdPanther  Generally, you want to stay as close to the front as you can, without being spotted. G18 JagdPanther  Preserve your hitpoints until mid- or lategame, and trade health/brawl in favorable conditions afterwards. G18 JagdPanther 
+ 
+|InTheGame_research= * With stock suspension the ability to mount both the 8,8cm Pak 36 L/71 and the Maybach HL TRM P30 is possible by using the stock FuG 5 radio 
+*If you have the FuG 12 researched from another line, equip it. G18 JagdPanther   Otherwise equip the FuG 7 from the [[JagdPz IV|Jagdpanzer IV]]. G18 JagdPanther 
+*The Maybach HL 230 TRM P30 carries over from the German medium line. G18 JagdPanther   However, it cannot be equipped on the stock suspension with the 8,8cm Pak 36 L/71. G18 JagdPanther   Since it only adds 50hp, and the penetration and damage of the 8,8cm Pak 36 L/71 is necessary over the earlier guns, it is advised to leave it off until after the upgraded suspension is researched. G18 JagdPanther  
+*Research the 8,8cm Pak 43 L/71, as the 8,8cm Pak 36 L/56 lacks penetration and the 7,5cm Pak 42 L/70 lacks damage. G18 JagdPanther   This can be equipped on the stock suspension as long as the stock engine is used. G18 JagdPanther 
+*Research the suspension next. G18 JagdPanther   Equip the Maybach HL 230 TRM P30 if it has been researched in another line. G18 JagdPanther 
+*Research the 10,5cm Pak 45 L/52. G18 JagdPanther 
+*Research the Maybach HL 230 TRM P30. G18 JagdPanther 
+*Research the FuG 12. G18 JagdPanther 
+*Research the [[Ferdinand]]. G18 JagdPanther 
+
+|InTheGame_equipment=
+Camouflage Net, Medium-caliber tank Gun Rammer, Vents, binocular telescope
+
+
+|History=
+
+ '''Development'''
+ 
+
+A heavy tank-destroyer design based on the 8. G18 JagdPanther 8 cm Pak 43 gun and the Panther tank chassis was ordered in late 1942 as design SdKfz 173. G18 JagdPanther  Production started in January 1944. G18 JagdPanther  In February, Hitler specified the Jagdpanther name. G18 JagdPanther 
+
+To accommodate the heavier-caliber gun, much as on previous Jagdpanzer-style unturreted tank-destroyers, the glacis plate and sides of the Jagdpanther were extended up into an integral, turretless fixed-casemate as part of the main hull itself to provide a roomy interior. G18 JagdPanther  The Jagdpanther had side armor of increased thickness to offset the slightly reduced angle of the side armor necessary to provide enough interior space. G18 JagdPanther  The new (April 1944) Panther Ausf. G18 JagdPanther  G had the same feature, to harmonize production and increase protection. G18 JagdPanther 
+
+It was armed with an anti-tank version of the same long-barreled 8. G18 JagdPanther 8 cm gun as the Tiger II "King Tiger" and a single 7. G18 JagdPanther 92 mm MG-34 machine gun in the front glacis plate for local defence. G18 JagdPanther  The Jagdpanther had a good power-to-weight ratio and a powerful main gun, which enabled it to destroy any type of Allied tank. G18 JagdPanther  Based on the existing Panther chassis, the vehicle did not suffer too many mechanical problems: it had an upgraded transmission and final drive to counter the Panther's main weakness. G18 JagdPanther  It was manned by a crew of 5; a driver, radio-operator, commander, gunner, and loader. G18 JagdPanther 
+
+
+
+Two main variants can be distinguished; the earlier (1944 model) G1 with a small internally-bolted main gun mantlet and a modified Panther A engine deck, and the later (1945 model) G2 with a larger, outside-bolted mantlet and a modified Panther G engine deck, though late G1s also had the larger mantlet. G18 JagdPanther  Early Jagdpanthers had two vision openings for the driver, whereas late versions had only one. G18 JagdPanther  The main gun originally had a monobloc gun barrel, but later versions were equipped with the Pak 43/4 gun with a 2-part barrel. G18 JagdPanther  Early G1s (to September 1944) were coated with the distinctive resin paste 'zimmerit' in a distinctive 'small-squared' pattern. G18 JagdPanther 
+
+== Production ==
+
+A total of 415 Jagdpanthers were produced from January 1944 by three manufacturers. G18 JagdPanther  MIAG produced 270 from January 1944 until the end. G18 JagdPanther  Maschinenfabrik Niedersachsen-Hannover (MNH) produced 112 from November 1944. G18 JagdPanther  Maschinenbau und Bahnbedarf (MBA) produced 37 vehicles from December 1944. G18 JagdPanther  They equipped heavy anti-tank battalions and served mainly on the Eastern Front, although significant numbers were concentrated in the west for the Ardennes Offensive. G18 JagdPanther  They were first encountered in the west in very small numbers late in the Battle of Normandy, where the German 654 schwere Panzerjäger-Abteilung ("654th Heavy Antitank Battalion") deployed about 12 Jagdpanthers against British units. G18 JagdPanther 
+
+|HistAcc=
+The Jagdpanther's only primary armament was the 8,8 cm Pak 43 L/71. G18 JagdPanther  The alternate gun configurations are fictitious. G18 JagdPanther 
+*From February 1943, all German armored vehicles received a dark yellow undercoat. G18 JagdPanther  The base colour was changed to dark green in November 1944. G18 JagdPanther  In World of Tanks, however, the Jagdpanther is painted in early Panzer Grey. G18 JagdPanther 
+*Actual top speed is 46 km/h (currently 55 km/h). G18 JagdPanther 
+
+|HistoricalGallery=
+image:Jagdpanther_France. G18 JagdPanther jpg{{!}}Jagdpanther in France, 1944. G18 JagdPanther 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. G18 JagdPanther wikipedia. G18 JagdPanther org/wiki/Jagdpanther
+
+}}

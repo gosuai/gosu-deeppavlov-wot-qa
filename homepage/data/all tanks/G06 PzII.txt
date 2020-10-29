@@ -1,0 +1,73 @@
+:''This article is about the tier II light tank. G06 PzII   For one of the other Pz. G06 PzII Kpfw. G06 PzII  II variants, see [[Pz. G06 PzII Kpfw. G06 PzII  II (disambiguation)]]. G06 PzII ''
+{{TankData|Tank=PzII
+|This tank combines good speed with excellent maneuverability, and boasts 30mm of armor on the front hull and turret. G06 PzII  It's one of the few tanks in the game that can only use [[Automatic_Loader#Autocannons|auto-cannon]]s. G06 PzII  Its 2 cm Flak 38 L/112 auto-cannon can penetrate nearly every other vehicle at its tier or below, and well-aimed shots can penetrate most tier 3 tanks. G06 PzII  As with most tanks of its tier, the Pz. G06 PzII Kpfw. G06 PzII  II is easily upgradable and it's a tank that is a lot of fun to fight in, especially as the player's skills improve. G06 PzII  A popular vehicle, you will doubtlessly face this tank many times on the battlefield. G06 PzII 
+
+|InTheGame_pros=
+* Highest penetrating auto-cannon available at this tier, also rather accurate and with short aiming time and reload time. G06 PzII 
+* Excellent view range and radio range. G06 PzII 
+* Acceptable armour against other auto-cannon guns, angling this tank correctly allows several bounces. G06 PzII 
+* Good speed with excellent maneuverability. G06 PzII 
+* Bonus: Your top cannon was originally intended as an anti-aircraft gun (Flak means anti-aircraft)
+
+|InTheGame_cons=
+* Low penetration at long range; unable to hit targets beyond 395m. G06 PzII 
+* Tier III tanks and H35s can gives you a hard time with your autocannon. G06 PzII 
+* Weak turret armor which causes problems if attempting to go hull down with this tank. G06 PzII 
+
+|InTheGame_performance=
+This is a fun fighting tank. G06 PzII  If you were using the Breda on the [[Tank:Ltraktor|Leichttraktor]] then you should find this tank very similar. G06 PzII  It can be very effective in urban environments or anywhere it can engage in short-range combat. G06 PzII  At long range the auto-cannon is far less effective, as it has to re-aim after every two-shot burst. G06 PzII  It carries a good amount of ammo though, so you can afford to utilize some "spray and pray" tactics. G06 PzII  Due to this tactic coupled with its good aim time, an Enhanced Gun Laying Drive is a little useless. G06 PzII  You should try to avoid [[Tank:Hotchkiss H35|Hotchkiss H35]]s unless you want to use premium shells (except if you know its weak spots). G06 PzII  The Panzer II's frontal armour is above average and can easily deflect many shots from rivals that are using auto-cannons. G06 PzII 
+
+This tank is great fun when fighting up close. G06 PzII  Its high RoF coupled with decent pen means it can go food (or tank)processor on other puny tier 2s. G06 PzII  Well-aimed shots can pen nearly anything for same-tiered tanks. G06 PzII  Although it may have somewhat sluggish speed, it's still enough to keep up with the pace of the battle. G06 PzII  Your good armor (30 mm) can bounce quite a few shots when angled correctly. G06 PzII  Try to avoid sniping; the autocannon's pen greatly diminishes over distance, and your accuracy is bad as well. G06 PzII  Also, avoid French tanks such as the Hotchkiss H35 or the [[Tank:D1|D1]] as their armor is more reliable against your gun. G06 PzII  The [[Tank:T18|T18]] is also a liability, but good flanking skills can overcome it with relative ease. G06 PzII  Shooting the T18 in the front upper glacis plate will however ensure penetration and in turn cause most early players to back off due to sudden penetration from the front of the supposedly impenetrable front of a T18, giving you sufficient time to run or possibly even shoot the sides of a retreating T18. G06 PzII  Allow [[Tank:M2 lt|M2 Light Tank]]s and [[Tank:M3 Stuart|M3 Stuart]]s to pass by you and shoot their rear or sides , as their weak spots in front cant be reliably penetrated due to their high speed. G06 PzII  Overall, this tank is very well-rounded. G06 PzII   
+
+You don't need the added weight capacity from the suspension upgrade on this tank, but it adds 5 deg/s to traverse speed, so it's definitely worth getting. G06 PzII 
+
+With 120 RPM and 11 damage, you can do over 1,200 DPM, which is astoundingly high for tier 2. G06 PzII 
+
+|InTheGame_research=
+* Nothing carries over from the Leichttraktor. G06 PzII 
+* First research the 2 cm KwK 38 L/55 for faster rate of fire, aim time, and accuracy. G06 PzII 
+* You may want to continue on and get the 2 cm Flak 38 L/112, which features much improved penetration and accuracy. G06 PzII 
+* Next it's a toss-up between the engines and the suspension. G06 PzII 
+* Note that the turret upgrade also improves the reload time, in addition to increasing view range and hit points. G06 PzII 
+* Go from there. G06 PzII 
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension, Binocular Telescope
+
+|Gallery=
+image:Pz II 1. G06 PzII jpg{{!}}PzKpfw II front left view
+image:Pz II 2. G06 PzII jpg{{!}}PzKpfw II front right view
+image:Pz II 3. G06 PzII jpg{{!}}PzKpfw II back left view
+image:Pz II 4. G06 PzII jpg{{!}}PzKpfw II back right view
+
+|History=
+In July of 1934, the Waffenamt (Ordnance Department) ordered the development of an armored vehicle ten tons in weight and armed with a 20mm automatic cannon. G06 PzII  In early 1935, a number of manufacturers, including Krupp AG, MAN (chassis only), Henschel und Sohn AG (chassis only), and Daimler-Benz AG provided their prototypes of the Landwirtschaftlicher Schlepper 100 (LaS 100) - agricultural tractor - for evaluation by the army. G06 PzII  The new vehicle was also known as the 2cm MG Panzerwagen and as VK 622 (Versuchkraftfahrzeug 622). G06 PzII  The new light tank, Panzerkampfwagen II, was to supplement new Panzerkampfwagen I light tanks as a vehicle with heavier armament capable of firing armor-piercing and high explosive rounds. G06 PzII  Krupp was the first to present their design, but it was not adopted. G06 PzII  It was then decided to utilize the chassis designed by MAN and hull by Daimler-Benz. G06 PzII  In October of 1935, the first soft steel prototype was tested and ten LaS 100 tanks, later designated as Ausf a1s, were ordered. G06 PzII  From late 1935 to May 1936, MAN produced ten Ausf a1 tanks. G06 PzII 
+
+The Panzerkampfwagen II (Sd. G06 PzII Kfz. G06 PzII 121) was larger than the Panzerkampfwagen I, but was still a light training tank. G06 PzII  Due to the delays in production of the Panzerkampfwagen III and Panzerkampfwagen IV, the Panzer II entered combat service as a "stop-gap" vehicle for the expanding Panzertruppen. G06 PzII  Similarly to the Panzerkampfwagen I, it did not prove very effective in combat, although it was the main battle tank of the Panzertruppen until 1940 and 1941. G06 PzII  
+
+Overall, the Panzerkampfwagen II was ineffective as a combat tank but was an important step in the development of more powerful panzers. G06 PzII  When put in good hands, the Panzer II was a good light tank and an effective light reconnaissance vehicle that provided German designers and manufacturers with more tank building experience. G06 PzII  As with any other panzer, its chassis became a base for the usual conversions, including the Marder II tank destroyer, Wespe self-propelled howitzers, and others. G06 PzII   Additionally, other designs utilized the same components: the Flammpanzer II Flamingo/PzKpfw II(F) flamethrower tanks, the Schwimmpanzer II amphibious tank, and the Sturmpanzer II Bison self-propelled gun. G06 PzII 
+
+|HistoricalGallery=
+File:Pz2_01d. G06 PzII jpg
+File:Pz2_03d. G06 PzII jpg
+File:Pz2_05d. G06 PzII jpg
+File:Pz2_07d. G06 PzII jpg
+File:Pz2_08d. G06 PzII jpg
+File:Pz2_13d. G06 PzII jpg
+
+|HistAcc=
+The 2 cm Flak 38 gun configuration is fake. G06 PzII 
+* The 2 cm Kw. G06 PzII K. G06 PzII  38 was only mounted on the Ausf J-L variants. G06 PzII  Its configuration on the A-F variants is also fake. G06 PzII 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://panzerwaffe. G06 PzII pl
+
+}}
+
+[[Category:German Tanks]]

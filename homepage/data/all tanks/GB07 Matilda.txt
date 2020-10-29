@@ -1,0 +1,135 @@
+{{TankData|Tank=GB07_Matilda
+|Unlike its tier V brothers the premium [[Matilda IV]], this tank is located a tier lower and carries the historical 2-pounder gun, so players used to the Soviet Matilda may judge this tank a bit unfairly, although, in reality, the British Matilda can penetrate even a tier VI heavy tank from most distances. GB07 Matilda   Although the damage will be anemic the extremely fast reload time and excellent accuracy will cause your higher tier opponents to seek cover in preference to being punctured to death. GB07 Matilda   However, the Damage Per Minute is more potent against similar tiered opponents and a death sentence against tier III's. GB07 Matilda   It is very easy to rack up a healthy number of kills in a Matilda for this reason. GB07 Matilda 
+
+Players new to the Matilda will find this tank rather slow moving, and slightly difficult to maneuver in tight corridors. GB07 Matilda   Its 24km/h top speed will negate any effort to keep up with any fast paced combat, but the Matilda is the most heavily armored Tier IV tank (although the [[AMX 40]] is close and is better sloped), with only a similar armoring found on the tier V [[KV-1]] heavy tank. GB07 Matilda   It is very capable of hitting enemies from most distances without much trouble (with its top gun) and poses a difficult target for artillery due to its small silhouette. GB07 Matilda 
+
+|Gallery=
+image:UK Matilda front left. GB07 Matilda jpg{{!}}Matilda front left
+image:UK-Matilda front right. GB07 Matilda jpg{{!}}Matilda front right
+image:UK-Matilda rear left. GB07 Matilda jpg{{!}}Matilda rear left
+image:UK-Matilda rear right. GB07 Matilda jpg{{!}}Matilda rear right
+
+
+|InTheGame_pros=
+* Above average HP for its tier
+* Best all-around armor for its tier at medium to long distances
+* VERY good gun handling characteristics listed below:
+* OBSCENE rate of fire with good elevation/depression angles
+* Excellent dispersion, aiming, and shell velocity values. GB07 Matilda 
+
+
+|InTheGame_cons=
+* Poor top speed, maneuverability and acceleration -- a Matilda driver can expect missing ''some'' of the action
+* An easy target for artillery in some cases, although its spaced armor skirts help, as well as its compact size
+* Low damage per shot, makes finishing off enemies in a pinch in some cases nearly impossible
+* Low signal range, particularly with stock radio
+
+|InTheGame_performance=
+The Matilda performs as a medium-heavy. GB07 Matilda   It is an excellent tank with great armor that causes most shots to just bounce off of it, and has excellent guns to return fire with. GB07 Matilda   With 70mm of sloped frontal armor it's not uncommon for a Matilda at low health to take down another full health tank or two. GB07 Matilda   The greatest qualm (disadvantage) of the Matilda is its speed, for it is abysmal for its tier (but certainly not the slowest at all). GB07 Matilda   Even with upgraded track and engine it only manages 24 km/h -- about the equivalent of the [[D. GB07 Matilda W. GB07 Matilda  2]]. GB07 Matilda   Thus there are two ways to use this tank: One is to slowly but surely follow up the main frontal push taking opportunity shots with its excellent accuracy and quick rate of fire (as well as taking out retreating tanks that are badly damaged). GB07 Matilda   The second is to guard a set spot or choke point, as it can be difficult to coax out due its armor and small silhouette. GB07 Matilda   Do be aware for artillery though because while the Matilda's small birds-eye silhouette makes it difficult to target, one good shot can disable a track, leaving the tank a sitting duck or a burning husk. GB07 Matilda  
+
+At top tier the only ways to outclass a Matilda with a light tank is making it go into the open with numbers, as its fast-rotating turret can keep up with tanks that try to outmaneuver it. GB07 Matilda   Attacks from the rear or (far less frequently) side also deal damage and another good way to destroy a Matilda is to ground it by taking out either of its tracks and destroy it with artillery. GB07 Matilda   In a one-on-one duel at the same tier it is very difficult bordering impossible to outclass a Matilda (it is possible, with the [[Luchs]] and [[Hetzer]] if they fire HEAT), so attempt to flank it, call in fire from a friendly tank destroyer or call in the arty to at least pin it down. GB07 Matilda   Do expect that certain shots from an arty can bounce off. GB07 Matilda 
+
+Experienced tankers will want to take advantage of the high accuracy/high penetration gun by equipping an Enhanced Gun Laying Drive and either Coated Optics or Binoculars and finally a Gun Rammer or Ventilation as it turns the Matilda into a deadly "machine-gun" that can shred most tanks (that it can pen) with relative ease, at long or short ranges. GB07 Matilda   Even with low damage per shot the 40mm cannon fires stupidly fast and offers a nasty surprise for even heavily armored tanks like the [[KV-1]]; if you keep that in mind and catch every opportunity to deal damage it is somewhat easy to deal above 1000 hit points in damage in a single game. GB07 Matilda 
+
+It's important to note, however, that although the 76mm HE gun has low penetration it has quite good damage for its tier and has a fast reload rate. GB07 Matilda   Using this gun to allow for a more "brawler" play-style isn't without its benefits. GB07 Matilda   The 76mm gun will one or two shot any tank below tier IV and some tanks at tier IV. GB07 Matilda   It is recommended to try the HE gun as even though it is in fact a derp gun it has a quite good possibility to hit from medium range. GB07 Matilda   Do note that this gun can penetrate and do catastrophic damage to even tier VI's such as the sides of most tanks and the flimsy armor of TD's and fast medium tanks. GB07 Matilda   However the 76mm is nearly worthless when using HE against another Matilda. GB07 Matilda 
+
+Probably the most effective use of the Matilda is as a counter-light. GB07 Matilda   Although it is slow, light tanks that it faces have nearly no hope of penetrating it. GB07 Matilda   And again, although the alpha is anemic to higher tiers 50 damage can take quite a chunk off of a lower tier light tank, and the extremely high muzzle velocity makes getting hits easier. GB07 Matilda   Lower-tier TD's will even be afraid of your high penetration and extreme rate of fire. GB07 Matilda 
+
+With a properly trained crew and the correct equipment the reload time can be a mere 1. GB07 Matilda 73 seconds. GB07 Matilda   This can help you start fires, ammo-rack enemies, and critically damage other internal modules (along with training your gunner with the Deadeye perk). GB07 Matilda   Brothers In Arms (BIA) is highly suggested; it'll improve everything on the tank except for speed, but you will get better terrain resistance and horsepower usage. GB07 Matilda 
+
+|InTheGame_research=
+* The WS No. GB07 Matilda  9 radio is the only thing that carries over from the Vickers Medium Mk. GB07 Matilda  III
+* Start by researching the 2x Leyland E164 engine since it's cheap and has the same weight
+* Researching the the Quick Fire 2-pounder Mk. GB07 Matilda  X-B gun is a priority, as it gives the Matilda the much needed penetration boost it needs
+* Next research the upgraded suspension
+* Go from there
+* Note that the only thing the second turret adds is 10m to view range, but don't forget that it will increase the hit points of the tank (from 540hp to 570hp)
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Coated Optics, Binocular Telescope
+
+|History=
+[[image:The first of the Waltzing Matilda tanks produced at the foundry was completed and made ready for trials. GB07 Matilda JPG|thumb|200px|left|The first of the Waltzing Matilda tanks produced at the foundry was completed and made ready for trials]]<div class="thumb tright">{{VideoYT|L9yreSmVSMc|320}}</div>
+The Infantry Tank Mark II (sometimes referred to as Matilda II, Matilda senior, by General Staff Specification A12, Waltzing Matilda, or simply an 'I' tank) was a British infantry tank of the Second World War. GB07 Matilda   It served from the start of the war to its end and became particularly associated with the North Africa Campaign. GB07 Matilda   It was replaced in service by the Infantry Tank Mk III Valentine. GB07 Matilda   With its heavy armor the Matilda II was an excellent infantry support tank but with somewhat limited speed and armament. GB07 Matilda   When the earlier Infantry Tank Mark I which was also known as "Matilda" was removed from service the Infantry Tank Mk II became known simply as the "Matilda". GB07 Matilda 
+
+==Development history==
+
+The first suggestion for a larger Infantry Tank was made in 1936, with specification A12 and contractor decided around the end of the year. GB07 Matilda  The Infantry Tank Mk II was designed at the Royal Arsenal,Woolwich to General Staff specification A. GB07 Matilda 12 and built by the Vulcan Foundry. GB07 Matilda  The design was based on the A7 (which had started development in 1929) rather than on the Infantry Tank Mk I, which was a two-man tank with a single machine gun for armament. GB07 Matilda  When war was recognised as imminent, production of the Matilda II was ordered and that of the Matilda I curtailed. GB07 Matilda  The first order was placed shortly after trials were completed with 140 ordered from Vulcan Foundry in mid 1938
+
+'''Design features'''
+
+The Matilda Senior weighed around 27 tons (27 tonnes or 60,000 lb) more than twice as much as its predecessor, and was armed with a QF 2-pounder (40 mm) tank gun in a three-man turret. GB07 Matilda   The turret traversed by hydraulic motor or by hand through 360 degrees; the gun itself could be elevated through an arc from -15 to +20 degrees. GB07 Matilda  One of the most serious weaknesses of the Matilda II was the lack of a high-explosive round for its main gun. GB07 Matilda   A high-explosive shell was designed for the 2-pounder but for reasons never explained it was not placed into production. GB07 Matilda   The tank's best weapon against unarmored targets was thus its single machine gun. GB07 Matilda 
+Like many other British infantry tanks it was heavily armored, from 20 mm (0. GB07 Matilda 79 in) at the thinnest. GB07 Matilda   It was 78 mm (3. GB07 Matilda 1 in) at the front, much more than most contemporaries. GB07 Matilda   The turret armor was 75mm (3. GB07 Matilda 0 in) all around, the hull side armor was 65 to 70 millimeters (2. GB07 Matilda 6 to 2. GB07 Matilda 8 in), and the rear armor, protecting the engine to sides and rear, was 55 millimeters (2. GB07 Matilda 2 in) thick. GB07 Matilda   The frontal armor was 75 millimeters (3. GB07 Matilda 0 in), although the nose plates top and bottom were thinner but angled. GB07 Matilda   The turret roof was the same thickness as the hull roof and engine deck: 20 millimeters (0. GB07 Matilda 79 in). GB07 Matilda   The German Panzer III and Panzer IV tanks of the same period had 30 to 50 millimeter (1. GB07 Matilda 2 to 2. GB07 Matilda 0 in) thick hull armor. GB07 Matilda   The shape of the nose armor was based on Christie's designs and came to a narrow point with storage lockers added on either side. GB07 Matilda   The heavy armor of the Matilda's cast turret became legendary -- for a time in 1940–41 the Matilda earned the nickname "Queen of the Desert". GB07 Matilda   The sheer thickness of its armor made the tank impervious to the 37mm and 50mm anti-tank guns that were then commonly used by the Germans, as well as the 47mm's used by the Italians in North Africa; only the 75mm Pak 40 anti-tank gun and 88mm anti-aircraft gun could penetrate its armor reliably. GB07 Matilda [[image:The_A12E1,_the_prototype_of_the_Matilda_II_Heavy_Infantry_Tank_Mark_II. GB07 Matilda jpg|thumb|200px|right|The A12E1, the prototype of the Matilda II Heavy Infantry Tank Mark II]]While the Matilda possessed a degree of protection that was then unmatched in the North African theater the sheer weight of its armor contributed to a very low average speed of about 6 mph (9. GB07 Matilda 7 km/h) on desert terrain. GB07 Matilda   At the time this was not thought to be a problem since British infantry tank doctrine prioritized heavy armor and trench-crossing ability over speed and cross-country mobility (which was considered to be characteristic of cruiser tanks such as the [[Crusader]]). GB07 Matilda   The slow speed of the Matilda was further exacerbated by a troublesome suspension and a comparatively weak power unit, the latter of which was actually created using two bus engines linked to a single crankshaft. GB07 Matilda   This arrangement was both complicated and time-consuming to maintain, as it required technician crews to work on each engine separately and subjected automotive components to uneven wear and tear. GB07 Matilda   It did however provide some mechanical redundancy, since failure in one engine would not prevent the Matilda from traveling under its own power using the other. GB07 Matilda   
+The tank's suspension was the same developed by Vickers for their Medium C prototype in the mid-1920s. GB07 Matilda   The tank was carried by five double wheel-bogies on each side. GB07 Matilda   Four of the bogies were on bell-cranks in pairs with a common horizontal coil spring. GB07 Matilda   The fifth rearmost bogie was sprung against a hull bracket. GB07 Matilda   Between the first bogie and the idler wheel was a larger-diameter vertically sprung "jockey wheel". GB07 Matilda   The first Matildas had return rollers; these were replaced in later models by track skids, which were far easier to manufacture and to service in the field. GB07 Matilda 
+The turret carried the main armament with the machine gun to the right in a rotating internal mantlet. GB07 Matilda   Traverse was by a hydraulic system. GB07 Matilda   As the gun was balanced for ease of movement by the gunner much of the breech end was behind the trunnions. GB07 Matilda   Two smoke grenade launchers were carried on the right side of the turret. GB07 Matilda   The grenade launcher mechanisms were cut down Lee-Enfield rifles each firing a single smoke grenade. GB07 Matilda 
+
+'''Production history'''
+
+The first Matilda was produced in 1937 but only two were in service when war broke out in September 1939. GB07 Matilda   Following the initial order from Vulcan Foundry a second order was placed shortly after with Ruston & Hornsby. GB07 Matilda   Some 2,987 tanks were produced by the Vulcan Foundry, John Fowler & Co. GB07 Matilda  of Leeds, Ruston & Hornsby, and later by the London, Midland and Scottish Railway at Horwich Works; Harland and Wolff, and the North British Locomotive Company Glasgow. GB07 Matilda   The last units were delivered in August 1943. GB07 Matilda   Peak production was 1,330 in 1942, the most common model being the Mark IV. GB07 Matilda  
+The Matilda was difficult to manufacture. GB07 Matilda   For example, the pointed nose was a single casting that, upon initial release from the mold, was thicker than required in some areas. GB07 Matilda   To avoid a needless addition to the tank's weight the thick areas were ground away. GB07 Matilda   This process required highly skilled workers and additional time. GB07 Matilda   The complex suspension and multi-piece hull side coverings also added time to manufacturing. GB07 Matilda  
+
+==Combat history==
+
+'''French Campaign of 1940'''
+
+The Matilda was first used in combat by the 7th Royal Tank Regiment in France in 1940. GB07 Matilda   Only 23 of the unit's tanks were Matilda II's; the rest of the British Infantry Tanks in France were a11 Matildas. GB07 Matilda   Its 2-pounder gun was comparable to other tank guns in the 37 to 45mm range. GB07 Matilda   Due to the thickness of its armor it was largely immune to the guns of German tanks and anti-tank guns in France. GB07 Matilda   The famous 88mm anti-aircraft guns were pressed into service as the only effective counter. GB07 Matilda   In the counterattack at Arras British Matilda II's (and Matilda Is) were able to briefly disrupt German progress, but being unsupported their losses were high. GB07 Matilda   All vehicles surviving the battles around Dunkirk were abandoned when the British Expeditionary Force evacuated. GB07 Matilda 
+
+'''North Africa 1940 to 1942'''
+[[image:Captured_Matilda_in_Afrika_Korps_service. GB07 Matilda jpg|thumb|200px|left|Captured_Matilda_in_Afrika_Korps_service]]
+Up to early 1942, in the war in North Africa, the Matilda proved highly effective against Italian and German tanks, although vulnerable to the larger-caliber and medium-caliber anti-tank guns. GB07 Matilda   In late 1940, during Operation Compass, Matildas of the British 7th Armored Division wreaked havoc among the Italian forces in Egypt. GB07 Matilda   The Italians were equipped with L3 tankettes and M11/39 medium tanks, neither of which had any chance against the Matildas. GB07 Matilda   Italian gunners were to discover that the Matildas were impervious to a wide assortment of artillery. GB07 Matilda   Matildas continued to confound the Italians as the British pushed them out of Egypt and entered Libya to take Bardia and Tobruk. GB07 Matilda   Even as late as November 1941 German infantry combat reports showed the impotence of ill-equipped infantry against the Matilda. GB07 Matilda   
+Ultimately, in the rapid maneuver warfare often practiced in the open desert of North Africa the Matilda's low speed and unreliable steering mechanism became major problems. GB07 Matilda   Another problem was the lack of a high-explosive shell (the appropriate shell existed but was not issued). GB07 Matilda   When the German Afrika Korps arrived in North Africa the 88mm anti-aircraft gun was again pressed into service against the Matilda, causing heavy losses during Operation Battleaxe when 64 Matildas were lost. GB07 Matilda   The arrival of the more powerful 50mm Pak 38 anti-tank gun also provided a means for the German infantry to engage Matilda tanks at combat ranges. GB07 Matilda   Nevertheless, during Operation Crusader Matilda tanks of 1st and 32nd Army Tank Brigades were instrumental in the breakout from Tobruk and the capture of the Axis fortress of Bardia. GB07 Matilda   The operation was decided by the infantry tanks after the failure of the cruiser tank-equipped 7th Armored Division to overcome the Axis tank forces in the open desert. GB07 Matilda  
+As the German army received new tanks with more powerful guns, as well as more powerful anti-tank guns and ammunition, the Matilda proved less and less effective. GB07 Matilda   Firing tests conducted by the Afrika Korps showed that the Matilda had become vulnerable to a number of German weapons at ordinary combat ranges. GB07 Matilda   Due to the "painfully small" size of its turret ring - 54 inches (1. GB07 Matilda 37 m) - the tank could not be up-gunned sufficiently to continue to be effective against more heavily armored enemy tanks. GB07 Matilda   It was also somewhat expensive to produce. GB07 Matilda   Vickers proposed an alternative, the [[Valentine]] tank, which had the same gun and a similar level of armor protection but on a faster and cheaper chassis derived from that of their "heavy cruiser" tank. GB07 Matilda   With the arrival of the Valentine in autumn 1941 the Matilda was phased out by the British Army through attrition, with lost vehicles no longer replaced. GB07 Matilda   By the time of the battle of El Alamein (October 1942) few Matildas were in service, with many having been lost during Operation Crusader and then the Gazala battles in early summer of 1942. GB07 Matilda   Around twenty-five took part in the battle as mine-clearing Matilda Scorpion mine flail tanks. GB07 Matilda 
+
+'''Minor campaigns'''
+
+In early 1941 a small number of Matildas were used during the East Africa Campaign at the Battle of Keren. GB07 Matilda   However the mountainous terrain of East Africa did not allow the tanks of B Squadron 4th Royal Tank Regiment to be as effective as the tanks of the 7th Royal Tank Regiment had been in Egypt and Libya. GB07 Matilda   A few Matildas of the 7th RTR were present on Crete during the German invasion, and all of them were lost. GB07 Matilda  
+
+'''Pacific Theatre'''
+
+In the Pacific, Japanese forces were lacking in heavy anti-tank guns and the Matilda remained in service with several Australian regiments in the Australian 4th Armored Brigade in the South West Pacific Area. GB07 Matilda   They first saw active service in the Huon Peninsula campaign in October 1943. GB07 Matilda   Matilda II tanks remained in action until the last day of the war in the Wewak, Bougainville, and Borneo campaigns, which made the Matilda the only British tank to remain in service throughout the war. GB07 Matilda  
+
+'''Foreign use'''
+[[image:British_Matilda_Tank_being_inspected_by_German_forces_after_being_abandoned_Greece_1941. GB07 Matilda jpg|thumb|200px|left|British Matilda Tank being inspected by German forces after being abandoned Greece 1941]]
+The Red Army received 918 of the 1,084 Matildas sent to the USSR. GB07 Matilda   The Soviet Matildas saw action as early as the Battle of Moscow and became fairly common during 1942. GB07 Matilda   Unsurprisingly the tank was found to be too slow and unreliable. GB07 Matilda   Crews often complained that snow and dirt were accumulating behind the "skirt" panels, clogging the suspension. GB07 Matilda   The slowness and heavy armor made them comparable to the Red Army's [[KV-1]] heavy tanks, but the Matilda had nowhere near the firepower of the KV. GB07 Matilda   Most Soviet Matildas were expended during 1942 but a few served on as late as 1944. GB07 Matilda   The Soviets modified the tanks with the addition of sections of steel welded to the tracks to give better grip. GB07 Matilda  
+
+'''Use of captured Matildas'''
+
+Following Operation Battleaxe a dozen Matildas left behind the Axis lines were repaired and put into service by the Germans. GB07 Matilda   The Matildas were well regarded by their German users although their use in battle caused confusion to both sides, despite extra-prominent German markings. GB07 Matilda  
+
+{{VideoYT|Mavg4UqSlso|320}}{{VideoYT|BTNfYwk9p4s|320}}
+{{VideoYT|k9CRuTzxjWQ|320}}{{VideoYT|VB0A9EwEeWg|320}}
+
+|HistAcc=
+The twin diesels are the same engines on the Soviet [[Matilda IV]], yet the engine power values are inconsistent. GB07 Matilda 
+* The 2-pdr Mk X-B was approved in January 1943; the Matilda was withdrawn from frontline service beginning in late 1941. GB07 Matilda 
+
+|HistoricalGallery=
+image:A_British_Matilda_tank_in_the_Western_Desert,_recaptured_from_the_Germans_who_had_used_it_against_the_British_in_Bardia,_3_January_1942. GB07 Matilda jpg{{!}} A British Matilda tank in the Western Desert, recaptured from the Germans who had used it against the British in Bardia, 3 January 1942
+image:A_Matilda_tank_of_the_Australian_Armoured_Corps_ca_1945. GB07 Matilda jpg{{!}} A Matilda tank of the Australian Armoured Corps ca 1945
+image:British_infantry_tank_Matilda_II_. GB07 Matilda _The_tank_was_hit_with_four_88-mm_shells_and_several_smaller_caliber_shells_District_of_Tobruk,_december_1941. GB07 Matilda jpg{{!}} British infantry tank Matilda II . GB07 Matilda  The tank was hit with four 88-mm shells and several smaller caliber shells District of Tobruk, december 1941
+image:British_Matilda_Tank_being_inspected_by_German_forces_after_being_abandoned_Greece_1941. GB07 Matilda jpg{{!}} British Matilda Tank being inspected by German forces after being abandoned Greece 1941
+image:Captured_Matilda_in_Afrika_Korps_service. GB07 Matilda jpg{{!}}Captured Matilda in Afrika Korps service
+image:Captured_Matilda_Mk_II_tank_of_the_4th_Armored_Brigade_June_1941. GB07 Matilda jpg{{!}} Captured Matilda Mk II tank of the 4th Armored Brigade June 1941
+image:Destroyed_Matilda_Tank_in_Western_Africa. GB07 Matilda JPG{{!}}Destroyed Matilda Tank in Western Africa
+image:German_inspecting_an_knocked_out_Australian_Matilda_II_somewhere_in_the_North-African_desert. GB07 Matilda jpg{{!}} German inspecting an knocked out Australian Matilda II somewhere in the North-African desert
+image:Matilda_Scorpion_flail_tank,_North_Africa,_2_Nov_1942. GB07 Matilda jpg{{!}} Matilda Scorpion flail tank, North Africa, 2 Nov 1942
+image:Matilda_tanks_advance_on_Hongorai_River_1945. GB07 Matilda jpg{{!}} Matilda tanks advance on Hongorai River 1945
+image:Matilda_tanks_being_assembled_in_the_locomotive_erection_shop. GB07 Matilda jpg{{!}} Matilda tanks being assembled in the locomotive erection shop
+image:Matilda_Tanks_were_tested_on_works_land_to_the_rear_of_the_foundryl. GB07 Matilda jpg{{!}} Matilda Tanks were tested on works land to the rear of the foundry
+image:Mk_2_Matilda_Tank_being_driven_through_Vulcan_Village_to_the_testing_ground. GB07 Matilda jpg{{!}} Mk 2 Matilda Tank being driven through Vulcan Village to the testing ground
+image:The_A12E1,_the_prototype_of_the_Matilda_II_Heavy_Infantry_Tank_Mark_II. GB07 Matilda jpg{{!}} The A12E1, the prototype of the Matilda II Heavy Infantry Tank Mark II
+image:The first of the Waltzing Matilda tanks produced at the foundry was completed and made ready for trials. GB07 Matilda JPG{{!}} The A12E1, the prototype of the Matilda II Heavy Infantry Tank Mark II The first of the Waltzing Matilda tanks produced at the foundry was completed and made ready for trials
+
+
+
+|Ref_references=https://en. GB07 Matilda wikipedia. GB07 Matilda org/wiki/Matilda_II
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}
+
+[[Category:British Tanks]]

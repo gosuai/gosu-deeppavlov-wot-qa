@@ -1,0 +1,40 @@
+{{TankData|Tank=WZ-131G FT
+
+
+
+|InTheGame_pros= 
+
+- 85mm stock gun's DPM is the same as it was on the tier V TD, but the tank itself makes using it much easier. Ch34 WZ131G FT 
+
+- 100mm top gun has good overall specs with respectable penetration, accuracy, good aim time and good DPM
+
+- Excellent fully-upgraded overall mobility and agility, reaches top speed with relative ease unlike the [[SU-100]]
+
+- Low profile, good camoflage values
+
+- Above average reverse speed
+
+
+|InTheGame_cons= 
+
+- 85mm stock gun has subpar penetration with AP shells and low shell velocity, more costly HEAT rounds don't guarantee success on properly angled tanks
+
+- Being based on a [[Type 62]], has no armor except very few ricochets might occur up front
+
+- Lowest health pool of all Tier VI TDs, can't afford to receive shots
+
+- Bad view range, limiting its use as passive scout
+
+- Mediocre gun clearance on both vertical and horizontal planes
+
+- Very bad maneuverability when stock
+
+
+
+|InTheGame_performance= 
+
+Gameplay-wise, the WZ-131G FT shares a lot of similarities with Swedish [[Tank:S08_Ikv_65_Alt_2|Ikv 65]] and German [[Nashorn]]. Ch34 WZ131G FT  They all have well rounded mid-caliber guns but low survivability. Ch34 WZ131G FT  While the Ikv adapts to irregular terrain better and the Nashorn sporting the fearsome "long 8,8", the WZ-131G FT keeps in accordance with the Chinese design philosophy of combining heavy firepower with a mobile platform. Ch34 WZ131G FT  The 62-85TG FT is no longer hampered by the tier V TD's flaw in size and really shows its damage potential (though requires some HEAT rounds to deal with well armored tanks, which appears more frequently as this tank faces tier 8s) during the stock grind. Ch34 WZ131G FT  The 59-100TG FT might appear unsatisfying on its original host, the [[Type 59]], but facing enemies 2 tiers lower, it will be no less deadly than any peers. Ch34 WZ131G FT  With good accuracy, penetration and rate of fire combined, this gun is more than capable of dishing out whopping amounts of damage from distance while staying hidden safe and sound. Ch34 WZ131G FT  Overall, the WZ-131G FT can be described as mobile supporter-sniper, essentially a [[SU-100M1]] tiered down, and without its head-scratching problem of rear mounted gun or tall profile. Ch34 WZ131G FT 
+
+|HistAcc=
+There is no information about any produced prototypes, or any historical record of this vehicle's existence for that matter. Ch34 WZ131G FT 
+}}

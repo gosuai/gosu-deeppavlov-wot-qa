@@ -1,0 +1,85 @@
+{{TankData|Tank=GB14_M2
+|
+The M2 is the British Lend Lease version of the American [[M2 Light Tank]]. GB14 M2  It only differs in gun selection, outer appearence and some stats. GB14 M2  It doesn't have the 20mm Hispano Suiza Birkigt Gun like the American version. GB14 M2 
+
+|Gallery=
+
+File:M2 scr 1. GB14 M2 jpg
+File:M2 scr 2. GB14 M2 jpg
+File:M2 scr 3. GB14 M2 jpg
+
+|InTheGame_pros=
+* Good acceleration and top speed
+* Good view range
+* High ammunition capacity
+* Decent gun choice
+* Decent armour for tier II, angling it correctly is a must
+
+|InTheGame_cons=
+* Poor accuracy on all guns
+* Poor turning properties
+* Fairly tall for a light tank
+* Bad gun depression
+
+|InTheGame_performance=
+In its stock configuration, it is initially armed with the weakest gun in the entire game. GB14 M2  While an excellent machine gun in real life, the . GB14 M2 50 calibre M2 Browning machine gun is at best described as an amusing novelty in World of Tanks. GB14 M2  But still, it can perform quite well if you know the tanks' weaknesses. GB14 M2  Later the gun can be upgraded again with a powerful 37mm gun that hits very hard for its tier, considering its short reload time. GB14 M2 
+
+With the upgraded turret, this tank has 25mm of armour on all sides, both on the hull, and on the turret (the front has slightly better slope). GB14 M2  As a result, you don't have to worry much about keeping your front facing your enemy with this tank. GB14 M2  However, don't get too used to it since on most tanks facing matters a great deal. GB14 M2 
+
+With the high powered radio, great view range for a tier 2 tank, small size, quick speed and good manoeuvrability (especially with a trained crew) this tank makes a great scout regardless of tier - and is very underestimated by many higher tier players. GB14 M2  A good tip is using this for tank companies - being a tier 2 tank, it has a very small match weight, but is still very useful as a scout and arty killer(although its guns might have issues penetrating even artillery). GB14 M2  For example, one could bring (theoretically) THIRTY of these tanks in a medium tank company, although the feasibility of this is questionable. GB14 M2  
+
+The BT-2 light tank serves a similar purpose to this tank, but the M2 has higher view/signal range, more armour (marginal in anything but its own tier), similar firepower, and unfortunately less speed, manoeuvrability and acceleration. GB14 M2  Similarly, the much loved premium T2 LT compares in much of the same ways; less signal/view range, less armour, similar firepower and higher speed and acceleration. GB14 M2  The use of these tanks in higher tier battles can all be surprisingly effective. GB14 M2 
+
+|InTheGame_research=
+* Both the engine and the turret are good places to begin researching. GB14 M2 
+* Go from there. GB14 M2 
+
+|InTheGame_equipment=
+Vents, Enhanced Gun Laying Drive, Coated Optics
+
+|Gallery=
+image:M2 Light Tank_001. GB14 M2 jpg
+image:M2 Light Tank_002. GB14 M2 jpg 
+image:M2 Light Tank_004. GB14 M2 jpg 
+
+|History=
+The M2 Light Tank was an American pre-World War II light tank that saw combat with the US Marine Corps 1st Tank Battalion on Guadalcanal in 1942 during World War II. GB14 M2  Its service with the 1st Tank Battalion during the Pacific War was its only US combat use during the war; however, it is believed that M2A4s served in Burma and India with the British 7th Hussars and 2nd Royal Tank Regiment during their engagements with the IJA 14th Tank Regiment. GB14 M2  The M2A4 was the immediate predecessor of the [[M3 Stuart]] light tank. GB14 M2 
+
+== History of Development ==
+The Light Tank M2 was developed in 1935 by the Rock Island arsenal as an infantry tank for the US Army. GB14 M2  It was inspired by the well-known Vickers 6-ton. GB14 M2  Its main armament was one . GB14 M2 50 calibre M2 Browning machine gun in a small one-man turret, of which only 10 were made. GB14 M2  The US Infantry Branch then decided to switch to a twin turret configuration, with a . GB14 M2 30 calibre machine gun in the second turret. GB14 M2  These two turret tanks was given the nickname “Mae west“ by the troops, after the popular busty film-star. GB14 M2  The twin-turret layout was inefficient, but was a common feature of 1930s light tanks derived from the Vickers, such as the [[T-26|Soviet T-26]] and Polish 7TP. GB14 M2 
+
+From the events in the Spanish Civil War, the US Army drew the conclusion that tanks had to be better armed and protected. GB14 M2  By 1940 the twin machine gun turrets were replaced by one larger turret with a 37 mm gun, and armour was increased to 25 mm. GB14 M2  Other upgrades included improved suspension, improved transmission, and better engine cooling. GB14 M2 
+
+The fall of France affected the progress on the US tank program. GB14 M2  In July 1940, work began on a new light tank based on the M2. GB14 M2  Stronger armour and a longer tank hull finally led to the M3 Stuart. GB14 M2 
+
+The importance of the M2 lies in its basis for the M3, which exploited the high speed and reliability of the mechanical parts based on the M2 program. GB14 M2 
+
+== Deployment ==
+In December 1941, the M2A1, M2A2, and M2A3 variants were only used for training. GB14 M2  A small number of the M2A4 variant took part in the Battle of Guadalcanal while assigned to the US Marine Corps 1st Tank Battalion, and remained in service in some areas of the Pacific until 1943. GB14 M2 
+
+Great Britain ordered 100 M2A4 tanks in the spring of 1941 . GB14 M2  After 36 was delivered, the order was withdrawn in favor of the improved M3 Stuart. GB14 M2  There is evidence that indicates these 36 M2A4s ended up as part of the British Army's 7th Hussars and 2nd Royal Tank Regiment, fighting in the India and Burma campaigns against the Japanese 14th Tank Regiment. GB14 M2 
+
+== Variants ==
+M2A1 (1935) - . GB14 M2 50 MG in a single turret. GB14 M2  10 units were produced. GB14 M2 
+
+M2A2 (1935) - Twin turrets. GB14 M2  Dubbed "Mae West". GB14 M2  239 units produced. GB14 M2 
+
+M2A3 (1938) - Twin turrets, Thicker armor, improved suspension. GB14 M2  72 units produced. GB14 M2 
+
+M2A4 (1940) - Single turret with 37mm gun, thicker armor. GB14 M2  375 units produced. GB14 M2 
+
+|HistoricalGallery=
+image:M2 Light Tank (3). GB14 M2 jpg{{!}}British M2A4 in the UK on 11 March 1942
+image:M2 Light Tank 2. GB14 M2 jpg{{!}}M2A4 at a British ordnance depot
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. GB14 M2 wikipedia. GB14 M2 org/wiki/M2_Light_Tank 
+* https://www. GB14 M2 wwiivehicles. GB14 M2 com/usa/tanks-light/m2. GB14 M2 asp
+
+}}

@@ -1,0 +1,78 @@
+{{TankData|Tank=A44
+|This medium tank features a turret on the back of the tank. R59 A44  This makes it OK at side scraping with the top gun (which is the top gun from the T-150). R59 A44  The front upper plate on the tank, when angled can reliably bounce many of the guns it will encounter just don't count on it when you're facing tanks equipped with tier 10 guns. R59 A44  One feature that most people like about this tank is that it shares the highest alpha out of all the tier 7 mediums (300) with the [[Leo]]. R59 A44 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* High top speed and acceleration, terrain resistance makes up for lower pw/wt ratio
+* Good maneuverability
+* Powerful top gun for a medium tank, with high alpha damage and good penetration
+* Rear mounted turret allows for some sidescraping
+* Good at ramming lighter tanks
+
+|InTheGame_cons=<br />
+*Impossible to fight in a close combat because of about no gun depression, you could just hit the turret!<br />
+
+
+* Slow aimtime and poor accuracy, struggles at sniping
+* Very bad gun depression for a non-SPG vehicle
+* Frontal hull armor is 150mm only on small areas, most of it is 75mm
+* Abysmal engine durability, in best case scenario, every second hit destroys the engine completely. R59 A44 
+* Weak ammorack
+
+|InTheGame_performance=
+Quite dissimilar to its predecessor, the A-44 boasts a very powerful main gun with acceptable DPM. R59 A44   It also loses some of its top speed and acceleration in exchange for improved armor and still great turning. R59 A44   The hull can bounce shots that most of the other tier 7 mediums would be incapable of doing. R59 A44 
+
+Drivers would be advised to play in a TD style in early stage when WITHOUT the 107mm ZiS-6, since with the 76mm S-54's rather low pen and alpha at current tier's, making 1-2 shot drive by would had been the most likely outcome before you got tracked and wrecked - especially when the unusual mounts will make flanking maneuvers fairly awkward for players who have never operated similar tanks, such as the SU76, Su-85B, or even the Later German Heavy TD's and Prototype's. R59 A44  Least to say, this tank, although an medium  and "mobile", the aim time and the on the move accuracy of the 76mm and 107mm gun does not approve your flanking decisions most of the time. R59 A44  
+
+Alternatively, if players aer determined that he/she still wants to try out the flanking potential, going "Cromwell" mode maybe the option - load the 76mm S-54 for a more preferable RoF in flank maneuvers. R59 A44  The 107mm gun might do the job better for finishing off critically wounded tanks and more reliable penetration, again the RoF and accuracy greatly demands flankers to think twice to adopt the gun for such tactics. R59 A44   However, doing this could prove difficult as the rear mounted turret and extremely poor gun depression make knife fights awkward. R59 A44 
+
+With the ZiS-6 107mm mounted, this tank becomes excellent at [[Tactics|sidescraping]] due to its excellent main gun, wide tracks, and rear-mounted turret. R59 A44   However, getting the angle of your tank right to do this is tricky. R59 A44   Angle too much and the enemy will be able to pierce your side hull. R59 A44   Angle too little and your front hull is exposed with little angling. R59 A44   This strategy is better used in a defense manner. R59 A44   If the enemy knows what to do, they will rush your tank, forcing you to either give them your side hull (which is loaded with ammo racks) or to withdraw. R59 A44 
+
+Avoiding hilly terrain and CQC in this tank is very important. R59 A44   Your gun is too unwieldy with the abysmal aim time and gun depression in addition to the rear-mounted turret to attempt either. R59 A44   Before making a move, you should plan ahead to make sure that you won't be getting yourself into an even worse position than the one you were just in. R59 A44   This tank works best on flat terrain with some hard cover where you can mitigate the weaknesses of this tank. R59 A44  Also, sniping is futile in practice with this tank. R59 A44   Your aim time and accuracy make hitting your targets based more on luck and less on your ability to aim. R59 A44 
+
+
+|InTheGame_research=
+* When starting off, the radio, V-5 Engine and 76mm S-54 should be ready to go and mounted immediately. R59 A44 
+* The good news is that all the guns and top radio carry over from the T-34 and A-43,and if you previously played T-150 or KV-2, you might already have the 107mm ZiS-6 unlocked too, and you can save the tracks for last with equipment. R59 A44  
+* If, unfortunately you have not played the USSR heavies before, then the next priority would be the 107mm ZIS-6, for a much wanted huge increase in alpha damage. R59 A44 
+* Engines are already researched from the T-150, KV-2 and KV-3, and of course the predecessor A-43. R59 A44  Players should have already got this unlocked and there are just no excuses not to have it unlocked earlier. R59 A44 
+* Mount the turret for a HP, armor, & view range buff. R59 A44 
+* Finally, mount the tracks
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, "Wet" Ammo Rack
+
+|History=
+
+The A-44 project was initiated by the Kharkov KB-24 construction bureau, under the supervision of famous Russian tank designer, A. R59 A44 A. R59 A44 Morozov. R59 A44  Morozov himself worked on the project to improve the T-34 tank (the A-43), but was always wondering, whether the armament of the medium tank could be improved even further. R59 A44 
+
+The basic idea that led to the development of the A-44 was: if you equip your heavy tanks with the same armament as your medium tanks (or rather, with the guns taken from the medium tanks), they lose their combat worth. R59 A44  Consequently, if you manage to equip a very light tank with a very powerful gun, it becomes a rather cheap to produce, but very dangerous enemy (the same line of thinking actually led to the German development of light tank destroyers, which proved to be rather effective). R59 A44  And so the idea was born to equip the A-43 suspension (that could withstand bigger loads than the T-34 one) with a sleek hull and the 107mm F-42 gun, or with the 57mm ZiS-4. R59 A44 
+
+The 57mm was probably the most suitable gun, because it was basically a re-worked 76,2mm F-32, with longer barrel and a different breech. R59 A44  The F-42 gun, developed by F. R59 A44 Petrov’s bureau, was probably more suited for heavy tanks, it was big and had a long recoil, but even so, according to Morozov’s calculation, the weight of the vehicle wouldn’t be over 34 tons (the armor was counted on to be cca 45mm). R59 A44  Results of firing tests of captured German guns were also taken into account and in March 1941, after seeing Morozov’s tank idea, it was decided to develop such a vehicle under the designation of A-44 (sometimes T-44, but do not confuse this tank with the ingame tier 8 T-44, they are not related). R59 A44 
+
+The technical documents for this tank mentioned two variants: a “faster” and a “slower” one. R59 A44  Both variants were to weight around 35 tons, with the “faster” having 75mm and 65mm frontal and side armor, while the “slower” had up to 120mm frontal armor and 100mm armor on the sides. R59 A44  The projected speed was to be somewhere between 50-55km/h. R59 A44  Three guns were considered: the 57mm ZiS-4, 76,2mm F-34 and 107mm F-42. R59 A44  In the end, it was decided to implement only the 57mm one. R59 A44 
+
+In order to archieve all this, the vehicle had to be designed unconventionally – with the turret in the back. R59 A44  In the frontal part of the vehicle, there was the transmission and steering mechanism, the engine was in the middle and the crew as in the back. R59 A44  The suspension was (just like with the A-43) solved by implementing torsion bars, the vehicle had 7 roadwheels, 4 idlers and the frontal wheel was propelled by the engine. R59 A44 
+
+
+The preliminary project was ready on 20. R59 A44 4. R59 A44 1941 and in May, a 1/10 scale model was built and introduced to the mock-up committee. R59 A44  It was basically approved and there were plans to build a prototype by 1942, but as with the A-43 project, the war intervened: the Kharkov factory was evacuated to Nizhny Tagil and lots of valuable stuff was lost. R59 A44  In the light of changed wartime priorities, the development of this project was scrapped soon after. R59 A44 
+
+
+|HistoricalGallery=
+image:A44_mockup1. R59 A44 jpg{{!}}1-10 scale model of the A-44
+File:A-44_model_from_rear. R59 A44 jpg
+File:A-44_blueprints. R59 A44 jpg{{!}}Side blueprint of the A-44. R59 A44 
+
+|Ref_references=
+
+|Ref_sources=
+* М. R59 A44 Свирин “Броневой щит Сталина. R59 A44  История советского танка 1937-43 гг. R59 A44 ” Яуза/ЭКСМО. R59 A44  2006 г. R59 A44 
+* М. R59 A44 Свирин “Самоходки Сталина. R59 A44  История советской САУ 1919-45 гг. R59 A44 ” Яуза/ЭКСМО. R59 A44  2008 г. R59 A44 
+
+|Ref_links=
+* https://ftr. R59 A44 wot-news. R59 A44 com/2013/07/02/a-44-possible-tier-7-soviet-medium-in-8-9/
+* https://www. R59 A44 aviarmor. R59 A44 net/tww2/tanks/ussr/a-44. R59 A44 htm
+
+}}

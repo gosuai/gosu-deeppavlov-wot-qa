@@ -1,0 +1,76 @@
+{{TankData|Tank=PzIII_IV
+|Fast, agile and properly armored, the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III/IV can cover the flanks of heavier tanks, as well as defend terrain from a distance. G28 PzIII IV  Its fast speed allows it react to cover critical points of the map and stay ahead ahead of its allies as a spotter. G28 PzIII IV  However, it doesn't pay to go solo, as this tank lacks in alpha damage, so it can't actually push through the enemy advance: it is best played like a flanker and scout for the bigger guns. G28 PzIII IV  On the plus side, your mobility allows you to duck into cover, poke out of it, and finally get around  it. G28 PzIII IV  This repositioning allows you to dodge fire directed at your weak turret armor, while you shoot at them from behind with your adequately accurate 75mm gun. G28 PzIII IV  It is a remarkable defensive vehicle, but due to its offensive weaknesses it can't be relied upon to win a tier 5 match all by itself. G28 PzIII IV  This vehicle is currently a Collector's tank as it has been removed from the Main Tree. G28 PzIII IV 
+
+|InTheGame_pros=
+* Great mobility: high acceleration and top speed
+* Jack-of-All-Trades, directly superior to [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV Ausf. G28 PzIII IV  H|Pz. G28 PzIII IV IV H]] mounting the same 7,5cm L/48 gun
+* Hull armor is decently sloped, upper plate is thicker than some Tier 5 heavy tanks
+* Gun penetration vastly more reliable for picking off enemies, compared to the weaker 50mm L/60 at tier IV. G28 PzIII IV 
+* Spaced Turret armor is almost completely invulnerable to HEAT and reduces HE damage
+
+|InTheGame_cons=
+* Mediocre accuracy, somewhat difficult to hit distant targets
+* Large front mounted transmission compartment, prone to engine damage and de-tracking shots
+* Weak hull side and turret armor, can not angle effective
+* Turret is giant 50mm weak spot, although spaced armor screens can trick your enemies into shooting them and dealing no damage
+* Mediocre view range doesn't enable very effective active scouting
+* Harsh stock grind with poor gun and very bad terrain resistance
+
+|InTheGame_performance=
+As in the page introduction, the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III/IV is a somewhat unique tier 5 tank. G28 PzIII IV   It's somewhere between a [[Glossary|flanker]] and a half-scout, combining high mobility, good acceleration, agility, and fairly powerful hull armor at the price of some glaring weaknesses. G28 PzIII IV  Notably these are mediocre accuracy, poor armor on hull sides and turret, also somewhat lacking alpha damage giving it a limited offensive capability. G28 PzIII IV  In terms of tactics, use the mobility to position yourself in vital spots in the map, such as cap points and on your enemies flanks, as long as you stay far back enough to be in cover with an escape route. G28 PzIII IV  Try to react and defend from cover or strike accurately from afar, rather than charging in and going on the offensive. G28 PzIII IV 
+
+Firstly, ''mobility''. G28 PzIII IV  first played with all modules stock you may be disappointed by its sloppy movement as it's a far cry from your Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III, but with a ridiculously strong top engine and upgraded suspension you will be able to outrun almost all non-scout tanks you will face. G28 PzIII IV  The best use for the high speed is popping around ridgelines, spotting the enemy for heavier guns and earn a few snap shots by yourself. G28 PzIII IV  Agility is excellent and well suited for circling, with unrivalled turret traverse speed, though it never hurts being vigilant of enemy reinforcements possibly planning to outflank you. G28 PzIII IV 
+
+In terms of ''survivability'', 80mm of sloped upper glacis armor is directly superior to 70mm on the PzKpfw III, though also facing opponents with bigger guns. G28 PzIII IV  The lower parts and sides left much to be desired, barely improved at 60mm and 30mm respectively. G28 PzIII IV  Size wise, the tank is rather tall and has mediocre camouflage. G28 PzIII IV  If you can add your own angling into the mix, you might get a Steel Wall achievement by luck. G28 PzIII IV  Also note that a large portion of your hull side is not covered by spaced armor, so one hit from 105 mm howitzer there will probably cripple you. G28 PzIII IV  
+
+The ''gun'' is one of the most notable issues of Pz. G28 PzIII IV Kpwf. G28 PzIII IV  III/IV. G28 PzIII IV  It can't mount a 105 mm howitzer like [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV]] or [[M4 Sherman]], and 7,5cms' are not really impressive, with mediocre accuracy, penetration and acceptable RoF. G28 PzIII IV  If you are putting it to use, better avoid long-range engagements for preservance of ammunition. G28 PzIII IV  Usually if you utilize your assets right, you will still come out on top of duels (ie due to the armour and agility). G28 PzIII IV  In a solo engagement, peek around corners with angled armor, and get up close and personal and force them to rotate helplessly in place and abuse their slower reload. G28 PzIII IV  
+
+It is advised to go for the suspension before anything else, because the stock one has pitiful traverse speed and terrain resistance even with top engine mounted. G28 PzIII IV  Be aware that the upgraded gun has marginal amounts of penetration and accuracy over the stock gun, and isn't necessarily the first choice for research. G28 PzIII IV  Additionally, the turret gives you a good bit of health, so this will increase your overall survivability and will also probably be more useful than going straight for the gun. G28 PzIII IV  
+
+Crew skills are advised to focus on maximising the already outstanding mobility, as well as compensating the mediocre spotting capability and firepower efficiency. G28 PzIII IV  The loader who cannot help with that can take Safe Stowage to prevent ammo rack damage from weak sides (or repairs if you tend not to take large hits). G28 PzIII IV  GLD, Optics, and Gun Rammer are good equipment to help those two traits respectively - the optics especially is a must for the next tank, the VK 3001D. G28 PzIII IV 
+
+|InTheGame_research=
+* Upon purchasing this tank, you should immediately install the Maybach HL 120 TRM engine and upgrade the radio to at least the FuG 7. G28 PzIII IV 
+* Get enhanced Torsion Bars to bypass the tracks and shorten the stock grind. G28 PzIII IV  
+* Now you have the weight capacity to upgrade everything else. G28 PzIII IV 
+* Next you may want to upgrade to the 7. G28 PzIII IV 5 cm KwK 40 L/48 gun. G28 PzIII IV 
+* The high power of HL 157P engine brings out this tank's true potential. G28 PzIII IV 
+* Upgrading the turret not only gives a small boost to gun stats and view range, but also grants additional hitpoints and armor screen around the turret. G28 PzIII IV   
+* With the high speed of this tank, you may be called upon to scout, so you'll want the FuG 12 if you don't have it by now. G28 PzIII IV 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Coated Optics, GLD, Vents, Toolbox
+
+|Gallery=
+image:Pz34-a. G28 PzIII IV jpg{{!}}Front right
+image:Pz34-b. G28 PzIII IV jpg{{!}}Front left
+image:Pz34-c. G28 PzIII IV jpg{{!}}Rear right
+image:Pz34-d. G28 PzIII IV jpg{{!}}Rear left
+
+|History=
+''The Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III/IV represents an attempt to integrate the development of the'' [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III]] ''and'' [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV]] ''vehicles. G28 PzIII IV ''
+
+On September 14, 1941, Chief of Stab Rüstung 11a approved the specification of the tank, a combination of Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III and Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV chassis leichte Panzer Jaeger (later renamed the Panzer IV lang (E)). G28 PzIII IV  As the engine had passed the test of time and war, the Maybach HL-120TRM was chosen and connected to the transmission SSG-77. G28 PzIII IV  The driving wheels of the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III were used and reinforced output shafts were added. G28 PzIII IV  The chassis consisted of six rollers 660 mm in diameter on the board, semi-detached on the leaf springs in pairs. G28 PzIII IV  New symmetrical tracks 540 mm wide with a central ridge were chosen. G28 PzIII IV  Sloth - from the tank Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV, but strengthened and expanded. G28 PzIII IV  Plans were to increase cruising range by placing an additional 300 liter fuel tank in the engine compartment. G28 PzIII IV 
+
+The front part of the body was redesigned. G28 PzIII IV  The top 60 mm thick armored plates got an inclination of 60 degrees to the vertical, the bottom plates were 60 mm thick, with an inclination of 45 degrees to the vertical. G28 PzIII IV  The turret was a slightly modified version of the one one used on the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV Ausf. G28 PzIII IV  J. G28 PzIII IV  The construction of the turret excluded rotary electrical contacts at the base, opting instead to use a flexible electrical cable. G28 PzIII IV  This limited the traverse angle of the turret to 270 degrees right and left of the longitudinal axis. G28 PzIII IV  Ammunition was increased to one hundred rounds of 75mm cannon and up to 3,150 rounds of machine-gun rounds. G28 PzIII IV 
+
+In March 1944 Wa Pruef 6 signed a contract to build three experimental tanks Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV auf Einheitsfahrgesyell. G28 PzIII IV  In June 1944 it was decided to launch full production at Krupp-Gruzonverk, but on July 12, 1944, the Krupp firm was informed about the cancellation of the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III / Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV program. G28 PzIII IV 
+
+|HistoricalGallery=
+image:PzIII-IV Drawing Side. G28 PzIII IV jpg{{!}}Front right
+image:PzIII-IV Drawing Top. G28 PzIII IV jpg{{!}}Front left
+image:PzIII-IV Drawing Front. G28 PzIII IV jpg{{!}}Rear right
+
+|Ref_references=
+
+
+|Ref_sources=
+History Article: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4 (Translated using Google Translate and then further edited by hand)
+* PzIII-IV Drawing Side. G28 PzIII IV jpg: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4
+* PzIII-IV Drawing Top. G28 PzIII IV jpg: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4
+* PzIII-IV Drawing Front. G28 PzIII IV jpg: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4
+
+|Ref_links=
+
+}}

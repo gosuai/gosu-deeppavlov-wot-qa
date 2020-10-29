@@ -1,0 +1,80 @@
+{{TankData|Tank=AMX AC mle. F36 AMX AC Mle1948  48
+|The AC Mle. F36 AMX AC Mle1948  48 is an improvement over the preceding AC Mle. F36 AMX AC Mle1948  46, and is the first French tank destroyer with decent frontal protection. F36 AMX AC Mle1948  Like most French vehicles, it has good on-paper qualities like gun accuracy, gun penetration, top speed, power-to-weight ratio, and frontal armour values, but these are ruined by exceptionally poor hidden factors such as terrain resistance, gun dispersion values upon traversing the gun or hull, and crippling weakspots that negate the frontal armour. F36 AMX AC Mle1948  These combine to make a vehicle that can be frustrating to play. F36 AMX AC Mle1948 
+
+|Gallery=
+
+File:AMX AC mle. F36 AMX AC Mle1948  48 scr 1. F36 AMX AC Mle1948 jpg
+File:AMX AC mle. F36 AMX AC Mle1948  48 scr 2. F36 AMX AC Mle1948 jpg
+File:AMX AC mle. F36 AMX AC Mle1948  48 scr 3. F36 AMX AC Mle1948 jpg
+
+
+|InTheGame_pros=
+
+* Well sloped frontal armor with a very tough mantlet
+* High top speed, good acceleration and decent hull traverse
+* Powerful top gun with good alpha damage, penetration and a 3-shot autoloader
+* Relatively painless grind, as all guns are still competitive at Tier 8 
+* Large ammo capacity
+
+|InTheGame_cons=
+
+* Poor gun handling and aim time
+* Long reload on the top gun autoloader
+* Thin side/rear/roof armor
+* Frontal protection is hampered by large, poorly armored weakspots
+* Very low healthpool 
+
+|InTheGame_performance=
+Consider this a buffed out AMX AC 46 in all regards except side/rear armor. F36 AMX AC Mle1948  On paper, it is amazing in many things. F36 AMX AC Mle1948  It has strong sloped frontal armor that can deflect anything below 200mm of penetration, a powerful array of effective guns that each have good to decent rates of fire and uncanny agility for its size, being one of the most mobile Tier 8 TDs. F36 AMX AC Mle1948  However, these initial things are bogged down considerably by a number of weaknesses. F36 AMX AC Mle1948  
+
+Notably, the armor on the sides and rear is so weak that it easily gets overmatched by high caliber guns. F36 AMX AC Mle1948  This TD is also large in both width and length, making it a juicy target for artillery and making its camo factor somewhat low. F36 AMX AC Mle1948  Hitting weakspots can injure crew fairly easily too, and its low HP means it won't be able to withstand such things for long. F36 AMX AC Mle1948  Additionally, you have trademark French dispersion and aim time on all the guns, meaning that it is difficult for you to snapshot and takes a while for you to aim at weakspots. F36 AMX AC Mle1948 
+
+Nonetheless, it can be a capable and powerful TD in the right situation and with the right skills, if frustrating and inconsistent. F36 AMX AC Mle1948  It functions best as a mobile sniper, being able to reposition very easily. F36 AMX AC Mle1948  It is crucial to let the aim circle fully shrink, since you (like in all autoloaders) absolutely need to make every shot count. F36 AMX AC Mle1948  After shooting, more than 30s reload will make you vulnerable and you will need to use that time to hide or relocate. F36 AMX AC Mle1948 
+
+Your low camo and big silhouette makes you a candid target for artillery. F36 AMX AC Mle1948  If you do come under fire, you can increase the difficulty of hitting the weakspots by "wiggling" your tank while reversing or stationary, not just making it hard to hit weakspots but also angling the frontal armor. F36 AMX AC Mle1948  Just make sure not to expose your sides too much due to the overmatch mechanics. F36 AMX AC Mle1948  Secure yourself a flank and rain down havoc on enemies, and when things get heated, bail out. F36 AMX AC Mle1948  The Sixth Sense perk makes life in this TD incredibly easier. F36 AMX AC Mle1948 
+
+While not at all suited for brawling due to obvious weakspots and low HP, it can, in the right circumstances, pull off amazing things, especially if you preserve your HP and deal with low-HP enemies. F36 AMX AC Mle1948  This tank can also work as a brawler "supporter", if you can can pull off a flank or ambush this will easily net you a lot of damage. F36 AMX AC Mle1948  The 1200 clip damage potential poses a major threat, especially to players who don't remember that this TD can mount an autoloader. F36 AMX AC Mle1948  
+
+It is also worth noting that the 100 mm gun has significantly better hidden factors than the 120 mm gun (aim time, dispersion), while still having adequate penetration for Tier 8, and is worth considering if the 120 mm is too frustrating to use. F36 AMX AC Mle1948  But it is nearly useless in tiers IX and X due to miserable alpha, lower pen and no fear factor whatsoever, unlike the mighty autoloader. F36 AMX AC Mle1948 
+
+Bottom line, try not to get spotted soon, avoid getting shot, hide, ambush, flank and make every shot count from your clip. F36 AMX AC Mle1948  If played right, this tank can be a monster. F36 AMX AC Mle1948  If not, it gets quickly destroyed. F36 AMX AC Mle1948 
+
+
+|InTheGame_research=
+* Since the stock suspension can hold a lot of weight, players should equip the 100mm gun, upgraded radio and the top engine. F36 AMX AC Mle1948 
+* Then grind the 120mm to greatly increase alpha damage and penetration. F36 AMX AC Mle1948 
+* Lastly, the suspension should be upgraded to increase the top speed and traverse speed. F36 AMX AC Mle1948 
+
+|InTheGame_equipment=
+Large-Caliber Tank Gun Rammer, Binocular Telescope, Enhanced Gun Laying Drive, Improved Ventilation Class 3
+
+|History=Tankdestroyer concept from the late 1940s. F36 AMX AC Mle1948  Only existed in blueprints
+
+|HistAcc=
+The AMX AC 48 was never designed to have an autoloader, as seen in the blueprints. F36 AMX AC Mle1948  The historical version with the single-shot gun does not exist in World of Tanks. F36 AMX AC Mle1948 
+* The AMX AC 48 would have had the same 180mm of frontal armor as the AMX 50 Foch, as the Foch was the same design except without the rear AA turret. F36 AMX AC Mle1948 
+* Only the 120mm cannon was intended to be used for this design. F36 AMX AC Mle1948  The other gun configurations are fake. F36 AMX AC Mle1948 
+
+|HistoricalGallery=
+image:AMX Automoteur Canon Mle. F36 AMX AC Mle1948  1948 1. F36 AMX AC Mle1948 jpg{{!}}AMX AC 120 mm Mle. F36 AMX AC Mle1948  1948 Technical Drawing
+File:AMX_48_AC_blueprint. F36 AMX AC Mle1948 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=13. F36 AMX AC Mle1948 4
+|Sidebar_Camomove=8. F36 AMX AC Mle1948 3
+|Sidebar_Camofire=3. F36 AMX AC Mle1948 7
+|Sidebar_Passhard=1. F36 AMX AC Mle1948 247
+|Sidebar_Passmed=1. F36 AMX AC Mle1948 342
+|Sidebar_Passsoft=2. F36 AMX AC Mle1948 301
+|Sidebar_DispTurret=0. F36 AMX AC Mle1948 23
+|Sidebar_DispRecoil=3. F36 AMX AC Mle1948 836
+|Sidebar_DispAccel=0. F36 AMX AC Mle1948 211
+|Sidebar_DispTurning=0. F36 AMX AC Mle1948 211
+}}

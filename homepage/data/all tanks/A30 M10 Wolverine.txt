@@ -1,0 +1,113 @@
+{{TankData|Tank=
+|In contrast to the T67 on the other US TD branch, the M10 gives up some speed and camo for better accuracy, better shell velocity on 76mm guns, wider gun selection and armor. A30 M10 Wolverine  While most of the tanks on this TD line do not have turrets, the M10 as well as the M36 Jackson after it do get this nice advantage even though the turret does not turn very fast. A30 M10 Wolverine  The tank's size is too great to remain camouflaged well, although the rotating turret allows you to keep the hull still so that [[Equipment|Camouflage Nets]] and [[Equipment|Binocular Telescopes]] don't reset. A30 M10 Wolverine  It also makes engaging targets on a wider front more practical, since the whole hull of the vehicle does not need to be slewed to engage new targets. A30 M10 Wolverine  Always remember that despite the turret, this TD cannot be played as a medium tank as it is wholly inadequate for that role. A30 M10 Wolverine  
+
+|Sidebar_Camostop=18. A30 M10 Wolverine 0
+|Sidebar_Camomove=10. A30 M10 Wolverine 9
+|Sidebar_Camofire=6. A30 M10 Wolverine 6
+|Sidebar_Passhard=1. A30 M10 Wolverine 055
+|Sidebar_Passmed=1. A30 M10 Wolverine 247
+|Sidebar_Passsoft=2. A30 M10 Wolverine 205
+|Sidebar_DispTurret=0. A30 M10 Wolverine 115
+|Sidebar_DispRecoil=3. A30 M10 Wolverine 356
+|Sidebar_DispAccel=0. A30 M10 Wolverine 221
+|Sidebar_DispTurning=0. A30 M10 Wolverine 221
+
+|InTheGame_pros=
+*Good choice of guns with the fast firing 76mm AT M1A2 or the powerful 105 mm AT M4 howitzer. A30 M10 Wolverine  
+*Good top speed and decent acceleration
+*Turreted
+*Excellent gun depression and decent mantlet armor make it effective at hulldown positions
+*370m view range is more than many tier 5 tank destroyers
+
+
+|InTheGame_cons=
+*Slow with virtually no armor, somewhat inferior to T67
+*Large silhouette
+*Open top turret makes it prone to crew and module damage from HE shells
+*Low AP penetration for a TD with worst alpha output (76mm gun) along with low ammo capacity. A30 M10 Wolverine  
+*Terrible terrain resistance
+
+|InTheGame_performance=
+While you may be fooled into thinking this large, turreted TD can act as a medium tank, this will almost always end in disaster (though if you have played the American mediums up to tier 6 then this is not a bad idea if you are careful enough). A30 M10 Wolverine  Sniping is still the best role for this TD. A30 M10 Wolverine  While not terrible, the camo on the M10 cannot be relied upon as much as other tier 5 TDs and so taking advantage of the great gun depression, turret and mantlet armor to fire from hulldown positions as much as possible is advised. A30 M10 Wolverine  It is also a good flanker mid-game when there are less tanks on either teams. A30 M10 Wolverine  
+
+The M10 has good accuracy and very high DPM with the 76mm guns, allowing it quickly tear apart anything in its sights. A30 M10 Wolverine  The 105mm M4 AT Howitzer is also a devastating weapon, more accurate and faster shooting than the M4 Sherman's 105mm M4 Howitzer. A30 M10 Wolverine  It also has a very fast 1. A30 M10 Wolverine 7 second aim time, faster than many high-penetration medium-caliber tank guns. A30 M10 Wolverine  With about 2. A30 M10 Wolverine 8 second reload time when medium cal rammer is equipped, you can bully any tanks with unparalleled accuracy when top tier and provide unseen firepower to the frontlines on bottom and middle tiers 
+
+The frontal armor is hardly invincible, but allows it to act as a bully against lower tier tanks and at long range many enemy shots at the front may hit the well sloped and heavily armored lower glacis instead. A30 M10 Wolverine  The front is also thick enough to generally withstand penetrations from HE shells, unlike the T67 which will often be destroyed by 105mm howitzer shells in a second. A30 M10 Wolverine  It is essential that you never, ever angle the armor on the M10 though. A30 M10 Wolverine  The sides are very thin and will get overmatched by any 57mm or larger gun. A30 M10 Wolverine  The 2nd turret may seem pointless, but it increases the RoF on the guns and HP and so should be mounted despite the higher weight. A30 M10 Wolverine  It also gives the M10 the distinctive appearance it had historically. A30 M10 Wolverine  
+
+Overall the M10 plays like a heavier T67. A30 M10 Wolverine  While not nearly as fast or stealthy, the M10 has a slightly better gun and has its own set of tricks to survive some situations where the T67 could not. A30 M10 Wolverine  As with any turreted TD, they tend to be able to cover wider areas better than non-turreted TDs since the turreted nature of this TD allows it to engage targets without slewing the hull. A30 M10 Wolverine  Just remember that while you do have some armor, it is your last defense and not getting shot in the first place is always preferable. A30 M10 Wolverine 
+
+|InTheGame_research=
+* The 76 mm AT Gun M1A1 and SCR 506 radio carry over from the T40. A30 M10 Wolverine 
+* Research the upgraded suspension first. A30 M10 Wolverine 
+* Next research the GMC 6046 engine. A30 M10 Wolverine 
+* Research the 76 mm AT Gun M1A2 for a little more accuracy and RoF. A30 M10 Wolverine 
+* Research the upgraded turret last. A30 M10 Wolverine 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Binocular Telescope, Camouflage Net, Coated Optics 
+
+|Gallery=
+image:M10_001. A30 M10 Wolverine jpg{{!}}M10_001
+image:M10_002. A30 M10 Wolverine jpg{{!}}M10_002
+image:M10_003. A30 M10 Wolverine jpg{{!}}M10_003
+image:M10_004. A30 M10 Wolverine jpg{{!}}M10_004
+
+|History=
+[[File:M10-5. A30 M10 Wolverine jpg|160px|right|M10 tank destroyer Italy 1945. A30 M10 Wolverine ]]
+The M10 tank destroyer, formally 3-inch Gun Motor Carriage, M10 was a United States tank destroyer of World War II based on the chassis of the M4 Sherman tank. A30 M10 Wolverine  It was numerically the most important U. A30 M10 Wolverine S. A30 M10 Wolverine  tank destroyer of World War II and combined a reasonably potent anti-tank weapon with a turreted platform (unlike the previous M3 GMC, whose gun was capable of only limited traverse). A30 M10 Wolverine  Despite the introduction of more-powerful types as replacements, it remained in service until the end of the war. A30 M10 Wolverine  Some of those replacements were in fact modified and/or rebuilt from the M10 itself. A30 M10 Wolverine  It was christened the Wolverine by the British, although unlike other vehicle names such as the M4 Sherman, the name was not adopted by American soldiers,  who called it TD (a nickname for any tank destroyer in general) beyond its formal designation. A30 M10 Wolverine 
+
+==Development==
+US combined-arms doctrine on the eve of World War II held that tanks should be designed to fulfill the infantry support and exploitation roles. A30 M10 Wolverine  The anti-tank warfare mission was assigned to a new branch, the tank destroyer force. A30 M10 Wolverine  Tank destroyer units were meant to counter German blitzkrieg tactics. A30 M10 Wolverine  Tank destroyer units were to be held as a reserve at the Corps or Army level, and were to move quickly to the site of any enemy tank breakthrough, maneuvering aggressively to destroy enemy tanks. A30 M10 Wolverine  This led to a requirement for very fast, well-armed vehicles. A30 M10 Wolverine  Though equipped with turrets (unlike most tank destroyers of the day), the typical American design was more heavily gunned, but more lightly armored, and thus more manoeuvrable, than a contemporary tank. A30 M10 Wolverine  The idea was to use speed and agility as a defense, rather than thick armor, to bring a powerful self-propelled gun into action against enemy tanks. A30 M10 Wolverine 
+
+The 3-inch Gun Motor Carriage T35 was the prototype of the M10. A30 M10 Wolverine  It was equipped with a 3-inch (76. A30 M10 Wolverine 2 mm) gun in a new sloped, circular, open-topped turret, developed from the Heavy Tank T1/M6 turret, and mounted on an early-production Medium Tank M4A1 hull. A30 M10 Wolverine 
+This prototype was further developed by sloping the hull, using an M4A2 chassis, and replacing the circular turret with apentagonal version; this model was designated 3-inch Gun Motor Carriage T35E1. A30 M10 Wolverine  In June 1942 the T35E1 was finalized as the 3-inch Gun Motor Carriage M10 and ordered into full production. A30 M10 Wolverine  Towards the end of production the 76 mm gun M1 was installed in the last 300 or so M10's, as it was being fitted into the new production M4 Sherman tank at the time. A30 M10 Wolverine  The 76 mm M1 offered slightly better anti-armour performance than the previous 3" gun M7. A30 M10 Wolverine 
+
+A British variant, designated "17pdr SP Achilles", was developed by mounting the successful 17-pounder anti-tank gun in a modified turret. A30 M10 Wolverine  The 17-pounder was of a similar bore, but had far superior armor penetration capability. A30 M10 Wolverine  It was used by the British, Canadian and Polish armies in Italy and North-West Europe. A30 M10 Wolverine  After World War II, a batch was acquired by the Republic of China Army as demilitarized surplus items. A30 M10 Wolverine  The vehicles' main guns were rendered useless prior to delivery and consequently replaced in 1949 with ex-Imperial Japanese Army 150mm infantry howitzers. A30 M10 Wolverine 
+
+'''Armament'''
+[[File:T10-2. A30 M10 Wolverine jpg|160px|left|M10 tank firing]]
+The M10 used a Medium Tank M4A2 chassis (M10A1s used M4A3 chassis) with an open-topped turret mounting a 3" gun M7. A30 M10 Wolverine  This gun fired the Armor Piercing M79 shot that could penetrate 3 inches of armor at 1,000 yards at 30 degrees from vertical. A30 M10 Wolverine  Other ammunition carried throughout its service life included the Armor Piercing Capped Ballistic Cap (APCBC)M62 projectile, High Velocity Armor Piercing (HVAP) M93 shot, and Armor Piercing High Explosive (APHE); 54 rounds of 3-inch ammunition were carried. A30 M10 Wolverine  The rear of the turret carried two large counterweights which gave it a distinctive shape. A30 M10 Wolverine  The main shortcoming of the M-10'x 3 inch cannon was its APHE round, which was the round most commonly used for engaging tanks. A30 M10 Wolverine  The 3 inch APHE round was based on the naval 3 inch round and had a small charge in the rear of the round which was supposed to explode after penetration of the targeted tank's armor plating. A30 M10 Wolverine  Unfortunately it was discovered that it exploded on impact or shortly thereafter, causing the round not to penetrate. A30 M10 Wolverine  It is still a puzzling mystery as to why this problem was never addressed with a better base fuse or by deleting the small HE charge in the rear of the round. A30 M10 Wolverine  This was also the problem with the towed version of the 3 inch cannon, the M-5, in the antitank role. A30 M10 Wolverine  
+A . A30 M10 Wolverine 50-caliber Browning M2HB machine gun could be mounted on the top rear of the turret for use against enemy infantry and for anti-aircraft use, along with 1000 rounds. A30 M10 Wolverine  The crew were also equipped with their personal weapons for self-protection. A30 M10 Wolverine 
+
+'''Combat service'''
+
+In its combat debut in Tunisia in 1943 during the North African campaign, the M10 was successful as its M7 3-inch gun could destroy most German tanks then in service. A30 M10 Wolverine  The M10's heavy chassis did not conform to the tank destroyer doctrine of employing very light high-speed vehicles, and starting in mid-1944 it began to be supplemented by the 76mm Gun Motor Carriage M18 "Hellcat". A30 M10 Wolverine  Later in the Battle of Normandy, the M10's gun proved to be ineffective against the frontal armor of the newer German Tiger and Panther tanks unless firing HVAP rounds, but was effective against lighter tanks such as the Panzer IV medium tank and other lighter vehicles and self propelled guns. A30 M10 Wolverine  By the fall of 1944 the improved 90mm Gun Motor Carriage M36 began to arrive in Europe as well. A30 M10 Wolverine  In the Pacific war, US Army M10s were used for infantry support but were unpopular due to their open-topped turrets, which made them more vulnerable than a fully-enclosed tank to Japanese close-in infantry attacks. A30 M10 Wolverine 
+
+Approximately 54 M10s were supplied to the USSR though their use by the Red Army service is largely unrecorded. A30 M10 Wolverine  The M10 also equipped units of the Free French Army; one M10 named Sirocco, part of the Régiment Blindé de Fusiliers Marins composed of French sailors, famously disabled a Panther on the Place de la Concorde during the liberation of Paris. A30 M10 Wolverine  British M10s were designated as (Gun) 3 inch Self Propelled Wolverine (3in SP Wolverine) or "M10 3 in SP" and as with all British self-propelled guns were operated by Royal Artillery units. A30 M10 Wolverine  They saw action in Italy and France, many being upgunned with the more effective 17-pounder gun (as the 17pdr SP Achilles) from 1944 onwards. A30 M10 Wolverine 
+
+The M10's open-topped turret left the crew vulnerable to artillery and mortar fire as well as infantry close assault, especially in urban combatand wooded areas. A30 M10 Wolverine  By the end of the war its armor was too thin to provide protection from the newer German tanks and anti-tank guns. A30 M10 Wolverine  The other main disadvantage of the M10 was its very slow speed of turret rotation, as the turret traverse was unpowered and the crew had to hand-crank the turret around. A30 M10 Wolverine  It took approximately two minutes to rotate a full 360 degrees. A30 M10 Wolverine  U. A30 M10 Wolverine S. A30 M10 Wolverine  tank destroyers fired many more high-explosive shells than anti-tank ammunition, indicating that they were employed much like the tanks they were supposed to support. A30 M10 Wolverine 
+
+'''Popular culture'''
+
+The post-war American film star [https://en. A30 M10 Wolverine wikipedia. A30 M10 Wolverine org/wiki/Audie_Murphy Audie Murphy] earned his Medal of Honor at the Battle of the Colmar Pocket, when he used the heavy machine gun of an abandoned and burning M10 to repel German infantry, despite the vehicle taking several more hits from tanks or artillery. A30 M10 Wolverine 
+
+|HistAcc=
+Uses the same General Motors 6046 diesel engine as the [[Achilles]], the British version of the M10. A30 M10 Wolverine  However, their horsepower and weight values are inconsistent. A30 M10 Wolverine 
+* Uses the same 3-inch M7 gun as the French [[Tank:F112_M10_RBFM|M10 RBFM]], yet the penetration and damage values are inconsistent. A30 M10 Wolverine 
+
+|HistoricalGallery=
+image:Wolverine. A30 M10 Wolverine JPG{{!}}Aberdean museum
+Wolverine1. A30 M10 Wolverine jpg
+image:Wolverine2. A30 M10 Wolverine jpg{{!}}Israel museum
+T10-1. A30 M10 Wolverine jpg
+T10-3. A30 M10 Wolverine jpg
+M10-4. A30 M10 Wolverine jpg
+M10-6. A30 M10 Wolverine jpg
+M10-7. A30 M10 Wolverine jpg
+M10 Wolverine (2). A30 M10 Wolverine jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+Zaloga, S. A30 M10 Wolverine J. A30 M10 Wolverine , 2002, <i>'''M10 and M36 Tank Destroyers 1942–53'''</i>, New Vanguard Series 57, Osprey Publishing, Oxford, 48p,  ISBN:9781841764696. A30 M10 Wolverine 
+
+
+|Ref_links=
+* [https://www. A30 M10 Wolverine wwiivehicles. A30 M10 Wolverine com/usa/tank-destroyers/m10. A30 M10 Wolverine asp '''M10 Wolverine aka Achilles'''] Photos & history. A30 M10 Wolverine 
+* [https://www. A30 M10 Wolverine militaryfactory. A30 M10 Wolverine com/armor/detail. A30 M10 Wolverine asp?armor_id=110  '''M10 Wolverine (aka Achilles) Gun Motor Carriage''']
+
+
+}}
+
+[[Category:USA Tanks]]

@@ -1,0 +1,85 @@
+{{TankData|Tank=Panther_II
+|A step-up in the world from the [[Pz. G64 Panther II Kpfw. G64 Panther II  V Panther]], it is best to understand you are still in the same role. G64 Panther II  While being more powerful and maneuverable than the [[Pz. G64 Panther II Kpfw. G64 Panther II  V Panther]], a [[M26 Pershing]] will definitely beat you in a close-quarters fight. G64 Panther II  Knowing this, it is best to take advantage of your long-range accuracy and stay just behind, or alongside, your team's [[Heavy Tanks|heavies]] to avoid close-quarters combat. G64 Panther II  The Panther II has a higher profile than its counterparts, the [[M26 Pershing]] and the [[T-44]], which means you are easier to spot, so position yourself on the battlefield very carefully. G64 Panther II  The Panther II is like a [[Pz. G64 Panther II Kpfw. G64 Panther II  VI Tiger]] but one Tier higher and more mobile. G64 Panther II 
+
+|Gallery=
+image:Panther II front view 1. G64 Panther II jpg {{!}}Panther II front left view
+image:Panther II front view 2. G64 Panther II jpg‎{{!}}Panther II front right view
+image:Panther II back view 1. G64 Panther II jpg‎{{!}}Panther II back left view
+image:Panther II back view 2. G64 Panther II jpg‎{{!}}Panther II back right view
+
+|Sidebar_Camostop=9. G64 Panther II 70
+|Sidebar_Camomove=7. G64 Panther II 10
+|Sidebar_Camofire=2. G64 Panther II 30
+|Sidebar_Passhard=0. G64 Panther II 767
+|Sidebar_Passmed=0. G64 Panther II 959
+|Sidebar_Passsoft=2. G64 Panther II 104
+|Sidebar_DispTurret=0. G64 Panther II 096
+|Sidebar_DispRecoil=3. G64 Panther II 356
+|Sidebar_DispAccel=0. G64 Panther II 153
+|Sidebar_DispTurning=0. G64 Panther II 153
+
+|InTheGame_pros=
+* Excellent accuracy and penetration with the 8. G64 Panther II 8cm/L100 top gun
+* Good top speed
+* Very good at ramming lighter, less armored tanks
+* Large healthpool for its class
+
+|InTheGame_cons=
+* Clumsy due to size and slow traverse, can get easily flanked
+* Atrocious power to weight ratio will leave you struggling to get into position quickly
+* Large silhouette for a medium, very poor camouflage and difficult to hide
+* Insufficient armor will only ever bounce poorly aimed or lower tier shots
+
+|InTheGame_performance=
+The Panther II is a solid and capable tank in the right hands; understanding its strengths and weaknesses are the key to sucess. G64 Panther II   The Panther II isn't a brawler. G64 Panther II   It lacks both the speed and the agility to do so with any large amount of success. G64 Panther II   However,  it can be a very successful flanker, so long as you pick and choose your targets. G64 Panther II   Sniping is always preferential in the Panther II over direct engagement, but don't discount scrapping entirely; the Panther II can take some decent hits, but only risk it if you have support. G64 Panther II   The Panther II works best in a pack, just like any other medium. G64 Panther II   Going out on your own will often result in finding yourself a smoldering wreck. G64 Panther II 
+
+If possible, try only to expose your turret to the enemy. G64 Panther II  Like most German tanks, the lower glacis plate is a large weakness, one which smart opponents will exploit readily if given the chance. G64 Panther II  Shots through the lower glacis will often find your engine broken. G64 Panther II  It may also be difficult playing the vehicle on slopes as its gun depression is lacking. G64 Panther II 
+
+Must-have equipment for this tank are the Tank Gun Rammer and the Vertical Stabilizer to reduce reload time and drastically improve gun performance. G64 Panther II  The third equipment choice is preferential; a Gun Laying Drive will reduce aim time when stopped and help snipe more quickly, Coated Optics increase view range by 10% constantly, and Binocular Telescopes will help spot even camouflaged tanks very well, but only when the tank is stationary. G64 Panther II  Play style will determine which of these is the best for you. G64 Panther II 
+
+Although frowned upon, the Panther II, unlike its predecessor, ''can'' play a role similar to a brawling heavy, but in a way that sets it apart from almost any other tank in the game. G64 Panther II  Use the good penetration of the Panther IIs top gun to your advantage by assassinating unwary heavily damaged opponents; heavies, mediums, whatever class they may be. G64 Panther II  Learning the weak spots of tanks and where your gun can penetrate their armor will only enhance this ability. G64 Panther II  Equipping a Tank gun Rammer and Enhanced Gun Laying drive further increases the Late-game danger this tank becomes. G64 Panther II  The Panther II and those that follow it can become extremely dangerous late-game tanks in the right hands. G64 Panther II  With an elite crew, this tank can spot farther, turn and aim faster, and with its high DPM out-gun almost any other tank in its classes tier. G64 Panther II  In essence, this tank can deceptively turn into a "Medium-Heavy" late-game in urban areas in particular. G64 Panther II  Pick off badly injured tanks, weave about through streets and alleys, use plenty of cover and outsmart your foes, keep on the lookout for newly spotted targets and eliminate them as quickly as you can and you will find yourself able to completely turn, if not help turn the tide of a battle. G64 Panther II  This sort of play is very viable in tier 8 and 9 matches, but it is best you become acquainted with your Panther IIs capabilities before attempting such a feat, and is especially not advised if you have already taken severe damage. G64 Panther II 
+
+The introduction of the 8. G64 Panther II 8cm L/100 gun would seem to rule out the 8. G64 Panther II 8cm L/71 as the gun of choice. G64 Panther II  However the latter gun, while lacking the penetration of the L/100, offers better DPM and rate of fire. G64 Panther II  Players who have come to rely on the Panther II's brawling potential will still find the L/71 competitive. G64 Panther II . G64 Panther II . G64 Panther II . G64 Panther II  provided a number of gold rounds are in tow. G64 Panther II  
+
+*NOTE: As of Patch 1. G64 Panther II 10. G64 Panther II 1, the Panther II has been buffed when using the top gun, the 8. G64 Panther II 8cm L/100. G64 Panther II  Previously it heavily lacked DPM, but now the alpha has been increased from 240/240/295 to 280/280/370. G64 Panther II  The Rate of Fire was not reduced between patches, so as the L/100 has higher DPM, accuracy, damage per shot, and penetration, so there is no longer a reason to use the L/71 over the L/100. G64 Panther II 
+
+|InTheGame_research=
+The first thing to upgrade is the suspension, so that you can then research and mount the L/71 or L/100 once the turret is researched. G64 Panther II  Which gives extra view range and armor and gives more improvement than the suspension. G64 Panther II  The engine does not give a very large improvement to this heavy medium, so research this last. G64 Panther II 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, GLD, Binocular Telescope, Coated Optics
+
+
+|History=
+The early impetus for upgrading the Panther came from the concern of Hitler and others that it lacked sufficient armor. G64 Panther II  Hitler had already insisted on an increase in its armor once, early in its design process in 1942. G64 Panther II  Discussions involving Hitler in January of 1943 called for further increases in armor, resulting in the tank initially referred to as the Panther 2 (it became the Panther II after April 1943). G64 Panther II  This upgrade increased the glacis plate to 100 mm (3. G64 Panther II 9 in), the side armor to 60 mm (2. G64 Panther II 4 in), and the top armor to 30 mm (1. G64 Panther II 2 in). G64 Panther II  The weapon was to remain the 75mm KwK 42 L/70. G64 Panther II  Production of the Panther 2 was slated to begin in September 1943. G64 Panther II 
+
+
+In a meeting on February 10, 1943, further design changes were proposed, including changes to the steering gears and final drives. G64 Panther II  Another meeting on February 17, 1943 focused on sharing and standardizing parts between the Tiger II tank and the Panther 2, such as the transmission, all-steel roadwheels, and running gear. G64 Panther II  No plans were made to include the 8. G64 Panther II 8 cm L/71 as the turret diameter was too small. G64 Panther II  In March 1943, MAN indicated that the first prototype would be completed by August 1943. G64 Panther II  A number of engines were under consideration, among them the new Maybach HL 234 fuel-injected engine (900 hp operated by an 8-speed hydraulic transmission). G64 Panther II 
+
+
+Thus, plans to replace the original Panther design with the Panther II were already underway before the first Panther had even seen combat. G64 Panther II  But, from May to June 1943, work on the Panther II ceased, as the focus was shifted to expanding production of the original Panther tank. G64 Panther II  It is not clear if there was ever an official cancellation; this may have been because the Panther II upgrade path was originally started at Hitler's insistence. G64 Panther II  The direction that the design was headed would not have been consistent with Germany's need for a mass-produced tank, which was the goal of the Reich Ministry of Armament and War Production. G64 Panther II   Additionally, many of the problems the Panther II was made to address had been resolved, such as the weak side armor. G64 Panther II 
+
+
+One Panther II chassis was completed and eventually captured by the U. G64 Panther II S. G64 Panther II  It is now on display at the Patton Museum in Fort Knox. G64 Panther II  The turret from a Panther (I) Ausf G is mounted on this chassis. G64 Panther II 
+
+
+|HistAcc=
+* The Panther II was designed for a MAN LD 220 engine with 750 hp or a HL 234 Maybach engine with 900 hp. G64 Panther II 
+* The top Schmalturm turret was developed only after the Panther II project was cancelled. G64 Panther II  Its planned and only turret is its stock one. G64 Panther II 
+* The Panther II was only ever intended to have the 75mm KwK 42 L/70. G64 Panther II 
+
+
+|HistoricalGallery=
+image:Panther_II. G64 Panther II Fort_Knox. G64 Panther II jpg‎{{!}}The only remaining Panther II, located in Ft. G64 Panther II  Knox. G64 Panther II   A Panther I Ausf G turret was mounted by the US army. G64 Panther II 
+File:Panther_II_sketch. G64 Panther II png{{!}}Sketch of the Panther II along with its planned turret
+
+|Ref_references=
+* Panzerkampwagen Panther II and Panther Ausf. G64 Panther II F (Panzer Tracts, # 5-4) by Thomas Jentz
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. G64 Panther II wikipedia. G64 Panther II org/wiki/Panther_tank#Panther_II
+
+}}

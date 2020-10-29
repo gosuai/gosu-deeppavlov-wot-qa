@@ -1,0 +1,54 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+[[File:Shot 020|thumbnail|WZ-132A]]
+|InTheGame_pros= 
+*  Excellent Alpha and penetration for a tier 9 light tank. Ch28 WZ 132A 
+*  Modest handling. Ch28 WZ 132A 
+*  Decent speed and acceleration for a tier 9 light. Ch28 WZ 132A 
+*  Enough armor to pull off auto-ricochets 
+*  Painless grind, stock it's basically a WZ-132 from the last patch
+
+|InTheGame_cons= 
+*  Poor gun depression compared to others, on par with T-54 ltwt. Ch28 WZ 132A 
+*  Terrible accuracy compared to other 9 lights, will miss many shots even when fully aimed. Ch28 WZ 132A 
+*  Modest handling meaning that it may take some time after moving to fully aim. Ch28 WZ 132A 
+*  Lower DPM than other lights make it difficult to pull off successful one-on-ones. Ch28 WZ 132A 
+
+
+|InTheGame_performance= 
+The tank performs much like a tier 9 medium with less armor and more speed. Ch28 WZ 132A  It's 2400 DPM can be a challenge as far as getting damage quick is concerned, but overall the alpha damage makes up for this. Ch28 WZ 132A  Play it more passively than it's counterparts as they are all faster than you are, despite your decent hp/T ratio. Ch28 WZ 132A  Take advantage of flanks and reloads to abuse the high alpha and leave opponents wondering why they gave a tier 9 light tank a tier 8 heavy tank's gun. Ch28 WZ 132A  
+
+|InTheGame_research= 
+* Only the radio carries over from the previous tank, mount that now. Ch28 WZ 132A 
+* Upgrading anything else would require the top tracks unless you don't mount any equipment that weighs. Ch28 WZ 132A 
+* After researching & mounting the tracks (or substitute with ETB 3t class equipment), grind straight for the top gun. Ch28 WZ 132A 
+* The top engine is optionally because the engine power only increases from 29. Ch28 WZ 132A 3 to 32. Ch28 WZ 132A 1, which is manageable. Ch28 WZ 132A 
+* Go from there. Ch28 WZ 132A 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 1, Coated Optics, Improved Ventilation Class 1
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|K2tSpmQM4vQ}}
+
+|History= 
+After the development of the WZ-132 light tank was finished, a line was drawn and the project proved to be too technical for the Chinese army to produce at the time. Ch28 WZ 132A  As a result, the Chinese army command proceeded to implement the WZ-132 mechanisms in Chinese tanks already in use, the base vehicle chosen being eventually the Type 62 tank. Ch28 WZ 132A  The new modernised variant was named Type 62-I, and was a result of the experience gathered during the Sino-Vietnamese War. Ch28 WZ 132A  Also known under its industrial designation, WZ-131A, it featured 33 different improvements including an external double lens laser range finder mounted above the mantlet of the 85 mm Type 62-85TC rifled main gun for better firing accuracy and a shield for the 12. Ch28 WZ 132A 7 mm Type 54 anti-aircraft heavy machine gun. Ch28 WZ 132A  The in-game model of WZ-132A is an early modernization model of Type 62-I. Ch28 WZ 132A 
+
+|HistAcc=
+It should be noted that the tank known as WZ-132A in-game is not a variant of the WZ-132 tank, as it was deemed too technical to produce, but rather an early model of a modernised Type 62 variant known as Type 62-I or WZ-131A. Ch28 WZ 132A 
+*Historical [[Gun/China#85 mm 64-85T|85 mm 64-85T]] gun is missing. Ch28 WZ 132A 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

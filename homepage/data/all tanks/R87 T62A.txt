@@ -1,0 +1,92 @@
+{{TankData|Tank=
+|The defining characteristic of the T-62A, as shared with it's Tier X Soviet brethren, is the versatility and flexibility that it provides the driver on the battlefield. R87 T62A  The tank is mobile, has an exceptional gun with impressive stats (albeit, very low alpha damage and abysmal gun depression) and can adapt to the situation with far greater ease than many of it's peers. R87 T62A  By comparison with other Tier X Soviet Medium Tanks, the T-62A defines itself as the most hardheaded tank of the group, sporting a very strong turret which uses a combination of a highly rounded design and high armor values to deflect incoming fire of even some of the most powerful guns in the game so long as premium ammunition is not in use. R87 T62A  The tank thrives in hull-down positions which allow it to have a clear line of sight on advancing enemy vehicles while exposing only its phenomenal turret. R87 T62A  Even more so if the T-62A successfully finds itself on the flank of enemy vehicles that are forced to engage several of its teammates at once. R87 T62A  In this case, the T-62A will use its phenomenal, accurate and rapid firing gun with excellent penetration to punish even the most heavily armored foes until their vehicles are turned into smoldering wrecks. R87 T62A 
+
+Such versatility does not come without a price, however, and the T-62A pays the price for its multi-role capabilities by having a very weak hull armor layout, even by the standards of other Soviet medium tanks at its tier and even some tanks below its tier, with the hull armor of the T-62A being only on par with the tier VIII [[Type 59]]. R87 T62A  Such weakness does not bode well for the tank's modules, many of which are located in the lower hull and can suffer extensive damage when hit. R87 T62A  For example, the T-62A's fuel tank is located in the front of the hull and right next to the driver. R87 T62A  Thanks to the insufficient armor protection, an enemy shell which penetrates the front of the tank will not only kill the driver but more often than not damage the fuel tank and set the vehicle on fire. R87 T62A  And if that wasn't enough reason to exercise extreme caution, the player should also be aware of the fact that the T-62A is one of the easiest vehicles in the game to destroy through the detonation of the ammo rack when shot in the side. R87 T62A  In short, when driving this vehicle without the aid of your teammates, avoid head on confrontations with enemy vehicles and instead try to either flank or retreat to a safe position and wait for reinforcements. R87 T62A  Otherwise, you risk suffering extensive damage to your tank when trading shots with other vehicles and even if you win the first encounter, you may lose the battle in the long run as your diminished hit-point count will leave you with extremely limited options for the rest of the match. R87 T62A 
+
+In conclusion, the best way to play the T-62A is through constant observation of the situation on the battlefield. R87 T62A  The player of the tank should respond to changing battlefield conditions by constantly moving their tank to the area that needs attention and assistance in order to prevent a breakthrough by the enemy team. R87 T62A  Use the tank where it's the strongest, in hull-down positions with good lines of sight to the enemy, and fire from a good distance to minimize the risk to your own vehicle. R87 T62A  A well played T-62A is a ferocious fighter that will mercilessly dispatch its opponents and will easily see itself on top of the team list as a major contributor in all aspects. R87 T62A   
+
+|Gallery=
+image:T62Agame1. R87 T62A jpg{{!}}T-62A, Murovanka map
+
+|InTheGame_pros=
+* Excellent DPM, shell velocity, penetration and accuracy
+* Very strong turret armor
+* Low ground resistance and very quick hull traverse, great agility
+* Low profile, good camouflage rating
+
+|InTheGame_cons=
+* Weakest hull armor of all Tier 10 Russian medium tanks
+* Lowest alpha damage in tier/class, tied with other 100mm Russian mediums and the [[TVP T 50/51]]
+* Poor gun depression
+* Frequent fuel tank, ammo rack and driver critical hits from frontal penetrations
+* Top speed is average, and engine power is fairly low
+
+
+|InTheGame_performance=
+Much like the other Soviet medium tanks, the T-62A excels at flanking attacks. R87 T62A  However, the 100 mm U-8TS it carries also has excellent penetration, enough to penetrate the weakspots of even the heaviest tanks in the game. R87 T62A  Combined with an incredible rate-of-fire, superb gun handling, high shell velocity, and good base accuracy, the T-62A can quickly rack up the damage despite the low individual shell damage if left unhindered. R87 T62A  They also allow the T-62A to make quick and relatively accurate snap shots, and also hit targets while firing on the move with acceptable consistency. R87 T62A  If there are plentiful of other medium tanks in the team list for frontline duties, one could also try sniping with this decent weapon to some degree of success. R87 T62A 
+
+Like the preceding T-54, the T-62A has a near impenetrable turret, vulnerable to only the biggest tank destroyer guns or premium ammunition. R87 T62A  The hull of the T-62A is a completely different story; it is actually weaker than the T-54's, and is easily penetrated by even Tier 8 tanks. R87 T62A  To make matters worse, there is a fuel tank situated next to the driver which is very vulnerable to being set on fire. R87 T62A  In places where the gun depression allow it to hide the hull of the tank, it can be an incredibly difficult target to destroy. R87 T62A  Unfortunately, with only 5 degrees of gun depression, the options for this are fairly limited compared to other medium tanks. R87 T62A 
+
+The maneuverability of the T-62A is quite good, despite the underpowered engine. R87 T62A  Its suspension has some of the best terrain resistance values in the game to compensate, although the acceleration can feel a little sluggish compared to the T-54 or the Object 140. R87 T62A  The maximum speed is somewhat low, at only 50 km/h, but it is still managable to fulfill its role as a medium tank. R87 T62A 
+
+The T-62A is a highly versatile machine that can perform well in a variety of tasks. R87 T62A  It can brawl using its superb rate-of-fire to overwhelm slower firing tanks, has the mobility and penetration to flank more cumbersome opponents, and can even perform as a scout if absolutely necessary, thanks to a good base view range. R87 T62A  Flexibility is the T-62A's greatest asset, and it will rarely find itself in a situation where it cannot leverage something in the battle. R87 T62A 
+ 
+
+|InTheGame_equipment= Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents
+
+|External_Reviews=
+{{VideoYT|v4-4eNwwJL4}}
+{{VideoYT|UeYsyqzmoGc}}
+{{VideoYT|a0jRTTBNqUU}}
+{{VideoYT|Z1MJdLKcftc}}
+{{VideoYT|xkIXRAfhuis}}
+
+|History=
+[[image:T-62_main_battle_tank_laying_a_smokescreen. R87 T62A JPG|thumb|200px|left|T-62 main_battle tank laying a smokescreen]]
+The T-62A (Obyekt 165) was one of several competing medium tank designs originally intended to replace the older T-54 medium tank. R87 T62A  It was designed in 1957 by the Uralvagonzavod design bureau at Nizhniy-Tagil led by Leonid Kartsev. R87 T62A  By the end of the 1950s, it had become clear that the 100 mm D-10 gun used on the T-54 was becoming obsolete against the new generation of Western tanks, and a new weapon was designed. R87 T62A  This was known as the D-54 (GRAU index: 2A24). R87 T62A  It was a powerful 100 mm rifled gun, with comparable performance to the new 105 mm guns appearing on Western tanks. R87 T62A  
+
+The favored platform for the D-54 was the Kharkov Obyekt 430, the ancestor of the future T-64, designed by Aleksandr Morozov who had also worked on the famous T-34, T-44, and T-54 medium tanks. R87 T62A  Kartsev had also attempted to fit the D-54 to the T-54 (Obyekt 139) with some modifications, but the T-54 was simply too small to properly service the weapon, while the completely new Obyekt 140 was also intended to use the gun but had run into development problems with the suspension and transmission, and was cancelled. R87 T62A  Despite these setbacks, Nizhniy-Tagil continued working on the next-generation medium tank. R87 T62A  Nizhniy-Tagil had also designed the Obyekt 150, a missile tank that would eventually enter service as the IT-1 Drakon, which utilized a lengthened hull with T-54 components. R87 T62A  This hull would form the basis for the Obyekt 165 and 166, the T-62A and T-62, respectively. R87 T62A  
+
+At roughly the same time, the Soviet premier Nikita Khrushchev became infatuated with the new smoothbore gun entering service, the 100 mm T-12 (GRAU index: 2A19). R87 T62A  He ordered that the new Soviet medium tank would also use the 100 mm T-12 as its main armament. R87 T62A  Unfortunately, the gun's long ammunition would not fit in any existing turret, so it was instead proposed that the 100 mm be bored out to 115 mm, allowing for a shorter round that had the same amount of propellant. R87 T62A  This gun became the 115 mm U-5 ''Molot'' (''Hammer''; GRAU index: 2A20). R87 T62A  
+
+Kharkov's Obyekt 430 could not be easily modified to take the new 115 mm smoothbore gun, but Kartsev had already designed a new cast turret for the 115 mm gun that could be fitted to the Obyekt 150 hull. R87 T62A  This resulted in the Obyekt 166, which would eventually see widespread service as the T-62, supplementing the T-54/55. R87 T62A  The new turret could also fit the D-54 gun, and this combination became the Obyekt 165, entering service as the T-62A. R87 T62A  Both tanks were ordered into service in 1961 pending modifications to the Obyekt 430, but it was eventually decided to concentrate on the 115 mm gun instead, and only five T-62As were eventually completed. R87 T62A 
+
+
+
+
+|HistAcc=
+
+
+|HistoricalGallery=
+image:T-62_1. R87 T62A jpg{{!}}
+image:T-62A_2. R87 T62A jpg{{!}}
+image:T-62A_3. R87 T62A jpg{{!}}
+image:T-62A_4. R87 T62A jpg{{!}}
+image:T-62A_5. R87 T62A jpg{{!}}
+image:T-62A_Interior. R87 T62A jpg{{!}}A drawing of the T-62A's interior layout
+image:T-62A_gunner. R87 T62A jpg{{!}}The view from the gunner's position
+image:T-62A_TC. R87 T62A jpg{{!}}The view from the commander's position
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Zaloga, S. R87 T62A J. R87 T62A , 2009, '''<i>T-62 Main Battle Tank 1965–2005</i>''', New Vanguard Series 158, Osprey Publishing, Oxford, 48p, ISBN:9781846033902. R87 T62A 
+
+|Ref_links=
+
+
+|Sidebar_Camostop=15. R87 T62A 4
+|Sidebar_Camomove=11. R87 T62A 7
+|Sidebar_Camofire=3. R87 T62A 4
+|Sidebar_Passhard=0. R87 T62A 479
+|Sidebar_Passmed=0. R87 T62A 575
+|Sidebar_Passsoft=1. R87 T62A 342
+|Sidebar_DispTurret=0. R87 T62A 077
+|Sidebar_DispRecoil=3. R87 T62A 356
+|Sidebar_DispAccel=0. R87 T62A 096
+|Sidebar_DispTurning=0. R87 T62A 096
+}}
+
+[[Category:USSR Tanks]]

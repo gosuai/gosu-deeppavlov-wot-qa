@@ -1,0 +1,58 @@
+{{TankData|Tank= 
+|The '''Excalibur''' is a first reward tank from that can be obtained by completing the first set of missions in the Second Campaign personal missions set. GB96 Excalibur  
+
+|Gallery= 
+
+|InTheGame_pros=
+- Abnormally high HP pool for tier 6 TD (750)
+
+- Great penetration and rate of fire
+
+- Excellent gun handling, has quick aiming time, great gun depression/elevation, as well as 200 degrees of firing arc
+
+- High mobility and quick traverse speed
+
+- Handy crew slots that match with vehicles from British turreted TD line. GB96 Excalibur 
+
+- Low ammunition cost; decent credit earner
+
+|InTheGame_cons= 
+- Horribly oversized, finding a place to cover or hide can be troublesome
+
+- Very poor armor, can be easily destroyed if not covered
+
+- Has "turret" which can be damaged and/or jammed. GB96 Excalibur  also, turret's rear is extremely prone to HE shots and it can be exposed when aiming at another angle
+
+- Poor shell velocity, inaccurate at long range
+
+|InTheGame_performance= 
+Think of this tank as a bigger KanonenJagdpanzer that trades camouflage for gun handling and flexibility. GB96 Excalibur  The interesting turret placement allows for some quirky positioning - it is possible to hide the rear of the tank behind cover and only expose the very front of the tank around a corner, although the absurd size of the Excalibur can make this difficult. GB96 Excalibur  The lack of armour and low alpha damage of the gun can make this tank tricky to use at close range, so mid to longe range should be what is used. GB96 Excalibur  This way the excellent accuracy and aim time of the Excalibur can be taken advantage of, as well as the nice DPM. GB96 Excalibur  The HP pool (which is on par with Tier VI mediums) can then be conserved for nearer the end of the game, where your rate of fire can be used to mop up any low health stragglers. GB96 Excalibur 
+
+Using the good mobility of this tank to reposition is key, in order to keep the gun firing, as you do not have the alpha damage to take huge chunks of hit points off with one shot. GB96 Excalibur  Relocate often, abuse the unusual turret and great gun handling stats and harass the enemy with the great rate of fire - just remember that only your generous health pool will keep you alive, not your armour. GB96 Excalibur 
+
+Do not be deceived by the turret's traverse speed--while it ''is'' better than most of the turreted tank destroyers in its tree, it is still woefully lacking and will not be sufficient for brawling. GB96 Excalibur  Resist the temptation to get close; stay in the second line and provide fire from there. GB96 Excalibur  If you are forced to fight up close against an enemy, take advantage of any cover available and the extreme front-mount of your turret by pre-aiming in their direction, poking just far enough to clear a shot, and reversing immediately. GB96 Excalibur  Your 15 kph reverse speed is unimpressive, but sufficient for a retreating shot. GB96 Excalibur  
+
+Be wary of artillery, as the Excalibur is extremely vulnerable to their fire. GB96 Excalibur  The engine deck is enormous and will get penetrated by even tier 4 artillery on a direct hit. GB96 Excalibur  Lucky or careful artillery drivers can drop a shell square where your turret meets your hull; with only 7mm(!) of armor on the top rear portion of the turret, you ''will'' take full damage and suffer widespread crew and equipment damage. GB96 Excalibur  Play carefully if you cannot take hard cover against artillery. GB96 Excalibur 
+
+|InTheGame_research= 
+Special vehicle, comes elite in its stock configuration. GB96 Excalibur 
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Binocular Telescope, Camouflage Net
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistAcc=
+While multiple guns of various calibers were considered for use on the Excalibur, the one actually selected was a low-pressure 105mm rather than the 76mm. GB96 Excalibur 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

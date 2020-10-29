@@ -1,0 +1,105 @@
+{{TankData|Tank=Ch18_WZ-120
+|
+The WZ-120 is very similar to its Soviet counterpart, the [[T-54]], and the play style is also comparable to the [[Type 59]] (Since it was the same tank; But with more modernized characteristic). Ch18 WZ-120  While the WZ-120 may be similar to the T-54, the T-54 has better hull armor by 20mm of frontal armor. Ch18 WZ-120  The top gun of the WZ-120, the tier 10 122mm 60-122T, has the highest alpha damage of all tier 9 medium tanks, and the 5th best armor penetration with default ammo. Ch18 WZ-120 
+
+|InTheGame_pros= 
+
+* Highest alpha damage of all Tier 9 medium tanks
+* Good accuracy and gun handling for a 122mm gun
+* Strong turret armor
+* Decent acceleration, good top speed and agility
+* Good camouflage values
+* Rather good DPM for a 440 alpha tier IX Medium, at 2,500
+
+|InTheGame_cons= 
+
+* Thinner upper glacis compared to Russian counterpart [[T-54]]
+* Bad gun depression, as low as -3 degrees with the top 122mm gun
+* All guns have poor aim time and rather average DPMm, 122mm has decent DPM
+* Takes frequent critical hits to ammo rack and fuel tanks
+* Awful stock grind
+
+
+|InTheGame_performance=
+
+*The WZ-120 outtrades many tanks of its tier, and gives same tier medium tanks stiff competition due to its excellent top gun and mobility. Ch18 WZ-120  However, like the T-54, getting the WZ-120 "fully upgraded" takes time and patience, but it is well worth the grind. Ch18 WZ-120  Because of this tank's good mobility, speed, and powerful gun, it is a formidable opponent against many of its tier 9 counterparts. Ch18 WZ-120 
+
+*This tank can be used in a number of ways according to your play style from which line you came up from. Ch18 WZ-120  It has less max and traverse speed than the WZ-132A, but still a good top and traverse for a tier 9 medium, making a well rounded tier 9 tank for most players. Ch18 WZ-120 
+
+*Its armor is not very impressive, but the stock and upgraded turrets have enough armor to bounce many shots. Ch18 WZ-120  The hull armor is only 100mm, but with the slope of the frontal armor, you can bounce a few shots if you know how to angle the armor correctly. Ch18 WZ-120 
+
+*This is not a beginner tank: its drawbacks of gun depression and aim time are a deal-breaker for many. Ch18 WZ-120  Managing the nigh non-existent gun depression and the glacial aim time are the keys to doing well in this vehicle; however, the low profile negates this issue to a degree, and makes using allies as meat-shields easier. Ch18 WZ-120  Using small irregularities in the terrain (small bumps, pieces of debris, etc) to prop one side of the vehicle up so as to get the gun down can be very effective. Ch18 WZ-120 
+
+*Using equipment and crew skills to minimize accuracy penalties for moving can help alleviate the aim time, as well as making sure to move the tank as little as possible when moving out for a shot. Ch18 WZ-120  The strengths of this tank are its alpha damage and mobility, which make it a very strong flanker and harasser. Ch18 WZ-120  If it can be used, the turret armor is very difficult to penetrate, and if it can be aimed fully, the accuracy of 0. Ch18 WZ-120 38 makes at least a passable sniper. Ch18 WZ-120 
+
+*It's recommended to use a Tank Gun Rammer, Vertical Stabilizer, and Coated Optics to improve the tank's strengths (alpha/DPM, scouting ability), while minimizing the weaknesses (gun handling) that can be addressed. Ch18 WZ-120  If you can't deal with the weaknesses as your play-style still hasn't adjusted to what suits the Chinese mediums by abusing camouflage and unconventional hull-down positioning to get off accurate shots and are forced to use a GLD/Vents in lieu of the Rammer and Optics, perhaps this wasn't the tank line for you. Ch18 WZ-120  As much as it may tempt you to believe so, T-54 style play does not work in this tank, and the gun makes it a whole different beast of its own. Ch18 WZ-120 
+
+*As of Patch 1. Ch18 WZ-120 10. Ch18 WZ-120 1, the WZ-120 has been buffed. Ch18 WZ-120  Previously, the reload was 12s on the top 122mm, giving it 2,300 DPM, but now it is 11 s, giving it 2,500 DPM. Ch18 WZ-120  Additionally, the engine power has been increased, giving it about 2 more hp/t, and the top speed was increased from 56 to 60 km/h. Ch18 WZ-120  The Health has also been increased from 1,650 to 1,750 on the top turret. Ch18 WZ-120  Lastly, the gun handling is slightly better, as the bloom on turret rotation has been decreased from 0. Ch18 WZ-120 15 to 0. Ch18 WZ-120 13. Ch18 WZ-120 
+
+|InTheGame_research= 
+* If you come from the WZ-132, the A-220A radio carries over and can be mounted immediately. Ch18 WZ-120 
+* If you come from the T-34-2, the A-220A radio and 12150LS engine carry over and can be mounted immediately. Ch18 WZ-120 
+* Research the tracks first. Ch18 WZ-120 
+* Research the 100mm 60-100T gun. Ch18 WZ-120 
+* Research the upgraded turret. Ch18 WZ-120 
+* Research the 100mm 62-100T gun. Ch18 WZ-120 
+* Research the 122mm 60-122T gun, it's what defines this tank. Ch18 WZ-120 
+* Lastly, research the 12150LT engine. Ch18 WZ-120 
+
+
+It is worth noting that the 100mm 62-100T gun, the 122mm 60-122T gun and the 12150LT engine can all be unlocked on the Chinese heavy tank line. Ch18 WZ-120  Doing so before grinding the medium line will make the WZ-120 grind significantly less punishing and time-consuming. Ch18 WZ-120 
+
+|InTheGame_equipment=
+Vents, Medium-Caliber Tank Gun Rammer, Vertical Stabilizer, GLD, Coated Optics
+
+|Gallery=
+
+
+|History=
+WZ120 is a Chinese designation for the Type 59 main battle tank. Ch18 WZ-120  It is best described as a copy of the Soviet T-54A tank, an improvement over the ubiquitous T-54/55. Ch18 WZ-120 
+
+The first vehicles were produced in 1958 and it was accepted into service in 1959, with serial production beginning in 1963. Ch18 WZ-120  Approximately 9,500 of the tanks were produced by the time production ended in 1980 with approximately 5,500 serving with the Chinese armed forces. Ch18 WZ-120  The tank formed the backbone of the Chinese People's Liberation Army until 2000s (decade), with an estimated 5,000 of the later Type 59-I and Type 59-II variants in service in 2002. Ch18 WZ-120 
+
+Essentially the WZ120 is identical to the early production Soviet T-54As, however there are some key differences. Ch18 WZ-120  The WZ120 was not originally fitted with the infrared searchlight or main gun stabilization of the T-54. Ch18 WZ-120 
+
+The WZ120 has a conventional post-war layout with the fighting compartment at the front, an engine compartment at the rear, and a cast dome-shaped gun turret in the centre of the hull. Ch18 WZ-120  The hull is welded steel varying in thickness between 99 millimeters on the front lower glacis to 20 millimeters on the hull floor. Ch18 WZ-120  The turret is between 100 and 39 millimeters thick. Ch18 WZ-120 
+
+The driver sits in the front left of the hull, and is provided with hatch immediately above his seat, which opens to the left. Ch18 WZ-120  the driver has two pop-up vision blocks which give coverage ahead and slightly to the right when buttoned up. Ch18 WZ-120  The commander sits in the turret along with the gunner and loader. Ch18 WZ-120  The commander's hatch is on the turret left, with the gunner sitting forward and below him. Ch18 WZ-120  The loader sits on the right of the turret and has a hatch above him. Ch18 WZ-120  The turret has a non-rotating floor, which complicated the crew's operations. Ch18 WZ-120 [citation needed]
+
+WZ120 was modified several times during its service with the replacement of the 100 mm Type 59 rifled gun with a 105 mm rifled gun. Ch18 WZ-120  It was also the basis of several later Chinese tank designs including the Type 69 and Type 79 tanks. Ch18 WZ-120 
+
+|HistoricalGallery=
+Type 59 (3). Ch18 WZ-120 jpg
+WZ-120. Ch18 WZ-120 jpg
+WZ-120 (2). Ch18 WZ-120 jpg
+
+|HistAcc=
+The 105 mm Type 81 rifled gun (copy of the Royal Ordnance L7), is missing. Ch18 WZ-120  This variant was known as the Type 59-II. Ch18 WZ-120 
+* Uses the same gun as the premium [[Type 59]]. Ch18 WZ-120  However, the penetration values of the armor-piercing shell are inconsistent. Ch18 WZ-120 
+* Actual engine power is 520 hp. Ch18 WZ-120  The other engine configurations are fake. Ch18 WZ-120 
+* The 122 mm gun was only fitted to a Type 59 with the Type 96G turret, a third generation MBT. Ch18 WZ-120  Its configuration on the original egg-shaped turret is fake. Ch18 WZ-120 
+* Same tank as the Type 59, yet their ammo capacity is inconsistent, even with the 100 mm gun. Ch18 WZ-120 
+
+|External_Reviews= 
+* Gameplay
+{{#ev:youtube|qXgQyBJ7dbo}}
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=15. Ch18 WZ-120 7
+|Sidebar_Camomove=11. Ch18 WZ-120 7
+|Sidebar_Camofire=2. Ch18 WZ-120 9
+|Sidebar_Passhard=0. Ch18 WZ-120 767
+|Sidebar_Passmed=0. Ch18 WZ-120 863
+|Sidebar_Passsoft=1. Ch18 WZ-120 726
+|Sidebar_DispTurret=0. Ch18 WZ-120 153
+|Sidebar_DispRecoil=3. Ch18 WZ-120 836
+|Sidebar_DispAccel=0. Ch18 WZ-120 153
+|Sidebar_DispTurning=0. Ch18 WZ-120 153
+}}

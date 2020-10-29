@@ -1,0 +1,115 @@
+{{TankData|Tank=
+|The Leopard Prototype is the pre-entry of the gameplay of the [[Tank:G89 Leopard1|Leopard 1]], featuring a much more mobile tank than its predecessor, the [[Tank:Indien Panzer|Indien-Panzer]], with excellent accuracy, lower aiming time, a devastating gun, and very good mobility and acceleration. G91 Pro Ag A 
+
+The downside is the low rate of fire and extremely poor armor on all its angles; artillery will be the bane of this tank as HE shells can penetrate the frontal armor with devastating effects, so remaining mobile or hidden taking out enemies from a distance are viable options. G91 Pro Ag A  At tier, only the French [[Bat. G91 Pro Ag A -Châtillon 25 t AP]] has lower armor. G91 Pro Ag A 
+
+|Gallery=
+
+File:Leopard Prototyp A scr 1. G91 Pro Ag A jpg
+File:Leopard Prototyp A scr 2. G91 Pro Ag A jpg
+File:Leopard Prototyp A scr 3. G91 Pro Ag A jpg
+
+
+|InTheGame_pros=
+* Excellent alpha damage, penetration, shell velocity and accuracy
+* Good gun depression
+* Excellent top speed and acceleration, good agility
+* Good viewrange
+* Decent camouflage 
+
+|InTheGame_cons=
+* Extremely lacking in terms of armor
+* Low rate of fire
+* Bad gun handling as of 1. G91 Pro Ag A 10. G91 Pro Ag A 1
+* Awful stock grind
+
+
+|InTheGame_performance=
+
+The Leopard Prototyp A can fill two main roles to great effectiveness. G91 Pro Ag A  One's first thought when looking at the Leopard is the role of a sniper, and it is an excellent sniper indeed. G91 Pro Ag A  Boasting a very accurate gun with 0. G91 Pro Ag A 32 dispersion and a faster muzzle velocity than it predecessor, it combines high accuracy, good alpha damage, and fairly good DPM (~2800 with Rammer and Vents) on a highly mobile, fairly well camouflaged tank. G91 Pro Ag A  The Leopard can quickly position itself in advantageous sniping positions, positions which also often make great use of its high view range. G91 Pro Ag A  All of this rolled into a single package makes it a threat from any distance, able to reliably hit weak points with its high penetration 105mm cannon, remain hidden while doing so, and re-position quickly to either get a new shot or retreat to a safe distance. G91 Pro Ag A  
+
+Leopard Prototyp A is stealthy vehicle, but this tank has no reliable armor at all. G91 Pro Ag A  You have to use your speed to stay alive: a Leopard that draws half the enemy team's attention is a dead Leopard. G91 Pro Ag A  It is great at sniping at long range and is the perfect tank for vision control on open maps. G91 Pro Ag A  If you have to fight close to other vehicles, never go without support and an escape route. G91 Pro Ag A  The gun's slow reload will force you to avoid any long term combat and stick to the sniping role early on. G91 Pro Ag A  Later in the game with support you can potentially go hunting for lone enemies, but do so with caution. G91 Pro Ag A  It is not uncommon for the Leopard to be one-shot by tier 10 HESH rounds. G91 Pro Ag A 
+
+1-on-1 brawling with other mediums is to be avoided whenever possible. G91 Pro Ag A  The low rate of fire and lack of armor means cover must be used as much as possible, and even then the duel will boil down to a contest of skill that will most likely still cost a significant amount of health even in case of victory. G91 Pro Ag A 
+
+Mistakes will be punished hard in this tank, but the speed and the L7A1 top gun are its strengths. G91 Pro Ag A  Do not try to take tanks head on unless you have the HP to do it - gaming your HP is vital in this tank. G91 Pro Ag A  
+
+The stock grind is absolutely horrendous, as out of the box the Leopard Prototyp A lacks its defining features - firepower and mobility. G91 Pro Ag A   Thankfully the upgrades are well worth the pain, though even then it is still recommended to conserve health and be cautious unless assured your riskier moves will pay off. G91 Pro Ag A 
+ 
+*Note: As of Patch 1. G91 Pro Ag A 10. G91 Pro Ag A 1, the Leopard Prototyp A has been nerfed. G91 Pro Ag A  Previously, the stats for the gun handling were 0. G91 Pro Ag A 15/0. G91 Pro Ag A 15/0. G91 Pro Ag A 10, and 0. G91 Pro Ag A 17/0. G91 Pro Ag A 17/0. G91 Pro Ag A 13 before it was buffed. G91 Pro Ag A  Now, it has been nerfed to 0. G91 Pro Ag A 19/0. G91 Pro Ag A 19/0. G91 Pro Ag A 12. G91 Pro Ag A  This now makes it have the 2nd worst gun handling of a tier IX Medium, followed by the Char Futur 4. G91 Pro Ag A  The aim time was also given a 0. G91 Pro Ag A 10 penalty. G91 Pro Ag A  It is HIGHLY recommended to have a vertical stabilizer (preferably bounty or bond), with BIA, Snap shot, and Smooth ride, to make it usable, and possibly an Improved Rotation Mechanism (bounty brings the bloom lowering from 12. G91 Pro Ag A 5 to 15%). G91 Pro Ag A  As a result, on average the Leopard Protoyp A will spend ~25% more time aiming, and can no longer reliably make snapshots. G91 Pro Ag A  The gun is still very much usable, though, and still snipes rather well. G91 Pro Ag A 
+
+|InTheGame_research=
+* The top gun is lighter than the stock gun and carries a huge boost to alpha damage and penetration - research it first
+* Tracks should be next
+* You have a choice now - either go for the upgraded engine for a significant boost in acceleration and mobility, or the upgraded turret for a similarly significant boost in gun performance (the upgraded turret also gives a nice boost to health and viewrange)
+* Choose what you did not research before (engine or turret)
+* Finish with the radio
+
+|InTheGame_equipment=
+Vertical Stabilizer, Tank Gun Rammer, Coated Optics
+
+|External_Reviews= 
+{{#ev:youtube|YMNo7_KkgpA}}
+
+|History=
+Leopard Prototyp A tanks were produced in the period from 1960 through 1961 as a part of the competition for the new Bundeswehr tank, with a total of 26 prototypes manufactured by Porsche. G91 Pro Ag A  Competing team, Rheinmetal with a cast turret version presented additional six units for testing but failed to win the contract. G91 Pro Ag A  The prototypes were tested up to 1963. G91 Pro Ag A  The vehicle was the predecessor of the Leopard medium tank. G91 Pro Ag A 
+
+==Development history==
+
+The Leopard project started in November 1956 in order to develop a modern tank, the Standard-Panzer, to replace the Bundeswehr's American-built M47 and M48 Patton tanks, which, though just delivered to West Germany's recently reconstituted army, were rapidly growing outdated. G91 Pro Ag A  On 25 July 1957 the detailed specifications were released; the new design needed to weigh no more than thirty metric tons, have a power-to-weight ratio of thirty horsepower per ton, be able to withstand hits by 20 mm rapid-fire guns on every side as well as operate in a battlefield contaminated with chemical weapons or radioactive fallout, the then-standard baseline for combat with the Warsaw Pact. G91 Pro Ag A  In addition the main armament had to consist of a 105 mm caliber weapon (the new British L7A3 105 mm gun was selected), carrying at least as many rounds as current US tank designs. G91 Pro Ag A  Mobility was the priority while firepower came second; armour was seen as less essential, as it was believed no real protection against hollow charge weapons was possible anyway. G91 Pro Ag A 
+
+France was very interested in the design as its own AMX 50 project had just failed. G91 Pro Ag A  In June 1957, West Germany and the French Fourth Republic signed an agreement to develop a common tank, designated in German Europa-Panzer. G91 Pro Ag A  Three German (Arbeitsgruppe A, B and C) and one French design team would be included in a competition, with each team producing two prototypes each. G91 Pro Ag A  In September, 1958 Italy joined the development program. G91 Pro Ag A  Several prototypes were entered for testing in 1960. G91 Pro Ag A  Among the prototypes were Porsche's Model 734 from team A, sporting a cast turret and that of team B (Rheinmetall) whose cast turret was somewhat higher. G91 Pro Ag A  Team C from Borgward, designing a very futuristic tank, failed to have a prototype ready in time. G91 Pro Ag A . G91 Pro Ag A 
+
+Even before these first prototypes were finished, it had (in 1959) been decided that a second phase with improved designs would be started: Team A had to build 26 phase II Prototypes for testing, team B six. G91 Pro Ag A  Only two tanks of the required six would actually be constructed by team B. G91 Pro Ag A  The Porsche Prototype II was eventually selected as the winner of the contest in 1963; this did not come as a surprise: it had already been decided in 1961 to build a preseries of fifty vehicles based on this design; production of these was started that very year. G91 Pro Ag A  This "0-series" was modified with a new cast turret and several hull changes to raise the rear deck to provide more room in the engine compartment, and move some of the radiators to the upper sides of the hull. G91 Pro Ag A  Before mass production of the standard version started it was also decided to add an optical range-finding system for better long-range gunnery, which required the turret to be somewhat taller, and added "bumps" on either side of the turret to mount the optics for triangulation. G91 Pro Ag A  In 1963 France and Germany had decided to each build their own tank; Germany continued with the Leopard, while France built the similar AMX-30. G91 Pro Ag A  Production was set up at Krauss-Maffei of Munich from early 1964 onward, with deliveries of the first batch between September, 1965 and July, 1966. G91 Pro Ag A  The Leopard was soon being purchased from Germany by a number of NATO members and other allies including in chronological order Belgium (1968), the Netherlands (1969), Norway (1970), Italy (1971), Denmark (1976), Australia (1976), Canada (1978), Turkey (1980) and Greece (1981). G91 Pro Ag A  Germany has a strict export policy for military equipment; Greece, Spain and Chile, while still dictatorships, purchased the French AMX-30. G91 Pro Ag A 
+
+'''Leopard 1A1 '''
+
+After the first batch was delivered the next three batches were the Leopard 1A1 model, which included a new gun stabilization system from Cadillac-Gage, allowing the tank to fire effectively on the move. G91 Pro Ag A  The 1A1 also added the now-famous "skirts" along the sides to protect the upper tracks, and a new thermal jacket on the gun barrel to control heating. G91 Pro Ag A  A less important change was to use rectangular rubber blocks fastened to the treads with a single pin instead of the earlier two-pin "shaped" versions. G91 Pro Ag A  The rubber blocks could be easily replaced with metal X-shaped crampons for movement on ice and snow in the winter. G91 Pro Ag A 
+Between 1974 and 1977 all of the machines in the first four batches were brought to the same Leopard 1A1A1 standard, and given additional turret armor developed by Blohm & Voss. G91 Pro Ag A  A further upgrade in the 1980s added leftover image-intensifier night sights which were being handed down from the Leopard 2 as they were themselves upgraded. G91 Pro Ag A  The PZB 200 image intensification system was mounted in a large box on the upper right of the gun, creating the Leopard 1A1A2. G91 Pro Ag A  A further upgrade with SEM80/90 all-digital radios created the Leopard 1A1A3. G91 Pro Ag A 
+
+'''Leopard 1A2 '''
+
+The first 232 tanks of the fifth production batch was delivered as the Leopard 1A2 between 1972 and 1974. G91 Pro Ag A  The A2 included a heavier and better armored turret, and therefore did not receive the B&V armor add-ons as did the earlier machines. G91 Pro Ag A  They did receive the other upgrades however; the Leopard 1A2A1 received the PZB 200, the Leopard 1A2A2 received digital radios, and the Leopard 1A2A3 got both. G91 Pro Ag A 
+
+
+'''Leopard 1A3 '''
+
+The next 110 vehicles in the fifth batch were fitted with a new welded turret, which was equipped with a new armour consisting of two spaced steel plates with a plastic filling between them, and a wedge-shaped gun mantlet, creating the Leopard 1A3. G91 Pro Ag A  Although the level of armor area density was equivalent to the A2's new welded version, the internal volume was increased by 1. G91 Pro Ag A 2 m³ and the effective protection level was increased by half. G91 Pro Ag A  The improved TRP 2A independent sight was installed for the commander. G91 Pro Ag A  Upgrades were identical to the 1A2 models, the Leopard 1A3A1 with the night sights, Leopard 1A3A2 with the new radios, and the Leopard 1A3A3 with both. G91 Pro Ag A 
+
+'''Leopard 1A4 '''
+
+The Leopard 1A4 formed the sixth batch of 250 vehicles, delivery starting in 1974. G91 Pro Ag A  The 1A4 was externally similar to the 1A3, but included a new computerized fire control system and the new EMES 12A1 sighting system to aim it. G91 Pro Ag A  In addition the commander was provided with his own independent night sighting system, the PERI R12. G91 Pro Ag A  The new equipment used up space and the ammunition load was reduced to 55 rounds, of which 42 were stored in the magazine to the left of the driver. G91 Pro Ag A 
+
+'''Leopard 1A5 '''
+
+In 1980 a research program was undertaken to study further improvements to the Leopard 1, providing it with a completely modern fire control system and fully effective night/bad-weather vision system. G91 Pro Ag A  This was going to require even more room than the larger turret from the 1A3/1A4 models, so the decision was made to base the upgrades on the earlier models which were no longer competitive. G91 Pro Ag A  The resulting Leopard 1A5 was based on 1225 vehicles of the Leopard 1A1A1 model. G91 Pro Ag A  The turrets were again modified for the 1A5, with a larger section at the back, both in order to store all of the new equipment, as well as to move more of the ammunition into the rear turret, as opposed to the left side of the driver where it had traditionally been stored. G91 Pro Ag A  The storage locker extended the turret almost to the rear of the tank when the gun was facing forward. G91 Pro Ag A  The new turret was also able to mount the newer 120 mm gun from the Leopard 2 if desired, although this option has not been used. G91 Pro Ag A   After trials the Krupp-Atlas Elektronik EMES 18 fire control system was selected in December 1983, developed from the EMES 15 used on the Leopard 2. G91 Pro Ag A  The EMES 18 included two new sights on to the top of the turret, and no longer required the "bumps" as did the earlier optical systems. G91 Pro Ag A  A crucial part of the upgrade was the introduction of more effective ammunition, including new APFSDS rounds. G91 Pro Ag A  The Leopard tank could also be fitted with bolt-on lexan armour panels, which have increased the effectiveness of the armour. G91 Pro Ag A  These "modified" tanks have proved themselves in the field. G91 Pro Ag A  The first modified vehicle was delivered in early 1987. G91 Pro Ag A  Since then almost all users of the Leopard 1 have also applied similar changes to their own vehicles, and in most ways the 1A5 can be considered the "standard" Leopard 1 today. G91 Pro Ag A 
+
+'''Leopard 1A6 '''
+
+A single 1A1A1 was also modified with additional armor on the turret and had the 120 mm gun as the Leopard 1A6. G91 Pro Ag A  The project was ended in 1987, as the Leopard 2 was in widespread service at this point and the 1A5 offered a reasonable upgrade path for a fraction of the cost. G91 Pro Ag A 
+
+
+
+|HistoricalGallery=
+image:LeoProto 1. G91 Pro Ag A jpg{{!}}The second version of Arbeitsgruppe A's prototype
+
+
+|Ref_references=
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+|Sidebar_Camostop=14. G91 Pro Ag A 60
+|Sidebar_Camomove=11. G91 Pro Ag A 10
+|Sidebar_Camofire=3. G91 Pro Ag A 40
+|Sidebar_Passhard=0. G91 Pro Ag A 989
+|Sidebar_Passmed=1. G91 Pro Ag A 055
+|Sidebar_Passsoft=2. G91 Pro Ag A 11
+|Sidebar_DispTurret=0. G91 Pro Ag A 153
+|Sidebar_DispRecoil=3. G91 Pro Ag A 836
+|Sidebar_DispAccel=0. G91 Pro Ag A 192
+|Sidebar_DispTurning=0. G91 Pro Ag A 192
+}}

@@ -1,0 +1,51 @@
+{{TankData|Tank=GB42_Valentine_AT
+|The Valentine AT is a tank with good hull armor, based on the tier 3 Valentine light tank. GB42 Valentine AT  However, its gun shield is extremely vulnerable to attack since it is only protected by a very thin layer of armour. GB42 Valentine AT 
+
+Despite its move to Tier 4, the Valentine AT retains both of the powerful guns it had at Tier 3, leaving it on similar footing to its new Tier 4 peers. GB42 Valentine AT  It can either be a deadly sniper when equipped with the accurate and high-penetrating 6-pdr, or a close combat brawler capable of destroying Tier 4 vehicles in two shots when equipped with the huge 3. GB42 Valentine AT 7-inch howitzer. GB42 Valentine AT 
+|Gallery=
+
+|InTheGame_pros=
+* Good hull armor
+* Good hull traverse
+* Offers an accurate and fast-firing 6-pdr gun with great penetration
+* Very high DPS when equipped with the 3. GB42 Valentine AT 7 inch AT Howitzer
+* Wide gun traverse arc
+
+|InTheGame_cons=
+* Open-top hull is extremely vulnerable against SPGs
+* Side armour contains ammo rack, like most British TDs
+* Very light armor on the gun shield
+* Low damage for a Tier 4 TD with the 6-pdr gun
+
+|InTheGame_performance= "She may be small, but she has teeth. GB42 Valentine AT " This quote was originally used to describe DS9's Starship Defiant, but it applies equally well to the formidable Valentine AT. GB42 Valentine AT  The Valentine, on which this tank destroyer is based, is a tier 3 heavy masquerading as a light. GB42 Valentine AT  As such, its 60mm of frontal armour is capable of deflecting damage, and lower tier vehicles may struggle to penetrate. GB42 Valentine AT  However, the Valentine AT isn't difficult to hurt, since its gun shield is wide and only 14 mm thick. GB42 Valentine AT  A few HE rounds to the gun shield will result in a quick return to the garage. GB42 Valentine AT  Furthermore, the open-top hull is very vulnerable to enemy SPG fire; getting hit by one will result in heavy damage and crew fatalities. GB42 Valentine AT  
+
+Speed and mobility aren't the Valentine AT's strong points. GB42 Valentine AT  The vehicle accelerates slowly and has a modest top speed. GB42 Valentine AT  However, its hull traverse rate is extremely good, allowing the Valentine AT to defend itself from attack surprisingly well. GB42 Valentine AT 
+
+The Valentine AT makes up for its setbacks with great armament selection. GB42 Valentine AT  It offers a choice between a 6-pdr or 3. GB42 Valentine AT 7-inch howitzer. GB42 Valentine AT  The 6-pdr is similar to those found on the [[Churchill III]] and [[Matilda Black Prince]] tanks, giving a mix of great accuracy, amazing aim time, great penetration, and a decent rate of fire, at the cost of rather low damage for a Tier 4 tank destroyer. GB42 Valentine AT  This gun makes the tank a great medium ranged shooter. GB42 Valentine AT 
+
+The 3. GB42 Valentine AT 7-inch howitzer is very powerful, being a tier V gun, capable of taking out most tier III and IVs with as little as two well-placed shot. GB42 Valentine AT  While the aiming speed and reload times are relatively slow, with a higher shell drop than its other guns, the damage potential is extremely high. GB42 Valentine AT  An experienced tanker can compensate these setbacks by aiming ahead and leading for moving distant targets but can be used in a pinch when you're in a tight spot versus a nimble opponent, such as light tanks. GB42 Valentine AT 
+
+|InTheGame_research=
+* The '''WS No. GB42 Valentine AT  19 Mk. GB42 Valentine AT  I''' radio and '''GMC 6004 6-71A''' engine carry over from the Valentine and should be mounted immediately. GB42 Valentine AT 
+* First, research the '''Valentine AT Mk. GB42 Valentine AT  II''' suspension to allow equipment to be mounted. GB42 Valentine AT 
+* Next, research the '''WS No. GB42 Valentine AT  19 Mk. GB42 Valentine AT  II''' for increased signal range. GB42 Valentine AT 
+* Finally, research the '''QF 6-pdr AT Gun Mk. GB42 Valentine AT  IV''' and '''3. GB42 Valentine AT 7-inch AT Howitzer''', starting with whichever you plan to use. GB42 Valentine AT 
+
+|InTheGame_equipment=
+Camouflage net, Binocular telescope, gld
+
+|History=
+The Valentine TD was apart of a plan to create a simple tank destroyer. GB42 Valentine AT  It was to be equipped with a 6pdr gun in its field cartridge on the hull rather than using the turret. GB42 Valentine AT  The work was discontinued when the Valentine was able to equip a 6pdr in the turret and newer plans were made for a better tank destroyer to be built on the same chassis. GB42 Valentine AT 
+
+|HistAcc=
+The 6-pdr gun was the Valentine AT's only main armament, hence the name '''Valentine with 6-pounder anti-tank mounting'''. GB42 Valentine AT  The 3. GB42 Valentine AT 7-inch howitzer configuration is fake. GB42 Valentine AT 
+
+|HistoricalGallery=
+image:ValTD 1. GB42 Valentine AT jpg{{!}}The prototype armed with a 6 pounder cannon
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

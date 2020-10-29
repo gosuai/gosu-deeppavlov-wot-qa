@@ -1,0 +1,68 @@
+{{TankData|Tank=GB26_Birch_Gun
+|For all intents and purposes, the Birch Gun functions identically to the [[Tank:SU-26|SU-26]]. GB26 Birch Gun  Equipping a Camo Net would be very useful, since it will not have to turn its chassis when acquiring new targets (unless you want to snap to a target quickly, as the gun traverse is slow). GB26 Birch Gun  Having a low profile not only helps in camouflaging, it also comes in handy when going into TD mode to fight off tanks that come too close. GB26 Birch Gun 
+
+While the 25-pounder gun is marginally more powerful than the stock 18-pounder, its still anemic damage and low splash means that, for the most part, you will be doing double digit damage to anything with a reasonable amount of armour. GB26 Birch Gun  However, it makes up for it with a good rate of fire like its predecessor the [[Tank:GB27 Sexton|Sexton II]], along with decent accuracy and a high gun arc to fire over obstacles. GB26 Birch Gun  
+
+|Gallery=
+
+|InTheGame_pros= 
+* Gun range: stock: 850 m, top: 1050 m 
+* Can rotate its gun 360 degrees, like the SU-26
+* High gun arc, comparable to Soviet artillery
+* Massive ammo capacity with decent reload rate, can keep spamming shells as long as there is something spotted
+* Low profile (although the gun shield may stick out of the smaller bushes)
+
+|InTheGame_cons=
+* Poor accuracy
+* Low alpha damage and splashing radius
+* Open top, vulnerable to crew and module damage
+* Low mobility and agility, gun traverse is also slow
+* Paper armor, will get destroyed by tier II's
+
+|InTheGame_performance=
+Compared to the large caliber guns of most other SPGs, the Birch Gun takes on a more autocannonesque approach to indirect fire support by utilizing a fast-firing gun with mediocre damage and anemic penetration. GB26 Birch Gun  Apart from lucky shots hitting vulnerable parts on poorly armored targets, the one-shot-one-kill-scenario remains a dream at best; what you get is an endless stream of double-digit hits. GB26 Birch Gun  Concentrating on lighter targets and the side armour of heavier ones yields the best damage. GB26 Birch Gun  However, while some might look down on the Birch Gun because of this, the damage tends to stack up, even against heavier opponents. GB26 Birch Gun 
+
+While most SPGs require careful aiming to ensure damage, the fast rate of fire, surprisingly accurate gun, low ammo cost and practically endless ammo supply means that the Birch Gun employs a more leisurely mindset. GB26 Birch Gun  Snap shots become a somewhat practical option: Acquire a new target, shoot without aiming as soon as the gun has turned and wait for the aiming circle to close while a new shell is loaded. GB26 Birch Gun  The unaimed shell hits surprisingly often, while the second, aimed shot can be delivered with precision. GB26 Birch Gun  The drawbacks to this sort of approach are potentially giving your position away to counter-arty and alerting an unsuspecting target about being under fire if the first shot doesn't hit. GB26 Birch Gun  Even shots against fast-moving targets are viable, because a miss is not an issue and a lucky hit can result in some damage or in best cases a dead or detracked enemy. GB26 Birch Gun 
+
+Even though the gun depression and fully rotating turret mean that the Birch Gun is much more adept at direct-fire self-defence than most SPGs, the poor penetration means that hitting a light tank doesn't ensure its demise, so relying on 'TD mode' for survivability will often result in a slightly damaged scout and a burning wreck of a Birch Gun. GB26 Birch Gun 
+
+Due to the poor engine power and traverse speed, repositioning is a somewhat arduous process and fleeing impractical, so picking a safe spot and sitting in it for the rest of the battle while raining shells in every direction is the most practical approach mobility-wise. GB26 Birch Gun 
+
+The Birch Gun has earned an unimaginative but fitting nickname both from owners that dislike the slightly unconventional characteristics and from enemies annoyed by a constant hail of low-damage HE shells picking away at their health. GB26 Birch Gun 
+
+|InTheGame_research=
+* If you haven't already on the [[Sexton II]], get the 25-pounder gun, you'll need it to progress to the next tier anyway, and the suspension can take it. GB26 Birch Gun 
+* Upgrading the radio is useful. GB26 Birch Gun  The suspension  needs to be upgraded before fitting more modules/equipment. GB26 Birch Gun  Engine is purely optional; there is barely any visible difference in performance. GB26 Birch Gun 
+* Go from there. GB26 Birch Gun 
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,GLD
+
+|History=
+[[image:Photo_of_the_British_medium_tank_Mk. GB26 Birch Gun II_with_18pdr_AA_gunm_1925. GB26 Birch Gun jpg|thumb|200px|left|Photo of the British medium tank Mk. GB26 Birch Gun II with 18pdr AA gunm 1925]]
+The Birch Gun was the world's first practical self-propelled artillery gun, built at the Royal Arsenal, Woolwich in 1925. GB26 Birch Gun  The gun was never highly regarded by the British High Command, purely for prejudicial beliefs and political pressure rather than any real lack of ability. GB26 Birch Gun [1] Named after General Sir Noel Birch, who was Master General of Ordnance at the time, the Birch gun had real potential. GB26 Birch Gun  It was built upon a Vickers Medium Mark II tank chassis and mated originally with the QF 18 pdr (83. GB26 Birch Gun 8 mm) gun then with a 75 mm field gun. GB26 Birch Gun  The project was abandoned in 1928 after political pressure killed off any plans to complete the third version of this weapon. GB26 Birch Gun 
+
+==Development history==
+
+The initial prototype, the Mark I, made its first appearance in January 1925 and spent the next year undergoing trials and taking part in manoeuvres, mainly with 28 Battery, 9th Field Brigade, Royal Artillery. GB26 Birch Gun  The lone Mark I was transferred to 20 Battery, 9th Field Brigade RA, who then took delivery of three Mark II Birch Guns in July 1926, followed by a fourth gun in September. GB26 Birch Gun  This brought the battery strength to five guns, which participated in various field exercises as part of the Experimental Mechanised Force and it successor, the Experimental Armoured Force which was dispersed in February 1929. GB26 Birch Gun  All five guns were finally withdrawn in June/July 1931, effectively ending the British Army's experiments with tracked self-propelled guns until the advent of various hurriedly improvised vehicles during the Second World War, such as the Bishop, and the Deacon. GB26 Birch Gun  Two Mark III Birch Guns were produced, but never issued to serving units. GB26 Birch Gun  These had the guns mounted in revolving barbette-style turrets that increased crew protection but reduced the guns' elevation, so capping their effective range. GB26 Birch Gun  The armament for the original Birch Gun consisted of an Ordnance QF 18 pounder field gun (3. GB26 Birch Gun 3 inch, 84 mm). GB26 Birch Gun  This was changed to the 75 mm gun on the Birch gun Mk II and from then on was able to be fired either at ground targets or in the air-defence role, being given a much higher rate of elevation to be fired at enemy aircraft. GB26 Birch Gun  The Armstrong Siddeley engine was modestly powerful. GB26 Birch Gun  Being only 8 cylinders it could manage 90 hp for a mild 45 km/h top-speed. GB26 Birch Gun  However, for its time (late 1920s) it was quite fast. GB26 Birch Gun 
+The Birch gun was tested as part of the Experimental Mechanised Force in the 1920s. GB26 Birch Gun  The Force undertook various experiments in mechanized warfare combining tanks and infantry with their own transport. GB26 Birch Gun  The project was finally abandoned in 1928 after major political pressure cancelled all plans to complete the third version of this weapon. GB26 Birch Gun 
+
+
+|HistoricalGallery=
+image:Photo_of_the_British_medium_tank_Mk. GB26 Birch Gun II_with_18pdr_AA_gunm_1925. GB26 Birch Gun jpg{{!}} Photo of the British medium tank Mk. GB26 Birch Gun II with 18pdr AA gunm 1925
+image:Birch_gun_mk1f_variant. GB26 Birch Gun jpg{{!}}Birch gun mk1f variant
+image:Birch_gun_mk1e_with_fully_enclosed_turret. GB26 Birch Gun jpg{{!}}Birch gun mk1e with fully enclosed turret
+image:Birch_gun_mk1c_during_testing. GB26 Birch Gun jpg{{!}}Birch gun mk1c during testing
+image:Birch_gun_mk1_variant. GB26 Birch Gun jpg{{!}}Birch gun mk1 variant
+
+|HistAcc=
+Development of the 25-pdr gun began in 1935, seven years after the Birch Gun project was abandoned. GB26 Birch Gun 
+*One of its historical armaments, a 75 mm field gun, is missing. GB26 Birch Gun 
+*The Birch Gun actually predates its tier 3 predecessor, the Sexton II, by 20 years. GB26 Birch Gun 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

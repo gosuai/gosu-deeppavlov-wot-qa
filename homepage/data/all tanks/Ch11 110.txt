@@ -1,0 +1,87 @@
+{{TankData|Tank=Ch11_110
+|This is the First true Chinese Heavy tank in the Chinese line. Ch11 110  Unfortunately, it has the downside of being one of the worst Tanks in Tier 8. Ch11 110  With unreliable armor, a horrible grind, an awful gun, and fairly sluggish speed, this is one of the tanks that is a grinding nightmare. Ch11 110  
+
+|InTheGame_pros= 
+- Has pike-nose style upper glacis and somewhat rounded face on top turret, can be effective against novice opponents. Ch11 110 
+
+- '''Slightly''' above average rate of fire and DPM. Ch11 110 
+
+- Top gun offers premium APCR with 265mm of penetration to "compensate" for average 215 AP pen. Ch11 110 
+
+|InTheGame_cons= 
+- 100mm gun has bad handling, long aim time and below average accuracy for its mediocre alpha and penetration. Ch11 110  
+
+- 122mm is vastly inferior to its premium brethren, the WZ-111 and the 112, while both being limited-MM vehicles. Ch11 110 
+
+- Compact hull design, frontal penetrations will often cause module damage, especially on ammo rack, fuel tanks and the driver. Ch11 110  
+
+- Pathetic armor layout for its unnoticeable mobility, can only angle within autobounce range due to weak sides and shoulders
+
+- Brutal stock grind with combo of low penetration, bad handling & accuracy and practically the same weak IS-2 turret, also requires suspension for equipment or upgrade mounting
+
+- Low power to weight ratio means it rarely reaches its top speed. Ch11 110 
+
+|InTheGame_performance=
+=====Armor:=====
+The 110 is a pure bred flat ground corridor tank designed to fight hiding its lower plate at mid-range or bullying lower tiered tanks whenever possible. Ch11 110  The 110 cannot brawl at close range because of numerous weak points like the 60mm of side armor, 100mm pike cheeks, tall commander hatch, exposed rear drive wheel, and large lower plate. Ch11 110  These weak points and the risk of being swarmed force the 110 to fight at mid-range where hitting weak points on the tank becomes more of a challenge especially with a little wiggling/rocking the tank. Ch11 110  The nature of the pike nose armor relying more on sloping than armor thickness also prevents side scraping as you expose your pike cheeks that shield your fragile ammo racks. Ch11 110  The reliance of sloping also makes the pike stick out far ahead of the 110 so keep in mind not to make shallow turns around corners or the enemy will see you first every time. Ch11 110  Some may suggest reverse side scraping as a solution but it is time consuming and not possible because the rear of the tank is fairly wide and not protected by spaced armor. Ch11 110  The solution to corners is to approach from a wide angle and expose the far side of your pike nose rather than your sides while hiding your lower plate behind some terrain. Ch11 110  However, the perfect scenario is one where you do not expose your hull armor at all especially when facing tier X guns that will make a complete mockery of your armor. Ch11 110  Another tactic is panicking your opponent by face hugging them but relying on your opponent being a novice at high tiers is not likely. Ch11 110  Face hugging with your pike is also not a perfect tactic as it significantly decreases the angling on your pike nose and makes hitting your commander's hatch extremely easy. Ch11 110  
+
+As a final rule of thumb on the 110's armor: the 110 is nearly impenetrable to any tank limited to 170mm of penetration without angling. Ch11 110  This puts it in an excellent position to bully lower tier tanks that were too cheap to load premium ammunition. Ch11 110  If you can fight a tank that cannot penetrate your armor, fight a tank that can't penetrate your armor. Ch11 110  
+
+
+=====Gun:=====
+The 110's gun is better than the IS-3's gun on paper but hidden soft stats reveal that the 110 has some of the worst gun handling for a heavy tank that does 320 alpha. Ch11 110  It is still a respectable amount of damage but it is very limited to mid to close range combat because the medium tank penetration on the 110 will hemorrhage credits at long range. Ch11 110  The 110 can still play an ace up its sleeve and that is its raw rate of fire. Ch11 110  It's not quite high enough to fire twice for every shot in return but more often than not you will beat the reload of many other tanks that have +300 alpha. Ch11 110  Keep in mind, even though your DPM is slightly above average, most tanks that do 240-250 alpha will be able to match or significantly exceed your DPM and rate of fire. Ch11 110  Especially higher tiered tanks. Ch11 110  A lot of tanks lower tier like a Cromwell at tier 6 will have upwards of 200-300 more DPM than you and a Cromwell will not have much trouble going through the sides and rear of your armor with normal AP especially if the Cromwell chooses to rush and circle you. Ch11 110  Otherwise, a lot of lower tier tanks can press their 2 key and with better dpm, butter through your weak points. Ch11 110 
+
+
+=====Mobility:=====
+Flanking maneuvers and using the 110's mobility are limited as the tank's low power to weight ratio is around 11, similar to a Tiger II or Lowe. Ch11 110  To make matters worse, the 110's sides have been thinned from the IS-2's 90mm to 60mm for game balancing reasons. Ch11 110  This is also roughly the location where the tank's fuel tanks are stored so shots into the front drive wheel will often set the tank on fire. Ch11 110  The 110 cannot flank its opponents without suffering crippling module damage from shots to its sides and carrying a fire extinguisher is a must. Ch11 110  If you are very intent on running food in your 110, train jack of all trades on your commander so you can forgo a med kit instead of your fire extinguisher. Ch11 110 
+
+The 110 does have a average view range of 380. Ch11 110  Many tier 8 heavies, mediums, and tank destroyers will still out spot the 110 through better view range and/or camouflage. Ch11 110  If you can get hull down and gauge the general direction of your enemies while baiting them to fire at your turret, the 110 can serve as an impromptu scout, support tank, or harasser. Ch11 110  It sounds risky even on paper but it is brutal to those who are not accustomed to playing with 6 degrees of gun depression (superior to the [[IS-3]] by one degree but the IS-3 is significantly stronger hull down and the IS-3 can risk exposing more of its sides due to its spaced armor). Ch11 110 
+
+The 110 also has an awful tendency to get swarmed. Ch11 110  It's track traverse is the same as an IS-3 but due to significantly worse ground resistances the 110 does struggle to re-engage targets when it has been out flanked. Ch11 110  Certainly faster than German heavies in terms of not being flanked but the armor may as well be just as useful since the track traverse is not fast enough to keep the pike directly pointed at your enemies at all times without giving up your fuel tank sides. Ch11 110 
+
+
+|InTheGame_research=
+
+* The engine, radio, and 122mm D-25T should already be researched from the IS-2 and should be equipped
+* The suspension should be your first goal as it is required to mount the turret
+* Next research the turret, which gives the 110 significantly improved armor and more health, as well as 30 meters additional view range
+* Finally get the 100mm gun, which gives a much needed boost in accuracy, aim time, and penetration, at the cost of some alpha damage. Ch11 110  Do not keep the 122mm because the 250mm of heat penetration is useless against tracks and spaced armor. Ch11 110  Quite essentially the majority of armor on an IS-3. Ch11 110 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vertical Stabilizer, Improved Ventilation Class 3
+
+|Gallery=
+image:110-1. Ch11 110 jpg{{!}}Chinese 110 tank, map Mines
+
+|History=
+In 1944 an informal competition began to develop between the ChKZ and Factory №100 to improve the armor protection of the IS-2. Ch11 110  Two solutions were presented to solve this problem,  P. Ch11 110 P. Ch11 110  Isakov suggested that the front hull be comprised of a downward pointing wedge. Ch11 110  The sides would not be vertical like other tanks instead the sides would slope upwards. Ch11 110  The bottom of the hull would be flat and instead would be sloped upwards as well. Ch11 110  This design would've require removing the torsion bars and placing ribs along side the hull for bogies that would be used for the spring suspension. Ch11 110  This solution also did not leave adequate room for ammunition and fuel. Ch11 110  
+
+G. Ch11 110 N. Ch11 110  Moskvin suggested that part of the hull remain vertical and that floor remain flat. Ch11 110  This solution did not require abandoning torsion bar suspension. Ch11 110  The fuel would stored in between sheets of armor at the bottom of the tank. Ch11 110  However this complexes welding and is not consistent with the all wedge hull that was originally envisioned. Ch11 110  However G. Ch11 110 N. Ch11 110  Moskvin was replaced by S. Ch11 110 V. Ch11 110  Mickevich and he worked further on his solution. Ch11 110 
+
+The 110 in game model is P. Ch11 110 P. Ch11 110  Isakov's model. Ch11 110 
+
+|HistoricalGallery=
+image:110 1. Ch11 110 jpg{{!}}Plans for the 110
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+|Sidebar_GunAlt= 100mm 62-100T
+|Sidebar_Camostop=6. Ch11 110 6
+|Sidebar_Camomove=3. Ch11 110 1
+|Sidebar_Camofire=1. Ch11 110 4
+|Sidebar_Passhard=0. Ch11 110 959
+|Sidebar_Passmed=1. Ch11 110 055
+|Sidebar_Passsoft=2. Ch11 110 11
+|Sidebar_DispTurret=0. Ch11 110 096
+|Sidebar_DispRecoil=3. Ch11 110 836
+|Sidebar_DispAccel=0. Ch11 110 221
+|Sidebar_DispTurning=0. Ch11 110 221
+}}

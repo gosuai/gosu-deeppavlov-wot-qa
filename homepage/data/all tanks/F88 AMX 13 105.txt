@@ -1,0 +1,62 @@
+{{TankData|Tank= AMX_13_105
+|Essentially an AMX 13 carrying an oversized cannon. F88 AMX 13 105  With its 3-shot autoloader, it can unleash nearly 1200 damage per clip. F88 AMX 13 105  But this tank has a few downsides because of the gun itself, so play this tank carefully. F88 AMX 13 105  
+
+|Gallery= 
+
+|InTheGame_pros= 
+* 3-shot autoloader with good burst damage & reasonable clip reload
+* Good aim time for a French autoloader
+* Good gun depression
+* Very good top speed & excellent acceleration
+* Outstanding camouflage value
+
+|InTheGame_cons= 
+* No armor to speak of
+* Bad gun elevation
+* Bad accuracy & gun handling
+* Poor view range for a Tier 10 scout
+* Limited ammo capacity
+
+|InTheGame_performance= 
+Think of it as a miniaturized [[Tank:Tank:F18_Bat_Chatillon25t|B-C 25t]]) with less shells in the magazine. F88 AMX 13 105 
+
+At 68km/h, it's not the fastest thing out there. F88 AMX 13 105  Avoid active scouting early in the match, especially if there's another Tier X light, which will be better suited. F88 AMX 13 105 
+You should instead cover the path ahead for your Heavy Tanks advance while your artillery & tank destroyers pounce on enemy clusters. F88 AMX 13 105 
+
+As most French autoloading vehicles, it is capable of dealing a consistent amount of damage, but it's not really good at receiving it. F88 AMX 13 105  Furthermore, it can't mount a gun rammer, which in turn means you get a "free" slot. F88 AMX 13 105  It is recommended to maximize your view range through coated optics & binocs so you can discover enemy columns while passively spotting (something you ought to do due). F88 AMX 13 105 
+
+Enemies that venture too close will find themselves surprised with your superior burst of almost 1200HP, only to find out that along with their HP, you too have evaporated elsewhere to reload & pick off on your next prey. F88 AMX 13 105  Always hit & run!
+
+As the battle progresses &, hopefully, you still have some HP, you can feel free to target lone vehicles or hunt for the SPGs & Tank Destroyers. F88 AMX 13 105  Remember that a Light Tank's value increases as the battle goes on, even more so when it has a good gun like the AMX 13 105 does. F88 AMX 13 105  The accuracy might not be much, but if you play it right, you won't have to rely on it. F88 AMX 13 105 
+
+While fighting in this vehicle, keep in mind it's vertical guidance is somewhat restricted, being an oscillating turret. F88 AMX 13 105 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|W2aCmzgalFg}}
+
+|History= 
+AMX-13/105 Modèle 58<br />
+Fitted with a 105mm Gun in an FL-12 turret (used by the Argentine Army and the Netherlands)
+
+|HistAcc=
+The SOFAM 8 Gxb	engine is considerably more powerful than in reality, with a whopping 600 hp compared to the historical 250. F88 AMX 13 105 
+* HEAT is actually the standard ammunition of the 105 mm D. F88 AMX 13 105  1504 gun. F88 AMX 13 105  Other historical ammunition types were smoke, HE and APFSDS. F88 AMX 13 105  The APCR round is fake. F88 AMX 13 105 
+* Same engine as the [[AMX 13 105 AM mle. F88 AMX 13 105  50]], yet the horsepower & chance of fire on impact are inconsistent. F88 AMX 13 105 
+* The 105 mm D. F88 AMX 13 105  1504 is the same gun on the [[Bat. F88 AMX 13 105 -Châtillon 25 t]], yet the penetration & weight values are inconsistent. F88 AMX 13 105 
+
+|HistoricalGallery= 
+File:Amx13105_dutch. F88 AMX 13 105 jpg{{!}}AMX-13/105 at the National Military Museum, Netherlands. F88 AMX 13 105 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

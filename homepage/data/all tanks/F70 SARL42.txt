@@ -1,0 +1,89 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:SARL 42 scr 1. F70 SARL42 jpg
+File:SARL 42 scr 2. F70 SARL42 jpg
+File:SARL 42 scr 3. F70 SARL42 jpg
+File:SARL 42 scr 4. F70 SARL42 jpg
+
+
+|InTheGame_pros= 
+*Insane gun depression with first turret attached
+*Can mount a tier IX radio (710 meter range! )
+*Top 47mm has good pen and fast Rof with better DPM than the 75mm gun (Similar to the top 2pdr of the Matilda)
+*Top 75mm has good alpha and only 6mm less pen than the top 47mm gun
+*Turret mantlet can bounce shots (only at its tier though, and its still iffy)
+|InTheGame_cons= 
+* Chunkier, less armored, and somehow more sluggish than its little brother
+* Bad accuracy and very poor DPM with the 75mm gun
+* Low Alpha on the 47mm gun
+* Can not brawl like the Somua S35 thanks to worsened armor
+* 2nd turret is weaker at the sides and rear and has a massive cupola; gun depression is'nt as good either (still good at -10°)                                                                                             |InTheGame_performance= 
+While the tank itself is underwhelming with questionable armor and mobility, it does come with two choices of decent weaponry. F70 SARL42  The top 75mm has solid damage but mediocre accuracy and rate of fire. F70 SARL42  It does have decent penetration up to tier 5 but will struggle against more solid enemies. F70 SARL42  The top 47mm is unique to the SARL 42, comparable to the top 2 pounder on the Matilda at tier 4. F70 SARL42  It has less penetration and fires slower than the 2 pounder, but has better accuracy than the 75mm on the SARL 42. F70 SARL42  All in all, it's a text book medium tank: not a lot of armor with some adequate weapons. F70 SARL42 
+
+|InTheGame_research=
+* The 47 mm SA37 gun, the engines, and all of the radios carry over from the Somua S35. F70 SARL42  The SA37 has exactly the same weight as the stock gun, so mount it immediately. F70 SARL42  There's 310 kg of weight to work with. F70 SARL42 
+* Research the 47 mm SA37 amélioré gun first, as it has 106 penetration, and continues to have the same weight as previous versions. F70 SARL42 
+* Next research the upgraded suspension, and then the ARL 42 turret. F70 SARL42 
+* Elite the tank as you wish from there. F70 SARL42 
+
+|InTheGame_equipment=Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+Apart from the company FCM that continued to work on the Somua S35 modernization outside of the occupation zone, an analogical development was taking place inside the occupied area. F70 SARL42  One of the companies working in secret on promising projects was Ateliers de construction de Rueil (ARL) from Rueil-Malmaison, west from Paris. F70 SARL42  The former tank division of the giant artillery producer APX played major role in pre-war French tank development. F70 SARL42  ARL developed and produced tank turrets and ARL V39 self-propelled guns were supposed to be produced in the company facilities. F70 SARL42  Other tanks were developed by ARL as well - from medium to super heavy ones, including the 145-ton ARL Char C. F70 SARL42 
+
+
+
+One of the promising projects ARL was working on was the ARL 3 tank turret, developed under the leadership of two experienced engineers, Lavirotte and Devenne for the Char G1 medium tank. F70 SARL42  It was a three man turret with roughly 60mm of armor and it was supposed to be armed with a 75mm L/32 gun. F70 SARL42  In June 1940, the development was stopped for obvious reasons, but not completely. F70 SARL42 
+
+In 1942, the ARL engineers under Lavirotte started working on a radical modernization of the Somua S40 cavalry tank. F70 SARL42  It's worth noting that this project was not connected in any way to the FCM S40 modernization development. F70 SARL42  The main idea of Lavirotte's group was to improve the S40 characteristics as much as possible without having to completely rework the suspension and the powerplant of the vehicle. F70 SARL42  This basically meant that improving the armor was not really an option. F70 SARL42  Lavirotte was thus directly involved in the development of this project, that received the internal designation of SARL 42 (Somua-ARL). F70 SARL42 
+
+The hull was changed in shape - the front received more reasonable angles, the radioman place was removed and the hull itself became more streamlined and simpler. F70 SARL42  Another thing that was improved was the turret ring. F70 SARL42  Its internal diameter was increased to 1500mm. F70 SARL42 
+
+
+[[image:SARL_42_scheme_1. F70 SARL42 jpg]]
+
+Devenne's group, located outside of the German-occupied zone in Caussade, was responsible for the turret development. F70 SARL42  Since the ARL 3 turret drawings didn't survive the war, it's not hundred percent sure that this was the exact turret that the SARL 42 was to be equipped with. F70 SARL42  Nevertheless, it was designed by the same people. F70 SARL42 
+
+The way this turret looked was quite unusual. F70 SARL42  First, it did not overlap the turret ring completely, especially on the sides and rear. F70 SARL42  Secondly, the turret was actually designed in order to have as narrow frontal silhouette as possible. F70 SARL42  According to the drawings, the turret was to be made using as much welding as possible, another uncharacteristic feature for French tanks. F70 SARL42  In the front of the turret, there were the loader (who was also the radioman) and the gunner. F70 SARL42  The commander was placed in the rear-located commander's cupola. F70 SARL42  Considering the vehicle weight was not to exceed 22 tons, the frontal armor was only 40mm thick and the sides and rear were only 30mm thick. F70 SARL42  Using the supercharges 230hp engine, the mobility of the vehicle remained at the S35 level. F70 SARL42 
+
+
+[[image:SARL_42_scheme_2. F70 SARL42 jpg]]
+
+
+Contemporary reconstruction of how the tank might have looked:
+
+
+[[image:SARL_42_scheme_3. F70 SARL42 jpg]]
+
+It's worth noting that the group that developed the tank consisted also of artillerymen. F70 SARL42  The team in Caussade was led by an engineer called Lafargue. F70 SARL42  Apart from the L/32 gun, they worked on an entirely new cannon. F70 SARL42  It was clear to them that in the previous 2 years, the armor of tanks in general grew a lot and a new gun was needed to knock them out. F70 SARL42  And Lafargue designed exactly such a gun - 75mm L/44 with the muzzle velocity of 715 m/s. F70 SARL42  Performance-wise, the gun was rated somewhere between Soviet F-34 and German KwK 40. F70 SARL42 
+
+The L/44 (3250mm) was basically the length of the rifled part of the barrel. F70 SARL42  Lafargue didn't really make the gun from scratch, he based it on the ballistic properties of Schneider 75mm AA guns. F70 SARL42  The real barrel length was actually 4000mm (L/53). F70 SARL42 
+
+Autumn 1942, when the Germans occupied the rest of France, meant the end for SARL 42 development. F70 SARL42  But to say all the development was in vain would be incorrect - the team that developed the SARL 42 became the backbone of the team, that would later develop the ARL 44. F70 SARL42  Furthermore, the first variant of the ARL 44 was supposed to be equipped with the 75mm SA44 gun, which was for all intents and purposes identical to the gun developed by Lafargue for SARL 42. F70 SARL42  The SARL 42 itself however was at that point already obsolete and the project was - with many others - sent straight to an archive. F70 SARL42 
+
+|HistAcc=
+* The "47 mm SA37 amélioré" and the "47 mm SA37" are the same gun - the standard SA37 should have the same 106mm of penetration as the amélioré version. F70 SARL42 
+
+|HistoricalGallery= 
+File:SARL_42_scheme_1. F70 SARL42 jpg{{!}}Recreation of what the SARL 42 may have looked like
+File:SARL_42_scheme_2. F70 SARL42 jpg{{!}}Blueprint of the SARL 42
+File:SARL_42_scheme_3. F70 SARL42 jpg{{!}}Blueprint of the SARL 42
+File:3_man_FCM_turret. F70 SARL42 jpg{{!}}3-man FCM turret, available as the stock "FCM à trois hommes" turret. F70 SARL42  This turret was originally intended to be used by the Somua S40. F70 SARL42 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. F70 SARL42 blogspot. F70 SARL42 com/2015/03/sarl-42. F70 SARL42 html
+* https://yuripasholok. F70 SARL42 livejournal. F70 SARL42 com/4315345. F70 SARL42 html
+
+}}

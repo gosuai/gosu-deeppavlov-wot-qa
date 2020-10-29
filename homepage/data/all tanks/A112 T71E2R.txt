@@ -1,0 +1,60 @@
+{{TankData|Tank= T71 CMCD
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Excellent mobility and agility, better than [[T71 DA]] and among the best in tier/class
+* APCR as standard ammunition, high shell velocity
+* Great gun depression and elevation
+* Good gun handling, much better than [[T71 DA]]
+* Good viewrange
+
+|InTheGame_cons= 
+* Fairly inaccurate gun
+* Does not have access to an autoloader unlike [[T71 DA]]
+* Poor camouflage for a light tank, comparable to a medium tank
+* Extremely expensive premium ammunition
+
+|InTheGame_performance= 
+Slightly smaller than its cousin, T71 DA, it is hard for enemies to hit this tank, especially when moving. A112 T71E2R  If you have ever played with M5 Stuart or M5A1, the T71 should be played alike. A112 T71E2R  Just to make sure, once you have been detected, you better get out of there fast. A112 T71E2R  Some vehicles that you'll be facing can take you out in 2-3 shots. A112 T71E2R  It's also worth mentioning that artillery and howitzers HE shells sometimes mean instant death, even with a splash, so don't stop for too long when spotted. A112 T71E2R  If you had the T71 DA before T71 CMCD introduction to the game, you will have this tank researched. A112 T71E2R  It can also be played just like T71 DA. A112 T71E2R 
+
+The cupola and the height of the turret is “oh-my” so big for a light making hulldown not advisable, even though the tank profile is small. A112 T71E2R   The top gun isn’t the same as T71 DA’s auto-loader. A112 T71E2R  Not having an auto-loader shouldn’t decrease the T71 CMCD's fighting capabilities as the DPM and gun handling are noticeably better. A112 T71E2R  If you are playing against a T71 DA or other autoloaders, avoid taking unnecessary damage as their clip potential is enough to kill you. A112 T71E2R 
+
+Play carefully and try fighting from ambush to maximize your damage output or use your maneuvrability and spotting potential to light up important targets for your team. A112 T71E2R 
+ 
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The T71 was a project from 1952 intended to replace the M41 Walker Bulldog. A112 T71E2R  By 1953, there were several different prospective designs that could replace the M41 made by different companies – Detroit Arsenal, Cadillac, and AAI Corporation. A112 T71E2R 
+
+Cadillac’s design was one which did not seem to get very far off the ground at all. A112 T71E2R  It was a more sensible and traditional design than Detroit’s. A112 T71E2R  It featured the T185 gun, essentially the same 76mm M32 gun as the M41, but with a quick change tube. A112 T71E2R  The vehicle was likely to be over 5. A112 T71E2R 5 tons lighter, as it was estimated to weigh less than 18 tons. A112 T71E2R  It had a crew of four – three in the turret (commander, gunner, loader), and a driver in the hull. A112 T71E2R  It featured an AOI-628-I engine, with a fuel capacity of 150 gallons, with an estimated range of 150 miles. A112 T71E2R 
+
+In May 1952, the Army Ordnance Committee gave general characteristics for a replacement of the M41 Walker Bulldog. A112 T71E2R  Originally, there was a 20-ton weight limit and a requirement for a 90mm gun. A112 T71E2R  However, this soon changed to 18 tons and a 76mm gun which could have the barrel quickly replaced. A112 T71E2R  In July 1953, at a conference in Fort Knox, several designs were presented. A112 T71E2R 
+All three designs were reviewed, but contracts were only awarded to the Cadillac Motor Car Division and to Aircraft Armaments. A112 T71E2R  They were ordered to further develop the design and create full-size mockups. A112 T71E2R  A scale mock-up also was completed for the Detroit Arsenal concept, but nothing came of this. A112 T71E2R  There was an expectation that the finished T71 project would combine all aspects of the concepts together, but because each design was so intricately designed, it was simply not possible. A112 T71E2R 
+
+The Cadillac design was simply too conventional, with its small weight and long range, whereas the Aircraft Armaments tank was so innovative that it would be highly risky, even despite the potential for vastly improved performance. A112 T71E2R  Prototypes or “pilots” would be built of both tanks, and they would be tested side-by-side to determine which one is best. A112 T71E2R  The Ordnance Technical Committee approved these projects in March 1954 and in May the Cadillac version. A112 T71E2R  Development continued on both tanks until January 1956 – the T71 project was canceled because of the rapid progress on the T92 and the lack of funds for such a project. A112 T71E2R 
+
+|HistoricalGallery= 
+
+
+|HistAcc=
+The T71 version from Cadillac was the most conventional project out of all proposals. A112 T71E2R  The Ordnance Technical Committee awarded this design with a contract which resulted in further development. A112 T71E2R 
+However, T71 never went into mass production, nor was it assigned with "CMCD" or "DA" - it's simply used in the game to distinguish two different tanks with the same project name. A112 T71E2R 
+
+
+|Ref_references=
+
+|Ref_sources=
+''Sheridan, A History of the American Light Tank Volume 2” by R. A112 T71E2R P. A112 T71E2R  Hunnicut''
+
+|Ref_links=
+https://www. A112 T71E2R tanks-encyclopedia. A112 T71E2R com/coldwar/US/T71. A112 T71E2R php 
+}}

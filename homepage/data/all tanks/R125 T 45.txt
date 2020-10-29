@@ -1,0 +1,88 @@
+{{TankData|Tank=T-45
+|Premium tank offered by WarGaming in its18th anniversary. R125 T 45 
+|Gallery=
+
+File:Т-45 scr 1. R125 T 45 jpg
+File:Т-45 scr 2. R125 T 45 jpg
+File:Т-45 scr 3. R125 T 45 jpg
+
+
+|InTheGame_pros=
+•Fast hull and turret traverse
+
+•Can penetrate most tier IIs frontally
+
+•Fast firing (2. R125 T 45 2 seconds minimum)
+
+•Decent maneuverability
+
+•60mm effective upper plate and 51mm effective turret front
+|InTheGame_cons=
+•2 crew members, can get knocked out somewhat easily
+
+•Relatively sluggish compared to counterparts
+
+•Somewhat high silhouette
+
+•Mediocre gun
+
+•Huge weak spots which can deface its ability to tank
+ 
+•Side armour often penetrated when angling (due to 3x calibre overmatch)
+|InTheGame_performance=
+The T-45 is a Tier II Premium Russian Light tank that performs very similarly to the T-60, its normal Russian counterpart. R125 T 45  Its decent top speed, acceptable gun and fast traverse speed can outmatch a lot of its tier 2 light counterparts. R125 T 45 
+
+Its 45 mm 20KL, which bears striking similarities to the gun of the MS-1 which is also mounted on the other tier III and IV Russian premium lights, possesses a decent penetration value and thus can penetrate most of its enemies frontally, including the heavily-armoured LTP, BT-SV and T-127 with relative ease, but neglects alpha damage in return and so the T-45 will need to expose itself for a longer period of time to cause the same amount of damage as a TD. R125 T 45  You can use it as a flanker, but choose your targets wisely: A good amount of your adversaries will be able to outmanoeuvre you. R125 T 45  You will often bounce shells off of your heavily sloped upper plate and thick frontal turret armour, even if not angled, but even your sloped armour can't withstand heavier tier II-III guns like that of the LTP and T-127, so be careful if you face TDs and tanks at tier III and above. R125 T 45 
+
+Your gun is adequate and will do the job without problems the majority of the time, however it's not always a reliable tool: it's not as accurate as other tier II lights (Its soft stats are even worse than that of the MS-1 a tier lower), so it's best to have cover or find a hull-down position to exploit your 51mm of frontal turret armour, and your armour will be at worst a 50-50 chance of being penetrated - As you are constantly penetrating their armour with your 51mm of penetration on the gun. R125 T 45  Himmelsdorf is an excellent example of this where this tank can prove its worth. R125 T 45  However, its weak spots are large including the middle commander plate and the lower glacis (however they are 10mm thicker than the upper glacis) and it is difficult to snipe due to its lousy accuracy and aiming time. R125 T 45  
+|InTheGame_research=
+None whatsoever as this is a premium tank. R125 T 45 
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, Camouflage Net
+
+|HistAcc=
+|History=
+The T-45 was a Soviet WWII light tank project, meant as a stop-gap measure until the T-70 could enter production. R125 T 45  It was based on the lesser T-60, but with a new gun, turret and engine. R125 T 45  While the T-45 didn’t have any glaring deficiencies and was superior to the T-60, it was nevertheless inferior to the T-70 in a number of aspects. R125 T 45  However, there was no competition between the two, and the order to switch to T-70 production reduced the T-45 to a footnote in AFV history. R125 T 45 <br>
+
+==Background==
+The NKTP found that Factory #37, based in Sverdlovsk, Ukraine, was unable to completely master T-70 production. R125 T 45  This was an apparent issue from March 9, 1942 to late August, 1942. R125 T 45  Another issue became apparent: engines became a problem at Factory #37. R125 T 45  They lacked GAZ-202 engines for their T-60s. R125 T 45  The Gorky Automobile Plant (now known as GAZ) sent less engines than what was needed in the 1st quarter of 1942. R125 T 45  This, in turn, delayed T-60 production. R125 T 45  This sparked the theoretical idea of adding a ZIS-5 and/or ZIS-16 engine to T-60s produced by Factory #37, its design bureau, headed by N. R125 T 45 A. R125 T 45  Popov, later tasked with designing the new vehicle. R125 T 45  The design bureau was mostly made up of engineers who worked for Department #22 until their evacuation to Sverdlovsk. R125 T 45  Department #22 worked on many tank projects and N. R125 T 45 A. R125 T 45  Popov, who also evacuated to Sverdlovsk, was the senior designer of the T-40 amphibious light tank. R125 T 45 
+The ZIS-16 (which came from a bus of the same name) was chosen as the new engine. R125 T 45  The ZIS-16 engine received a new designation as the ZIS-60 for the tank version. R125 T 45  This modified T-60 had an engine compartment which was easier to access, was less noisy, and had a top speed of 40. R125 T 45 5 km/h which is one 1 km/h gained from the T-60 with the GAZ-202 engine installed. R125 T 45  However, the engine had cooling problems. R125 T 45  It also had modified final drives and a redesigned exhaust system. R125 T 45  5 of these new T-60s were ordered. R125 T 45  Factory #37’s military engineer 1st class, S. R125 T 45 A. R125 T 45 A. R125 T 45  Afonin, mentioned this to the NKTP (People’s Commissariat of Tank Industry) during a meeting on May 14, 1942. R125 T 45  He also conveyed the idea of adding a 45mm gun and increasing the armor to 35mm, which started the idea of the T-45. R125 T 45  To Factory #37’s disappointment, these modifications and proposals were seen negatively by the NKTP. R125 T 45   With this combination, this T-60 variant was still inferior to the T-70 in terms of armor, engine power, and mobility. R125 T 45  Since this would increase the weight of the vehicle, the engine, transmission, and suspension would suffer from further stress. R125 T 45  The NKTP would not recommend this T-60 variant. R125 T 45 
+By the end of the meeting, Factory #37 was told to perform a trial of 200 km. R125 T 45  After this task was completed, the results were to be sent to the Main Directorate of Armored Forces (GABTU) for evaluation. R125 T 45  In the meantime, no more prototypes were allowed to be constructed. R125 T 45  It seems like Factory #37 started from scratch during or shortly after the meeting. R125 T 45  This time they would actually install the 45mm gun, a new turret, and increase the armor thickness of the hull. R125 T 45  This became known as the T-45. R125 T 45  [[image:t45-frontal. R125 T 45 jpg|thumb|400px|right|T-45 frontal view. R125 T 45  The gun has been moved to the right to reduce tightness of internal space. R125 T 45 ]]
+
+==Characteristics and Development==
+Compared to the T-60, the T-45’s hull armor was mostly the same with the exception of the sloping of the upper front plate, that had 25mm of armor instead of 15mm. R125 T 45  If it was ever needed, the flat front plate could be up-armored from 35mm to 45mm. R125 T 45  The increase of armor made the protection almost on par with the T-70. R125 T 45  The armor thickness of the side of the T-45’s turret was 35mm. R125 T 45  The driver’s hatch now swiveled to the side in a similar fashion to the Panther’s cupola. R125 T 45  The T-45’s side plates was also riveted opposed to being welded (it is highly likely that this would’ve changed during production). R125 T 45  [[image:t45-side. R125 T 45 jpg|thumb|400px|right|T-45 side view. R125 T 45  Note the riveted joint armor. R125 T 45 ]]
+
+The T-45 was armed with a 45mm 20K Model 1938 and a coaxial DT machine gun. R125 T 45  This setup was very common among Soviet light tanks, as well as on the T-70. R125 T 45  The first trials were held on May 20th, 1942. R125 T 45  The firepower was tested. R125 T 45  The T-45 achieved 7-8 shells per minute when standing still and 3 shells per minute when on the move. R125 T 45  The turret tended to sink inside the hull due to its weight. R125 T 45  Despite the sinking turret, it allegedly managed to hit all 25 of its shells at the target at an unknown range. R125 T 45  The TMPF sight was planned to be replaced with the standard TOP 45mm sight. R125 T 45 
+
+The T-45 received the inferior, but common ZIS-5 engine (the engine already traveled 12,000 km) which was ripped from a truck. R125 T 45  The ZIS-16 engine was in short supply as they only had one left. R125 T 45  Unfortunately, the top speed decreased to 37. R125 T 45 2 km/h. R125 T 45  It also received final drives and steering clutches from the T-70. R125 T 45  New, strengthened torsion bars were added alleviate the added weight (weight 7 tonnes). R125 T 45 
+
+Driving trials were performed for seven days, from the 6th to the 13th of June. R125 T 45  In total, it traveled 1505 km; 189 km on asphalt roads, 805 km on gravel, 410 km on rubble, and 110 km on dirt roads. R125 T 45  The trials revealed several defects, such as the cooling fans malfunctioning twice, the engine working at high RPMs (which increases the chances of it breaking down), tires occasionally slipping off the wheel, and the track links breaking several times. R125 T 45  The quality of the track links reflected on Factory #183, which manufactured them, and not Factory #37. R125 T 45  The trials were successful otherwise with the exception of a few complaints that were listed earlier, especially given the old ZIS-5 engine that already had 12,000 km on it. R125 T 45  
+Upon successful termination of the trials and if the GABTU gave it’s blessing, the Miass factory, based in Miass, Chelyabinsk Oblast, Russia, would’ve produced the T-45’s ZIS-5 engine along with the transmission. R125 T 45  The ZIS-16 engine would probably replaced the ZIS-5 once it’s production would have been properly set-up. R125 T 45  However, since the T-45 was never placed unto service, production of the engine and the transmission never occurred. R125 T 45 
+
+==Fate==
+The data of the trial was sent to GABTU by the end of June, 1942. R125 T 45  This data included both the T-45 and the T-60 with the ZIS-16 engine. R125 T 45  Factory #37 already struggled at producing T-60s. R125 T 45  321 semi-completed T-60s were produced in June, but only 109 were fully complete in June. R125 T 45  The rest lacked tracks and armaments. R125 T 45  The goal at the factory was supposed to be 200 complete T-60s. R125 T 45  Central Command’s new rule named #1958ss “Regarding T-34 and T-70 Tank Production” forced Factory #37 to cancel all T-60 production and to switch to the T-70. R125 T 45   Prior to this, Factory #37 only built 10 T-60s in July. R125 T 45  After they switched, scarcity of parts became more and more obvious. R125 T 45  This sealed the fate of the T-45 project. R125 T 45 
+The T-45 didn’t suffer from any condemning defects and some of the characteristics were largely on part with the T-70. R125 T 45  Whatever small advantages the T-45 could bring to the table could not convince the Soviet command to add yet another light tank into service. R125 T 45  This would have complicated both maintenance and production in a moment when the Soviets needed as many tanks as possible as fast as possible. R125 T 45 
+Ultimately, the T-45 was born and quietly faded in the shadow of the T-70, without having a chance of proving itself. R125 T 45  The remaining prototype was sent into battle where it was most likely destroyed. R125 T 45 
+
+==Specifications==
+Dimensions: 4. R125 T 45 12 x 2. R125 T 45 34 x 1. R125 T 45 8 m (14’24” x 7’68” x 5’9” ft)<br>
+Total weight, battle ready: 7 tons<br>
+Crew: 2 (driver and commander)<br>
+Propulsion: 73-76 hp ZIS-5 engine or 85mm ZIS-16 engine (theoretical)<br>
+Suspension: torsion bar<br>
+Speed (road): 37. R125 T 45 2 km/h (23 mph)<br>
+Armament: 45mm 20K Model 1938<br>
+Armor: 25mm upper sloped plate, 35mm or 45mm (theoretical) flat front plate, 35mm turret side<br>
+Total production: 1 prototype<br>
+|HistoricalGallery=
+image:t45-frontal. R125 T 45 jpg{{!}}T-45 frontal view
+image:t45-side. R125 T 45 jpg{{!}}T-45 side view
+image:t45-gun. R125 T 45 jpg{{!}}T-45 with hatch open
+image:t45-schematic. R125 T 45 jpg{{!}}T-45 schematic by Dmitry Shuvalov
+|Ref_references=
+|Ref_sources=
+|Ref_links=
+https://www. R125 T 45 tanks-encyclopedia. R125 T 45 com/ww2/soviet/T-45
+https://warspot. R125 T 45 ru/6712-modernizatsiya-maloy-krovyu-t-45-i-drugie
+[https://worldoftanks. R125 T 45 eu/en/news/pc-browser/44/special-anniversary-18-anniversary/ Special: Wargaming's 18th Anniversary]
+}}

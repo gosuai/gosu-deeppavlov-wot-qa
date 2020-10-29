@@ -1,0 +1,58 @@
+{{TankData|Tank=GB29_Crusader_5inch
+|The Crusader mounted with a 5. GB29 Crusader 5inch 5-inch gun could be considered an 'oddball' mainly in terms of speed. GB29 Crusader 5inch  Because the gun is mounted backwards, players spawn back-to-front which means driving in reverse actually achieves a higher top speed than driving normally. GB29 Crusader 5inch   The plan is to drive backwards when moving between firing positions, and then forwards when adjusting your firing angles. GB29 Crusader 5inch 
+
+Its top gun has great range, a good aiming time, and a respectable rate of fire, although it has poor alpha damage for its tier and somewhat low accuracy. GB29 Crusader 5inch 
+
+|Gallery=
+
+|InTheGame_pros= 
+* Top gun has very long range at 1300 m 
+* Good aim time and rather large gun arc
+* Decent reload time makes up for lack of damage
+* Small size and very good maneuverability for artillery
+* Great acceleration and good top reverse speed (43KM/H), excellent for escaping after shooting
+
+|InTheGame_cons=
+* Poor range for stock gun (500 m), But its still better than FV304
+* Poor alpha for its tier, but can still easily cripple enemies
+* Engine speeds are flipped, meaning going in reverse is faster, which can lead to confusion. GB29 Crusader 5inch 
+* Top gun has a low shell arc (but significantly faster shell travel time)
+* Hard to perform a "drive-by" due to the poor "forward" speed
+
+
+|InTheGame_performance=
+Unlike most tanks, the Crusader SP has a faster reverse speed than forward speed: 44 km/h compared to 14. GB29 Crusader 5inch  This is because its gun faces the rear of the tank. GB29 Crusader 5inch  Although it gets a gun with twice as much damage and range than the FV, it's not as effective at distances higher than 600m due to only average accuracy combined with below average splash radius. GB29 Crusader 5inch  That said, use your high mobility, low profile and gun depression to hide behind small hills at a fair distance from the enemy and shoot them, that is play more as a TD with very low health and armor. GB29 Crusader 5inch 
+
+In addition, this arty is one of the best at defending itself due to high reverse speed and great turning, fast reload time (for SPG) and the fact that it has gun depression, which is very usable at close quarters fight. GB29 Crusader 5inch  Some players can use this to their advantage by backing around a corner, as their gun is already facing towards the approaching enemy, and rotate the camera around for the shot. GB29 Crusader 5inch  Unfortunately, the reduction in SPG alpha damage has reduced the usefulness of this trait as one-shot kills have become the exception, rather than the rule. GB29 Crusader 5inch 
+
+Players may consider using the stock gun, rather than the top gun. GB29 Crusader 5inch  With the top gun, the Crusader SP becomes a poor copy of the other mid-tier SPGs doing rather less damage per shot than most, having poor DPM and with awkward driving controls. GB29 Crusader 5inch  It is, for example, inferior in pretty much all aspects to the GW Panther. GB29 Crusader 5inch  Its accuracy is reasonably good, but that is offset by the lack of damage. GB29 Crusader 5inch  With the stock gun, it is at least an interesting SPG to play. GB29 Crusader 5inch   Although it has low alpha damage and short range, it is more accurate, has higher DPM and, most importantly, its high shell arch ensures that hits land on top of the target, rather than the front/side. GB29 Crusader 5inch 
+
+|InTheGame_research=
+* The WS No. GB29 Crusader 5inch  19 Mk. GB29 Crusader 5inch  III Radio carries over from the FV304. GB29 Crusader 5inch  Mount it immediately. GB29 Crusader 5inch 
+* First, research the Nuffield Liberty Mk. GB29 Crusader 5inch  V Engine. GB29 Crusader 5inch 
+* Next,  research the Crusader 5. GB29 Crusader 5inch 5-in. GB29 Crusader 5inch  SP Suspension. GB29 Crusader 5inch  
+* Finally, research the B. GB29 Crusader 5inch L. GB29 Crusader 5inch  5. GB29 Crusader 5inch 5-in. GB29 Crusader 5inch  Gun. GB29 Crusader 5inch 
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,GLD
+
+|History=
+'''5. GB29 Crusader 5inch 5 inch howitzer'''
+The 5. GB29 Crusader 5inch 5-inch Gun was one of the two British medium guns of World War 2, which both used the same carriage (the other was the 4. GB29 Crusader 5inch 5-inch Gun). GB29 Crusader 5inch   It first entered service in 1942 replacing 6-inch Howitzers in medium regiments. GB29 Crusader 5inch   It had limited service in Indian regiments and equipped a South African and three Canadian regiments in Europe. GB29 Crusader 5inch   It was popular and recognized as an effective gun, however, there was a problem with bore premature, particularly in Burma and in late 1944 some 5. GB29 Crusader 5inch 5-inch were temporarily replaced by old 6-inch howitzers in that theatre. GB29 Crusader 5inch  Initially it had a 100 lb shell but later in the war an 80 lb shell was introduced and this eventually replaced the 100 lb. GB29 Crusader 5inch  It left British service in the mid-1970s, UK last used them operationally in Borneo and Radfan in the mid-1960s and the last round was fired in UK was in 1995. GB29 Crusader 5inch   Its last operational use seems to have been with the South African Defence Force in Angola in the 1980s. GB29 Crusader 5inch  In European countries it was referred to as the 140-mm (or 14-cm) gun. GB29 Crusader 5inch 
+
+==Self propelled variants==
+No SP versions ever entered service although an SP was the highest priority equipment at the end on WW2. GB29 Crusader 5inch   After WW2 there was an open SP built on the Crusader gun tractor, some design work on FV 305, a 5. GB29 Crusader 5inch 5-inch SP using the proposed FV 300 series carriage, it was cancelled in 1948. GB29 Crusader 5inch   However, in 1950 a new SP design started, FV 3805, based on a Centurion tank chassis. GB29 Crusader 5inch  A prototype was built,  it had a fully enclosed fighting compartment and a barbette mounted gun. GB29 Crusader 5inch  It was cancelled in about 1958. GB29 Crusader 5inch  
+
+|HistoricalGallery=
+image:Crusader howitzer. GB29 Crusader 5inch jpeg
+
+|HistAcc=
+The Crusader 5. GB29 Crusader 5inch 5-in. GB29 Crusader 5inch  SP's only armament was the 5. GB29 Crusader 5inch 5-inch gun, hence the name. GB29 Crusader 5inch  The 4. GB29 Crusader 5inch 5-inch howitzer was only used on the BT-42, a Finnish assault gun. GB29 Crusader 5inch 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+
+}}

@@ -1,0 +1,86 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:Skoda T 50 scr 1. Cz02 TVP T50 jpg
+File:Skoda T 50 scr 2. Cz02 TVP T50 jpg
+File:Skoda T 50 scr 3. Cz02 TVP T50 jpg
+File:Skoda T 50 render 1. Cz02 TVP T50 jpg
+
+
+|InTheGame_pros= 
+* Excellent shell velocity and shell cycling with the top gun
+* Good gun depression
+* Very good acceleration with the top engine, retains speed well
+* Good viewrange
+* Hull sides are covered with spaced armor, can occasionally absorb enemy shots
+
+|InTheGame_cons= 
+* Large for a medium tank, with poor camouflage
+* Poorly armored, expect only rare bounces or ricochets
+* Top speed is merely average
+* Lowest burst potential of all Tier 9 and 10 autoloaders
+* Frequent module damage and crew injury
+
+|InTheGame_performance= 
+Like several of its Tier 9 peers, the Škoda T 50 is yet another papery medium tank that does away with survivability in exchange for firepower. Cz02 TVP T50  In this it is somewhat unique as its top gun, the 100mm AK1, is an autoloader featuring a 3-shell magazine with a reasonably quick reload speed and, most importantly, an excellent shell cycling speed. Cz02 TVP T50 
+
+Indeed, said shell cycling is perhaps what defines the Škoda T 50. Cz02 TVP T50  Whereas autoloaders of other nations, such as the French BatChat 25t AP, deliver potentially massive burst damage but need to stay exposed for a long time to do so, the Škoda T 50 empties its clip in a mere 3,6 seconds, which is fast enough for some effective trading - depending on the enemy tank, one can poke out of cover, get shot at once, deliver a three-round burst for an average of 960 damage, and then retreat to safety while the clip gets reloaded. Cz02 TVP T50  Obviously, such a strategy cannot be executed in any situation and is a calculated risk, and is up to the player to determine when to gamble, and when to play cautious. Cz02 TVP T50 
+
+As an autoloader, the Škoda T 50 becomes more threatening the more it stays alive. Cz02 TVP T50  Prolonged matches can leave damaged enemy tanks scattered all over the map, which is great as they make for juicy picks where even the modest burst damage of the Škoda becomes a significant threat. Cz02 TVP T50  It is therefore recommended to play safe and supportive to more heavily armored and armed teammates until mid to late game, where there will be less enemies to deal with and flanking maneuvers can be more safely executed. Cz02 TVP T50 
+
+Lastly, the Škoda T 50 enjoys good viewrange and excellent shell velocity with its top gun, as well as acceptable accuracy. Cz02 TVP T50  It is therefore possible to act as a mobile second line sniper and engage distracted or unaware enemies, though fully committing to such a role is not advised. Cz02 TVP T50 
+
+Overall, the Škoda T 50 is a solid Tier 9 medium tank and, like all autoloaders, and opportunistic predator. Cz02 TVP T50  Refuse fair fights, and focus on assassinating or wounding enemy tanks wherever possible before slipping away to reload the clip and repeat the process. Cz02 TVP T50 
+
+|InTheGame_research= 
+* The top radio carries over from the [[TVP VTU]] and can be installed immediately
+* Research the suspensions 
+* Research the turret
+* Research the 100mm AK1 gun
+* Research the top engine for a significant engine power improvement
+* The 100mm R11 gun is optional and can be skipped unless one wants to elite the tank
+
+|InTheGame_equipment=
+Coated Optics, Vents, Vertical Stabilizer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|V0JU8MKxsy8}}
+
+|History= 
+Based on the preliminary works on the TVP concept from January 1948, in January 1949, the HQ of the army issued an official request for a tank project to Škoda and Praga. Cz02 TVP T50  For Škoda, the project had designation T-50 (task 181 B), for ČKD (Praga), the designation was T-51 (task 181 A). Cz02 TVP T50  
+
+
+==Specifications==
+The original proposed weight of 35 tons was later increased to 40 tons. Cz02 TVP T50  Upgunning was also needed and the caliber picked for the final version of the official demand was 100mm (the shell velocity was specified at 845 m/s, the vehicle was to carry 60 to 70 rounds). Cz02 TVP T50  Further demands included sufficient protection while keeping excellent mobility on the battlefield, air-cooled diesel engine capable of operating under all climatic conditions. Cz02 TVP T50  Maximum dimensions were set to 6,5m length, 3,2m width and 2,8m height, while clearance was to be 500mm. Cz02 TVP T50  Armor thickness was set to 65mm frontal,  40mm sides and rear and everything else 20 to 30mm. Cz02 TVP T50  The hull was to be welded. Cz02 TVP T50  
+
+Secondary armament was set to a 12,7mm AA machinegun (apparently Soviet DshkM) with 1000 rounds, a hull-mounted 7,62mm machinegun and a coaxial 7,62mm machinegun (both were supposed to be newly designed Czechoslovak machineguns with 3600 rounds for both). Cz02 TVP T50  
+
+==Development==
+According to the plan from 1949, the preliminary project was to be approved until 21. Cz02 TVP T50 8. Cz02 TVP T50 1949, by the end of 1950 the prototype assembly drawings were supposed to be ready and on 1. Cz02 TVP T50 3. Cz02 TVP T50 1950, the first prototype parts production deadline was set. Cz02 TVP T50  The entire development was to be ready in June 1952. Cz02 TVP T50 
+
+The VTU oversight of the Škoda project was performed by Maj. Cz02 TVP T50 Ing. Cz02 TVP T50  Jan Hajšman and of the ČKD project by Cpt. Cz02 TVP T50 Ing. Cz02 TVP T50  Albín Třešňák. Cz02 TVP T50  During the development, other preliminary projects based on TVP chassis were added, such as the TVP ARV, bridgelayer tank, flame tank and mineclearing TVP with dozer blade. Cz02 TVP T50  The development of most of these project however was not even started. Cz02 TVP T50 
+
+On 27. Cz02 TVP T50 1. Cz02 TVP T50 1949 the preliminary project from Škoda and Praga were ordered. Cz02 TVP T50  Škoda was to present a tank and cannon drawings and create a 1:1 wooden mockup until 30. Cz02 TVP T50 9. Cz02 TVP T50 1949 (ČKD had the same deadline). Cz02 TVP T50  Apparently, Škoda met the deadline with its T-50 project and presented the entire project in September 1949, including wooden mock-up, but the vehicle was criticized by the attending military staff for tactical reasons: the soldiers complained that the tank is too tall and probably too heavy too. Cz02 TVP T50  After five meetings held in Pilsen (Škoda) and Prague (MNO), the project was rejected. Cz02 TVP T50  On 24. Cz02 TVP T50 11. Cz02 TVP T50 , new proposal was presented and on 2. Cz02 TVP T50 12. Cz02 TVP T50 1949, 1:10 mockup of this new variant was created. Cz02 TVP T50  This variant had a “pike nose”, much like the IS-3, but only a day later (3. Cz02 TVP T50 12. Cz02 TVP T50 1949), the soldiers rejected this feature. Cz02 TVP T50 
+
+|HistAcc=
+It should be noted that the model of the Škoda T 50 in game does not represent the any of the plans found in archives of the TVP project. Cz02 TVP T50  Instead, it is based off of a drawing by Czech historian Ivo Pejčoch that represented the Škoda T 50. Cz02 TVP T50  This drawing is believed to be fake, as it incorporates elements from two different projects. Cz02 TVP T50  In particular, Pejčoch's Škoda T 50 combines the hull of a TVP-based tank destroyer from 1949 and an enlarged version of the turret of the Škoda T-17 light tank. Cz02 TVP T50 
+
+|HistoricalGallery= 
+File:Pejčoch%27s_TVP. Cz02 TVP T50 jpg{{!}}Pejčoch's Škoda T 50 design
+File:Dubánek%27s_drawing_of_a_TVP-based_tank_destroyer_from_1949. Cz02 TVP T50 jpg{{!}} Dubánek's drawing of a TVP-based tank destroyer from 1949. Cz02 TVP T50  The basic hull design was used for Pejčoch's Škoda T 50
+File:Škoda_T-17_light_tank. Cz02 TVP T50 jpg{{!}}Škoda T-17 light tank. Cz02 TVP T50  The turret design was enlarged and used for Pejčoch's Škoda T 50
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. Cz02 TVP T50 blogspot. Cz02 TVP T50 com/2015/09/cz-tree-part-9-t-50. Cz02 TVP T50 html
+* https://ftr-wot. Cz02 TVP T50 blogspot. Cz02 TVP T50 cz/2013/01/czechoslovak-tree-part-4-medium-tanks. Cz02 TVP T50 html
+* https://ftr. Cz02 TVP T50 wot-news. Cz02 TVP T50 com/2013/12/19/research-tvp/
+}}

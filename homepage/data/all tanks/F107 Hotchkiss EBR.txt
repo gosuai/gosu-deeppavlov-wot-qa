@@ -1,0 +1,55 @@
+
+{{TankData|Tank= ''Please leave space after ''='' blank except in specific circumstances''
+
+|Gallery= ''Gallery of (ingame) tank images''
+
+|InTheGame_pros= ''
+* Has a superb top speed of 70km/h (surpasses all other tier VII tanks and almost all tier VIIIs)
+* Aim assist like other wheeled lights, wheels absorb shots sometimes
+* Excellent HE pen, great to counter enemy lights, glass cannons and artillery
+* High top speed allows for great circling techniques
+* Excellent gun handling, aim time is on par with high tier Tank Destroyers
+* Fairly fast turret traverse; works well with swerving and circling
+* Good gun depression of -10°
+''
+
+|InTheGame_cons= ''
+* Bad turning angles
+* Decreased reverse speed compared to the Panhard AMD 178B (45km/h instead of 65km/h)
+* Mediocre DPM, will most likely lose trades (though HE massively improves DPM)
+* Rear-mounted turret limits gun versatility 
+* Terrible view range means you'll easily get out-spotted
+''
+
+|InTheGame_performance= ''Like how all other French wheeled lights play, the Hotchkiss EBR plays as an aggressive scout, using its mobility to get to key scouting positions earlier in the game. F107 Hotchkiss EBR  This tank is really good for flushing out Tank Destroyers, passive scouts and Artillery, in which usually hide in well-concealed positions. F107 Hotchkiss EBR  The six-wheel setup does differ from players used to the Panhard AMD 168B, as your turning radius and mobility are affected. F107 Hotchkiss EBR  While your wheels will repair over time, having them damaged drastically reduces your mobility and agility. F107 Hotchkiss EBR  A tip to turn very quickly on the spot would be to use your momentum and turning without accelerating (pressing 'A' or 'D' while letting go of 'W' for a brief amount of time). F107 Hotchkiss EBR  Note that this only works well if you are going at fairly high speeds. F107 Hotchkiss EBR  The first tanks you'll likely encounter in a battle are enemy lights. F107 Hotchkiss EBR  With this, you can use your very high HE penetration to take away a good chunk of their hitpoints before retreating or letting your team finish them off. F107 Hotchkiss EBR   
+
+|InTheGame_research= Install radio EM3/R61 first as it is the only thing that carries over from Panhard AMD 178B. F107 Hotchkiss EBR  Then research engine Hotchkiss V6 mle. F107 Hotchkiss EBR  49, for faster speed. F107 Hotchkiss EBR  If you going for the more powerful Canon de 75 mm you need to research wheels first. F107 Hotchkiss EBR 
+
+|InTheGame_equipment=
+Vertical Stabilizer, GLD, Coated Optics, Vents
+
+|InTheGame_Equipment_Builds=
+
+|InTheGame_builds=
+(both will activate the same section)
+
+|External_Reviews= ''For external review links (Youtube, etc)''
+{{VideoYT|jaGl_btQ_S0}}
+
+|History= Hotchkiss EBR was experimental prototype of reconnaissance wheeled vehicle with 75mm cannon. F107 Hotchkiss EBR  One vehicle was built in 1949. F107 Hotchkiss EBR  The vehicle was declared unsuccessful and the development was handed over to the Panhard company, which produced around 1100 vehicles, which were used until 1987, when they were replaced by AMX-10RC vehicles with a 105 mm cannon. F107 Hotchkiss EBR  
+
+|HistoricalGallery= 
+image:Hotchkiss EBR Historical. F107 Hotchkiss EBR jpg{{!}}Hotchkiss EBR during tests. F107 Hotchkiss EBR 
+
+
+|HistAcc= 
+*Only 75mm SA49 (EBR) gun was mounted on Hotchkiss EBR
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

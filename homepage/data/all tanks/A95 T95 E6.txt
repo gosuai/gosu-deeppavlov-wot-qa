@@ -1,0 +1,48 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:T95E6 scr 1. A95 T95 E6 jpg
+File:T95E6 scr 2. A95 T95 E6 jpg
+File:T95E6 scr 3. A95 T95 E6 jpg
+
+
+|InTheGame_pros= 
+*Excellent DPM, alpha damage and penetration
+*Excellent gun handling and aimtime 
+*Fairly well-armored frontal turret armor with good gun depression
+*Excellent viewrange
+*Largest healthpool of all Tier 10 medium tanks
+
+|InTheGame_cons= 
+*Large, weak turret cupola
+*Very thin hull armor for its tier
+*Low ammo capacity
+
+|InTheGame_performance= 
+By pure paper stats, the T95E6 looks like it's a very, very mediocre tank, but it actually isn't. A95 T95 E6  It all revolves on the excellent gun that it has, the amazing 120mm T123E6. A95 T95 E6  For all intents and purposes, it's the M58 on the T110E5, with a few stat changes. A95 T95 E6  It trades better Rate of Fire for worse accuracy, but not dispersion values. A95 T95 E6  All in all, fairly good gun to build a tank around. A95 T95 E6  The trouble comes with the tank, mainly in the protection category. A95 T95 E6  The hull itself, despite being well-angled, has very little thickness to fend off shots. A95 T95 E6  Hulldown can be viable, but be cautious of your tumor, as it sticks out a good bit before you can shoot back. A95 T95 E6  Its mobility has improved by much since the latest buff, and is no longer a hindrance to other mediums. A95 T95 E6  This is best played as a mid-line support tank, as the armor simply won't hold up consistently at close range, and the . A95 T95 E6 38 accuracy will render all shots further than ~400m pure RNG. A95 T95 E6  
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Large-Caliber Tank Gun Rammer, Vertical Stabilizer, Improved Ventilation Class 2, Coated Optics
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+image: T95e6. A95 T95 E6 jpeg
+image: T95e6_(2). A95 T95 E6 jpeg
+
+|Ref_references=
+
+|Ref_sources=
+* Abrams: History of the American MBT
+
+|Ref_links=
+* https://ftr-wot. A95 T95 E6 blogspot. A95 T95 E6 cz/2013/05/the-t96-heavy-gun-tank. A95 T95 E6 html
+
+}}

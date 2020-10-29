@@ -1,0 +1,62 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Hydropneumatic suspensions - can improve gun depression/elevation at low speed or when stationary
+* Good alpha damage and penetration
+* Extremely sloped turret front and upper glacis, can ricochet many shots
+* Good acceleration and agility
+* Low profile, good camouflage 
+
+|InTheGame_cons=
+* Low rate of fire and DPM
+* The armor relies entirely on sloping, and is very thin
+* Bad gun depression and elevation without aid from the suspensions
+* Weak premium ammunition only give a small increase in penetration
+* Extremely clumsy and vulnerable when forced into a brawl
+
+|InTheGame_performance= 
+The UDES 16 plays much the same as the UDES 14 5 before it, but the addition of turret armour and some more effective hull armour make this tank much more of a significant threat when it gets into position, and also allows for diversity in how this tank can be played. S27 UDES 16 
+
+The hull armour is only 45mm thick, however because of the sloping, it is capable of bouncing a surprising amount of shots. S27 UDES 16  However, the turret is what separates this tank from the Tier VIII - 70mm sounds very thin, but the sloping means this turret becomes around 260-270mm effective armour, which is on par with the turret armour of tanks like the M46 Patton or the Centurion 7/1. S27 UDES 16  Add this with the hydropneumatic suspension of the Swedish Mediums and a very low profile and you have a tank that is easily capable of walling lots of tanks whilst using ridge lines of all sizes and insane gun depression. S27 UDES 16 
+
+Whilst the turret is strong however, it is not invincible. S27 UDES 16  High penetration HEAT can go through your turret, as well as Tier X tank destroyer guns, so don’t think you are free from harm. S27 UDES 16  Because of the thin armour thickness, HE bleeds through significantly, especially from artillery fire. S27 UDES 16  Luckily, this tank is mobile enough to abuse lots of locations with its armour and gun depression. S27 UDES 16 
+
+The armament this tank is equipped with is very middle-of-the-road for Tier IX medium standards. S27 UDES 16  It doesn’t have the most fantastic penetration at 234, but also that is far from the worst that tanks like the E50 and M46 Patton get. S27 UDES 16  The handling is also average - 2. S27 UDES 16 2 seconds is on the higher end of aim times, but it’s not enough to feel like the gun is working against you. S27 UDES 16  The gun isn’t going to win any awards, but it will do. S27 UDES 16 . S27 UDES 16  The biggest downside to it is the very lacklustre premium ammunition, so engaging top tier heavies frontally is not advised wherever possible. S27 UDES 16 
+
+When stock, this tank is horrible. S27 UDES 16  You get the gun from the previous tank which has acceptable alpha for tier IX, but everything about it is worse than the tank before it, resulting in horrible DPM. S27 UDES 16  Luckily, the penetration is bearable and you don’t need the suspension to mount any of the modules as all the top modules are actually lighter than the stock ones. S27 UDES 16  Before you get the upgraded gun though only one piece of equipment can be fitted, so choose wisely. S27 UDES 16 
+
+The stock turret is thicker than the top turret, but the effective armour values are more or less the same due to the sloping, and it is also heavier with less view range and gives worse gun performance. S27 UDES 16  You can fit the top gun with the stock turret however, which helps with the grind. S27 UDES 16 
+
+|InTheGame_research=
+
+* The top radio carries over from the UDES 14 5 and can be installed immediately
+* Research the top gun 
+* Research the upgraded turret
+* Research the tracks
+* Finish by researching the engine
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|FTQ1hEeA55A}}
+
+|History= 
+
+|HistoricalGallery= 
+File:Udes_16. S27 UDES 16 jpeg{{!}}UDES 16
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://www. S27 UDES 16 ointres. S27 UDES 16 se/udes. S27 UDES 16 htm
+* https://tanks-encyclopedia. S27 UDES 16 com/coldwar/Sweden/Swedish-prototypes-paper-projects. S27 UDES 16 php
+* https://ritastatusreport. S27 UDES 16 blogspot. S27 UDES 16 com/2015/03/swedish-tanks-part-23-udes-part-2. S27 UDES 16 html
+}}

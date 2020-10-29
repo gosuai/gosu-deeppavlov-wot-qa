@@ -1,0 +1,115 @@
+{{TankData|Tank=
+|Wielding the most devastating gun in the game protruding from a massive box turret, the FV4005 Stage II affectionately became known as '''"Sh*tbarn"''' or '''"Doombarn"'''. GB83 FV4005  The FV4005 Stage II was released as an alternative to the [[Tank:GB48_FV215b_183|FV215b (183)]]. GB83 FV4005  This featured increased mobility and gun handling, while sacrificing surviveability. GB83 FV4005  It has almost no hull armor & a very large paper-thin turret. GB83 FV4005  When the FV215b (183) was removed from the tech tree but kept as a collector's vehicle, the FV4005 Stage II received a [//forum. GB83 FV4005 worldoftanks. GB83 FV4005 com/index. GB83 FV4005 php?/topic/603120-so-the-fv4005-nerf/ "balancing update"] to its gun handling and mobility. GB83 FV4005  In the current state, this means inferior gun accuracy, aiming time, and movement speed to the FV215b (183). GB83 FV4005  At this point one might ask. GB83 FV4005 . GB83 FV4005 . GB83 FV4005  Why would anyone get this over the [[FV215b (183)]] or the [[Tank:GB92_FV217|FV217 Badger]]? Well, the FV215b (183) is no longer obtainable, and the FV217 Badger doesn't have the 183mm cannon with 1750 damage HESH shells, it has a 120mm that does 400 damage respectively. GB83 FV4005  With this monstrous weapon, the FV4005 Stage II is arguably the deadliest support weapon in the game. GB83 FV4005  Try popping out & shooting heavies while they are reloading, or giving the "'''Thor's Hammer'''" of fire support to a pack of protecting mediums. GB83 FV4005  It is a lot less forgiving than the FV215b (183), so patience with aiming and timing of the attack is essential. GB83 FV4005  You will need to keep an eye on the mini-map at all times, if a flank is failing go & lend your massive 183mm gun. GB83 FV4005  The accuracy is extremely unreliable, thus AP shells are ineffective at medium to long range. GB83 FV4005  Using HE (preferably HESH), The medium to long range shots will deal respectable damage, and taking the time to aim for weak spots will melt the HP of any vehicle who was unfortunate enough to be in front of you. GB83 FV4005  If your patience is strong, awareness is keen, and with a little bit of luck, your gun will become the enemies living hell. GB83 FV4005 
+
+|Gallery=
+
+File:FV4005 Stage II scr 5. GB83 FV4005 jpg
+File:FV4005 Stage II scr 2. GB83 FV4005 jpg
+File:FV4005 Stage II scr 3. GB83 FV4005 jpg
+File:FV4005 Stage II scr 4. GB83 FV4005 jpg
+File:FV4005_Stage_II_screen_1. GB83 FV4005 jpg
+File:FV4005_Stage_II_screen_2. GB83 FV4005 jpg
+File:FV4005_Stage_II_screen_3. GB83 FV4005 jpg
+
+
+|InTheGame_pros=
+* Highest AP (standard) penetration in the game
+* Incredibly powerful HESH (premium) ammunition
+* While inferior to HESH in terms of penetration, HE shares the same fantastic damage
+* Great gun depression
+* The turret's arc, while not a full 360°, is quite wide
+
+|InTheGame_cons=
+* Extremely poor armor, especially the turret
+* Low speed and uninspiring agility
+* Slow turret traverse and terrible gun elevation
+* Abysmal reload speed, gun handling and aim time, as well as bad accuracy
+* Extremely poor camouflage values
+
+
+|InTheGame_performance= 
+The FV4005 Stage II is akin to an artillery piece, though without the option for indirect fire. GB83 FV4005  It enjoys absolutely monstrous firepower with all its types of ammunition, especially HESH and HE (a full penetration can reliably destroy a full health Tier 9 tank, and even some Tier 10s!), but pays dearly for it with terrible gun handling, very slow aim time, glacial reload speed and inadequate shell velocity and accuracy. GB83 FV4005  
+
+In terms of survivability, the tank's healthpool is on the low side for a Tier 10 tank destroyer, and its armor is downright pathetic, being a Centurion hull with a massive, boxy turret that any and all HE rounds in its tier spread can reliably penetrate. GB83 FV4005  Further complicanting things, the FV's camouflage is appallingly poor, comparable only to the largest artillery pieces and heavy tanks. GB83 FV4005 
+
+Last but not least, the FV4005 Stage II is a slow tank, with mediocre top speed and horrible reverse speed, as well as mediocre hull traverse and very slow turret traverse. GB83 FV4005 
+
+This is a fully dedicated support vehicle. GB83 FV4005  Given its characteristics, it is best used do deliver devastating hits to enemy tanks while relying on as much cover as possible to minimize return fire. GB83 FV4005  That being said, in the right conditions and with the cover of allies, an FV4005 Stage II that is allowed to make full use of its tremendous gun can be a nightmare to face on the battlefield. GB83 FV4005 
+
+
+|InTheGame_research=
+No research required, comes elite when bought. GB83 FV4005 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+
+The story of Britain's most powerful tank destroyer began in late January of 1951, when it was decided to develop a tank destroyer even more powerful than the FV4004 Conway, armed with a 120 mm L1A1 gun. GB83 FV4005  It was destined to become the most powerful tank destroyer ever built. GB83 FV4005  According to the requirements, it had to confidently penetrate a target with 150 mm of armour at 60 degrees from almost two kilometers away. GB83 FV4005  This target was based on the IS-3. GB83 FV4005  After appearing at the Victory Parade in 1945, this tank was considered the most dangerous opponent of Western tanks for decades. GB83 FV4005 
+
+Anti-IS QF L4 gun and its variants
+
+In order to meet these requirements, the designers had to find a much more powerful gun than the L1A1. GB83 FV4005  The British didn't bother with the small stuff & went right up to a caliber of 7. GB83 FV4005 2 inches (183 mm). GB83 FV4005  Using such a powerful caliber was no accident. GB83 FV4005  This new gun was based on the 183 mm BL 7. GB83 FV4005 2 inch Howitzer, which dates back to WWI. GB83 FV4005  Initially, the howitzer had a barrel length of 22. GB83 FV4005 4 calibers, but this was extended to 33. GB83 FV4005 1 calibers. GB83 FV4005  Unfortunately, even this extension was not enough to fight Soviet tanks. GB83 FV4005 
+
+In 1950, work started on the QF L4 gun, the most powerful tank gun in the world. GB83 FV4005  The gun weighed a little under 4 tons & had nearly 87 tons of recoil force. GB83 FV4005  In order to clear the fighting compartment of propellant fumes, the gun had a fume extractor fitted. GB83 FV4005  Only one type of shell was planned for this gun: HESH (High Explosive Squashed Head). GB83 FV4005  Not only is the caliber of the L4 stunning, but also the weight of the rounds. GB83 FV4005  The propellant was separate from the shell, but this didn't make the loader's job much easier: the mass of the shell was 72 kg, & the mass of the propellant was 32. GB83 FV4005 8 kg. GB83 FV4005 
+
+On November 9th, 1950, the War Office held a meeting to determine what vehicle this super-powerful gun would be placed on. GB83 FV4005  The meeting resulted in four variants:
+
+A fully armoured fighting machine (effectively a tank) with a fully rotating turret. GB83 FV4005 
+An SPG with powerful front armour, but a limited traverse angle. GB83 FV4005 
+An SPG with a fully rotating turret, but thin armour. GB83 FV4005 
+An SPG without armour. GB83 FV4005 
+Variant 1/2: FV215
+
+The contract to develop the first variant went to Morris and was later transferred to Vickers-Armstrong. GB83 FV4005  The chassis of the heavy FV200 tank was used, with the suspension from the heavy FV214 Conqueror tank. GB83 FV4005  The project had multiple names: Heavy Gun Tank No. GB83 FV4005 2, Heavy Anti-Tank SP No. GB83 FV4005 2, FV215 Heavy Anti-Tank SP No. GB83 FV4005 2 or simply FV215. GB83 FV4005  The index Heavy Gun Tank No. GB83 FV4005 2 was incorrectly interpreted by historians, resulting in a mythical project called FV215B. GB83 FV4005  In reality, all these indices pointed to the same vehicle armed with the 183 mm L4 gun. GB83 FV4005 
+
+This project combined the first and second variants. GB83 FV4005  Theoretically, the turret could rotate fully, but the gun was limited to firing within a 90 degree arc. GB83 FV4005  The turret was placed in the rear in order to prevent the huge barrel from sticking out too far. GB83 FV4005  The ammunition capacity was only 20 shells. GB83 FV4005  The rate of fire of the tank was supposed to reach 6 RPM. GB83 FV4005  but whoever set that requirement was a hopeless optimist. GB83 FV4005  The size of the turret did not allow for a loading mechanism, and loading that quickly by hand was not possible. GB83 FV4005  Aside from the gun, the tank had two machineguns: one coaxial and one AA machinegun on top of the turret. GB83 FV4005 
+
+The 65 ton vehicle was supposed to accelerate to 31. GB83 FV4005 7 kph. GB83 FV4005  In order to achieve this, the tank would have an 810 hp Meteor Mk. GB83 FV4005 12 engine. GB83 FV4005  As for the armour, it kept changing throughout the development process. GB83 FV4005  The thickness of the upper front plate varied between 125 and 152 mm, the sides were 50 mm thick (plus spaced armour). GB83 FV4005  As for the turret, the specification was only for the front, which was 254 mm (10 inches) thick. GB83 FV4005 
+
+The FV215 Heavy Anti-Tank SP No. GB83 FV4005 2 was not meant to be. GB83 FV4005  Morris was supposed to first build a full scale model and then two prototypes: one for mobility trials and one as a target for armour testing. GB83 FV4005  In June of 1954, Vickers-Armstrong, the new owner of the contract, was given the same task. GB83 FV4005  Development of the SPG continued until January of 1957. GB83 FV4005  At that point, the full scale model and 80% of the blueprints were ready. GB83 FV4005  But, the War Office got its own Khrushchev and the development of the FV215 Heavy Anti-Tank SP No. GB83 FV4005 2 was shut down in favour of ATGMs. GB83 FV4005 
+
+Variant 4: FV4005 Stage I
+
+As for the main subject of this article, the FV4005, work on it started a while later. GB83 FV4005  Interestingly enough, the third variant was rejected outright, and designers went to the unarmoured option. GB83 FV4005  This is linked to the fact that the required rate of fire of 6 RPM was unattainable without a loading mechanism. GB83 FV4005  Vickers-Armstrong decided to not reinvent the wheel and use a loading system similar to the one on the 104 mm QF 127/58 SBT X1 AA gun, better known as Green Mace. GB83 FV4005  The SPG with a 183 mm gun and an autoloader was known as FV4005 Stage I. GB83 FV4005  An altered chassis of the Centution Mk. GB83 FV4005 3 served as the base for the design. GB83 FV4005  A huge trail was added to the rear, lowered during firing, and the front plate received a travel lock for the gun. GB83 FV4005 
+
+After trials that primarily tested stability of the vehicle wile firing, this design was rejected. GB83 FV4005  It was decided that an SPG of this size that was completely devoid of armour was excessive, and even an automatic loader doesn't make it worth putting crewmen at such a risk. GB83 FV4005  The fully rotating turret was also rather deceptive, as the powerful recoil limited the firing angle of the gun. GB83 FV4005 
+
+Variant 3: FV4005 Stage II
+
+In July of 1955, specifications for a simpler 183 mm SPG were developed, the FV4005 Stage II. GB83 FV4005  The massive automatic loader was discarded, replaced with two loader crewmen. GB83 FV4005  Since even this variant couldn't carry more than 12 shells, this solution was considered acceptable. GB83 FV4005  The vehicle received a massive turret. GB83 FV4005  The height of the 50 ton SPG was 3. GB83 FV4005 6 meters, making it the tallest vehicle built in Britain. GB83 FV4005 
+
+The turret armour was only 14 mm thick, meaning that it couldn't reliably protect the crew from even a high caliber machinegun. GB83 FV4005  On the other hand, it was better than nothing. GB83 FV4005  The Stage II also had a coaxial machinegun, which improved its chances against enemy infantry. GB83 FV4005  A large turret was added to the rear of the turret to load ammunition. GB83 FV4005  The creators of the FV4005 Stage II designed a system to rapidly supply ammunition from trucks, which somewhat compensated for the small ammunition capacity. GB83 FV4005  The new turret was still installed on the Centurion Mk. GB83 FV4005 3 chassis with a trail and a travel lock for the gun. GB83 FV4005 
+
+In March of 1956, the FV4005 Stage II underwent trials to determine the stability of the vehicle when shooting. GB83 FV4005  32 shots were made at various elevations in the first round. GB83 FV4005  At an elevation of 0 degrees, the front of the vehicle moved up to 22 cm, and the rear up to 12 cm. GB83 FV4005  The greatest oscillations were reached at an angle of 3 degrees, when the front moved up to 27 cm and the rear up to 19 cm. GB83 FV4005  The trials were performed without a crew, who were replaced by mannequins. GB83 FV4005  The trials showed that shooting does not injure the crew. GB83 FV4005 
+
+As a result of the trials, a list of improvements was composed, futilely. GB83 FV4005  In August of 1957, the FV4005 program was closed. GB83 FV4005  Various theories exist for why the super-powerful tank destroyer program was shut down. GB83 FV4005  In reality, the reason was the same as with the FV215 Heavy Anti-Tank SP No. GB83 FV4005 2. GB83 FV4005  In 1958, the British army received Malkara ATGMs on light Humber Hornet cars. GB83 FV4005  The system was much more compact and mobile, making the 183 mm SPG a relic of the past. GB83 FV4005 
+
+After completion of the trials, both FV4005 prototypes were disassembled. GB83 FV4005  The Centurion Mk. GB83 FV4005 3 hulls were used for other programs and the gun systems ended up in training facilities. GB83 FV4005  The turret of the Stage II spent a lot of time in storage near the Bovington Tank Museum, and was only recently installed on a Centurion Mk. GB83 FV4005 8 chassis. GB83 FV4005  Even in this form, it is of great interest, serving as a epitaph for British tank destroyers. GB83 FV4005  The FV4005 Stage II stands near the eastern entrance to the museum. GB83 FV4005  Perhaps someday there will be funding to move it indoors and restore it. GB83 FV4005 
+
+|HistAcc=
+The FV4005 Stage II's turret could actually rotate 360 degrees. GB83 FV4005  FV4005 Stage I's gun however didnt rotate 360 degrees. GB83 FV4005 
+* HESH was the only ammunition of the 183 mm L4 gun. GB83 FV4005  The AP and HE shells are fake. GB83 FV4005 
+** Due to "balancing" reasons; the premium HESH round type was changed into HE in order to make sure it can deal damage to enemy tanks even if it hits spaced armor. GB83 FV4005 
+
+|HistoricalGallery=
+image:FV4005. GB83 FV4005 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+* Bill Munro, The Centurion Tank, The Crowood Press Ltd, 2005
+* David Flether, The Big Gun Centurions, Classic Military Vehicles, 10-2012, Key Publishing Ltd. GB83 FV4005 
+* Documents The Tank Museum, Bovington (TTM). GB83 FV4005 
+
+|Ref_links=
+* https://tankarchives. GB83 FV4005 blogspot. GB83 FV4005 com/2016/02/british-colossus-fv4005. GB83 FV4005 html
+* https://warspot. GB83 FV4005 ru/4393-britanskiy-ispolin-protivotankovaya-183-mm-sau-fv4005
+* https://warspot. GB83 FV4005 ru/4400-bovingtonskaya-bashnya
+}}

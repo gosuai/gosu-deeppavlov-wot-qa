@@ -1,0 +1,56 @@
+{{TankData|Tank=PzV_PzIV_ausf_Alfa
+|It was granted as a gift to those that were of service to WG early in WoT's development and is rather rare in battle. G32 PzV PzIV ausf Alfa  It is identical in all ways to the [[Pz. G32 PzV PzIV ausf Alfa Kpfw. G32 PzV PzIV ausf Alfa  V/IV]] but with the Greek Alpha symbol. G32 PzV PzIV ausf Alfa  It's based on a [[Pz. G32 PzV PzIV ausf Alfa Kpfw. G32 PzV PzIV ausf Alfa  V Panther]] hull with turret from the [[Pz. G32 PzV PzIV ausf Alfa Kpfw. G32 PzV PzIV ausf Alfa  IV Ausf. G32 PzV PzIV ausf Alfa  H|Pz. G32 PzV PzIV ausf Alfa  IV Ausf. G32 PzV PzIV ausf Alfa  H]]. G32 PzV PzIV ausf Alfa  Many players think it's similar to a buffed [[Pz. G32 PzV PzIV ausf Alfa Kpfw. G32 PzV PzIV ausf Alfa  III/IV]]. G32 PzV PzIV ausf Alfa  It has great mobility, decent acceleration and is well armored for its tier. G32 PzV PzIV ausf Alfa  Its weakness, however, is that it has very little turret armor, so a single well-placed howitzer or artillery shell will cause major damage. G32 PzV PzIV ausf Alfa  As a result, it's best to fully utilize the good gun handling to minimize exposure. G32 PzV PzIV ausf Alfa  Additionally, the penetration is nothing spectacular for its tier, so it's more effective to flank and target the enemy's rear and side, or to aim for weakspots. G32 PzV PzIV ausf Alfa 
+
+|InTheGame_pros=
+* Good mix of armor and mobility
+* Good gun, boasting high rate of fire, excellent gun handling, vertical guidance and decent if not good accuracy
+* High view range, comparable to the [[M4 Sherman]]
+* Fast turret traverse
+* High hit points
+* Excellent rammer against same-tier and lower vehicles
+
+|InTheGame_cons=
+* Large silhouette
+* Turret is significantly weaker than the hull
+* Poor gun penetration values
+* Mediocre damage per shell
+* Slow hull traverse
+
+|InTheGame_performance=
+
+The Pz. G32 PzV PzIV ausf Alfa Kpfw. G32 PzV PzIV ausf Alfa  V/IV Alpha's speed and decent turret traverse make this tank an effective flanker. G32 PzV PzIV ausf Alfa  The 7. G32 PzV PzIV ausf Alfa 5cm KWK L/48's penetration is on the lower side of all tier V medium tanks so getting around to the heavier enemies' sides and rear is vital. G32 PzV PzIV ausf Alfa  The Pz. G32 PzV PzIV ausf Alfa Kpfw. G32 PzV PzIV ausf Alfa  V/IV Alpha has exceptionally good gun handling, allowing it to make use of the good rate of fire. G32 PzV PzIV ausf Alfa  The hull is identical to that of the Panther, but having it on tier V results in solid frontal protection and side-scraping capabilities. G32 PzV PzIV ausf Alfa  The turret however, is like the standard PzKpfw IV ausf. G32 PzV PzIV ausf Alfa  H, meaning that it is one large weakspot and gets easily penetrated by anything this tank faces, except for some HE shells that might get pre-detonated by the armor skirt. G32 PzV PzIV ausf Alfa  Its upper hull can bounce some shots if angled well and its high health pool (second highest of all German tier V mediums) means it can brawl quite successfully if need be. G32 PzV PzIV ausf Alfa   This tank excels around ridgelines and in hilly terrain due to the excellent gun depression; just note that its gun can not be fully depressed when facing afront. G32 PzV PzIV ausf Alfa   The combination of speed, engine power and weight make the Pz. G32 PzV PzIV ausf Alfa  V/IV Alpha a formidable ramming weapon. G32 PzV PzIV ausf Alfa  A capable crew trainer/cash maker, but also fun to run, featuring the [[E-50]]'s playstyle at Tier V. G32 PzV PzIV ausf Alfa 
+
+|InTheGame_research=
+Premium vehicle, comes elite in its stock configuration. G32 PzV PzIV ausf Alfa 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Coated Optics
+
+|Gallery=
+image:Alpha_001. G32 PzV PzIV ausf Alfa jpg{{!}}Alpha_001
+image:Alpha_002. G32 PzV PzIV ausf Alfa jpg{{!}}Alpha_002
+image:Alpha_003. G32 PzV PzIV ausf Alfa jpg{{!}}Alpha_003
+image:Alpha_004. G32 PzV PzIV ausf Alfa jpg{{!}}Alpha_004
+
+|History=
+From July to September 1942, MAN produced two prototypes, only one of which was fitted with a turret. G32 PzV PzIV ausf Alfa   (It is believed that this turret was taken from a Panzer IV with its 75mm KwK 40 L/43 gun. G32 PzV PzIV ausf Alfa  All future Panther tanks mounted at least the 75mm KwK 42 L/70 gun. G32 PzV PzIV ausf Alfa  This tank is the one listed above and is sometimes referred to as the V2. G32 PzV PzIV ausf Alfa ) These were extensively tested and proved prone to many technical problems. G32 PzV PzIV ausf Alfa  At the same time, a first order for 1,000 tanks was placed, with the first tank expected in early 1943. G32 PzV PzIV ausf Alfa  In late 1942, a small pre-production series of 20 tanks was ordered. G32 PzV PzIV ausf Alfa  This was the Null-Serie, or Zero Series. G32 PzV PzIV ausf Alfa  Those 20 tanks were designated Panzerkampfwagen V Panther Ausfuehrung A and were technically different from later Ausf A production models. G32 PzV PzIV ausf Alfa  All were lightly armored with 60mm frontal armor and armed with the early version of the 75mm KwK 42 L/70 gun. G32 PzV PzIV ausf Alfa  This gun had a single-chamber muzzle brake from the 75mm KwK 40 L/43 gun and was mounted in a turret that featured a drum cupola that bulged the turret on the left side. G32 PzV PzIV ausf Alfa 
+
+For further information on the development of the Panther, please read about the [https://en. G32 PzV PzIV ausf Alfa wikipedia. G32 PzV PzIV ausf Alfa org/wiki/Panther_tank Panther]. G32 PzV PzIV ausf Alfa 
+
+An early model Bergepanther fitted with a bolted on PzKpfw IV Ausf H’s turret (that could not be traversed), served as a command tank of Schwere Heeres Panzerjager Abteilung 653 on the Eastern Front in early-/mid-1944. G32 PzV PzIV ausf Alfa 
+
+|HistoricalGallery=
+image:PzKpfw V-IV 1. G32 PzV PzIV ausf Alfa jpg{{!}}PzKpfw V-IV 1
+image:PzKpfw V-IV 2. G32 PzV PzIV ausf Alfa jpg{{!}}PzKpfw V-IV 2
+image:PzKpfw V-IV 3. G32 PzV PzIV ausf Alfa jpg{{!}}PzKpfw V-IV 3
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://overlord-wot. G32 PzV PzIV ausf Alfa blogspot. G32 PzV PzIV ausf Alfa com/2011/04/panzer-viv-alpha-is-in-game. G32 PzV PzIV ausf Alfa html Overlord Blog]
+
+}}

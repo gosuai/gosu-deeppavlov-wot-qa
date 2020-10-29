@@ -1,0 +1,98 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+-Highest top speed of tier 7 mediums
+
+-Good gun depression
+
+-Very high alpha damage with the 105mm cannon
+
+-The 75mm cannon has very good accuracy, gun handling and damage per minute, making it a competitive alternative to the 105mm cannon
+
+-Slope on frontal hull ricochets all <90mm guns due to angle
+
+|InTheGame_cons= 
+- Poor armour which is vulnerable against HE or >90mm caliber shells as they can overmatch the armor
+
+- The hitpoints pool is in the lower half of the tier 7 medium tanks, with only 1100 hitpoints
+
+- Suffers from module damage; ammo rack gets damaged frequently and engine can be damaged from front
+
+- Penetration is sub-par, just like the majority of tier 7 mediums
+
+- The 105mm cannon has poor aim time, accuracy, and shell velocity. S13 Leo  This can make it quite difficult to shoot at distant targets
+
+- Awful stock grind, especially the slow hull traverse and poor view range for a tank that relies on speed to survive
+
+|InTheGame_performance= 
+The way this tank plays depends on the gun. S13 Leo  With the 7. S13 Leo 5 cm it is a typical flanking medium, reminiscent of the [[Comet]] and the [[T-43]], compared to which it has better gun-handling. S13 Leo 
+With the 10. S13 Leo 5 cm gun, the Leo plays more like the [[A-44]], with better accuracy but worse penetration. S13 Leo  Unfortunately, unlike other tier 7 mediums with high-alpha guns, such as the [[T20]] and the [[Konštrukta T-34/100]], the Leo can not snipe effectively in this configuration, owing to the poor accuracy of the 10. S13 Leo 5 cm gun. S13 Leo 
+Compared to other tier 7 tanks it has less armour. S13 Leo  In particular, it lacks an effective gun mantlet, which makes the turret front vulnerable when working ridge lines. S13 Leo  
+
+|InTheGame_research= 
+The first gun upgrade carries over from the Strv 74 and should be mounted immediately. S13 Leo  This gun performs better than the stock gun and is already available
+
+Also the radios can be researched on earlier vehicles for immediate mounting. S13 Leo 
+
+First researched upgrade should be the suspension, improves hull traverse and acceleration by a decent level. S13 Leo  You also need it to mount more than 300kg worth of equipment (before unlocking the engines which saves a bit of weight)
+
+Next upgrades will be the engines, letting you play as a flanker and benefit from its best in class speed limit
+
+Final upgrade will be the 10. S13 Leo 5cm gun and turret. S13 Leo  You may not want to use the 10. S13 Leo 5cm gun on the long run but unlocking it is necessary to get the top turret which boosts the guns' specs and gives a bit of extra health. S13 Leo 
+
+|InTheGame_equipment=
+Coated Optics, Enhanced Gun Laying Drive, Improved Ventilation Class 2, Medium-Calibre Tank Gun Rammer
+
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|xHfULmiV1wo}}
+
+|History= 
+
+[[File:Strv_leo_blueprints_1. S13 Leo jpg]]
+
+By 1944, Sweden had access to a fairly large, but mostly outdated tank force. S13 Leo  Most of the tanks in the Swedish army were 10 ton light tanks and the new Stridsvagn m/42 medium tank was already becoming obsolete. S13 Leo  Therefore, it was decided to start a new series of projects to replace the ageing Swedish tanks. S13 Leo 
+
+Besides the plans for up-gunning the Strv m/42 with a 75mm autoloader and a 10,5cm self-propelled anti-tank gun based on the Strv m/42, there were also plans for two new vehicles in the 30 ton range. S13 Leo  The first one was a new medium tank, that was to be further development of the Strv m/42, with a long 75mm gun and a more powerful engine, the vehicle was also meant to be wider and to have an overall lower height. S13 Leo 
+The 2nd project was to be a new tank destroyer, that would be similar to the Pansarvärnskanonvagn m/43 but with much heavier armament. S13 Leo  The vehicle was to carry a modified version of the 10,5cm L/50 anti-aircraft gun, and the frontal armour was to be “especially thick”. S13 Leo 
+
+In 1945, discussions were held regarding the guidelines for the 30 ton tank. S13 Leo  The discussions concluded that the vehicle should be armed with a 7,5cm gun with a muzzle velocity of at least 1000m/s or a 10cm gun with a muzzle velocity around 850m/s. S13 Leo  Another interesting thing discussed was that the turret should have sloped sides and if possible, it should be cast as a dome shape. S13 Leo  The armour of the vehicle was estimated at around 70mm front, 35mm sides and 30mm rear. S13 Leo 
+
+In 1946, it was decided that the new 30 ton TD would serve as the basis for the chassis of the 30 tonne medium tank, a lighter 25 ton version of the medium tank is also proposed. S13 Leo  The 25 ton medium was to be frontally protected against 57mm guns and was to be able to mount appliqué armour to allow for protection from 75mm guns. S13 Leo  Soon, the design works on the new TD and medium tank start at Landsverk. S13 Leo  The TD was to have modern shape with heavily sloped armour all around, it was supposed to be armed with a high-power 10,5cm gun and to have top speed of 60 kph. S13 Leo  Attempts were made to acquire a foreign high power diesel engine, but the only company to respond was the British Rover company with their offer of a 620hp gasoline engine. S13 Leo  The vehicle was to share the same type of gun mount as the Pvkv m/43, with the main gun of equal performance to the 10,5cm L/50 anti-aircraft gun, but with the ability to fire sub-calibre ammunition. S13 Leo  The gun was to have good field of traverse of 15dg to each side, it was also supposed to have a 10dg depression and 25dg elevation. S13 Leo 
+
+The project continued well into 1947 and plans were made for the construction of a prototype. S13 Leo  Landsverk privately started to work on this prototype which they designated as TLP. S13 Leo  However, in 1947, the army decided that they no longer want vehicles in the 30 ton range and the project is effectively mothballed. S13 Leo  The project would later resurface in 1949, but at that point, it would be based on a completely different chassis, that is however a story for another time. S13 Leo  Instead, the idea of better sloped armour, that came from the TLP-46, was put to use in the Pvkv fm/48, a modernisation of the Pvkv m/43 hull, which was however also cancelled before reaching the prototype stage. S13 Leo 
+
+Depiction of the TLP-46 based on the Strv Leo and Pvkv fm/48
+
+[[File:Depiction_of_TLP-46_based_on_the_Strv_Leo_and_Pvkv_fm28. S13 Leo jpg]]
+
+Landsverk however continued to development the 25t medium tank, that was to share its chassis with the TLP-46 and offered it for export in 1948 as the Strv Leo. S13 Leo  The Leo was equipped with a 7,5cm anti-tank gun in a large turret, it was powered by a Volvo A8B 410hp engine and had a top speed of 55kph. S13 Leo  The frontal armour was well sloped and reached maximum thickness of 70mm. S13 Leo  The tank was offered to several countries, but no one bought the design. S13 Leo 
+
+Strv Leo
+
+[[File:Strv_Leo_blueprints_2. S13 Leo jpg]]
+
+Because of the rejection of the vehicles in the 30 ton range such as the Leo and the TLP-46, the development had to start all over again with a 20 ton tank, that would prove to be too light for the army’s needs and would itself reach 25 tons in its final version. S13 Leo  This indecision plaguing the military command in turn meant that Sweden would have no modern tanks from 1944 until the purchase of the Centurion Mk. S13 Leo 3 in 1953. S13 Leo 
+
+|HistoricalGallery= 
+File:Strv_leo_blueprints_1. S13 Leo jpg
+File:Strv_Leo_blueprints_2. S13 Leo jpg
+File:Strv_Leo_blueprints_3. S13 Leo jpg
+
+|HistAcc=
+One of the vehicle's proposed armaments, the 10. S13 Leo 5cm Stridsvagnskanon fm/49, is unavailable. S13 Leo 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S13 Leo wot-news. S13 Leo com/2014/05/12/swedish-tanks-part-ix-tlp-46-and-strv-leo/
+
+}}

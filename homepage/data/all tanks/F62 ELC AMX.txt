@@ -1,0 +1,124 @@
+{{TankData|Tank=ELC_AMX
+|The ELC AMX represents a rather dramatic reversal in French tank design philosophy. F62 ELC AMX   While the [[AMX 40]] and prior tanks were slow, with weak guns, and heavily armoured, the ELC is fast, well armed and lightly armoured. F62 ELC AMX   While it has laughable armour, its mobility is mediocre after 9. F62 ELC AMX 18, but it still has a high damage, good penetration 90mm for a Tier V light tank. F62 ELC AMX   Unlike most lights, however, it does not have a fully rotating turret with the 90mm mounted, making circling enemies much more difficult. F62 ELC AMX   Using either of the 75mm cannons the turret becomes fully rotational making circling the slower tanks easier, albeit now having lower penetration and accuracy. F62 ELC AMX   The AMX ELC is very light and has an okay engine, giving it acceptable acceleration, with 26. F62 ELC AMX 63hp/t. F62 ELC AMX   The AMX ELC usually has no problem reaching its top speed of 60km/h (however water and rubble significantly slow the AMX ELC down) and maintaining it on hard terrain (albeit ground resistances are terrible). F62 ELC AMX   Use your maneuverability to your advantage -- even if your turret can`t traverse all the way when using the 90mm you can still perform flanking maneuvers. F62 ELC AMX   Even if you survive a shot from an enemy tank your tracks and engine are easily damaged, so your duty as a scout can end very quickly if you get caught in the open. F62 ELC AMX 
+
+The AMX ELC bis is preceded by the [[AMX 40]]. F62 ELC AMX 
+
+|Gallery=
+
+File:AMX ELC bis scr 1. F62 ELC AMX jpg
+File:AMX ELC bis scr 2. F62 ELC AMX jpg
+File:AMX ELC bis scr 3. F62 ELC AMX jpg
+File:AMX ELC bis scr 4. F62 ELC AMX jpg
+File:AMX ELC bis scr 5. F62 ELC AMX jpg
+
+
+|InTheGame_pros=
+* Strong weapon hard-stats: very high damage, respectable penetration and decent fully aimed accuracy
+
+* Very low silhouette, can stay below the enemies guns right beside them and use small terrain features as cover
+
+* Excellent camouflage for a light tank; second only to the [[ELC EVEN 90]]
+
+* Often underestimated; good bait potential
+
+
+|InTheGame_cons=
+* Very poor protection and HP. F62 ELC AMX   Combined with the HP nerf it received, it won't take too much effort to destroy you
+
+* Cannot fully traverse with the top gun, along with an extremely limited traverse arc/depression
+
+* Top 75mm gun doesn't perform as well as the similar 75mm gun on the M24 Chaffee
+
+* Poor view/signal range (camouflage heavily helps view range however). F62 ELC AMX   Just two crew members also means it is easy to lose them before the tank itself. F62 ELC AMX 
+
+* Low sustained damage output, very poor accuracy while on the move and poor aim time. F62 ELC AMX   Also is very hard to flip right side up when overturned. F62 ELC AMX 
+
+|InTheGame_performance=
+
+* Very light weight at only eight tonnes. F62 ELC AMX   Ramming is ill-advised
+
+Everything you've come to know about French tanks changes with this vehicle. F62 ELC AMX  You'll have to forget about the armor of the AMX 40, but for the first time, you'll be able to move at high speed and use a great gun. F62 ELC AMX 
+
+Its ability to flank depends on your choice of gun. F62 ELC AMX   Both 75mm's can fully rotate as of Patch 9. F62 ELC AMX 18, though low penetration seriously limits their potential and require premium ammo with side shots. F62 ELC AMX   The powerful derp of the 90mm gun is also limited by the excruciating aim time and slow reload. F62 ELC AMX   It also has a typically French poor gun depression and elevation, limiting the value as a sniping gun. F62 ELC AMX  
+The 90mm cannon in its pseudo-turret can't challenge most heavy tanks from the front as it used to, but also means that the ELC is ill-suited to challenging other light tanks in anything less than ideal conditions due to the fact the turret has worse traverse than many non-turreted TD's and even some artillery. F62 ELC AMX   In addition your poor radio range means you are more dependent on allies to be closer to spot, something not always possible in many of the situations an ELC gets itself into. F62 ELC AMX  
+
+Active scouting is not recommended in all tiers due to the extremely low durability and one of the worst mobility among scout tanks since 9. F62 ELC AMX 18. F62 ELC AMX   However, scouting could still be done in a passive way: just utilize dense flora and the outstanding camo value well. F62 ELC AMX   In fact the size, weight, and play style of this tank are comparable to the French [[Renault UE 57]] tank destroyer. F62 ELC AMX   Keep in mind of how hard it is to hit you, as it could be useful in many situations. F62 ELC AMX   Be prepared to help teammates out by scouting, flanking, or drawing an enemy's attention away for an "easy kill". F62 ELC AMX   This tank MUST be coordinated with allies, let them know what you're trying to do before you do it, although you can proceed to what you NEED to do in hurry cases. F62 ELC AMX   Help allies out and the battlefield would technically be your team's turf. F62 ELC AMX 
+
+Avoid opposing fast mediums or same-tier light tanks -- they have enough performance to challenge your small stature and speed, and your pseudo-turret will be of no benefit. F62 ELC AMX   Vehicles such as the Chaffee and the VK 16. F62 ELC AMX 02 Leopard will have sufficient performance to catch, chase, and destroy you. F62 ELC AMX   In these cases you can easily expect to get rammed and killed and -- since 9. F62 ELC AMX 18 -- even fast mediums like the Cromwell can now gain on you (but at least the Cromwell can't hit you easily with its gun). F62 ELC AMX 
+
+Some of the most epic battles are when two ELC drivers find themselves face to face. F62 ELC AMX   You could compare this to a medieval jousting competition. F62 ELC AMX   Skill and luck are of the essence, however mounted equipment and experienced crew are welcome. F62 ELC AMX   Always try to get the first damaging shot; if you do, stay on the enemy’s tail and finish him; if you don’t, hit him, then try to break line of sight and finish him off after you reload. F62 ELC AMX   Remember, an ELC can almost always two-shot another ELC (RNG can, however, be trollish). F62 ELC AMX   And if you are a confident ELC driver, USE YOUR HANDBRAKE!  Not only in duels but overall -- an ELC that is confident in its handbrake turns is extremely deadly. F62 ELC AMX  
+
+INTERESTING FACT: In reality the AMX ELC bis was classed as a tank destroyer, not a light tank. F62 ELC AMX   If you install binoculars with a camo net then you can play this tank like a fast, stealthy TD. F62 ELC AMX   Move quickly from place to place, take a sniping shot before disappearing, only to reappear and take a shot again. F62 ELC AMX   You are practically forced to do this after 9. F62 ELC AMX 18!
+
+|InTheGame_research=
+* The '''ER 53''' radio carries over from the AMX 40, so it's available immediately. F62 ELC AMX 
+* First research the '''SOFAM de 180 cv''' engine for a significant increase in acceleration. F62 ELC AMX 
+* Research the '''75 mm SA44L''' for a much-needed penetration increase. F62 ELC AMX 
+* Research the '''90 mm D. F62 ELC AMX 915''', which is easily the best gun for this vehicle. F62 ELC AMX 
+* Upgrade the suspension last, as the added weight capacity is unnecessary, but gives a bit more traverse speed. F62 ELC AMX  As of 9. F62 ELC AMX 18, this is necessary for equipping camo nets and binos, as well as improving your now-mediocre manoeuvrability. F62 ELC AMX 
+* Now research the [[AMX 12t]], and prepare for another radical change in playstyle. F62 ELC AMX 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Binocular Telescope, Coated Optics, Camouflage Net
+
+|HistAcc=
+* The 90mm gun was the ELC's only primary armament, which the surviving prototype still carries today. F62 ELC AMX   The 75mm configurations are fictitious. F62 ELC AMX 
+* The ELC AMX's actual top speed is 80km/h. F62 ELC AMX 
+* The turret could only fully traverse 360° while stationary. F62 ELC AMX   In-game the 75mm guns can turn 360° even on the move. F62 ELC AMX 
+* Originally designed as tank destroyer, not a light tank. F62 ELC AMX 
+
+|History=
+
+The creation of the AMX ELC 90 for French airborne units reflected post-war France's desire to return to the superpowers club. F62 ELC AMX   The enormous colonial empire of the Fourth Republic was splitting at the seams, and the creation of highly mobile and well armed airborne forces was a pressing issue for the French army. F62 ELC AMX   What stopped this tank from entering mass production?
+
+The first attempt at an airborne tank was made right after the war. F62 ELC AMX   In November of 1946 a 12 ton tank project was completed, armed with a 75mm gun. F62 ELC AMX   The tank never got its wings, but further evolution of this design culminated with the AMX 13, the first truly mass produced French post-war tank, which is still in service in some countries. F62 ELC AMX 
+
+The next attempt at an airborne tank came almost 10 years later. F62 ELC AMX   In 1954 the Engin Léger de Combat (light fighting machine) program was launched to create a six ton tank, or rather a tank destroyer. F62 ELC AMX   Two companies made a bid for the ELC tender -- Ateliers de construction d'Issy-les-Moulineaux (AMX), a part of the DEFA conglomerate (later GIAT, now Nexter) and Brunon-Vallette (EVEN) from Rive-de-Gier, a small town south-west of Lyon. F62 ELC AMX   Both companies made unusual vehicles worthy of their own articles. F62 ELC AMX 
+
+AMX's engineers used the Hotchkiss CC-2 APC as their base, making their tank a relative of the German Spahpanzer SP 1C, created on the same basis. F62 ELC AMX   Indexed Chenillette 4–120SR, the AMX project was initially envisioned as a rather unusual design, similar to the American M50 Ontos. F62 ELC AMX   Presented in March of 1954, it was a two-seater vehicle armed with four 120mm recoilless rifles. F62 ELC AMX   AMX engineers didn't move this idea past paper, unlike EVEN ones, who made a similar vehicle. F62 ELC AMX 
+
+Another project was proposed in July of 1954, the Chenillette 6–105SR. F62 ELC AMX   The vehicle was radically redesigned and the armament was changed to six 105mm recoilless rifles. F62 ELC AMX   In both projects the driver was positioned forward and the turret rotated fully. F62 ELC AMX   This design also did not progress further than paper. F62 ELC AMX 
+
+The hero of this piece was first drawn on April 27th, 1954. F62 ELC AMX   The project was first called Chenillette biplace avec casemate tournante de 90 (two-seater tankette, 90 mm gun in a casemate turret) and had both crew members in the turret. F62 ELC AMX   On one hand this simplified the layout. F62 ELC AMX   The engine was placed in the front, which made the vehicle very compact. F62 ELC AMX 
+
+On the other hand this created a ton of problems. F62 ELC AMX   The turret could only rotate fully if the vehicle was still. F62 ELC AMX   The turret could not rotate on the move, as the driver would lose access to his controls and observation devices. F62 ELC AMX   In an attempt to solve this problem the driver was moved to a cockpit to the right of the tank's center. F62 ELC AMX   To achieve this the engine and transmission were moved to the rear, and the turret moved to the front. F62 ELC AMX 
+
+The driver would only inhabit his cockpit during battle; on the march he remained in the turret. F62 ELC AMX   However the battle conditions were so inhumane that AMX returned to their original idea. F62 ELC AMX   Interestingly enough, EVEN engineers managed to house their driver in this fashion. F62 ELC AMX 
+
+The first AMX ELC 90 prototype started trials in 1955. F62 ELC AMX   Instead of a tank destroyer, it was a tank . F62 ELC AMX  . F62 ELC AMX  . F62 ELC AMX   a curious tank, but a tank nonetheless. F62 ELC AMX   The vehicle received a 90mm D915 gun in a two-seater TC 910 turret developed by FAHM (Forges et Aciéries de la Marine et d'Homécourt). F62 ELC AMX   After two years of trials the AMX ELC 90 bis came to be. F62 ELC AMX 
+
+The vehicle differed noticeably from the prototype. F62 ELC AMX   The tank was equipped with roof-mounted smoke grenade launchers. F62 ELC AMX   The observation devices were redesigned, and the gun mantlet changed. F62 ELC AMX   The engine compartment roof and upper front plate changed, as well as the fenders and the equipment mounted on them. F62 ELC AMX   The number of road wheels per side grew to five. F62 ELC AMX 
+
+Trials continued until 1961 when the Engin Léger de Combat program was cancelled. F62 ELC AMX   The French army never received its airborne tank, even though the AMX ELC 90 bis was far from the worst tank for the role. F62 ELC AMX   Of course it had its problems, mainly with maneuverability of fire and convenience for the driver, but it was very appropriate for certain tasks. F62 ELC AMX   Finally, the even weirder M50 Ontos was not only produced, but actually fought. F62 ELC AMX 
+
+Both AMX ELC 90 prototypes survive to this day, but the fate of the first one is shaky. F62 ELC AMX   It was last seen in the forested storage yard of the Saumur tank museum in the mid-1980s. F62 ELC AMX   It is most likely still there, but there are no photos confirming the fact. F62 ELC AMX   As for the AMX ELC 90 bis it was much luckier. F62 ELC AMX   It currently resides in the ''Musée des Blindés'' ("Museum of Armoured Vehicles") in Saumur, France as one of the central exhibits in a room dedicated to unusual post-war designs. F62 ELC AMX 
+
+
+|HistoricalGallery=
+image:ELC AMX 1. F62 ELC AMX jpg{{!}}The four-wheeled variant of the ELC AMX
+image:ELC AMX 2. F62 ELC AMX jpg{{!}}The four-wheeled variant of the ELC AMX
+image:ELC AMX 3. F62 ELC AMX jpg{{!}}The four-wheeled variant of the ELC AMX
+image:ELC AMX 4. F62 ELC AMX jpg{{!}}The four-wheeled variant of the ELC AMX
+File:AMX_ELC_bis_foto_9. F62 ELC AMX jpg{{!}}Preserved AMX ELC Bis
+
+|Ref_references=
+
+
+|Ref_sources= 
+
+
+|Ref_links=
+
+* [https://www. F62 ELC AMX chars-francais. F62 ELC AMX net/new/index. F62 ELC AMX php?option=com_content&task=view&id=714&Itemid=36 '''<i>1955 ELC AMX at chars-francais. F62 ELC AMX net</i>'''] Photos, specs, and brief history of the AMX model ELC, in French. F62 ELC AMX 
+
+* [https://www. F62 ELC AMX jedsite. F62 ELC AMX info/tanks-echo/echo/elc_series/elc-series. F62 ELC AMX html '''<i>1955 ELC EVEN at jedsite. F62 ELC AMX info</i>'''] Photo of the original ELC EVEN model. F62 ELC AMX  Note the 5 road wheels, front-drive sprocket, driver view hatch in hull, and asymmetric 90mm gun, all substantial differences from ELC AMX model. F62 ELC AMX 
+
+* [https://preservedtanks. F62 ELC AMX com/Types. F62 ELC AMX aspx?TypeCategoryId=6260 '''<i>1955 ELC EVEN at preservedtanks. F62 ELC AMX com</i>'''] Several photos of the surviving variants of the EVEN model ELC including oscillating turret versions with twin 30mm cannon. F62 ELC AMX 
+
+* [https://www. F62 ELC AMX chars-francais. F62 ELC AMX net/new/index. F62 ELC AMX php?option=com_content&task=view&id=713&Itemid=36'''<i>1955 ELC EVEN at chars-francais. F62 ELC AMX net</i>'''] Photos, specs, and brief history of the EVEN model ELC, in French. F62 ELC AMX  Several photos of surviving variants of the EVEN ELC. F62 ELC AMX 
+
+* https://tankarchives. F62 ELC AMX blogspot. F62 ELC AMX com/2016/02/amx-elc-90. F62 ELC AMX html
+* https://warspot. F62 ELC AMX ru/4780-frantsuzskaya-yolka
+* https://warspot. F62 ELC AMX ru/4779-blizkoe-znakomstvo-s-amx-elc-90-bis
+
+}}

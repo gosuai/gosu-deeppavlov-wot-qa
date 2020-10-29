@@ -1,0 +1,63 @@
+{{TankData|Tank=S-51
+|Often nicknamed by the players as "The Unicorn" for its impressively long barrel when held upwards when aiming, right out of the box it has the [[SU-14-1]]'s upgraded gun. R15 S-51   It's rather slow when you first get it and performance will be sluggish, but once upgraded its mobility kicks in. R15 S-51   Most players agree that the S-51 is superior to the SU-14-1 for these reasons -- its mobility (especially when relocating to avoid becoming a counter-battery target), its agility in running from danger, and faster traverse speeds in switching between targets. R15 S-51   It also has a smaller profile than the SU-14, which helps it with camouflage. R15 S-51 
+
+|Gallery=
+image:S51 1. R15 S-51 jpg{{!}}S-51 front left view
+image:S51 2. R15 S-51 jpg{{!}}S-51 front right view
+image:S51 3. R15 S-51 jpg{{!}}S-51 back left view
+image:S51 4. R15 S-51 jpg{{!}}S-51 back right view
+image:S51-1. R15 S-51 jpg{{!}}S-51, map Malinovka
+
+|InTheGame_pros=
+* Highest damage in tier with 203mm gun (tied with the SU-14-1)
+* 203mm gun has high vertical shell arc
+* Relatively mobile for artillery; can relocate easily
+* Stock gun has fast reload and good DPM; it is preferred choice of many players
+
+|InTheGame_cons=
+* Very narrow gun traverse
+* Very long reload time with top gun
+* Very limited ammo capacity with top gun
+* Very slow aim time and very low accuracy with top gun
+* Entirely different play-style than the preceding KV-2, requiring SPG practice on other lines to be competent
+
+|InTheGame_performance=
+Along with its counterpart the SU-14-1 the S-51 carries a massive-for-its-tier 203mm gun, but it pays dearly for that power. R15 S-51   Like the G. R15 S-51 W. R15 S-51  Tiger (p) and SU-14-1 it has high damage for its tier (and is often overkill against tanks below its tier), but at the cost of low accuracy, long reload, and low mobility. R15 S-51   Therefore many people prefer the stock 152mm gun for its much faster reload, higher accuracy, and better DPM. R15 S-51   The ammo count is low -- only 12 rounds. R15 S-51   Bad accuracy and long aim time (which are both considerably worse on the top gun) and -- worst of all -- very narrow gun traverse, means that you must pre-aim targets well in advance and choose your shots carefully, as you won't get many of them. R15 S-51 
+
+|InTheGame_research=
+* The vehicle can hold the best gun, radio and engine in stock form, so you don't have to get the suspension
+* IF you want the 203 mm gun on this vehicle, you can research it first
+* Get the radio as it extends the radio range
+* Next, get the suspension; it gives you better turning speed and maneuverability and it's relatively cheap to research
+* Finally, get the engine
+* Even if you don't wish to use the 203mm gun, you should still research it. R15 S-51  You will need it on the [[SU-14-2]]
+
+|InTheGame_equipment=
+Large-Caliber Artillery-Shell Rammer, Camouflage Net, Enhanced Gun Laying Drive
+
+|History=
+On end of 1943, the GAU began the re-designing of mobile heavy duty self-propelled artillery systems. R15 S-51  Ten years earlier, it was supposed to arm a platform with the 203-mm howitzer model 1931, with production planned to resume at the factory "Bolshevik" in 1944. R15 S-51  If it succeeded, WPRA would get a mobile devastating weapon. R15 S-51  By order of the Commissar of weapons Ustinov in November 1943, a competition to develop self-propelled guns was announced, which received the semi-official title of "Knight". R15 S-51 
+
+Within weeks, some preliminary drafts were presented from plant № 100 NKTP, CB Uralmash, and TsAKB. R15 S-51  The first of them, created under the leadership of J. R15 S-51  J. R15 S-51  Kotin, was a self-propelled gun carriage with trailer that, in some ways, resembled the French GPF 194, but with a more powerful gun. R15 S-51 
+Draft CB UZTM had two options; a 203-mm howitzer B-4 on the chassis of the KV-1S (modernized draft SAC U-19) or two 152-mm howitzers on two SU-122 chassis. R15 S-51  Before using its gun, it was supposed to connect both chassis; preparation to firing was about 30-40 minutes, versus 20 minutes with the Kotin design. R15 S-51 
+It is clear that the development of plant number 100 and UZTM won't give adequate fire support due to its technological complexity. R15 S-51  In order to build a single prototype, only TsAKB submitted a draft SAU under the symbol "S-51". R15 S-51  The chassis of the KV-1S was considered for the base of the S-51, but it was quickly discovered that the length of the support-surface was insufficient and needed adjustment: a modified version with 7 or 8 rollers. R15 S-51  However, NKTP was reluctant to change its production because the amount of modifications required was relatively large, and the number of issued ACS was unlikely to be exceed several tens of units. R15 S-51  To this end, it was decided to establish a howitzer on the chassis of an unaltered KV-1S anyways, which was not the best solution. R15 S-51  The chassis did not undergo any major change, except for the engine. R15 S-51  The tank turret was dismantled, and a 203-mm howitzer B-4 was mounted on the open gun-carriage. R15 S-51  Because the weight of the 203 mm howitzer was slightly heavier than the weight of a fully-loaded turret, the full combat-load weight was almost 50 tons. R15 S-51  Thus, it was not expected to have good mobility. R15 S-51 
+
+The first prototype of the S-51 entered  factory tests in February 1944, conducted under the reduced program. R15 S-51  However, interest in high powered artillery was so great that it was still not finished was transferred to ANIOP. R15 S-51  Here, all of the major disadvantages of the S-51 were revealed. R15 S-51  Because of the high line-of-fire when firing, the self-propelled chassis was strongly swayed by inertia and would move to a lateral displacement. R15 S-51  The elevation angle was relatively small, and the recoil was so strong that the crew could not hold on their seats. R15 S-51  The severe recoil, large size and weight of its projectiles, and the extreme discomfort for the crew would require the installation of a rammer/loader. R15 S-51  In addition, the chassis of the KV-1S proved it was clearly not a good platform on which to install guns of this calibre. R15 S-51  After comparing all the data obtained in the COD, it was felt that the S-51 still be sent to production, but to no success. R15 S-51  First of all, the issue of using KV-1S chassis was resolved in December 1942: the required amount of modifications for heavy self-propelled guns was only possible with the serious alteration of serial machines. R15 S-51  Another important reason was the lack of the B-4 howitzer, which was not in production-scale numbers. R15 S-51 
+
+In return, engineers and design bureaus TsAKB plant number 100 had developed a version of an SPG on the chassis of a heavy tank, with the installation of a 152-mm howitzer BL-2. R15 S-51  A prototype self-propelled guns, named S-59, was made in early 1944 on May-June, and underwent range tests. R15 S-51  There is some discrepancy in the data on the type of equipment. R15 S-51  According to factory records, S-59 received the chassis and body from the IP-85, but according to a report on the tests, the self-propelled gun had the "improved chassis of the heavy KV tank ". R15 S-51  However, when firing a full charge, the S-59 began to have problems similar to that of the S-51, so mass production of the unit was not raised. R15 S-51  As a result, this direction in the development of ACS fire-power ended. R15 S-51 
+
+Nevertheless, the projects of heavy self-propelled guns continued to appear until the end of the war. R15 S-51  For example, on July 29 1944, head of the Leningrad branch TsAKB Igor Ivanov presented the "technical adjustment of the IEC preliminary draft of ACS", which was supposed to use the chassis of paired T-34 tanks and the 210 mm gun BR-17 or 208 mm howitzer BL-18 . R15 S-51  Based on a draft presented a year earlier of the proposed CB UZTM, this ACS differed by a more simple design. R15 S-51  This development by TsAKB aroused some interest in the leadership of the People's Commissariat of Arms, but the timing of the project was not realistic; a prototype self-propelled gun was required to be submitted not later than 30 September of that year, and thus failed at the challenge of Leningrad. R15 S-51 
+
+|HistoricalGallery=
+image:S51 pic1. R15 S-51 jpg{{!}}S51 prototype
+image:S51 pic2. R15 S-51 jpg{{!}}S51 prototype
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://www. R15 S-51 aviarmor. R15 S-51 net/TWW2/tanks/ussr/s51. R15 S-51 htm
+* https://tankarchives. R15 S-51 blogspot. R15 S-51 com/2017/03/s-51. R15 S-51 html
+* https://yuripasholok. R15 S-51 livejournal. R15 S-51 com/3061335. R15 S-51 html
+
+}}

@@ -1,0 +1,79 @@
+{{TankData|Tank=E-25
+|Also known as "Cockroach" -- a premium tank which, if tanks were personified, would be considered to be that of an impish nature. G48 E-25   An incredibly fast, agile, and stealthy tank destroyer, the E 25 brings an extremely high rate of fire to whatever part of the battle it visits. G48 E-25   Because of its low damage per shot the E 25 punishes unaware or distracted players disproportionately more than any other and is capable of borrowing tactics normally shown by fast medium and light tanks. G48 E-25   Don't be surprised if in a heated battle a player finds themself with a heavy tank fighting in front of it and an E 25 suddenly chipping away at their health from behind in what was supposed to be a safe area. G48 E-25   Use of such tactics allow the E 25 to disrupt a battlefield in such a way as to turn what was a stalemate into decisive victory. G48 E-25 
+This tank was removed from the in-game tech tree on 22/12/2014 and from the gift shop on 15/1/2015 [https://worldoftanks. G48 E-25 eu/en/news/pc-browser/46/e25-withdrawal-sales/ E 25: Withdrawal from Sales]. G48 E-25   Afterward it has appeared in the shop two times for a very short period and could be awarded from "large boxes" during the 2019 holiday event. G48 E-25 
+
+
+
+|InTheGame_pros=
+- Excellent mobility, able to keep up even with light tanks. G48 E-25 
+
+- Very low profile, hard to hit when moving. G48 E-25  
+
+- Incredible camo, one of the highest in the game. G48 E-25   Nearly impossible to spot when it's hiding behind a bush. G48 E-25 
+
+- Excellent aim time, accuracy, and shell velocity. G48 E-25   Amazing gun handling. G48 E-25 
+
+- Incredible DPM -- with good equipment and skills it is higher than the DPM of most tier 9 tanks!
+
+- Preferential matchmaking; never sees tier 9 battles. G48 E-25 
+
+- Premium ammunition cost is low. G48 E-25 
+
+- Armor can pull off some lucky bounces. G48 E-25 
+
+
+
+|InTheGame_cons=
+- Low alpha damage and poor standard ammo penetration for a tier 7 tank destroyer, but both are more than offset by all other stats, as well as availability of cheap premium ammo. G48 E-25 
+
+- Low ammunition count -- a player can easily find himself toothless. G48 E-25 
+
+- Hated with a passion by many players; becomes a primary target when spotted. G48 E-25   Artillery loves to catch you!
+
+- Very high momentum. G48 E-25   Tends to flip and slide even on hard ground. G48 E-25 
+
+- Trains only four crew members, which are compatible with just a few other German TDs ([[Tank:G09_Hetzer|Hetzer]], [[Tank:G17_JagdPzIV|Jagdpanzer IV]] and [[Tank:G99 RhB Waffentrager|Rhm. G48 E-25 -Borsig Waffenträger]])
+
+- Vulnerable against ramming, but can deal massive damage to light armored targets. G48 E-25 
+
+|InTheGame_performance=
+Overall the E 25 should be played as a very mobile sniper, or a passive scout in case of emergency. G48 E-25   It features an impressive 26. G48 E-25 62 hp/ton ratio, making it quite fast and allowing you to reach positions quickly, as well as climb into some hard to reach locations only light tanks normally can reach. G48 E-25   Distance is your friend, mostly because of your relatively very poor armor, but also because you sport top accuracy, allowing you to hit weak points even at distance. G48 E-25   Your gun has an extremely high RoF, which allows you to deal consistent damage against exposed enemies. G48 E-25   If you manage to destroy the track of a tank you'll be able to keep it stuck there until an enemy chases you off or until the target is destroyed. G48 E-25   If you find yourself in close combat you'll need to use your mobility and fast turning speed to push into the side or rear of the enemy, constantly shooting and removing its health with incredible speed. G48 E-25   You have no turret, so driving skills are vital in doing this correctly. G48 E-25 
+Bear in mind that your low penetration means you'll have trouble penetrating a handful of tier VII tanks, and most Tier VIII tanks from the front. G48 E-25   Luckily the low premium ammunition cost and very good accuracy and aim time should offset this, and even the heaviest of armor can eventually be damaged. G48 E-25   This tank has an insane capacity to be decisive, even against tier VIII enemies. G48 E-25   
+
+|InTheGame_equipment=
+Medium-Caliber tank gun rammer, Vents, Binocular telescope, Camouflage Net
+
+|External_Reviews= 
+*{{#ev:youtube|BGYV-fmDAwg}}
+
+|Gallery=
+
+File:E 25 scr 1. G48 E-25 jpg
+File:E 25 scr 2. G48 E-25 jpg
+File:E 25 scr 3. G48 E-25 jpg
+
+
+|History=
+
+The ''Entwicklung'' series, more commonly known as the E-series, was a late-World War II attempt by Germany to produce a standardized series of tank designs. G48 E-25   There were to be standard designs in six different weight classes, from which several specialized variants were to be developed. G48 E-25   This was necessitated by the extremely complex tank designs that had resulted in poor production rates and mechanical unreliability. G48 E-25   The E-series designs were simpler, cheaper to produce and more efficient than their predecessors, however their design involved only modest improvements in armor and firepower over the designs they were intended to replace, such as the Hetzer, Panther G, and King Tiger. G48 E-25 
+
+
+
+The E 25 was planned to be developed into a tank destroyer and reconnaissance tank. G48 E-25   The company Argus developed the vehicle whose design was very similar to the design of the Jagdpanzer Hetzer. G48 E-25   The five built [discrepancy -- it says above no prototypes were made] in Alkett were driven by the 12-cylinder Maybach HL 230 P 30 -- rated 700hp, designed to be able to reach 65 kilometers per hour. G48 E-25   The 26. G48 E-25 3-ton vehicle carried a four-man crew and was armed with the 7. G48 E-25 5cm PAK L70 gun. G48 E-25   Additionally there was the anti-aircraft flak -- a 2cm gun in a small rotating tower. G48 E-25   Later versions were supposed to mount a 10. G48 E-25 5cm Kw. G48 E-25 K. G48 E-25  L/28 gun. G48 E-25  
+
+|HistoricalGallery=N/A
+
+|HistAcc=
+The actual planned length, width and height of the E 25 is 5. G48 E-25 66m, 3. G48 E-25 41m and 2. G48 E-25 03m respectively. G48 E-25   In '''''World of Tanks''''', however, the E 25 is significantly smaller -- measuring only 4. G48 E-25 5m in length, 2. G48 E-25 78m in width, and 1. G48 E-25 75m in height. G48 E-25 
+* As no prototypes were built, many, if not all of the E 25's performance specs were made up by WG. G48 E-25 
+
+|Ref_references=
+
+
+|Ref_sources= *https://en. G48 E-25 wikipedia. G48 E-25 org/wiki/Entwicklung_series
+
+
+|Ref_links=
+
+
+}}

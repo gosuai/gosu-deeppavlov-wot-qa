@@ -1,0 +1,70 @@
+{{TankData|Tank=SU-26
+|This SPG was a favorite among many players. R66 SU-26   After update 0. R66 SU-26 8. R66 SU-26 6 a lot of changes applied for SPG's as a whole, making it more challenging to play. R66 SU-26   Though it's the slowest artillery in its tier it has a small silhouette, making it a moderately difficult target to hit. R66 SU-26   Its primary advantage is the turret -- although it turns slowly and has no armor it's the only Tier III artillery that has one. R66 SU-26   With this turret you don't need to traverse the whole tank to shoot at the enemy, thus making it harder to detect when hiding in a bush. R66 SU-26   The Su-26 has an impressive aim time and can shoot across the map. R66 SU-26   But the farther you shoot the harder it is to aim, and you may have to move closer to be effective. R66 SU-26   The gun -- although it has low damage per shot and low splash damage -- has the highest accuracy and quickest rate of fire among the Tier III SPG's, earning it the name "Popcorn Catapult of Doom". R66 SU-26   This makes for a fun play style: keep shooting at enemies without thinking, and if you miss simply shoot again. R66 SU-26   Overall this is a fun SPG to play. R66 SU-26  
+|Gallery=
+image:SU26a. R66 SU-26 jpg{{!}}Front right
+image:Su26b. R66 SU-26 jpg{{!}}Front left
+image:Su26c. R66 SU-26 jpg{{!}}Rear right
+image:Su26d. R66 SU-26 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Gun range: stock: 500m, second: 1150m, top: 1200m 
+* Has a turret, giving it a 360° gun arc (the turret turns instead of the tank)
+* Good signal range
+* Either a high firing arc or long range
+* Low ground resistance allows decent mobility
+* Can take a "pseudo turret mounted TD" role if needed
+
+|InTheGame_cons=
+* Upgrading the gun for accuracy and range flattens the gun arc
+* Lousy damage against strong armor
+* 122mm howitzer removed, thus having terrible firepower
+* Turret traverse is slow, though at least there ''is'' a turret
+
+|InTheGame_performance=
+The Su-26 starts out with the same gun as the [[SU-18]], which can be painfully weak at this tier. R66 SU-26   Since it uses the [[T-26]] chassis it uses the same engines as the T-26. R66 SU-26   The turret allows this SPG to be far more stealthy than other SPG's because it doesn't have to turn its chassis. R66 SU-26   Therefore you definitely want to use a Camo Net since you don't have to break the camo bonus by turning. R66 SU-26   Unfortunately it has the lowest range of all Tier III SPG's, so it has to get uncomfortably close to the fighting. R66 SU-26   Still, a turret on an SPG is an extremely rare feature, so many players choose to keep the Su-26 permanently. R66 SU-26   The turret allows you to use some special tactics -- you can position your SPG horizontally next to a rock, then move backwards to expose your turret to fire. R66 SU-26   When you start getting shot at simply move forward and hide behind the rock. R66 SU-26   In close combat the turret can give it an edge over other SPG's; either by popping out and firing or running away while keeping your turret and gun pointed the other way. R66 SU-26   If you can get beside turret-less tank destroyer or the M3 Lee you can often side scrape them though you might have some difficulty keeping up due to your low mobility. R66 SU-26   Your turret allows you to fire upon them while they can't return fire; however this is a risky tactic that should not be relied upon. R66 SU-26  
+
+Comparing this SPG to the other Tier III SPG's, the top gun has much worse damage, but much better penetration than any of the 105mm guns on its counterparts due to its 80mm pen AP round. R66 SU-26   This means that the SU-26 will do much better attacking less heavily armoured targets that this round can penetrate. R66 SU-26   (But note that the Su-26 and most other SPG's now only carry HE rounds as of several patches ago. R66 SU-26 )  Do not waste your shots on the well-armoured [[KV-1]] or similar vehicles unless you really need to pin them down -- the most you'll do is scratch the paint. R66 SU-26   Instead use your gun to soften up mediums and lights so they can be dispatched by your team. R66 SU-26   A French heavy or a side hit on a [[T1 Heavy Tank|T1 HT]] or [[M4_Sherman|M4]] can also be relied on for serious damage. R66 SU-26  
+
+|InTheGame_research=
+* The 71-TK-3 and 9RK radios carry over from the Su-18 and can be installed immediately
+* If you played the T-26 previously the T-26F engine will be available and can be installed immediately
+* If you haven't played the T-26 previously you should research the T-26F engine right away, skipping the T-26M
+* Mount the 76mm 1902/30 30 clb and then the 76mm 1902/30 40 clb because of its increased rate of fire, accuracy, and range
+* Lastly research the 12LL radio, which is quite helpful for seeing spotted enemy tanks
+
+|InTheGame_equipment=
+GLD, Camouflage Net, Medium-Caliber Artillery Shell Rammer
+
+|History=
+[[image:SU_26_tank_with_A-43_turret. R66 SU-26 jpg|thumb|200px|right|T-26 tank with A-43 turret]]
+The Su-26, also known as Su-T-26, Su-76P or Leningrad self-propelled gun, was produced in 1941 by the Factory of Hoisting-and-Conveying Machinery named after S. R66 SU-26 M. R66 SU-26  Kirov in Leningrad. R66 SU-26   According to one source (1) 14 were built, probably two with a 37mm gun and 12 with the 76. R66 SU-26 2mm regimental gun mod. R66 SU-26  1927. R66 SU-26   Another source (2) speaks of 15 built, with no mention of any 37mm gun. R66 SU-26 
+
+== Artillery tank Variants of the T-26 ==
+* T-26 mod. R66 SU-26  1931 with the A-43 welded turret developed by N. R66 SU-26  Dyrenkov. R66 SU-26   Note the ball mount for the DT tank machine gun. R66 SU-26   Leningrad. R66 SU-26   1933. R66 SU-26 
+
+* T-26 with the A-43 turret[42][43][44] - artillery T-26 or "tank of fire support" with a turret developed by self-taught inventor N. R66 SU-26  Dyrenkov at the Experimental Design Office of the Department of Mechanization and Motorization of the RKKA (UMM RKKA). R66 SU-26   Two types of turrets, armed with the 76mm regimental gun mod. R66 SU-26  1927 and DT tank machine gun in a ball mount, were assembled by the Izhora Factory. R66 SU-26   They were partially pressed and welded. R66 SU-26   The first variety was installed on the T-26 mod. R66 SU-26  1931 in February 1932, and the second type was used in November 1932 (in the last case, the rear armored plate of the under-turret box was made sloped). R66 SU-26 
+
+It was found that the A-43 turret was very tight for two crew members. R66 SU-26   It had an insufficient observation field, there was no turret ventilation (which made continuous gunfire difficult), and it was hard to rotate the turret manually. R66 SU-26   At the beginning of 1933 a new 76mm KT tank gun mod. R66 SU-26  1927/32 with reduced (from 900 mm to 500 mm) recoil length was installed into the A-43 turret. R66 SU-26   Nevertheless it was proven again that the turret was still a very tight place for crew members. R66 SU-26   In addition the ammunition stowage for 54 rounds was unsuccessful. R66 SU-26   As a result the military refused the A-43 turret. R66 SU-26 
+
+* T-26-4[45] — artillery tank with enlarged turret armed with the 76. R66 SU-26 2mm KT tank gun mod. R66 SU-26   1927/32 (some modern sources mention this tank as T-26A; "A" stands for ''artilleriysky'' or "artillery"). R66 SU-26   The turret was developed by the Bolshevik Factory (since February 1932 - by the Design Office of the established Factory No. R66 SU-26  174) in 1931-1932, and was installed on the T-26 mod. R66 SU-26  1931 in November, 1932. R66 SU-26   Unlike the A-43 turret the turret by Factory No. R66 SU-26  174 was much more convenient for the crew. R66 SU-26   The turret of the T-26-4 was quite similar to the main turret of the T-28 medium tank. R66 SU-26 
+
+[[image:SU_26_Factory. R66 SU-26 jpg|thumb|200px|right|Production of SP guns, equipped with a 76mm regimental gun, on the T-26 chassis. R66 SU-26  Leningrad. R66 SU-26  The Kirov plant]]
+The T-26-4 with the KT tank gun passed tests successfully and five vehicles were built in 1933-1934 as a pilot batch. R66 SU-26   Initially it was planned to arm three of these T-26-4s with the 76. R66 SU-26 2mm KT tank gun mod. R66 SU-26  1927/32, and the other two tanks with the 76. R66 SU-26 2mm PS-3 tank gun. R66 SU-26   The PS-3 tank gun was developed at the Experimental Engineering-Mechanical Department (OKMO) of the Factory No. R66 SU-26  174 by engineer P. R66 SU-26  Syachentov. R66 SU-26   The PS-3 had better specifications in comparison with the series-produced KT tank gun and also had several technical innovations (a foot firing switch, original training gear, traveling position-fixing, and a binocular optical sight). R66 SU-26   Armed with the PS-3 tank gun, the T-26-4 was tested in October 1933 but it was found that the PS-3 was too powerful for the T-26 light tank -- the turret race ring and hull roof were deformed during firing and the suspension springs were damaged. R66 SU-26   It was decided to arm the T-26-4 with the 76. R66 SU-26 2mm KT tank gun only. R66 SU-26   All five experimental T-26-4 artillery tanks were tested during military exercises near Leningrad in September 1934 before a scheduled series production of 50 such vehicles in 1935. R66 SU-26   But on September 19th, 1934 an incident with a T-26-4 took place: a blow-back because of shell case destruction during gun fire. R66 SU-26   Despite the fact that this defect was unrelated to turret design, the military representatives cancelled the order to produce the T-26-4. R66 SU-26   Also, the work to design the turretless AT-1 artillery tank armed with the powerful 76. R66 SU-26 2mm PS-3 tank gun began at that time. R66 SU-26   Nevertheless the T-26-4's turret construction was the design used in the series-produced [[BT-7A]] artillery tank. R66 SU-26 
+
+|HistoricalGallery=
+image:SU26 1. R66 SU-26 jpg{{!}}SU-26s being assembled
+image:SU26 5. R66 SU-26 jpg{{!}}A SU-26 supporting Russian infantry
+image:SU26 4. R66 SU-26 jpg{{!}}An abandoned SU-26
+image:SU26 3. R66 SU-26 jpg{{!}}SU-26
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. R66 SU-26 wikipedia. R66 SU-26 org/wiki/T-26_variants
+* https://www. R66 SU-26 armchairgeneral. R66 SU-26 com/rkkaww2/galleries/T-26/SU-26. R66 SU-26 htm
+}}

@@ -1,0 +1,58 @@
+{{TankData|Tank=GAZ-74b
+|It is very similar to the [[SU-76]] in characteristics, except that it mounts a larger gun and has a greatly increased gun arc. R25 GAZ-74b  Though not the fastest, it still proves effective speed for tier 4 TD. R25 GAZ-74b  The SU-85B is able to perform reconnaissance with intent to survive, unlike others that are often-times destroyed. R25 GAZ-74b  Should you see someone noteworthy, many players choose to remain hidden and keep the target marked for attack. R25 GAZ-74b  With a top speed of 43 km/h, and a view range of 310m, it has the ability to fire over long ranges and get away faster than most tanks in its tier, making it a great tank for sniping or hit and run tactics. R25 GAZ-74b  Either way, should you choose to scout or attack, the AP round is able to make quick work of low-tier tanks, and damage some larger ones. R25 GAZ-74b  The SU-85B is able to mount the D-5S 85-A and LB-2S guns, shooting 85mm rounds at a relatively high RPM. R25 GAZ-74b  As a TD, the 85B also has a camouflage bonus. R25 GAZ-74b  All this comes at the cost of HP and weak armour, meaning it can not really hold up to a lot of punishment. R25 GAZ-74b  The stock gun on 85B is the top gun of the [[SU-76]], and is highly recommended to upgrade the gun quickly to the 85 mm D-5S-85A, and then to the 85 mm LB-2S. R25 GAZ-74b 
+
+Update 9. R25 GAZ-74b 6 reduced SU-85B's view-range from 390 to 310 meters. R25 GAZ-74b  Now it should be better to stay behind, abandon scouting and accept the switch from delivering direct fire to relying on your allies' spotting skills. R25 GAZ-74b 
+|Gallery=
+image:SU-85B. R25 GAZ-74b jpg{{!}}Front right
+image:SU85b. R25 GAZ-74b b. R25 GAZ-74b jpg{{!}}Front left
+image:SU85B-c. R25 GAZ-74b jpg{{!}}Rear right
+image:SU85B-d. R25 GAZ-74b jpg{{!}}TRear left
+
+|InTheGame_pros=
+* Extremely good top gun in most categories, equivalent to a Tier V TD or Tier VI tank guns. R25 GAZ-74b 
+* Good acceleration, turn rates, and overall mobility
+* Good camouflage values
+
+|InTheGame_cons=
+* Nearly no armour, very vulnerable to HE shells
+* Limited gun depression and elevation
+* Stock gun is easily damaged
+* Ridiculously expensive guns, most costing above 50,000 credits
+
+|InTheGame_performance=
+The SU-85B is a long range sniper, much like its predecessor the [[SU-76|SU-76M]]. R25 GAZ-74b  Compared to his predecessor it has a better engine and a bigger punch, but it sacrifices top speed, accuracy, gun depression and elevation for it. R25 GAZ-74b  The SU-85B has much less problems with fast light tanks, partly due to its better performance and higher health, partly due to the fact that it will usually face larger and slower opponents. R25 GAZ-74b  Due to its much better acceleration it feels much more nimble and is able to reach its top speed within a few seconds. R25 GAZ-74b  It has a wider gun arc at the expense of less gun depression and elevation, which diminishes its performance on hilly ground. R25 GAZ-74b  The SU-85B is one of the few tanks with such a small gun elevation that it feels like a handicap. R25 GAZ-74b 
+
+While playing the SU-85B you should always remind yourself that you're driving a small but fast tin can with a huge gun. R25 GAZ-74b  Your only defences are your good camouflage and good mobility, so don't hesitate to run away if the enemy comes too close or when its foreseeable that the situation will turn against you. R25 GAZ-74b  Your biggest vulnerability are HE shells, as you will usually die from the first hit. R25 GAZ-74b  Consequently, the SU-85B is a common victim of arty fire, forcing the player to change position every few shots. R25 GAZ-74b  This isn't too much of a penalty as its awesome gun not only allows to snipe effectively but it can also kill most enemies within 2-3 shots, making the SU-85B a formidable ambusher. R25 GAZ-74b 
+
+
+|InTheGame_research=
+* The 57mm gun carries over from the SU-76. R25 GAZ-74b  Install it immediately as you will need the penetration. R25 GAZ-74b 
+* The 9RM radio also carries over from its predecessor. R25 GAZ-74b 
+* Research the engines first, as they are inexpensive and give you great mobility. R25 GAZ-74b 
+* Research the suspension. R25 GAZ-74b 
+* If you stay with the 57mm after researching the first 85mm is a matter of play style. R25 GAZ-74b 
+* Don't skip the second 85mm, or you will miss out on the best gun for any tier 4 tank. R25 GAZ-74b 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Binocular Telescope, Camouflage Net, Experimental Optics, Wear-Resistant Gun Laying Drive, Innovative Loading System, Enhanced Gun Laying Drive, Enhanced Torsion Bars 1 t Class, Cyclone Filter, Medium-Caliber Tank Gun Rammer, Binocular Telescope, Toolbox, "Wet" Ammo Rack Class 1
+
+|History=
+The SU-85B (really the GAZ-74b), was a prototype based on the SU-76. R25 GAZ-74b  The second variant (GAZ-74b), was similar to the SU-IT-76, recommended by NII-13. R25 GAZ-74b  The vehicle had a low silhouette, was well-armoured (45mm glacis plate) with sloped armour, and was armed with the 76 mm S-1 Gun (the same gun was mounted on the serially produced SU-76i). R25 GAZ-74b  The new tank killer was to receive the GMC-71 diesel engine. R25 GAZ-74b 
+
+The GAZ-74b was built, underwent factory testing, and on the whole approved by military personnel. R25 GAZ-74b  Under the designation SU-76-I (not to be mistaken for SU-76i) or SU-74, it was subjected to government tests. R25 GAZ-74b  However, in 1943, the arming of these vehicles with the 76 mm gun with a long barrel (41-calibres) was already considered inadequate for combat with heavy German tanks. R25 GAZ-74b  The cost significantly exceeded that of the SU-76, which was already being mass produced. R25 GAZ-74b  Therefore, the fate of the GAZ-74b was sealed. R25 GAZ-74b 
+
+|HistoricalGallery=
+image:SU-85B (GAZ-74) varient 1. R25 GAZ-74b gif{{!}}SU-85B (GAZ-74) variant 1
+image:SU-85B (GAZ-74) varient 2. R25 GAZ-74b gif{{!}}SU-85B (GAZ-74) variant 2
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+[https://henk. R25 GAZ-74b fox3000. R25 GAZ-74b com/Hetzer. R25 GAZ-74b htm Early Soviet TD design]
+}}
+
+[[Category:USSR Tanks]]

@@ -1,0 +1,69 @@
+{{TankData|Tank= Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII  VII
+| Simply called the '''Panzer 7''' or '''Panzer VII''', This Replaced the [[Tank:G42_Maus|Maus]]'s position as the new end of the Porsche/Krupp tank line in the 9. G134 PzKpfw VII 17. G134 PzKpfw VII 1 patch. G134 PzKpfw VII 
+
+Basically, It's the [[Tank:G92_VK7201|VK 72. G134 PzKpfw VII 01 (K)]] with a different gun. G134 PzKpfw VII  It carries a 12. G134 PzKpfw VII 8cm gun with better penetration and rate of fire than [[Tank:E 100|E 100]]'s, but with lower alpha damage, This gun is very similar to the top gun of the Jagdtiger, but has lower penetration and rate of fire. G134 PzKpfw VII  Unlike the other German Superheavy tanks, It doesn't have all-around protection. G134 PzKpfw VII  Instead, it provides very tough and sloped frontal hull armor and a tough rounded turret, It doesn't have the lower plate as weakspot, But it has weak and flat side and rear armor that makes this tank very vulnerable to flanking. G134 PzKpfw VII 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Insanely thick and sloped upper plate (400mm effective!) and side armor is thick enough to do sidescraping. G134 PzKpfw VII 
+
+- Unlike most of German tanks its lower glacis, despite lacks of angling, is thick enough to withstand most regular shots (270 mm effective when not angling the tank). G134 PzKpfw VII 
+
+- High HP pool (2500)
+
+- Decent mobility for its weight (33KM/H)
+
+- Great alpha and penetration
+
+- Its "ears" (boxes on the side of the turret) are not included as part of the tank's armor layout, But they may trick enemies into shooting at them, and wasting their ammo
+
+|InTheGame_cons= 
+
+- Long reload time (15. G134 PzKpfw VII 3 seconds with 100% crew), worst dpm of all Tier X heavies
+
+- Side and Rear armor is flat, Very vulnerable to flanking if not angled
+
+- Turret base armor is weak, and can be exposed when peek-a-boom or sidescraping
+
+- Inner gun mantlet is weak and can be penetrated often
+
+|InTheGame_performance= 
+
+The Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII VII is a tank requiring a discreet amount of knowledge on game mechanics to show its full potential. G134 PzKpfw VII  Arising from the dreaded [[VK 45. G134 PzKpfw VII 02 (P) Ausf. G134 PzKpfw VII  B]], it is possible for standard players to believe that the Pz. G134 PzKpfw VII VII is a powerful side scraping juggernaut. G134 PzKpfw VII  It is important to understand that before playing this tank, one must know this is not the case. G134 PzKpfw VII  Both flanking sides of the armour may show as presumably strong and able on statistics, however the in-game exposure to a substantially weak turret ring is very common when being outflanked by superiorly mobile enemies. G134 PzKpfw VII  The turret ring and most viable port and starboard locations of the hull is also penetrated with regular rounds from even Tier VIII tanks, make it an astonishing surprise. G134 PzKpfw VII  One must also take priority note that within the turret ring, is a vulnerable ammunition rack that can be at risk of detonation upon damage. G134 PzKpfw VII  Most players utilising this tank usually would have a loader trained in Safe Stowage in the appropriate case of ammunition explosion. G134 PzKpfw VII 
+
+The lower plate, to many players surprise that often play German tanks, is incredibly useful and works perfectly against a majority of regular armour-penetrating shells. G134 PzKpfw VII  However, this is mostly overcome against many foes that utilise both Armour Piercing Composite Rounds (APCR) and High Explosive Armour Piercing shells (HEAT). G134 PzKpfw VII  Hull down tactics are very relevant in this scenario. G134 PzKpfw VII 
+
+This tank is a beast when you minimize your total area that's exposed to enemy fire especially on hull down position: your upper plate is almost impenetrable, whilst giving the benefit with a standing gun depression that is enough to retaliate against enemy tanks (-7°, but remember when the gun is upon the upper plate gun depression decrease to -5°). G134 PzKpfw VII  One must take into account of the inner gun mantlet that is only 200 mm thick, with the cupola being a weak spot. G134 PzKpfw VII  This is usually nullified when in hull down positioning. G134 PzKpfw VII  
+
+It is also important for a player within this tank to always stay on the move, for a multitude of hostile tanks will have difficulty facing against a heavily armoured frontal foe. G134 PzKpfw VII  Furthermore, the Pz. G134 PzKpfw VII VII has does not rely on a high DPM rating, so it works best in a defensive capability utilising high alpha damage or by working in concert with other tanks while pushing down a chosen front. G134 PzKpfw VII  In the end, the Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII  VII is like Dr Jekyll and Mr Hyde: really strong against vehicles unable to defeat whilst well positioned and ready, but must adapt against vehicles that are able to exploit the Pz. G134 PzKpfw VII VII's weaknesses, upright. G134 PzKpfw VII 
+
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Vertical Stabilizer, Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|HistAcc=
+Since it shared its '''Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII  VII''' codename with '''[[Tank:G51_Lowe|Löwe]]''', This tank is likely based on '''"Leicher Löwe"''', a light weight version of Löwe, But it had higher armour strength that its '''"Heavy"''' counterpart. G134 PzKpfw VII 
+
+* In-game description said that it was upgraded version of Löwe. G134 PzKpfw VII  But, Actually, It was planned to be a cheaper and mass-production variant of Löwe. G134 PzKpfw VII 
+* Its actual weight is only 77 tons. G134 PzKpfw VII 
+* Its actual maximum speed is only 27 KM/H
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

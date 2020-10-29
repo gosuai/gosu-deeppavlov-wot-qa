@@ -1,0 +1,58 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Very good gun handling, two-shot autoloader with very fast shell cycling and magazine reload
+* Fires high velocity APCR as standard ammo, HE penetration is high
+* Great agility while in cruise mode, and great top speed and hp/t in rapid mode, best top speed on tier 8 (with Lynx)
+* Very good camouflage values, while being spotted its hard to hit when played mid to long range and while beeing in full speed
+* The wheels often absorb HE shots and they work as an quite effective spaced armour; when expecting to get shot by HE, try to expose sides with wheels rather than front or back. F106 Panhard EBR 75 Mle1954  In contrary belief the wheels do not "absorb" standard shells, rather because the vehicle's hull is quite high off the ground if a shell hits the metal wheels on the lower half it misses the armor model, causing a "critical hit" without damage. F106 Panhard EBR 75 Mle1954  Same for the 4 drive wheels, but even more extreme because their model extends far beyond of that from the hull. F106 Panhard EBR 75 Mle1954  
+
+
+|InTheGame_cons= 
+
+* Very thin armor and low healthpool, relies on concealment and mobility to survive
+* Terrible base viewrange, all view range buffs are recommended 
+* High player skill cap - active scouting experiences are often necessary, situation awareness is a must
+* Vulnerable to non-combat damage such as accidental rammings, falls or flips
+* Becomes slower and clumsier (and therefore more vulnerable) the more wheels it loses (repair skill compensates this)
+
+
+|InTheGame_performance= 
+{{VideoYT|0ahRIve2gC8}}
+
+|InTheGame_research= 
+Premium vehicle, comes elite in stock configuration. F106 Panhard EBR 75 Mle1954 
+
+|InTheGame_equipment=
+Improved Ventilation, Vertical Stabilizer, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Panhard EBR (Panhard Engin Blindé de Reconnaissance, French: Armored Reconnaissance Vehicle) is an armoured car designed by Panhard for the French Army and later used across the globe, notably by the French Army during the Algerian War and the Portuguese Army during the Portuguese Colonial War in Angola, Mozambique and Guinea-Bissau. F106 Panhard EBR 75 Mle1954 
+
+The EBR is an 8x8 wheeled reconnaissance vehicle designed before the Second World War, but with production only commencing afterwards, with over 1200 vehicles being manufactured after 1954. F106 Panhard EBR 75 Mle1954  While being lightly armoured, the EBR was armed with the 90 mm FL-11 or 75 mm cannon known as the FL-10 or L/48 in a novel oscillating turret and supported by up to four 7. F106 Panhard EBR 75 Mle1954 5 mm machine guns, one co-axial, one operated by the driver, one by the co-driver and one by the commander, though the latter was not found on all EBRs. F106 Panhard EBR 75 Mle1954  The EBR had a crew of four (including two in the turret)
+
+|HistAcc=
+The 75 mm SA50 is actually the same gun on the [[Tank:F16_AMX_13_75|AMX 13 75]], yet the penetration, damage and weight values are inconsistent. F106 Panhard EBR 75 Mle1954  Ammo types are also inconsistent with the AMX 13 75. F106 Panhard EBR 75 Mle1954 
+
+|HistoricalGallery= 
+
+|InTheGame_performance=
+
+Switch between roles of scout and support damage dealer as team needs. F106 Panhard EBR 75 Mle1954  Best top speed on tier 8 and awesome acceleration allows very fast repossitioning and surprising enemies. F106 Panhard EBR 75 Mle1954  Very good at finishing lonely wounded targets, can circle vast majority of tanks. F106 Panhard EBR 75 Mle1954  Can have huge impact in late game if majority of hit points are remaining. F106 Panhard EBR 75 Mle1954 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links= https://en. F106 Panhard EBR 75 Mle1954 wikipedia. F106 Panhard EBR 75 Mle1954 org/wiki/Panhard_EBR
+
+}}

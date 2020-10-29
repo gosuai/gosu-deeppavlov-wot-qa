@@ -1,0 +1,57 @@
+{{TankData|Tank=Wespe
+|It is an excellent SPG for its tier. G19 Wespe  It is somewhat accurate and has a good gun with a high alpha damage for an SPG. G19 Wespe   Its traverse speed is slow, and the engine has low horsepower, so it requires good positioning at the beginning of the battle; it takes time to change position. G19 Wespe  Later SPGs are significantly faster. G19 Wespe 
+
+|Gallery=
+image:Wespe front view 2. G19 Wespe jpg‎{{!}}Wespe front right view
+image:Wespe back view 1. G19 Wespe jpg‎{{!}}Wespe back left view
+image:Wespe back view 2. G19 Wespe jpg‎{{!}}Wespe back right view
+
+|InTheGame_pros=
+* Amazing gun range for its tier 
+* Decent 105 howitzer with high alpha, decent accuracy & handling and acceptable RoF
+* Very sloped upper glacis and thick lower glacis, might come in handy in self defense
+* Wide gun arc
+
+
+|InTheGame_cons=
+* Somewhat slow speed and sluggish traverse
+* Very weak superstructure
+* Low view range
+
+|InTheGame_performance=
+In most aspects superior to the [[Sturmpanzer I Bison]], the Wespe is the German tier 3 artillery of choice. G19 Wespe  Featuring the common 105mm howitzer among early tier SPGs, it has moderate accuracy, handling and reload rate with decent damage potential that could one-shot even some tier 5 vehicles if the shell fully penetrates. G19 Wespe  
+
+|InTheGame_research=
+* The FuG Spr. G19 Wespe  1 radio carry over from the PzKpfw III E or the Luchs, while the top engine is shared with the Pz. G19 Wespe I C or the Pz. G19 Wespe II G. G19 Wespe  Install these if already available. G19 Wespe 
+* Research the suspension first for improved maneuverability and weight capacity. G19 Wespe 
+* Next, research the second gun for boost in accuracy. G19 Wespe 
+* If you don't have the radio, consider researching it for easing the grind down the Luchs line. G19 Wespe 
+* Go from there. G19 Wespe 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|History=
+[[image:Wespe pic1. G19 Wespe jpg|thumb|200px|left|Wespe SPG]]
+In the early 1942, the Panzerkampfwagen II (Sd. G19 Wespe Kfz. G19 Wespe 121) light tank was withdrawn from frontline Panzer units and relocated to second line duties after being in service since 1936. G19 Wespe  That step provided the opportunity to use its reliable chassis and components for conversions such as the Marder II tank destroyer and Wespe. G19 Wespe  Alkett designed the Wespe in mid 1942, and its practical design was chosen over other designs based upon the Panzerkampfwagen III or Panzerkampfwagen IV’s chassis. G19 Wespe  Wespe (Wasp) was a light self-propelled gun armed with a 105mm light field-howitzer and based on the unmodified and modified Panzerkampfwagen II Ausf F chassis. G19 Wespe  Wespe received the designation Sd. G19 Wespe Kfz. G19 Wespe 124, but was also known as the 10. G19 Wespe 5cm le FH18/2 Fahrgestell auf Geschützwagen PzKpfw II and as the Leichte Feldhaubitze 18/2 auf Fahrgestell PzKpfw II (Sf). G19 Wespe 
+
+The main idea behind the design of Wespe was to provide all mobile formations with proper and indirect artillery support. G19 Wespe  Wespes were to operate behind the frontlines and were not to engage enemy vehicles, however, they carried armor-piercing ammunition in case of an encounter. G19 Wespe  Like artillery, the Wespe operated in batteries and received orders and directions from forward observers by radio or field telephone: reducing the risk of being exposed to direct enemy fire. G19 Wespe 
+The Wespe was based on the regular Panzerkampfwagen II Ausf F light tank chassis and on modified Panzerkampfwagen II Ausf F chassis'. G19 Wespe  Both versions used many standard components of the Panzerkampfwagen II Ausf F light tank. G19 Wespe  Ausf F was the last variant of Panzerkampfwagen II to enter full-scale production. G19 Wespe  Ausf F was produced by FAMO of Breslau (Wroclaw) and some 1400 chassis were manufactured, while 524 were completed as tanks from 1941 to 1943. G19 Wespe  This model featured increased armor protection and other modifications based on battle experience. G19 Wespe 
+
+The early version of the Wespe was based on a regular tank chassis with engine moved forward (to a more central location) and the suspension reinforced in order to absorb the stress from firing-recoil. G19 Wespe  The later version was based on a modified chassis with a slightly lengthened (by 220mm) hull, engine and radiators moved forward (to more central location), and the suspension reinforced to absorb the stress from firing-recoil. G19 Wespe  The longer hull resulted in an increase in the space between the last road-wheel and idler. G19 Wespe  Modified chassis' were known as Geschützwagen II - Gun Vehicle / Gun Carriage IIs. G19 Wespe  The configuration of the driver compartment was changed during production, creating two variants as well. G19 Wespe 
+
+|HistoricalGallery=
+image:Wespe_pic2. G19 Wespe jpg‎{{!}}Wespe
+image: Wespe_pic3. G19 Wespe jpg‎{{!}} Wespe
+
+|Ref_references=
+
+
+|Ref_sources=
+* https://www. G19 Wespe army-guide. G19 Wespe com/eng/museum_product481. G19 Wespe html
+
+|Ref_links=
+
+}}
+
+[[Category:German Tanks]]

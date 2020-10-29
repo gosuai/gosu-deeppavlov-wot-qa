@@ -1,0 +1,93 @@
+{{TankData|Tank= 
+
+|The '''Strv 103-0''' is a vast improvement over the [[Tank:S21_UDES_03|UDES 03]]. S10 Strv 103 0 Series  It offers much more reliable protection than its predecessor. S10 Strv 103 0 Series  Its stock gun is carried over from the UDES 03, and it also shares its top gun with its brother; the [[Tank:S11_Strv_103B|Strv 103B]]. S10 Strv 103 0 Series  Both guns provide fantastic penetration and alpha, with great rate of fire. S10 Strv 103 0 Series 
+
+Although it is much easier to maneuver, it still suffers from the downside of a hydraulic suspension. S10 Strv 103 0 Series  It also has horrible gun handling in travel mode and horrible mobility in siege mode. S10 Strv 103 0 Series 
+
+If played correctly, the Strv 103-0 is an impressive tank hunter that will unleash death upon its enemies. S10 Strv 103 0 Series  It prepares you for an even more impressive tank hunter: '''[[Tank:S11_Strv_103B|Strv 103B]]'''. S10 Strv 103 0 Series 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Highest penetration of all tier 9 tanks with the top gun (308). S10 Strv 103 0 Series 
+
+- It is the only Tier 9 tank destroyer which uses APCR as default ammunition. S10 Strv 103 0 Series 
+
+- Good mobility and traverse speed, especially in rough terrain. S10 Strv 103 0 Series 
+
+- Has 40mm of armor, which provides great protection in siege mode versus all guns with calibre 120mm or below (as long as they are shooting AP or APCR)
+
+- Lowest chance of catching fire in the game (only 10%!). S10 Strv 103 0 Series 
+
+- High reverse speed (45 km/h). S10 Strv 103 0 Series  It is almost the same as the forward speed (50 km/h). S10 Strv 103 0 Series  In combination with great sloped armour, you can reverse escape which makes you less vulnerable to enemy fire. S10 Strv 103 0 Series 
+
+|InTheGame_cons= 
+- Less speed than UDES, both forward and reverse (50/45 km/h). S10 Strv 103 0 Series 
+
+- Low HP pool (1500). S10 Strv 103 0 Series 
+
+- Although its mobility in Siege Mode is better than its predecessor, it's still terrible. S10 Strv 103 0 Series  It makes you very vulnerable in close range combat. S10 Strv 103 0 Series 
+
+- Despite having high nominal penetration, your shots will bounce often when shooting even slightly angled armor at this tier, due to APCR rounds having lower normalization that AP. S10 Strv 103 0 Series 
+
+- Very long aim time in travel mode on both guns, as well as no horizontal gun movement, which forces you to move to shoot new targets, and greatly lose accuracy while doing so. S10 Strv 103 0 Series 
+
+- Expensive repair cost makes it easy to lose money. S10 Strv 103 0 Series 
+
+- Guns with calibre above 120mm (many Russian/Chinese/Japanese vehicles) will overmatch your armor easily. S10 Strv 103 0 Series 
+
+- Juicy target for SPGs, especially in siege mode. S10 Strv 103 0 Series 
+
+- HEAT ammo, even from lower calibre guns, can penetrate you due to higher autobounce threshold required compared to AP or APCR. S10 Strv 103 0 Series 
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+You barely need any research for the Strv 103-0. S10 Strv 103 0 Series  The stock gun already has the best-in-tier penetration, good ROF and damage. S10 Strv 103 0 Series  Upgrading from L/51 to L/62 adds a buff in penetration (288 -> 308) and a minor buff to the shell velocity (1450 m/s -> 1500 m/s). S10 Strv 103 0 Series  But the stock tracks can't even take the weight of all 3 equipments. S10 Strv 103 0 Series  You can take Binocular Telescope, but you will have to choose between Gun Rammer or Camouflage Net until you upgrade the tracks. S10 Strv 103 0 Series  Since the ROF is already great, using Camouflage Net to keep being hidden is the better choice. S10 Strv 103 0 Series 
+
+You have to research the tracks first, then research the gun before the engine, considering the 288 penetration could be a bit underwhelming against tier 10 superheavies such as Maus or E-100. S10 Strv 103 0 Series  Also, the tank is already quite mobile and it is only really effective in siege mode (which is mostly stationary), so you won't miss having a less powerful engine while you penetrate most of your shots in siege mode. S10 Strv 103 0 Series 
+
+(Current Build Patch 0. S10 Strv 103 0 Series 9. S10 Strv 103 0 Series 17. S10 Strv 103 0 Series 1)
+
+
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|Z2DcINF1xuw}}
+
+|History= 
+Background
+In the mid-1950s, the Kungliga Arméförvaltningens Tygavdelning put out a contract tender for next generation tank design to replace their Centurions. S10 Strv 103 0 Series  A consortium of Landsverk, Volvo and Bofors responded with a suggestion to revive an earlier domestic heavy tank design, known under the codename KRV, fitted with a 155 mm smoothbore gun in an oscillating turret. S10 Strv 103 0 Series  However, this was deemed too expensive in comparison to the alternatives: A(ngloamerican), which was to purchase a 50-ton tank with high protection and mediocre mobility from either U. S10 Strv 103 0 Series K. S10 Strv 103 0 Series  or U. S10 Strv 103 0 Series S. S10 Strv 103 0 Series A. S10 Strv 103 0 Series  Alternative T(ysk-fransk /German-French) was a 30-ton tank with low protection and good mobility. S10 Strv 103 0 Series  Then, in 1956, Sven Berge of the Swedish Arms Administration proposed Alternativ S, a domestic alternative (S standing for Swedish). S10 Strv 103 0 Series 
+
+==Development==
+In preparation for the defence decision of 1958 (Försvarsbeslut 1958 (FB58)) in the Swedish parliament (Riksdagen), the procurement set Alternativ S against the two foreign alternatives Alternativ A and Alternativ T. S10 Strv 103 0 Series  While the domestic alternative was going to be more expensive, the defence committee report recommended "S" when weighing in the symbolic value of a domestic tank for a neutral country as well as the spin-off effects on Swedish industrial competence. S10 Strv 103 0 Series  Riksdagen made the formal decision regarding FB58 on 4 February 1958, and a follow-on contract called for two production prototypes, which were completed in 1961. S10 Strv 103 0 Series  By this point, the army was so satisfied with the design that an initial pre-production order for 10 was placed in 1960. S10 Strv 103 0 Series  With minor changes, the Alternativ S was adopted as the Stridsvagn 103 ("103" from being the third tank with a 10 cm calibre gun accepted into Swedish service). S10 Strv 103 0 Series 
+
+The Stridsvagn 103 (strv 103), also known as the S-Tank, was a Swedish post-war main battle tank. S10 Strv 103 0 Series  It was known for its unconventional design: it was turretless with a fixed gun traversed by engaging the tracks and elevated by adjusting the hull suspension. S10 Strv 103 0 Series  While turretless armoured fighting vehicles are usually classified as assault guns or tank destroyers, despite its unique gun laying process the Strv 103 is considered a tank because its designated combat role matched those of other tanks within contemporary Swedish doctrine. S10 Strv 103 0 Series  It is the only tank of any kind since World War II to dispense with a turret. S10 Strv 103 0 Series 
+
+In 1963, a batch of pre-production vehicles was built. S10 Strv 103 0 Series  It was called the 0-series and would more closely resemble the planned production version. S10 Strv 103 0 Series  These were used for series of tests of everything – from different engine options to trials with built-in dozer blades and different types of armament. S10 Strv 103 0 Series  Pherhaps most important was that they were used for tests, involving collaboration with infantry and other units. S10 Strv 103 0 Series  As a part of these tests, the armament was changed from the British L7 gun to a longer version of it, which offered higher muzzle velocity and penetration. S10 Strv 103 0 Series  In addition, the commander’s cupola was developed into one of the best designs in the world, which has proven itself since by outperforming everything from the Leopard 1 and Centurion to the Chieftain and in one case, even the Leopard 2 in various tests around the world. S10 Strv 103 0 Series 
+
+The only major difference between the pre-production models and the final production version was the older design of commander’s cupola and the lack of ribbed armor. S10 Strv 103 0 Series  As a part of the testing of the 0-series, there was a research into how to improve the frontal armor. S10 Strv 103 0 Series  Originally the armor was 40mm thick, but tests were being made with 50mm plates as well as a new type of “ribbed” armor. S10 Strv 103 0 Series 
+
+It was found that this “ribbed” armor, consisting of 40mm tall and 30mm wide metal bars welded onto a 40mm plate, was much less prone to deforming and as a bonus, these ribs added a sort of spaced armor effect, where a round was much less likely to penetrate the main armor plate. S10 Strv 103 0 Series  On the production version, these plates were used for the front of the vehicle to cover the engine compartment. S10 Strv 103 0 Series 
+
+<br />
+
+{{VideoYT|5Vr0YmNfYHw}}
+|HistoricalGallery= 
+image:strv103-0. S10 Strv 103 0 Series jpg{{!}}Stridsvagn 103-0
+image:strv103-0-ravlunda-1966. S10 Strv 103 0 Series jpg{{!}}Five S-tank prototypes from the zero-series at Ravlunda proving grounds, 1966
+File:Preproduction_Strv_103_refilling_hydraulic_oil. S10 Strv 103 0 Series png{{!}}Preproduction Strv 103's being refilled with hydraulic oil after testing
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+*https://en. S10 Strv 103 0 Series wikipedia. S10 Strv 103 0 Series org/wiki/Stridsvagn_103
+*https://ritastatusreport. S10 Strv 103 0 Series live/2016/08/18/how-much-paper-is-there-in-the-swedish-tree/
+*https://ftr. S10 Strv 103 0 Series wot-news. S10 Strv 103 0 Series com/2014/08/21/swedish-tanks-part-xvii-strv-103/
+}}

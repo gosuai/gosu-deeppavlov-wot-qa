@@ -1,0 +1,56 @@
+{{TankData|Tank=SU100M1
+|With its small silhouette, good mobility, and great camouflage for its tier, this tank could be one of the best sniper TD's of its tier. R74 SU100M1  Though most players would go with the derp gun of the [[SU-152]], the SU-100M1 would surprise you with its survivability even in close to mid range fights. R74 SU100M1  Its armor can bounce shots from tanks even up to tier 9 if angled correctly as its frontal armor is very sloped. R74 SU100M1  Its structure is very similar to the [[Jagdpanther II]] or the [[Ferdinand]], thus making its side and most especially rear armor very low, so always keep this tank facing front. R74 SU100M1  Once fully upgraded, the SU-100M1 can relocate quickly, shoot higher tiers' weak spots and can support fights very quickly. R74 SU100M1 
+
+|Gallery=
+
+|InTheGame_pros= 
+* Fast, with a low profile
+* Respectable aim and reload speed
+* Frontal hull armor is mostly reliable against lower tiers
+* Very strong casemate & gun mantlet armor, capable of deflecting even high tier guns head-on
+* Cheap ammunition with decent penetration on top gun
+
+|InTheGame_cons=
+* Low alpha, unfortunately many other tier 7 TDs edge this tank out in both damage and fire rate
+* Mediocre accuracy, a common trait of its lineage
+* Bad traverse, prone to flanking
+* Subpar gun depression of only four degrees
+* Prone to catching fire from frontal hits
+
+|InTheGame_performance=
+The SU-100M1 plays like a turret-less T-44 in many, many ways and is quick enough to wolf-pack with mediums. R74 SU100M1  Its gun has average penetration for a Tier 7 Tank Destroyer, but the tank's not maneuverable enough to flank and lacks accuracy to reliably hit the opponent's weak points. R74 SU100M1  The gun does not disperse much even while moving, so it can take some shots on the move. R74 SU100M1  The armor can bounce some shots, primarily from opponents below your tier, but with proper cover you can bounce even Tier 8 shots. R74 SU100M1  As an aside, this tank's excellent maneuverability makes it more resistant to getting pinned by mediums than your average Tank Destroyer; as such it is safer to play a bit more aggressively. R74 SU100M1 
+
+|InTheGame_research=
+* The V-2-34M Engine and 9RM Radio carry over from the SU-100. R74 SU100M1 
+* Research the 100 mm LB-1C Gun. R74 SU100M1 
+* Finally, research the SU-100M1B Suspension. R74 SU100M1 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Camouflage Net
+
+|History=
+
+|HistAcc=
+*The model is almost entirely incorrect (see historical gallery) Differences between the in game model and the blueprints include (but are not limited to): cupola on wrong side, missing gunner, loader and drivers hatches, tapered superstructure, too elongated hull cheeks
+* Frontal hull armour was only 90mm, not 140mm. R74 SU100M1  Superstructure armour was also very likely 90mm. R74 SU100M1 
+* Its only intended main armament is the D-10S. R74 SU100M1  The LB-1 configuration is fake. R74 SU100M1 
+* Top speed was only 47. R74 SU100M1 5 km/h, not 54. R74 SU100M1 
+* Ammunition loadout consisted of 39 rounds, not 44. R74 SU100M1 
+* Weight of the vehicle was 32. R74 SU100M1 6 tons, not 31. R74 SU100M1 9. R74 SU100M1 
+
+|HistoricalGallery=
+File:SU-100M1 side. R74 SU100M1 jpeg{{!}}SU-100M1
+File:SU-100M1 blueprint. R74 SU100M1 jpeg{{!}}SU-100M1 blueprint
+File:ESU-100 top down. R74 SU100M1 jpeg{{!}}ESU-100 top down view. R74 SU100M1  An SU-100M1 development with electrical transmission. R74 SU100M1  The two designs differed in engine compartment, transmission and driver location, hull and superstructure shape and armouring was the same. R74 SU100M1  (Notice the hull and superstructure shape)
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+* [https://english. R74 SU100M1 battlefield. R74 SU100M1 ru/su-101-and-su-102. R74 SU100M1 html '''SU-101 Tank Destroyer'''] at battlefield. R74 SU100M1 ru. R74 SU100M1 
+* [https://english. R74 SU100M1 battlefield. R74 SU100M1 ru/su-100-dp1. R74 SU100M1 html '''SU-100 Tank Destroyer'''] at battlefield. R74 SU100M1 ru. R74 SU100M1 
+* [https://warspot. R74 SU100M1 ru/16003-alternativa-s-kormovym-raspolozheniem] Article by Yuri Pasholok
+
+}}

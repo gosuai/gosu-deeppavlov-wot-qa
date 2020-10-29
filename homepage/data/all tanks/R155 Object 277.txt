@@ -1,0 +1,60 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Powerful 130mm gun with the second best penetration among Tier 10 heavy tanks
+* Very strong turret armor with few, small weakspots
+* Unusually shaped upper glacis is covered in angled surfaces and is very bouncy
+* Side hull is protected with spaced armor, excellent for sidescraping
+* Excellent top speed and acceleration, one of the fastest Tier 10 heavy tanks
+
+|InTheGame_cons= 
+* Upper glacis can be unreliable, and the lower plate is very vulnerable
+* Very high terrain resistance, bleeds a lot of speed while turning and on unpaved terrain
+* Poor gun depression, though marginally better than average for a Russian tank
+* Big target with a very long hull, can be hard to hide and is an easy target for artillery
+* Extremely vulnerable to ammo rack damage/destruction
+
+|InTheGame_performance= 
+An evolution from the famous [[T-10]], this tank can be considered an even more medium-like hybrid heavy. R155 Object 277  Featuring the rounded cast glacis and partially the V-shaped sides, the 277's hull can be just as, or perhaps even more bouncy than the [[Object 907]]. R155 Object 277  But it's the turret, which houses the intimidating 130mm M-65 cannon truly stands out; not to mention it has much sturdier face and thicker roof. R155 Object 277  These may appear nothing spectacular for the heavy-weight brawlers, but the 277 could roll into action no later than its medium teammates, where its value lies. R155 Object 277  Lead an swift attack with good co-ordination like an [[113]] would, take key positions early on and punish any daring opponents with your high alpha damage. R155 Object 277  If required to take defensive, put the decent gun handling and strong turret to good use: find hull-down cover. R155 Object 277  With its still acceptable agility on hard surface, it could also take the role of flanker in urban-themed brawling maps if no other more suitable tanks are present. R155 Object 277 <br />
+
+When compared to the [[Tank:Ch41 WZ 111 5A|WZ-111 5A]], it has better mobility, accuracy, penetration and gun handling with bouncier upper glacis; while better DPM, gun depression and agility defines the 5A as the better brawler. R155 Object 277 
+
+|InTheGame_research= 
+This vehicle comes elite in its stock configuration. R155 Object 277 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+Although the T-10 was the last of the Soviet heavy tank in series production, other heavy tank designs did follow it. R155 Object 277  Around 1955, a dual programme was begun to examine alternative heavy tanks for the future - the Obiekt 277 and Obiekt 279. R155 Object 277  The main feature shared in common was an advanced version of the 130mm gun developed for the ill-fated IS-7 heavy tank, mated to optical rangefinders for greater long-range accuracy. R155 Object 277  The new turret included an ammunition assist system for the loader, and was fitted with infra-red night fighting equipment as well. R155 Object 277  Both tanks would share a very similar enlarged turret design. R155 Object 277  However, the hull of both tanks was significantly different. R155 Object 277  
+<br><br>
+'''Characteristics'''<br><br>
+The Obiekt 277 was the ultimate evolution of the T-10 series and used a new cast bow, a modernised hull evolved out of the T-10 chassis, but lengthened with an additional set of road wheels. R155 Object 277  The armament consisted of a 130mm M-65 gun with a horizontal sliding breech, multiple baffle muzzle brake and bore evacuator, 'Groza' two-axis gun stabilization system, and a TPN-1 night sight. R155 Object 277  With a view to operating in a nuclear environment, a PAZ nuclear overpressure system was installed, as was a full set of night vision equipment for the turret crew and the driver. R155 Object 277  The 14. R155 Object 277 5mm KPVT co-axial machine guns could be used as a ranging weapon for the main armament. R155 Object 277  Elevation was -5° to 16° with electro-hydraulic turret traverse and manual override. R155 Object 277  The Obiekt 277 had a direct fire range of 1230m against a 2m target. R155 Object 277  In 1959 a sub-calibre APFSDS round was made available for the 130mm M-65, with a direct fire range of 2150m. R155 Object 277  The Obiekt 277 was provided with a mechanically operated ammunition carousel located in the lower turret for the separate loading two-piece ammunition, with 15 projectiles stored vertically and 15 cartridges stored horizontally. R155 Object 277  The ammunition complement was a total of 26-35 rounds. R155 Object 277  The AP rounds weighed 30. R155 Object 277 7 kg, hence the requirement for an electro-mechanical autoloader. R155 Object 277 <br><br>
+'''Development'''<br><br>
+A major issue with the tank was the length of the gun barrel. R155 Object 277  Soviet commanders were wary of guns that projected far ahead of the tank for fear that in combat the armament would strike the ground on rough terrain and thus incapacitate the gun, or worse, damage it to the point of requiring depot level maintenance not possible in combat. R155 Object 277  There was a precedent to this, in that during the trials of the SU-100 self-propelled gun there were problems with the gun barrel grounding, and SU-100 driver-mechanics had to be particularly careful in operating the vehicle. R155 Object 277  With the gun forward, the Obiekt 277 had a total length of 11. R155 Object 277 78m, so that the driver-mechanic was required to drive with considerable care, reminiscent of issues encountered with the earlier SU-100. R155 Object 277 
+
+The glacis armour of the Obiekt 277 provided protection against 122mm rounds and 90mm cumulative rounds, although testing was not completed before the project was cancelled. R155 Object 277  Unlike the rolled homogenous armour plate glacis of the T-10 series, the Obiekt 277 used cast glacis armour. R155 Object 277  It had a maximum glacis armour basis of 140mm, set at 60-70° from vertical, with the lower glacis with the lower glacis correspondingly 153mm at 50–55° from vertical. R155 Object 277  The turret had maximum frontal armour of 290mm, with a minimum of 139mm, set at 30–60° from vertical, with maximum turret side armour of 236mm and a minimum of 138mm set at 30–55° from
+vertical. R155 Object 277  All in all, the Obiekt-277 was a remarkably strongly armoured tank, but that armour came at a cost relative to prescribed limits on overall heavy tank combat weight. R155 Object 277 
+
+The Obiekt 277 was powered by an M-850 V-12 liquid cooled diesel engine developing 1090hp, created by the KB of the Zvezda Plant in Leningrad on the basis of the M-50 diesel engine used in Soviet torpedo boats, and in turn developed from the AN-1 aircraft engine. R155 Object 277  The engine was started by an S-3 electric starter developing 25hp or by means of two 5 litre compressed air cylinders. R155 Object 277  A pre-heater was provided for cold temperature starting. R155 Object 277  Fuel was 820 litres internally under armour and 250 litres externally, giving the tank a total road range of 300km with its maximum road speed of 55km/h. R155 Object 277  It used two-stage air cleaners, stage one being a ‘cyclone’ and stage two being a cassette-type oil bath cleaner. R155 Object 277  The engine and transmission were mounted as a single unit, with an 8-speed planetary transmission and ‘ZK’- type steering mechanism taken from the T-10. R155 Object 277  The final drives were provided with hydraulically assisted disc brakes. R155 Object 277  An MTO automatic fire suppression system was installed, as was a TDA-type fuel injection smoke laying system. R155 Object 277 <br />The tank was provided with a lengthened hull supported on eight road wheels. R155 Object 277  The torsion bar suspension was strengthened by the use of additional hydraulic recuperators and hydraulic shock absorbers on the first, second and eighth wheel stations, with bounce stops on all but the last wheel station. R155 Object 277  The tank used four return rollers. R155 Object 277  The tracks were OMSh type with internal amortization. R155 Object 277  Ground pressure was 0. R155 Object 277 73kg/cm2. R155 Object 277  Communications consisted of an R-113 radio and R-120 TPU laryngaphone. R155 Object 277  The tank was fitted with an SG-10 generator. R155 Object 277 <br><br>
+'''Trial and Failure'''<br><br>
+Two prototypes were built between 1958 and 1959, the first prototype being ready by December 1958 and tested from 7 January 1959 to 26 February 1960. R155 Object 277  An additional set of hull and turret armour was built for firing trials to determine armour integrity. R155 Object 277 
+Trials showed the need for much remedial work before the tank could be accepted for production, which, combined with its long gun barrel, the fact that the tank was 5 tonnes over its design weight limit and the military and political changes in the wind by the end of the 1950s with regard to the future of heavy tanks, led to the Obiekt-277 and its M-850 diesel engine installation being cancelled by resolution of the SM SSSR dated 19 July 1960. R155 Object 277 
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+* James Kinnear, Stephen L. R155 Object 277  Sewell - "Soviet T-10 Heavy Tank and Variants", Osprey Publishing 2017
+* Steven Zaloga, Peter Sarson - "IS-2 Heavy Tank 1944-73", Osprey Publishing 1994
+|Ref_links=
+
+}}

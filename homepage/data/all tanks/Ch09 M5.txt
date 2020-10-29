@@ -1,0 +1,67 @@
+{{TankData|Tank=Ch09_M5
+With handling and speed similar to the American [[M5 Stuart]], the only real difference is the top gun. Ch09 M5  Instead of the 37 mm T16, this tank gets a fast firing 47mm gun (the same one as on the [[Type 2597 Chi-Ha]]) with enhanced reload and aim time. Ch09 M5  The M5A1 is the first pure scout in the Chinese tree, and thus it is capable of fulfilling a scout role, be it spotting from hidden areas or by going deep into enemy lines. Ch09 M5  The decent top gun could also damage most enemies from the sides and many head-on, making it an excellent artillery hunter & info relay for your allies. Ch09 M5 
+
+|InTheGame_pros= 
+- Excellent acceleration, and great top speed; engine is better than US M5
+
+- Decent damage output and good penetration (for a tier 4 scout)
+
+- Great gun depression and somewhat small turret, ideal for hull-down 
+
+|InTheGame_cons=
+- Mediocre accuracy and noticable dispersion penalty on movement
+
+- Sharp turns will cost much speed
+
+- Badly outclassed against higher tier mediums and lights
+
+- Vision range is slightly below average, and less than the American counterpart
+
+- Like other early Chinese tanks in tech tree, it actually was not domestically manufactured, thus doesn't share any equipment with any other tanks expect for Chi-Ha's top gun
+
+|InTheGame_performance=
+This tank plays quite differently depending on if you are near the top or bottom of the battle. Ch09 M5   If you are near the top, it is advised that you try to spot enemies still, but don't be over aggressive when doing so. Ch09 M5  Just poke you turret over hills or lead the pack ahead. Ch09 M5   The gun you have has good characteristics compared to most of the other tier 4 lights, so you can engage other tanks successfully. Ch09 M5   When you are at the bottom, things change. Ch09 M5   You can no longer engage most tanks with success, so you have to mainly do spotting, or flanking. Ch09 M5  You can do this by doing it the same way you would in a low tier battle (works best on hilly, close-quarters areas like the railroad on Live Oaks). Ch09 M5   You can also find a bush that is roughly 150-350 m away from an enemy area and light them up. Ch09 M5  If you are going to pick the second option, you should bring a set of decent equipments, like camo net, binocs or coated optics. Ch09 M5  In the hands of a seasoned player, this tank can take down higher tier medium or heavy tanks with relative ease, or even wreak havoc at enemy positions. Ch09 M5  In summary, this vehicle gives player a taste on forthcoming high tier Chinese lights: gun that packs a punch, great mobility and a little armor that might matter at times. Ch09 M5 
+
+|InTheGame_research=
+Get the engine first, it will help you get around and scout better. Ch09 M5  In order to mount the 47mm gun, which carries over from the Chi-Ha, you need the tracks to mount it, due to your maximum carry weight. Ch09 M5   Get the tracks and mount the gun too. Ch09 M5   Your next purchase should be the either the radio or the turret. Ch09 M5   This all depends on if you would rather have a slightly more durable tank that sees further or a tank that can go out further and still relay the information back to your teammates. Ch09 M5 
+
+|InTheGame_equipment=
+Binocular Telescope, Vents, Coated Optics, Camouflage Net, GLD
+
+
+|Gallery=
+
+
+|History=
+[[image:United States' M5 Light Tank at the Patton Museum in Ft Knox, Kentucky. Ch09 M5 png |thumb|200px|left|The United States' M5 Light Tank at the Patton Museum in Ft Knox, Kentucky ]]
+The Light Tank M5 was a modified [[M3 Stuart|Light Tank M3]] with a new power train and an improved armor layout. Ch09 M5  A radial engine shortage was expected in 1941, and it was decided to find alternative engines to power tanks. Ch09 M5  The engines in the M5 were Cadillac automobile engines, each with its own transmission. Ch09 M5  The hull was all-welded, and the glacis was sloped and moved out to make more room for the drivers. Ch09 M5  The drivers had their own hatches, which were equipped with periscopes. Ch09 M5  Direct vision for the drivers was through two peepholes that were closed with steel plugs attached with chains. Ch09 M5  The M5's turret was the same as that on the light tank M3A1. Ch09 M5  The M5 was originally known as light tank M4, but was redesignated to M5 to avoid confusion with the medium tank M4. Ch09 M5  The British called the M5 the Stuart VI. Ch09 M5 
+
+The major distinguishing features between the Light Tanks M5 and M3A3 are the hull sides and rear deck. Ch09 M5  The M5 had a raised rear deck to accommodate the twin Cadillac engines and vertical hull sides, while the M3A3 had sloping upper hull sides and a flat engine deck. Ch09 M5  
+During the 1930's the United States Army did not consider tanks to be a relevant weapon on the battlefield. Ch09 M5  Consequently, little research and development was performed. Ch09 M5  German victories in Europe exploiting firepower and mobility of tank warfare rekindled interest in tanks among U. Ch09 M5 S. Ch09 M5  military leaders, resulting in development plans for a light tank. Ch09 M5  Several models of the light tank were developed, including the M1, M2 and M3 series. Ch09 M5  In 1942 production began on the M5 series light tank at the Cadillac Division of General Motors Corporation. Ch09 M5  There was no M4 light tank designation in order to avoid confusion with the M4 medium tank, then under production. Ch09 M5  In September of 1942 design improvements were made, culminating in the M5A1, the ultimate refinement of the 1930's vintage U. Ch09 M5 S. Ch09 M5  light tank technology. Ch09 M5  A total production of 6810 M5A1 tanks occurred from 1942 to 1944. Ch09 M5 
+
+==Development==
+Evaluation of the M5A1 design concept entails the basic principles of tank warfare; armor, firepower and mobility. Ch09 M5  The inherent nature of the light tank implies light armor which is an obvious deficiency for a combat vehicle. Ch09 M5  The frontal armor was rolled homogeneous steel approximately 1. Ch09 M5 125 inches (29 mm), sufficient for the Far East theater, but insufficient for German munitions especially toward the end of the war. Ch09 M5  The vehicle had a relatively high profile (height 101 inches), easing the job of enemy gunners to acquire a target. Ch09 M5  Light tank also implies light firepower which, in the form of a 37mm main gun, was inferior to other combat vehicles at the time in the European theater. Ch09 M5  However, the armament was quite effective against Japanese combat vehicles in the Far East theater. Ch09 M5  Mobility was impressive with a maximum speed of 36 MPH. Ch09 M5  Interviews with actual drivers indicated that speeds in excess of 45 MPH were readily achieved. Ch09 M5  The V8 engines were very quiet and the Hydramatic transmissions allowed easy gear shifting, resulting in a stealthy vehicle. Ch09 M5 
+
+==Design features==
+The M5A1 was equipped with a . Ch09 M5 30 caliber bow machine gun, . Ch09 M5 30 caliber coaxial machine gun, 37 mm main gun and . Ch09 M5 50 caliber anti-aircraft machine gun. Ch09 M5  The M5A1 was originally equipped with a . Ch09 M5 30 caliber anti-aircraft machine gun on the turret but most tankers acquired the . Ch09 M5 50caliber machine gun since it was more effective. Ch09 M5  Ground pressure is 12. Ch09 M5 3 psi. Ch09 M5  The suspension uses vertical volute springs. Ch09 M5  The controlled differential is on the right side of the driver. Ch09 M5  This is essentially a 2 speed automatic shift gear box coupled to 2 drive shafts from 2 automatic 4 speed transmissions. Ch09 M5  This gives the vehicle 8 speeds forward and 2 speeds in reverse, all automatic shift. Ch09 M5  The power plant is the 346 cu. Ch09 M5 in. Ch09 M5  flat head V8 engine, two of which are mounted in the rear of the vehicle, connected to 4 speed Hydramatic transmissions. Ch09 M5  Each engine generated 110 horsepower. Ch09 M5  A two barrel Carter carburetor provides fuel to the engine with thermal spring automatic chokes for cold starts. Ch09 M5  The tank commander/main gun loader sits on the right, while the gunner sits on the left. Ch09 M5  A gyroscope to the right of the turret is used to aid in aiming the main gun on irregular terrain. Ch09 M5  The M5A1 had a crew of 4: the driver, assistant driver/bow gunner, main gunner and tank commander/loader. Ch09 M5  The M6 periscope was used in 5 locations on the vehicle with 4 looking forward and one to the rear. Ch09 M5 
+
+==Combat service==
+The M5 made its debut in the invasion of Casablanca in French North Africa. Ch09 M5  By 1943, and at the time of the invasion of Sicily, the M5A1 was becoming the standard light tank of the American armored divisions. Ch09 M5  Because of limited firepower, the M5A1 eventually took on reconnaissance and escort duties in Italy and, after the invasion of Normandy, throughout Europe. Ch09 M5  In the Pacific theater, the M5A1 made its debut at Roi-Namur in February of 1944 and on Saipan, the same year. Ch09 M5  The M5A1 was quite effective against most Japanese armor, even the Japanese Type 97 Chi-Ha medium tank typically used in the Pacific theater. Ch09 M5  The 37 mm main gun, although obsolete in Europe, was found to be effective against Japanese targets. Ch09 M5  Consequently, many other vehicles carrying the 37 mm gun, such as the M8 armored car and M3 anti-tank gun were retained and used in the Pacific theater. Ch09 M5  
+
+|HistoricalGallery=
+M3A3 Stuart. Ch09 M5 jpg{{!}}M3A3
+M5A1 Stuart. Ch09 M5 jpg{{!}}M5A1
+M5A1 Stuart (2). Ch09 M5 jpg
+
+|HistAcc=
+The Japanese 47 mm Gun Type 1 gun was the main armament of the [[Type 97 Chi-Ha|Type 97 Shinhoto Chi-Ha]], [[Type 1 Chi-He]], Type 3 Ka-Chi, and [[Type 5 Ke-Ho]] tanks. Ch09 M5  Its configuration on the American M5A1 is fake. Ch09 M5 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

@@ -1,0 +1,73 @@
+{{TankData|Tank=Waffentrager_IV
+
+|The Waffenträger auf Pz. G97 Waffentrager IV  IV is a very similar machine to the [[Tank:Rhm. G97 Waffentrager IV -Borsig Waffenträger|Rhm. G97 Waffentrager IV -Borsig Waffenträger]]. G97 Waffentrager IV  It has excellent camouflage, guns, and a turret, while having absolutely no armor. G97 Waffentrager IV  It also has much better acceleration than the Rhm. G97 Waffentrager IV -Borsig, allowing it to get into position faster. G97 Waffentrager IV  Its two top guns are upgraded versions of the Rhm. G97 Waffentrager IV -Borsig's guns, with even more penetration and damage, as well as better accuracy. G97 Waffentrager IV  As on the Rhm. G97 Waffentrager IV -Borsig, the 128 mm gun has excellent penetration and accuracy, as well as good damage, while the 15 cm gun has exceptionally high damage at the cost of penetration, accuracy, and rate of fire. G97 Waffentrager IV 
+
+|Gallery=
+
+File:Waffenträger auf Pz. G97 Waffentrager IV  IV scr 1. G97 Waffentrager IV jpg
+File:Waffenträger auf Pz. G97 Waffentrager IV  IV scr 2. G97 Waffentrager IV jpg{{!}}15 cm Pak L/38
+File:Waffenträger auf Pz. G97 Waffentrager IV  IV scr 3. G97 Waffentrager IV jpg{{!}}12,8 cm Kanone L/61
+File:Waffenträger auf Pz. G97 Waffentrager IV  IV scr 4. G97 Waffentrager IV jpg
+
+
+|InTheGame_pros=
+- Small profile
+
+- High penetration with the 12. G97 Waffentrager IV 8cm L/61 gun
+
+- Has 360 degrees of gun traverse, although it suffers from clunky gun elevation when the turret is facing backwards
+
+- All of its available guns are Tier 10s with high damage and decent penetration, and (except 12. G97 Waffentrager IV 8cm L/61 gun) all of its guns doesn't need new tracks to support its weight
+
+- As its modules are carried over it doesn't require a stock grind, apart from tracks to mount equipment and 12. G97 Waffentrager IV 8cm L/61
+
+- Very high camouflage value
+
+|InTheGame_cons=
+- Almost no armor; Very vulnerable against HE shells
+
+- Weak engine in the front (like the Rhm)
+
+- Terrible view range for tier 9
+
+- Horrible gun depression, -5 is only when the turret is facing backwards/to the side, gun depression is -2 otherwise
+
+- Odd gun elevation, extremely high towards the front, almost none when turned to the back
+
+|InTheGame_performance=
+The Waffenträger auf Pz. G97 Waffentrager IV  IV can be good training for the tier 10 Grille 15, as this tank has a similar rear-mounted turret (albeit the Grille 15 can only turn the turret 45 degrees to each side). G97 Waffentrager IV  This fact means that both tank destroyers severely lack gun depression. G97 Waffentrager IV  Many players will drive the Waffentrager auf Pz. G97 Waffentrager IV  IV in reverse to allow for minimal exposure and full use of its 5 degrees of workable gun depression. G97 Waffentrager IV  With the 12. G97 Waffentrager IV 8cm L/61, the Waffentrager auf Pz. G97 Waffentrager IV  IV is an excellent sniper, having a 0. G97 Waffentrager IV 32 dispersion (or 0. G97 Waffentrager IV 29 if Improved Aiming Unit and Brothers in Arms are used thanks to 1. G97 Waffentrager IV 10/Equipment 2. G97 Waffentrager IV 0), and has a decent shell velocity of 1,200 meters per second on its AP and HE shells, or 1,500 on the APCR. G97 Waffentrager IV  The 12. G97 Waffentrager IV 8cm L/61 also sports great AP penetration, fantastic APCR which has 352 pen (more premium penetration than all non TDs even at tier X, and beats out all tier IX TD's with APCR except for Jagdtiger, which basically has the same gun and the WZ-111G FT. G97 Waffentrager IV  At tier X, the 352 pen APCR of the Wt Auf Pz. G97 Waffentrager IV  IV still beats the Strv 103B and Grille 15), and also has a very good DPM (3,020 base) considering the high Alpha damage. G97 Waffentrager IV  With the 15cm Pak 38, the preferred playstle changes to that of more of a close range ambusher. G97 Waffentrager IV  The 15cm Pak 38 has fantastic alpha damage, even more than the 12. G97 Waffentrager IV 8cm, at a whopping 750. G97 Waffentrager IV  This allows for effective trading, even with other Tank Destroyers, although this isn't recommended, due to how fragile the WT auf is. G97 Waffentrager IV  Additionally, the high caliber of the gun allows the possibility to load High-Explosive, which chips down at anything as long as it hits, even hulldown tanks. G97 Waffentrager IV  However, the 15cm loses a lot for the alpha damage; (interestingly, the 15cm has less DPM than the 12. G97 Waffentrager IV 8cm) the shell velocity is 757/606/757, which completely limits sniping for the most part (as well as being nigh-impossible to hit EBRs with), and the dispersion is an only ok 0. G97 Waffentrager IV 36, and the penetration is 246 on AP. G97 Waffentrager IV  It is enough for most tier IX but at tier X HEAT or HE will be required a lot, which hurts due to the somewhat poor accuracy. G97 Waffentrager IV  However, the Waffentrager auf Pz. G97 Waffentrager IV  IV is still viable with either gun, although the 12. G97 Waffentrager IV 8cm is generally a far better performer. G97 Waffentrager IV 
+
+*NOTE: The 12. G97 Waffentrager IV 8cm Kanone L/61 has bugged stats for some reason on this page; the actual penetration is 276/352/65, the damage is  560/560/700, the dispersion is 0. G97 Waffentrager IV 33, and the rate of fire is 5. G97 Waffentrager IV 17. G97 Waffentrager IV  Currently, it displays the 12. G97 Waffentrager IV 8cm Kanone 44 L/55's (the 12. G97 Waffentrager IV 8cm from the Borsig) stats. G97 Waffentrager IV 
+
+|InTheGame_equipment= GLD, Binocular Telescope, Coated Optics, Camouflage Net
+
+|History=
+The Waffenträger auf Pz. G97 Waffentrager IV  IV vehicle was developed between the end of 1943 and the beginning of 1944. G97 Waffentrager IV  There were two variants planned, one with  a 149mm sFH 18 howitzer and the second with a 128mm AT gun Kanone 81. G97 Waffentrager IV  The design was actually scrapped, because in early 1944, the developers started considering putting the guns on even lighter chassis (in this case modified 38t or even 38d) – and Panzer IV didn’t fit it. G97 Waffentrager IV  Another role was possibly played by the fact that by 1944, Panzer IV was already scheduled out of production. G97 Waffentrager IV  The  Waffenträger auf Pz. G97 Waffentrager IV  IV never made it past the drawing boards. G97 Waffentrager IV  
+
+|HistoricalGallery=
+image:Waffentr%C3%A4ger_auf_Panzer_IV_drawings. G97 Waffentrager IV png
+image:12,8cm_K44_on_wheels. G97 Waffentrager IV png
+
+|Ref_references=
+* Doyle’s “Encyclopedia of German Tanks of World War Two”
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://ftr. G97 Waffentrager IV wot-news. G97 Waffentrager IV com/2013/11/10/waffentrager-auf-panzer-iv/
+* https://ftr. G97 Waffentrager IV wot-news. G97 Waffentrager IV com/2013/09/06/how-historical-is-the-upcoming-8-9-line/
+
+
+|Sidebar_GunAlt= 12. G97 Waffentrager IV 8cm Kanone L/61
+|Sidebar_Camostop=15. G97 Waffentrager IV 9
+|Sidebar_Camomove=9. G97 Waffentrager IV 54
+|Sidebar_Camofire=3. G97 Waffentrager IV 23
+|Sidebar_Passhard=1. G97 Waffentrager IV 055
+|Sidebar_Passmed=1. G97 Waffentrager IV 247
+|Sidebar_Passsoft=2. G97 Waffentrager IV 205
+|Sidebar_DispTurret=0. G97 Waffentrager IV 115
+|Sidebar_DispRecoil=3. G97 Waffentrager IV 836
+|Sidebar_DispAccel=0. G97 Waffentrager IV 192
+|Sidebar_DispTurning=0. G97 Waffentrager IV 192
+}}

@@ -1,0 +1,66 @@
+{{TankData|Tank= XM551 Sheridan
+| Judging from its raw stats, The Sheridan had minor differences from The T49. A116 XM551  With the same derp gun from T49, a bigger hull, lower weight, and being covered with wet toilet paper armor, this can turn some players off. A116 XM551  But, to redeem its downside, the Sheridan received a handy 105mm AP gun with great penetration and accuracy. A116 XM551  It also has some thin but useful spaced armor to protect it from HESH or HEAT shells. A116 XM551 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Choice of two guns; 105mm gun with excellent gun handling and accuracy and 152mm derp gun from T49 with faster reload time and very high alpha damage that can be very deadly against lightly armored vehicles
+
+- Excellent gun elevation on both guns (-10/20 degrees)
+
+- Long base view range (at 420 meters)
+
+- Excellent acceleration and speed
+
+- 360 degrees of spaced hull armour that can protect it from HESH or HEAT shots and an additional grid at the front
+
+- Tied with [[Tank:G125_Spz_57_Rh|Rheinmetall Panzerwagen]] for highest HP points of all LTs (1600)
+
+|InTheGame_cons= 
+- Largest LT in the game with almost no armor; Easily cripped by HE shots if it doesn't hit frontal grid
+
+- 105mm gun has subpar penetration for its tier; struggles when fighting against heavily-armored opponents
+
+- 152mm gun reload time is still terrible even while faster than T49 (19 seconds with 100% crew)
+
+- 152mm gun handling is horrible, with awful aim time and accuracy
+
+- Fairly large size with little weight; Very vulnerable against ramming
+
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|YqNmxLgoDnE}}
+
+|History= 
+In the immediate post-World War II era, the US Army introduced the M41 Walker Bulldog into service to fill the role of a light tank. A116 XM551  The lifespan of the M41 was fairly short; at 25 tons it was considered too heavy to be a true light tank, and had a rather short cruising range. A116 XM551  Plans were started to build an even lighter replacement mounting the same gun, resulting in the T71 and T92 test designs. A116 XM551  Two prototypes of the 19 ton T92 were later ordered. A116 XM551  However, as the prototypes were entering testing, information about the new Soviet PT-76 tank became available. A116 XM551  The PT-76 was an amphibious light tank, and soon there were demands that any U. A116 XM551 S. A116 XM551  light tank should be able to swim as well. A116 XM551  The T92 was already in the prototype stage and could not be easily refitted for this role, so the design of an entirely new system started as the XM551. A116 XM551 <br />
+The vehicle designed to mount the gun had a steel turret and aluminum hull. A116 XM551  Although the hull could defeat heavy machinegun fire of up to 12. A116 XM551 7mm AP,[8] it was easily defeated by rocket propelled grenades, which could destroy the vehicle if the spalling contacted the caseless main gun rounds. A116 XM551  Like the M113 armored personnel carrier, it was also vulnerable to mines. A116 XM551 <br />
+Swimming capability was provided by a flotation screen, similar to that used by the World War II, amphibious DD Tanks. A116 XM551  The front armor was overlain by a wooden "surfboard", actually three folded layers, hinged together. A116 XM551  This could be opened up into a sloping vertical surface in front of the driver providing a bow of a boat hull, about level with the top of the turret. A116 XM551  Fabric formed the rest of the water barrier, folding up from compartments lining the upper corner where the side met the top of the hull, and held up at the back with poles. A116 XM551  The front of the "hull" was provided with a plastic window, but in practice it was found that water splashing onto it made it almost useless, and the driver instead usually had to take steering directions from the vehicle commander. A116 XM551  The M2 Bradley adopted a similar solution, but dropped it with upgraded armor. A116 XM551 <br />
+In the Vietnam War, firing the gun often adversely affected the delicate electronics, which were at the early stages of the transition to solid state devices, so the missile and its guidance system was omitted from vehicles deployed to Vietnam. A116 XM551  The expensive missile ended up almost never being fired in anger, despite a production run of 88,000 units. A116 XM551 
+
+|HistoricalGallery= 
+File:M551 Sheridan Tank Presentation. A116 XM551 jpg{{!}}XM551 "Sheridan" Pilot #12
+File:M551 Amphibious Operation. A116 XM551 jpg{{!}}XM-551 Pilot #12 at Fort Knox, Ky mid 60's
+File:Sheridan_105mm. A116 XM551 jpg{{!}}Experimental Sheridan with a 105mm howitzer
+File:Sheridan_76mm. A116 XM551 jpg{{!}}Experimental Sheridan with the 76mm M32
+File:Sheridan_M68_105mm. A116 XM551 png{{!}}Experimental Sheridan with the 105mm M62
+File:XM551 Pilot 4. A116 XM551 jpg{{!}}Preserved Experimental Sheridan Pilot #4
+
+|HistAcc=
+The Sheridan is amphibious in real life, but is not in-game. A116 XM551  
+* In real life, the 152 mm gun on the Sheridan was capable of launching guided anti-tank missiles. A116 XM551  This feature does not appear in World of Tanks. A116 XM551 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,110 @@
+{{TankData|Tank=
+|The Leopard 1 is the final advancement of medium tank tactics; with speed rivaling that of the [[Bat Chatillon 25 t]], excellent View Range and deadly gun with good depression and a decent rate of fire, this tank is meant to never miss a shot, it's so versatile that along with sniping it can also take on passive scouting, flanking, support, and on occasion brawling. G89 Leopard1  
+
+Of course, like all tanks, it has a downside: the armor is almost as weak as the [[Bat Chatillon 25 t]], so even HE splashes will cripple it severely. G89 Leopard1  Staying mobile is a key to this tank, while only staying still to shoot and then moving right away. G89 Leopard1  Also, the ammunition Rack is stored in the front next to the driver, so it will get hit often if not careful. G89 Leopard1 
+
+|Gallery=
+
+|InTheGame_pros=
+- Great speed and mobility; it's as fast, sharper turning, but not as quick to accelerate as the [[Bat Chatillon 25 t]]
+
+- One of a few tanks with the most accurate guns in the game with good gun depression
+
+- Good camo for its size
+
+- Very good view range. G89 Leopard1  On par with the tier IX [[M46 Patton]]
+
+- Tied with Swedish Strv 103-0 and Strv 103B for lowest chance of catching fire in the game (10%)
+
+- Fastest medium tank in the game with a top speed of 70 km/h next to [[A-32]]
+
+- Best standard penetration of any medium tank
+
+|InTheGame_cons=
+- Very weak armor, only slightly stronger than [[Bat Chatillon 25 t]]. G89 Leopard1  However, the UFP will occasionally auto-bounce 
+
+- Modules are easily damaged: most notably the turret and the ammo rack
+
+- APCR default ammo means that you get worse normalization than AP; bounces happen quite often regardless of high nominal pen value
+
+- Bad soft stats for the gun; bloom when driving and turning the turret makes snapshots unlikely to hit
+
+|InTheGame_performance=
+The Leopard 1 can fill two main roles to great effectiveness. G89 Leopard1  One's first thought when looking at the Leopard 1 is the role of a sniper, and it is an excellent sniper indeed. G89 Leopard1  Boasting one of the most accurate guns in the game, it combines high accuracy, good alpha damage, and good DPM, all on a highly mobile, fairly well camouflaged tank. G89 Leopard1  The Leopard 1 can quickly position itself in advantageous sniping positions, positions which also often make great use of its very high 410m view range (only the [[Tank:A120_M48A5|M48A5 Patton]] is better in this category). G89 Leopard1  All of this rolled into a single package makes it a threat from any distance, able to reliably hit weak points with its high penetration 105mm cannon, remain hidden while doing so, and re-position quickly to either get a new shot or retreat to a safe distance. G89 Leopard1  In this role and for the purposes of spotting, it is highly recommended to run Coated Optics, most likely in place of Vents. G89 Leopard1 
+
+The other role it excels at is that of a supporting flanker. G89 Leopard1  It hasn't the armor to brawl or lead a charge on its own, but it has the acceleration, maneuverability, and top speed to quickly flank occupied tanks and shoot them in the rear with its good rate of fire. G89 Leopard1  This of course puts you more at risk for taking damage, especially module damage, so you must be careful and weigh up the risks before proceeding. G89 Leopard1  This is even more important because you need to always fully aim before taking shots to hit anything - bad soft stats of the gun do not allow you to snapshot and shoot on the move. G89 Leopard1  Gun Rammer and Vertical Stabilizer are, as usual essential choices while optics are the best choice for the third equipment slot as it allows the Leopard to scout if the situation requires, win vision wars against other lights/mediums and to spot heavies outside of their view range, allowing you to snipe with impunity. G89 Leopard1  Vents can be taken if one wishes but are a second class choice to due their minimal effect (a 2. G89 Leopard1 2% bonus to everything, on the leopard there is no tangible benefit). G89 Leopard1  
+
+Another, lesser role it can fulfill to good effect is that of a scout. G89 Leopard1  With 410m base view range, good camo, speed, and acceleration, it can do a fine job of passive or active scouting. G89 Leopard1  However, it is large for a scout, and while the acceleration is good, it is not going to kick you up to 70kmh in a few seconds. G89 Leopard1  Typically this means the Leopard will be far more comfortable passive scouting from bushes with its large view range, lighting up all but the most well camouflaged tanks at near the maximum view range of 445m (when properly equipped). G89 Leopard1  This is only considered a lesser role for several reasons. G89 Leopard1  Namely, the size is not conductive to active scouting as it would be fairly easy to hit, secondly the p/w ratio is not quite strong enough to keep this tank at a fast enough speed when going up slopes of a certain angle or more, or for accelerating to top speed from a standstill, and finally, it's simply a waste of a fantastic gun and damage potential. G89 Leopard1 
+
+The Leopard 1 represents a very versatile medium tank that is excellent at long range combat, flanking manoeuvres and scouting and can perform any of these roles in a pinch. G89 Leopard1  In the hands of skilled players the Leopard 1 is a very dangerous tank. G89 Leopard1 
+ 
+|InTheGame_research=
+
+|InTheGame_equipment=
+Vertical Stabilizer Mk 1, Medium-Caliber Tank Gun Rammer, Improved Ventilation Class 2, Coated Optics
+
+
+|History=
+The Leopard  is a main battle tank designed and produced in West Germany that first entered service in 1965. G89 Leopard1  Developed in an era when HEAT warheads were thought to make conventional heavy armour of limited value, the Leopard focused on firepower in the form of the German-built version of the British L7 105-mm gun, and improved cross-country performance that was unmatched by other designs of the era. G89 Leopard1 
+The design started as a collaborative project between Germany and France in the 1950s, but the partnership ended and the final design was ordered by the Bundeswehr, production starting in 1965. G89 Leopard1  In total 6,485 Leopard tanks have been built, of which 4,744 were battle tanks and 1741 were utility and anti-aircraft variants, not including eighty prototypes and pre-series vehicles. G89 Leopard1 
+The Leopard quickly became a standard of European forces, and eventually served as the main battle tank in over a dozen countries worldwide. G89 Leopard1  Since 1990, the Leopard 1 has gradually been relegated to secondary roles in most armies. G89 Leopard1  In the German Army, the Leopard 1 MBTs have been phased out in 2003 while Leopard 1 derived vehicles are still widely used. G89 Leopard1  The Leopard 2 MBTs have taken over the MBT role. G89 Leopard1  Leopard hulls have been re-used in a wide variety of roles. G89 Leopard1 
+
+==Development history==
+
+The Leopard project started in November 1956 in order to develop a modern tank, the Standard-Panzer, to replace the Bundeswehr's American-built M47 and M48 Patton tanks, which, though just delivered to West Germany's recently reconstituted army, were rapidly growing outdated. G89 Leopard1  On 25 July 1957 the detailed specifications were released; the new design needed to weigh no more than thirty metric tons, have a power-to-weight ratio of thirty horsepower per ton, be able to withstand hits by 20 mm rapid-fire guns on every side as well as operate in a battlefield contaminated with chemical weapons or radioactive fallout, the then-standard baseline for combat with the Warsaw Pact. G89 Leopard1  In addition the main armament had to consist of a 105 mm caliber weapon (the new British L7A3 105 mm gun was selected), carrying at least as many rounds as current US tank designs. G89 Leopard1  Mobility was the priority while firepower came second; armour was seen as less essential, as it was believed no real protection against hollow charge weapons was possible anyway. G89 Leopard1 
+
+France was very interested in the design as its own AMX 50 project had just failed. G89 Leopard1  In June 1957, West Germany and the French Fourth Republic signed an agreement to develop a common tank, designated in German Europa-Panzer. G89 Leopard1  Three German (Arbeitsgruppe A, B and C) and one French design team would be included in a competition, with each team producing two prototypes each. G89 Leopard1  In September, 1958 Italy joined the development program. G89 Leopard1  Several prototypes were entered for testing in 1960. G89 Leopard1  Among the prototypes were Porsche's Model 734 from team A, sporting a cast turret and that of team B (Rheinmetall) whose cast turret was somewhat higher. G89 Leopard1  Team C from Borgward, designing a very futuristic tank, failed to have a prototype ready in time. G89 Leopard1 . G89 Leopard1 
+
+Even before these first prototypes were finished, it had (in 1959) been decided that a second phase with improved designs would be started: Team A had to build 26 phase II Prototypes for testing, team B six. G89 Leopard1  Only two tanks of the required six would actually be constructed by team B. G89 Leopard1  The Porsche Prototype II was eventually selected as the winner of the contest in 1963; this did not come as a surprise: it had already been decided in 1961 to build a preseries of fifty vehicles based on this design; production of these was started that very year. G89 Leopard1  This "0-series" was modified with a new cast turret and several hull changes to raise the rear deck to provide more room in the engine compartment, and move some of the radiators to the upper sides of the hull. G89 Leopard1  Before mass production of the standard version started it was also decided to add an optical range-finding system for better long-range gunnery, which required the turret to be somewhat taller, and added "bumps" on either side of the turret to mount the optics for triangulation. G89 Leopard1  In 1963 France and Germany had decided to each build their own tank; Germany continued with the Leopard, while France built the similar AMX-30. G89 Leopard1  Production was set up at Krauss-Maffei of Munich from early 1964 onward, with deliveries of the first batch between September, 1965 and July, 1966. G89 Leopard1  The Leopard was soon being purchased from Germany by a number of NATO members and other allies including in chronological order Belgium (1968), the Netherlands (1969), Norway (1970), Italy (1971), Denmark (1976), Australia (1976), Canada (1978), Turkey (1980) and Greece (1981). G89 Leopard1  Germany has a strict export policy for military equipment; Greece, Spain and Chile, while still dictatorships, purchased the French AMX-30. G89 Leopard1 
+
+'''Leopard 1A1 '''
+
+After the first batch was delivered the next three batches were the Leopard 1A1 model, which included a new gun stabilization system from Cadillac-Gage, allowing the tank to fire effectively on the move. G89 Leopard1  The 1A1 also added the now-famous "skirts" along the sides to protect the upper tracks, and a new thermal jacket on the gun barrel to control heating. G89 Leopard1  A less important change was to use rectangular rubber blocks fastened to the treads with a single pin instead of the earlier two-pin "shaped" versions. G89 Leopard1  The rubber blocks could be easily replaced with metal X-shaped crampons for movement on ice and snow in the winter. G89 Leopard1 
+Between 1974 and 1977 all of the machines in the first four batches were brought to the same Leopard 1A1A1 standard, and given additional turret armor developed by Blohm & Voss. G89 Leopard1  A further upgrade in the 1980s added leftover image-intensifier night sights which were being handed down from the Leopard 2 as they were themselves upgraded. G89 Leopard1  The PZB 200 image intensification system was mounted in a large box on the upper right of the gun, creating the Leopard 1A1A2. G89 Leopard1  A further upgrade with SEM80/90 all-digital radios created the Leopard 1A1A3. G89 Leopard1 
+
+'''Leopard 1A2 '''
+
+The first 232 tanks of the fifth production batch was delivered as the Leopard 1A2 between 1972 and 1974. G89 Leopard1  The A2 included a heavier and better armored turret, and therefore did not receive the B&V armor add-ons as did the earlier machines. G89 Leopard1  They did receive the other upgrades however; the Leopard 1A2A1 received the PZB 200, the Leopard 1A2A2 received digital radios, and the Leopard 1A2A3 got both. G89 Leopard1 
+
+
+'''Leopard 1A3 '''
+
+The next 110 vehicles in the fifth batch were fitted with a new welded turret, which was equipped with a new armour consisting of two spaced steel plates with a plastic filling between them, and a wedge-shaped gun mantlet, creating the Leopard 1A3. G89 Leopard1  Although the level of armor area density was equivalent to the A2's new welded version, the internal volume was increased by 1. G89 Leopard1 2 m³ and the effective protection level was increased by half. G89 Leopard1  The improved TRP 2A independent sight was installed for the commander. G89 Leopard1  Upgrades were identical to the 1A2 models, the Leopard 1A3A1 with the night sights, Leopard 1A3A2 with the new radios, and the Leopard 1A3A3 with both. G89 Leopard1 
+
+'''Leopard 1A4 '''
+
+The Leopard 1A4 formed the sixth batch of 250 vehicles, delivery starting in 1974. G89 Leopard1  The 1A4 was externally similar to the 1A3, but included a new computerized fire control system and the new EMES 12A1 sighting system to aim it. G89 Leopard1  In addition the commander was provided with his own independent night sighting system, the PERI R12. G89 Leopard1  The new equipment used up space and the ammunition load was reduced to 55 rounds, of which 42 were stored in the magazine to the left of the driver. G89 Leopard1 
+
+'''Leopard 1A5 '''
+
+In 1980 a research program was undertaken to study further improvements to the Leopard 1, providing it with a completely modern fire control system and fully effective night/bad-weather vision system. G89 Leopard1  This was going to require even more room than the larger turret from the 1A3/1A4 models, so the decision was made to base the upgrades on the earlier models which were no longer competitive. G89 Leopard1  The resulting Leopard 1A5 was based on 1225 vehicles of the Leopard 1A1A1 model. G89 Leopard1  The turrets were again modified for the 1A5, with a larger section at the back, both in order to store all of the new equipment, as well as to move more of the ammunition into the rear turret, as opposed to the left side of the driver where it had traditionally been stored. G89 Leopard1  The storage locker extended the turret almost to the rear of the tank when the gun was facing forward. G89 Leopard1  The new turret was also able to mount the newer 120 mm gun from the Leopard 2 if desired, although this option has not been used. G89 Leopard1   After trials the Krupp-Atlas Elektronik EMES 18 fire control system was selected in December 1983, developed from the EMES 15 used on the Leopard 2. G89 Leopard1  The EMES 18 included two new sights on to the top of the turret, and no longer required the "bumps" as did the earlier optical systems. G89 Leopard1  A crucial part of the upgrade was the introduction of more effective ammunition, including new APFSDS rounds. G89 Leopard1  The Leopard tank could also be fitted with bolt-on lexan armour panels, which have increased the effectiveness of the armour. G89 Leopard1  These "modified" tanks have proved themselves in the field. G89 Leopard1  The first modified vehicle was delivered in early 1987. G89 Leopard1  Since then almost all users of the Leopard 1 have also applied similar changes to their own vehicles, and in most ways the 1A5 can be considered the "standard" Leopard 1 today. G89 Leopard1 
+
+'''Leopard 1A6 '''
+
+A single 1A1A1 was also modified with additional armor on the turret and had the 120 mm gun as the Leopard 1A6. G89 Leopard1  The project was ended in 1987, as the Leopard 2 was in widespread service at this point and the 1A5 offered a reasonable upgrade path for a fraction of the cost. G89 Leopard1 
+{{VideoYT|oxnLl9t5q-M}}{{VideoYT|gf4sFKdcCV8}}
+
+
+|HistoricalGallery=File:Leo1HG. G89 Leopard1 jpg
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=*https://en. G89 Leopard1 wikipedia. G89 Leopard1 org/wiki/Leopard_1
+*Leopard 1 Pools and Mastery Gameplay - https://www. G89 Leopard1 youtube. G89 Leopard1 com/watch?v=rMgmq9HqK1U
+
+|Sidebar_Camostop=14. G89 Leopard1 30
+|Sidebar_Camomove=10. G89 Leopard1 9
+|Sidebar_Camofire=3. G89 Leopard1 1
+|Sidebar_Passhard=0. G89 Leopard1 767
+|Sidebar_Passmed=0. G89 Leopard1 863
+|Sidebar_Passsoft=1. G89 Leopard1 726
+|Sidebar_DispTurret=0. G89 Leopard1 077
+|Sidebar_DispRecoil=2. G89 Leopard1 877
+|Sidebar_DispAccel=0. G89 Leopard1 173
+|Sidebar_DispTurning=0. G89 Leopard1 173
+}}
+
+[[Category:German Tanks]]

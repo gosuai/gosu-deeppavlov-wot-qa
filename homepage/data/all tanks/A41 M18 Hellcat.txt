@@ -1,0 +1,129 @@
+{{TankData|Tank=M18_Hellcat
+|The '''M18 Hellcat''' is a unique tank destroyer with its top speed of 72 km/h -- making it the fastest TD in the game (although historically it could go as fast as 92 km/h), and is also one of the most played tanks in World of Tanks. A41 M18 Hellcat  Armed with the high powered 90 mm AT Gun M3, the M18 Hellcat is a dangerous tank to fight. A41 M18 Hellcat  The Hellcat has negligible armor and an open turret so use your speed to avoid enemy fire or die quickly. A41 M18 Hellcat  The M18 Hellcat can scout and flank enemy positions to some degree but with the slow turret traverse speed, drivers will quickly learn it is not the best of roles. A41 M18 Hellcat  The Hellcat is very popular in tank companies along with the [[Tank:R106_KV85|KV-85]]. A41 M18 Hellcat  In tight situations the Hellcat can be used as a scout tank, although it is not highly recommended due to the traverse speed on both its hull and turret, and the paper-thin armor. A41 M18 Hellcat  
+
+|Sidebar_Camostop=21. A41 M18 Hellcat 1
+|Sidebar_Camomove=12. A41 M18 Hellcat 9
+|Sidebar_Camofire=7. A41 M18 Hellcat 7
+|Sidebar_Passhard=0. A41 M18 Hellcat 959
+|Sidebar_Passmed=1. A41 M18 Hellcat 151
+|Sidebar_Passsoft=2. A41 M18 Hellcat 014
+|Sidebar_DispTurret=0. A41 M18 Hellcat 201
+|Sidebar_DispRecoil=3. A41 M18 Hellcat 836
+|Sidebar_DispAccel=0. A41 M18 Hellcat 36
+|Sidebar_DispTurning=0. A41 M18 Hellcat 36
+
+|InTheGame_pros=
+* Good damage, accuracy, aim time for its tier
+* Excellent gun depression
+* Very good camouflage values
+* Above average view range
+* High top speed
+
+
+
+|InTheGame_cons=
+* HE shells are a death sentence for this TD due to an open-top turret, frontally-mounted transmission, and paper hull. A41 M18 Hellcat 
+* 2nd worst penetration of all tier 6 TDs, along with [[Jackson]]
+* Very slow turret & hull traverse speed, poor speed retention & backward speed, massively worse dispersion values than [[Jackson]]
+* Mediocre acceleration with poor performance on soft ground due to high Terrain Resistance, and terrible reverse speed
+* Fourth worst DPM out of all tier 6 TDs, only better than the [[Tank:SU100Y|SU-100Y]], [[Tank:ARL_V39|ARL V39]] and Ikv 65 Alt II with 90MM. A41 M18 Hellcat 
+* Horrible when stock: and a long grind to top gun unless the Jackson is played through first. A41 M18 Hellcat 
+* Low shell velocity 
+
+
+|InTheGame_performance=
+The M18 "Hellcat" is a very effective sniper and limited scout/ light skirmisher. A41 M18 Hellcat  Armed with a decent gun for its tier and provided with generous speed in exchange for being protected by something that resembles armor, use your speed, camouflage and turret to be able to fire from various locations and quickly relocate before opponents can return fire. A41 M18 Hellcat  Shoot-and-scoot tactics familiar to artillery will be very successful in avoiding fire. A41 M18 Hellcat  Do note while the Hellcat is indeed very fast, it has poor hull traverse and even worse turret traverse, equal to the M36 Jackson. A41 M18 Hellcat  Due to the M18's preferred play style, it is far more of an issue than on the M36 Jackson. A41 M18 Hellcat  
+
+However, caution must be taken when playing with the Hellcat. A41 M18 Hellcat  Its notoriously thin armor makes high-explosive rounds extremely effective against it, especially the hull. A41 M18 Hellcat  Combined with the open-topped turret, it is the poster child for HE targets. A41 M18 Hellcat  It is also vulnerable to automatic cannons that many light tanks carry. A41 M18 Hellcat  It is also prone to module damage, and will lead to an untimely demise. A41 M18 Hellcat  The speed is also a point of caution: it may be fast in a straight line on hard ground, but it cannot reverse very quickly, turns rather sluggishly and tends to bog down on soft ground. A41 M18 Hellcat  This means that it will be harder to get out of sticky situations. A41 M18 Hellcat  
+
+The M18 does not retain its speed during turns or when climbing up hills, since speed was derived from the lack of armor rather than a particularly powerful engine; the same engine as the T67 in a chassis that is 33% heavier. A41 M18 Hellcat  However, this does not prevent it from changing position rapidly. A41 M18 Hellcat  Use this to wreak havoc on enemy advances, as it has done in real life. A41 M18 Hellcat  By firing from multiple positions, it would be as if they were to engage a new target. A41 M18 Hellcat  Coupled with a preference to hull-down positions, this can slow down an advance considerably. A41 M18 Hellcat  
+
+On the offensive, the 90mm AT Gun M3 can reliably engage heavy tanks one or two tiers above it, and the speed can be used to secure forward positions. A41 M18 Hellcat  The 90mm gun allows it to hold the position long enough for reinforcements to be brought up. A41 M18 Hellcat  However, some vehicles, such as the IS-3, T28 and the Tiger(P) will give the standard 90mm AP shot problems. A41 M18 Hellcat  However flanking or premium ammunition are always viable options, especially with a 72kph top speed and a potent 90mm gun. A41 M18 Hellcat  
+
+In close combat, players have to turn turret well in advance to compensate for slow turret traverse and high speed. A41 M18 Hellcat  When you are in long range combat, use its camo factor and speed to get into advance positions where the enemy would not expect a TD to usually sit, retreating before they can overwhelm or flank you. A41 M18 Hellcat  This tank can scout if needed at the end of the round; you'll most likely be the fastest thing out there and also the deadliest. A41 M18 Hellcat  When stuck in close quarters with a heavier tank, your gun mantlet can sometimes surprisingly bounce some shells from enemy tanks. A41 M18 Hellcat  While it can hold corners down with peek-a-boo tactics, it is useless in a turning fight with a fast medium tank such as a Cromwell or Easy Eight. A41 M18 Hellcat  You will be certainly destroyed by these vehicles. A41 M18 Hellcat  Engage them at range and stick with teammates if it is likely to encounter these machines. A41 M18 Hellcat  
+
+Do note that, like scout tanks, the Hellcat's vulnerabilities can be used as bait. A41 M18 Hellcat  Cooperate with your team to draw enemies into the line of fire, while giving your victims a nasty dose of 90mm shells too. A41 M18 Hellcat 
+
+|InTheGame_research=
+* If coming from the T67, the 76mm M1A1, top radio and top engine will carry over. A41 M18 Hellcat  
+* If coming from the M10 Wolverine, the 76mm M1A2 and 2nd engine will carry over. A41 M18 Hellcat 
+* Top engine also carries over from the scout line, the Shermans and the [[M7 Priest]]. A41 M18 Hellcat 
+* Top radio also carries over from the SPGs. A41 M18 Hellcat 
+* Top gun carries over from the M36 Jackson. A41 M18 Hellcat  
+* Research priority should be M1A2 (if coming from T67) or top engine (if coming from the M10), followed by tracks, turret, 90mm gun and finally radio. A41 M18 Hellcat 
+
+|InTheGame_equipment=
+Camouflage Net, Binocular Telescope, Medium-caliber Tank Gun rammer
+
+|HistAcc= 
+The 76mm Gun Motor Carriage M18 variant of the Hellcat had an actual top speed of 92 kph, making it one of THE most mobile tanks of WW2. A41 M18 Hellcat 
+*One of its historical armaments, the 105 mm T12 howitzer, is missing. A41 M18 Hellcat  This configuration was known as the 105 mm Howitzer Motor Carriage T88. A41 M18 Hellcat 
+*It actually was not equipped with a 90mm that M36 Jackson had. A41 M18 Hellcat   It was tested with 90mm though but was cancelled. A41 M18 Hellcat 
+
+|Gallery=
+image:Hellcat-a. A41 M18 Hellcat png{{!}}Hellcat front right
+image:Hellcat-b. A41 M18 Hellcat png{{!}}Hellcat front left
+image:Hellcat-c. A41 M18 Hellcat png{{!}}Hellcat rear left
+image:Hellcat-d. A41 M18 Hellcat png{{!}}Hellcat rear right
+
+|History=
+The 76 mm Gun Motor Carriage (GMC) M18 was an American tank destroyer of World War II. A41 M18 Hellcat  The manufacturer, Buick, gave it the nickname "Hellcat" and it was the fastest tracked armored fighting vehicle during the war with a top speed up to 60 mph. A41 M18 Hellcat [1] Hellcat crews took advantage of the vehicle's speed to protect against hits to its thin armor. A41 M18 Hellcat  Many German Panther and Tiger tanks were destroyed because they could not turn their turrets fast enough to return fire. A41 M18 Hellcat 
+
+== Development ==
+[[image:From the “Buick at its Battle Stations” booklet. A41 M18 Hellcat  Post-production field test. A41 M18 Hellcat . A41 M18 Hellcat jpg|thumb|200px|left|From the “Buick at its Battle Stations” booklet. A41 M18 Hellcat  Post-production field test. A41 M18 Hellcat ]]
+In December 1941, the Ordnance Corps issued a requirement for the design of a fast tank destroyer using a Christie suspension, the Wright/Continental R-975 engine, and a 37 mm gun. A41 M18 Hellcat 
+In light of experience gained in North Africa, the 37 mm gun was found to be inadequate and the design was changed to use a British 57 mm gun. A41 M18 Hellcat  During the development process, the design was further upgunned to a 75 mm gun, and then finally to the 76 mm gun. A41 M18 Hellcat  The Christie suspension requirement was also dropped, and replaced with a torsion bar suspension. A41 M18 Hellcat  The design was standardized in February 1943 and production began in July 1943. A41 M18 Hellcat 
+As a new design, the M18 incorporated several innovative maintenance features. A41 M18 Hellcat  The Wright R-975 engine was mounted on steel rollers, which permitted it to be disconnected from the transmission, rolled out onto the lowered engine rear cover, serviced and then reconnected to the vehicle. A41 M18 Hellcat  Similarly, the transmission could be removed and rolled out onto a front deck plate to allow inspection and repairs. A41 M18 Hellcat 
+The T70 prototype for the M18 first saw combat at Anzio, Italy, and production versions of the M18 were used in North-West Europe and Italy from the summer of 1944 onwards. A41 M18 Hellcat 
+In contrast to the M10 tank destroyer, which used the chassis of the M4 Sherman, the M18 Hellcat was designed from the start to be a fast tank destroyer. A41 M18 Hellcat  As a result it was smaller, lighter, and significantly faster, but carried the same gun as the Sherman 76 mm models. A41 M18 Hellcat  The M18 carried a five-man crew as well as 45 rounds of main gun ammunition, and an M2 Browning machine gun on a flexible ring mount for use against aircraft and infantry. A41 M18 Hellcat 
+
+The main disadvantages of the M18 were its very light armor, and the inconsistent performance of its 76 mm gun against the frontal armor of later German designs such as the Tiger and Panther. A41 M18 Hellcat  The open-topped turret (a characteristic which it shared with the M10) left the crew exposed to snipers, grenades, and shell fragments. A41 M18 Hellcat  The doctrinal priority of high speed at the cost of armor protection thus led to an unbalanced design. A41 M18 Hellcat  The problem of the main gun performance was remedied with High Velocity Armor Piercing (HVAP) ammunition late in the war, which allowed the 76 mm gun to achieve greater frontal armor penetration, but this was never available in quantity. A41 M18 Hellcat [[image:Early protoype T70. A41 M18 Hellcat jpg|thumb|200px|left|Early protoype T70]]
+While the M18 was capable of high road speeds this attribute was difficult to use successfully in combat, but along with the high top speed was a commensurate ability to accelerate rapidly and change direction rather quickly. A41 M18 Hellcat  Although sustained travel at road speeds was hardly ever used outside of the Allied response during the Battle of the Bulge, most Hellcat crews found the higher speeds especially useful in a sprint to flank German tanks, which had relatively slow turret traverse speeds, and such maneuvering allowed the tank destroyer crew a shot instead into the enemy's thinner side or rear armor. A41 M18 Hellcat  In general, Hellcat crews were complimentary of their vehicle's performance and capabilities, but did complain that the open top created a cold interior in the Northern European winter of 1944-45. A41 M18 Hellcat  This problem was not helped by the fact that the air-cooled engine pulled a percentage of its cooling air through the crew compartment, creating in effect, a large armour plated refrigerator. A41 M18 Hellcat  It was not designed to do so, but it proved impossible to seal off the crew compartment entirely from engine induced drafts. A41 M18 Hellcat 
+
+The only M18 variant which was produced in significant numbers was the M39 Armored Utility Vehicle, a turretless variation used to transport personnel or cargo or as a gun tractor. A41 M18 Hellcat  This version was armed with a single M2 machine gun on a flexible mount. A41 M18 Hellcat  650 early production M18s were converted into M39s by removing the turret and fitting seats for up to eight men in the open fighting space. A41 M18 Hellcat  M39s saw combat during the Korean War, primarily as armored personnel carriers and munitions carriers, and were finally declared obsolete on February 14, 1957. A41 M18 Hellcat  About 100 M39s were transferred to the West German Bundeswehr in 1956, where they were used to train the reestablished Panzergrenadier armored infantry units. A41 M18 Hellcat  The M18 continued in production until October 1944, when the war was nearing its end. A41 M18 Hellcat  2,507 had been produced by that time, at a unit cost of $57,500. A41 M18 Hellcat  Though all tank destroyer units were disbanded by the U. A41 M18 Hellcat S. A41 M18 Hellcat  after the war, surplus M18s continued to see limited service. A41 M18 Hellcat 
+
+== Combat Performance ==
+[[image:Company A, 637th TD Battalion at Espiritu Santo, New Hebrides islands. A41 M18 Hellcat jpg|thumb|200px|left|Company A, 637th TD Battalion at Espiritu Santo, New Hebrides islands]]The M18 served primarily in Western Europe, but was also present in the Pacific. A41 M18 Hellcat  Upon the American entry into the war in 1941, it had begun to supply China with AFVs including later the M18 Hellcats which along with M3 Stuarts, and M4 Shermans, trickled in through Burma and formed part of the several well-equipped, well-trained armies that the Chinese Nationalists could deploy. A41 M18 Hellcat  These units were responsible for stopping numerous Japanese attacks during the later phases of the war. A41 M18 Hellcat  However, due to the comparative rarity and poor quality of Japanese armor it was often used in a fire support role instead of as a tank destroyer. A41 M18 Hellcat  On September 19, 1944, in the Nancy Bridgehead near Arracourt, France, the 704th Tank Destroyer Battalion was attached to the 4th Armored Division. A41 M18 Hellcat  Lt. A41 M18 Hellcat  Edwin Leiper led one M18 platoon of C Company to Rechicourt-la-Petite, on the way to Moncourt. A41 M18 Hellcat  He saw a German tank gun muzzle appearing out of the fog 30 feet away, and deployed his platoon. A41 M18 Hellcat  In a five minute period, five German tanks of the 113 Panzer Brigade were knocked out for the loss of one M18. A41 M18 Hellcat  The platoon remained in their position and destroyed ten more German tanks, with the loss of another two M18s. A41 M18 Hellcat  One of the platoon's M18s, commanded by Sgt Henry R. A41 M18 Hellcat  Hartman, knocked out six of these and lived to fight another day. A41 M18 Hellcat  Most of these knocked-out German tanks were Panthers. A41 M18 Hellcat  The M18 Hellcat was a key element during World War II in the Battle of the Bulge. A41 M18 Hellcat  On December 19–20, the 1st Battalion of the 506th PIR, was ordered to support Team Desobry, a battalion-sized tank-infantry task force of the 10th Armored Division (United States) assigned to defend Noville located north-northeast of both Foy and of Bastogne just 4. A41 M18 Hellcat 36 miles (7 km) away. A41 M18 Hellcat  With just four M18 tank destroyers of the 705th Tank Destroyer Battalion to assist, the paratroopers attacked units of the 2nd Panzer Division, whose mission was to proceed by secondary roads via Monaville (just northwest of Bastogne) to seize a key highway and capture, among other objectives, fuel dumps—for the lack of which the overall German counter-offensive faltered and failed. A41 M18 Hellcat  Worried about the threat to its left flank in Bastogne, it organized a major joint arms attack to seize Noville. A41 M18 Hellcat  Team Desobry's high speed highway journey to reach the blocking position is one of the few documented cases wherein the legendary top speed of the M18 Hellcat (55 miles per hour (89 km/h), faster than today's M1A2 Abrams) was actually used to get ahead of an enemy force as envisioned by its specifications. A41 M18 Hellcat 
+[[image:Anzio, Italy, May 1944. A41 M18 Hellcat . A41 M18 Hellcat jpg|thumb|200px|right|Anzio, Italy, May 1944]]
+The attack of 1st Battalion and the M18 Hellcat tank destroyers of the 705th TD Battalion near Noville together destroyed at least 30 German tanks and inflicted 500 to 1000 casualties on the attacking forces, in what amounted to a spoiling attack. A41 M18 Hellcat  A Military Channel historian credited the M18 destroyers with 24 kills, including several Tiger tanks, and believes that in part, their ability to "shoot and scoot" at high speed and then reappear elsewhere on the battlefield and therefore appear to be another vehicle entirely played a large part in confusing and slowing the German attack, which subsequently stalled, leaving the Americans in possession of the town overnight. A41 M18 Hellcat  The Hellcat, due to its 76mm gun, had major difficulty penetrating the glacis of Panther tanks. A41 M18 Hellcat  Due to the almost absent armor of the Hellcat and its use of high flash powder the Hellcat made a relatively easy target for German tank crews. A41 M18 Hellcat  Tank destroyers, in contrast to the pre-war doctrine governing their deployment, came to attack enemy armour from long range from an ambush position, acting in essence like self-propelled anti-tank guns. A41 M18 Hellcat  The Hellcat had a gun that could penetrate roughly 88mm at 1000 m. A41 M18 Hellcat  The average combat range noted by the Americans for tank vs. A41 M18 Hellcat  tank action was around 800m to 900m. A41 M18 Hellcat  This was just enough to penetrate a Panzer IV frontally, a tank designed in 1939. A41 M18 Hellcat  If facing a Panther, a Hellcat would be facing a tank with roughly 140mm of line-of-sight armor frontally. A41 M18 Hellcat  Hypothetically, if the Soviet Union decided to invade the rest of Europe during the war, the Hellcat would face the IS-2 with a glacis of roughly 200mm line of sight armor. A41 M18 Hellcat 
+
+== Tank Destroyer Doctrine ==
+[[image:Irsch, Germany. A41 M18 Hellcat jpg|thumb|200px|left|Irsch, Germany]]
+American prewar armored doctrine was based on using tanks solely in a support and exploitation role, usually in conjunction with infantry. A41 M18 Hellcat  Tank destroyers, such as the Hellcat, were to be used against tanks. A41 M18 Hellcat  To this end the Hellcat was not intended to engage in protracted combat, and had light armor and extremely high speeds to quickly respond to breakthroughs in the line by German armor. A41 M18 Hellcat  In reality, the opposite was true, as the attacks with the Sherman ran into defending German tanks far more often than intended. A41 M18 Hellcat  In Italy, TDs compensated for a shortage of 155mm artillery ammunition by using their 3 inch or 76mm guns in indirect fire role. A41 M18 Hellcat  Near the end of the war, there were so few German tanks that tank destroyers were increasingly used as self-propelled artillery in support of infantry for lack of any other targets. A41 M18 Hellcat  The Hellcat was theoretically supposed to be used independently as a sort of mobile anti-tank gun, brought up from reserves to buffer an incoming armored thrust. A41 M18 Hellcat  In practice a TD battalion was assigned nearly permanently to a division. A41 M18 Hellcat  The doctrine of the time had Shermans acting in support of infantry to break enemy defenses, and then leading the attack with infantry in support during exploitation. A41 M18 Hellcat  Prewar expectation was that all anti-tank work was supposed to be done by tank-destroyer crews, because attacking tanks could concentrate against a small part of a defending line. A41 M18 Hellcat  Independent TDs groups were to counter concentrate, to stop enemy tanks from penetrating deeply. A41 M18 Hellcat  Speed was essential in order to bring the Hellcats from the rear to destroy incoming tanks. A41 M18 Hellcat  Obviously this would make it harder for an armored force to achieve a deep breakthrough, a main objective of armor, if the enemy had tanks. A41 M18 Hellcat  It would also be easier for an opposing armored force to achieve a local breakthrough against an American tank battalion which would not have all of its anti-tank assets at the front during the beginning of any attack. A41 M18 Hellcat  Thankfully, for Sherman crews, this doctrine was not entirely used as it would create a small window of time of weakness in the armored battalion until tank destroyers moved to the front. A41 M18 Hellcat  TD battalions assigned to front line divisions often split up to companies attached to regiments, and platoons attached to infantry battalions. A41 M18 Hellcat  When so attached, defending TD units supplemented organic antitank weapons (bazookas and 57mm towed guns). A41 M18 Hellcat [[image:Okinawa on the Shuri Line in May 1945. A41 M18 Hellcat  Note . A41 M18 Hellcat 30 cal. A41 M18 Hellcat jpg‎|thumb|200px|right|Okinawa on the Shuri Line in May 1945. A41 M18 Hellcat  Note . A41 M18 Hellcat 30 cal]]
+
+== Post War ==
+After World War II, many M18s were given to other countries. A41 M18 Hellcat  These were rebuilt and refurbished by Brown & Root in northern Italy in the late 1940s and early 1950s, and bear data plates that indicate those rebuilds. A41 M18 Hellcat  One of the users was Yugoslavia, which kept them in reserve until the early 1990s. A41 M18 Hellcat  A number of these vehicles were later used by the Military of Serbian Krajina and Army of Republika Srpska during the Yugoslav wars. A41 M18 Hellcat  One example was used on an armored train named the Krajina Ekspres (Krajina Express). A41 M18 Hellcat 
+Taiwan also operated several M18s until their chassis and hulls were worn out, at which point the turrets were salvaged and installed onto surplus hulls of M42 Duster anti-aircraft vehicles to produce Type 64 light tanks. A41 M18 Hellcat 
+
+== Variants ==
+*105 mm Howitzer Motor Carriage T88: M18 with the 76 mm gun replaced with a 105 mm T12 howitzer; canceled after the end of the war. A41 M18 Hellcat 
+*90 mm Cannon Motor Gun Carriage : M18 with the 76 mm gun replaced with a 90 mm Cannon; canceled after the end of the war
+*76 mm Gun Motor Carriage T86 (Amphibious): M18 with a specially-designed flotation hull, using its tracks for water propulsion. A41 M18 Hellcat 
+*76 mm Gun Motor Carriage T86E1 (Amphibious): Same as T86, but with the addition of propellers for propulsion. A41 M18 Hellcat 
+*105 mm Howitzer Motor Carriage T87 (Amphibious): This model had the 105 mm T12 howitzer of the T88, and like the T86, used its tracks for water propulsion. A41 M18 Hellcat 
+All work on the three amphibious models was canceled after the end of the war. A41 M18 Hellcat 
+
+|HistoricalGallery=
+image:An M18 towing an M18 at Fort Hood, Texas. A41 M18 Hellcat jpg ‎{{!}}An M18 towing an M18 at Fort Hood, Texas
+image:From the “Buick at its Battle Stations” booklet. A41 M18 Hellcat  Final assembly and inspection. A41 M18 Hellcat jpg ‎{{!}}From the “Buick at its Battle Stations” booklet. A41 M18 Hellcat  Final assembly and inspection
+image:Hellcat on Italian front. A41 M18 Hellcat jpg‎{{!}}Hellcat on Italian front
+image:Pair of Hellcats. A41 M18 Hellcat jpg ‎{{!}}Pair of Hellcats
+image:Immendorf, Germany, December 11th, 1944. A41 M18 Hellcat  “Radio OK”. A41 M18 Hellcat jpg ‎{{!}}Immendorf, Germany, December 11th, 1944. A41 M18 Hellcat  “Radio OK”
+image:In the mud at Fort Hood, Texas. A41 M18 Hellcat jpg ‎{{!}}In the mud at Fort Hood, Texas
+image:M18 Hellcat on high slope. A41 M18 Hellcat jpg ‎{{!}}M18 Hellcat on high slope
+image:M18 Hellcat showing USA Number. A41 M18 Hellcat jpg ‎{{!}}M18 Hellcat showing USA Number
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Zaloga, S. A41 M18 Hellcat J. A41 M18 Hellcat , 2004, <i>'''M18 Hellcat Tank Destroyer 1943–97'''</i>, New Vanguard Series 97, Osprey Publishing, Oxford, 48p,  ISBN:9781841766874. A41 M18 Hellcat 
+
+
+|Ref_links=
+
+https://www. A41 M18 Hellcat militaryfactory. A41 M18 Hellcat com/armor/detail. A41 M18 Hellcat asp?armor_id=250  '''M18 Hellcat Gun Motor Carriage'''
+* [https://www. A41 M18 Hellcat wwiivehicles. A41 M18 Hellcat com/usa/tank-destroyers/m18. A41 M18 Hellcat asp '''M18 Hellcat'''] Photos & history. A41 M18 Hellcat 
+
+}}

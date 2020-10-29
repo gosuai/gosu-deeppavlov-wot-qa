@@ -1,0 +1,102 @@
+{{for|the self-propelled gun|M7 Priest}}
+{{TankData|Tank=M7_med
+|It is extremely fast and maneuverable, but has thin armor and below average gun performance. A23 M7 med  However, the gun's weaknesses are offset by a decent dispersion penalty, so proper use of the M7 will employ all of the tank's strengths: high rate of fire, speed, and mobility. A23 M7 med  If exposed to enemy fire, the M7 can be destroyed rather quickly, so caution must be taken when engaging the enemy. A23 M7 med  The M7 is an excellent tank to have in a wolf pack, letting the sturdier medium tanks take the shots while the M7 flanks, keeping the enemy tracked or inflicting steady damage to the target. A23 M7 med 
+
+|Sidebar_GunAlt= 75 mm Gun M3
+|Sidebar_Camostop=14. A23 M7 med 9
+|Sidebar_Camomove=11. A23 M7 med 4
+|Sidebar_Camofire=4. A23 M7 med 6
+|Sidebar_Passhard=0. A23 M7 med 767
+|Sidebar_Passmed=0. A23 M7 med 863
+|Sidebar_Passsoft=1. A23 M7 med 63
+|Sidebar_DispTurret=0. A23 M7 med 153
+|Sidebar_DispRecoil=3. A23 M7 med 836
+|Sidebar_DispAccel=0. A23 M7 med 211
+|Sidebar_DispTurning=0. A23 M7 med 211
+
+|InTheGame_pros=
+* Excellent mobility and top speed
+* Decent alpha damage and dispersion on movement for its tier
+* 6-pounder gun has high APCR penetration
+* Great camo values, especially when given camo skills
+* Good traverse speed
+
+|InTheGame_cons=
+* Poor armor and low HP, combined with relatively bulky size
+* Troublesome gun selection: 75mm M3L has very low shell speed thus curved trajectory while 6-pounder has low accuracy
+* 6-pounder could barely fully utilize its DPM due to bad accuracy and after-shot dispersion
+* Even with the 6-Pdr. A23 M7 med  mounted its DPM is still below average
+
+|InTheGame_performance=
+The M7's terrible armor and low penetration result in it being somewhat dismissed. A23 M7 med  However, in the proper hands, the tank excels in many roles. A23 M7 med   It performs well as a flanker, and on the battlefield a good flanker is very important. A23 M7 med   The abysmal armor means that you will have to resort to guerrilla tactics, because a frontal assault is not an option under almost any condition. A23 M7 med  Flanking, stealth, using cover and situational awareness become paramount if you aim to be successful, because even lower-tier tanks are a serious threat to you. A23 M7 med  However, if you manage to stay alive, the high maneuverability and speed of this tank will let you relocate, flank and do evasive maneuvers with ease, bringing your steady guns to bear. A23 M7 med  The 6-pounder is considered to be the best gun for the tank, given a high rate of fire, best penetration values, though less-than-superb alpha damage, partially compensated by the high RoF. A23 M7 med  The guns combined with flanking maneuvers mean that enemies will receive a non-stop hail of fire into their rear armor to which most will succumb. A23 M7 med  In addition, with full camo skills, the M7 is extremely difficult to spot, making an efficient active, and passive scout. A23 M7 med  However, if spotted, relocation is a must, as you will be turned into scrap metal in an instant if you don't. A23 M7 med  In the early game, acting as a scout and taking a few shots is fine. A23 M7 med  Flanking should be reserved for the later game when you can assassinate isolated tanks, or when the opportunity presents itself. A23 M7 med 
+
+|InTheGame_research=
+* Sadly, nothing gets carried over from the M5 Stuart. A23 M7 med  
+* You desperately need to upgrade your firepower, by Tier V stadndard the 75mm M2L is seriously underpowered. A23 M7 med  Research the 6-pounder as soon as possible. A23 M7 med  It will give you a much-needed boost in penetrating power and damage. A23 M7 med 
+* You can research the Wright Continental R-975C1L engine at any time from here on. A23 M7 med 
+* Research the SCR 528 radio next to prevent losing contact with teammates on large maps. A23 M7 med  410m isn't a *great* radio range, especially on mid-Tiers where this parameter still matters. A23 M7 med  Also, this is the top radio for the M7 Priest, the Chaffee, the Tier VII and VIII American heavy tanks and the Tier VIII and IX American medium tanks and tank destroyers. A23 M7 med  You'll thank yourself for unlocking it early once you get up to the higher tiers. A23 M7 med 
+* Researching the upgraded suspension next will make you a little more nimble and you'll need the extra weight capacity to mount equipments. A23 M7 med 
+* It is advised that one research 75mm M3L only for unlocking the next tank, T21, as that negligible 2mm of penetration and some accuracy (not to mention the latter is very limited by low shell speed) simply worths not using. A23 M7 med  It's essentially the M3 Lee's gun on a tank that's one Tier higher. A23 M7 med . A23 M7 med . A23 M7 med  absolutely pointless; the 6 pounder is the gun that makes the tank most effective. A23 M7 med 
+
+|InTheGame_equipment=
+ Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents, Binocular Telescope, Camouflage Net, Toolbox
+
+|Gallery=
+image:M7_001. A23 M7 med jpg 
+image:M7_002. A23 M7 med jpg
+image:M7_003. A23 M7 med jpg
+image:M7_004. A23 M7 med jpg
+
+|History=
+
+The T7 Light Tank/ M7 Medium Tank was originally designed to replace the M3 Light Tank and M5 Light Tank, but it outgrew its original purpose and was accepted for production as the M7 Medium Tank before being cancelled. A23 M7 med  By the autumn of 1940 the US Armored Force was beginning to look at replacing the existing M2A4 and M3 Light Tanks, both of which were armed with a 37mm gun, carried fairly thin armour and had little potential to be upgraded. A23 M7 med 
+
+In January 1941 the Armored Force issued a more detailed specification for the new vehicle. A23 M7 med  It was to weight around 14 tons (short), have a low profile, be armed with a 37mm gun and carry up to 38mm of armour. A23 M7 med 
+
+The Rock Island Arsenal produced two designs, the T7 and the T7E1. A23 M7 med  The basic layout was the same on both. A23 M7 med  The new tank had sloped frontal armour, curved sponsons over the tracks and a smoothly curved turret. A23 M7 med  They differed in details. A23 M7 med  The T7 was to have a welded hull, cast turret and vertical volute suspension (as used on the M3 and M5 Light Tanks). A23 M7 med  The T7E1 was to have horizontal volute suspension, a cast/ welded turret and a riveted hull and superstructure. A23 M7 med  The new tank was longer and wider than the M3 family, not having suffered from the same width restrictions as the earlier design, but it was slightly lower, giving it the required low profile. A23 M7 med  
+
+Neither of these original prototypes were completed. A23 M7 med  Riveted construction was abandoned during 1941 and so the T7E1 was cancelled. A23 M7 med  Work on its chassis was already quite advanced, and it was later used for suspension and transmission tests. A23 M7 med  A wooden mock-up of the T7 was built, and in the autumn of 1941 the Ordnance Department decided to move on to three new prototypes. A23 M7 med 
+
+The T7E2 was to have a cast hull and turret and Wright R-975 engine. A23 M7 med  The T7E3 had a welded hull and turret, twin Hercules diesel engines and automatic transmission. A23 M7 med  The T7E4 was to have a welded hull and turret and the same combination of twin Cadillac engines and Hydro-matic transmission, already under consideration for use in the M5 Light Tank. A23 M7 med  These three prototypes would have been around 16 tons in weight. A23 M7 med 
+
+After some further development work the T7E2 was accepted as the most promising of the three designs. A23 M7 med  The design was officially approved in December 1941 and work began on a single prototype. A23 M7 med  While the tank was under production it was decided to arm it with the same 57mm gun then being used on the Canadian Ram tank. A23 M7 med  This was a version of the British 6pdr gun. A23 M7 med  The turret ring from a Ram was combined with a modified T7 turret and this version of the tank was completed in June 1942. A23 M7 med 
+
+At this stage the T7E2 performed well, and would have been a useful replacement for the M3 and M5, but the Armored Force made further changes. A23 M7 med  As the T7E2 prototype was being completed they requested that it be up-armed to carry a 75mm gun, and asked for thicker armour. A23 M7 med  With the new turret the tank now weighted 25 (short) tons, making it a medium tank. A23 M7 med 
+
+In August 1942 the T7 was standardized as the M7 Medium Tank. A23 M7 med  International Harvester Co was awarded a contract to produce 3,000 M7s, with the first to be delivered in December 1942. A23 M7 med 
+
+The first production-standard M7 reached the Armored Force at Fort Knox in December 1942. A23 M7 med  It proved to be very disappointing. A23 M7 med  Fully loaded it weighted 29 (short) tons, but still had the same engine as when it was a light tank. A23 M7 med  It was thus badly underpowered giving it poor performance. A23 M7 med  In an attempt to fix this problem work began on the M7E1, which was to use a Ford V-8 engine, but the Ordnance Department began to worry about the duplication of effort involved in producing two medium tanks. A23 M7 med  The M4 Sherman was now in full production and didn’t have the same problems as the M7. A23 M7 med  In February 1943 production of the M7 was cancelled, after seven had been completed. A23 M7 med  Work on the M7E1 continued for a little longer, but was cancelled in July 1943. A23 M7 med   
+
+The failure of the M7 meant that the US Army had to begin work on a new light tank. A23 M7 med  The eventual solution was the M24 Chafee, but this didn't enter service in large numbers until late in 1944, leaving the M5 Stuart to fight on in British and American service despite being badly under-gunned and under-armoured. A23 M7 med 
+
+
+Variants:
+
+* T7 - Welded hull, five speed Hydramatic transmission, volute spring suspension
+* T7E1 - Riveted hull, formed homogenous plate turret, torque converter
+* T7E2 - Cast upper hull, Wright R-975 Engine, Warner Gear torque converter, armed with Ordnance QF 6-pounder Mark III
+* T7E3 - Welded hull and turret, twin Hercules DRXBS diesel engines, Detroit Gear automatic transmission
+* T7E4 - Welded hull and turret, twin Cadillac engines, two Hydramatic transmissions
+* T7E5 - T7E2 rearmed with 75 mm M3 standardized as M7 medium
+
+|HistoricalGallery=
+image:M7-medium-01. A23 M7 med jpg{{!}}M7
+image:M7-02. A23 M7 med jpg{{!}}M7
+image:M7 1. A23 M7 med jpg{{!}}The first model of the M7, the T7
+
+|Ref_references=
+
+* Hunnicutt, R. A23 M7 med P. A23 M7 med  Stuart: A History of the American Light Tank, volume 1. A23 M7 med  Navato, CA: Presidio Press, 1992. A23 M7 med 
+* Chamberlain, Peter, and Chris Ellis. A23 M7 med  British and American Tanks of World War Two. A23 M7 med  Frome, England: Cassell & Co. A23 M7 med , 2000. A23 M7 med 
+* AGF Board No. A23 M7 med  2. A23 M7 med  Development of Armored Vehicles, volume 1: Tanks. A23 M7 med  1947. A23 M7 med 
+* Kirk, William. A23 M7 med  "Medium Tanks. A23 M7 med " TANKS! 19 Oct 2000. A23 M7 med  21 Debc 2001
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. A23 M7 med historyofwar. A23 M7 med org/articles/weapons_m7_medium_tank. A23 M7 med html
+* https://afvdb. A23 M7 med 50megs. A23 M7 med com/usa/mediumtankm7. A23 M7 med html
+* https://en. A23 M7 med wikipedia. A23 M7 med org/wiki/Medium_Tank_M7
+
+}}

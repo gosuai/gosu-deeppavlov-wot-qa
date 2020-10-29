@@ -1,0 +1,68 @@
+{{TankData|Tank= FV217 Badger
+| Replaced the [[Tank:GB48_FV215b_183|FV215b (183)]] at the tier 10 position in the British Turretless Tank Destroyer line. GB92 FV217  The '''FV217 Badger''' shocks anyone who faces it (or reads its paper stats) with its listed insane frontal armor of 355mm. GB92 FV217  However, the 355mm of armor only exists around the gun, and the rest of its frontal armor is only around 210mm in thickness (and around 270mm at view spots). GB92 FV217  This may give the wrong impression though since the 210mm part of its armor is decently sloped (Similar to [[StuG III]]) which adds about another 90mm of armor resulting in 300mm+ on its upper frontal plate. GB92 FV217  It wields a nasty 123mm gun which provides the highest DPM in the game. GB92 FV217  Fighting this vehicle frontally is not advised. GB92 FV217 
+
+Although it seems to be almost invincible from the front, The Badger doesn't have all-around protection like the [[Tank:GB32_Tortoise|Tortoise]], even it was getting rid of "tumor" weakspot that hampering the effectiveness of AT brother's protection, it gained new and somewhat easier to hit weakspot at lower plate (which is harder to hide on flat terrain), its side and rear armor is noticeably weaker than that of the Tortoise. GB92 FV217  In addition its still lacking in mobility and flankers will have an easy time tearing this vehicle apart. GB92 FV217 
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Highest DPM of any tank in the game, enough to kill every tank in less than a minute if all shots were to penetrate<br />
+- Although the 355mm frontal armor only applies to the gun mantlet, the rest of it is sloped which makes it hard to penetrate with about 300+mm of effective armor. GB92 FV217  Very few tanks are able to challenge this vehicle frontally<br />
+- Decent HP pool (2100)<br />
+- Great gun handling, incredible aim time combined with great accuracy and an awesome rate of fire<br />
+- Great gun depression and elevation (-10/20 degrees) combined with its well-sloped frontal armor turns this vehicle into a perfect hull down tank<br />
+
+
+|InTheGame_cons= 
+- Overall raw armor stats are lower than its predecessor, which enables taller opponents to mitigate the sloping of the Badgers frontal plate, facing opponents with big guns like [[Tank:G72_JagdPz_E100|JagdPanzer E-100]] are real tough experience<br />
+- Lower plate is fairly weak and often compromises its frontal protection, especially in close range combat and on flat terrain<br />
+- Terrible side and rear armor, which results in a lesser angling capability than its predecessor<br />
+- Although its faster than the Tortoise, it's still slow and thus vulnerable to flanking attempts<br />
+- 2nd worst penetration value of all tier 10 TDs, premium rounds also have below average penetration<br />
+- Much more vulnerable against SPGs than its predecessor due to its weaker raw frontal armor and very poor roof armor<br />
+
+
+
+|InTheGame_performance= 
+Think of the Badger as a steadfast bastion. GB92 FV217  It is a slowly moving DPM monster with amazing armor, enemies will find it extremely difficult to penetrate you frontally even with gold ammo and your gun mantlet is so strong that it can even absorb artillery shells. GB92 FV217   What you want to do is take major defending positions where you can hide your lower plate, regardless of the distance: the Badger does not only have the best DPM but also very good gun handling stats, so sniping is an option (although things can get quite tricky when facing armored opponents from a distance due to quite bad penetration). GB92 FV217  Once you are in position and start firing, opponents will be in a very troublesome situation if they don't start falling back early: you can take down tier VIII heavies in 3-4 shots, that is about 21-28 seconds with vents, rammer and BiA (with improved equipment and food it can get even crazier). GB92 FV217  Due to its reliable, consistent firepower and protection this tank is one of the best, if not the best defending vehicle given that other tanks do not get very close to you. GB92 FV217  Once they do things start to go south for the Badger, as opponents can easily track you, flank you and hit your weak lower plate and sides. GB92 FV217  That is another reason why the Badger is NOT intended to be played aggressively. GB92 FV217  Playing safely is a priority for the Badger to avoid flanks and shots to your weak sides. GB92 FV217  You can sometimes play along with heavies but only if you are certain you can obstruct your opponents from aiming your lower plate or perhaps if you are on a top tier match-up, otherwise you are staying back. GB92 FV217  Avoid towns at all costs. GB92 FV217  Artillery can be quite the headache as you are really slow and the shock will ruin your very important RoF. GB92 FV217  Generally HE shells are quite troublesome and frequent so spall liner is recommended. GB92 FV217 
+{{VideoYT|Fk2DV7RiQGE}}
+|InTheGame_research= Vehicle is elite in stock configuration. GB92 FV217  
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics, Binocular Telescope, Spall Liner, Toolbox
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The FV217 Badger as it appears in World of Tanks is a combination of the FV205 and FV217 proposals - specifically, its model is based on the wooden mock-up that was made of the FV205, while the name is from the later FV217. GB92 FV217 
+
+
+There is little known information on both projects - the FV205 and FV217 were intended to be casemate tank destroyers, based on the chassis of the FV201 tank. GB92 FV217  The FV201 chassis was later used for the FV221 Caernarvon and the FV214 Conqueror. GB92 FV217 
+
+The FV205 was designed as a "Self-Propelled Medium Anti-Tank gun". GB92 FV217  A scale model was built in 1947, but the project itself was later cancelled in 1949. GB92 FV217  The intended armament, as well as the planned armor layout, is unknown. GB92 FV217 
+
+The FV217 was a later proposal to mount a 120mm cannon into a modified FV201 chassis, designed as a "Self-Propelled 120 Medium Anti-Tank" vehicle. GB92 FV217  Like the FV205, almost nothing is known about the project. GB92 FV217  Its designation indicates that it was proposed later than the FV214 Conqueror, possibly due to the complications and delays with the heavy tank. GB92 FV217  Nevertheless, the FV217 was also cancelled. GB92 FV217 
+
+|HistoricalGallery= 
+file:Badger1. GB92 FV217 jpg{{!}}Mock-up of the FV205. GB92 FV217 
+image:Badger2. GB92 FV217 png{{!}}Mock-up of the FV205. GB92 FV217  Despite the caption, the tank was based on the FV201 chassis, not the Conqueror (the Conqueror was not built until the 50's, while the FV201 was built much earlier)
+
+|HistAcc=
+* As there are no known blueprints for the FV217 nor the FV205, it is highly possible that its specifications such as frontal armor layout and gun arc were made up by Wargaming. GB92 FV217 
+* The FV217 had no official "Nickname" mentioned, the name "Badger" is most likely fictional. GB92 FV217 
+* The OQF 123 mm Mk. GB92 FV217  1 never existed. GB92 FV217  In addition, the only known armament proposed for the FV217, a 120mm cannon, is unavailable in World of Tanks. GB92 FV217 
+
+|Ref_references=
+
+|Ref_sources=
+* Norman, Michael, AFV Profile No. GB92 FV217  38 Conqueror Heavy Gun Tank Profile Publications. GB92 FV217 
+
+|Ref_links=
+* https://thedailybounce. GB92 FV217 net/2017/09/14/conqueror-casement-test-rig-fv215b-183-replacement/
+* https://arcaneafvs. GB92 FV217 com/fvlist. GB92 FV217 html
+* https://www. GB92 FV217 tanks-encyclopedia. GB92 FV217 com/coldwar/UK/chieftain-concept-test-rig-ctr-spg: See the "FV217 Conqueror self-propelled gun proposal"
+
+}}

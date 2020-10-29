@@ -1,0 +1,74 @@
+{{TankData|Tank=Ch20_Type58
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=14. Ch20 Type58 3
+|Sidebar_Camomove=10. Ch20 Type58 6
+|Sidebar_Camofire=3. Ch20 Type58 7
+|Sidebar_Passhard=0. Ch20 Type58 959
+|Sidebar_Passmed=1. Ch20 Type58 055
+|Sidebar_Passsoft=1. Ch20 Type58 822
+|Sidebar_DispTurret=0. Ch20 Type58 115
+|Sidebar_DispRecoil=3. Ch20 Type58 836
+|Sidebar_DispAccel=0. Ch20 Type58 211
+|Sidebar_DispTurning=0. Ch20 Type58 211
+
+|Bootleg [[Tank:R07_T-34-85|T-34-85]] from China, it shares similarity to its bootleg predecessor. Ch20 Type58  It only has 2 guns that don't make much difference. Ch20 Type58  Useless when bottom tier, and its modules can get damaged often. Ch20 Type58  But many characteristic are ripped from T-34-85 and it still makes it a capable opponent to face in tier 6 match. Ch20 Type58 
+
+
+
+|InTheGame_pros=
+-''See [[T-34-85]] for more detail; only differences are listed here''
+
+* Marginally better agility due to lower terrain resistance and better traverse speed
+
+* High RoF to compensate for its worse alpha damage, also carries more shell
+
+* Higher HP pool
+
+* Higher view range
+
+
+|InTheGame_cons=
+* Gun depression is worse than on the T-34-85 by -2°; accuracy, penetration and shell velocity are all worse too. Ch20 Type58 
+
+* The top gun is practically still the same but a bit more accurate, barely an improvement. Ch20 Type58 
+
+* Way weaker engines than the T-34-85, takes long to accelerate. Ch20 Type58 
+
+* Worse armor layout, including an extra cupola, less reliable gun mantlet and no tracks mounted on glacis
+
+
+
+|InTheGame_performance=
+
+Probably one of the worst tier 6 mediums due to less potential in various battles, one of the strongest points of the Type 58 is its adequate stock grind. Ch20 Type58  Whereas other mediums in stock configuration must deal with subpar weapons, the Type 58 starts with an 85mm that is identical to its top gun in damage, ROF and aim time. Ch20 Type58   Its engine is only 20hp weaker than the top engine, and its stock tracks are more maneuverable than its Russian counterpart's fully upgraded tracks. Ch20 Type58  As such, the Type 58 in stock performs largely the same as its fully upgraded configuration, a blessing and a curse. Ch20 Type58  Be aware that the stock gun, while packing good alpha, is inaccurate and has a tendency to shoot into the corners of the reticule. Ch20 Type58  Your armor, while surprisingly bouncy at times, will suffer if it comes into contact with the 122mm guns of the IS series, so never rely on your armor to protect you. Ch20 Type58  Be aware of the limitations of your dismal gun depression, which prevent you from assuming hull down and makes it unsafe to climb hills. Ch20 Type58  Compared to it's Soviet counterpart, the T-34-85, the Type 58 trades 16 less penetration, 20 less alpha damage, much shell velocity and . Ch20 Type58 01 accuracy for better agility and ROF. Ch20 Type58  With the same 128 penetration as the M4A3E8, it should be played like one. Ch20 Type58  Flank enemy heavies when possible and put your high DPM to good use. Ch20 Type58  Its high DPM also gives you an edge while dueling with other tier 6 medium tanks, but brawling alone is ill-advised because of the low alpha. Ch20 Type58  The grind will also get a little bit easier if you max out the only real strong point of this tank-view range. Ch20 Type58     
+
+One option is to carry a decent supply of High Explosive ammunition. Ch20 Type58  While the 85mm 56-85JT cannon is no howitzer and these shells will rarely if ever penetrate for full damage, 43 penetration with 280 damage is on par with the HE shells of the [[Tiger I]], and you have a higher rate of fire. Ch20 Type58  Use these shells to detrack enemies, knock out modules, kill crew, and generally cause grief to enemies you might not be able to kill directly. Ch20 Type58  With 60 rounds of ammunition on board, you will not be hurting for spare ammo capacity the way you might in a [[T-34-85]]. Ch20 Type58 
+
+|InTheGame_research=
+	
+The Type 58 in its stock configuration performs largely the same as its fully upgraded configuration, so there is really no way to go wrong here. Ch20 Type58  First research the tracks to make the most of your maneuverability. Ch20 Type58  The gun comes next, adding much-needed accuracy to an otherwise robust gun. Ch20 Type58  The radio will allow you to properly fulfill your role as a flanker, so research that next. Ch20 Type58  The middle engine adds no HP and only reduces the likelihood of fire, while the top engine adds an underwhelming 20 hp. Ch20 Type58  However, the top engine is also the top engine on T-34-1, and researching the engines on the Type 58 circumvents the need to use the even more inadequate stock engine on the T-34-1. Ch20 Type58 
+If you are going up the chinese medium tank line, the 85mm 56-85JT is required for researching and mounting the next 2 tanks' top turrets and also guns. Ch20 Type58  It is '''highly''' recommended to research and grind this tank if you are planning to go up the chinese medium tank line. Ch20 Type58  
+
+|InTheGame_equipment=Improved Ventilation Class 2,Medium-Caliber Tank Gun Rammer
+
+
+|Gallery=
+
+
+|History=
+In the early 1950s the U. Ch20 Type58 S. Ch20 Type58 S. Ch20 Type58 R exported a total of 1,800 T-34-76 and T-34-85 tanks to China. Ch20 Type58  In 1954 the Chinese government made a decision to begin domestic production of the T-34-85 in 1958, with the new vehicle designated the Type 58. Ch20 Type58  However, mass production was never initiated, and the Chinese army settled for modifications to the T-34s. Ch20 Type58  Limited number of domestically made Type 58 tanks were produced, although it is not clear in what percentage were those tanks Chinese made, as they shared a lot of spare parts with Soviet made T-34 tanks, which were available at a very low price and in large numbers. Ch20 Type58  At the time of the production, Type 58 was completely obsolete. Ch20 Type58  
+
+|HistoricalGallery=
+Type 58. Ch20 Type58 jpg
+Type 58 (2). Ch20 Type58 jpg
+Type 58 (3). Ch20 Type58 jpg{{!}}Chinese T-34/85 wreck at Chosin Reservoir, Korea. Ch20 Type58 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

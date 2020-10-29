@@ -1,0 +1,67 @@
+{{TankData|Tank=T3 HMC
+|The T3 HMC is replaces the [[T18]] as the tier 2 American tank destroyer after the latter was moved to tier 3 and pushed into the artillery class. A46 T3  The T3 is lightweight and fast, undeniably the quickest of the tier 2 tank destroyers. A46 T3  This speed allows it to rapidly respond to changing battlefield conditions, quickly bringing one of two tier 4 guns to where it can be most effective. A46 T3  Due to its low armor, however, it is fragile and easily damaged, so care must be taken to avoid destruction. A46 T3 
+
+|Gallery=
+
+File:T3 HMC scr 1. A46 T3 jpg
+File:T3 HMC scr 2. A46 T3 jpg{{!}}75 mm AT Howitzer M1A1
+File:T3 HMC scr 3. A46 T3 jpg{{!}}QF 2-pdr Mk. A46 T3  IX
+File:T3 HMC scr 4. A46 T3 jpg
+
+
+|InTheGame_pros= 
+* Choice of two decent top guns
+* Stock 37mm AT gun has fast RoF and quick aim time
+* Blistering top speed, high power:weight ratio
+* Acceptable traverse
+* Very high gold penetration
+
+|InTheGame_cons= 
+* Thin, mostly flat armor, huge weak spot around gun--vulnerable to HE
+* 75mm howitzer is inaccurate
+* Lowest HP of the tier 2 tank destroyers
+* Has a non-functional 'tumor turret' like the M3 Lee, easy to hit
+* Horrible signal, view ranges and reverse speed
+
+|InTheGame_performance= 
+The T3 HMC serves as the tier 2 American tank destroyer, replacing the old T18. A46 T3  Unlike the vehicle it replaced it is fast, agile, and thinly armored. A46 T3  In this way it plays more like the [[T82]] did when it was the tier 3 tank destroyer instead of a tier 4 SPG. A46 T3  Players who remember that vehicle will have some familiarity with how the T3 handles as a result. A46 T3 
+
+The T3's main hallmark is its speed. A46 T3  With a high top speed and horsepower/ton ratio, it can quickly reposition itself on the map or flee a bad situation. A46 T3  It also has a choice of two decent guns, with the QF 2-pdr Mk. A46 T3  IX allowing it to deal consistent damage with good penetration, while the 75mm AT Howitzer M1A1 gives it the best alpha damage of its tier, even surpassing the [[AT-1]]. A46 T3  The choice of gun also dictates how best to play the T3. A46 T3  With the QF 2-pdr, it's best to stay at middle range and use its rate of good rate of fire to pile on damage. A46 T3  The inverse is true with the 75mm howitzer--the best choice then is to take the T3 closer, and preferably onto the flanks of opponents, to hit them from the sides with 175 High Explosive damage. A46 T3  Both guns also feature very high penetration on their APCR and HEAT ammo. A46 T3 
+
+It buys this speed and firepower at a price. A46 T3  Its armor is poor--though not as thin as the [[Universal Carrier 2-pdr]]--and mostly flat. A46 T3  Its view range is horrid, at 270 meters--second worst only behind the [[AT-1]] in its tier and class. A46 T3  It also suffers from a very weak radio with a range of just 265 meters and no option to upgrade. A46 T3  This means that it has to stay nearer to the front to make the most of its allies' spotting ability. A46 T3  Optics of some kind are almost mandatory--binoculars are probably a better choice, as coated optics would only extend its range to just 297 meters. A46 T3 
+
+The T3 is not a bad little machine, and in spite of its shortcomings it is a lot of fun to play thanks to its high speed and good firepower. A46 T3  It's good early training for the fast, powerful, but fragile mid-tier American tank destroyers, such as the [[M8A1]], [[T67]], or [[Hellcat]]. A46 T3 
+
+|InTheGame_research= 
+* With so few choices, research the QF 2-pdr. A46 T3  for improvements to penetration and damage. A46 T3 
+* Research the 75mm howitzer for a big boost to DPM. A46 T3 
+* Research the engine and suspension at your leisure. A46 T3 
+
+|InTheGame_equipment=
+Camouflage Net, Binocular Telescope, Coated Optics, Enhanced Vertical Coil Springs 1 Class
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The T3 HMC, otherwise known by its full designation of the '''T3 75mm Howitzer Motor Carriage''', was an early attempt by the United States Army to provide a self-propelled artillery piece by mounting an M1A1 75mm pack howitzer on the chassis of an M1 Combat Car (which would later redesigned as the "M1 Light Tank"). A46 T3  The old turret, which was centrally-mounted and carried two machine-guns, was removed on the T3 and replaced with a small turret offset to the left, which carried only one machine-gun (reminiscent of one of the mini-turrets on the M2A2 Light Tank, which mounted two of them side-by-side instead of a single turret). A46 T3 The howitzer, mounted to the right side in the crew compartment, was flanked by two narrow 'doors' for protection during transit, which could be opened to expand the gun's firing arc. A46 T3  The gun could still, in theory, be fired with the doors closed; however, the lack of any gun traverse meant that the gun could only be elevated or lowered from the position, and the entire vehicle would have to turn to track the gun from side-to-side. A46 T3 
+
+The conclusion made by the US Field Artillery command was that the tank was simply too crowded to function properly, even with just two crew members manning the HMC. A46 T3  The position of the gun in the crew compartment made the interior very cramped for the driver and commander, and it was impossible for the crew to offer effective and/or efficient support in combat in such tight conditions. A46 T3  The Armored Force division examined the rejected prototype, hoping to press it into service as an assault gun; along with Field Artillery, they spurned it for the same reasons as before. A46 T3  Despite the failure of the model, data gathered from testing was useful in the development of the T18 HMC, although the new design was also regarded as unsuccessful. A46 T3 
+|HistoricalGallery= 
+image:1392774512 otvaga2004 us-artillery 02. A46 T3 jpg{{!}}The T3 HMC prototype. A46 T3  The machine gun nominally mounted in the small side turret is not present. A46 T3  Note how the doors flanking the gun are closed; this severely limited the gun's tracking ability, as shown here. A46 T3 
+
+image:1392774489 otvaga2004 us-artillery 03. A46 T3 jpg{{!}}The frontal profile of the T3 HMC. A46 T3  The side doors are opened (and the gun can now move in a larger arc), and the designation 'E 1' is emblazoned above the closed driver's window (probably shorthand for 'Experimental, model 1'). A46 T3  The name 'Griffith' on the side glacis is possibly the name of one of the tank's designers, or a nickname given to the prototype. A46 T3 
+
+image:1392774518 otvaga2004 us-artillery 01. A46 T3 jpg{{!}}The side profile of the T3 HMC. A46 T3  Note the opening in the side to allow easier access to the crew compartment. A46 T3  An emblem of a bird is present on the MG turret's side, in the style of a cavalry badge (the M1 chassis was originally ordered for the US cavalry, thus owing to its 'Combat Car' designation). A46 T3 
+|HistAcc=
+*Only the 75mm M1A1 pack howitzer was used on the T3. A46 T3  No other weapons were tested or even considered for this tank. A46 T3 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+*https://topwar. A46 T3 ru/39962-sau-t3-howitzer-pervaya-klassicheskaya-samohodka-ssha. A46 T3 html
+*https://www. A46 T3 historyofwar. A46 T3 org/articles/weapons_T3_75mm_HMC. A46 T3 html
+
+}}

@@ -1,0 +1,34 @@
+{{TankData|Tank=T-34-2G FT
+
+
+
+|InTheGame_pros= 
+- Low profile and fairly small size provides exceptional camo ratings
+
+- Sloped frontal can deflect some hits from low-tier guns
+
+- Acceptable penetration and alpha damage, Top gun has impressive alpha at 390
+
+- Very high mobility and traverse speed
+
+- Fairly painless stock grind (the stock gun has only 14mm less penetration than the top gun)
+
+|InTheGame_cons= 
+- Very low HP pool (800)
+
+- Horrible accuracy and aim time
+
+- Overall armor is fairly weak, Can be juicy targets for SPGs
+
+- Top gun has high ammo cost for its tier
+
+- Low ammo capacity (40 rounds with stock gun and 30 rounds with top gun)
+
+- Infuriatingly slow and frustrating agility without the top engine
+
+|InTheGame_performance= 
+This tank plays out fairly similar to the SU-122-44, having higher penetration but a lower rate of fire. Ch35 T-34-2G FT  As this tank is based off the T-34-2 it has exceptional camoflage values but very poor armour and a low HP pool, so this tank is not designed to brawl (unlike the SU-122-44, which under the right circumstances can pull it off). Ch35 T-34-2G FT  However, the poor accuracy and aim time of the gun, as well as the narrow firing arc trait of the Chinese TDs makes sniping fairly problematic as well. Ch35 T-34-2G FT  This tank is designed to sit on the middle line, where it can make use of its good alpha and nice DPM. Ch35 T-34-2G FT  This tank works well supporting flanks and ambushing unsuspecting enemies with the alpha damage and decent rate of fire, but don't expect to be able to take hits when they realise what you're up to. Ch35 T-34-2G FT 
+
+The T-34-2G FT is a good, if not generic, tank destroyer for it's tier that can work well if the raw damage output is abused, whilst keeping the weaknesses of poor frontal armour and gun handling in mind. Ch35 T-34-2G FT 
+
+}}

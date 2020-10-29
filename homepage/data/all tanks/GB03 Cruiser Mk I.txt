@@ -1,0 +1,72 @@
+{{TankData|Tank=GB03_Cruiser_Mk_I
+|The first tank in the British tech tree as of 1. GB03 Cruiser Mk I 9, this combat tank is still a slow, lightly-armored, well-armed machine. GB03 Cruiser Mk I 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* 180 damage clip potential with Pom-Pom prototype
+* 15 degrees of gun depression
+
+|InTheGame_cons=
+* Slow
+* Poor aim time, accuracy, and DPM with both guns
+
+|InTheGame_performance=
+
+Despite being knocked down a tier, not much has changed for the Cruiser I. GB03 Cruiser Mk I  Everything has been scaled down to match its new tier, and it plays similarly to how it did in 1. GB03 Cruiser Mk I 8. GB03 Cruiser Mk I 
+
+This tank is rather slow, with a top speed of only 35 km/h, and it is certainly not agile either. GB03 Cruiser Mk I  Combined with its weak armor, you will die quickly if caught in the open. GB03 Cruiser Mk I  While the stock gun is a standard Tier 1 single-shot gun, the tank improves quite a bit when you unlock the Pom-Pom prototype. GB03 Cruiser Mk I  With a clip potential of 180, you can two-clip every same-tier tank assuming all shots land, something that is otherwise only possible with the T1 Cunningham's top gun. GB03 Cruiser Mk I  In addition, while your armor is still nothing noteworthy and is unlikely to bounce anything, it fits much better with the other Tier 1 tanks. GB03 Cruiser Mk I  
+
+|InTheGame_research=
+* As a Tier 1 vehicle, the '''40mm Pom-Pom prototype''' gun is the only module available for research. GB03 Cruiser Mk I 
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension, Camouflage Net
+
+|History=
+Cruiser Mk I
+
+Cruiser, Mk I (A9) was a British cruiser tank of the interwar period. GB03 Cruiser Mk I  It was the first cruiser tank: a fast tank designed to bypass the main enemy lines and engage the enemy's lines of communication, along with enemy tanks. GB03 Cruiser Mk I  TheCruiser Mk II was a heavier armoured adaptation of the Mark I developed at much the same time. GB03 Cruiser Mk I 
+
+==Development history==
+
+In 1936 the British War Office designated two different kinds of tanks for future development: heavily armoured infantry tanksto be used in close co-operation with infantry during attacks, and fast mobile cruiser tanks designed to make forays deep into enemy territory. GB03 Cruiser Mk I  In 1934 Sir John Carden of Vickers-Armstrong was asked to provide a "reasonably cheap tank" as a replacement for some of the mediums then in use. GB03 Cruiser Mk I  The pilot model of his design was finished in 1936 and given the designation A9E1. GB03 Cruiser Mk I  It incorporated the best features of the earlier Mk III Light Tank, and was powered by a commercial petrol engine. GB03 Cruiser Mk I  However, this was still in the time of the Great depression and the tank had a number of cost-cutting measures applied. GB03 Cruiser Mk I  It was the first British tank to have a centrally located turret and to have powered traverse. GB03 Cruiser Mk I  The system was by Nash & Thompson and similar to that being introduced on the Vickers Wellington bomber aircraft. GB03 Cruiser Mk I  The armour was light with a maximum of 14 mm thickness, many armour faces were vertical, and there were numerous shot traps but it could achieve 25 mph and carried the new high velocity 2pdr gun. GB03 Cruiser Mk I 
+
+The driver's compartment and the fighting compartments were not separated. GB03 Cruiser Mk I  As well as the turret armament, which consisted of a QF 2-pounder (40 mm) gun and a coaxial Vickers machine gun, there were two small turrets either side of the driver's compartment, each sporting one more machine-gun. GB03 Cruiser Mk I  Both these smaller turrets were permanently manned, which gave the tank a total crew of 6 (Commander, gunner, loader, driver and two machine-gunners). GB03 Cruiser Mk I The A9E1 was tested against other designs and -although lacking in some areas - in 1937 it was accepted as an interim design until a Christie suspension cruiser tank could be delivered. GB03 Cruiser Mk I  An order was placed for 125. GB03 Cruiser Mk I  Seventy-five were built byHarland and Wolff, and the other 50 were built by Vickers. GB03 Cruiser Mk I  Originally a Rolls-Royce car engine was used, but this proved underpowered and was replaced by an AEC bus engine. GB03 Cruiser Mk I 
+
+The later Valentine Infantry tank essentially used the same lower hull and suspension, though with considerably more armour. GB03 Cruiser Mk I  The A9 weighed 12 tons, was 5. GB03 Cruiser Mk I 8 metres long, 2. GB03 Cruiser Mk I 65 metres high, 2. GB03 Cruiser Mk I 5 metres wide, and had a top speed of 25 mph on road and 15 mph off. GB03 Cruiser Mk I  Its maximum road range was 150 miles. GB03 Cruiser Mk I  The ammunition load was 100 2-pounder rounds and a total of 3,000 rounds for the three Vickers machine guns. GB03 Cruiser Mk I 
+
+
+==Combat history==
+
+The Mark I cruiser began to be delivered in January 1939. GB03 Cruiser Mk I  The Cruiser was an effective tank in the French, Greek and early North African campaigns. GB03 Cruiser Mk I  The 2 pdr gun was lethal against the early Italian tanks encountered during the North African campaign and could hold its own against Rommel's early Panzer IIs and IIIs. GB03 Cruiser Mk I  The A9's 2-pounder gun could also breach the 20 – 30 mm of protective steel on later opponents such as the Panzer III ausf D and the Panzer IVausf D variants. GB03 Cruiser Mk I  It was effective until the Germans introduced the more thickly armoured Panzer IV ausf E variant to the desert in Spring 1941. GB03 Cruiser Mk I  However, the minimal armour made the A9 an easy kill for most Axis anti-tank weapons. GB03 Cruiser Mk I  Also problematic was the lack of High Explosive shells for the 2 pdr gun and even worse the lack of AP for the 95 mm gun on the Close Support version. GB03 Cruiser Mk I  Another issue was that the areas around the front machine gun turrets created a frontal surface that was more vulnerable to enemy fire than it would have been had it been a flat plate, let alone a sloped glacis. GB03 Cruiser Mk I  The mechanical unreliability of the Cruiser was also a disadvantage. GB03 Cruiser Mk I  In particular, tracks were easily slewed causing difficulties. GB03 Cruiser Mk I 
+
+==Variants==
+
+'''Mark I (A9)’’
+
+-	Used by the 1st Armoured Division in the Battle of France (1940). GB03 Cruiser Mk I  Used by the 2nd and 7th Armoured Divisions in North Africa until 1941. GB03 Cruiser Mk I 
+
+'''Mark I CS'''
+
+-	Had a 3. GB03 Cruiser Mk I 7 inch (94 mm) /L15 breech-loaded mortar instead of the 2-pounder gun. GB03 Cruiser Mk I  40 rounds, mostly smoke, were carried. GB03 Cruiser Mk I 
+
+|HistAcc=
+Historical [[Gun/UK#3. GB03 Cruiser Mk I 7-inch Howitzer|3. GB03 Cruiser Mk I 7-inch Howitzer]] is missing. GB03 Cruiser Mk I  This variant was known as the Cruiser Mk I CS (Close Support). GB03 Cruiser Mk I 
+* The 40 mm Pom-Pom gun configuration is fake. GB03 Cruiser Mk I 
+
+|HistoricalGallery=
+image:Cruiser_Mark_I. GB03 Cruiser Mk I jpg{{!}}
+image:Mark1_Cruiser_Tank,_Great_Britain,_WW_2. GB03 Cruiser Mk I jpg{{!}}Mark1 Cruiser Tank, Great Britain, WW II
+image:Cruiser Mk I. GB03 Cruiser Mk I jpg{{!}}Cruiser Mk I tanks near Tobruk, 12 September 1941. GB03 Cruiser Mk I 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

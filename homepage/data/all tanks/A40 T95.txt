@@ -1,0 +1,136 @@
+{{TankData|Tank= T95
+|Affectionately nicknamed the '''"Doom Turtle"''', '''"Doom Snail"''' or the '''"Boomstick"''', the T95 is slower than the [[T28]], but has massively improved armor. A40 T95  In fact, this behemoth has the highest value of frontal armor of any tank in the game, tied with the [[T110E3]], and its armor is very good for its tier, especially in the sides; but in exchange for heavy armor, the T95 has a top speed and hull traverse same the [[Maus]]. A40 T95  Having the 105 mm AT Gun T5E1 mounted is rather lacking for its tier, so getting the 120 mm AT Gun T53 from the T28 is a must to help the grind for the 155 mm AT Gun T7. A40 T95  The T95 equipped with this gun is a force to be reckoned with, rivaling even the nasty [[Gun#152 mm BL-10|152 mm BL-10]] of the [[Object 704]]. A40 T95  Having a top speed of 20 km/h, it is obviously an easy target for artillery, much like the [[T28]], so using cover will greatly increase your chances of survival. A40 T95  However, keep in mind that even some artillery shells can bounce off the front of your armor, so don't be afraid to advance in the line of fire if it's required; just seeing the front of a T95 sends most tankers scrambling for cover. A40 T95 
+
+|InTheGame_pros=
+- Frontal armor is immune to '''A LOT''' of enemy fire; large mantlet is nigh impenetrable. A40 T95 
+
+- Spaced side armor is deceptively bouncy and will eat HE and HEAT Shells for low damage or none at all. A40 T95 
+
+- 155mm gun can pen nearly anything and has frightening alpha damage; 120mm trades alpha damage and some penetration for a higher RoF, but is still deadly. A40 T95 
+
+- Lower glacis is well angled and small, making it hard to hit from a distance
+
+- Scares other tankers regardless of tier, especially with its flanks covered; you are in trouble if you come face to face with one that has support. A40 T95 
+
+- Super Heavy Spall Liner will render HE shells (especially smaller caliber shells) nearly useless from the front. A40 T95 
+
+- After 9. A40 T95 17. A40 T95 1, this tank is no longer the slowest tank in the game; speed was boosted to 20 km/h and traverse speed was increased to 20 deg/s. A40 T95 
+
+|InTheGame_cons=
+- Slow as [[Maus]] even with the 9. A40 T95 17. A40 T95 1 buff, extremely sluggish speed on hills (only 8 - 13 kmh)
+
+- Attracts a lot of premium ammo spam; high penetrating APCR will often get through frontal armor (except mantlet) 
+
+- Main priority for SPGs. A40 T95  You will be focused by arty a lot. A40 T95 
+
+- Lower glacis is easily penned from close distance
+
+- Cupolas are weakspots and get hit frequently at mid to close range. A40 T95  Needs wiggling to avoid direct hits. A40 T95 
+
+- Roof is very thin and vulnerable to tall tanks (i. A40 T95 e. A40 T95  the Maus) and arty. A40 T95 
+
+- Tracks get knocked off almost all the time - and pretty much everyone will try to detrack you and flank. A40 T95 
+
+- The 155mm's accuracy is rather bad, and shells tend to dip low. A40 T95  
+
+- Bad gun depression, not suitable for sniping behind hills. A40 T95 
+
+- The engine is very prone to being lit on fire when hit. A40 T95 
+
+|InTheGame_performance=
+The T95 can take an incredible amount of abuse before going down if handled correctly. A40 T95  Keep in mind that the T95 is very intimidating to anyone facing its front, making it perfect for defense or to block off an area and prevent the enemy from advancing. A40 T95  Its armor can hold entire corridors, enabling your team to focus their fire elsewhere. A40 T95  In some players' opinion, the T95 is superior in multiple ways to its upgrade, the [[T110E3]]. A40 T95 
+
+The T95 is a true force to be reckoned with as its massive amount of frontal armor, and armed with the ferocious 155mm it can quickly cause enemies to dive for cover, as they fear both the damage it can cause and its ability to take out some tanks in one fell blow. A40 T95  It's a tank that can both break stalemates single-handedly or else hold 4 tanks at bay by itself, as long as they are denied the ability to flank or easily hit weak spots. A40 T95  It is important to use those strengths to your advantage. A40 T95  Tall tanks, such as the [[Maus]], can use it as a shield to hide their lower glacis while providing very useful firepower to suppress targets from the side. A40 T95  Small tanks can almost completely hide behind it, letting the T95 push forward for them, blocking and absorbing damage while they pop out and take a quick shot or deny opponents the ability to flank the T95 itself. A40 T95  In desperate situations, the T95 can shatter a hostile push, given the right conditions. A40 T95 
+
+Although the T95 may have plenty going for it, the tank holds a few huge, Achilles' heel-scaled weaknesses. A40 T95  First, you cannot be alone. A40 T95  Scouts and mediums can taunt at the T95's inherent weak of turning speed. A40 T95  Though this steep disadvantage can be softened somewhat with clutch braking skill, this will not help the T95 in avoiding the deathly gaze of SPGs when out in the open, and with the T95's slow speed, tankers will learn to hate them with a passion. A40 T95 
+
+Prepare to get tracked countless times each game. A40 T95  There is almost no tank in the game that gets tracked so often. A40 T95  This is no surprise, since for many enemies flanking is basically the only thing they can do to have any chance of inflicting damage on T95. A40 T95  Invest everything you can in repair skill, BiA skill, Clutch Braking skill, and bring Large Repair Kit with you. A40 T95  Do not forget (rarely recommended) Toolbox as equipment (or, even better, its improved version purchased for bonds). A40 T95  With all of the aforementioned, you will repair tracks within a few seconds, denying the enemy the chance to permatrack you and in most cases you will be able to avoid flanking, especially if you are close to the wall or some other obstacle. A40 T95 
+
+The accuracy of the 155mm gun, the T95's greatest asset, is far from stellar. A40 T95  The guns accuracy is easily outmatched by nearly all other tier 9 and 10 guns found on the TDs of other nations. A40 T95  This makes firing on the move all the more complex. A40 T95  It also makes long distance sniping, which this tank should do well in on paper, according to its characteristics, in reality an unfairly poorer proposition for the T95. A40 T95  Even at close range, the albeit wonky accuracy is still hard felt, making intentional 'trick shots', hits on small or relatively tricky to hit weak spots, and in some cases even lower glacis shots miss their mark or land in the entirely wrong place, and in extreme cases, repeatedly. A40 T95  Yet in most cases, poor accuracy is countered with both a rather good rate of fire and exceptional damage. A40 T95  HE rounds on T95 are great, with enough penetrating power (90mm) to punch through extreme weak spots of other tanks. A40 T95  Do not be afraid to hammer lower tier tanks with HE where you know you can pen even with just the 90 millimeters. A40 T95  Get the shot correct, and you can find yourself nearly one-shotting tier 7s & 8s or chopping some tier 9 and 10 tanks HP in half. A40 T95  Against much more heavily armored foes however, stick to using AP or APCR and firing on weak spots whenever possible. A40 T95 
+
+In open maps, it is best to play like a 'Silent Hunter', by laying low, taking shots of opportunity, and sticking to cover. A40 T95  Staying near your teams base is also a wise option. A40 T95 
+
+In mixed maps, such as Erlenberg, go down along "Urban Like" regions if you can, and try to avoid being detected or seen as a major threat for as long as possible, take clean pot-shots on enemies in range or in your line of fire when you can, but remember to keep moving. A40 T95 
+
+In urban environments, the T95 becomes a completely different beast. A40 T95  In these situations, move forward and do not remain in very close proximity to the base unless in an encounter match or if the situation demands it. A40 T95  Play aggressively and land as much damage as you can, and remember to keep out of the reach of SPGs. A40 T95  A T95 driver that is able to effortlessly weave a trail through the urban streets without taking much damage can very easily mop the match floor, sweeping enemies off the battlefield, deflecting large amounts of damage and dealing an even larger amount right back. A40 T95  This can even be done on the defensive, and if done perfectly, you can snatch victory from the jaws of defeat. A40 T95  
+
+Another fantastic capability of this tank is that it can stall, especially in urban maps where enemies are denied an easy flanking opportunity. A40 T95  Simply park your tank in a key chokepoint where the enemy is threatening, preferably a street enclosed on both sides by buildings. A40 T95  After firing, turn side to side in order to feign enemies into missing your weak spots, and try to maintain moderate distance, the further your enemies are, the harder it is for them to land shots on your weak spots. A40 T95 
+
+Due to the insane amount of armor that nearly covers the entire tank's front, the two weak spots, the lower glacis and the two cupolas, are the only things any tier 7, 8, and even tier 9 and 10 tanks have a hope at penetrating if you greet them head on. A40 T95  With 200mm of sloped armor on the commanders turret many tanks have to use gold to get through the weakspots. A40 T95  And even then, wiggling, as if the entire tank were a turret (also known as "The Wigggle of Doom") leaves shots most could make while you are standing still extremely difficult. A40 T95  Handle this tank's armor correctly and you have a good chance to deflect jaw-droppingly enormous amounts of damage in matches, even from other T95s and tier 10 tank destroyers, and, if you are lucky, even laughing in the face of arties!
+
+|InTheGame_research=
+* The engine and the radio come from the T28, so mount them before upgrading the tracks. A40 T95 
+* You need the tracks to mount the 120mm, then you can grind the 155mm, but you can use the Upgraded Suspension to unlock the 120mm. A40 T95 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Toolbox, GLD, Spall Liner, Binocular Telescope, Camouflage Net
+|Gallery=
+image:T95_001. A40 T95 jpg{{!}}T95_001
+image:T95_003. A40 T95 jpg{{!}}T95_003
+image:T95_004. A40 T95 jpg{{!}}T95_004
+
+|External_Reviews= 
+{{#ev:youtube|SgwncAuEXRE}}
+
+|History=
+[[image:T95c. A40 T95 jpg|thumb|200px|left|T95 tank]]
+The rejected M6A2E1 project proposed that a limited number of assault vehicles be improvised by modifying the stock of T1E1 heavy tanks. A40 T95  However, a far more extensive program to develop a heavily armed and armored combat vehicle had been initiated in September 1943. A40 T95  Studies by the Ordnance Department indicated that such a vehicle would be required after the invasion of Europe to penetrate heavily fortified areas such as the German West Wall. A40 T95  The original concept proposed mounting the new 105mm gun T5E1 in a tank with the equivalent of 8 inch frontal armor using the electric drive system developed for the heavy tank T1E1 and the medium tank T23. A40 T95  The high velocity T5E1 gun had excellent penetration performance against concrete and when installed in a heavily armored chassis was expected to be extremely effective in reducing heavy fortifications. A40 T95  The Chief of Ordnance proposed that 25 of the new tanks be produced and estimated that they could be completed in eight to twelve months, approximately the same time that would be required to build a single pilot. A40 T95  Such a schedule was expected to make them available in time for operations in Europe. A40 T95  The Army Ground Forces did not agree and recommended that only three pilot models be constructed and that the electric drive be replaced by a mechanical transmission. A40 T95  After a conference with the various parties concerned, the Army Service Forces in March 1944 authorized the procurement of five vehicles, designating them as the heavy tank T28. A40 T95  The original specification was modified to increase the frontal armor to 12 inches raising the estimated combat weight to 95 tons. A40 T95 
+
+== Technical specifications ==
+[[image:T95_technical_drawings. A40 T95 png|thumb|200px|right|T95 Technical drawings]]
+The proposed tank was a low silhouette vehicle without a turret. A40 T95  The 105mm gun T5E1 was to be mounted in the front of the hull with a traverse of 10 degrees to the right and left of center and an elevation range of -5 to +20 degrees. A40 T95 
+<br />
+<br />
+The power package in the T95 (T28) was essentially the same as in the M26 Pershing tank, although the weight of the new vehicle was more than twice that of the latter. A40 T95  To handle the T95 (T28), the 500 horsepower Ford GAF engine and the torqmatic transmission required a final drive gear ratio that reduced the maximum vehicle speed to about eight miles per hour. A40 T95  In fact, the maximum recommended sustained speed was seven miles per hour at 2600 rpm. A40 T95  Due to its extreme weight and low engine power, the T95 (T28) had extremely limited obstacle-crossing ability and could not cross any of the portable bridges available at the time. A40 T95  The great weight of the vehicle also required considerable ingenuity in design to reduce the ground pressure to an acceptable level. A40 T95  This objective was achieved by the use of two sets of tracks on each side. A40 T95  The outer set, along with the four inch thick armor side skirts, could be removed and towed behind the vehicle when operating on a hard surface. A40 T95  Removing the outer tracks also reduced the overall width from 179 1/2 inches to 124 inches permitting rail transportation. A40 T95  At Aberdeen, an inexperienced four man crew removed the outer tracks under field conditions in four hours on their first try. A40 T95  An equal amount of time was required to reassemble them onto the vehicle. A40 T95  By the third try, the same team had reduced the time to remove or replace the outer tracks to 2 1/2 hours. A40 T95 
+
+== Crew ==
+A crew of four was carried with the driver and gunner in the front hull on the left and right of the cannon respectively. A40 T95  The loader was at the left rear of the fighting compartment and the commander at the right rear behind the gunner. A40 T95  The driver and the commander were each provided with a vision cupola. A40 T95  A ring mount for a . A40 T95 50 caliber machine gun was installed around the commanders cupola. A40 T95  It could be used only with the commander standing in the open hatch and was the only secondary armament on the vehicle, except for the individual crew weapons. A40 T95  The gunner was equipped with a telescope alongside the cannon and a periscopic sight in the hull roof. A40 T95 
+== History ==
+[[image:T95a. A40 T95 jpg|thumb|200px|left|T95 Front view]]On 7 February 1945, a memorandum from the Chief of Ordnance requested that the T28 be redesignated as the 105mm gun motor carriage T95 because the cannon was not turret mounted and because of its limited secondary armament. A40 T95  OCM 26898, dated 8 March 1945, approved the name change and recorded the characteristics of the new vehicle. A40 T95  Because of the pressure of the wartime production program as well as the size and weight of the proposed vehicle, there was some difficulty in finding a facility to manufacture the five pilots. A40 T95  However, the Pacific Car and Foundry Company agreed to take on the project and in May 1945, (they were supplied with the basic vehicle design as well as detailed information on the gun mount and the horizontal volute spring suspension. A40 T95  Final design work began immediately. A40 T95  The first front end casting was delivered on 20 June and welding was completed on the first hull in August 1945. A40 T95 
+<br />
+<br />
+[[image:FtKnox_T95_back. A40 T95 jpg|thumb|200px|right|T95 at Fort Knox]]After the end of the war in the Pacific, the number of pilots was reduced from five to two with number 1 being shipped to Aberdeen Proving Ground on 21 December 1945 followed by number 2 on 10 January 1946. A40 T95  The first pilot, registration number 40226809, was used for engineering tests at Aberdeen, but the second, registration number 40226810, was transferred first to Fort Knox and later to the Engineer Board at Yuma, Arizona where it was used for testing floating bridges. A40 T95 
+<br />
+<br />
+The heavily armed and armored T95 did not quite fit any of the usual categories for U. A40 T95  S. A40 T95  Army fighting vehicles. A40 T95  For example, tanks were expected to carry their armament in fully rotating turrets and self-propelled guns usually were lightly armored to achieve maximum mobility. A40 T95  The T95 did not meet either of these criteria and in June 1946, there was another name change. A40 T95  At that time, OCM 30758 redesignated the vehicle as the super heavy tank T28. A40 T95  It then was considered that the combination of heavy firepower and heavy armor was more appropriate for a tank than a gun motor carriage. A40 T95  Regardless of the name, the T95 (T28) was under test at Aberdeen Proving Ground until late 1947, primarily to evaluate the durability of components on such a heavy vehicle. A40 T95  A total of 541 miles of operation was completed consisting of 128 miles on roads and 413 miles on gravel. A40 T95  Needless to say, the mileage accumulated slowly because of the low normal operating speed of five to six miles per hour and the low priority assigned to the project. A40 T95  Work was terminated before completion of the program in compliance with a War Department policy to discontinue development on combat vehicles in the 100-ton class. A40 T95  In 1947 one of the T95 (T28)'s was heavily damaged by an engine fire during trials at Yuma Proving Grounds and scrapped, and the other T95 (T28) was reported broken up and also sold for scrap. A40 T95  In 1974 the last prototype was discovered abandoned in a back field at Fort Belvoir, Virginia. A40 T95  It is unknown where it spent the intervening 27 years. A40 T95  It is the sole remaining example of these tanks and was exhibited at the Patton Museum of Cavalry and Armor in Kentucky. A40 T95 
+
+|HistoricalGallery=
+image:T95b. A40 T95 jpg
+image:T95d. A40 T95 jpg
+image:T95e. A40 T95 jpg
+image:T95_front. A40 T95 jpg
+image:1024px-T28 Front Quarter. A40 T95 jpg{{!}}T95 preserved at the Patton Museum, Note that the right mud flaps of this vehicle had "T28" code name on it. A40 T95 
+File:T95_alternate_armament_information_1. A40 T95 png{{!}}Document detailing proposals to re-arm the T95
+File:T95_alternate_armament_information_2. A40 T95 png{{!}}Document detailing proposals to re-arm the T95
+
+
+|HistAcc=
+The T95's only primary armament is the 105 mm AT Gun T5E1 which it still carries today. A40 T95  The 120 mm was planned but never actually mounted. A40 T95 
+* The 155 mm T7 gun is actually the main armament of the [[T30]]. A40 T95  Its configuration on the T95 is fake. A40 T95 
+* Planned [[Gun/USA#155 mm Gun M1A1|155mm M2 "Long Tom"]] (no relation to the T7) is missing. A40 T95 
+* The real life T95's max speed is 13 km/h. A40 T95 
+* Ford GAF engine is considerably more powerful than in reality, with 670 hp compared to the historical 500. A40 T95  The 780 hp engine configuration is fake. A40 T95 
+
+|Ref_references=
+
+
+|Ref_sources=
+* R. A40 T95 P. A40 T95  Hunnicutt - Firepower: A History of the American Heavy Tank, 1988 Presidio Press, ISBN 0-89141-304-9. A40 T95 
+* https://svsm. A40 T95 org/gallery/T29E3 - T29E3, Patton Museum, by Matthew Flegal 
+* https://armor. A40 T95 kiev. A40 T95 ua/Tanks/Modern/Heavy/
+
+|Ref_links=
+* https://www. A40 T95 youtube. A40 T95 com/watch?v=-kO5IsVHlTo - US T-28/T-95 super heavy Tank WW2
+* https://worldoftanks. A40 T95 com/en/news/chieftain/t28_and_t95/
+
+|Sidebar_Camostop=18. A40 T95 3
+|Sidebar_Camomove=11. A40 T95 1
+|Sidebar_Camofire=2. A40 T95 6
+|Sidebar_Passhard=1. A40 T95 247
+|Sidebar_Passmed=1. A40 T95 342
+|Sidebar_Passsoft=2. A40 T95 205
+|Sidebar_DispTurret=0. A40 T95 077
+|Sidebar_DispRecoil=3. A40 T95 836
+|Sidebar_DispAccel=0. A40 T95 163
+|Sidebar_DispTurning=0. A40 T95 163
+}}

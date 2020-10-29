@@ -1,0 +1,122 @@
+{{TankData|Tank=SU-152
+|While having a very powerful gun and based on the [[KV-1S]] chassis, the SU-152 has relatively weak armor for a tank destroyer. R18 SU-152  On top of that, it has low speed and maneuverability. R18 SU-152  Most tanks you face will have no problems piercing the frontal armor, so it is best to use the low profile of this tank and remain at range to make yourself a much smaller target. R18 SU-152 
+
+The SU-152 initially mounts a 152mm gun. R18 SU-152  This gun should use mostly HE rounds since its AP rounds can't penetrate most heavy tanks' frontal armor or snipe weak spots with its poor accuracy. R18 SU-152  For sniping, use the upgraded 122mm series gun. R18 SU-152  The upgraded 122mm gun has decent penetration for its tier, good damage and very high rate of fire for such a large weapon. R18 SU-152  Beware, the tank doesn't carry much ammo, so for trigger happy folks, consider yourselves warned. R18 SU-152  However, some people prefer to play with the stock 152mm which can hurt any tank you face and has the advantage of increased module damage, like destroying tracks of enemy tanks you hit, immobilizing them while you reload. R18 SU-152 
+
+|Gallery=
+image:SU152-a. R18 SU-152 jpg{{!}}Front right
+image:SU152-b. R18 SU-152 jpg{{!}}Front left
+image:SU152-c. R18 SU-152 jpg{{!}}Rear right
+image:SU152-d. R18 SU-152 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Awesome 152mm gun with massive alpha damage capable of 1-shotting even some Tier 7; premium HEAT shell has overkilling penetration
+* 122mm D-25S hits reasonably hard and has great firing rate
+* Large gun mantlet with weird armor scheme can bounce some hits
+* Acceptable top speed allows for some repositioning
+* Unmatched fear factor especially when top tier, due to its high power weapon and good camo in stationary
+
+|InTheGame_cons=
+* Mostly irrelevant armor, usually can only fend off up to mid-calibre HE shells
+* 122mm guns have mediocre to subpar penetration and their accuracy barely qualify as sniping guns
+* 152 mm ML-20 mod. R18 SU-152  1931/37 is pretty inconsistent, has slow reload and pointless default AP shell; can be frustrating
+* Very tight interior space leads to frequent vital module/crew damage 
+* Reputation. R18 SU-152  Because of the huge gun, teammates might over-evaluate your capability and leave you in danger of being swarmed
+
+
+|InTheGame_performance=
+
+If you played the [[KV-2]] with the 152 mm gun, you already know what the trick is like on the SU, with some differences. R18 SU-152  The gun on the SU-152 is basically a newer model of the same gun with much improved fire rate, accuracy and aiming time. R18 SU-152  This means that you can kill any tier 6 tank or lower ([[TOG II*]] being a notable exception) with one shot if you hit weak parts of their armor where HE rounds can penetrate. R18 SU-152  As for other aspects, the SU-152, being base on the KV-1S, has its protection rather imitating the mediums, but the mobility and especially maneuverability is still distant from that. R18 SU-152  Which means the SU-152 can also one-shot-kill other SU-152 by hitting and penetrating their weak frontal plate. R18 SU-152  
+
+Whether you use the 152 derp gun, or the 122 DPM guns, one thing to always remember as part of the mindset when playing this is that it's a Soviet Tank Destroyer, and thus your greatest defense is not your armor, but your incredibly high camo. R18 SU-152  There are two distinct playstyles for the SU-152, and it's up to you to decide which one is better. R18 SU-152 
+
+For the 152mm gun, it is advised to buy premium HEAT ammunition if you can afford it. R18 SU-152  It has 250mm penetration for an average 700 damage. R18 SU-152  Basically, that's a mini D-4S, so you can give yourself a little preview of what's to come. R18 SU-152  HEAT ammunition should he used mainly on close range due the low accuracy of gun. R18 SU-152  Avoid hitting spaced portions of tanks, such as tracks, gun mantlets or protective screens. R18 SU-152  With a gun with monstrous damage and penetration when using premium ammunition, target the strongest enemies first, as they can do a lot of damage to your team. R18 SU-152  The earlier they die the better. R18 SU-152  Avoid wasting shots on agile or low health tanks at all costs. R18 SU-152  152mm gun should not generally use AP. R18 SU-152  With 135mm penetration and really bad accuracy, most targets it can damage are better handled with HE shells. R18 SU-152 
+
+Compared to premium [[SU-122-44]] this tank has the same damage, penetration, and somewhat higher rate of fire with its 122 mm guns. R18 SU-152  The difference is that the SU-122-44 is more maneuverable, has lower profile and better armor, whereas the SU-152 has some more health. R18 SU-152  Due to the 122mm gun's playstyle, it works better on the SU-122-44, but it works just fine on this. R18 SU-152  Also, as of 1. R18 SU-152 5, the 122mm guns no longer carry over to any other vehicle, so it is no longer a necessity to grind them out if you aren't planning on using them. R18 SU-152 
+
+Ultimately, the gun you chose to grind the SU-152 depends on your playstyle. R18 SU-152  If you want a preview of the D-4S that can derp people in the face and prefer hand-to-hand combat with expensive ammo, the 152mm gun is for you. R18 SU-152  If you'd prefer trying to snipe and have an amazing DPM and RoF, then the 122mm is best for you. R18 SU-152  Just make sure to research both 122mm guns, as the D-25S historically was a more developed version and is performance-wise directly superior. R18 SU-152 
+
+|InTheGame_research=
+*You can get the fully upgraded radio from the KV-3, so install it immediately. R18 SU-152 
+*You can get the final engine from the KV-1S, so install it immediately. R18 SU-152 
+*Research the suspension. R18 SU-152 
+*If you do not have the radio or engine available, a good choice would be to research the engine, then the suspension, and finally the radios. R18 SU-152 
+*As of 1. R18 SU-152 5, the 122mm guns are exclusive to the SU-152, and should only be researched if you plan to use them or elite the tank. R18 SU-152 
+
+|InTheGame_equipment= Vents, Tank Gun Rammer, GLD
+
+|History=
+[[image:SU-152_LMM. R18 SU-152 jpg|thumb|200px|right|SU-152 in Lubuskie Military Museum, Poland]]
+The SU-152 was a Soviet heavy self-propelled heavy assault gun used during World War II. R18 SU-152 
+It mounted a 152 mm gun-howitzer on the chassis of a KV-1S heavy tank. R18 SU-152  Later production used the IS tank chassis and was re-designated as the ISU-152. R18 SU-152  Because of its adopted role as an impromptu heavy tank destroyer capable of knocking out the heaviest German armoured vehicles (Tiger and Panther tanks, and Elefant tank destroyers), it was nicknamed Zveroboy: "beast killer". R18 SU-152 
+
+== Development ==
+The Stalingrad counteroffensive, Operation Uranus, exposed the Red Army's urgent need for mobile heavy guns. R18 SU-152  Primary targets for these guns were German fortifications in and around Stalingrad. R18 SU-152  At the time, Soviet front-line ground units did not possess sufficient firepower to deal with pillboxes and other fortifications. R18 SU-152 
+
+[[image:SU-152-Lubuskie-300px. R18 SU-152 jpg|thumb|200px|right|SU-152 in Lubuskie Military Museum, Poland]]
+Close support of artillery and combat engineers was an important factor in the success of Operation Uranus. R18 SU-152  However, with rare exceptions, all Soviet guns and howitzers at this time were towed rather than self-propelled. R18 SU-152  This lack of mobility proved to be greatly exacerbated by the absence of roads, the presence of deep snow cover, and a scarcity of artillery tractors. R18 SU-152  Towed guns were also highly vulnerable to counterattack while on the move, especially since they were often hauled by horses or their own crews. R18 SU-152  The 152 mm heavy howitzers were particularly difficult to maneuver; owing to their great weight and narrow steel wheels,  were incapable of crossing rivers on anything but tank bridges, were prone to becoming hopelessly mired, and subsequently needing to be abandoned by their crews. R18 SU-152 
+
+[[image:SU-152-gun-ML-20S_152mm_M1937_300px. R18 SU-152 jpg|thumb|200px|right|152-mm howitzer-gun ML-20S for SU-152 in Motovilikha Plants museum (Perm, Russia]]
+This situation did not satisfy the state authorities. R18 SU-152  In November 1942, the State Defense Committee ordered the development of a heavy self-propelled gun armed with the 152. R18 SU-152 4mm ML-20 howitzer. R18 SU-152  It should be noted that the Red Army had dedicated anti-fortification vehicles in the pre-war period, such as the KV-2 heavy tank armed with the 152. R18 SU-152 4 mm M-10 howitzer. R18 SU-152  The design proved unsatisfactory for numerous reasons, including a lethally-high silhouette, a sluggish and barely-functional manual turret traverse, a slow reload rate, and a high center of gravity which risked tipping the vehicle over when attempting to surmount even small obstacles. R18 SU-152  Mass production of KV-2s ceased in July 1941 and a few survived to November 1942. R18 SU-152  The new anti-fortification vehicle was designed with the same purpose in mind, but with higher mobility, heavier armor, reduced production cost, and the more powerful and accurate ML-20 152mm gun. R18 SU-152  Mounting the ML-20 in a turret was impossible due to its length and recoil, and it was eventually decided that the new vehicle should have a non-rotating gun mounted in a fixed casemate-style superstructure. R18 SU-152 
+Prior to the issue of the State Defense Committee order, there were several other anti-fortification vehicle projects, all of which were halted. R18 SU-152  Later in the war, these projects were restarted. R18 SU-152  In December 1942, three different designs of "pillbox killer" vehicles were introduced by various engineering groups from the major Soviet artillery and tank factories. R18 SU-152  All of these designs used the ML-20 gun as a primary armament on the [[KV-1S]] heavy tank chassis. R18 SU-152  After some discussion, the project of Joseph Yakovlevich Kotin was chosen for further mass production. R18 SU-152  This design successfully combined the ML-20 and KV-1S chassis with minimal expense. R18 SU-152 
+The entire project was designated "KV-14" and assembly of the first prototype (called "Object 236") began on December 31, 1942. R18 SU-152  It was completed after 25 days. R18 SU-152  Plant trials of "Object 236" began on January 25, 1943. R18 SU-152  After a number of successful plant tests, the more stringent state tests began. R18 SU-152  "Object 236" succeeded again. R18 SU-152  On February 14, 1943 the State Defense Committee accepted it for Red Army service and immediately launched it into mass production at the Chelyabinskiy Kirovskiy Zavod (Chelyabinsk Kirov Plant, ChKZ). R18 SU-152  The designation of the series of self-propelled guns was changed from KV-14 to SU-152. R18 SU-152  The ML-20 gun was slightly modified for mounting in the SU-152: some handles were moved for improved gunner comfort. R18 SU-152  This variant had the designation ML-20S. R18 SU-152  The muzzle velocity and external ballistics were identical to the original towed ML-20 gun. R18 SU-152 
+
+Although designed with no consideration for the anti-tank role, the SU-152 proved to have surprisingly good anti-tank capabilities due to the ML-20S's extremely heavy HE projectiles. R18 SU-152  Standard doctrine for purpose-built AT guns of the period universally relied on small, dense solid projectiles propelled to high velocities, optimized for punching through armor. R18 SU-152  Since the SU-152, like all SU-series self-propelled guns, was not designed with tank killing in mind, no AP projectiles were issued to crews and no initial tests against armor were conducted. R18 SU-152  However, tests performed on captured Tiger tanks in early 1943 showed that the SU-152 was able to destroy them at any range with a fair degree of reliability (the only vehicle then in Soviet service capable of doing so) by simply blowing the turret off the vehicle through sheer blast effect. R18 SU-152  This fortuitous discovery spurred massive SU-152 production and the formation of self-propelled artillery units, which then functioned as ersatz heavy tank destroyer battalions. R18 SU-152 
+
+After the launch of SU-152 mass production, the design was slightly modified to improve reliability. R18 SU-152  Initially, the SU-152 lacked a machine gun, which was recognized as a severe weakness in urban warfare and other close combat. R18 SU-152  To solve this problem, the DShK 12. R18 SU-152 7 mm anti-aircraft gun installation was developed in the summer of 1943. R18 SU-152  Some SU-152s received it after repair. R18 SU-152  The SU-152 was the last member of the KV family of tanks in mass production, and was replaced by the ISU-152 on the ChKZ production lines in December 1943. R18 SU-152  The exact number of SU-152s produced differs even in Russian sources, with the most common figures being 670 or 704. R18 SU-152  The SU-152s that survived World War II were withdrawn from Soviet Army service in 1954. R18 SU-152 
+
+== Construction and design ==
+The SU-152 followed the same design as other Soviet self-propelled guns (except the SU-76). R18 SU-152  The fully-armored hull was divided into two compartments: a fighting compartment for the crew, gun, and ammunition in the front of the hull, and the engine and transmission separate in the rear. R18 SU-152  The hull was welded from rolled armour plates of different thickness — 75, 60, 30 and 20 mm. R18 SU-152  The front hull and superstructure armor plates were sloped for better vehicle protection: side armor was vertical. R18 SU-152  Lower front hull and rear armor plates were cylindrical, and were quite complex in their method of production. R18 SU-152  The ML-20S gun-howitzer was mounted slightly to the right of center with a limited traverse in a range of 12 degrees. R18 SU-152  Three of the crew were to the left of the gun: driver to the front, then gunner, and last the loader. R18 SU-152  The vehicle commander and breech mechanism operator were to the right. R18 SU-152 
+
+The suspension consisted of twelve torsion bars for the six road wheels (each 600 mm in diameter) on each side. R18 SU-152  The drive sprockets were at the back. R18 SU-152  Each track was made up of 90 stamped links, each link of 608 mm width. R18 SU-152  The normal distance between two connected links was 160 mm. R18 SU-152  There were three internal fuel tanks, two in the crew area and one in the engine compartment, for a total capacity of 600–615 litres. R18 SU-152  These were usually enhanced by four unconnected external fuel tanks, which could hold an additional 360 litres of fuel. R18 SU-152  A 24-volt electrical power supply came from a 1 kW GT-4563A generator with a RRA-24 voltage relay regulator unit and four 6STE-128 accumulator batteries with a total capacity of 256 ampere-hours. R18 SU-152  This electrical equipment was common for many contemporary Soviet AFVs. R18 SU-152  The generator and accumulator batteries fed all other electrical equipment; the ST-700 electric starter motor, a radio set, an intercom, external and internal lights, and illumination of gunsight scales. R18 SU-152 
+
+For observation from the interior, all roof hatches had periscopes and there were two gun sights; the telescopic ST-10 (СТ-10) and a panoramic sight. R18 SU-152  For crew communication a TPU-4-BisF intercom was fitted, and for inter-vehicle communication there was a single radio. R18 SU-152  The first-series SU-152 was equipped with the 9R, then 10R, and finally the 10RK-26 radio set. R18 SU-152  These radios were better than Soviet equipment at the start of the war, but remained inferior to German equipment. R18 SU-152 
+The crew was equipped with two PPSh submachine guns and twenty five F1 grenades for short-range self-defence. R18 SU-152 
+
+== Combat history ==
+[[image:SU-152_300px. R18 SU-152 jpg|thumb|200px|right|An abandoned SU-152 assault gun inspected by German troops. R18 SU-152 ]]
+Although not designed for the role, the SU-152 proved to be a cheap, widely produced, and effective heavy tank killer, second only to the SU-100 as an antitank vehicle, as well as highly successful at its original role against infantry and fortifications. R18 SU-152  In combat, it was used for two distinct purposes; long-range artillery fire support during assaults by suppressing infantry and destroying pillboxes and AT guns, and as ersatz heavy tank destroyers (usually in ambush). R18 SU-152 
+The SU-152 was produced in large numbers throughout 1943, with the first SU-152s being issued to new heavy mechanized gun regiments raised in May 1943. R18 SU-152  The first regiment arrived at Kursk with only twelve guns, and was brought up to its full strength of twenty-one guns during the fighting (Zaloga 1984:165). R18 SU-152 
+Disadvantages of the vehicle included a low rate of fire due to the heavy ammunition, low ammunition storage (only 20 rounds), and a cramped and un-ergonomic crew compartment. R18 SU-152  Its armor protection was only adequate; the 65 mm of 30-degree sloped frontal armor was moderately greater than that of the T-34 medium tank, but still left it vulnerable frontally to the 88 mm KwK 36/43 guns of the Tiger and Elefant at long range and the 7. R18 SU-152 5 cm KwK 40 high-velocity gun of the Panzer IV and StuG III/IV at medium and short ranges (and from any range from the flanks or rear). R18 SU-152  The 152 mm gun, while having a maximum range far superior to the 88 mm, was still a corps-level heavy howitzer at heart, and had a much shorter accurate range than either the 88 mm or the 7. R18 SU-152 5 cm gun, while still being vulnerable to return fire at the same distance. R18 SU-152  This made it most effective for use in massed ambushes, where the German heavy tank's advantages could be nullified and the SU-152's one-shot kill potential could be best utilized. R18 SU-152 
+
+Since it was intended as a self-propelled artillery piece rather than a true tank destroyer, the SU-152 was generally issued with standard HE rounds rather than armor-piercing projectiles. R18 SU-152  The 152mm HE round produced a massive blast that did not rely on velocity for its effectiveness, making them effective against any German tank, including the Tiger and Elefant (although with a somewhat decreased level of kill reliability over penetrating projectiles). R18 SU-152  It was renowned for its ability to rip the turret completely off a Tiger tank (at any range) by sheer blast effect alone, and numerous German AFVs were claimed as destroyed or damaged by SU-152 fire during the Battle of Kursk; for example, one Major Sankovskiy destroyed 10 German tanks (of unknown type) in a single day with his crew and his SU-152, and was awarded the title of Hero of the Soviet Union. R18 SU-152 
+
+[[image:SU-152 snow camo. R18 SU-152 JPG|thumb|200px|right|SU-152_with_Snow_camouflage_paint]]
+
+However, it proved less reliable at permanently destroying the Elefant heavy tank destroyer, which was impervious to any other Soviet gun and lacked a turret, making it more resistant to non-penetrating HE blasts. R18 SU-152  While the Soviets claimed at least seven German Elefants destroyed by SU-152 ambushes at Kursk, German after-action reports reveal that, while multiple Elefants were in fact knocked out, only one Elefant was completely destroyed; the rest being recovered after nightfall and quickly repaired, recrewed, and returned to battle. R18 SU-152  [1] This has been attributed to the gun's reliance on blast rather than penetration, which killed the crew and destroyed the vehicle's interior via concussion and spalling without harming the ammunition supply or chassis. R18 SU-152  In response, Soviet doctrine was changed by ordering SU-152 crews to continue firing on incapacitated vehicles until the turret was knocked off. R18 SU-152  [2]. R18 SU-152  After Kursk, the 152 mm BR-540 solid-core AP round was produced in small numbers and issued to heavy tank destroyer battalions in an effort to introduce a penetrating projectile, but the gun's inherent low velocity made the AP round no more accurate, and only moderately more effective than the standard HE round (which could also be used against infantry). R18 SU-152 
+
+Following the SU-152's performance at Kursk, the SU-152 played a very important role in destroying German fortifications during the Operation Bagration counteroffensive, this being the vehicle's original design goal. R18 SU-152  From the second half of 1943 to the end of World War II, SU-152s were used on all Soviet fronts: from Finland to the Crimea. R18 SU-152  Due to combat losses and mass production ceasing in December 1943, the number of SU-152s in the Soviet Army decreased. R18 SU-152  Eventually, SU-152s were replaced by the more reliable and better-armored ISU-152, which used the same armament and ammunition in the same dual-purpose role. R18 SU-152 
+
+== Nickname etymology ==
+Although the translation of the "Zveroboy" nickname as "beast killer" has been perpetuated in numerous books and articles, another theory posits that the actual meaning is derived from the Russian name for the St. R18 SU-152  John's Wort, a plant commonly used to treat various ailments: having nothing to do with the vehicle's actual role or performance. R18 SU-152 
+
+== Organisation ==
+The SU-152 was used by the Independent Heavy Self-propelled Artillery Regiments (OTSAP, ОТСАП, in Russian, from Otdel'niy Tyazheliy Samokhodno-Artilleriyskiy Polk, Отдельный Тяжелый Самоходно-Артиллерийский Полк). R18 SU-152  Initially, each OTSAP had twelve SU-152s divided into three batteries of four vehicles. R18 SU-152  One KV-1S tank served as a commander's vehicle. R18 SU-152  After November 1943, the OTSAP organisation changed to 21 vehicles per regiment. R18 SU-152 
+
+For more on unit organisation, see the corresponding chapter on the [[ISU-152]] page. R18 SU-152 
+
+|HistAcc=
+The 122 mm gun was only fitted on the SU-100 and ISU-152 (known as SU-122P and ISU-122/S respectively). R18 SU-152  Its adaptation to the SU-152 was planned but ultimately did not materialize due to production shifting to its successor, the ISU-152. R18 SU-152 
+
+|HistoricalGallery=
+image:Su-152 assault gun, in ambush under heavy cammo at Kursk. R18 SU-152 jpg{{!}}Su-152 assault gun, in ambush under heavy cammo during the Battle at Kursk
+image:Su-152. R18 SU-152 jpg{{!}}Su-152
+image:Su-152 after taking heavy damage. R18 SU-152 jpg{{!}}Su-152 after taking heavy damage
+image:SU-152 crossing a river in fording. R18 SU-152 jpg{{!}}SU-152 crossing a river in fording
+image:Knocked out SU-152. R18 SU-152 jpg{{!}}Knocked out SU-152
+
+|Ref_references=
+*Zaloga, Steven J. R18 SU-152 , James Grandsen (1984). R18 SU-152  Soviet Tanks and Combat Vehicles of World War Two, pp 165–66. R18 SU-152  London: Arms and Armour Press. R18 SU-152  ISBN 0-85368-606-8. R18 SU-152 
+*Solyankin A. R18 SU-152  G. R18 SU-152 , Pavlov M. R18 SU-152  V. R18 SU-152 , Pavlov I. R18 SU-152  V. R18 SU-152 , Zheltov I. R18 SU-152  G. R18 SU-152  (2005). R18 SU-152  Soviet Heavy Self-Propelled Guns 1941-1945. R18 SU-152  Moscow: «Exprint» (Солянкин А. R18 SU-152  Г. R18 SU-152 , Павлов М. R18 SU-152  В. R18 SU-152 , Павлов И. R18 SU-152  В. R18 SU-152 , Желтов И. R18 SU-152  Г. R18 SU-152  Советские тяжёлые самоходные артиллерийские установки 1941-1945 гг. R18 SU-152 . R18 SU-152  — М. R18 SU-152 : ООО Издательский центр «Экспринт», 2005. R18 SU-152  — С. R18 SU-152  48. R18 SU-152 ) ISBN 5-94038-080-8
+
+|Ref_sources=
+# The Combat History of Schwere Panzer Abteilung 654, by Karlheinz Munch, pp. R18 SU-152 67-69
+*Snow Camouflage image from https://www. R18 SU-152 vhu. R18 SU-152 cz/en/stranka/vojenske-technicke-muzeum, Lešany, Czech Republic
+
+|Ref_links=
+* [https://english. R18 SU-152 battlefield. R18 SU-152 ru/su-152. R18 SU-152 html '''SU-152 Heavy Assault Gun'''] at battlefield. R18 SU-152 ru. R18 SU-152 
+* [https://en. R18 SU-152 wikipedia. R18 SU-152 org/wiki/SU-152 Wikipedia]
+* [https://www. R18 SU-152 battlefield. R18 SU-152 ru/index. R18 SU-152 php?option=com_content&task=view&id=61&Itemid=45 BattleField. R18 SU-152 Ru]
+}}
+
+[[Category:USSR Tanks]]

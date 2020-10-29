@@ -1,0 +1,58 @@
+{{TankData|Tank=lekpz M 41 90mm
+
+| 
+
+|Gallery=
+
+File:LeKpz M 41 90 mm GF scr 1. G120 M41 90 GrandFinal jpg
+File:LeKpz M 41 90 mm GF scr 2. G120 M41 90 GrandFinal jpg
+File:LeKpz M 41 90 mm GF scr 3. G120 M41 90 GrandFinal jpg
+
+
+|InTheGame_pros= 
+* Good alpha damage, penetration, gun handling, and aim time
+* Good gun depression
+* Very high top speed and good reverse speed
+* Good viewrange
+* Very high hull traverse speed, good agility
+
+|InTheGame_cons= 
+* No armor to speak of, typical for a light tank
+* Bad shell velocity
+* Low engine power, poor acceleration for a light tank
+* Bad camouflage value 
+* Crew slots don't match most of the German LT line
+
+|InTheGame_performance= 
+This tank takes some of the best attributes from all the other lights at tier and combines them all to create a very versatile light tank that can load its HEAT shell and go after some of the bigger tanks in the game, or can load up its HEP and chase down other lights, or even load AP and perform a sniping role. G120 M41 90 GrandFinal  
+
+However, this tank does have its limitations as your HEP shell will almost never work against the better armored light tanks. G120 M41 90 GrandFinal  You can also count out any chance of a random bounce here and there, as it has a max of 25mm of armor and if you're fighting anything with good HE rounds you're better off staying side-on and hoping your tracks block their HE shell. G120 M41 90 GrandFinal 
+
+In the end, this tank is a premium vehicle and can more than compete with its non-premium counterparts while making a decent profit as long as you keep from firing too much HEAT. G120 M41 90 GrandFinal 
+
+A viable strategy when using the M41 GF is to initially load your HEP shell and do some aggressive active spotting to farm some initial spots and spotting damage. G120 M41 90 GrandFinal  Then adapt to more of a flanking medium, spotting where needed and working to ensure your team maintains vision and health superiority. G120 M41 90 GrandFinal 
+
+With patch 9. G120 M41 90 GrandFinal 18 the non-premium American [[M41 Walker Bulldog]] has been moved up to tier 8, while at the same time having its auto-loading gun nerfed. G120 M41 90 GrandFinal  As a result, the M 41 90 was better in some aspects such as penetration on both standard and premium ammunition and DPM but is severely outclassed in terms of mobility. G120 M41 90 GrandFinal  Additionally, the M41 Walker Bulldog got 2 more degrees of gun depression when using the single-shot guns. G120 M41 90 GrandFinal 
+
+After the series of 9. G120 M41 90 GrandFinal 20 patches, the competing M41 has lost its autoloader altogether. G120 M41 90 GrandFinal  As it stands, DPM, pen, alpha damage, aim time, top speed and total HP are better for M 41 90 while shell velocity, gun handling, gun depression, power-to-weight, mobility and some lesser aspects are better for M41. G120 M41 90 GrandFinal 
+
+|InTheGame_research= 
+Premium tank, no research required
+
+|InTheGame_equipment=
+Medium-caliber tank gun rammer, Vertical stabilizer, Vents, Coated optics
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

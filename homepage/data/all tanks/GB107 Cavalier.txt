@@ -1,0 +1,53 @@
+{{TankData|Tank= GB107_Cavalier
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* High alpha damage, high DPM, and high shell arc on the 3. GB107 Cavalier 7" howitzer
+* Serviceable QF 6-pdr Mk. GB107 Cavalier  V: decent penetration and handling
+* Fairly fast for tier 5: 46kph top speed, 17. GB107 Cavalier 3 HP/T power to weight ratio
+* Decent terrain resistance, holds speed well
+
+|InTheGame_cons= 
+* Fast but lacking agility. GB107 Cavalier  Mediocre hull traverse. GB107 Cavalier 
+* Armor is a lie: 76. GB107 Cavalier 2mm face on turret is flat, large 25mm slope on front hull; easily overmatched 
+* Gun depression is a lie; -6 over the front, -12 over sides only, hill fighting is difficult
+* 3. GB107 Cavalier 7" howitzer has glacial shell velocity, no use for sniping
+* Weak radio, poor scouting options
+
+|InTheGame_performance= 
+
+With the removal of the [[Sherman III]] from the standard UK tech tree, the Cavalier can be thought of as its home-grown replacement. GB107 Cavalier  It features several of the same guns, particularly the 6-pounder series, and is vaguely comparable in mobility and protection. GB107 Cavalier  Its place preceding the popular [[Cromwell]] at tier 6 suggests that it should be played in a similar fashion as a breakthrough tank, but this is not recommended. GB107 Cavalier  Though the Cavalier has decent acceleration for a tier 5 medium tank and an acceptable 46kph top speed, it lacks in agility, with a noticeably slow turn rate of just over 34 degress per second even on good terrain, which is almost German. GB107 Cavalier 
+
+This ultimately means that it cannot rush the enemy, and must instead turn to more supportive roles such as ambushing and support fire. GB107 Cavalier  The Cavalier is not a vehicle for the starring role. GB107 Cavalier  It is sorely lacking in armor, especially on the hull, and will be quickly destroyed despite its average hit point pool. GB107 Cavalier  It should therefore play somewhat more like the [[Pz. GB107 Cavalier  IV H]]: taking advantage of its heavy high-explosive firepower against foes at close range and backing off before it is punished. GB107 Cavalier  Work with allies to single out exposed or distracted targets, crippling them with module damage and crew injuries from the howitzer. GB107 Cavalier 
+
+Players may find that the howitzer's slow, almost snowball-like shell speed is unpleasant to play around. GB107 Cavalier  Those who wish to play as second-line support will find the QF 6-pdr Mk. GB107 Cavalier  V to be more of a traditional tank gun for this vehicle. GB107 Cavalier  While it does less damage per shot than comparable 75 or 76mm cannons, its high rate of fire means that perma-tracking an enemy is an option, and its generous shell capacity will allow for considerable storage of both standard and premium shells. GB107 Cavalier  It receives an excellent 180mm of penetration on its premium shells and enjoys better gun handling to compensate for its lower per-shot damage. GB107 Cavalier 
+
+Patience is the watchword for this tank. GB107 Cavalier  It has speed, but it should not rush straight into battle, especially not as the spearhead. GB107 Cavalier  Let other tanks with better armor take point while you serve as a reliable flank protector, contributing your firepower when the enemy is distracted. GB107 Cavalier  Enemy light tanks attempting to pull off flanking maneuvers will find themselves unpleasantly surprised by your guns, as your howitzer can easily two-shot enemy light tanks and your 6-pounder can shred them with a shell every 2. GB107 Cavalier 5 seconds, and the Cavalier's good turret traverse will prove capable of tracking these lightweight foes. GB107 Cavalier  The Cavalier will rarely be the star of a match, but it will often prove to be a useful supporting tank. GB107 Cavalier 
+
+|InTheGame_research= 
+* The stock tracks are almost overloaded. GB107 Cavalier  Either unlock the tracks first or purchase Improved Hardening equipment for a boost to HP and suspension carrying capacity. GB107 Cavalier 
+* Unlock the second turret and the QF 6-pdr Mk. GB107 Cavalier  5 next. GB107 Cavalier  These improve your basic parameters and the Mk. GB107 Cavalier  5 is a serviceable weapon. GB107 Cavalier 
+* Unlock the upgraded engine for better acceleration and handling and the howitzer for a healthy improvement to firepower for ambush-mind commanders. GB107 Cavalier 
+* The upgraded radio is no real improvement over the stock radio. GB107 Cavalier  Research this last. GB107 Cavalier 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Tank, Cruiser, Mk VII Cavalier (A24) was an interim design of British cruiser tank during the Second World War. GB107 Cavalier  It was derived from the A15 Crusader tank and was superseded by the A27 Cromwell tank. GB107 Cavalier 
+
+|HistoricalGallery= 
+File:Cavalier (A24). GB107 Cavalier png{{!}}Cavalier (A24)
+|Ref_references=
+|Ref_sources=
+
+|Ref_links=
+https://tanks-encyclopedia. GB107 Cavalier com/ww2/gb/A24_Cruiser_MkVII_Cavalier. GB107 Cavalier php
+
+}}

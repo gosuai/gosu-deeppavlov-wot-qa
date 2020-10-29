@@ -1,0 +1,104 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Best camouflage values in the game. S20 Ikv 72  Over 27% means you will not be spotted when over 200m (unless the enemy is mounting optics)
+* Excellent gun depression
+* Good mobility
+* Good alpha damage and penetration, Its top gun can One-shot any Tier 3 TDs and Almost every Tier 2
+
+|InTheGame_cons=
+* Poor armor and open top leaves it very vulnerable to artillery and HE shells
+* Low rate of fire resulting in low DPM
+* Often gets destroyed before it can finish off an enemy
+
+
+|InTheGame_performance= 
+The Ikv 72 plays somewhat like a Tier III equivalent of the [[SU-85]]. S20 Ikv 72  It has good mobility and excellent camouflage values. S20 Ikv 72  Once the top gun is unlocked it can be played as either an ambusher or a sniper, thanks to its good view range and camo. S20 Ikv 72  A special advantage of the Ikv 72 is its excellent gun depression, which is much higher than normal for this type of vehicle and allows it to effectively work a reverse slope. S20 Ikv 72  The main downside, when compared to other tier III tank destroyers is the low rate of fire, which will get you in trouble when confronted by multiple enemies. S20 Ikv 72  The Ikv 72 cannot mount a gun laying drive, so there is no solution for this problem. S20 Ikv 72 
+The best way to play this tank is as an ambusher behind the main lines, hidden behind think bushes. S20 Ikv 72  Be sure to aim totally though. S20 Ikv 72 
+Note that although the front armour is well sloped and looks like it can bounce shots, the armour is so thin that most enemy guns will overmatch. S20 Ikv 72 
+
+|InTheGame_research= 
+* Researching the Ikv 72 and Ford ENN first to give the vehicle added mobility to fulfil the ambusher role. S20 Ikv 72 
+* Next work towards the 7,5 cm kan m/41 ikv L/50. S20 Ikv 72 
+* Now you can either research the Ra 100 or save the research for the next vehicle. S20 Ikv 72 
+
+|InTheGame_equipment=
+Camouflage net, GLD, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+[[File:Ikv_72_cresting_ridge. S20 Ikv 72 jpg]]
+In early 1949, the army was looking to acquire a new generation of AFV’s. S20 Ikv 72  One of the requested vehicles was a new assault gun to fill the need for mechanized direct fire support for the infantry. S20 Ikv 72  It was believed that this vehicle could replace towed infantry guns, but to achieve this, the new assault gun needed to be as cheap as possible, so that numerous vehicles could be built. S20 Ikv 72  Therefore, it was decided to go with a very lightweight design, no heavier than 6 tons and to use readily available parts wherever possible. S20 Ikv 72 
+
+
+A month later, the Landsverk Company responded with their initial drawing and a scale model of the new vehicle designated Tankett m/49. S20 Ikv 72 
+
+Pictures of scale model
+
+[[File:Scale_model_of_tankett_m49. S20 Ikv 72 jpg]]
+
+The initial version had a crew of three and a weight of 6 tons, it was however a rather preliminary design, since no gun or radio have been decided for the vehicle. S20 Ikv 72  As the development of the vehicle continued, the superstructure was redesigned and the crew increased to 4. S20 Ikv 72  Next, there was the question of its main armament. S20 Ikv 72  Three options have been considered. S20 Ikv 72  First, the same 75mm gun, that had been used on the Strv m/42. S20 Ikv 72  Second was a newly developed 84mm gun, which was considered in 4 variants with different muzzle velocities, or a modified version of the 105mm m/40 howitzer. S20 Ikv 72  Of these options, the 84mm was the preferred option, but due to the need to develop the gun from scratch, it was decided to arm the initial prototypes and production run with the 75mm gun. S20 Ikv 72  By the end of 1949, most of the issues with the design were worked out and preparations were made for the construction of a prototype. S20 Ikv 72 
+
+The first prototype was armed with three 8mm machineguns and was finished in early 1950, this armament was however found rather lacking and the prototype was soon refitted with a 75mm gun. S20 Ikv 72  The rearmed prototype weighed 6,5 tons and was powered by a 105hp Volvo engine, that gave the tiny vehicle a power to weight ratio of 17hp/t and an impressive top speed of 60kph. S20 Ikv 72  As you can imagine, the low weight did not allow a lot of armor – in fact, the thickest armor on the vehicle was only 19mm on the upper front, with only 7mm at the sides and 5mm at the rear. S20 Ikv 72  Perhaps the most impressive feature of the Tankett fm/49 was the gun depression, that could reach a massive -25dg, which was actually more than the elevation, which only reached 20dg. S20 Ikv 72  However, the gun traverse was rather poor with only 10dg of traverse to each side. S20 Ikv 72 
+
+Tankett fm/49 prototype
+
+[[File:Tankett_fm49_prototype. S20 Ikv 72 jpg]]
+
+Rearmed prototype with a 75mm gun
+
+[[File:Rearmed_prototype_ikv_72_with_a_75mm_gun. S20 Ikv 72 jpg]]
+
+Drawing of the 84mm gun
+
+[[File:Drawing_of_the_84mm_gun. S20 Ikv 72 jpg]]
+
+Another thing I want to cover is that it had fairly early on been decided that the chassis should serve as a platform for a series of light vehicles, that were labeled as “special variants”. S20 Ikv 72  These special versions of the Tankett fm/49 varied a fair bit, with everything from mortar carriers to flamethrower versions being considered and in some cases built and prototyped. S20 Ikv 72  Nothing ever came of these special variants however, since the chassis proved too light and the projects moved on to other platforms or were canceled altogether but I’ll tell you more about that when we get to the SPG’s. S20 Ikv 72 
+
+SPG version of the Tk fm/49 armed with 10,5cm Haub m/40
+
+[[File:SPG_version_of_the_Tk_fm49_with_10,5cm_Haub_m40. S20 Ikv 72 jpg]]
+
+Mortar carrier version of the Tk fm/49 with dual 12cm mortars
+
+[[File:Mortar_carrier_version_of_the_Tk_fm49_with_dual_12cm_mortars. S20 Ikv 72 jpg]]
+
+The tests of the prototypes continued well into 1950, but concerns arose about the low armor layout and it was decided to rework the frontal armor, so that it had better sloping. S20 Ikv 72  The second version of the vehicle, which incorporated these improvements later became known as Ikv 72 (infantry gun carriage). S20 Ikv 72  The main changes from the earlier model were a slightly reworked hull with a larger crew compartment and the use of a 145hp Ford V8 engine. S20 Ikv 72  The vehicle also became considerably heavier with a total weight of 8 tons, but with a better power to weight ratio of 18hp/t and slightly lower top speed of 57kph. S20 Ikv 72  In 1953, this vehicle was ordered into production with the first series of 36 vehicles following within a year. S20 Ikv 72  The armament of the vehicle was however not satisfactory for infantry support and work began on finding a bigger gun for it. S20 Ikv 72  It seems that as a part of this search, an older 10,5cm gun, originally used on the ww2 era Sav m/43 assault gun was tested, but we only have one small picture of a vehicle re-armed with this gun. S20 Ikv 72 
+
+Ikv 72 production version
+
+[[File:Ikv_72_production_version. S20 Ikv 72 jpg]]
+
+Ikv 72 with the 10,5cm L/21 gun used on the Sav m/43
+
+[[File:Ikv_72_with_the_10,5cm_L21_gun_used_on_the_Sav_m43. S20 Ikv 72 jpg]]
+
+In any case, with the help of Bofors, the 10,5cm Haub m/40 howitzer was adapted for use on the Ikv 72. S20 Ikv 72  In 1956-58, all vehicles were rebuilt with a new roof and other improvements, as well as fitted with the gun. S20 Ikv 72  As such, the vehicle was re-designated Ikv 102. S20 Ikv 72  In this configuration, the vehicle served until mid 70s, when it was replaced by the Ikv 91. S20 Ikv 72 
+
+Ikv 102
+
+[[File:Ikv_102. S20 Ikv 72 jpg]]
+
+|HistAcc=
+* Some of the historical armaments are missing, including 10,5 mm howitzer and the 84 mm cannnon. S20 Ikv 72 
+* The historical gun depression was 20 degrees, but in game it is only 12 degrees. S20 Ikv 72 
+
+|HistoricalGallery= 
+File:Ikv_72_picture. S20 Ikv 72 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S20 Ikv 72 wot-news. S20 Ikv 72 com/2014/11/15/swedish-tanks-part-xix-ikv-72-ikv-102/
+
+}}

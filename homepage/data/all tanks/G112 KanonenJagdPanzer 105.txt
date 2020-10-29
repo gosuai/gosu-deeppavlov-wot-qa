@@ -1,0 +1,49 @@
+{{TankData|Tank= Kanonenjagdpanzer 105
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Excellent accuracy, aim time, shell velocity and penetration
+* Fairly wide gun arc and good gun depression
+* Excellent top speed and hull traverse speed
+* Low profile, good camouflage
+
+|InTheGame_cons= 
+* Low DPM and alpha damage for a Tier 8 tank destroyer
+* Very poor armor and low hitpoint pool
+* Weak engine module can be easily damaged/destroyed
+* Very poor base viewrange
+
+|InTheGame_performance= 
+
+{{VideoYT|C_StcebDtyU}}
+|InTheGame_research= 
+Premium vehicle, none required. G112 KanonenJagdPanzer 105 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Improved Ventilation, Coated Optics, Camouflage Net, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Kanonenjagdpanzer (also known as Jagdpanzer Kanone 90mm, or tank destroyer, gun) was a German Cold War tank destroyer equipped with a 90mm anti-tank gun from obsolete M47 Patton tanks. G112 KanonenJagdPanzer 105  Its design was very similar to that of the World War II Jagdpanzer IV. G112 KanonenJagdPanzer 105 
+
+When the Soviets began deploying their T-64 and T-72 main battle tanks, the 90 mm gun was not capable of engaging them in long-range combat and the Kanonenjagdpanzer became obsolete. G112 KanonenJagdPanzer 105  Although the producers claimed it could be rearmed with a 105 mm gun, between 1983 and 1985, 163 of these tank destroyers were converted into Raketenjagdpanzer Jaguar 2 anti-tank guided missile carriers by removing the gun, adding a roof-mounted TOW missile launcher and fastening further spaced and perforated armour on the hull. G112 KanonenJagdPanzer 105 
+
+|HistAcc=
+Historical Rheinmetall BK 90/L40 90mm anti-tank gun is missing. G112 KanonenJagdPanzer 105 
+
+|HistoricalGallery= 
+File:Bundesarchiv B 145 Bild-F027421-0002, Kanonenjagdpanzer (KanJPz) - Jagdpanzer Kanone 90 mm. G112 KanonenJagdPanzer 105 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

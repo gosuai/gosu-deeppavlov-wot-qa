@@ -1,0 +1,64 @@
+{{TankData|Tank= 
+
+| The parent of the [[Tank:R145_Object_705_A|Object 705A]], sporting a smaller set of easier handling guns. R153 Object 705  It has less armor overall, yet it still packs impressive armor for the tier. R153 Object 705  The ''Object 705'' is one of the strongest side scrapers for its tier, including tier for tier ability. R153 Object 705  The vehicle is a dominating force over the battlefield for multiple reasons, nearly all that include armor and the selection of top guns. R153 Object 705 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Can equip the same 130mm naval gun of the [[IS-7]] a tier lower (with slightly worse stats)
+* Nearly immune turret armor from the front, with the exception of extremely high penetration HEAT ammunition and HE rounds
+* Thick spaced armor on the sides allows for effective side-scraping and near immunity at certain angles to all ammo types
+* One of the larger (and largest) health pools for a Tier 9 heavy tank
+* Very low height compared to some lower tier tanks ([[IS]] or tier VI tanks like the [[Škoda T 40]] for comparison)
+
+
+|InTheGame_cons= 
+* Sluggish mobility and acceleration
+* Very poor gun depression (can be mitigated with terrain position if carefully played)
+* Very weak ammo rack, even medium-caliber high explosive shots can damage it
+* Rather long (but low-profile) and slow target, vulnerable to artillery and flanking
+* Hull armor has some weak spots, but with careful angling and side-scraping, these weaknesses minimize
+
+|InTheGame_performance= 
+
+Coming from the IS-M which was a rather good (although sometimes disappointing) sidescraper, one would assume the same case is with this tank. R153 Object 705  In fact, it is and is even better due to the upgraded armor package. R153 Object 705  The good things this tank has in its favor are frontal turret armor, alpha damage and excellent DPM (provided the 122mm is used) and upper side hull armor when side-scraping. R153 Object 705  Most other things are either underwhelming or just mediocre. R153 Object 705 
+
+The 122mm BL-13-1A gun has excellent DPM (in fact, one of the top highest tier IX heavy tank DPMs) and gun handling but lacks massive alpha. R153 Object 705  Although, It has decent penetration (unless HEAT rounds are used, which allows it to penetrate most opponents easily if carefully aimed). R153 Object 705  The 130mm gun is underwhelming in all departments except alpha damage and DPM (the DPM being right underneath "good" if a combination of enhancements is used on the tank). R153 Object 705  Gun depression is quite bad on both guns, meaning that flat ground is highly recommended to put the gun to use. R153 Object 705  Manipulate your tank over certain terrain positions to mitigate the poor gun depression. R153 Object 705 
+
+The frontal hull is, unfortunately, no match against premium ammo, or can sometimes even be penetrated by some tanks at equal tier. R153 Object 705  It can sustain lower tiers without any issues. R153 Object 705  The lower plate is approximately 200mm effective, and gets only 30-40mms better with angling; it gets frequently penetrated if left uncovered or un-angled, but this is expected and not out of the normal for nearly all heavy tanks at all tiers. R153 Object 705 
+
+The strongest aspects of the vehicle are the side armor profile and the incredibly strong turret armor. R153 Object 705  With an optimal flat surface with a hull-down structure in front of it, like a broken building viewpoint or a dead tank, the Object 705 exists in the game as one of the most powerful hull-down heavy tanks tier for tier. R153 Object 705  However, a few weak points of the vehicle must be touched upon. R153 Object 705  The frontal "side cheeks" of the 705 are immune when focusing the front of the vehicle at hostiles, but when angled and in side-scraping mode, the cheeks are a huge weak point that only forces the 705 into a struggled playstyle. R153 Object 705  Optimally, when side-scraping the tank should be used at medium ranges to negate the hazardous weak points. R153 Object 705 
+
+Flexibility is generally mediocre, as the tank cannot flex around the battlefield as fast as "Heaviums" can. R153 Object 705  It is still quite adequate for a very heavily armored tank, though. R153 Object 705 
+
+One of the more underappreciated aspects of the tank is the quite low-profile of the silhouette and overall shortness of the turret. R153 Object 705  The downside is that the turret roof is easily penetrated by taller tanks in face-hugging battles and artillery will pound your turret roof and hull roof for its rather wide structure. R153 Object 705 
+
+Finally, the Object 705 is an incredibly powerful tank when placed into the correct situations and terrain, but can be easily outperformed by other tanks in different specialized playstyles and when the 705 is caught out of its element. R153 Object 705  Premium ammo is a distinctly harsh burden on the frontal upper and lower plates, but it can withstand immense punishment when side-scraping correctly and using the extremely powerful turret front. R153 Object 705  A word of warning for those who disregard the tank's obvious downsides and will find a quick trip back to the garage. R153 Object 705 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+Tank Gun Rammer, Vertical Stabilizer, GLD, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+File:Object_705_turret_and_122_mm_BL-13_gun. R153 Object 705 jpg{{!}}Blueprint of what likely is the Object 705 turret with 152mm M51
+File:Object_705_Armor_profile. R153 Object 705 jpg{{!}}Object 705 armor profile
+File:Object_705_profile_area_calculations. R153 Object 705 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://tankarchives. R153 Object 705 blogspot. R153 Object 705 com/2016/01/object-705. R153 Object 705 html
+* https://tankarchives. R153 Object 705 blogspot. R153 Object 705 com/2017/08/soviet-rear-turret-tanks. R153 Object 705 html
+* https://techwiki. R153 Object 705 creativereactor. R153 Object 705 ru/index. R153 Object 705 php/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_705
+
+}}

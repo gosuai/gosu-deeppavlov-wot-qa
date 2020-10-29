@@ -1,0 +1,217 @@
+:''This article is about the Soviet medium tank. R04 T-34  For the American heavy tank, see [[T34]]. R04 T-34 ''
+:''For the Chinese imported version, see [[Type T-34]]. R04 T-34 ''
+{{TankData|Tank=
+|From a player's point of view, the T-34's almost mythical reputation in real life leads some to believe that it will be a kind of "wonder tank" in-game. R04 T-34  However, given that tiers represent the time periods of the tanks; and that the nations are idealised and able to produce anything they like; while the T-34 was one of the most famous tanks of World War II and the spiritual grandforefather of almost every modern MBT, there are much better competitors available. R04 T-34  In terms of stats, there are two main guns. R04 T-34  The 57mm ZiS-4 gun is a great gun for its tier, with a high accuracy and fantastic DPM. R04 T-34  The 76mm S-54 is a brawler's cannon not unlike the heavies with poor aim time, and indeed used to be available on the original Tier 6 KV-1S, but trades alpha for reload. R04 T-34  The turret itself has decent sloped armour for its tier of roughly 60mm all-round and the hull is on the thin side but very well angled. R04 T-34  With mobility, the T-34 is average and is only on par with other tier 5 mediums, but with a decent top straight speed for cruising. R04 T-34  All in all the T-34 is not a grind by any stretch of the imagination, and it can be a truly deadly weapon on the battlefield if used properly. R04 T-34 
+
+|Gallery=
+image:T34-a. R04 T-34 jpg{{!}}T-34 front right
+image:T34-b. R04 T-34 jpg{{!}}T-34 front left
+image:T34-d. R04 T-34 jpg{{!}}T-34 rear left
+
+|InTheGame_pros=
+* Arguably the most versatile tier 5 medium tank, very well-rounded with no serious drawbacks
+* 57mm gun has the best AP round DPM (over 2200), accuracy, shell velocity, and APCR penetration of all tier 5 medium tank guns. R04 T-34 
+* Sloped armour layout, allowing it to deflect shells decently especially when angled or sidescraping/wiggling. R04 T-34 
+* Good camouflage value and good -8 gun depression, can utilize environment well. R04 T-34 
+* Can transit to many tech branches, saves the effort of grinding through early tier tanks again. R04 T-34 
+
+|InTheGame_cons=
+* Disappointing overall at stock level. R04 T-34  Expensive engine which only offers a 20hp increase. R04 T-34  
+* 57mm relies solely on RoF; if forced into alpha trading or long-range duels the DPM will be somewhat compromised. R04 T-34 
+* Despite high pen, top 76mm S-54 has slow aim time, bad accuracy, and bad DPM making the 57mm a far better choice overall. R04 T-34 
+* Sluggish acceleration compared to its high top speed due to subpar ground resistance. R04 T-34  [[Pz. R04 T-34 Kpfw. R04 T-34  III/IV|Pz. R04 T-34  III/IV]] and [[Crusader]]s will outpace you. R04 T-34 
+* Its commander doubles as gunner, making crew transferring to latter vehicles troublesome. R04 T-34 
+
+|InTheGame_performance=
+The Soviet counterpart to the [[USA|American]] [[M4 Sherman]] medium tank, the T-34 shares the M4's status as a Jack-of-All-Trades. R04 T-34  The T-34 is a versatile tank, offering excellent firepower, decent armour and HP, and good mobility. R04 T-34  Stock, it is underpowered, armed with the horrendous '''76 mm L-11''' gun previously used on the A-20. R04 T-34  The stock turret's view range is poor (it was originally 240 m before buffed!), which reflects the fairly poor crew visibility that plagued the original T-34 historically. R04 T-34  The stock tracks with horrible ground resistance values (most likely depicting the early batch T-34s' harsh steering and faulty transmission pack) is likewise fairly disappointing, making it rather sluggish. R04 T-34  However, once fully upgraded, the T-34 really begins to shine. R04 T-34 
+
+Asides from transitional ones, the T-34 has a choice of two guns. R04 T-34  The '''57 mm ZiS-4''' is generally considered the best gun on the T-34, with the best handling, accuracy, rate-of-fire, and damage-per-minute of all the guns. R04 T-34  It is more than capable of dealing with any Tier 5 tank, and is powerful enough to penetrate the sides and rear of the heaviest Tier 7 tanks the T-34 may face. R04 T-34  If supplied with the somewhat expensive APCR rounds, it gains an overkill level of penetration and could damage said targets head-on without much difficulty. R04 T-34  The Enhanced Gun Laying Drive is almost mandatory with the ZiS-4, for the aim time is longer then the reload time (even without the Medium Calibre Tank Gun Rammer) and it will dramatically improve the T-34's ability to snipe at long ranges. R04 T-34  The ZiS-4's strength also lies in its ability to perform well both at long range, with extreme accuracy, and in close combat, with a blistering fast reload rate. R04 T-34  Since patch 8. R04 T-34 8 on, the '''76 mm S-54''' has been buffed to match the American M1A1 gun in terms of AP penetration, but the poor rate of fire and unreasonably long aim time make it less than ideal in most circumstances. R04 T-34 
+
+The T-34's sloped 45 mm hull armour is fairly reliable at bouncing rounds from most Tier 3 or 4 vehicles, but should not be relied upon when facing Tier 5 or higher vehicles. R04 T-34  While it will occasionally deflect rounds from such tanks, the T-34 will be very quickly destroyed under concentrated fire like any other tier 5 medium. R04 T-34  The second turret has slightly better armour at 52 mm, but not quite enough to make the T-34 a good tank to go reliably hull-down in. R04 T-34 
+
+In terms of mobility, the T-34 has the best top speed of the three mainstream Tier 5 mediums (the [[M4 Sherman]], and the [[Pz. R04 T-34 Kpfw. R04 T-34  IV Ausf. R04 T-34  H|Pz. R04 T-34  IV H]]). R04 T-34  The acceleration and turning are not quite as good as that of the [[Crusader]] or [[Pz. R04 T-34 Kpfw. R04 T-34  III/IV]], but they are good enough to allow the T-34 to perform well as a flanking medium and even circle some heavy tanks. R04 T-34 
+
+The T-34 also has surprisingly good camouflage values, which allow it to function as a pseudo-scout in a pinch and also help it flank unsuspecting enemies more successfully. R04 T-34 
+
+Overall, the T-34 is a tank that rewards an adaptable play style that can exploit the weaknesses of its opponents. R04 T-34  It almost always has an advantage of some sort over any of its possible opponents. R04 T-34  It can take up nearly any role on the battlefield if required and perform adequately at the very least. R04 T-34  Against lighter opponents, the T-34's superior armor and firepower will allow it to almost always come out on top. R04 T-34  Against heavier opponents, the T-34 is a flanker, using its superior mobility and deceptively high damage output in the form of the ZiS-4 to punish heavy tanks that underestimate its lower damage per shot with overwhelming damage per minute. R04 T-34 
+
+=='''Crew Skills'''==
+* '''Repair''' as the first skill for all the crew members is a solid choice, allowing broken tracks or other damaged modules to be brought to operational condition as quickly as possible. R04 T-34  '''Camouflage''' is also quite viable due to the T-34's already good innate camouflage values. R04 T-34  This can help when flanking, allowing it to remain undetected longer. R04 T-34 
+* A more specialized set of first skills would be '''Snap Shot''' (Commander/Gunner), '''Smooth Ride''' (Driver), '''Situational Awareness''' (Radio Operator). R04 T-34  The loader only has perks available, which are not useful until they have reached 100%, '''Repair''' or '''Camouflage''' are viable options for the loader, which may later be swapped out for his perks. R04 T-34  The combination of Snap Shot and Smooth Ride act like a Vertical Stabilizer (which the T-34 does not have access to), reducing the accuracy penalties while moving or turning the turret, and by extension, allowing the T-34 to get an accurate shot off faster after stopping. R04 T-34  Situational Awareness increase the tank's 350 m view range further. R04 T-34  '''Recon''' may also be used instead of Snap Shot if the emphasis is on enhancing spotting capability. R04 T-34  Smooth Ride may be substituted with '''Off-Road Driving''' for improved overall mobility. R04 T-34  '''Clutch Braking''' is generally not as useful, as the T-34 already has excellent hull traverse. R04 T-34 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly advised, as it is one of the most important perks in the game, especially for a medium tank. R04 T-34  The loader's skill may be dropped in favor of '''Safe Stowage''' or '''Adrenaline Rush'''. R04 T-34  Safe Stowage will be beneficial if one plans to move this crew further up the research branch, since high tier Soviet vehicles generally have low ammo rack durability. R04 T-34  However, Adrenaline Rush is highly situational that only activates upon 90% of its HP pool has depleted; any further penetration, even one from 37mm gun will kick the T-34 out of battle, making its effectiveness further limited. R04 T-34 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R04 T-34  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R04 T-34  It improves nearly every aspect of the tank's performance, but is generally better saved for later in favor of more important skills and perks like Repair and Sixth Sense. R04 T-34 
+
+|InTheGame_research=
+* The '''57 mm ZiS-4''' is the best overall gun and imperative for an early increase in firepower. R04 T-34  One might have already unlocked it on the [[T-28]]. R04 T-34  Otherwise, prioritizing it is a good idea. R04 T-34 
+* The '''T-34 Mod. R04 T-34  1942''' turret dramatically increases the T-34's view range, turret traverse speed, and most importantly; the rate-of-fire, so it makes a good module to research after the gun. R04 T-34 
+* The stock Mod. R04 T-34  1940 suspension has enough load limit for all of the modules, if used with the 57 mm ZiS-4. R04 T-34   However it is inexpensive and offers a massive improvement to terrain resistance, improving your speed more than the engine upgrade. R04 T-34 
+* If you came from the A-20 you may have the '''V-2-34''' engine already unlocked. R04 T-34   If not, you can opt to skip this entirely; while it does improve your acceleration a little, it will be unlocked for free with the T-34-85. R04 T-34   Use your judgment to decide if the small upgrade is worth grinding an extra 5000 XP. R04 T-34 
+* The '''76 mm S-54''' is required to unlock the [[T-34-85]], but like all the other T-34 weapon options is inferior to the 57mm. R04 T-34 
+
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Coated Optics, Toolbox, Camouflage Net, Binocular Telescope
+
+|History=
+[[image:T-34 Model 1940. R04 T-34 jpg|thumb|200px|left|T-34 Model 1940. R04 T-34 jpg]]
+The T-34 was a Soviet medium tank produced from 1941 to 1958. R04 T-34  It is widely regarded as having been the world's best tank when the Soviet Union entered World War II, and although its armour and armament were surpassed by later tanks of the era, it has been often credited as the war's most effective, efficient and influential design. R04 T-34  First produced at the KhPZ factory in Kharkov (Kharkiv, Ukraine), it was the mainstay of Soviet armoured forces throughout World War II, and widely exported afterwards. R04 T-34  It was the most-produced tank of the war, and the second most-produced tank of all time, after its successor, the T-54/55 series. R04 T-34 
+
+The T-34 was developed from the BT series of fast tanks and was intended to replace both the BT-5 and BT-7 tanks and the T-26 infantry tank in service. R04 T-34 
+
+At its introduction, it was the tank with the best balanced attributes of firepower, mobility and protection, although initially its battlefield effectiveness suffered from the unsatisfactory ergonomic layout of its crew compartment, lack of radios and poor tactical employment. R04 T-34  The two-man turret crew arrangement required the commander to serve as the gunner, an arrangement common to most Soviet tanks of the day; this proved to be inferior to three-man (commander, gunner and loader) turret crews. R04 T-34 
+
+The design and construction of the tank were continuously refined during the war to improve effectiveness and decrease costs, allowing steadily greater numbers of T-34s to be fielded. R04 T-34  In early 1944, the improved T-34-85 was introduced, with a more powerful 85 mm gun and a three-man turret design. R04 T-34  By the war's end in 1945, the versatile and cost-effective T-34 had replaced many light and heavy tanks in service, and accounted for the majority of Soviet tank production. R04 T-34  Its evolutionary development led directly to the T-54/55 series of tanks, built until 1981 and still operational today. R04 T-34 
+
+== Development ==
+[[image:T-34 prototypes. R04 T-34 jpg|thumb|200px|right|Road to T-34; A-8 (BT-7M), A-20, T-34 Model 1940 and Model 1941]]
+The T-34 was developed from the BT series of fast tanks and was intended to replace both the BT-5 and BT-7 tanks, and the T-26 infantry tank in service. R04 T-34 
+
+'''Early development'''
+
+In 1939, the most numerous Soviet tanks were the T-26 light tank and the BT series of fast tanks. R04 T-34  The T-26 was a slow-moving infantry tank, designed to keep pace with soldiers on the ground. R04 T-34  The BT tanks were cavalry tanks, very fast-moving light tanks, designed to fight other tanks but not infantry. R04 T-34  Both were thinly armoured, proof against small arms but not anti-tank rifles and 37 mm anti-tank guns, and their gasoline-fueled engines (commonly used in tank designs throughout the world in those days) were liable to burst into flames "at the slightest provocation" Both were Soviet developments of foreign designs from the early 1930s: the T-26 was based on the British Vickers 6-Ton, and the BT tanks were based on a design from American engineer Walter Christie. R04 T-34 
+
+In 1937, engineer Mikhail Koshkin was assigned by the Red Army to lead a new team to design a replacement for the BT tanks, at the Kharkiv Komintern Locomotive Plant (KhPZ) in Kharkiv. R04 T-34  The prototype tank, designated A-20, was specified with 20 millimetres (0. R04 T-34 8 in) of armour, a 45 mm (1. R04 T-34 8 in) gun, and the new model V-2 engine, using less-flammable diesel fuel. R04 T-34  It also had an 8×6-wheel convertible drive similar to the BT tank's 8×2, which allowed it to run on wheels without caterpillar track. R04 T-34  This feature had greatly saved on maintenance and repair of the unreliable tank track of the early 1930s, and allowed tanks to travel over 85 km/h (53 mph) on roads, but gave no advantage in combat. R04 T-34  By then, the designers considered it a needless waste of space and weight. R04 T-34  The A-20 also incorporated previous research (BT-IS and BT-SW-2 projects) into sloped armour: its all-round sloped armour plates were more likely to deflect anti-armour rounds than perpendicular armour. R04 T-34 
+
+Koshkin convinced Soviet leader Joseph Stalin to let him develop a second prototype, a more heavily armed and armoured "universal tank" which could replace both the T-26 and the BT tanks. R04 T-34  he second prototype Koshkin named A-32, after its 32 millimetres (1. R04 T-34 3 in) of frontal armour. R04 T-34  It also had a 76. R04 T-34 2 mm (3 in) gun, and the same model V-2 diesel engine (Zaloga 1994:5). R04 T-34  Both were tested in field trials at Kubinka in 1939, and the heavier A-32 proved to be as mobile as the A-20. R04 T-34  A still heavier version of the A-32 with 45 millimetres (1. R04 T-34 8 in) of front armour and wider tracks was approved for production as the T-34. R04 T-34  Koshkin chose the name after the year 1934 when he began to formulate his ideas about the new tank, and to commemorate the decree expanding the armoured force and the appointment of Sergo Ordzhonikidze to head tank production. R04 T-34 
+
+Two prototype T-34s were completed in January 1940, and underwent a grueling 2,000-kilometre (1,250 mi) drive from Kharkiv to Moscow for a demonstration for the Kremlin leaders, to the Mannerheim Line in Finland, and back to Kharkiv via Minsk and Kiev, in April and May. R04 T-34  Some drivetrain shortcomings were identified and corrected. R04 T-34 
+
+Resistance from the military command and concerns about high production cost were finally overridden by anxieties about the poor performance of Soviet tanks in Finland and the effectiveness of Germany's Blitzkrieg in France, and the first production tanks were completed in September 1940, completely replacing the production of the T-26, BT, and the multi-turreted T-28 medium tank at the KhPZ. R04 T-34  Koshkin died of pneumonia at the end of that month (exacerbated by the drive from Kharkov to Moscow), and the T-34's drivetrain developer, Alexander Morozov, was appointed Chief Designer. R04 T-34 
+
+The T-34 had the coil-spring Christie suspension of the BT, but dispensed with the weighty and ineffective convertible drive. R04 T-34  It had well-sloped armour, a relatively powerful engine and wide tracks. R04 T-34  The initial version had a 76. R04 T-34 2 mm gun, and is often called the T-34/76 (originally a World War II German designation). R04 T-34  In 1944 a second major version began production, the T-34-85 (or T-34/85), with a larger turret mounting a larger 85 mm gun. R04 T-34 
+
+==Establishing and maintaining production==
+
+The T-34 posed new challenges for Soviet industry. R04 T-34  It was the most heavily armoured medium tank produced to that point, and subassemblies originated at several plants: Kharkov Diesel Factory No. R04 T-34  75 supplied the model V-2 engine, Leningrad Kirovsky Factory (former Putilov works) made the original L-11 gun, and the Dinamo Factory in Moscow produced electrical components. R04 T-34  Tanks were initially built at KhPZ No. R04 T-34  183, in early 1941 at the Stalingrad Tractor Factory (STZ), and starting in July shortly after the German invasion at Krasnoye Sormovo Factory No. R04 T-34  112 in Gorky. R04 T-34  There were problems with defective armour plates, however. R04 T-34  Due to a shortage of new V-2 diesel engines, the initial production run from the Gorky factory were equipped with the BT tank's MT-17 gasoline-burning aircraft engine, and inferior transmission and clutch. R04 T-34  Only company commanders' tanks could be fitted with radios, which were expensive and in short supply. R04 T-34  The L-11 gun did not live up to expectations, so the Grabin design bureau at Gorky Factory No. R04 T-34  92 designed a superior F-34 76. R04 T-34 2 mm gun. R04 T-34  No bureaucrat would approve production, but Gorky and KhPZ started producing the gun anyway; official permission only came from Stalin's State Defense Committee after troops in the field sent back praise for the gun's performance. R04 T-34 
+
+There was political pressure from conservative elements in the army to redirect resources into building the older T-26 and BT tanks, or to cancel T-34 production pending completion of the more advanced T-34M design. R04 T-34  This political pressure was brought to bear by the developer of the KV-1 and IS-2 tanks which were in competition with the T-34. R04 T-34  (Political pressure between designers and factories producing different tanks to meet the same requirements continued much later post-war, including a period when the T-55, T-64, T-72, and T-80 were in concurrent production at several factories with differing political patrons on the supreme council of the USSR. R04 T-34   Germany's surprise attack against the Soviet Union in June 22, 1941 (Operation Barbarossa) forced the Soviet Union to freeze further development, and shift into full production of tanks. R04 T-34 
+
+Germany's rapid advances forced the monumental evacuation of tank factories to the Ural mountains. R04 T-34  KhPZ was re-established around the Dzherzhinski Ural Railcar Factory in Nizhny Tagil, renamed Stalin Ural Tank Factory No. R04 T-34  183. R04 T-34  The Kirovsky Factory was evacuated just weeks before Leningrad was surrounded, and moved with the Kharkov Diesel Factory to the Stalin Tractor Factory in Chelyabinsk, soon to be nicknamed Tankograd ('Tank City'). R04 T-34  Voroshilov Tank Factory No. R04 T-34  174 from Leningrad was incorporated into the Ural Factory and the new Omsk Factory No. R04 T-34  174. R04 T-34  The Ordzhonikidze Ural Heavy Machine Tool Works (UZTM) in Sverdlovsk absorbed several small factories. R04 T-34  While these factories were being moved at record speed, the industrial complex surrounding the Stalingrad Tractor Factory produced forty percent of all T-34s
+
+As the factory became surrounded by heavy fighting in the Battle of Stalingrad, the situation there grew desperate: manufacturing innovations were necessitated by material shortages, and stories persist that unpainted T-34 tanks were driven out of the factory into the battlefields around it. R04 T-34  Stalingrad kept up production until September 1942. R04 T-34 
+
+Barring this interruption, the only changes allowed on the production lines were to make the tanks simpler and cheaper to produce. R04 T-34  New methods were developed for automated welding and hardening the plate, including innovations by Prof. R04 T-34  Evgeny Paton. R04 T-34  The design of the 76. R04 T-34 2 mm F-34 gun Model 1941 was reduced from the earlier model's 861 parts to only 614. R04 T-34  Over two years, the production cost of the tank was reduced from 269,500 rubles in 1941, to 193,000, and then to 135,000 (Zaloga & Grandsen 1984:131). R04 T-34  Production time was cut in half by the end of 1942, even though most experienced factory workers had been sent to the battlefield and replaced by a workforce that included 50% women, 15% boys and 15% invalids and old men. R04 T-34  At the same time T-34s, which had been "beautifully crafted machines with excellent exterior finish comparable or superior to those in Western Europe or America" were much more roughly finished, although mechanical reliability was not compromised. R04 T-34 
+
+
+== Development ==
+
+In 1942, a new hexagonal turret design derived from the abandoned T-34M project entered production, improving the cramped conditions, and eventually adding a commander's cupola for all-round vision. R04 T-34  Limited rubber supplies led to the adoption of steel-rimmed road wheels, and a new clutch was added to the improved five-speed transmission and engine. R04 T-34 
+
+After German tanks with the superior long 75 mm (2. R04 T-34 95 in) gun were fielded in 1942, Morozov's design bureau began a project to design an advanced T-43, aimed at increasing armour protection, while adding modern features like torsion-bar suspension and a three-man turret. R04 T-34  The T-43 was intended to be a universal tank to replace both the T-34 and the KV-1 heavy tank, developed in direct competition with a Chelyabinsk heavy tank design bureau's KV-13 project. R04 T-34 
+
+In 1943 the Soviets encountered the new German Tiger and Panther tanks. R04 T-34  Experience at the Battle of Kursk and reports from front-line commanders indicated that the T-34's 76. R04 T-34 2 mm gun was now inadequate. R04 T-34  An existing 85 mm (3. R04 T-34 3 in) antiaircraft gun was identified which was effective against the new German tanks, and could be adapted to tank use. R04 T-34  Unfortunately, the T-43 prototype's heavier armour was still not proof against the Tiger's 88 mm gun, and its mobility was found to be inferior to the T-34's, even before installing a heavier 85 mm gun. R04 T-34  Although it shared over 70% of its components with the T-34, a commitment to manufacturing it would have required a significant slow-down in production. R04 T-34 
+
+In consequence the T-43 was canceled, and the Soviet command made the difficult decision to retool the factories to produce a new model of T-34 with a turret ring enlarged from 1,425 mm (56 in) to 1,600 mm (63 in), allowing a larger turret to be fitted. R04 T-34  The T-43's turret design was hurriedly adapted by V. R04 T-34  Kerichev at the Krasnoye Sormovo Factory to fit the T-34 The resulting new T-34-85 tank had a far superior gun and finally, a three-man turret with radio (which had previously been in the hull). R04 T-34  Now the commander needed only to command the tank, leaving the operation of the gun to the gunner and the loader. R04 T-34 
+
+Overall production slowed down somewhat while the new tank started its production run. R04 T-34  Although a T-34-85 was still not a match for a Panther, the improved firepower made it much more effective than before. R04 T-34  The decision to improve on the existing design instead of tooling up for a new one allowed the Soviets to manufacture tanks in such numbers that the difference in capabilities could be considered insignificant. R04 T-34  In May 1944, the Wehrmacht had only 304 Panthers operating on the Eastern Front, while the Soviets had increased T-34-85 production to 1,200 tanks per month
+
+'''Cost-effectiveness'''
+
+The cost to produce a T-34-85 tank was initially about thirty percent higher than a Model 1943, at 164,000 rubles; but by 1945 it was down to 142,000. R04 T-34  During the course of the war, the cost of a T-34 tank had been reduced by almost half, while in the meantime its mobility remained nearly the same, and its main gun's armour penetration and turret frontal armour thickness nearly doubled. R04 T-34 
+
+[[File:T-34-85 interior Parola Tank Museum. R04 T-34 jpg|thumb|Interior of a T-34/85 viewed from the driver's hatch, showing the ammunition boxes on which the loader had to stand in the absence of a turret basket. R04 T-34  In the foreground is the driver's seat. R04 T-34 ]]
+
+
+'''Production figures'''
+
+By the end of 1945, over 57,000 T-34s had been built: 34,780 original T-34 tanks in 1940–44, and another 22,559 T-34-85s in 1944–45. R04 T-34  The single largest producer was Factory N. R04 T-34 183 (UTZ) with 28,952 T-34s and T-34-85s built from 1941 to 1945. R04 T-34  The second-largest was Factory N. R04 T-34  112 (Krasnoye Sormovo) in Gorki with 12,604 in the same period. R04 T-34  In 1946, after the war, 2,701 T-34s were built, and large-scale production ceased. R04 T-34  Production was restarted under license in 1951 in Poland and Czechoslovakia, where 1,380 and 3,185 T-34-85s were made, respectively, by 1956. R04 T-34  Later, T-54/55 and T-72 tanks were also built outside the Soviet Union. R04 T-34  In the late 1960s, Soviet T-34-85s underwent a modernization program (T-34-85M) for export and reserve service, being retrofitted with drivetrain components from the T-54/55 series tanks—a testament to the level of standardisation in Soviet tank design. R04 T-34 
+
+German [[military intelligence|intelligence]] in World War II referred to the two main production models as ''T-34/76'' and ''T-34/85'', with minor models receiving letter designations such as ''T-34/76A''—this nomenclature has been widely used in the West, especially in popular literature. R04 T-34 
+
+The Red Army never had a consistent policy for naming the production models. R04 T-34  Since at least the 1980s however, many academic sources (notably, [[armoured fighting vehicle|AFV]] expert [[Steven Zaloga]]) have been using Soviet-style nomenclature: ''T-34'' and ''T-34-85'', with minor models distinguished by year, as ''T-34 Model 1940''. R04 T-34  This system is used here. R04 T-34 
+
+Some Russian historians use different names: they refer to the first T-34 as the ''T-34 Model 1939'' instead of 1940, all T-34s with the original turret and F-34 gun as ''Model 1941'' instead of Models 1941 and 1942, and [[hexagon]]al-turret T-34 as ''Model 1942'' instead of 1943. R04 T-34 
+
+Captured T-34s in German service were designated ''Panzerkampfwagen T-34(r)'', for ''Russland'' ('Russia'). R04 T-34  
+
+The Finns called the T-34 ''Sotka'' after the [[Common Goldeneye]], a sea duck, because the side silhouette of the tank resembles a swimming waterfowl (as related in the memoirs of Finnish tank ace [[Lauri Heino]]). R04 T-34  The T-34-85 was called ''pitkäputkinen Sotka'', 'long-barreled Sotka'. R04 T-34 
+
+The '''T-34''' (German designation: T-34/76) was the original tank with 76. R04 T-34 2 mm gun. R04 T-34 
+
+* '''Model 1940''' (T-34/76A) — Early production run with interim [[L-11]] 76. R04 T-34 2 mm [[tank gun]] in a two-man turret
+* '''Model 1941''' (T-34/76B) — Main production with heavier [[vehicle armour|armour]] and the superior [[F-34 tank gun|F-34 76. R04 T-34 2 mm gun]]
+* '''Model 1942''' (T-34/76C) — Many minor manufacturing improvements
+* '''Model 1943''' (T-34/76D, E, and F) — New cast hexagonal turret, nicknamed "[[Mickey Mouse]]" by the Germans because of its appearance with the twin, round turret-roof hatches open. R04 T-34  Main production had a new commander's cupola
+* '''T-34/57''' — Fewer than 324 T-34s in 1941 and 1943–44 were fitted with the [[57-mm anti-tank gun M1943 (ZiS-2)|ZiS-4]] or the ZIS-4M high-velocity 57 mm gun to be used as tank hunters. R04 T-34  Some of them took part in the [[Battle of Moscow]]
+
+The '''T-34-85''' (T-34/85) was a major improvement with a three-man turret and long 85 mm gun. R04 T-34 
+
+* '''Model 1943''' — Short production run of February–March 1944 with [[D-5T 85 mm gun]]
+* '''Model 1944''' — Main production, with simpler [[ZiS-S-53 85 mm gun]], radio moved from the hull into a turret with improved layout and new gunner's sight
+
+Various technical improvements continued to be made to the T-34-85, including major refurbishing programs in 1960 and 1969. R04 T-34  All T-34-85 models are externally very similar. R04 T-34 
+
+Pre-war development of a more advanced T-34 tank was resumed in 1944, leading to the [[T-44]]. R04 T-34  The new tank had a turret design based on the T-34-85's, but a new hull with [[torsion beam suspension|torsion-bar suspension]] and [[transverse engine|transversely-mounted engine]]. R04 T-34  It had a lower profile than the T-34-85 and was simpler to manufacture. R04 T-34  Between 150 to 200 of these tanks were built before the end of the war. R04 T-34  With some drivetrain modifications and a new turret and gun, it became the [[T-55|T-54]], starting production in 1947. R04 T-34 
+
+Czechoslovakian-built T-34-85s can be recognized by a semi-conical armoured fairing (like a rear-facing scoop) on the left rear slanting side panel of the engine compartment sponson. R04 T-34  These were widely exported. R04 T-34 
+
+
+"'Later improvements"'
+
+An up-armored version was introduced in 1943 that featured greater fuel capacity, reliability improvements and a modified turret. R04 T-34  In early 1944, the improved T-34-85 was introduced, with the more powerful 85 mm ZiS AA/AT gun and a three-man turret design. R04 T-34 
+
+
+== Combat performance ==
+
+[[image:T34 advancing with infantry at kursk. R04 T-34 jpg|thumb|200px|left|T34 advancing with infantry at kursk. R04 T-34 jpg]]
+
+The T-34 is often used as a symbol for the effectiveness of the Soviet counterattack against the Germans. R04 T-34  The appearance of the T-34 in summer 1941 was a psychological shock to German soldiers, who had been prepared to face an inferior Soviet enemy; this is shown by the diary of Alfred Jodl, who seems to have been taken by surprise at the appearance of the T-34 in Riga
+
+The T-34 could take on all 1941 German tanks effectively. R04 T-34  However, the new tank suffered severe problems, e. R04 T-34 g. R04 T-34  from engines literally grinding to halt due to dust and sand ingestion - the original Pomon filter was almost totally ineffective - and some serious mechanical troubles beset its transmission and clutch. R04 T-34  At least half the first summer's total tank losses were due to breakdowns rather than German fire, although this also included old tanks in disrepair. R04 T-34  There was a shortage of repair equipment, and it was not uncommon for early T-34s to go into combat carrying a spare transmission on the engine deck. R04 T-34  The mechanical troubles were eventually sorted out. R04 T-34 
+
+[[image:T-34_ARV_(right)_towing_a_disabled_tank_at_the_Battle_of_Kursk. R04 T-34 jpg|thumb|200px|right|ARV (right) towing a disabled T-34 at the Battle of Kursk. R04 T-34 jpg]]
+
+During the winter of 1941–42, the T-34 again dominated German tanks through its ability to move over deep mud or snow without bogging down. R04 T-34  German tanks could not move over the same terrain the T-34 could handle. R04 T-34  The Panzer IV used an inferior leaf spring suspension and narrow track with a tendency to sink in deep mud and snow. R04 T-34 
+
+The German infantry, at that time armed mostly with PaK 36 37 mm (1. R04 T-34 46 in) antitank gun, had no effective means of stopping T-34s. R04 T-34  During the Battle of France the Pak 36 had earned the nickname "Door Knocker" due to its inability to penetrate anything but the lightest tank armour, though it worked very well at announcing the presence of the gun crew. R04 T-34  Needless to say, crews of these weapons fighting on the Eastern front also found it severely underpowered for engaging Soviet tanks, often having to rely on heavier towed firepower, such as the relatively rare but effective Pak 38, the newer and much heavier Pak 40 and especially the 88 mm Flak guns that could not be moved into location as easily. R04 T-34  Only the poor level of Soviet crew training, the ineptitude of Soviet commanders, and the early distribution prevented the T-34 from achieving greater success. R04 T-34 
+
+The emphasis in the Red Army in 1942–43 was on rebuilding the losses of 1941 and improving tactical proficiency. R04 T-34  T-34 production increased rapidly, but the design was "frozen"—generally, only improvements that sped production were adopted. R04 T-34  Soviet designers were well aware of the need to correct certain deficiencies in the design, but these improvements would have cost production time and could not be implemented. R04 T-34  By mid-1943 T-34 production was running at about 1,000 tanks per month, much higher than the German rate. R04 T-34 
+
+In response to the sheer number of T-34s appearing on the battlefield and the ever growing need for heavier firepower, the Germans were beginning to field very large numbers of the high-velocity PaK 40 75 mm gun, both towed and self-propelled. R04 T-34  These made up most of the anti-tank artillery by 1943. R04 T-34  By late 1942 and into mid 1943 Germany had also begun to field the revered Tiger heavy tank and Panther medium tank, which further increased the need for an improved T-34. R04 T-34  These improved versions came in two notable forms: an uparmoured version in 1943 that incorporated greater fuel capacity, reliability, and a modified turret; and a 1944 version with a new turret carrying a form of the 85 mm ZiS AA/AT gun. R04 T-34  This last greatly increased firepower over the previous 76. R04 T-34 2 mm F-34 cannon and finally gave the T-34 a better offensive capability
+
+The T-34-85 in early 1944 gave the Red Army a tank with better armour and mobility than German Pzkw IV and Sturmgeschütz III, but it could not match the Panther in gun or armour protection. R04 T-34  To the Soviet advantage there were far fewer Panthers than T-34s, and the T-34-85 was good enough to allow skilled crew and tactical situations to tip the balance. R04 T-34 
+
+At the outset of the war, T-34 tanks amounted to only about four percent of the Soviet tank arsenal, but by the war's end, they comprised at least 55% of the USSR's output of tanks. R04 T-34 
+
+By the time the T-34 had replaced older models and became available in greater numbers, newer German tanks, including the improved Panzer V 'Panther', outperformed it. R04 T-34  The Soviets' late-war Iosif Stalin tanks were also better-armed and better-armoured than the T-34. R04 T-34 
+
+
+[[image:T-34 from factory 112 destroyed at the Battle of Prokhorovka 1943. R04 T-34 jpg|thumb|200px|right|T-34 from factory 112 destroyed at the Battle of Prokhorovka 1943. R04 T-34 ]]
+
+
+
+== Combat Performance Conclusions ==
+
+A natural comparison can be made between the T-34 and the US M4 Sherman medium tank. R04 T-34  Each tank formed the backbone of the armoured units in their respective allied armies. R04 T-34  The T-34 was a "world-beater" at the time of its debut, while the Sherman was a strong contender when introduced in 1942. R04 T-34  Both models were upgraded and improved extensively throughout their service life, receiving new turrets with more powerful guns. R04 T-34  Both were designed for ease of manufacture and maintenance, even sacrificing some performance for this goal. R04 T-34  Neither was a match for the German Panther or Tiger tanks in armour or firepower, but these heavy vehicles were both in a class more comparable to the Soviet IS-2 heavy tank or the American M26 Pershing
+
+Tanks were expected to have many roles on the battlefield, the foremost being infantry support and exploitation. R04 T-34  The tank-vs-tank role is nonetheless important. R04 T-34  German tank production was limited to relatively small numbers of superior but complex vehicles (in part because of production diversion into self-propelled guns), which put them at a numerical disadvantage. R04 T-34  The Soviet decision to build large numbers of T-34s, gradually improving and simplifying the design, proved to be a superior strategy that helped win World War II. R04 T-34 
+
+Other key factors diminishing the initial impact of T-34s on the battlefield were the poor state of leadership, tank tactics, and crew training, a consequence of Stalin's purges of the Soviet officer corps in the late 1930s, aggravated by the loss of the best-trained personnel during the Red Army's disastrous defeats in 1941. R04 T-34  Many crews went into combat with only their basic military training plus seventy-two hours of classroom instruction. R04 T-34  These problems were exacerbated by poor ergonomics and lack of radios during the early part of the war, making it practically impossible to coordinate tank units in combat. R04 T-34  German tank soldiers found that the Soviet armor attacked in rigid formations and took little advantage of terrain. R04 T-34  By 1943–44, these problems had largely been corrected. R04 T-34 
+
+Despite the many design issues, the T-34 had a very strong initial design allowing for all ongoing engineering to emphasis manufacturing improvements. R04 T-34  
+
+{{VideoYT|1ARy-2oyfMo}}
+
+|HistAcc=
+T-34s armed with the 57 mm gun were used as tank destroyers. R04 T-34 
+* Uses the same 76 mm F-34 gun as the [[Tank:R154_T_34E_1943|T-34 shielded]]. R04 T-34  However, their penetration values are inconsistent. R04 T-34 
+
+|HistoricalGallery=
+image:T-34_747(r)_mod_1940. R04 T-34 jpg{{!}}Captured T-34 747(r) mod. R04 T-34 1940 
+image:T-34_Captured_Soviet_Model_1943_tanks_pressed_into_service_with_the_Wehrmacht. R04 T-34 jpg‎{{!}}Captured T-34 mod. R04 T-34 1943
+image:T-34_set_on_fire_near_Kursk. R04 T-34 jpg{{!}}T-34 set on fire during Battle of Kursk
+image:T-34 the model 1942 had an all-new hexagonal turret with bulbous trunnion housing. R04 T-34 jpg{{!}}T-34 mod. R04 T-34  1942. R04 T-34  Note the new hexagonal turret with bulbous trunnion housing
+image:T34 tanks in a tight formation during the battle of Kursk. R04 T-34 jpg{{!}}T34 tanks in a tight formation during the battle of Kursk
+image:T34 tank supported by infantry at the Battle of Kursk. R04 T-34 jpg{{!}}T34 tank supported by infantry at the Battle of Kursk. R04 T-34 
+
+|Ref_references=
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. R04 T-34 wikipedia. R04 T-34 org/wiki/T-34
+
+}}
+
+[[Category:USSR Tanks]]

@@ -1,0 +1,55 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Good alpha damage and penetration for a light tank
+* Great gun depression
+* Outstanding viewrange, best in tier among light tanks
+* Good top speed and acceleration 
+* Generous ammo capacity of 50 shells
+
+
+|InTheGame_cons= 
+
+* Horrible shell velocity and subpar gun handling
+* Light and poorly armored, very vulnerable to HE penetrations and ramming
+* Not the best camouflage for a light tank
+* Lacks improved HE penetration that higher tiered German light tanks enjoy
+* Hull traverse is not great for a light tank
+
+
+|InTheGame_performance= 
+Because of the tank's smaller than average width, it can fit in small bushes that other scouts (M41, HWK 30) cannot fit in. G126 HWK 12  This, combined with the excellent view range can produce an excellent passive scout. G126 HWK 12  However, because the top speed of the tank is lower than most of its peers, it can't take as aggressive bushes like the ELC EVEN 90 or B-C 12t can. G126 HWK 12 
+
+The tank, with a large supply of HEAT rounds, can also take a supporting role. G126 HWK 12  In this role, either position behind the front lines, or infiltrate through gaps in the enemy lines (once some enemy tanks are destroyed) in order to get shots on the sides of enemy vehicles. G126 HWK 12  However, be prepared for a lot of frustrating misses due to the extremely low shell velocity (even lower with HEAT). G126 HWK 12  Remember in this role that if you are not getting shots on an enemy, then you are wasting a tier 8 tank and should find another way to get into the fight. G126 HWK 12 
+
+Due to the tank's worse agility compared to other light tanks, this tank should not generally active scout. G126 HWK 12  The poor gun handling also works against this. G126 HWK 12 
+
+The tank's small size will allow it to avoid snapshots, which should provide enough time to get away once spotted if fighting at midrange or farther. G126 HWK 12  However, it won't hold up to sustained fire. G126 HWK 12  Fortunately, the quick acceleration of the vehicle allows it to escape a situation once spotted. G126 HWK 12 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Medium-caliber tank gun rammer, Vertical stabilizer, Vents, Coated optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The '''HWK-11''' was a joint project between the Mexican defense secretary (SEDENA) and Henschel Wehrtechnik GmbH of West Germany. G126 HWK 12  In 1964 the first 12 vehicles were manufactured in West Germany and delivered to the Mexican Army. G126 HWK 12  A further 28 vehicles were later manufactured in Mexico. G126 HWK 12  The '''HWK-12''' existed in blueprints only and did not go beyond the design phase. G126 HWK 12  This anti-tank variant used the design of the HWK-11, but included a turret with a 90 mm Mecar canon placed on the rear of the vehicle. G126 HWK 12  The cannon had an elevation of fifteen and a gun depression of ten degrees. G126 HWK 12 
+
+|HistoricalGallery= 
+Image:HenschelHWKProjects. G126 HWK 12 jpeg{{!}}Silhouettes of four HWK projects, including the HWK 12, in german magazine Die Parole, 1966, issue 8. G126 HWK 12 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,76 @@
+{{TankData|Tank=G02_Hummel
+|Built on the [[Pz. G02 Hummel Kpfw. G02 Hummel  III/IV]] chassis, the Hummel is a very well-rounded piece of artillery. G02 Hummel  The second gun can take down or seriously damage any heavy tank. G02 Hummel  This, combined with a good accuracy, makes it one of the best T6 SPGs. G02 Hummel  It can also be played in "tank destroyer mode" (direct fire) when needed. G02 Hummel  However, because of its height and low gun depression, going into a short-range gunfight is not advisable, since you're likely to just overshoot anything in front of you. G02 Hummel  Interestingly, it was the first SPG to be introduced in the game, one of the first seven tanks created when it was still in Alpha testing. G02 Hummel 
+
+|Gallery=
+image:Hummel front view 1. G02 Hummel jpg‎{{!}}Hummel front left view
+image:Hummel front view 2. G02 Hummel jpg‎{{!}}Hummel front right view
+image:Hummel back view 1. G02 Hummel jpg‎{{!}}Hummel back left view
+image:Hummel back view 2. G02 Hummel jpg‎{{!}}Hummel back right view
+image:Hummel-1. G02 Hummel jpg{{!}}Hummel, map Airfield
+image:Hummel-2. G02 Hummel jpg{{!}}Hummel, map Ensk
+
+|InTheGame_pros=
+- Impressive top gun range (1250 m)
+
+- Good alpha damage
+
+- Decent gun traverse arc
+
+- Low dispersion while turning 
+
+- Can be played as TD when needed
+
+
+
+|InTheGame_cons=
+- Large silhouette
+
+- Mediocre, at best, accuracy
+
+- Not that good mobility
+
+- Most expensive shells of all T6 SPGs
+
+- First gun has only 800m range and very slow shell travel speed
+
+- Takes 10 whole seconds longer to reload (near 50%) than the [[M44]] and [[SU-8]] with limited increase in alpha
+
+|InTheGame_performance=
+The Hummel starts off as a larger version of the Grille with the same gun. G02 Hummel  As soon as the upgraded gun is bought, however, everything changes. G02 Hummel  The second gun has a slow aim speed compared with other guns, and this can be quite frustrating in the beginning. G02 Hummel  If time and patience are taken, however, this SPG will perform well. G02 Hummel  The gun does a nice amount of damage and penetration and can easily stay competitive in tier 8 games. G02 Hummel  It has a good traverse arc without having to turn the whole vehicle. G02 Hummel 
+
+The 18 rounds carried won't run out as often as they would in the Grille, due to the lower rate of fire. G02 Hummel  Fire discipline must be taken to be effective; make sure to let the aim circle shrink all the way without taking premature shots, as this is the only way to chance a hit. G02 Hummel  Otherwise, it'll be a waste of a shell. G02 Hummel  The 27 seconds of reload time is very long however; it may seem that you can fire, relocate, re-aim, and load for your next shot, but the long aim time will leave you with ripe targets you cannot accurately hit. G02 Hummel  
+
+|InTheGame_research=
+* Unfortunately, only the radios carry over from the Grille. G02 Hummel 
+* Research and install the engines first, as they are cheap XP wise. G02 Hummel 
+* The upgraded suspension is necessary to mount the second gun. G02 Hummel 
+* Next, research the 15 cm sFH 18 L/30. G02 Hummel 
+* Go from there. G02 Hummel 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|History=
+Based on the experiences gained in the early stages of fighting on the Eastern Front, in late 1941, plans were laid for the development of artillery support vehicles, including a howitzer carrier based on the Panzerkampfwagen III’s chassis. G02 Hummel  Its main role was to provide other units with mobile artillery support on the battlefield. G02 Hummel 
+
+In early 1942, one prototype based on the Panzerkampfwagen III’s chassis and armed with a 105mm leFH17 howitzer (with muzzle brake) was constructed. G02 Hummel  Its design was rejected in favor of using the Panzerkampfwagen IV’s chassis. G02 Hummel  This design was accepted, and one prototype, based on the Panzerkampfwagen IV’s chassis and armed with 105mm leFH17, was produced. G02 Hummel 
+
+In late July of 1942, it was decided to replace the gun with the more powerful 150mm sFH 18 L/30 howitzer (without muzzle brake) based on the special chassis by Alkett/Rheinmetall-Borsig designated Geschutzwagen III/IV. G02 Hummel  It combined components of both the Pz. G02 Hummel Kpfw. G02 Hummel  III (mainly Ausf. G02 Hummel  J: driving and steering mechanism) and Pz. G02 Hummel Kpfw. G02 Hummel  IV (mainly Ausf. G02 Hummel  F:  suspension, engine, and cooling system). G02 Hummel  Originally, the Hummel (Bumblebee) was planned to be an "interim solution" until a specially designed gun platform / chassis was developed. G02 Hummel 
+
+|HistAcc=
+The 15 cm s. G02 Hummel F. G02 Hummel H. G02 Hummel  13 L/17 was only mounted on Lorraine 37L tractors, designated 15 cm sFH13/1 (Sf) auf Geschuetzwagen Lorraine Schlepper (f); this SPG does not exist in World of Tanks. G02 Hummel  Its configuration on the Hummel is fake. G02 Hummel 
+
+|HistoricalGallery=
+File:Hummel_russian. G02 Hummel jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}
+
+[[Category:German Tanks]]

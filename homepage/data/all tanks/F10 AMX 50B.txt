@@ -1,0 +1,132 @@
+{{TankData|Tank= AMX 50 B
+|The '''AMX 50 B''' is the final evolution of the French autoloader heavy line. F10 AMX 50B  It's very similar to its predecessor, the [[AMX 50 120]], and is essentially a souped-up version of it. F10 AMX 50B  Namely, it is more maneuverable and faster than the 50 120, mainly due to a big boost in horsepower. F10 AMX 50B  The AMX 50 B also has enhanced hull armor positioned at an extreme angle that is much more capable of bouncing shots. F10 AMX 50B  Although the 120mm cannon carries over from the 50 120, it has been significantly improved in reload speed, aiming time, time between shots, and gun elevation angles. F10 AMX 50B  Furthermore, the AMX 50B has overcome the easily-damaged ammo rack that plagued the AMX 50 120. F10 AMX 50B 
+
+|Gallery=
+image:AMX_50B_001. F10 AMX 50B jpg{{!}}AMX 50B 001
+image:AMX_50B_002. F10 AMX 50B jpg{{!}}AMX 50B 002
+image:AMX_50B_003. F10 AMX 50B jpg{{!}}AMX 50B 003
+image:AMX_50B_004. F10 AMX 50B jpg{{!}}AMX 50B 004
+image:Ingame_AMX_50B-1. F10 AMX 50B jpg{{!}}AMX 50B, Prokhorovka map
+image:AMX50120-a. F10 AMX 50B jpg{{!}}AMX 50B, map Mountain pass
+
+|InTheGame_pros=
+- 4-round autoloader with good penetration
+
+- Excellent gun depression at -10 degrees
+
+- Very high speed and maneuverability, tied with its predecessor as the fastest heavy tank in the game (65KM/H)
+
+- Bouncy angled frontal hull armor
+
+- Superb at ramming lighter tanks due to its top speed and weight of 62 tons
+
+- Quite fast aim time for an autoloader, especially compared to predecessors, along with decent clip and intra-clip reload
+
+
+
+
+|InTheGame_cons=
+- 2nd lowest HP of any tier 10 Heavy (2100)
+
+- Turret is huge and ridiculously easy to penetrate; negates good hull front
+
+- Rather large and tall silhouette
+
+- All around armor other than the frontal hull is abysmal; side and rear armor are easily triple overmatched
+
+- Bad terrain resistances
+
+|InTheGame_performance=
+The AMX 50 B is more of a support tier 10. F10 AMX 50B  It cannot lead a force into an attack, but its firepower allows it to supplement the attack with its powerful autoloading cannon. F10 AMX 50B  With it's aimtime buffed to 2. F10 AMX 50B 5 seconds in patch 9. F10 AMX 50B 2 the AMX 50B has good reactivity with its gun. F10 AMX 50B  While this can justify using different equipment instead of GLD, GLD is still recommended because as a heavy tank minimizing the exposure time between shots (especially when the 50B tends to get focused when seen) is still advantageous. F10 AMX 50B  One of the greatest advantages of the 50 B is its speed; this speed allows it to quickly disengage from a fight, relocate, and re-engage in another battle. F10 AMX 50B  This speed also allows it to intercept would-be arty killers and ram lighter enemies for high damage. F10 AMX 50B  As for its lack of overall armor, the front hull is surprisingly durable and the perfect angles of the turret can cause auto-ricochets. F10 AMX 50B  However, its armor cannot be relied upon and still takes high damage from arty. F10 AMX 50B  Also, the 50 B has a much-improved hitpoint pool which can take a hit in exchange for the opportunity to put four shells in the enemy before they get the chance to reload. F10 AMX 50B 
+
+
+Similarly to its predecessors, the 50 B is an opportunist and an excellent support tank. F10 AMX 50B  It has the potential to greatly contribute to the team and sway the tide of the battle. F10 AMX 50B  Furthermore it doesn't suffer from the weak ammo rack of the 50 120. F10 AMX 50B  Thus, on top of improved speed and rate of fire, the 50B is a further evolution and upgrade of its predecessor and can be a very satisfying tank to play. F10 AMX 50B 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment= Vents, Vertical Stabilizer, Coated Optics, GLD
+
+|External_Reviews=
+{{VideoYT|es-458G7F1A}}
+
+|History=
+[[image:AMX 50B, model with a cast hull and D type turret. F10 AMX 50B jpg|thumb|200px|left|AMX 50 B, model with a cast hull and Tourelle D type turret]] 
+When up-armored version of the  AMX 50 120 reached the weight of  64. F10 AMX 50B 7 tonnes, serious problems were encountered with mechanical reliability despite considerable efforts put into reinforcing the suspension. F10 AMX 50B  In the period from 1956 to 1958, the tank was again redesigned and the weight was diminished to 57. F10 AMX 50B 8 metric tonnes. F10 AMX 50B   Cast hull was lowered, now under designation surbaissé ("AMX 50 Lowered"), and a new lighter (but also higher) turret was build, the Tourelle D (fourth type turret). F10 AMX 50B  Unfortunately, problems with the Maybach engine were never completely solved, and the power output never reached desired 1200 HP. F10 AMX 50B   Even the special design team from Germany, that came to France to assist AMX engineers did not succeed to solve the engine problems. F10 AMX 50B  Maximum power output  that was achieved was limited to 1000 HP. F10 AMX 50B  Optimistically it was at that time that the projected maximum speed could eventually be increased to 65 km/h. F10 AMX 50B  In the end in total only five complete AMX 50 prototypes would be constructed, including the final hull. F10 AMX 50B 
+
+==AMX 50 Series development history==
+
+'''Oscillating turret'''
+[[image:Oscillating turret. F10 AMX 50B jpg|thumb|200px|left|Close up photo of a typical oscillating turret design]] 
+Because there were five prototypes, it is not possible to give a description applying to all of them in detail. F10 AMX 50B  Weighing about fifty-five tons, the general AMX 50 project was the heaviest of a trio of French AFV designs of the postwar period (the others being the AMX-13 and the Panhard EBR) to feature an oscillating turret. F10 AMX 50B  The oscillating turret design, lacking a conventional gun-mantlet, is in two separate parts, with an upper and lower part connected by two hinge bolts or pivots, the gun being fixed within the upper section. F10 AMX 50B  The horizontal movement of the gun, traversing, is conventional, but the vertical movement, elevation, is achieved through the pivoting of the entire upper section with respect to the lower section. F10 AMX 50B  This method of elevation has two main advantages. F10 AMX 50B  Firstly it allows for a smaller turret volume, as no internal space is needed for the vertical movement of the gun breech. F10 AMX 50B  Secondly, it allows the use of a relatively simple auto-loader fed by multi round magazines, achieving a very high rate of fire for as long as the magazines were loaded, as the gun is also fixed with respect to the auto-loader located in the back of the upper turret, i. F10 AMX 50B c. F10 AMX 50B  a protruding bustle. F10 AMX 50B  The automatic loading system worked satisfactorily when the caliber was 100 mm. F10 AMX 50B  After the larger 120 mm gun was introduced, reliability suffered, due to the increased weight of the rounds used. F10 AMX 50B  The oscillating turret was a very fashionable concept in the fifties, and also applied in some American projects, such as the T57 and T58. F10 AMX 50B  Only the French however, would produce operational systems. F10 AMX 50B 
+
+'''German role models'''
+
+The hull was equipped with a torsion bar suspension designed to ensure a vehicle with good cross-country mobility. F10 AMX 50B  The hull and suspension recalled both the German Tiger and the Panther tanks which, having entered French service after the war, were well known and deliberately imitated. F10 AMX 50B  Especially the engine deck, the sprockets and the tracks are strongly reminiscent of the German design style. F10 AMX 50B  The nine overlapping tyred road wheels each side, were however much smaller. F10 AMX 50B  The French engineers had not been aware at first that the much admired German overlapping design had been motivated by a shortage of high quality rubber, necessitating large road wheels to lower tyre tension, which then were made overlapping to better distribute the load pressure. F10 AMX 50B  As France would have no trouble obtaining rubber of the desired quality, this feature was superfluous. F10 AMX 50B  Therefore the road wheels were made smaller, compared to the first design proposal, both to save weight and lower the profile of the tank, which was quite high due to a deep hull, a problem only changed in the fifth prototype. F10 AMX 50B  The track now had to be supported by five top rollers. F10 AMX 50B  The overlapping system as such was maintained in all prototypes; with smaller wheels it allowed for nine instead of the originally planned eight wheels, five forming the outer, four the inner row. F10 AMX 50B 
+
+[[image:AMX 50B lowered cast hull close up. F10 AMX 50B jpg|thumb|200px|right|AMX 50 B lowered cast hull close up photo. F10 AMX 50B ]] The engine and transmission system was in the rear of the vehicle with rear drive sprockets. F10 AMX 50B  The transmission was derived from the ZF of the Panther. F10 AMX 50B  The functions of final drive and steering were combined in a single assembly; for each gear two turning radii could be selected. F10 AMX 50B  The engine was the Maybach HL295 12 cylinder of 29. F10 AMX 50B 5 litres, using fuel injection combined with spark ignition. F10 AMX 50B  The project goal was to bring the engine output to 1200 hp, implying a very favorable hp/litre ratio of over forty. F10 AMX 50B  This proved to be unrealistically ambitious, given the level of technological development at the time; in reality not even a ratio of thirty was reliably attained. F10 AMX 50B 
+
+The hull sides were vertical, as in the case of the Tiger, while the front of the hull was in the first three prototypes evenly inclined at approximately 40 degrees from the horizontal, using sloped armour similar to that of the Panther and Tiger II. F10 AMX 50B  The corners between the glacis and the sides were truncated. F10 AMX 50B  The first two prototypes had a frontal protection level equivalent to about 120 mm "line-of-sight" thickness in the horizontal plane. F10 AMX 50B  The type was thus not particularly heavily armoured for its time. F10 AMX 50B  The weight increase with the third prototype was mainly caused by the larger turret and even in its fourth "uparmoured" form, doubling the frontal armour thickness, the AMX 50 was less well protected than its American and British competitors, themselves inferior in armour to the Soviet heavy tanks they had been created to fight. F10 AMX 50B  The fifth prototype used a lower cast hull, with a rounded frontal section for a better weight efficiency. F10 AMX 50B 
+
+Above the massive hull, there was the oscillating turret, smaller, lighter and more compact than that of the Tiger; the sloped face of the upper part had a thickness of 85 mm. F10 AMX 50B  In the turret rear back there was the commander's cupola, well equipped with optical equipment. F10 AMX 50B  The turret had an optical rangefinder. F10 AMX 50B  The first two prototypes had twin 7. F10 AMX 50B 5 mm "Reibel" machine guns placed on top of the roof as an AA-weapon, a third was coaxial. F10 AMX 50B  In the first design proposal for a 120 mm version, the conventional turret had a high cupola armed with both a machine gun and a 20 mm MG 151 rapid fire cannon. F10 AMX 50B  However the third and fourth "120 mm" oscillating turret prototypes had a single 7. F10 AMX 50B 5 mm AA machine gun and a second 7. F10 AMX 50B 5 mm coaxial machine gun. F10 AMX 50B  For the production vehicles it was considered to install a coaxial 20 mm gun; lighter armoured targets could then be engaged without depleting the limited ammunition stock in the turret magazines. F10 AMX 50B  Despite the auto-loader, the crew was four: a second man was seated in the hull, functioning as radio-operator, but mainly needed to replenish the turret magazines from the hull ammunition stocks. F10 AMX 50B 
+
+'''Jack of all trades wannabe'''
+[[image:AMX50 120 one of the prototypes from the 1955. F10 AMX 50B  Note the spear (IS-3 like) shaped front hull. F10 AMX 50B jpg|thumb|200px|left|AMX50 120. F10 AMX 50B  First upguned and uparmored prototypes from the year 1955. F10 AMX 50B  Note the spear (IS-3 like) shaped front hull]]
+The AMX 50 as originally planned, would have been a medium, not a heavy, tank. F10 AMX 50B  It was supposed to be light, well armed and above all mobile. F10 AMX 50B  When the first two prototypes were made, low weight had already been sacrificed in favour of a high protection level, but it was still supposed to be a quite agile vehicle, in the 45 - 50 tonne weight class, with a hp/tonne ratio of over twenty. F10 AMX 50B  Expectations were high: as General Molinié afterwards ironically put it, it was hoped to create a tank with the protection of the Panther, the firepower of the Tiger, the mobility and abundance of the T-34, the reliability of the M4 Sherman and all that weighing less than the M26 Pershing. F10 AMX 50B  At that time France hoped to regain its position as a Great Power; rebuilding its armaments industry served this goal. F10 AMX 50B  To build an indigenous battle tank was however not merely a question of national prestige. F10 AMX 50B  Europe as a whole was trying to recover from the devastation caused by the war and to assert a modicum of independence towards the two superpowers, the USA and the USSR. F10 AMX 50B  To this end in 1948 the Treaty of Brussels was signed, which among other things was also a common defense agreement. F10 AMX 50B  The AMX 50, superior in armament and mobility to the existing American and British designs, was seen as the logical candidate for a common European tank, to equip the future armies of the Western European Union defense organisation. F10 AMX 50B  The prototypes were proudly displayed during the 1950 Bastille Day parade. F10 AMX 50B  Somewhat inconsequentially, it was hoped that the Americans would fund such a tank, as the financial position of the European states would not allow them to rearm. F10 AMX 50B 
+
+[[image:AMX 50B 120 rear view. F10 AMX 50B jpg|thumb|200px|right|AMX 50B 120 rear view]]That same year, the situation changed drastically due to the outbreak of the Korean War. F10 AMX 50B  Quickly the USA recommenced medium tank mass production, of the new M47 Patton. F10 AMX 50B  When this tank proved to be unsatisfactory, an even more advanced type was taken into production for the American forces, the M48 Patton; thousands of M47s were leased for free to the European allies, France included. F10 AMX 50B  The AMX 50 was suddenly made redundant as a medium tank, despite a "100 mm" prototype being sent in 1952 to the Aberdeen Proving Grounds for, successful, tests. F10 AMX 50B 
+
+'''Engine problems'''
+
+To save the project, a new rôle was found in the Soviet heavy tank threat. F10 AMX 50B  In the early fifties, NATO tacticians were worried by the strong armour of the Soviet vehicles, that seemed to be immune to the guns of the existing Western types. F10 AMX 50B  In response Britain would develop the Conqueror and the USA the M103 heavy tank; abandoning the SOMUA SM, it was decided to let the AMX 50 evolve into a comparable type, even though other French heavy tank projects were in existence, such as the Char de 70 tonnes, a sort of "AMX 70". F10 AMX 50B  Already having a large chassis, the AMX 50 could in principle easily be adapted to carry the desired 120 mm gun — a derivation by the Atelier du Havre of the American gun, using the same ammunition — and had the advantage of a, on paper, very powerful engine. F10 AMX 50B  In practice there were many obstacles. F10 AMX 50B  Room could in fact only be found by increasing the height of the lower turret half, negating the advantages of the oscillating concept and creating a dangerous shot trap. F10 AMX 50B  The "uparmoured" version, with its deeper hull and flatter turret, was specially designed to counter this and make the vehicle immune in long range fire engagements, but further increased weight. F10 AMX 50B  In 1955 the AMX 50 was nevertheless very close to being ordered by the French government, that expected to produce the type for the reconstituted German Army also. F10 AMX 50B  A production was planned of a hundred for 1956. F10 AMX 50B  This decision had to be delayed however, due to the fact the engine problems had not been solved: reliability could only be assured if the output was limited to 850 hp, causing a mediocre hp/tonne ratio of about 13:1. F10 AMX 50B 
+
+'''Delays proved fatal '''
+[[image:Seventy-ton version of the AMX 50 battle tank with a 120 mm gun. F10 AMX 50B . F10 AMX 50B jpg|thumb|200px|left|Seventy-ton version of the AMX 50 battle tank with a 120 mm gun and a frontal armor of 210 mm]]
+The delay proved fatal to the project. F10 AMX 50B  In the late fifties, swift advances in hollow charge technology led to an increased vulnerability for heavy tanks. F10 AMX 50B  Mobility thus gained a priority over protection and the very concept of a heavy tank became obsolete. F10 AMX 50B  As a result the project was changed again in intention, now trying to present itself as an agile main battle tank, with the same gun as the Conqueror but much lighter and more powerful. F10 AMX 50B  This failed as it was much too large and expensive; oscillating turrets also became unpopular as they were inherently difficult to protect against nuclear and chemical contamination. F10 AMX 50B  The engine problems with the Maybach were never overcome and lowering the hull to save weight, as was done for the final prototype, made it impossible to install a larger engine. F10 AMX 50B  Recognizing that the problem of combining excellent mobility with heavy armour was for the time being irresolvable, the AMX 50 project was terminated; the priority given to mobility demanded a new design concept, leading to the AMX 30, the lightest MBT of its time. F10 AMX 50B  Only in the early eighties would France again attempt to combine heavy armour and armament in its tank designs, beginning with the later AMX 32 prototypes. F10 AMX 50B  The AMX 50 would not be a complete waste of time and effort however, as much technological knowledge had been gained from which the AMX 30 would profit. F10 AMX 50B  In the Musée des Blindés at Saumur an AMX 50 is shown, a combination of the last cast hull and the Tourelle D. F10 AMX 50B 
+
+The present French MBT, the AMX-56 Leclerc, continues to use the technology of the AMX 50B, as it still incorporates a main gun autoloader for its modern 120mm gun. F10 AMX 50B  It has 22 rounds of 5 different types available in its revolver-type magasine, with an additional 18 rounds in storage. F10 AMX 50B  It is capable of firing up to 12 rounds per minute. F10 AMX 50B 
+
+|HistoricalGallery=
+image:AMX 50B, model with a cast hull and D type turret. F10 AMX 50B jpg{{!}}AMX 50 B, model with a cast hull and Tourelle D type turret
+image:AMX 50B lowered cast hull close up. F10 AMX 50B jpg{{!}}AMX 50 B lowered cast hull close up
+image:AMX 50 battle tank with a 120 mm gun and a lovered hull. F10 AMX 50B . F10 AMX 50B jpg{{!}}AMX 50 battle tank with a 120 mm gun and a louvered hull
+image:AMX 50B 120 rear view. F10 AMX 50B jpg{{!}}AMX 50 B 120 rear view
+image:AMX50B with the D model turret. F10 AMX 50B JPG{{!}}AMX50 B with the D model turret
+image:AMX50B drawings from 1958. F10 AMX 50B jpg{{!}}AMX50 B drawings from 1958
+File:AMX_50B_1953_Plan_smaller. F10 AMX 50B jpg{{!}}Plans of the AMX 50B from 1953
+
+|HistAcc=
+The vehicle was equipped with [https://photos. F10 AMX 50B google. F10 AMX 50B com/share/AF1QipPOw8DO75rcK3fhkyuGYw27vr7tuSkpHXYy1h1GkUZhwLboETlkRPsMWo_NkcpuiA/photo/AF1QipPxgzkG0Qc8Kv98kYfnmjBSdqvRnQ4cVgHA2dHu?key=UUotc3Eta3V6azJmN2pXaU1WUWxDZ1lheGhWN05n 2 autoloaders of 9 shells], so 18 shells ready to fire, with a 19th shell already loaded in the autoloader. F10 AMX 50B  
+* The maximum ammunition load for the tank was 46 rounds, not 56 rounds. F10 AMX 50B 
+* The 120mm gun was called "120 mm D. F10 AMX 50B 1203", not 120 mm SA 46
+* Actual vehicle weight was 57,8 tons. F10 AMX 50B 
+* The gun depression was 8 degrees while the gun elevation was 14 degrees. F10 AMX 50B 
+* Engine is considerably more powerful than it is in real life, with 1200 hp compared to the historical 850. F10 AMX 50B  While 1200 hp isn't unhistorical, the engine nonetheless failed to achieve its intended output. F10 AMX 50B 
+* The AMX 50 B is considerably more faster than it is in real life, with 65 km/h compared to the historical 51. F10 AMX 50B  While 65 km/h isn't unhistorical, the tank nonetheless failed to achieve its intended maximum speed. F10 AMX 50B 
+**Ultimately, the AMX 50 B represents the planned version. F10 AMX 50B  The historical version does not exist in World of Tanks. F10 AMX 50B 
+
+|Ref_references=
+
+|Ref_sources= 
+*[https://photos. F10 AMX 50B google. F10 AMX 50B com/share/AF1QipPOw8DO75rcK3fhkyuGYw27vr7tuSkpHXYy1h1GkUZhwLboETlkRPsMWo_NkcpuiA?key=UUotc3Eta3V6azJmN2pXaU1WUWxDZ1lheGhWN05n Details of AMX 50 B and other tanks of the AMX 50 series, conserved in Châtellerault. F10 AMX 50B ]
+
+|Ref_links=
+* https://en. F10 AMX 50B wikipedia. F10 AMX 50B org/wiki/AMX_50
+* https://tankarchives. F10 AMX 50B blogspot. F10 AMX 50B com/2016/03/amx-50-120-long-road-to-dead-end. F10 AMX 50B html
+* https://warspot. F10 AMX 50B ru/5135-dolgaya-doroga-v-tupik Original verison of the above article in Russian
+* https://warspot. F10 AMX 50B ru/5142-ponizhennyy-amx-50-iz-somyura More Photos of the AMX 50B at Saumur
+* https://thearmoredpatrol. F10 AMX 50B com/2016/07/21/review-of-the-french-tanks-part-1-tier-x/ Possible inaccuracies of the tank
+
+|Sidebar_Camostop=4. F10 AMX 50B 0
+|Sidebar_Camomove=2. F10 AMX 50B 3
+|Sidebar_Camofire=0. F10 AMX 50B 9
+|Sidebar_Passhard=1. F10 AMX 50B 247
+|Sidebar_Passmed=1. F10 AMX 50B 342
+|Sidebar_Passsoft=2. F10 AMX 50B 205
+|Sidebar_DispTurret=0. F10 AMX 50B 096
+|Sidebar_DispRecoil=3. F10 AMX 50B 836
+|Sidebar_DispAccel=0. F10 AMX 50B 173
+|Sidebar_DispTurning=0. F10 AMX 50B 173
+}}
+
+[[Category:French Tanks]]

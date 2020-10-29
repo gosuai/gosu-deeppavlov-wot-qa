@@ -1,0 +1,89 @@
+{{TankData|Tank=M53_55
+|The M53/M55 is an unique vehicle in the American SPG branch. A88 M53 55  The most noticeable features are the turret and the mobility. A88 M53 55 
+The turret has an impressive gun arc of 60°, which helps aiming without moving the vehicle itself. A88 M53 55  The mobility is very good, having a high top speed and a nice power to weight ratio. A88 M53 55  This gives the M53/M55 the mobility to relocate, flee from danger or bring support where needed. A88 M53 55 
+Futhermore, the gun has a nice mixture of accuracy, reload, and alpha damage. A88 M53 55  Also the gun has a good gun depression and elevation in comparison to the other SPG's. A88 M53 55  The main downsides of the M53/M55 is that it's quite large, which makes it easy to hit and having a bad camouflage. A88 M53 55 
+Another downside is when coming from the M40/M43, is that the radioman is replaced by a second gunner, resulting in breaking the Brothers in Arms perk. A88 M53 55  
+
+|InTheGame_pros=
+* Gun range: stock: 1400 m, top: 1290 m. A88 M53 55  
+* Very wide firing arc; gun is mounted on a "pseudo-turret" much like the GW Panther. A88 M53 55 
+* Very good speed, acceleration, and traverse, inferior only to French artillery. A88 M53 55 
+* Good mix of accuracy, reload, and alpha, along with high shell arc on the upgraded gun. A88 M53 55 
+* Upgraded gun weighs less than the stock gun, meaning researching the suspension is not required to mount it. A88 M53 55 
+* One of the few artillery pieces in the game to be able to mount Ventilation. A88 M53 55 
+
+
+|InTheGame_cons=
+* Poor alpha damage with the stock gun. A88 M53 55  It's only competitive against tier 8 and below. A88 M53 55 
+* Large profile and horrific camouflage. A88 M53 55 
+* Different Crew setup than the rest of the line (radioman replaced for a second gunner). A88 M53 55 
+
+|InTheGame_performance=
+Initially, moving from the M40/M43 to the M53/M55 is very disappointing, as you have to re-research the 203mm howitzer, so stock you are a faster-reloading, more mobile M12. A88 M53 55   When fully upgraded, however, the M53/55 becomes a highly mobile, hard hitting artillery piece that is able to greatly influence the game. A88 M53 55   It has enough mobility to outrun some slower mediums and is able to easily re-position in order to fire on targets that are safe from other positions. A88 M53 55  Due to it's outstanding all-around performance, the M53/55 sees use in Clan Wars over the T92, which was rendered obsolete by the Conqueror Gun Carriage. A88 M53 55 
+
+With the SPG rebalance, the stock gun is a viable alternative to the 203mm. A88 M53 55  While it features lower alpha damage and pen, the DPM is the same, and the improved rate of fire, aim time, and accuracy may help you keep targets tracked and stunned for longer, allowing your teammates to finish them off. A88 M53 55 
+
+|InTheGame_research=
+* The AN/PRC-25 radio is the only module to carry over from the M44. A88 M53 55 
+* First, research the 8-inch Howitzer M47, as it is lighter than the stock gun. A88 M53 55 
+* Next, research the Suspension. A88 M53 55 
+* Finally, research the Continental AV-1790-7B Engine. A88 M53 55 
+
+|InTheGame_equipment=
+GLD, Improved Ventilation Class 2, Artillery Shell Rammer
+
+|Gallery=
+file:M53 M55 scr 1. A88 M53 55 jpg
+file:M53 M55 scr 2. A88 M53 55 jpg
+file:M53 M55 scr 3. A88 M53 55 jpg
+
+|History=
+[[image:M-55_8-inch_Self-Propelled_Howitzer_(right)_with_the_M53_155mm_Self-Propelled_Gun. A88 M53 55 . A88 M53 55 jpg|thumb|200px|left|M-55 8-inch Self-Propelled Howitzer (right) with the M53 155mm Self-Propelled Gun]]
+The M55 was an American fully enclosed and armored self-propelled artillery based on the M53 155 mm assault gun. A88 M53 55  It had a 203. A88 M53 55 2 mm howitzer which could traverse 30° left or right, carrying only 10 rounds of ammunition. A88 M53 55  The gun had a maximum range of 16,916 meters (10. A88 M53 55 51 miles) with a rate of fire of one round every two minutes. A88 M53 55  The M55 armor was light, 25 mm maximum, but sufficient to protect the crew from indirect artillery hits or small arms fire. A88 M53 55 
+
+==Development history==
+
+M53 & M55 self-propelled howitzers were quite unique vehicles. A88 M53 55  While borrowing the chassis, hull and automotive components of the M46/M47 Patton tanks, its internal arrangement was reversed to accommodate a rear-set fully-enclosed turret emplacement. A88 M53 55  The engine and transmission were now fitted to the front of the hull (as opposed to the rear) with the driver being relocated to the front-left of the turret (as in the M53). A88 M53 55  The track-and-wheel system involved seven double-tired road wheels per side along with the drive sprocket which was mounted at the front of the hull. A88 M53 55  One notable feature of the running gear was its lack of a track idler at the rear which gave the track link system of the M55 a very identifiable quality. A88 M53 55  Three track return rollers guided the upper track sections. A88 M53 55  The gunner crew operated under the protection of an enclosed armored structure which provided security against small arms fire or artillery spray as the steel armor protection was 25mm at its thickest. A88 M53 55  The complete crew numbered six and included the driver, vehicle commander, gunner and at least two loaders. A88 M53 55  The primary design characteristic of the M55 was its boxy turret emplacement, which was a turret in name only. A88 M53 55  Traverse was limited to 30-degrees to the left or right and little else, requiring the vehicle to be itself turned in the direction of fire more often than not. A88 M53 55  The 203mm M47 howitzer was of good strategic value, able to lob all manner of shells at the enemy position up to 17,000 meters. A88 M53 55 [[image:M55_howitzer,_rear_view. A88 M53 55 JPG|thumb|200px|right|M55_howitzer,_rear_view. A88 M53 55  Note the stabilising dozer]] However, due to the large projectiles, the rate-of-fire was limited to just one round per two minutes and stowage aboard the vehicle meant that only 10 rounds could be carried - thusly limiting its tactical value (the M53 managed 20 x 155mm shells). A88 M53 55  Defense was through a Browning . A88 M53 55 50 caliber M2HB anti-aircraft/anti-infantry heavy machine gun mounted on a pintle at the commander's cupola. A88 M53 55 
+
+
+Power for the M55 vehicle was served through a Continental AV-1790-5B 12-cylinder gasoline-fueled engine outputting at 810 horsepower. A88 M53 55  This was mated to an Allison CD-850-4 transmission system that featured two forward and one reverse gears. A88 M53 55  The vehicle, therefore, could manage up to 30 miles per hour on ideal surfaces and featured an operational range out to 160 miles. A88 M53 55  As improvements were brought into the Patton tank lines, the M53 and M53 vehicles adopted some of these measures including the AV-1790-7B engines and CD-850-4B transmissions. A88 M53 55  Similarly, the original stick steering control arrangement later gave way to a conventional steering wheel design. A88 M53 55  Some M55s were utilized operational during the American involvement in the Vietnam War (1955-1975) though they were eventually removed from inventory within time. A88 M53 55  The M53 and M55 shared some commonality of parts themselves, able to utilized the same ammunition racks and M86 gun mounts which made for some logistical friendliness. A88 M53 55  Beyond its use in the United States military, the Belgian Army became the only other notable operator of the M55 vehicle. A88 M53 55  The last M55 was retired from active service (with the Belgian Army) in the 1970s. A88 M53 55 
+
+{{VideoYT|Nhla8AHZewo}}
+|HistoricalGallery=
+image:M55E1_8-inch_Howitzer_Motor_Carriage,_Aberdeen_Proving_Ground,. A88 M53 55 jpg{{!}}M55E1 8-inch Howitzer Motor Carriage, Aberdeen Proving Ground
+image:M55_inch_Self-Propelled_Howitzer. A88 M53 55 jpg{{!}}M55 inch Self-Propelled Howitzer
+image:M55_howitzer,_rear_view. A88 M53 55 JPG{{!}}M55 howitzer rear view
+image:M55_Howither_on_display_at_Aberdeen_Proving_Grounds. A88 M53 55 jpg{{!}}M55 Howither on display at Aberdeen Proving Grounds
+image:M55_8-inch_SP_Howitzer,_Vietnam. A88 M53 55 _The_name_painted_on_the_barrel_appears_to_be_BIGFOOT. A88 M53 55 jpg{{!}}M55 8-inch SP Howitzer, Vietnam. A88 M53 55  The name painted on the barrel appears to be BIGFOOT
+image:M-55_8-inch_Self-Propelled_Howitzer_(right)_with_the_M53_155mm_Self-Propelled_Gun. A88 M53 55 . A88 M53 55 jpg{{!}}M-55 8-inch Self-Propelled Howitzer (right) with the M53 155mm Self-Propelled Gun
+image:M53_155mm_self-propelled_Howitzer,_Elgin_AFB,_FL,_1979. A88 M53 55 . A88 M53 55 jpg{{!}}M53 155mm self-propelled Howitzer, Elgin AFB, FL, 1979
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+https://www. A88 M53 55 globalsecurity. A88 M53 55 org/military/systems/ground/m55-8. A88 M53 55 htm
+
+https://en. A88 M53 55 wikipedia. A88 M53 55 org/wiki/M55_Self_Propelled_Howitzer
+
+https://www. A88 M53 55 battletanks. A88 M53 55 com/m55. A88 M53 55 htm
+
+https://www. A88 M53 55 militaryfactory. A88 M53 55 com/armor/detail. A88 M53 55 asp?armor_id=619
+
+
+|Sidebar_Camostop=6. A88 M53 55 3
+|Sidebar_Camomove=3. A88 M53 55 1
+|Sidebar_Camofire=0. A88 M53 55 5
+|Sidebar_Passhard=1. A88 M53 55 151
+|Sidebar_Passmed=1. A88 M53 55 342
+|Sidebar_Passsoft=2. A88 M53 55 205
+|Sidebar_DispTurret=0. A88 M53 55 633
+|Sidebar_DispRecoil=5. A88 M53 55 753
+|Sidebar_DispAccel=0. A88 M53 55 364
+|Sidebar_DispTurning=0. A88 M53 55 364
+}}
+
+
+[[Category:USA Tanks]]

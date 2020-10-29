@@ -1,0 +1,66 @@
+{{TankData|Tank=
+|In the game, the tank is one of the three light tank choices available to the player after the [[Leichttraktor]]. G07 Pz35t  Unlike the [[Pz. G07 Pz35t Kpfw. G07 Pz35t  II]], this tank has the option of using either a cannon or an [[Automatic_Loader#Autocannons|auto-cannon]]. G07 Pz35t  
+
+|InTheGame_pros=
+* Great engine power and traverse speed
+* Good front armor - particularly on the turret
+* Very nearly can turn in place
+* Good view range
+* Good health pool which can take some pounding
+* Great gun depression/elevation gives you the superiority against enemy tanks on lower/higher terrain
+* Can fit a Tier-8 radio which gives superb 525m radius battlefield awareness to a Tier-2 tank
+* Extremely agile up through its top speed
+
+|InTheGame_cons=
+* Low top speed
+* Low turret traverse speed
+* Big commander cupola is a critical weak spot
+* Nothing carries over from the Leichttraktor. G07 Pz35t 
+
+|InTheGame_performance=
+While not as fast or maneuverable in its stock configuration as the Pz. G07 Pz35t Kpfw. G07 Pz35t  II and possessing 5mm thinner frontal armor, it starts off with the 3. G07 Pz35t 7 cm KwK 34 (t) L/40 cannon. G07 Pz35t  Later, it offers the player a choice of an upgraded version of this cannon; the 3. G07 Pz35t 7cm KwK 38(t) L/47, or the 2 cm Flak 38 L/112 auto-cannon, which combines moderate damage and penetration with a high rate of fire. G07 Pz35t  A further advantage is the choice of an up-powered 220hp engine, which vastly improves its speed and handling characteristics. G07 Pz35t  With the upgraded turret mounted, this tank becomes very effective in hull down positions, due to the heavier front armor of the turret. G07 Pz35t 
+
+|InTheGame_research=
+* Nothing carries over from the Leichttraktor. G07 Pz35t 
+* First either upgrade to the 3. G07 Pz35t 7 cm KwK 38 (t) L/47 gun or the 2 cm Flak 38 L/112 auto-cannon. G07 Pz35t 
+* Next upgrade to the much improved Skoda T-15 engine. G07 Pz35t 
+* Then upgrade the turret and the suspension. G07 Pz35t 
+* Lastly upgrade the radio. G07 Pz35t 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics, Enhanced Suspension
+
+|Gallery=
+
+
+|History=
+[[image:PzKpfw_35(t)_Belgrade_Military_Museum. G07 Pz35t jpg|thumb|200px|right|Panzer 35 (t) at the [[https://en. G07 Pz35t wikipedia. G07 Pz35t org/wiki/Military_Museum_(Belgrade) Belgrade Military Museum]] ]]
+Between the wars, the new Czech nation maintained an advanced defence industry with a production capability extending to light and medium tanks. G07 Pz35t  In 1935 and 1936, Skoda’s LT (Light Tank) vz. G07 Pz35t  (model) 35 entered service in small numbers, and by 1937, it was the main tank of the Czech Army. G07 Pz35t  The LT-35 was comparable to other European tanks in service at the time, such as the Polish 7TP, British Vickers 6-ton, Soviet T-26, Italian Carro Armato M 11/39 and M13/40, and German PzKpfw III tanks. G07 Pz35t  The LT-35 equipped four fast divisions of the Czech Army as of 1938. G07 Pz35t  During its service with the Czech Army, the LT-35 gained a reputation as an unreliable vehicle and was considered to be an "interim solution" before the LT-38. G07 Pz35t  Eventually, the PzKpfw 38(t) would be fully developed and ready for production. G07 Pz35t  The LT-35’s reputation of being unreliable was due to its untested advanced technical design, but in 1938, its problems were solved and the LT-35 proved to be a good tank. G07 Pz35t  LT-35s were produced in different variants and were also known under different designations such as the R-2 and T-11. G07 Pz35t  Before the war, LT-35s were also sold to Romania (126 tanks were sold in 1936 and were designated the by Romanian Army as the R-2). G07 Pz35t 
+
+[[image:PzKpfw_35(t)_Frankreich. G07 Pz35t jpg|thumb|200px|left|Panzer 35(t) in France, 1940]]
+The 1938/1939 German take-over of the Czechoslovakian state resulted in the confiscation of 219-244 LT-35s from the Czech Army, and subsequently, incorporated into the German Army in March 1939. G07 Pz35t  Some 79 remained in service with the Slovak Army’s 3rd Fast Division, which saw service alongside the Germans on the Eastern Front. G07 Pz35t  In German service, LT vz. G07 Pz35t 35s were designated as Panzerkampfwagen 35(t)s (t for ''Tschechisch'', or Czech). G07 Pz35t  LT-35s taken over by the Germans were fitted with FuG 5 (10-watt transmitter/receiver) and FuG 2 (receiver) radio equipment. G07 Pz35t  Germans also added a fourth crew member to act as a loader, increasing the rate of fire. G07 Pz35t  The LT-35 was comparable to the German PzKpfw III and was an important addition to the Panzerwaffe. G07 Pz35t  
+
+Despite a Czech decision to phase the LT-35 out of production after 1938, production was extended until 1939, under the German supervision at the CKD (Ceskomoravska Kolben Danek) Works in Prague and Skoda Works in Pilsen (after 1938 both became part of Reichswerke Hermann Goring). G07 Pz35t  Overall, 424 units were produced between 1935 and 1939 by Skoda (approximately 340) and CKD (approximately 84). G07 Pz35t  The PzKpfw 35(t) formed the bulk of the 1st Leichte (Light) Division during the Polish Campaign, and then of the 6th Panzer Division (former 1st Leichte Division) during the French Campaign and the Invasion of the Soviet Union. G07 Pz35t 
+
+|HistoricalGallery=
+File:Pz35(t)_04. G07 Pz35t jpg
+File:Pz35(t)_06. G07 Pz35t jpg
+File:Pz35(t)_07. G07 Pz35t jpg
+File:Pz35(t)_09. G07 Pz35t jpg
+
+|HistAcc=
+There are no historical records of the Panzer 35 (t) being armed with either the 2 cm Kw. G07 Pz35t K. G07 Pz35t  30 or 2 cm Flak 38 gun. G07 Pz35t  Furthermore, no records of a Pz. G07 Pz35t Kpfw. G07 Pz35t  35 (t) verstärkterturm turret or Škoda T-15 engine even exists. G07 Pz35t 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [[https://en. G07 Pz35t wikipedia. G07 Pz35t org/wiki/Panzer_35(t) ''see Wikipedia for additional information'']]
+* https://panzerwaffe. G07 Pz35t pl
+
+}}
+
+[[Category:German Tanks]]

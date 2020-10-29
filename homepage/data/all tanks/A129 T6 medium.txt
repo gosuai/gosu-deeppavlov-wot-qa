@@ -1,0 +1,67 @@
+{{TankData|Tank=T6 Medium
+|The predecessor of the famous [[M4 Sherman]] of WWII, the T6 medium replaced the infamous [[M3 Lee]] in Update 1. A129 T6 medium 9. A129 T6 medium  This tank is essentially a M4 Sherman one tier lower with worse gun handling and slower speed. A129 T6 medium 
+
+|InTheGame_pros=
+* Strong frontal turret
+* Good selection of high-damage cannons: the 75mm Gun M3 and the 105mm Howitzer M4
+* 105mm howitzer has very good alpha with HE 
+* Exceptional gun depression
+* 3rd best View Range among the Tier IV mediums and also high Radio Range
+
+
+
+|InTheGame_cons=
+* Quite sluggish
+* Hull armour is weak
+* Very slow reload for the 105mm howitzer (M4 Sherman has a faster reload even though they have the same gun)
+* Terrible dispersion and accuracy on 105mm howitzer
+* Slow shell velocity on the 105mm howitzer compared to M4 Sherman's
+* 75mm Gun M3 will struggle to penetrate many Tier 5 Heavies
+
+|InTheGame_performance=
+The T6 Medium's hull armor is a bit lacking and will most likely be penetrated by other tanks of its tier. A129 T6 medium  However, it is not hopelessly thin; many lower-tier tanks will have a difficult time punching through the front armor. A129 T6 medium  Due to its ridiculous gun depression, it can fight on hills and use terrain features much more effectively than its counterparts, which is a compensation for its weak hull armor. A129 T6 medium  By only exposing its strong frontal turret(even stronger than the M4 Sherman!), it can consistently damage enemies while bouncing off shots. A129 T6 medium  Its speed and maneuverability are on the low side and flanking an enemy can be difficult due to the sluggish mobility. A129 T6 medium 
+
+Depending on the gun equipped, the tank may need to change tactics to match. A129 T6 medium  The 75 mm Gun M3 is a very versatile gun. A129 T6 medium  While it may not have the raw power of the 105mm Howitzer M4, it possesses a very high-penetration gun capable of challenging most opponents. A129 T6 medium  It is far more consistent in terms of damage and can be adapted to use in many situations. A129 T6 medium  
+
+Another powerful option is the 105mm Howitzer M4. A129 T6 medium  It is a very powerful, close-range gun capable of damaging many opponents and the large HE charge in each shell can one-shot many Tier III vehicles. A129 T6 medium  However, the 105mm derp gun has a very slow shell velocity and shots should not be wasted on shooting moving targets from long ranges. A129 T6 medium  In addition, it has a very slow reload and you should ideally have a cover to hide behind while waiting for the gun to reload. A129 T6 medium  
+
+Like all mediums, the T6 Medium should advance from behind allied heavy tanks when possible and providing fire support. A129 T6 medium  Sniping is also possible in some matches when equipped with the 75 mm Gun M3. A129 T6 medium  To capitalise on the T6 Medium's excellent gun depression, it is highly recommended to take a hull down position or try to find cover in matches. A129 T6 medium  
+
+Overall, the T6 Medium is a versatile tank and is an excellent tank for its tier. A129 T6 medium  The T6 Medium makes the grind to the M4 Sherman much more comfortable and also prepares players for the M4 Sherman. A129 T6 medium 
+
+
+|InTheGame_research=
+* Upon purchasing this tank, the only thing that carries over from the M5 Stuart is the SCR 506 radio. A129 T6 medium 
+* Go for tracks first. A129 T6 medium 
+* Research the engine next to improve mobility. A129 T6 medium 
+* Choice of researching the 75 mm Gun M3 or the turret and 75mm M3 Tank Howitzer for the 105mm M4 howitzer. A129 T6 medium 
+* Finish researching any remaining modules. A129 T6 medium 
+
+|InTheGame_equipment=
+
+
+|History=
+The U. A129 T6 medium S. A129 T6 medium  Army Ordnance Department designed the M4 medium tank as a replacement for the M3 medium tank. A129 T6 medium  The M3 was an up-gunned development of the M2 Medium Tank of 1939, in turn derived from the M2 light tank of 1935. A129 T6 medium  The M3 was developed as a stopgap measure until a new turret mounting a 75 mm gun could be devised. A129 T6 medium  While it was a big improvement when tried by the British in Africa against early German tanks, the placement of a 37 mm gun turret on top gave it a very high profile, and the unusual side-sponson mounted main gun, with limited traverse, could not be aimed across the other side of the tank. A129 T6 medium  Though reluctant to adopt British weapons into their arsenal, the American designers were prepared to accept proven British ideas. A129 T6 medium  British ideas, as embodied in a tank designed by the Canadian General Staff, also influenced the development of the American Sherman tank. A129 T6 medium  Before long, American military agencies and designers had accumulated sufficient experience to forge ahead on several points. A129 T6 medium  In the field of tank armament the American 75 mm and 76 mm dual-purpose tank guns won the acknowledgement of British tank experts. A129 T6 medium [1] Detailed design characteristics for the M4 were submitted by the Ordnance Department on 31 August 1940, but development of a prototype was delayed while the final production designs of the M3 were finished and the M3 entered full-scale production. A129 T6 medium  On 18 April 1941, the U. A129 T6 medium S. A129 T6 medium  Armored Force Board chose the simplest of five designs. A129 T6 medium  Known as the T6, the design was a modified M3 hull and chassis, carrying a newly designed turret mounting the M3's 75 mm gun. A129 T6 medium  This would later become the Sherman. A129 T6 medium [2]
+
+The T6 prototype was completed on 2 September 1941. A129 T6 medium  The upper hull of the T6 was a single large casting. A129 T6 medium  It featured a single overhead hatch for the driver, and a hatch in the side of the hull. A129 T6 medium  In the later M4A1 production model, this large casting was maintained, although the side hatch was eliminated and a second overhead hatch was added for the assistant driver. A129 T6 medium  The modified T6 was standardized as the M4, and production began in February 1942. A129 T6 medium [3] The cast-hull models would later be re-standardized as M4A1, with the first welded-hull models receiving the designation M4. A129 T6 medium  In August, 1942, a variant of the M4 was put forth by the Detroit Arsenal to have angled, rather than rounded hull and turret armor. A129 T6 medium  The changes were intended to improve the tank's protection without increasing weight or degrading other technical characteristics. A129 T6 medium 
+
+|HistAcc=
+
+
+|HistoricalGallery=
+
+
+|Ref_references=
+# British War Production by Michael Postan (1952) p. A129 T6 medium  245<br/>
+# Conners, Chris (2000–2013). A129 T6 medium  "Medium Tank M4A1 Sherman"<br/>
+# Canavan, Michael J. A129 T6 medium , Opening Salvo: M4A1 Sherman Tank, Avalon Hill / Wizards. A129 T6 medium com<br/>
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. A129 T6 medium wikipedia. A129 T6 medium org/wiki/M4_Sherman#U. A129 T6 medium S. A129 T6 medium _design_prototype
+
+}}
+
+[[Category:USA Tanks]]

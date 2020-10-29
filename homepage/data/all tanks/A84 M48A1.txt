@@ -1,0 +1,156 @@
+{{TankData|Tank= A84_M48A1
+|The M48A1 Patton is another example of a jack-of-all-trades-master-of-none tank like its predecessors. A84 M48A1  It possesses a smooth, egg-shaped hull and a curved turret with decent frontal thickness. A84 M48A1  Its armor is stronger than most mediums of its tiers and will deflect a surprising amount of shots from its peers if hull down. A84 M48A1  The 105mm M68 is an extremely versatile weapon, with high penetration, damage, and rate-of-fire. A84 M48A1   While it is a clear improvement in firepower over the [[M46 Patton]], the M48A1 will face opponents with equal or even superior survivability. A84 M48A1  
+
+It is also slightly slower than its predecessor, due to its heavier weight and weaker engine. A84 M48A1  In addition, the M48A1 is also a very large tank, even larger than the [[T110E5]] heavy tank. A84 M48A1  However, it compensates for that with its reasonable amount of maneuverability and great traverse, at 50 degrees per second. A84 M48A1  Furthermore, the gun depression is still satisfactory at 9 degrees, though not as effective as the M46 Patton due to its middle turret placement. A84 M48A1  This makes it suited for close to mid-range combat, darting in and out of cover or a crest, firing shots at the enemy before they can fire back. A84 M48A1 
+
+|Sidebar_Camostop=8. A84 M48A1 6
+|Sidebar_Camomove=6. A84 M48A1 0
+|Sidebar_Camofire=2. A84 M48A1 0
+|Sidebar_Passhard=0. A84 M48A1 767
+|Sidebar_Passmed=0. A84 M48A1 863
+|Sidebar_Passsoft=1. A84 M48A1 726
+|Sidebar_DispTurret=0. A84 M48A1 08
+|Sidebar_DispRecoil=3. A84 M48A1 836
+|Sidebar_DispAccel=0. A84 M48A1 096
+|Sidebar_DispTurning=0. A84 M48A1 096
+|Gallery=
+image:Ingame_M48A1-1. A84 M48A1 jpg{{!}}M48A1, map Port
+
+|InTheGame_pros=
+* Highest view range in-game
+* Good gun depression coupled with tough turret front, can be a hard target when hull-down
+* M68 gun has good DPM, penetration and alpha damage
+* Accuracy on the move is excellent, especially with a vertical stabilizer mounted
+* Very good traverse speed
+
+|InTheGame_cons=
+* Lowest top speed of all the tier 10 mediums at 45 km/h, will have difficulty "cleaning up"
+* Large silhouette (larger than a heavy tank!), low camo, not easy to find proper cover. A84 M48A1 
+* Cupola is still viable target, and the turret itself still penetrable by premium shells or accurate high-pen standard shells
+* Frontal half of the hull is made out of very brittle ammo rack; horrifying crew protection
+* Poor overall armor for its size
+
+|InTheGame_performance=
+
+
+The M48A1 Patton, together with the [[M60]], currently has the best view range in game and should be played with this in mind. A84 M48A1  At 420m this can be taken above and beyond the 450m hard cap with Coated Optics, which will help negate enemy camouflage. A84 M48A1  
+
+One of the main improvements of the M48 over the M46 is the stronger hull and turret armor. A84 M48A1  M48 is able to more effectively go hull down and bounce more shots with its turret, however it is not a good idea to stay exposed for too long as well placed shots and premium rounds can still go through your cupola. A84 M48A1  The gun depression on this tank is used to take a shot and then return to cover. A84 M48A1 
+
+Having said that, the turret does offer moderate protection. A84 M48A1  The mantlet acts as spaced armor, although there is a hole in the center with no turret armor behind it. A84 M48A1  The turret is sloped, thus shots towards its edges may well bounce. A84 M48A1  Overall, the turret-mantlet combination offers reasonable protection. A84 M48A1 
+
+However, much of this improvement in protection is negated by its weak commander's cupola. A84 M48A1  This is a large weakspot so the driver must be wary lest it protrude from cover. A84 M48A1  In fact the sheer size and generally weak armor make the tank a very attractive target for artillery and tanks, therefore be constantly aware and never stay idle too long in the open. A84 M48A1  With the gun's accuracy on the move, you would not need to stop for too long anyway. A84 M48A1 
+
+Unfortunately, unlike its predecessors, the M48 cannot scout too well. A84 M48A1  This is because of its larger size, slower speed, worse acceleration, and team value. A84 M48A1  Passive scouting is more a more viable tactic as long as you make good use of bushes, trees, and terrain, coupled with its best in class view range, the M48 can also counter-scout light tanks. A84 M48A1  
+
+|InTheGame_research=
+As of patch 9. A84 M48A1 20, the M48 Patton no longer requires any module research and comes elited. A84 M48A1 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Coated Optics, Vertical Stabilizer
+
+
+|History=
+[[image:M48A1-Patton-tank. A84 M48A1 jpg|thumb|200px|left|M48A1 Patton]]
+The M48 Patton is a medium tank that was designed in the United States. A84 M48A1  It was a further development of the M47 Patton tank. A84 M48A1  The M48 Patton served as an interim tank in U. A84 M48A1 S. A84 M48A1  service until replaced by the U. A84 M48A1 S. A84 M48A1  Army's first main battle tank (MBT), the M60 Patton. A84 M48A1  The M48 served as the U. A84 M48A1 S. A84 M48A1  Army and Marine Corps's primary battle tank during the Vietnam War. A84 M48A1  It was widely used by U. A84 M48A1 S. A84 M48A1  Cold War allies, especially other NATO countries. A84 M48A1 
+The M48 Patton tank was designed to replace the previous M47 Pattons and M4 Shermans. A84 M48A1  Although largely resembling the M47, the M48 Patton was a completely new tank design. A84 M48A1  Some M48A5 models served well into the 1980s with American forces, and many various M48 Patton models remain in service in other countries. A84 M48A1  The M48 was the last U. A84 M48A1 S. A84 M48A1  tank to mount the 90 mm tank gun, with the last model, the M48A5, being upgraded to carry the new standard weapon of the M60, the 105mm gun. A84 M48A1 
+
+==Development history==
+[[image:M48A1 02. A84 M48A1 jpg|thumb|250px|right|M48A1 side view]]
+On 27 February 1951, OTCM #33791 initiated the design of the new tank, designated the 90mm Gun Tank T-48 (the prefix letter "T" would be replaced by the prefix "X" beginning with the M60 series tank). A84 M48A1  A deeper modernization than the M46 and the M47, the M48 featured a new turret, new redesigned hull, and an improved suspension. A84 M48A1  The hull machine gunner position was removed, reducing the crew to 4. A84 M48A1  It was essentially a new tank. A84 M48A1  On 2 April 1953, the Ordnance Technical Committee Minutes (OTCM) order #34765 standardized the last of the Patton series tanks as the 90mm Gun Tank M48 Patton. A84 M48A1 
+Nearly 12,000 M48s were built from 1952 to 1959. A84 M48A1  The early designs, up to the M48A2C's, were powered by a gasoline 12-cylinder engine which was coupled with an auxiliary 8-cylinder engine (called the "Little Joe"). A84 M48A1  The gas engine gave the tank a short operating range and were prone to catching fire when hit. A84 M48A1  This version was considered unreliable but numerous examples saw combat use in various Arab-Israeli conflicts. A84 M48A1  They also were prone to fire when the turret was penetrated and the hydraulic lines ruptured spewing "cherry juice" (the nickname for the red colored hydraulic fluid) at high pressure into the crew compartment resulting in a fireball. A84 M48A1  The flashpoint was too low, less than 300 F, causing many burns and deaths to crew members. A84 M48A1  
+
+'''Diesel power plant introduces'''
+
+Beginning in 1959, most American M48s were upgraded to the M48A3 model which featured a diesel power plant. A84 M48A1  M48s with gas engines, however, were still in use in the US Army through 1968 and through 1975 by many West German Army units including the 124th Panzer Battalion. A84 M48A1 
+In February 1963, the US Army accepted its first of 600 M48 Patton tanks that had been converted to M48A3's, and by 1964, the US Marine Corps had received 419 Patton tanks. A84 M48A1  These Pattons were to be deployed to battle in Vietnam. A84 M48A1  Because all M48A3 tanks were conversions from earlier models, many characteristics varied among individual examples of this type. A84 M48A1  M48A3 tanks could have either 3 or 5 support rollers on each side and might have either the early or later type headlight assemblies. A84 M48A1 
+
+'''New gun for the final version'''
+
+In the mid-1970s, the M48A5 upgrade was developed to allow the vehicle to carry the heavier 105 mm gun. A84 M48A1  This was designed to bring the M48s up to speed with the M60 tanks then in regular use and to simplify ammunition logistics. A84 M48A1  Most of the M48s were placed into service with reserve units by this time. A84 M48A1 
+By the mid-1990s, the M48s were phased out of U. A84 M48A1 S. A84 M48A1  service. A84 M48A1  Many foreign countries, however, continued to use the M48 models. A84 M48A1 
+
+==Variants==
+[[image:Jordanians M 48 are there. A84 M48A1 jpg|thumb|200px|left|Jordanians M 48 tank]]
+With the M47 being only a stopgap solution the M48 Patton was a completely new design compared to its predecessors. A84 M48A1  The hull and turret were of cast steel, well curved design and offered much better ballistic protection than former welded and rather flat designs. A84 M48A1  The M48 was significantly larger than any earlier medium tank design. A84 M48A1  The M48 finally omitted the bow machine gun and gunner. A84 M48A1  It was armed with a co-axial 7. A84 M48A1 62mm MG and the commander’s . A84 M48A1 50 cal MG only. A84 M48A1  The M48 retained a 90mm M41 gun as main weapon. A84 M48A1  The US Army evaluated the first prototypes in 1951 and production of the M48 began in 1952. A84 M48A1  Production finally ceased in 1959 with 11703 vehicles being build. A84 M48A1 
+
+'''M48/ M48A1'''
+
+The first production M48 can easily be distinguished by the . A84 M48A1 50cal being mounted on an external cradle without any armour protection. A84 M48A1  The tank was fitted with an AV1790 gasoline engine giving it an operational range of only 115km. A84 M48A1  Many of the early M48 suffered from the lack of testing and were not considered fit for service. A84 M48A1  They were quickly superseded by the M48A1. A84 M48A1  The M48A1 received the M1 commanders’ cupola providing armoured cover and enclosing the . A84 M48A1 50 cal plus numerous other improvements to the tank. A84 M48A1  However the M48/ M48A1 was still hampered by its unreliability and lack of range as it was pressed into service due to cold war threats. A84 M48A1  To overcome the lack of range a system of jettison-able fuel drums was developed. A84 M48A1 
+
+'''M48A2'''
+
+The M48A1 was quickly followed by the M48A2 entering service in 1955 with a new power plant and fire control systems. A84 M48A1  The M48A2 can be easily distinguished from the earlier versions. A84 M48A1  It had three instead of five return rollers and a new engine deck without the extensive grille work atop. A84 M48A1  However it was still powered on gasoline. A84 M48A1  The next step, the M48A2C was a further improved version; externally the only major difference is the absence of the small track tensioning wheel between the sixth road wheel and the sprocket. A84 M48A1  All M48A2 had a new headlight arrangement, similar to the M60. A84 M48A1  The M48A2C was the last ‘all new’ M48 to be produced, all further versions are rebuilds of existing tanks. A84 M48A1 
+
+'''M48A3'''
+
+Another step further in the M48 development was the M48A3 of 1959, as already stated these were rebuild M48/ M48A1 and possibly a few M48A2. A84 M48A1  The upgrade included a new diesel power plant, the AVDS 1790 engine, with the necessity for a new engine compartment, similiar to the A2 but with external side loading air cleaners mounted on top of the fenders. A84 M48A1  Late M48A3 also had a new vision ring for the commanders’ cupola plus a few internal upgrades. A84 M48A1  The CWS hatch was redesigned, providing more internal space but deleting the two periscopes to the rear. A84 M48A1  The M48A3 was widely used in the US Army and Marine Corps and saw extensive action in Vietnam where it proofed rugged and reliable. A84 M48A1  [[image:In front of the loader's position, to the left of the main gun, is a nineteen-round ready rack. A84 M48A1  This tank is fitted out with replica HEAT and sabot ammunition. A84 M48A1 . A84 M48A1 jpg|thumb|200px|right|In front of the loader's position, to the left of the main gun, is a nineteen-round ammo rack. A84 M48A1  This tank is fitted out with replica HEAT and sabot ammunition]]The 90mm main gun was sufficient for the task of infantry support as the Vietnam war was mainly an infantry war due to lack of armoured resistance. A84 M48A1  The M48A3 performed very well in this role being able to take most mines and even RPG rounds without immediate danger to crewmembers’ lives. A84 M48A1  Another M48 version used in Vietnam was the M67A2 flamethrower tank. A84 M48A1 
+
+'''M48A5'''
+
+The final US version is the M48A5 of 1975. A84 M48A1  It incorporates a new main gun, the L107 105mm, two M60D 7. A84 M48A1 62mm machine guns and new tracks with replaceable octagonal track shoes, the T142 track and a new CWS now close to the IDF ’Urdan’ design as most prominent features. A84 M48A1  Of course the fire control received upgrades also, most M48A5 also have the lighting system reworked to M60 standard. A84 M48A1  The rearlights and engine access doors were upgraded, too. A84 M48A1  The whole M48A5 program nevertheless shows a wide range of actual different conversion status’, some even without the new gun but others with the old M1 cupola or track. A84 M48A1  Conversion packs were also sold to other M48 users. A84 M48A1 
+The M48A5 has been phased out of any US service by the mid 1990’s. A84 M48A1 
+
+'''Foreign service'''
+
+The M48 has seen and still sees a widespread use in foreign service. A84 M48A1  The first users being allied NATO countries. A84 M48A1  Major users were Belgium, Germany, Greece, Norway, Spain and Turkey. A84 M48A1  Other important foreign users are Israel, Iran, Jordan, Pakistan, Taiwan and Korea. A84 M48A1 
+
+|HistAcc=
+* The M48A1 Patton never carried the 105mm M68 gun. A84 M48A1  Only the final variant, the M48A5 Patton, was equipped with it. A84 M48A1 
+
+|HistoricalGallery=
+image:This_tank_lacks_the_track_tensioning_idler_wheel_found_on_the_earlier_Patton_tanks. A84 M48A1 _The_number_of_track_return_rollers_has_also_been_reduced_to_three. A84 M48A1 . A84 M48A1 jpg
+image:This_tank_is_provided_with_a_xenon_searchlight,_and_details_of_its_mounting_are_visible_here. A84 M48A1 jpg
+image:This_tank_is_provided_with_a_xenon_searchlight,_and_details_of_its_mounting_are_visible_here. A84 M48A1 jpg
+image:This_M48A5_is_sporting_the_Israeli-designed_low-silhouette_commander%27s_cupola. A84 M48A1 jpg
+image:This_M48A2C_features_three_track_return_rollers,_and_lacks_the_small_track_tensioning_idler_previously_found_between_the_last_road_wheel_and_drive_sprocket. A84 M48A1 jpg
+image:This_M48A1_was_photographed_at_Camp_Shelby. A84 M48A1 jpg
+image:The_right-side_transmission_and_engine_access_grilles_can_be_seen_here. A84 M48A1 jpg
+image:The_new_exhaust_grille_is_obvious_when_the_vehicle_is_viewed_from_behind. A84 M48A1 . A84 M48A1 jpg
+image:The_M48_and_M48A1_had_their_exhausts_routed_through_the_rear_deck,_and_the_exhaust_outlet_is_visible_here. A84 M48A1 jpg
+image:The_elliptical_cross-section_of_the_tank_can_be_seen_in_this_view. A84 M48A1 jpg
+image:The_drivers_of_M48s_had_a_small_hatch_compared_with_later_versions_of_the_tank. A84 M48A1 _This_vehicle_had_been_equipped_with_an_infrared_periscope_for_the_driver;_the_IR_periscope_was_mounted_in_the_hatch_door. A84 M48A1 . A84 M48A1 jpg
+image:The_difference_between_the_small_driver%27s_hatch_in_the_tank_above_is_easily_contrasted_with_the_hatch_on_this_later_model. A84 M48A1 jpg
+image:The_commander%27s_cupola_on_this_tank_sits_atop_the_vision_block_adapter_ring,_giving_the_TC_more_room_and_a_better_all-around_view. A84 M48A1 jpg
+image:SP5_Petrov,_I_Co. A84 M48A1 ,_1st_Plt. A84 M48A1 . A84 M48A1 jpg
+image:Patton1103. A84 M48A1 jpg
+image:M48a3pattonsuite3bz. A84 M48A1 jpg
+image:M48a1de_001. A84 M48A1 jpg
+image:M48a1. A84 M48A1 jpg
+image:M48A1-Patton-tank. A84 M48A1 jpg
+image:M48A1_02. A84 M48A1 jpg
+image:M48A1_%28NOT_M48A3%29. A84 M48A1 jpg
+image:M-48_Tank_on_maneuvers. A84 M48A1 _I_Co. A84 M48A1 ,_1st_Plt. A84 M48A1 . A84 M48A1 jpg
+image:KG_036. A84 M48A1 JPG
+image:Jordanians_M_48_are_there. A84 M48A1 jpg
+image:In_front_of_the_loader%27s_position,_to_the_left_of_the_main_gun,_is_a_nineteen-round_ready_rack. A84 M48A1 _This_tank_is_fitted_out_with_replica_HEAT_and_sabot_ammunition. A84 M48A1 . A84 M48A1 jpg
+image:H-31_tank_threw_a_track,_Wildflecken_1958,. A84 M48A1 jpg
+image:H-21_M48A1_tank,_Wildflecken,_1958. A84 M48A1 jpg
+image:CM-12. A84 M48A1 jpg
+image:Detailm48jordan674qj. A84 M48A1 jpg
+image:An_overview_of_the_driver%27s_position_is_seen_here. A84 M48A1 jpg
+image:98813195. A84 M48A1 jpg
+image:90mm_gun_tank_M48_Patton_48_at_the_US_Army_Ordnance_Museum. A84 M48A1 . A84 M48A1 jpg
+
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Forty, G. A84 M48A1 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A84 M48A1 
+
+Foss, C. A84 M48A1 F. A84 M48A1  and W. A84 M48A1  Fowler, 2002, '''<i>The Encyclopedia of Tanks and Armored Fighting Vehicles</i>''', Thunder Bay Press, San Diego, CA, 544p, ISBN:9781571458063. A84 M48A1 
+
+Hunnicutt, R. A84 M48A1 P. A84 M48A1 , 1984, '''<i>Patton: A History of the American Main Battle Tank - Volume-1</i>''', Presidio Press, 450p,  ISBN:9780891412304. A84 M48A1 
+
+Zaloga, S. A84 M48A1 J. A84 M48A1 , 2003, '''<i>M47 and M48 Patton Tanks</i>''', New Vanguard Series 31, Osprey Publishing, Oxford, 48p, ISBN:9781855328259. A84 M48A1 
+
+
+|Ref_links=
+
+}
+}
+
+[[Category:USA Tanks]]

@@ -1,0 +1,61 @@
+{{TankData|Tank=Pz_II_AusfG
+
+|
+
+|InTheGame_pros=
+* Very good penetration on final gun. G82 Pz II AusfG 
+* Rare. G82 Pz II AusfG  You can catch many opponents on surprise since this tank is much less known & popular than the [[Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  I Ausf. G82 Pz II AusfG  C]]
+* Top radio gives co-best-in-Tier-3 signal range (same radio in [[Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  I Ausf. G82 Pz II AusfG  C]]). G82 Pz II AusfG 
+* Good Maneuverability, can pivot, high top speed
+* Great training tank for later American/French autoloader tanks
+
+|InTheGame_cons=
+* Very long reload on top gun for rather low burst damage of only 180 hp. G82 Pz II AusfG  Most Tier 1 tanks can make more DPM. G82 Pz II AusfG 
+* Bad accuracy and gun dispersion on the move. G82 Pz II AusfG 
+* Insufficient armor against all but the lowest penetration machine guns
+* Bleeds off speed quickly in sharp turns and uphill, due to relatively low engine power and mediocre ground resistance. G82 Pz II AusfG 
+
+|InTheGame_performance=
+Although disregarded by many players in favor of the [[Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  I Ausf. G82 Pz II AusfG  C]], this tank can fight off tier 5 heavy tanks with its 3cm MK103 autocannon. G82 Pz II AusfG  This gun fires a 2-round burst each time you pull the trigger. G82 Pz II AusfG  It has a clip with 6 rounds so you can get off 6 shots pretty much as fast as you pull the trigger three times. G82 Pz II AusfG  The problem is a gruesome reload time, 18 seconds to reload the 6 round magazine on a stock tank and crew. G82 Pz II AusfG  This is far to long to survive most Tier-3 to 5 encounters unless you kill right away. G82 Pz II AusfG  It is best to engage from a distance behind cover or adopt a hit and run tactic on wounded or distracted opponents. G82 Pz II AusfG  The small size and good speed of this tank will help it escape to reload. G82 Pz II AusfG  The long range accuracy is not good, primarily because the 2nd round of the 2-round burst does not land where the first round does. G82 Pz II AusfG  The good news about the gun is the high pen for its tier so you don't get many bounces even on a Tier-5. G82 Pz II AusfG  This tank requires an adjustment to your play style when compared to other tanks of similar tier. G82 Pz II AusfG  However, learning how to effectively operate it will be good training for the high tier autoloaders such as the T69, T57, or BatChat 25t. G82 Pz II AusfG 
+
+The armor on this tank is decent for its tier but should be just slightly angled to promote ricochets. G82 Pz II AusfG   Proper angling can make the tank virtually immune to its very popular brother, the Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  I Ausf. G82 Pz II AusfG  C if the latter one don't perform circling. G82 Pz II AusfG   
+
+The tank is surprisingly agile with the only issue being a lack of acceleration. G82 Pz II AusfG   Offering a good top speed and not much speed loss with turning, high speed hit and runs as well as dodging fire is not very difficult, though one might not land many shots on the target as the autocannon is inaccurate in motion. G82 Pz II AusfG  Still, one should prioritize taking the high ground as soon as possible to counter the lack of acceleration, as the tank has a very good top speed but cannot get to that speed without a hill to start from. G82 Pz II AusfG   
+
+Overall while this tank is quite rare, it can be very fun and unlike every other tier III light tank in the game, this tank has the unique ability to have more then enough penetration on AP to assassinate tier V tanks with proper use of cover and team support. G82 Pz II AusfG 
+
+|InTheGame_research=
+* The 2cm Flak 38L/112 gun and the FuG-7 and FuG Spr. G82 Pz II AusfG 1 radios carry over from the Pz. G82 Pz II AusfG II and should be mounted if already researched. G82 Pz II AusfG 
+* Prioritize the 2nd turret which must be mounted before next mounting the 3cm MK103 top gun. G82 Pz II AusfG 
+* Tracks next followed by the 2nd engine. G82 Pz II AusfG 
+* Last, but not least, mount the Tier-8 radio for co-best-in-tier signal range. G82 Pz II AusfG 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics
+
+|History=
+The fourth and final suspension configuration used for the Panzer II tanks was the five overlapping road wheel configuration termed Schachtellaufwerk by the Germans. G82 Pz II AusfG  This was used as the basis for the redesign of the Panzer II into a reconnaissance tank with high speed and good off-road performance. G82 Pz II AusfG  The Ausf. G82 Pz II AusfG  G was the first Panzer II to use this configuration, and was developed with the experimental designation VK 901. G82 Pz II AusfG  There is no record of the Ausf. G82 Pz II AusfG  G being issued to combat units, and only twelve full vehicles were built from April 1941 to February 1942 by MAN. G82 Pz II AusfG  The turrets were subsequently issued for use in fortifications. G82 Pz II AusfG 
+
+|HistAcc=
+Both the 3 cm MK 103 and 2 cm Flak 38 gun configurations are fake. G82 Pz II AusfG 
+
+|HistoricalGallery=
+image:VK901. G82 Pz II AusfG jpeg
+image:VK 901 2. G82 Pz II AusfG jpg
+
+|Gallery=
+image:Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G front left view. G82 Pz II AusfG jpg{{!}}Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G front left view
+image:Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G front right view. G82 Pz II AusfG jpg{{!}}Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G front right view
+image:Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G rear left view. G82 Pz II AusfG jpg{{!}}Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G back left view
+image:Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G rear right view. G82 Pz II AusfG jpg{{!}}Pz. G82 Pz II AusfG Kpfw. G82 Pz II AusfG  II Ausf. G82 Pz II AusfG  G back right view
+
+|Ref_references=
+
+|Ref_sources=
+https://ftr-wot. G82 Pz II AusfG blogspot. G82 Pz II AusfG de/2013/02/panzer-i-ausf-c-and-panzer-ii-ausf-g. G82 Pz II AusfG html
+
+|Ref_links=
+* [[https://en. G82 Pz II AusfG wikipedia. G82 Pz II AusfG org/wiki/Panzer_II ''see Wikipedia for additional information'']]
+}}
+
+[[Category:German Tanks]]

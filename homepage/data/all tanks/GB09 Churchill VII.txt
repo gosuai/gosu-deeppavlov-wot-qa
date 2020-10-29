@@ -1,0 +1,79 @@
+{{TankData|Tank=GB09_Churchill_VII
+|
+
+|Gallery=
+
+|InTheGame_pros=
+- Fast firing and accurate guns with good DPM. GB09 Churchill VII 
+
+- Second highest HP pool in Tier 6 (1080 with top turret) after the infamous [[TOG II]]
+
+- Partial spaced armor on the sides, making it durable for flanking
+
+|InTheGame_cons=
+- Even though the armor is 152mm, it is full of weakspots and only certain areas are 152. GB09 Churchill VII 
+
+- Awful speed (20/12 KM/H), one of the slowest tanks in the game. GB09 Churchill VII 
+
+- Average penetration and lowest damage per shot out of all tier VI Heavy tanks. GB09 Churchill VII 
+
+- Horrifyingly bad gun depression and elevation, just like its predecessor and the [[KV-85]]. GB09 Churchill VII 
+
+- Only 19mm of hull and turret roof armor, Making it very vulnerable against SPGs
+
+- No gun mantlet. GB09 Churchill VII  The front of the turret is effectively a weak spot. GB09 Churchill VII 
+
+- With bad penetration, combined with awful speed, it makes this tank very vulnerable in Tier 8 match
+
+|InTheGame_performance=
+The weakest link in the british heavy tank tree, the Churchill VII is possibly the most difficult Tier 6 heavy tank to use efficiently. GB09 Churchill VII  The abysmal (lack of) mobility is a real bridle for the tank's performance. GB09 Churchill VII   
+
+The top 77 mm gun is a slight improvement over the Churchill I's 75 mm Vickers HV gun, but the opposition that the Churchill VII faces is far tougher. GB09 Churchill VII  The main problem is that anything above the 75 mm gun Mk. GB09 Churchill VII  V will lower the gun elevation to a meagre 12° while the gun depression takes a plunge to only 4°, which completely rules out any notions of going hull down on slopes, and makes fighting on uneven terrain exceedingly frustrating. GB09 Churchill VII 
+If allowed to fire continuously, the Churchill can rack up damage fairly quickly with its high rate-of-fire, but the Churchill VII simply does not have the speed to chase down targets and keep them under fire. GB09 Churchill VII  With only 148 mm of penetration, it is barely adequate for Tier 6 and 7 games, and hopelessly outclassed at Tier 8 unless the fairly potent but expensive APCR round is used. GB09 Churchill VII  However, the gun is rather accurate and the gun-handling (dispersion, aim-time etc) is second to none in the tier. GB09 Churchill VII 
+
+The Churchill VII does rid itself of the strange weak-spots in the Churchill I's armour and have great armour at Tier 6, with 152 mm in front armour and good side armour. GB09 Churchill VII  Notably, the roof of the upgraded turret now is not only  exposed from the front, but actually so thin its steep angle gets over-powered for automatic penetration. GB09 Churchill VII  It can safely ignore most guns with less than 150 mm of penetration, unless the enemy makes the not uncommon decision to simply load premium ammunition and cut through the frontal armour anyway. GB09 Churchill VII  This armour will also not reliably protect against very powerful guns with more than 160 penetration (which are not so rare at Tier 6), even with angling. GB09 Churchill VII  It goes without saying that most Tier 7 and 8 tanks will cut through it but with problems. GB09 Churchill VII  Churchill has a gun that depends on its fast rate-of-fire to rack up damage, it is not very viable to angle the completely flat turret armour between shots. GB09 Churchill VII  This creates a lot of problems as the lack of a gun mantlet means that most tanks can penetrate the unangled turret front
+
+The mobility of the Churchill, equivalent of the O-I, is its single greatest weakness. GB09 Churchill VII  With a top speed of only 20 km/h, once committed to a flank, the Churchill is probably going to stay there for the rest of the game. GB09 Churchill VII  Flanking is exceedingly difficult against all but the most unaware of enemies. GB09 Churchill VII  It is also not uncommon for teams to collapse before the Churchill gets into position, and there is nothing much that can be done; the curse of all slow tanks. GB09 Churchill VII  Unsurprisingly, the Churchill turns like a boat, and is easily outflanked. GB09 Churchill VII  This is partly compensated for with the fast turret traverse, but generally, the Churchill should operate with support covering its flanks and Clutch Braking is an essential skill for the driver. GB09 Churchill VII <ref>https://tanks. GB09 Churchill VII gg/wot/compare#t:churchill-vii;pp00000. GB09 Churchill VII c:arl-44;ll00000. GB09 Churchill VII c:kv-85;lp00000. GB09 Churchill VII c:m6;nl00000. GB09 Churchill VII c:vk-3601-h;np00000. GB09 Churchill VII c:o-i;ip00000</ref>
+
+Overall, in unskilled hands the tank is nothing but a burden to its team and should not be played if one does not plan to proceed further down the British Heavy Tank line. GB09 Churchill VII  
+
+|InTheGame_research=
+* The 75 mm Vickers HV Gun, Bedford Twin-Six Engine, and WS No. GB09 Churchill VII  19 Mk. GB09 Churchill VII  III Radio should already be researched from the Churchill I, and should be mounted immediately. GB09 Churchill VII 
+* With these modules mounted, you have two choices: If you don't mind being even slower but tougher, research the upgraded turret and mount the stock engine. GB09 Churchill VII  Else, research the Churchill VII suspension first. GB09 Churchill VII 
+* Finally research the OQF 77 mm Gun Mk. GB09 Churchill VII  II Gun. GB09 Churchill VII 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox
+
+|History=
+In the Mark VII, the driver had two periscopes as well as a vision port in the hull front that could be opened. GB09 Churchill VII  The hull gunner had a single periscope as well as the sighting telescope on the BESA mounting. GB09 Churchill VII  In the turret the gunner and loader each had single periscope and the commander had two fitted in his hatch cupola. GB09 Churchill VII 
+
+The armour on the Churchill, often considered its most important feature, was originally specified to a minimum of 16 millimetres (0. GB09 Churchill VII 63 in) and a maximum of 102 millimetres (4. GB09 Churchill VII 0 in); this was increased with the Mk VII to a range from 25 millimetres (0. GB09 Churchill VII 98 in) to 152 millimetres (6. GB09 Churchill VII 0 in). GB09 Churchill VII  Though this armour was considerably thicker than its rivals (including the German Tiger I tank, but not the Tiger II) it was not sloped, reducing its comparable effectiveness. GB09 Churchill VII  Earlier models were given extra armour by the expedient of welding extra plates on. GB09 Churchill VII 
+
+On the Mark VII, the hull front armour was made up of a lower angled piece of 5. GB09 Churchill VII 5 in (140 mm), a nearly flat 2. GB09 Churchill VII 25 in (57 mm) plate and a vertical 6 inch plate. GB09 Churchill VII  The hull sides, were for the most part, 3. GB09 Churchill VII 75 in (95 mm). GB09 Churchill VII  The rear was 2 in (51 mm) and the hull top 0. GB09 Churchill VII 525 in (13. GB09 Churchill VII 3 mm). GB09 Churchill VII  The turret of the Mark VII was 6 in (150 mm) to the front and 3. GB09 Churchill VII 75 in (95 mm) for the other sides. GB09 Churchill VII  The turret roof was 0. GB09 Churchill VII 79 (20 mm) thick. GB09 Churchill VII  Plate was specified as IT 80, the cast sections as IT 90. GB09 Churchill VII 
+
+
+|HistoricalGallery=
+image:Churchill_VII. GB09 Churchill VII jpg{{!}}Tank, Infantry, Mk IV, Churchill VII (A22F)
+image:Churchill_VII_AVRE_With_Fascine. GB09 Churchill VII jpg{{!}}Churchill AVRE with fascine on tilt-forward cradle. GB09 Churchill VII  This particular example is a post-WW2 AVRE on the MK VII chassis. GB09 Churchill VII 
+
+|HistAcc=
+The OQF 77 mm Gun Mk. GB09 Churchill VII  II gun was only used on the [[Comet]] and the 75 mm Vickers HV gun was only intended for the [[Cromwell]]. GB09 Churchill VII 
+* The 6-pdr gun was only mounted on the Churchill III and IV variants. GB09 Churchill VII 
+* The 3. GB09 Churchill VII 7-inch howitzer was only mounted on the Churchill V and VIII variants. GB09 Churchill VII 
+* SCC No. GB09 Churchill VII  15 Olive Drab paint scheme is missing. GB09 Churchill VII  This was the base colour on all British AFVs in Europe from April 1944. GB09 Churchill VII 
+* Allied star identification marking is missing. GB09 Churchill VII  The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942. GB09 Churchill VII 
+* Dramatically worse gun elevation and depression than in reality, -4°/+12° instead of -12°/+20°. GB09 Churchill VII 
+
+|Ref_references=
+<references/>
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. GB09 Churchill VII wikipedia. GB09 Churchill VII org/wiki/Churchill_tank
+
+}}
+
+[[Category:British Tanks]]

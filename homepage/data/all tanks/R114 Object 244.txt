@@ -1,0 +1,41 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good rate of fire and accuracy
+* Good hull and turret armor, same as the Tier 7 [[IS]]
+* Good top speed
+* Good crew trainer, crew slots match most high tier Soviet heavy tanks
+
+|InTheGame_cons= 
+* Poor gun depression
+* Low engine power and high ground resistance, sluggish mobility
+* Low alpha damage 
+* Very poor viewrange
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+Premium vehicle, comes elite in stock configuration. R114 Object 244 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+There are two tanks known as IS-3: Object 244 was an IS-2 rearmed with the long-barrelled 85 mm cannon (D-5T-85-BM) and developed by the Leningrad Kirov Plant (LKZ), which was never series-produced for service use. R114 Object 244  
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

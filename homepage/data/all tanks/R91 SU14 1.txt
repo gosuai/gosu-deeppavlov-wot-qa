@@ -1,0 +1,103 @@
+{{TankData|Tank=SU14_1
+|The SU-14-1 is considered more dangerous than the [[Tank:S-51|S-51]] because some players in the S-51 (which unlocks from the [[Tank:KV2|KV-2]]) may not have played any of the earlier artillery, and thus are inexperienced. R91 SU14 1  
+
+|InTheGame_pros=
+* Gun range: stock: 1350 m, second: 1400 m, top: 1250 m 
+* Very high damage with 203mm mortar. R91 SU14 1 
+* Better power to weight ratio than the [[S-51]]. R91 SU14 1 
+* Great ammunition capacity - will never run out. R91 SU14 1 
+
+|InTheGame_cons=
+* Horrifying aim time, but no worse than the two previous Soviet SPGs. R91 SU14 1 
+* inferior to the S-51 in mobility, traverse, and profile. R91 SU14 1 
+* Has [[SU-8]]'s top gun as stock. R91 SU14 1 
+* No Gun Traverse. R91 SU14 1 
+* Has literally no gun depression, with the gun mounted high above ground. R91 SU14 1 
+
+|InTheGame_performance=
+
+ The 203mm B-4 gun is more accurate when mounted on this artillery than on the contemporary Soviet artillery, the [[Tank:S-51|S-51]]. R91 SU14 1  Furthermore, you have a significant advantage in ammo capacity. R91 SU14 1 
+
+|InTheGame_research=
+* Only the 12RT Radio carries over from the SU-8. R91 SU14 1  Mount this immediately. R91 SU14 1 
+* First, research the SU-14-1 Suspension. R91 SU14 1   You have an option to research the 152 mm BR-2 and 203 mm B-4 first although you will not be able to use any equipment over 83 kgs while the 152mm BR-2 is mounted due to weight constraints. R91 SU14 1 
+* If the suspension has been researched first, research the 152 mm BR-2 followed by the M-17F engine as this will give you a bit more mobility for reasonably little XP. R91 SU14 1 
+* Finally, research the 203 mm B-4. R91 SU14 1 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+
+File:СУ-14-1 scr 1. R91 SU14 1 jpg
+File:СУ-14-1 scr 2. R91 SU14 1 jpg
+File:СУ-14-1 scr 3. R91 SU14 1 jpg
+
+
+|History=[[image:SU_14_with_203. R91 SU14 1 jpg|thumb|200px|right|An old Soviet self-propelled artillery piece (SU-14) before its test firing. R91 SU14 1  It was based on the heavy T-35 tank -- note the lack of an armoured box around the gun/crew]]
+The experimental SU-14 was built in 1934 (possibly 2 were built) as heavy self-propelled guns for mechanized units for the destruction of strengthened fortifications. R91 SU14 1  
+
+Specifications: weight- 48,5 t; crew- 7 men; armament- 203mm howitzer B-4 mod. R91 SU14 1  1931 (range of fire 18 km with 100 kg shell, rate of fire 1 shot/5. R91 SU14 1 7 min) + 3 x 7,62mm MG;- ammunition 8 shells + 2268 MG shells; armour 10-20 mm; engine M-17 500 hp; speed- 27. R91 SU14 1 3 km/h; range 100-120 km. R91 SU14 1  
+
+The SU-14 was based on the T-35 chassis with other elements from both the T-28 and T-35. R91 SU14 1  The engine was located in the front and the howitzer was openly-mounted. R91 SU14 1  The original SU-14 had the 203mm B-4. R91 SU14 1  The SU-14 was equipped with two 200 kg cranes for use with the ammunition, two spades, and had to have its suspension disconnected during firing; it could fire only from the stationary position. R91 SU14 1  Its manoeuvrability and speed were satisfactory. R91 SU14 1  Also, operation of the howitzer was convenient. R91 SU14 1  But, its size was large, armour was insufficient, and it had problems with over-driven transmissions. R91 SU14 1  
+
+The SU-14 was tested in 1935 and its engine and transmission were modified (improved SU-14-1 was built in 1936 - it had better and more reliable transmission, improved spades, more powerful engine M-17F 680 hp). R91 SU14 1  On both Self-propelled Guns, the 203mm howitzer was replaced by the 152. R91 SU14 1 4mm naval gun B-30 and Br-2 (which had better range and rate of fire) in 1936. R91 SU14 1  It was planned to produce 5 copies with the 152. R91 SU14 1 4mm gun Br-2 (SU-14-2), but that plan was rejected due to the arrest of the chief engineers of the project. R91 SU14 1 
+
+See left most (or top most) blueprint below. R91 SU14 1 
+<center>
+[[image:SU-14_with_203mm_Howitzer. R91 SU14 1 jpg|200px|Original SU-14 design with the 203mm Howitzer]]
+[[image:SU-14-1_with_152mm_Howitzer. R91 SU14 1 jpg|200px|SU-14-1 with the longer ranged 152mm Howitzer]]
+</center>
+
+In 1936, the new experimental self propelled gun SU-14-1 was built and tested. R91 SU14 1  It was the improved version of the SU-14 with the transmission from a T-35 heavy tank (not from T-28 medium tank as in the case of SU-14), more powerful engine, modernized spades, and without the ineffective suspension needing to be disconnected during firing. R91 SU14 1  An additional artillery tractor, “Comintern”, was used as ammunition carrier (50-60 shells) for the SU-14-1. R91 SU14 1  See right most (or bottom most) blueprint above. R91 SU14 1 
+<center>
+[[image:SU_14_with_203. R91 SU14 1 jpg|200px|SU-14 original]]
+[[image:SU-14_SU-14-1_1936. R91 SU14 1 jpg|200px|SU-14-1 with a 203mm]]
+</center>
+
+In 1936, the 203mm howitzer was also replaced by the 152. R91 SU14 1 4mm gun Br-2 mod. R91 SU14 1 1935 with better range and rate of fire. R91 SU14 1  The SU-14-1 was equipped with a radio station and additional armour in 1940 for use during the Winter War against Finnish fortifications (Mannerheim line) from a short distance. R91 SU14 1  That SPG was renamed the SU-14-Br2 and was the predecessor of heavy SPGs of the WWII period. R91 SU14 1  Now, the SU-14-2 is preserved at the Russian tank museum (Kubinka). R91 SU14 1  
+
+<center>
+[[image:SU-14_Br2_Armored. R91 SU14 1 jpg|thumb|200px|SU-14 Br2 Blueprint]]
+</center>
+
+[[image:SU-14-museum. R91 SU14 1 jpg|200px|thumb|SU-14 Br2 in Kubinka]]
+
+== Combat Usage ==
+
+==== The Winter War ====
+The SU-14 was used quite successful in the destruction of Finnish fortifications during the Winter War. R91 SU14 1  
+
+==== World War II ====
+In April 1940, the SU-14 and SU-14-1 were going through tests in NIAP, and in July, were in P. R91 SU14 1 F. R91 SU14 1  Lebedev's tank group in the Kiev Region. R91 SU14 1  In September 1940, both units were given to NIBT for storage. R91 SU14 1  In the fall of 1941, when defending Moscow, both SU-14s and an experienced SU T-100-U in a unit called "Separate Heavy Division for Special Purposes" were used in the Kubinka Region to fire from protected positions at advancing German forces (likely, they were using any working weapon available). R91 SU14 1 
+
+==Variants==
+* SU-14 -- Armed with 203mm howitzer B-4 mod. R91 SU14 1  1931 + 3 x 7,62mm Machine guns; ammunition 8 shells + 2268 MG shells; armour 10-20 mm; engine M-17 500 hp; speed 27,3 km/h; range 100-120 km
+* SU-14-1 -- Armed with 203mm howitzer B-4 mod. R91 SU14 1  1931 + 4 x 7,62mm MGs; ammunition 8 shells + 2196 MG shells; armour 6-20 mm; engine M-17F 700 (850?) hp; speed 30-35 km/h; range 120-150 km. R91 SU14 1 
+* SU-14-Br2 -- Armed with 152. R91 SU14 1 4mm gun + 4 x 7,62mm MG; ammunition 16 shells + 2655 MG shells; armour 20-50 mm; speed 15 km/h; range 100 km. R91 SU14 1  
+* SU-14-2 -- SU-14-1 with the radio station. R91 SU14 1 
+
+'''AUTHOR'S NOTE'''
+
+The variant descriptions and the pictures don't exactly match (they came from 2 different sources). R91 SU14 1  It is relatively clear that only 3 vehicles were produced. R91 SU14 1  2 were likely the SU-14 with the 203mm and 1 was the SU-14-1 with the 203mm. R91 SU14 1   Later, the 203mm gun was replaced with the 152. R91 SU14 1 4mm gun. R91 SU14 1   However, from the 3 pictures directly above, we get some discrepancies. R91 SU14 1  One picture (1st in the row of 3 above) shows the front view of an SU-14 with both armour AND the short 203mm gun. R91 SU14 1   This does not have a variant name. R91 SU14 1  Likewise, the 3rd picture in the group of 3 shows the original plating between the tracks (you can see where it extends to cover the drive wheels and has rectangular holes instead of circular ones). R91 SU14 1  From the the blueprints, this is an SU-14 and not the SU-14-1 modified to an SU-14-Br2. R91 SU14 1  I'm assuming that the armour was tacked on to one (or more likely both) of the original SU-14 prototypes, but they left the 203mm howitzer in. R91 SU14 1  Possibly, this was done so they could participate in the Winter War. R91 SU14 1   
+
+|HistoricalGallery=
+image:SU-14_with_203. R91 SU14 1 jpg{{!}}SU-14 Br2 but with a 203mm
+image:SU-14_front. R91 SU14 1 jpg{{!}}SU-14 Br2 with the 152. R91 SU14 1 4mm
+image:SU-14_side. R91 SU14 1 jpg{{!}}SU-14 Br2 rear/side shot
+
+
+
+|HistoricalGallery=
+image:SU-14_with_203. R91 SU14 1 jpg{{!}}SU-14 Br2 but with a 203mm
+image:SU-14_front. R91 SU14 1 jpg{{!}}SU-14 Br2 with the 152. R91 SU14 1 4mm
+image:SU-14_side. R91 SU14 1 jpg{{!}}SU-14 Br2 rear/side shot
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+}}

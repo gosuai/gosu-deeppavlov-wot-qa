@@ -1,0 +1,52 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+File:Type 89 I-Go Chi-Ro scr 1. J26 Type 89 jpg
+File:Type 89 I-Go Chi-Ro scr 2. J26 Type 89 jpg
+File:Type 89 I-Go Chi-Ro scr 3. J26 Type 89 jpg
+
+|InTheGame_pros= 
+* Rate of Fire, DpM, and Alpha Damage is beyond incredible for a tier II
+* Retains well-known japanese gun depression; does VERY good on hills
+* Slightly larger HP Pool compared to its peers
+* HE Shells are about on par with the AP shells in terms of penetration
+* Good trainer for the upcoming Type 91 and 95 heavies as they all play similarly
+|InTheGame_cons= 
+* Sluggish speed and traverse; Hillclimbing is a slow and tedious nightmare
+* Armor is severely lacking for a medium; wont bounce many shots
+* Penetration is bad, even by tier II standards; almost completely useless in tier III
+* Pretty large for a tier II; will draw fire, even from a distance
+* High priority target due to its large calibre gun and soggy cardboard armor
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Coated optics, Binocular Telescope, Improved Ventilation
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Type 89 medium tank I-Go (八九式中戦車　イ号 Hachikyū-shiki chū-sensha I-gō?) was a medium tank used by the Imperial Japanese Army from 1932 to 1942 in combat operations of the Second Sino-Japanese War, at Khalkhin Gol against the Soviet Union, and in the Second World War. J26 Type 89  The Type 89B model was the world's first mass-produced diesel engine tank. J26 Type 89  The tank was armed with a short-barrel 57 mm cannon for knocking out pillboxes and masonry fortifications, and proved effective in campaigns in Manchuria and China, as the Chinese National Revolutionary Army had only three tank battalions to oppose them, which consisted primarily of Vickers export models, German Panzer Is, and Italian CV33 tankettes. J26 Type 89  The Type 89 was a 1920s design medium tank, built to support the infantry, and thus lacked the armor or armament of 1940s generation Allied armor; and was regarded as obsolete by the time of the battles of Khalkhin Gol, against the Soviet Union, in 1939. J26 Type 89  The code designation "I-Go" comes from the katakana letter [イ] for “first” and the kanji [号] for “number”. J26 Type 89  The designation is sometimes transliterated “Yi-Go”
+
+|HistoricalGallery= 
+File:Type 89 Yi-Go at Tsuchira. J26 Type 89 jpg{{!}}A restored Type 89 I-Go at Tsuchiura GSDF Base open day
+File:IJA Experimental tank No1 01. J26 Type 89 jpg{{!}}Experimental tank No. J26 Type 89 1(ja:試製1号戦車), 1927 (Imperial year 2587)
+File:IJA Type 89 medium tank Ko earlymodel. J26 Type 89 jpg{{!}}Type 89 medium tank Ko early model. J26 Type 89 
+File:Japanese light tanks moving toward Manila. J26 Type 89 jpg{{!}}Japanese tanks moving toward Manila, January 1942. J26 Type 89 
+File:Type-89-Aberdeen. J26 Type 89 0003cg4s. J26 Type 89 jpg{{!}}Type 89 "I-Go" on display at the United States Army Ordnance Museum. J26 Type 89 
+File:Type 89 I-Go at Villa Escudero, Quezon Province, Philippines. J26 Type 89 jpg{{!}}One of the many relics of Type 89s that were deployed to the Philippines during World War II is located at Villa Escudero in Quezon Province Philippines. J26 Type 89 
+File:Type_89_I-Go_Villa_Escudero. J26 Type 89 jpg{{!}}Another view of the Type 89 at Villa Escudero
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://sensha-manual. J26 Type 89 blogspot. J26 Type 89 com/2016/11/wt-type89-i-go. J26 Type 89 html
+
+}}

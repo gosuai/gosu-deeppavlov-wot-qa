@@ -1,0 +1,153 @@
+{{TankData|Tank=ST_I
+|Even when fully upgraded, the ST-I is the one of the slowest Tier 9 heavy tanks available. R63 ST I  It's slow for a reason. R63 ST I  It has very sturdy angled armor that is impenetrable to many Tier 8 guns, and is more than a challenge to penetrate when angled properly. R63 ST I  A properly-driven ST-I can have confidence in its armor, especially when hull-down or sidescraping. R63 ST I  The ST-I is almost half the weight of its predecessor, the [[KV-4]], and thus isn't as well-suited for ramming, but in turn, can reach and maintain surprising speeds when pushed along by teammates. R63 ST I  Its top 122mm gun is very powerful, yet gun handling is poor, and gun should rarely be fired on the move. R63 ST I  Shots beyond 400 meters will require careful aiming. R63 ST I  In the hands of a player who has mastered close to mid range combat, this tank can be a nasty surprise and extremely difficult for vehicles of the same and lower tier to penetrate. R63 ST I  
+
+However, current game meta prefers faster tanks with either 490+ alpha or high DPM guns, and ST-I has neither. R63 ST I  As such, in particular when considering high amounts of premium ammo spam which is basically the norm nowadays in high tiers, ST-I is now only a shadow of former self. R63 ST I  It is constantly getting penned almost anywhere except turret face by Tier 9+ gold ammo, while at the same time being unable to flex around the battlefield quickly like some other heavy tanks can. R63 ST I  And that happens either when sidescraping (premium ammo shots to shoulders) or when hulldown (commander's cupola). R63 ST I  This makes ST-I quite limited and powercrept in a way. R63 ST I  Its best chance of survival are in the cities, and can only be considered highly dangerous and tough when top tier. R63 ST I  When top tier, the ST-I can easily lead its team to victory as a sturdy breakthrough tank coupled with formidable firepower. R63 ST I 
+
+|Gallery=
+image:ST-I-a. R63 ST I jpg{{!}}ST-I 1
+image:ST-I-b. R63 ST I jpg{{!}}ST-I 2
+image:ST-I-c. R63 ST I jpg{{!}}ST-I 3
+image:ST-I-d. R63 ST I jpg{{!}}ST-I 4
+
+|InTheGame_pros=
+* Good alpha damage and penetration with the top gun
+* Excellent HEAT (premium) penetration
+* Strong turret armor, great for hulldown positions
+* Well protected hull sides and tracks, good for sidescraping
+* Very good gun depression for a Soviet heavy tank
+
+|InTheGame_cons=
+* Sluggish mobility and poor acceleration
+* Weak lower plate
+* The upgraded turret is large and has poor traverse speed
+* Frustratingly bad gun handling and long aim time
+* Awful stock grind
+
+|InTheGame_performance=
+The ST-I is defined by its poor speed and mobility, thick intimidating armor (against lower tiers or non-premium ammo users), and raw firepower. R63 ST I  It presents a tough opponent that should never be faced alone at close range, due to its adeptness at face-hugging, sidescraping, and brawling. R63 ST I  However, once surrounded, its sluggishness and huge turret quickly become its downfall. R63 ST I  As such, the ST-I is well-suited for city maps where it can exploit its ability in close-to-mid-range combat. R63 ST I 
+
+In a hull-down position, its gigantic turret can only be penetrated by the strongest tier 10 guns to the face; this, combined with exceptional gun depression for a Soviet tank, and a small and strong commander's cupola (versus regular ammo), make the ST-I's turret very formidable. R63 ST I  However, you will often receive premium ammo into your commander's cupola, as well as large calibre HE shells to the turret face, so it can, in a way, easily become a huge weak spot. R63 ST I  Furthermore, shots that hit the turret's underside may ricochet off and down into the hull, causing damage. R63 ST I  The ST-I also has very thick sides and well protected tracks which make it very good at side scraping, as long as premium ammo is not being fired at shoulders. R63 ST I 
+
+The ST-I is one of the slowest Tier 9 Heavy but can be boosted to surprising speeds around 40 kmh when pushed along by a teammate, it also keeps its speed well on flat ground. R63 ST I  This is due to its relatively light weight which comes with the price of being sub-par at ramming and, when combined with a massive turret, high susceptibility to artillery fire. R63 ST I  Although no longer boasting 400 penetration, the now 340 pen nerfed HEAT shells are still one of the best among the tier 9 heavies. R63 ST I 
+
+A stock ST-I can be very grueling and unpleasant for its driver. R63 ST I  Stock, it will be armed with a barely-improved 122mm gun found on the [[KV-85]] and [[IS]], the 175 penetration shell is absolutely unsatisfactory for a direct-combat face-to-face tier 9 brawler. R63 ST I  It is highly recommended that you invest in Enhanced Torsion bars and or use free experience to get an upgraded gun. R63 ST I  Furthermore, the stock turret is quite weak and has large obvious weak spots. R63 ST I 
+
+|InTheGame_research=
+* The top radio carries over from the [[KV-4]] and can be installed immediately
+* Research the suspensions
+* Research the turret
+* The 122mm BL-9 gun carries over from the [[IS-3]]; if it's not yet unlocked, research it 
+* Research the top gun
+* Finish with the engine
+
+|InTheGame_equipment=
+Vertical Stabilizer, Tank Gun Rammer, Vents, GLD, Spall Liner
+
+
+|History=
+The designer of this machine is Valentine Asikritovich Ganin. R63 ST I  This man had the experience nebezyvestnom factory "Bolshevik," and from 1942 to 1945 - senior engineer of the Central Artillery Design Bureau Plant № 92 (Grabin KB). R63 ST I  However, the more he is known as a rocketeer, in particular, to him belongs the idea of an underwater missile launch. R63 ST I  Went to Ganina owns a total of 62 work in the field artillery, aviation, rocketry, including 24 copyright certificates. R63 ST I  In short, people are very uneasy. R63 ST I  Draft tank PT-I is not bad, had a number of original solutions, first applied in tank. R63 ST I  But man does not have CB on his back and, more importantly, influential people. R63 ST I  Plus, the tankers do not like the gunners. R63 ST I  In general, the project zapinali and deposited in the archives, where it is stored until now. R63 ST I 
+
+Assistant in this project was made by a young engineer went to Ganina CHasovnikov, a graduate Baumanki. R63 ST I  On his account just not a few inventions and achievements. R63 ST I 
+
+Comrade Valentine Asikritovich was an outstanding designer. R63 ST I  Ganin with Chasovnikovym widow created a project of the tank, at what their work was based solely on their enthusiasm and dedication - the order for the design of this tank is from the state was not. R63 ST I  To be honest, most of the best weapons, created in Russia (do not know about other countries), it was invented by designers-enthusiasts. R63 ST I 
+
+Here's how to see problems Ganin tank in 1945:
+
+Notable examples of domestic and foreign heavy tanks have a number of serious shortcomings in the device of the crew compartment, undercarriage, etc. R63 ST I , which reduce their military value. R63 ST I 
+
+The main disadvantages are:
+
+As the gun and fighting compartment
+1) Lack of quick-firing gun at medium and large caliber. R63 ST I  
+2) Lack of gun and turret stabilization, which is very difficult to shoot on the move the tank. R63 ST I  
+3) Small ammunition shells for the gun, which reduces the value of a combat tank. R63 ST I  
+4) The existing artillery systems medium and large caliber could hardly be placed in the limited dimensions of the turret. R63 ST I  
+5) The possibility of increasing the initial velocity armor-piercing shells at the same weight of projectile charge and size and save the gun was removed. R63 ST I  
+6) The location with respect to the tank commander and gunner guns has drawbacks in existing tanks as then: the swing of the gun, gun recoil, the fall of spent cartridges and use the loader in the loading process - all this nervous commander, distracting him from the battlefield observation. R63 ST I  Relatively limited to an overview of the tank in front. R63 ST I  
+7) Set the gun in the turret complex technologically and structurally little benefit. R63 ST I  
+8) In the presence of anti-aircraft machine gun impossible to fire on the simultaneous ground and air enemy. R63 ST I  
+9) is not completely solved the problem of reliability of the Ventilation of the crew compartment of the powder gases which is especially important when powerful quick-firing gun. R63 ST I  
+10) In many tanks there is no leg drive smoothly electorate (hydro) turret. R63 ST I 
+
+To the body and chassis
+1) for possible underwater walking difficult place heavy tank was sealed and the gun-turret ambrazurnogo stroke. R63 ST I  
+2) The equipment of the tank for underwater walking is difficult and unreliable (in case of emergency). R63 ST I  
+3) Diameter of rollers, a way to track the location of chain is not at all heavy tanks rational
+
+Here is a list of izobtreteny and innovations that Ganin introduced to your project. R63 ST I 
+
+This puts a heavy tank design to eliminate these drawbacks and has the following features that are the subject of the invention:
+
+1) Triple medium or installation of guns of large caliber machine guns and two (small-caliber guns). R63 ST I  
+2) Placement of the tank crew: 
+- the driver - in the nose of the tank, 
+- the commander and gunner - in front of the towers 
+- two charging - behind the commander and gunner. R63 ST I  
+This the location of the tank commander gives him the best view and most tranquil location. R63 ST I  
+presence of two significantly increases the rate of charging of the tank gun. R63 ST I  
+3) In a pocket niche tower in the direction of loading is quick-boeukladki (constructively, as a special case of cellular) rounds for the gun. R63 ST I  At the same time such an arrangement is possible, as for unitary rounds and for rounds of separate loading (installing tandem with the banana). R63 ST I  This eliminates unnecessary movement when charging the gun, which also dramatically increases its rate of fire. R63 ST I  
+4) The fence is located gilzootvoda gun centering chuck, spring-loaded rocker roller, reduces the size of loading the gun and raising its rate of fire. R63 ST I  
+5) To increase the initial velocity armor-piercing projectile gun under the previous weight of the projectile charge and constant dimensions of the guns used a special long-range nozzle tip. R63 ST I  
+6) In order to stabilize the gun in the vertical plane of fire, providing marksmanship with a stroke, used a special hoist to stabilization of mobile gun system gun mount. R63 ST I  
+7) To create a foreign exchange stabilization of the turret that provides the shooting accuracy with the progress of the tank, applied on the horizon a rotary mechanism to stabilization of the tower. R63 ST I  
+8) For self-defense against aircraft, in the hatch of a loader installed polubronirovanny heavy machine gun (small-caliber gun), with a special swivel shoulder-, improving tip-off. R63 ST I  At a time when a charging of the firing anti-aircraft machine gun, the rest of the crew continues to work his usual combat (the commander oversees the battlefield, the second charging charges the gun, the gunner firing at ground targets). R63 ST I  The construction proposed by the author, carried out in the sample. R63 ST I  
+9) To provide a convenient foot drive of the horizontal electric (hydro) used a special turret with a swinging footrest manually-foot lever. R63 ST I  
+10) Elektropovorot turret is provided to implement the scheme Ward or Leonardo Ampledin. R63 ST I  Duplication of the drive control tower elektropovorota displayed to the commander of a tank for the rendition of the tower, or when you specify the target. R63 ST I  
+11) the most advantageous technologically and structurally setting the gun in the turret, is achieved by using box-like frame, which is installed on the gun cradle trunnions. R63 ST I  The processed frame is welded to the tower. R63 ST I  This eliminates the handling of the installation of the gun inside the tower, possible biases, etc. R63 ST I  
+12) For the application of flue minutes to hide the tank or the ejection of frag mines against infantry set breech-loading mortar. R63 ST I  In a mortar tube from the rocket tank commander gives signals flares. R63 ST I  
+13) are three hatches: the commander of his commander's cupola and both charging that facilitates rapid recovery of the crew of the tank and the tank commander's convenience during normal maintenance of anti-aircraft machine gun. R63 ST I  
+14) You installation of freely rotating commander's hatch, while flipping the stabilization of the tower to the target (obrabatyvanie angle. R63 ST I ) 
+15) Sights: 
+- guns - cracking monocular scope with variable magnification and a variable field of view (TS) 
+- anti-aircraft machine gun - and the sighting collimator sight (mostly to calibrate the collimator. R63 ST I ) 
+16) To the best of the crew compartment ventilation from powder gases, suction applied to the local gas of spent cartridges flying out of the breech, through the pipe fence gilzootvoda (performed with the holes) with the suction fan. R63 ST I  
+17) for ventilation the crew compartment is a fan-type blower, located above the gun. R63 ST I  
+18) Air supply units of the consumer in the tower provides a special case of the engine through the air VU. R63 ST I  
+19) The commander has a rotating seat with backrest and footrest special. R63 ST I  
+20) Sitting suspended charging plug . R63 ST I  
+21) Most of the combat pack is a rapid-tank and is located in the tower. R63 ST I  
+22) Ambrazurny site provides the best armor protection frontal part of the tower, the most advantageous technology and ease of making your reservation, allows a reliable seal against water, vapor CQ bullets. R63 ST I  
+23) to seal the skirt of the tower and the shielding barrel gun and swinging bookings are inflatable tubes that are located in special grooves. R63 ST I  
+24) In order to ensure circulation of the underwater tank, the suction pipe is provided for a flexible hose to the engine swinging a float tube or patched. R63 ST I  Exhaust can be made ​​directly into the water or the patched tube into the atmosphere. R63 ST I  When the exhaust into the water it is desirable to use slotted hangers. R63 ST I  
+25) for walking underwater tank, inside it expected to increase the air pressure to prevent infiltration of water through accidental leaks. R63 ST I  
+26) For seizure of the gun turret hatch is in an alcove of the tower. R63 ST I  
+27) Applied road wheels Large diameter, with them lying on the tracks and lifted the axles and idler drive wheel that provides greater survivability of the chassis and the best of its dynamic qualities. R63 ST I 
+
+Ganin Engineer 
+Engineer CHasovnikov
+
+As you can see, innovation is not enough. R63 ST I  First of all, emphasis was placed on increasing the firepower of the tank and improve the review of the car. R63 ST I  As the chassis was used by a tank shell object 701. R63 ST I  Object 701 - IP-4 is an earlier version. R63 ST I  Differed from the final design of the suspension and transmission, and, consequently, had a large diameter rollers, without oporonyh rollers. R63 ST I 
+
+How many people know, the tower tank ST-I, very much like an American. R63 ST I  But in fact this is a purely authoring Ganina - U. R63 ST I S. R63 ST I  T29/T30/T34 with their brutal towers were created independently of amerkantsami Ganina. R63 ST I 
+
+Due to these innovations was to get the tank at the time unprecedented firepower. R63 ST I  Here in brief the most important:
+The introduction of the vertical stabilizer of the gun and the mechanism of the horizontal stabilization of the tower (!) Was to qualitatively improve the accuracy of shooting, especially with the move. R63 ST I 
+The use of a special device (distant nozzle tip) allowed up to 12-20% armor penetration of all guns in the arsenal of available time. R63 ST I  But it had one drawback - because of increased so skorsoti flight of the projectile (security armor penetration) significantly reduce the life of the barrel. R63 ST I 
+Appearance of the second charging, rabotyuschih together on both sides of the gun breech, as well as the removal of combat pack in the back of the niche spetsialntsyu tower (as in today's NATO membership tanks) has significantly raise the rate of gun. R63 ST I 
+The increase in working space, the introduction of powerful ventilation crew compartment, improving the working conditions of the commander (rotating commander's cupola and an armchair commander, electromechanical device turret) allows a qualitatively improve the efficiency of the crew. R63 ST I 
+ 
+
+|HistoricalGallery=
+image:ST-I 1. R63 ST I jpg{{!}}ST-I 1
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://ru. R63 ST I wikipedia. R63 ST I org/wiki/%D0%A1%D0%A2-1 '''ST-1 Heavy Tank'''] at wikipedia. R63 ST I org in Russian, use Google translate. R63 ST I 
+
+|Sidebar_Camostop=6. R63 ST I 3
+|Sidebar_Camomove=3. R63 ST I 4
+|Sidebar_Camofire=1. R63 ST I 4
+|Sidebar_Passhard=1. R63 ST I 151
+|Sidebar_Passmed=1. R63 ST I 534
+|Sidebar_Passsoft=2. R63 ST I 877
+|Sidebar_DispTurret=0. R63 ST I 192
+|Sidebar_DispRecoil=3. R63 ST I 356
+|Sidebar_DispAccel=0. R63 ST I 24
+|Sidebar_DispTurning=0. R63 ST I 24
+}}

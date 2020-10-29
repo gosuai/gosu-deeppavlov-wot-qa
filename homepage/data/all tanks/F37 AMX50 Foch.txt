@@ -1,0 +1,76 @@
+{{TankData|Tank=AMX50_Foch
+| A progressive update of the AC Mle 46 and 48, the 50 Foch continues to follow the 'all-or-nothing' trend by focusing all its effective armor and firepower into a narrow frontal arc. F37 AMX50 Foch  It has thicker frontal armor than the AC 48, and is also rid of the useless anti-aircraft turret that the AC 48 is cursed with. F37 AMX50 Foch  The aim time of the 120 mm gun is also much improved with a somewhat higher rate of fire. F37 AMX50 Foch  Unfortunately, it still shares many of the same weaknesses that the AC 48 had, and the 120 mm gun is underwhelming at Tier 9, especially since many heavy tanks at that tier get similar guns. F37 AMX50 Foch  In general, the Foch has suffered from power-creep at the higher tiers, to the point where it can be considered the worst Tier 9 tank destroyer in the game. F37 AMX50 Foch 
+
+|Gallery=
+
+|InTheGame_pros=
+* Very strong frontal hull plate that is immune to most regular AP rounds at normal angles
+* Accurate gun with significantly improved handling compared to the AC 48 while retaining autoloader
+* Good maximum straight-line speed with good acceleration, can keep up with some mediums and reposition well
+* Low profile with fairly decent camouflage values
+* No stock grind, top engine and suspension aren't needed 
+|InTheGame_cons=
+* Very weak side/rear/roof armor even with the buff in update 9. F37 AMX50 Foch 20, large weakspots negate the frontal protection
+* Lowest per-shot alpha of any Tier 9 tank destroyer (tied with the Tortoise), suffers badly on bounced shots 
+* The gun is a better handling version of the Tier 8 and underwhelming across the board for that Tier increase vs. F37 AMX50 Foch  competition 
+|InTheGame_performance=
+
+The Foch is heavily dependent on being able to snipe from medium to long distances or flanking unsuspecting enemies. F37 AMX50 Foch  It is an extremely difficult tank to play at close ranges due to its length, middling traverse speed, and prominent weakspots that negate its otherwise excellent armor: the ever-present rangefinder and turret on top of the French tank destroyers. F37 AMX50 Foch  These must be exposed whenever the Foch has to open fire at an enemy, and the only real thing a player can do to counter this is to wiggle the tank and hope for a lucky miss or ricochet. F37 AMX50 Foch  For similar reasons, fighting on hilly terrain is highly not recommended in the Foch unless there is no other option. F37 AMX50 Foch  The low HP pool does not help in this respect either. F37 AMX50 Foch  The absolutely horrible armor on the sides, rear, and top make it very vulnerable to flanking attacks and artillery hits are devastating to the Foch. F37 AMX50 Foch 
+
+The firepower of the Foch is by far its greatest weakness, the 120 mm SA 46 being the only gun option. F37 AMX50 Foch  While a very powerful gun at Tier 8 on the AC 48, the gun is very weak for a tank destroyer at Tier 9. F37 AMX50 Foch  It has by far the lowest damage per shell of any Tier 9 tank destroyer gun, tied only with the Tortoise. F37 AMX50 Foch  However, while the Tortoise has a phenomenal rate-of-fire to compensate for this (among the best damage-per-minute values of any tank in the game), the Foch has no such consolation. F37 AMX50 Foch  With barely over half the shell damage of the T30 or Object 704, the Foch must expose itself to repeatedly shoot an enemy. F37 AMX50 Foch  The disappointing damage output means it needs to land at least two shots from a clip to justify the trade, when opponents can fire and (should) retreat to avoid those follow-ups. F37 AMX50 Foch  The terrible gun dispersion values make it absolutely hopeless at snapshotting enemies, although the aim time is significantly better than on the AC 48. F37 AMX50 Foch  The penetration is acceptable enough under most circumstances, but can be frustrating when combined with the Foch's horrible dispersion values. F37 AMX50 Foch  
+
+That said, the Foch does boast good speed and acceleration, which does allow it to reach aggressive forward positions or keep up with medium tanks, if one prefers to live dangerously. F37 AMX50 Foch  However, it has only slightly better hull traverse than the Object 704, and if a fast medium or light tank gets on the side or behind a Foch, it is game over. F37 AMX50 Foch  It absolutely requires support to cover its flanks if played aggressively. F37 AMX50 Foch 
+
+When allowed to play as a medium/long range sniper, the Foch can also perform decently, as it becomes much harder to hit the weakspots and the armor becomes more effective. F37 AMX50 Foch  The gun is also quite accurate once fully aimed, and it can hit fairly reliably at long distances. F37 AMX50 Foch  It also has decent camouflage values and view range, making it harder to spot. F37 AMX50 Foch  In this respect, it plays similarly to the SU-122-54, which has a far greater damage output and agility, while the Foch has much better frontal armor and a more accurate gun at long ranges. F37 AMX50 Foch 
+
+Overall, the Foch is a difficult tank destroyer to play aggressively, and can be a frustrating experience, especially to a less experienced player. F37 AMX50 Foch  But, then again, if you have made it this far up the French tank destroyer tree, you should not be surprised by this, right?
+
+|InTheGame_research=
+* Nothing much to research except for the upgrade suspension and upgrade engine (which is shared with the [[AMX 50 120]]) 
+* Stock suspension can handle a lot of weight, therefore engine > track. F37 AMX50 Foch 
+
+
+|InTheGame_equipment=
+
+Large-Caliber Tank Gun Rammer, Binocular Telescope, Enhanced Gun Laying Drive, Improved Ventilation Class 3
+
+|History=
+[[image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F37 AMX50 Foch jpg|thumb|200px|left|Canon Automoteur AMX 50 Foch]]After the war the French Army possessed no modern tanks with a heavy armament. F37 AMX50 Foch  The ARL 44 was being developed, but this vehicle, though to be armed with a powerful 90 mm gun, could hardly be called modern, as its suspension system was obsolete. F37 AMX50 Foch  Therefore already in March 1945 the French industry had been invited to design a more satisfactory vehicle. F37 AMX50 Foch  The same year the AMX company (Atelier de Construction d'Issy-les-Moulineaux) presented its projet 141, a project to build the so-called M 4 prototype, armed with a 90 mm Schneider gun. F37 AMX50 Foch 
+
+The M 4 closely resembled the German King Tiger in general form, though the turret was to be made of welded sections; but to limit the weight to a desired thirty metric tonnes the proportions were rather smaller and the armor had a maximum of just thirty millimeters. F37 AMX50 Foch  Like the later German tanks of the war it had, in this case eight, overlapping road wheels. F37 AMX50 Foch  Part of the project was to study whether a modern torsion bar suspension should be used or the height lowered by ten centimeters through a fitting of leaf or coil springs. F37 AMX50 Foch 
+
+Two prototypes of the M 4 were ordered. F37 AMX50 Foch  The Army soon indicated that a protection level of thirty millimeters was unacceptably low. F37 AMX50 Foch  In response armor was increased. F37 AMX50 Foch  To save weight it was decided to install a novel oscillating turret, designed by FAMH. F37 AMX50 Foch  Nevertheless, when the first prototype, now named the AMX 50 after its intended weight class, was delivered in 1949, it weighed 53. F37 AMX50 Foch 7 metric tonnes. F37 AMX50 Foch  In the winter of 1950 instead of the 90 mm, a 100 mm gun was fitted, designed by the Arsenal de Tarbes. F37 AMX50 Foch  The second prototype with a slightly different turret, but also with a 100 mm gun, was ready soon after. F37 AMX50 Foch  The prototypes had a length, with gun, of 10. F37 AMX50 Foch 43, a width of 3. F37 AMX50 Foch 40 and a height of 3. F37 AMX50 Foch 41 meters. F37 AMX50 Foch  It was intended to fit a 1200 hp engine to attain a speed much superior to all existing medium tank types. F37 AMX50 Foch  The Maybach HL 295 (a redesigned German gas engine in 1945 captured at Friedrichshafen by Engineer-General Joseph Molinié) and a Saurer diesel engine were tested. F37 AMX50 Foch  Both failed to deliver the required output and maximum speed was in fact no higher than 51 km/h. F37 AMX50 Foch  The prototypes were tested between 1950 and 1952. F37 AMX50 Foch 
+[[image:Amx50foch037rz. F37 AMX50 Foch jpg|thumb|200px|right| AMX 50 Foch]]
+Based on the M 4 chassis in 1950, AMX presented a prototype of a heavy tank destroyer in the form of a 120 mm self-propelled gun, the Canon Automoteur AMX 50 Foch, named after Marshal Ferdinand Foch. F37 AMX50 Foch  It was intended to give long range fire support to the medium/heavy AMX 50 100 mm model. F37 AMX50 Foch  The design had a lot of similarities with German Jagdpanther tank destroyer. F37 AMX50 Foch  It had a long bareled 120 mm gun with a muzzle break attached to a well sloped and heavily armored flat profile vehicle. F37 AMX50 Foch  Remotely controlled anti-aircraft machinegun was placed on the right side of the roof, while commander’s cupola with the range finder was pushed to the left. F37 AMX50 Foch  
+
+Unlike previous post war concepts like the Mle. F37 AMX50 Foch  1948, several AMX 50 TDs were built, the first in 1950. F37 AMX50 Foch  Field tests were promising, and army started to prepare to adopt AMX 50 Foch in small numbers. F37 AMX50 Foch  When AMX engineers managed to install a 120 mm gun into an oscillating turret of the AMX 50 120 tank, Foch immediately become obsolete and all further development and production were stopped. F37 AMX50 Foch 
+
+|HistAcc=
+The Foch was never designed to hold an autoloader. F37 AMX50 Foch  The historical version with the single-shot gun does not exist in World of Tanks. F37 AMX50 Foch 
+
+|HistoricalGallery=
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F37 AMX50 Foch jpg
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH_1. F37 AMX50 Foch jpg
+image:Amx50foch058ln. F37 AMX50 Foch jpg
+image:Amx50foch037rz. F37 AMX50 Foch jpg
+File:AMX_50_Foch_blueprint. F37 AMX50 Foch jpg{{!}}AMX 50 Foch armor layout
+File:AMX_50_Foch_blueprint_1. F37 AMX50 Foch jpg{{!}}The Foch's ammunition storage
+File:AMX_50_Foch_blueprint_2. F37 AMX50 Foch jpg{{!}}AMX 50 Foch interior blueprint
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+|Sidebar_Camostop=14. F37 AMX50 Foch 0
+|Sidebar_Camomove=8. F37 AMX50 Foch 6
+|Sidebar_Camofire=4. F37 AMX50 Foch 0
+|Sidebar_Passhard=1. F37 AMX50 Foch 247
+|Sidebar_Passmed=1. F37 AMX50 Foch 342
+|Sidebar_Passsoft=2. F37 AMX50 Foch 301
+|Sidebar_DispTurret=0. F37 AMX50 Foch 192
+|Sidebar_DispRecoil=3. F37 AMX50 Foch 836
+|Sidebar_DispAccel=0. F37 AMX50 Foch 192
+|Sidebar_DispTurning=0. F37 AMX50 Foch 192
+}}

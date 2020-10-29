@@ -1,0 +1,50 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Respectable alpha damage, good ammo capacity
+* Good American gun depression: -10 degrees
+* Decent top speed and acceleration
+* Long radio range, allows it to stay in second or even third line of combat
+
+|InTheGame_cons= 
+* Lower penetration on its APCR rounds than non-premium 90mm guns
+* Poor gun handling for an American TD: longer aim time, worse accuracy/dispersion values
+* Mediocre DPM, only slightly better than Hellcat
+* Armor provides little protection, will take heavy damage from HE shells
+* Crew layout only matches [[T25 AT]], [[T28]], and [[T95]]
+
+|InTheGame_performance= 
+
+Like many American machines, the T78 is generally well rounded, yet some of its most important characteristics pale in comparison to some of its more popular peers. A123 T78  It can be thought of as something of a mid-point between the [[M18 Hellcat]] and the [[M36 Jackson]] in terms of performance and should be played as such. A123 T78 
+
+The T78's main focus is its 90mm M3 cannon, a familiar sight for many mid-tier American tanks. A123 T78  The gun provides a respectable 240-HP alpha for its tier, yet is let down by its rate of fire--above that of the Hellcat, but below the Jackson's. A123 T78  The T78 has a longer aim time than either of the non-premium TDs and is less accurate as well. A123 T78  It also suffers from having 22 less penetration on its APCR round versus the Jackson or Hellcat, a penetration loss of about 10%. A123 T78  This means it will struggle more against heavily armored machines, especially Tier 8s. A123 T78  Supposedly, this is the same cannon that is used on the M6 Heavy tank. A123 T78  Yet the gun on the M6 has 243 penetration for it's premium round. A123 T78 
+
+It does have the benefit of a decent speed and acceleration (though not as zippy as the Hellcat), decent camo (though again, not as good as a Hellcat) and a higher HP of 600. A123 T78  Do not think that this means you can afford to trade shots; most of the opponents a T78 can face will have the ability to kill it in just 2-3 hits. A123 T78  You are at risk of being one-shotted by artillery and 152mm derpguns carried by equal-tier beasts such as the [[KV-2]] and [[O-I]]. A123 T78  It is possible to be be one-shotted by a high damage roll from a 122mm gun firing a High Explosive shell. A123 T78  Therefore, avoid direct confrontation with enemy heavies if at all possible. A123 T78 
+
+Use your compact size and decent mobility to find a hull-down position overlooking vital choke points. A123 T78  You will need to aim in for longer than your non-premium American peers, so take your time and pick targets carefully. A123 T78  Though you can punish most heavies from side angles, don't count on your APCR providing the penetration needed to punch through them frontally. A123 T78  Instead, destroy weakened opponents before they retreat and don't be afraid to bully soft-skinned targets such as supporting medium tanks. A123 T78  Stay mobile, stay hidden, and make the most of your respectable ammo count (on par with the Jackson). A123 T78 
+
+|InTheGame_research= 
+As a premium tank, the T78 is elite in its stock configuration. A123 T78 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Binocular Telescope, Camouflage Net, Coated Optics, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

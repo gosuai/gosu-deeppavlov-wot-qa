@@ -1,0 +1,59 @@
+{{TankData|Tank=Ch21_T34
+|Bootleg of the [[T-34]] With less research options than its Russian counterpart, it may not offer any new elements to those who have driven the Russian tank previously, but for new players or players who haven't played the T-34, the Type T-34 offers a versatile platform with a fast & accurate gun (a copy of the ZiS-4) fit for all roles, be either flanking, sniping and even brawling. Ch21 T34  Keep in mind that your 45mm armor, despite being well sloped, can still be penetrated often, so you should make up with maneuverability for fast paced tactics instead of a static role, especially when facing large calibre artillery fire. Ch21 T34 
+
+|InTheGame_pros= 
+
+- ''See [[T-34]] for more detail; only differences are listed here''. Ch21 T34 <br />
+* High ammo capacity;  barely runs dry even with its great RoF
+
+* Easier grind: no brutal stock gun, more mobile with stock tracks and less research to eilte
+
+* Somewhat better agility, turns quicker
+
+
+|InTheGame_cons= 
+
+* Poor gun depression, 3° worse than it's Soviet counterpart, which has 8°
+
+* A little bit less mobility, despite barely tellable
+
+
+|InTheGame_performance=
+The Type T-34 has very thin armor so it gets easily destroyed if caught traveling alone. Ch21 T34  Move with a group to support allies and do not rush into battle if you want to do well in this tank. Ch21 T34  The armor is well sloped but it does not actually help as much as one would expect, as the armor is not much thicker than the M5A1 light tank. Ch21 T34  The turret is also very susceptible to damage due to its huge turret ring and cupola, so going hull-down won't be very beneficial. Ch21 T34  You will generally be up against higher or same tier tanks which will penetrate your armor like butter all the same, so play this tank with caution and use your surroundings so the enemy does not focus on your tank. Ch21 T34 
+
+When you are playing on a map that features urban warfare, you could try flanking when opponents are distracted by your teammates. Ch21 T34  But you have to be careful, because when someone starts to notice you, you have to retreat fast. Ch21 T34 
+
+The tank has a good top speed but it hardly reaches it unless going downhill. Ch21 T34  It does not have the best maneuverability so do not try circling around enemies. Ch21 T34  The speed is good enough to weave in and out of cover, so when facing a higher tier enemy, poking around cover might leave your enemies without a straight shot. Ch21 T34 
+
+After the Type T-34 becomes fully upgraded, its gun can tear enemies apart. Ch21 T34  Its fast rate of fire and decent penetration can easily take out enemies if you hit the right spots. Ch21 T34  The rate of fire will usually allow you to get two or more shots off in the time it takes the enemy to fire one so use this to your advantage. Ch21 T34  Expect it to win face-offs against tanks of the same tier armed with derp guns, as long as your health pool can afford to take a shot first. Ch21 T34  The aim time is actually longer than reloading takes, so one will have to sacrifice some DPM to fully utilize its great accuracy. Ch21 T34  While sharing the best accuracy of mediums in tier, comparable to TDs, the regular AP penetration is exactly sufficient; it can go through a surprised KV-1's side armor with ease, but not if it comes angled. Ch21 T34  To compensate for that, it has insanely powerful premium APCR shots, capable of penetrating even some of the best protected vehicles in its battle tier, head-on; just remember that APCR tends to lose more penetration over long distance, so it's not that guaranteed to always penetrate when sniping. Ch21 T34  
+
+
+|InTheGame_research=
+* First, research the suspension for better traverse speed and max weight
+* Research the Type T-34M turret and then the 57 mm gun for better RoF and penetration
+* Go from there. Ch21 T34 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vents
+
+|Gallery=
+
+
+|History=
+See [[Tank:R04_T-34|T-34]]
+
+|HistAcc=
+There's no detail about the Chinese-made T-34 along with its variants. Ch21 T34  Details can be found here: https://www. Ch21 T34 tanks-encyclopedia. Ch21 T34 com/cold_war/china/type-t-34-fake-tanks/. Ch21 T34 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

@@ -1,0 +1,80 @@
+:''This article is about the Soviet medium tank. R06 T-28  For the American TD, see [[T28]]. R06 T-28 ''
+
+
+{{TankData|Tank=
+|This tank is best described as an "odd" tank. R06 T-28  It is one of the longest tanks in the early tiers, making it a proverbial barn door for incoming fire and hard to hide; a fact not helped by its rather poor armor. R06 T-28  Having said this, it is surprisingly fast and maneuverable. R06 T-28  Although its initial guns are weak, it can eventually equip some very effective armament. R06 T-28  The 57mm guns are very accurate and have plenty of penetration, which have a fast firing rate. R06 T-28  This gives them a very high damage output, assuming one can survive and fire can be sustained. R06 T-28  The contradictions in attributes lead to the T-28 using some rather odd tactics; it needs to stay out in the open to apply its damage, it can't slug it out with the heavies, and its size means stealth isn't much help either to survive as a medium. R06 T-28  Caution and long range, patiently-laid fire are the best policies with the T-28. R06 T-28  Let your team mates push forward and find the enemy, then use your speed and acceleration to get to the place you're most needed, like a fast TD. R06 T-28  Then, use your excellent firepower to help tip the balance. R06 T-28  The T-28 can also be a surprisingly effective spotter (despite its bulk) due to its speed, and sight/spotting/flanking games which are a key part of this tank. R06 T-28 
+
+|Gallery=
+image:T28-b. R06 T-28 jpg{{!}}T-28 front left
+image:T28-c. R06 T-28 jpg{{!}}T-28 rear right
+image:T28-d. R06 T-28 jpg{{!}}T-28 rear left
+
+|InTheGame_pros=
+* Good damage potential with the 57 mm ZiS-4
+* Decent view range and accuracy at long range, which must be used to survive
+* Good acceleration and top speed: able to climb hills with ease
+*Very easy stock grind if the T-34 has been unlocked since they share the same 57mm
+
+|InTheGame_cons=
+* Large silhouette and camo quality is very poor combined with thin armor
+* Poor, unsloped armor; crew are weakly protected from HE
+* Average gun depression with both turrets
+* Suspension gets easily destroyed, often resulting in death (due to the low armor)
+*Prone to ammo rack damage
+
+|InTheGame_performance=
+This tank plays well as either a flanking skirmisher or a sniper. R06 T-28  Once upgraded, this tank combines speed with strong firepower. R06 T-28  However, most players have a difficult time achieving that. R06 T-28  Its survivability depends on not being spotted; camo is barely an option due to the shape and large size, and vision equipment is costly. R06 T-28  Once you get some upgrades, you can use your mobility to move around the battlefield with ease, position yourself where you're needed, and fall back before being overrun. R06 T-28 
+
+While it may look more impressive than the [[M3 Lee]] or the [[Pz. R06 T-28 Kpfw. R06 T-28  III]], the armor on this tank is not very effective in battle, as it is not very thick or well sloped. R06 T-28  Compared with other tanks, the sides are easy targets, making this tank much easier to de-track, so it pays to be aware of the tank's alignment both while still and while moving. R06 T-28  For equipment you can use a gun rammer, vents and optics (or binoculars depending on your play style) to spot targets for yourself, while keeping outside of their vision range. R06 T-28  Unless you have played the BT-7 or the SU-8 before to unlock the engine upgrades, it is advisable to begin with sniping, as the stock engine doesn't have the power to make skirmishing feasible. R06 T-28  At the same time, the gun it starts out with is essentially indirect fire artillery and not very effective, and most players agree that it is best to upgrade it right away for the ZiS-8. R06 T-28 
+
+If you can survive, the awesome ZiS-4 gun with its astounding accuracy (on par with Tiger's L/71), great penetration for its tier, and good DPM, can stop enemies dead and squash lower tiered tanks. R06 T-28  While not useful for retreating backwards, the relocating mobility of this tank helps a lot, and so a person can easily single-handedly control tier 4 matches, and some tier 5 matches. R06 T-28  Since the ZiS-4 is so good (it is great even on the T-34), this tank still remains competitive in tier 6 matches, being able to penetrate the [[Tank:R106 KV85|KV-85]] from the front, but the [[VK 36. R06 T-28 01 (H)]], [[T-150]] and [[M4A3E2 Sherman Jumbo]] can give this tank some trouble. R06 T-28  
+
+Arty players tend to regard the T-28 as a free kill, and if they can score just one direct hit that’s exactly what you’re going to be. R06 T-28  Your best bet is to stay in cover as much as you can and if you’re stuck in the open keep moving. R06 T-28  If you get spotted you can bet that every arty player the enemy has is going to be targeting you. R06 T-28 
+
+This tank has two Radio Operators, and thus it can take more Radio Operator Skills/Perks, but the best available radio only has a range of 360 meters. R06 T-28  This unfortunately ruins what would otherwise have been a very valuable situation. R06 T-28  View range equipment (binoculars) is a good pick for this tank to help you engage at long range. R06 T-28 
+
+|InTheGame_research=
+* The 76 mm L-10 gun and the 10R radio carry over from the T-46 and if you played the T-34 previously before getting this tank, the ZiS-4 is available and can be equipped immediately upon purchasing this tank. R06 T-28  If you have played the BT-7 or the SU-8 previously, the M17F engine can also be equipped right away. R06 T-28 
+* Most players choose to upgrade the gun first. R06 T-28  Choosing between the 76 mm and the 57 mm line is up to you, all four guns offer good firepower. R06 T-28 
+* Next focus on the engine (if you don't already have them from the BT-7 or SU-8), and then the suspension. R06 T-28 
+* Research the turret last. R06 T-28  It adds 30 hit points and 20 view range. R06 T-28 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Coated Optics, Cyclone Filter, Enhanced Suspension, Binocular Telescope, Camouflage Net
+
+|History=
+The Soviet T-28 was among the world's first Medium tanks. R06 T-28  The prototype was completed in 1931 and production began in late 1932. R06 T-28  It was an infantry-support tank intended to break through fortified defenses. R06 T-28 
+
+The type didn't have that much success in combat, but it played an important role as a development project for the Soviet designers. R06 T-28  A series of new ideas and solutions were tried out on the T-28 and were later incorporated in future models. R06 T-28 
+
+==Design History==
+
+The T-28 was in many ways similar to the British Vickers A1E1 Independent tank. R06 T-28  This tank greatly influenced tank design in the period between the wars, although only one prototype was manufactured in 1926. R06 T-28  The Kirov Factory in Leningrad began manufacturing a tank, which was based on the British Independent in 1932. R06 T-28  The T-28 tank was officially approved on August 11, 1933. R06 T-28  The T-28 had one large turret with a 76. R06 T-28 2mm gun and two smaller turrets with 7. R06 T-28 62mm machine guns. R06 T-28  A total of 503 T-28 tanks were manufactured over a period of 8 years from 1933 to 1941. R06 T-28 
+
+==Combat History==
+The T-28 was deployed during the Invasion of Poland and the Winter War against Finland. R06 T-28  During the initial stages of the Winter War, the tank was used in direct fire missions against Finnish pillboxes. R06 T-28  In the course of these operations, it was found that the armour was inadequate and programs were initiated to upgrade it. R06 T-28  Frontal plates were upgraded from 50 mm to 80 mm and side and rear plates to 40 mm thickness. R06 T-28  With this up-armoured version the Red Army broke through the main Finnish defensive fortification, the Mannerheim Line. R06 T-28 
+According to Russian historian M. R06 T-28  Kolomietz's book "T-28. R06 T-28  Three-headed Stalin's Monster", over 200 T-28s were knocked out during the Winter War, but only 20 of them were in irrecoverable losses (including 2 captured by the Finnish Army). R06 T-28  Due to proximity of the Kirov Plant, all other knocked-out tanks were repaired, some of them over five times. R06 T-28 
+
+The Finns knew the T-28 as the Postivaunu ("mail wagon" or stagecoach), a name which alluded to Finnish troops' discovery of Red Army field mail sacks inside the first destroyed T-28. R06 T-28  Another explanation is that the high profile of the tank resembled the old west stagecoaches of the United States. R06 T-28  Finns captured two T-28s during the Winter War and five in Continuation War, for a total of 7 vehicles. R06 T-28 
+
+The Soviets had 411 T-28 tanks when the Germans invaded the Soviet Union in June 1941. R06 T-28  Most T-28s were lost during the first two months of the invasion, many of them abandoned after mechanical breakdown. R06 T-28  Some T-28s took part in the 1941 winter defence of Leningrad and Moscow, but after late 1941, they were rare in Red Army service; a few were operated by enemy forces. R06 T-28 
+Today three T-28s remain, two in Finland and one in Moscow. R06 T-28  One restored T-28 is on display in Finnish field camouflage in the Parola Tank Museum, Finland. R06 T-28 
+
+|HistAcc=
+The T-28 is considerably faster than in reality, with a top speed of 45 km/h compared to the historical 37. R06 T-28  Off-road its top speed is reduced to 20 km/h, but the T-28 does not suffer from this issue in World of Tanks. R06 T-28 
+* Actual power to weight ratio is 18 hp/t. R06 T-28  In World of Tanks however, the T-28 has a whopping 29. R06 T-28 27 hp/t when fully upgraded. R06 T-28 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://english. R06 T-28 battlefield. R06 T-28 ru/t-28. R06 T-28 html '''T-28 Medium Tank'''] at battlefield. R06 T-28 ru. R06 T-28 
+
+}}

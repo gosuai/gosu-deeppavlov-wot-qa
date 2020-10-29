@@ -1,0 +1,109 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Charioteer scr 1. GB80 Charioteer jpg
+File:Charioteer scr 2. GB80 Charioteer jpg
+File:Charioteer scr 3. GB80 Charioteer jpg
+
+
+|InTheGame_pros=
+*Has fully rotable turret and appreciable gun depression, low profile and excellent camo values
+*Good top speed, fast and highly mobile; good power-to-weight ratio
+*Fearsome top gun for its tier: accurate, high penetrating, firerate makes up for the low alpha
+*HESH premium rounds with awesome penetration (210 mm); massive DPM increase (480 alpha)
+*Above average penetration on normal HE rounds (105 mm) 
+
+|InTheGame_cons=
+*Horrible gun dispersion and aiming time values
+*Paper-thin armor, low HP pool and very fragile engine; often gets set on fire
+*Slow turret and hull traverse; Mediocre view range
+*Low ammo capacity (35 rounds with a high rate of fire will go quickly)
+*Long grind to the last gun, and it feels worse than a tier 7 Challenger without it
+
+|InTheGame_performance=
+The Charioteer is a difficult to play but rewarding mix of a light tank and tank destroyer, akin to the Tier 6 [[M18 Hellcat]] and Tier 9 [[Leopard Prototyp A]]. GB80 Charioteer 
+Good Charioteer gameplay is built around leveraging its 3 main strengths: its gun, mobility, and vision capabilities. GB80 Charioteer  
+The Charioteer is equipped with one of the best TD guns of its tier, basically a [[Centurion Mk. GB80 Charioteer  7/1]] gun (AT-version L7A1 gun) with much better rate-of-fire, excellent penetration (268 mm), accuracy, aiming time and dispersion values, but with realtively low alpha damage (average 390 HP). GB80 Charioteer  The gun has no premium APCR or HEAT, instead HESH rounds, which are high-explosive rounds with slightly better penetration (210 mm in the Charioteer's case). GB80 Charioteer  The normal HE shells also have above average pen (105 mm)
+The second pro is its mobility. GB80 Charioteer  It has a very good power-to weight ratio (about 22 HP/t) and top speed, which are somewhat encumbered by relatively high terrain resistance, which evens out to acceptable acceleration and turning speed. GB80 Charioteer   
+The third and last pro is its low profile (and consequently excellent camouflage values) coupled with very nice view range for a TD (although paltry by the standards of sniper mediums to which it can be best likened). GB80 Charioteer  With Coated Optics, a fully trained camo crew, BiA, and Improved Ventilation, it can out-spot most of its peers in a vision-centric engagement. GB80 Charioteer 
+
+However, it has 3 serious cons, poor agility, paper-thin armor, and a tendency to receive heavy module damage (especially the engine). GB80 Charioteer 
+It's very important to keep an eye (figuratively!) glued to the minimap and watch for changes on both flanks, as the downsides will readily manifest themselves if the Charioteer is caught in point-blank firefights. GB80 Charioteer  That's not to say that it's entirely helpless in close-combat situations if fought on its terms, though. GB80 Charioteer  With the speed and alpha damage, it can be a very effective flanker and damage thief on city maps, waiting until enemies have fired to put a shot through a cupola or rushing around their sides to put in 2-3 potshots before they even get a chance to react. GB80 Charioteer 
+
+An ideal role on an open map is to use the mobility to fire from afar with soft cover and quickly relocate before opponents can close the distance (a tactic known as "kiting"). GB80 Charioteer  The Charioteer is not for close range combat ideally; It's a medium and long range killer. GB80 Charioteer  The preferred role of this TD is to deal as much damage as possible before being lit. GB80 Charioteer  However, the camo is not as good as the Rhm's or some of the other contemporary TDs, in exchange for the combination of speed and a turret. GB80 Charioteer  It's still possible to hide in decently small bushes and provide long-range fire support with a gun that can quickly deal with most enemies from the front. GB80 Charioteer  The HESH rounds can be handy in end-game cleanup if only soft tanks (light tanks, artillery, etc. GB80 Charioteer ) are left, or for early game side shots. GB80 Charioteer 
+|InTheGame_research=
+The top Radio and Engine will be unlocked if you elited the Challenger, or through most of the other tank lines at tier 6, so equip them right away. GB80 Charioteer  The Type B barrel will be unlocked if you researched the AT 15. GB80 Charioteer 
+Unlock the tracks first. GB80 Charioteer  It's not needed to equip the 105 L7 top gun, as it weighs the same as the Type B, but the remaining load on the stock tracks won't give enough room to install much equipment. GB80 Charioteer  You can equip Coated Optics, but not Ventilation unless you stick with the Type A barrel (it's 40kg lighter then the Type B). GB80 Charioteer 
+|InTheGame_equipment=
+Large-Caliber Tank Gun Rammer, Improved Ventilation Class 3, Enhanced Gun Laying Drive, Coated Optics, Camouflage Net, Binocular Telescope
+|InTheGame_Equipment_Builds=
+The Charioteer's best hope for survivial is to stay hidden and the crew build should reflect that. GB80 Charioteer 
+* Initially, train camouflage on all crew
+* Once the first skill set is at 100 percent, drop for sixth sense and safe stowage. GB80 Charioteer  Then retrain cammouflage on the commander and loader and train snapshot and either smooth ride or preventive maintenance. GB80 Charioteer  
+* Once the second skillset is complete, drop for brothers in arms and retrain the second skillset. GB80 Charioteer 
+The equipment build can take several forms
+# For a classcial TD build, you can use gun rammer, cammouflage net and Binocular telescope
+# Alternatively, you can use gun rammer, gunlaying drive and coated optics for more active gameplay. GB80 Charioteer 
+
+
+|External_Reviews=
+
+|History=
+
+The Charioteer Tank, or FV4101 Tank, Medium Gun, Charioteer was a post-war British armoured fighting vehicle. GB80 Charioteer  The vehicle was produced in the 1950s to up-gun units of the Royal Armoured Corps continuing to use the Cromwell tank during the early phases of the Cold War. GB80 Charioteer  The vehicle itself was a modified Cromwell with a more powerful gun installed in a relatively lightly armoured two-man turret. GB80 Charioteer 
+
+In the early 1950s, plans to combat a potential invasion from Soviet forces during the Cold War called for a Royal Armoured Corps formation to be equipped with the Cromwell tank while Centurion tank numbers were still low. GB80 Charioteer  This required an up-gunning of Cromwell to incorporate the same 20 pounder (84 mm) gun as used in the Centurion Mk 3. GB80 Charioteer 
+
+Mounting the gun required a new two-man turret to be developed,. GB80 Charioteer [2] The resulting vehicle was initially named FV4101 Cromwell Heavy AT Gun,[3] but renamed "Charioteer" before entering service. GB80 Charioteer 
+
+The new turret used the larger Ordnance QF 20 pounder gun. GB80 Charioteer  This was mounted with a co-axial 0. GB80 Charioteer 30 in M1919 Browning machine gun. GB80 Charioteer  Smoke dischargers were fitted to both sides of the turret. GB80 Charioteer  A flap to the turret rear allowed spent shell casings from the gun to be ejected from the vehicle. GB80 Charioteer [2]
+
+Hulls were based on the later Cromwell VII standard, modified with Comet Model B style fishtail exhausts and no hull-mounted machine gun. GB80 Charioteer  Most hulls were reworked to Type F standard, and fire extinguisher pulls were re-routed to the two track-side bins. GB80 Charioteer  A large armoured telephone box was fitted to the vehicle rear for communication with infantry. GB80 Charioteer  Additional defensive armour was welded to the Cromwell hull, but the upgrade focused on offensive capability and the new turret used much lighter armour (20–30 mm). GB80 Charioteer 
+
+The turret ring was slightly increased in size to accommodate the larger gun, but the size limitation of the Cromwell hull meant that the new turret would need to be much larger and taller around it. GB80 Charioteer  This gave the vehicle a much higher profile. GB80 Charioteer 
+
+Even with this size increase, stowage for the larger ammunition rounds was severely limited. GB80 Charioteer  The hull machine gunner's position was removed to provide additional stowage space for ammunition, but the vehicle still carried only 25 rounds. GB80 Charioteer  Some conventional High Explosive (HE) shells were carried, but the primary ammunition was Armour-Piercing Discarding Sabot projectiles (APDS)[2]
+
+A mixed collection of Cromwell's were upgraded, resulting in a number of variations based on the vehicle's previous format. GB80 Charioteer 
+
+Production[edit]
+See also: Cromwell tank § Production
+Building on the remaining Cromwell tanks as a basis, the tanks were converted by Robinson and Kershaw Ltd at their works in Dukinfield, Cheshire. GB80 Charioteer  While an expected production run of 630 was indicated in 1951, the production was cut short and the exact number produced is unclear. GB80 Charioteer  The first 200 were expected by March 1953 with a further 200 following in 1954. GB80 Charioteer  The actual number produced is believed to be 442. GB80 Charioteer [2][4]
+
+Service[edit]
+During development and manufacture the British Army went through two re-organisations, resulting in the tanks being reassigned to Royal Armoured Corps units of the British Territorial Army. GB80 Charioteer  These tanks replaced tank destroyers and self-propelled guns transferred from the Royal Artillery to the RAC during the re-organisation. GB80 Charioteer [2]
+
+The number of vehicles required was cut, and only a small number entered service. GB80 Charioteer  Manufacturing of the modification was halted with around 440 of 630 vehicles completed. GB80 Charioteer  Surplus vehicles were sold to Austria, Finland, Jordan and Lebanon. GB80 Charioteer  The tanks were used by a number of forces in the Middle East through instability in the region, such as the Six-Day War. GB80 Charioteer 
+
+While the vehicle was originally intended to operate with a 3-man crew, the commander's visibility from the turret was restricted during firing. GB80 Charioteer  This meant a 4th crew member was added as an external observer. GB80 Charioteer  The large size of the turret meant the vehicle was best used in a hull down position, firing over cover. GB80 Charioteer [2]
+
+Charioteer saw limited use with the British army, but saw more extensive use with overseas users in Europe and the Middle East. GB80 Charioteer  Charioteers saw action in conflicts in the Middle-East. GB80 Charioteer 
+
+Production was based on a mixed fleet of Cromwell VI, VII, VIIw and VIII vehicles of mixed hull types. GB80 Charioteer  While all were upgraded to VII standard, some hull differences remained based on the vehicle's past. GB80 Charioteer  As a result, the vehicle continued to be known as Charioteer, Mks. GB80 Charioteer  6, 7, 7w and 8 with hull types D, E and F. GB80 Charioteer 
+
+The Ordnance QF 20 pounder was upgraded during production and service, and many vehicles were fitted with the later 20 pounder featuring a symmetrical fume extractor mid-barrel. GB80 Charioteer  Those without the fume extractor were dubbed Charioteer VIIA or Model A while those with the upgrade were named Charioteer VIIB or Model B. GB80 Charioteer 
+
+In Jordanian Army use the vehicle was altered with upgraded electrically-driven turret traverse motors, and a larger commander's cupola mounting a . GB80 Charioteer 50 calibre machine gun. GB80 Charioteer  These traverse-motors were driven from a separate electrical supply. GB80 Charioteer  Different radio equipment was also fitted. GB80 Charioteer 
+
+Beyond the original requirement, further up-gunning was attempted. GB80 Charioteer  A single vehicle was upgraded with the Royal Ordnance L7 105mm gun for trials in 1969. GB80 Charioteer  It was intended for export, and did not enter service. GB80 Charioteer [2] The gun is similar in appearance and based on the original, but can be distinguished by an offset fume extractor (larger at the top). GB80 Charioteer  This vehicle survives at the East of England Tank Museum. GB80 Charioteer 
+
+|HistoricalGallery=
+image:1024px-Charioteer-latrun-2. GB80 Charioteer jpg{{!}}Charioteer at Yad La-Shiryon, Israel. GB80 Charioteer 
+File:Charioteer with L7. GB80 Charioteer jpeg{{!}}The only known Charioteer equipped with the 105mm L7
+
+
+|HistAcc=
+In reality it had -5° of gun depression
+* The Charioteer was designated as a medium tank, not a tank destroyer. GB80 Charioteer 
+* The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Charioteer entered service in 1952. GB80 Charioteer 
+* Smoke dischargers are visible on both sides of the turret, yet there is no option to use them. GB80 Charioteer 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

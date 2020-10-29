@@ -1,0 +1,84 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Best DPM among Russian heavy tanks
+* Good gun handling, aim time and accuracy for a 122mm gun
+* Extremely strong turret armor and very well armored upper glacis
+* Does not have a lower plate or other prominent frontal weakspots
+* Good mobility for a heavy tank
+
+|InTheGame_cons= 
+* Bad gun depression like most Russian tanks
+* Hull sides and rear are poorly armored
+* Can be tracked like any other tank despite having four tracks
+* One of the most hated tanks in the game - artillery, HE and premium ammo magnet
+* Can only be obtained by finishing a difficult and time-consuming campaign
+
+
+|InTheGame_performance= 
+Being one of the most futuristic appearing tanks featured in game, the Object 279e brings the breakthrough tank concept to a whole new level. R157 Object 279R  <br />
+
+It's parameters, on the first glance, appears to be something in between the IS-7 and the [[IS-4]], with a mid-large calibre gun, thick armor concentrated on the frontal arc and above average mobility & agility. R157 Object 279R  This can actually be much misleading, for that it has one distinguishing benefit off the paper: the chassis design. R157 Object 279R  Object 279e's boat-shaped hull completely remains '''above''' its 4 wide tracks. R157 Object 279R  This odd design eliminated the LFP weakspot common on most ordinary tanks, leaving only the turret cupolas somewhat viable target. R157 Object 279R  The suspension elements supporting the hull are also considered spaced armor as the tracks are, shooting through which causes no damage. R157 Object 279R  As such, instead of side-scrape technique one can "head-scrape" in the 279e: Poke the angled glacis and conceal the weaker inner side behind cover. R157 Object 279R  In this way, opponents who have either too low penetration to pen the glacis (which equal most vehicles ingame, and still many even with premium rounds) or too bad gun handling to target the cupolas will eventually perish beneath the M-62T2A gun, with the 279e barely scratched from the effort. R157 Object 279R  The thick protruding edge of the glacis can also be used as a ramming bar to some extent; just be aware that one shall keep its weight in mind. R157 Object 279R  That being said, it's still way far from invulnerability: to keep its weight in reasonable range, its sides and rear plates are far less sturdy than the IS tanks, and has no spaced armor strips to absorb poorly aim shots. R157 Object 279R  Also most likely as a compromise to its unique layout, its hull bottom plate is only '''20mm''' thick! This can be the Achilles heel against more seasoned opponents: exposing it by moving around inclination will directly negate the benefit of not having a LFP; while this pitiful thickness also takes heavy impact from HE shells landing on one's tracks. R157 Object 279R  Getting pinned to death by high RoF guns spamming HE or simply arty bombardment is highly probable. R157 Object 279R  TL;DR -- the armor on frontal arc is more than tough, just take caution abusing that. R157 Object 279R <br />
+
+Other than the outstanding survivability, its firepower is nothing to be looked down upon. R157 Object 279R  The M-62T2 may not have been new around with its just acceptable penetration and accuracy, but this one boasts improved reload rate, making its DPM comparable to those of the more nimble Chinese HTs. R157 Object 279R  The only issue is the vertical clearance: 5 degrees of depression might not be very handy in facehugs or rough terrain. R157 Object 279R <br />
+
+Despite inheriting the awful ground resistance of previous Soviet HTs, its comparatively powerful 850hp diesel engine ensured superior mobility to the cumbersome IS-4, and is roughly on par with the [[Tank:GB91 Super Conqueror|Super Conqueror]]. R157 Object 279R  One won't arrive anywhere in a blink, but it usually will do. R157 Object 279R <br />
+
+Overall, the Obj. R157 Object 279R  279e is a brilliant brawler, be it bullying meds or tricking other heavies. R157 Object 279R  It's definitely worth going through the long mission chain. R157 Object 279R 
+
+|InTheGame_research= 
+Special vehicle, comes elite in its stock configuration. R157 Object 279R 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, GLD, Coated Optics
+
+|InTheGame_Equipment_Builds=
+===== Equipment Setup: =====
+Gun Rammer is mandatory. R157 Object 279R  VStab preferrable to enhance gun handling, yet aim time isn't that long to benefit greatly from a GLD; for the 3rd slot, GLD for handling, Vents for overall performance, Optics to gain more assists or Toolbox to keep the tracks going, at one's own leisure. R157 Object 279R  <br />
+
+
+===== Crew Skills =====
+One should already have no less than 1 set of highly trained Soviet HT crew member upon obtaining the Obj. R157 Object 279R  279e, and this vehicle doesn't require other specific skills than those one would train on techtree peers, whether the IS line or the KV line. R157 Object 279R  However, note that its crew setup doesn't fit that of the IS-7's, with no 2nd loader slot (who doubles as radioman); other 3 top tier Soviet heavies all have identical crew setup. R157 Object 279R 
+
+|External_Reviews= 
+
+|History= 
+It was supposed to expand the joint work of OKBT LKZ and VNII-100 on the project of a new experimental heavy tank proposed by L. R157 Object 279R S. R157 Object 279R  Troyanov. R157 Object 279R  Conducting full-scale studies on this tank made it possible to get an answer to the question of the appropriateness of using a new chassis in promising tank building, as well as the use of such combat vehicles as special for operations in some specific areas of the country (Far North, deserts, etc. R157 Object 279R ). R157 Object 279R  . R157 Object 279R . R157 Object 279R 
+
+The general idea of ​​a new layout scheme of a heavy cross-country tank was presented by L. R157 Object 279R S. R157 Object 279R  Troyanov back in 1947-1948. R157 Object 279R  in the preliminary design of the tank "Object 726". R157 Object 279R  In this project, the overall width of the machine allowed by the conditions of railway transportation was used to accommodate a low four-track mover. R157 Object 279R  The project noted: “Using the entire width of the envelope to transfer normal loads to the ground and the presence of four identical leading track tracks allowed to place the required number of track rollers (with a small load on the roller) and reduce not only a purely normative indicator, average specific ground pressure, but and the actual specific pressure, which deforms the track and determines the depth of immersion of the tracks. R157 Object 279R  Almost the entire bottom was blocked from the bottom by the tracks,
+
+Small loads on the skating rink and a large number of them, increasing throughput and reducing the forces of resistance to movement on soft soils, at the same time contribute to an increase in ride smoothness when driving at high speeds. R157 Object 279R  The presence of four tracks increases the survivability of tanks. R157 Object 279R  In case of combat defeats of one of the independent tracks, two middle or middle and extreme neonotomous sides, the machine can continue to move and maintain controllability. R157 Object 279R  Longitudinal beams, passing along the symmetry axes of the right and left pairs of tracks, make it possible to mount a low chassis on them, which is not achieved with the usual installation of suspensions on the body. R157 Object 279R  The beams impart rigidity to the bottom and serve as a tank to accommodate the entire fuel supply, which has been completely removed from the hull to eliminate fires. R157 Object 279R 
+
+The hull is placed on top, above the low chassis, occupying again the entire permissible width of the envelope, and not its part, due to which it is possible to carry out a wide fighting compartment over its entire height, which is located between the tracks in existing heavy tanks, occupying only the remaining part, usually not exceeding half the total width. R157 Object 279R  There is the possibility of placing an increased stock of ammunition in places accessible for the charging and the implementation of automation of the loading process to increase the rate of fire. R157 Object 279R  With a large body width, the required volume is obtained at a significantly lower height, which gives a gain in booking and reduces the overall height of the car. R157 Object 279R 
+
+Reservation of the tower is also improved, since the tower can be without a tail niche, usually used to place ammunition, due to the small capacity of the hull. R157 Object 279R  The presence of a tail niche significantly increases the silhouette of the most striking upper part of the machine. R157 Object 279R  The capacity of the wide hull allows you to place the entire stock of ammunition in a less affected and more protected place, eliminating the tail niche of the tower. R157 Object 279R  "
+
+It should be noted that as early as 1948, a working model of the tank with a four-track mover in a scale of 1:10, controlled by wire, was completed. R157 Object 279R  In addition to turns and overcoming a number of obstacles (ditches, grooves, rises, etc. R157 Object 279R ), the model demonstrated the possibility of self-digging on light soils by communicating to two middle caterpillars the direction of movement opposite to the movement of the extreme caterpillars. R157 Object 279R 
+
+To check the cross-country ability and agility by the end of 1952, as a result of the joint work of VNII-100 and OKBT LKZ, they made an experimental four-track machine equipped with the necessary measuring instruments. R157 Object 279R  At the same time, it was planned to draw up a real base for creating a heavy cross-country tank and other special tracked vehicles based on it (artillery tractors, self-propelled artillery installations, heavy-duty transporters, engineering vehicles) intended for use in difficult terrain, for example, in swamps, snow and other
+
+In 1953, comparative tests of an experimental four-tracked vehicle and serial tanks ( T-54 and T-10 ) were held, which showed its clear advantage in mobility. R157 Object 279R  The new chassis made it possible to create a heavy off-road tank with a simultaneous increase in the main indicators that determined its combat qualities. R157 Object 279R  Draft studies of such a machine, carried out in accordance with the TTT project for a promising heavy tank, as well as the mock-ups of its various options, were presented to the Ministry of Transport and Heavy Engineering in March, June and November 1953. R157 Object 279R 
+
+In order to ensure high traffic of other types of vehicles on the instructions of the Deputy Minister Yu. R157 Object 279R E. R157 Object 279R  Maksarev VNII-100 completed projects of a heavy artillery tractor of high cross-country ability and a light floating armored personnel carrier with a special four-track chassis. R157 Object 279R  These projects, with all the necessary explanatory materials, were also sent to the Ministry of Transport and Heavy Engineering. R157 Object 279R 
+
+In early 1954, VNII-100 began to develop a conceptual design of a heavy tank according to a completely new layout using a four-track chassis, which provided a sharp increase in cross-country ability and a significant increase in the size of the fighting compartment. R157 Object 279R  However, due to the lack of harmonized and approved TTT for the design of such a combat vehicle, these works acquired an abstract character. R157 Object 279R  Until the end of 1954, the Institute completed only the justification of the parameters laid down in the design of the tank and continued testing the four-track experimental vehicle to study the patency, agility and resistance to movement of such a chassis in various conditions. R157 Object 279R  At the same time, the machine was loaded up to 88 tons. R157 Object 279R 
+
+|HistoricalGallery= 
+File:OBJECT 726 sketch. R157 Object 279R jpeg{{!}}Sketch of the Object 726
+File:OBJECT 726 scale model. R157 Object 279R png{{!}}Scale model of the Object 726
+File:OBJECT 726 test bed. R157 Object 279R jpeg{{!}}Object 726 test bed (left) being tested next to an IS-8/T-10 (right)
+File:OBJECT 726 test bed rear. R157 Object 279R jpeg{{!}}The rear of the Object 726 test bed
+
+|HistAcc=
+* The model in-game was known as '''Object 726''' and it had had no direct connection to the actual Object 279. R157 Object 279R  Although the design information and testing results from the Object 726 project was used as a basis for the development of the Object 279. R157 Object 279R  
+* The actual Object 279 was developed from 1957-59 and one surviving example can still befound at Kubinka Tank Museum. R157 Object 279R  The object 279 has a more disk-like hull with 269mm of maximum armour thickness, with effective armour easily surpassing 400mm. R157 Object 279R 
+
+|Ref_references=
+|Ref_sources=
+* Steven Zaloga, Peter Sarson - IS-2 Heavy Tank 1944-73, Osprey Publishing 1994 <br>
+https://warriors. R157 Object 279R fandom. R157 Object 279R com/ru/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_726
+}}

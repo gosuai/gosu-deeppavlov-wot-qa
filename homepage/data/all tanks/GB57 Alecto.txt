@@ -1,0 +1,72 @@
+{{TankData|Tank= Alecto
+|The Alecto was based on the Mk VIII Harry Hopkins light tank which was intended to succeed the [[Tetrarch]]. GB57 Alecto 
+
+The Alecto is closer to its tier 2 predecessor, the [[Universal Carrier 2-pdr]], than the [[Valentine AT]]. GB57 Alecto  This will likely come as a shock to newer players who have grown used to the Valentine AT's ponderous and resilient nature. GB57 Alecto  
+
+The Alecto has a fast top speed of 50km/h, good acceleration and an average shell damage of nearly double its contemporaries. GB57 Alecto  It pays for this with practically non-existent armor: 10mm all-around. GB57 Alecto  The open-top hull and paper-thin armor make the Alecto very vulnerable to HE and SPG shells. GB57 Alecto  This TD is perhaps the definition of "Glass Cannon". GB57 Alecto 
+
+It is speedy and maneuverable and boasts high damage output with extremely low profile. GB57 Alecto  It's most effective harassing and relocating to hit enemies in their soft sides. GB57 Alecto  The play style is similar to the [[ELC AMX]] and the [[M18 Hellcat]]; if you have had experience with those tanks you will know to avoid attracting attention while dishing out large amounts of damage. GB57 Alecto  
+
+|Gallery=
+
+|InTheGame_pros=
+* Great view range for a TD at this tier
+* Hard to detect with a small size and low profile which makes it hard to hit 
+* High damage on the 3. GB57 Alecto 7-inch AT Howitzer
+* Overall highest camouflage in the game
+* Good maneuverability and speed (between 40-45 km/h on flat terrain)
+* Good rate of fire
+* 3 viable guns
+
+|InTheGame_cons=
+* Paper-thin armor
+* Extremely vulnerable to SPGs and HE shells, can get oneshotted often
+* Poor penetration against higher tiers unless using the QF 6-pdr AT Gun Mk. GB57 Alecto  IV	
+* Relatively poor accuracy compared to the rate of fire
+* Poor penetration on 25-pdr (it's only good in tier 4 matches or lower)
+* Too low to see over walls and undulating terrain
+
+|InTheGame_performance=
+The Alecto's good speed and maneuverability allow it to move to positions where it can use its gun to quickly devastate enemies. GB57 Alecto  Its top gun, the 25-pdr howitzer, packs a big punch and a has good rate of fire. GB57 Alecto  It also has low penetration, which calls for the need to flank and relocate often when facing higher tiered opponents, and is not very accurate at range, although it is capable of making surprisingly good shots with a skilled crew and some luck. GB57 Alecto  
+
+Some players may prefer the 3. GB57 Alecto 7 inch Howitzer to the 25 pdr - the added penetration and significantly higher damage per shot can sometimes be more useful than the much improved RoF and slightly better accuracy of the 25-pdr. GB57 Alecto  Alternatively, the 6-pdr. GB57 Alecto  can be used for its superior accuracy, penetration, and dpm. GB57 Alecto  The Alecto also has very good view range, which can be used with its speed, maneuverability, and camo to spot targets to kill, or even to scout in a pinch. GB57 Alecto 
+
+The biggest downfall of the Alecto is its paper-thin armor. GB57 Alecto  It is extremely vulnerable to all kinds of enemy fire, especially artillery and HE shells. GB57 Alecto  Thus, it is important for the Alecto to make use of its low profile and good camo value to remain hidden from enemy guns. GB57 Alecto  The Alecto is not at all a front-line tank, however, it has the speed and firepower to be a great contributor to the battlefield. GB57 Alecto  If the enemy is able to detect and hit you, you are probably doing it wrong. GB57 Alecto 
+
+It should be noted that the Alecto is the last of its type in its British tank destroyer line. GB57 Alecto  The remaining British TDs in the line are heavily armored and very slow, harking back to the play style of the the Valentine AT, and as such require a complete change of tactics from the Alecto. GB57 Alecto 
+
+|InTheGame_research=
+* All guns are viable choices, making for an easy stock grind
+* The 3. GB57 Alecto 7-inch AT Howitzer and WS No. GB57 Alecto  19 Mk. GB57 Alecto  II Radio carry over from the Valentine AT. GB57 Alecto  Mount the radio immediately. GB57 Alecto  It is also possible to mount the gun, but remember that as a howitzer, it can be difficult to use. GB57 Alecto 
+* Research the OQF 25-pdr AT Gun-Howitzer Mk. GB57 Alecto  III and the Meadows H. GB57 Alecto O. GB57 Alecto P O. GB57 Alecto C. GB57 Alecto  Engine in whichever order you want. GB57 Alecto 
+* Finally, research the Alecto Mk. GB57 Alecto  IV Suspension. GB57 Alecto 
+
+|InTheGame_equipment= Enhanced Gun Laying Drive, Binocular Telescope, Coated Optics, Medium-Caliber Tank Gun Rammer, Camouflage Net
+
+
+|History= Courtesy of wikipedia:
+The Alecto was an experimental self propelled gun developed by the British during the Second World War but terminated with the end of the war in Europe. GB57 Alecto 
+
+A project for a 3. GB57 Alecto 75 inch (95 mm) howitzer was started in 1942. GB57 Alecto  Two guns were made, and one of these was chosen for test mounting on a Harry Hopkins tank chassis. GB57 Alecto  Like the Harry Hopkins, the Alecto had skid steering, which operated by bowing the tracks through lateral movements of the central road wheels. GB57 Alecto  The gun was mounted in an open-topped structure facing to the rear. GB57 Alecto  The first trials were not started until late in 1944. GB57 Alecto  The trials uncovered various problems but by the time these were solved the war in Europe was over. GB57 Alecto  With no prospect for use in the Far East, the project was ended with a total of five variants planned:
+
+    Mk I    3. GB57 Alecto 75 inch (95 mm), 20 cal howitzer
+
+    Mk II     QF 6 pdr gun
+
+    Mk III     QF 25 pounder gun-howitzer. GB57 Alecto  Prototype partially completed
+
+    Mk IV    32pdr howitzer. GB57 Alecto 
+
+    Alecto Dozer
+
+
+|HistoricalGallery=
+image:Alecto 1. GB57 Alecto jpg{{!}}Front view of the Alecto
+image:Alecto 2. GB57 Alecto jpg{{!}}Rear view of the Alecto
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

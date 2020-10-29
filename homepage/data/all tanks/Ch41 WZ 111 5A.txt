@@ -1,0 +1,134 @@
+{{TankData|Tank= WZ-111 model 5A
+|The Very first Chinese exclusive tank from Chinese server which were added to Live servers as alternate choice of Tier 10 tanks in Chinese HT line. Ch41 WZ 111 5A  Compared to [[Tank:Ch22_113|113]], It offers more reliable protection and better gun handling in exchange with lowered HP, lack of angling ability and worsened accuracy. Ch41 WZ 111 5A 
+
+|Gallery= 
+File:WZ-111 model 5A scr 1. Ch41 WZ 111 5A jpg
+File:WZ-111 model 5A scr 2. Ch41 WZ 111 5A jpg
+File:WZ-111 model 5A scr 3. Ch41 WZ 111 5A jpg
+
+|InTheGame_pros= 
+* Excellent DPM
+* Very strong turret armor and bouncy, pike-nosed frontal hull
+* Good gun depression for a Chinese tank, also good elevation
+* Excellent top speed and mobility for a heavy tank
+* Good viewrange
+
+|InTheGame_cons= 
+* Nose pike becomes very weak when improperly angled
+* Low AP (standard) penetration for its role and tier, barely better than counterpart [[113]]
+* Sluggish turret traverse
+* Low profile, can be shot at from above by taller tank
+* Frequent ammo rack, fuel tank and engine damage
+
+|InTheGame_performance= 
+{{VideoYT|y7Mp8zsUyJA}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Improved Ventilation, Vertical Stabilizer
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+''' Summary of Developed WZ-111 project '''
+
+
+Weight: 46t
+
+Main Armament: 122mm Y174
+
+Secondary Armament: 12. Ch41 WZ 111 5A 7mm AA gun & 7. Ch41 WZ 111 5A 62 coaxial machine gun
+
+Ammo capacity: 32 122mm shells
+
+500 12. Ch41 WZ 111 5A 7mm shells
+
+2500 7. Ch41 WZ 111 5A 62mm shells
+
+Engine: an engine based on V-54 design (750hp)
+
+Speed: 50km/h
+
+Hp/t ratio: 16. Ch41 WZ 111 5A 33hp/t (or 12KW/t)
+
+Ground pressure: 75. Ch41 WZ 111 5A 1 Kpa
+
+Length (Gun forward): 10. Ch41 WZ 111 5A 625 m
+
+Width: 3. Ch41 WZ 111 5A 3m
+
+Height: 2. Ch41 WZ 111 5A 497m
+
+
+After Type-59 entered mass production in 1958, the development of light tank and heavy tank became another important mission of Chinese national defense industry. Ch41 WZ 111 5A  The Central Military Committee thought in order the defeat enemy’s heavy tanks:
+
+“We not only need large numbers of light tanks, but also we need to produce some heavy tanks to defeat enemy armoured forces” (我军除了应装备大量的轻型和中型坦克以外，也应配备一定数量的重型坦克，用以对付敌人的坦克兵团或执行其他突击任务)
+
+“Heavy tank plays an important role in tank warfare, the development of heavy tanks should start as soon as possible” (重型坦克是当时装甲装备体系中的重要配套装备，为完善我军装甲装备结构，重型坦克应当尽早着手研制。)
+
+On October 19th,1960，the order to develop the WZ-111 heavy tank was given by the Committee for Science, Technology, and Industry for National Defense (国防科工委). Ch41 WZ 111 5A  The plan was revised by the Committee for Technology of Tanks (装甲兵技术部) on December 24th,1960. Ch41 WZ 111 5A  After that, the development of WZ-111 has begun. Ch41 WZ 111 5A  In March 1963, the plan was revised again by the Committee for Science, Technology, and Industry for National Defense (国防科工委). Ch41 WZ 111 5A  On June 10th 1964, final plans were made by University of Tank Technology(装甲兵工程学院). Ch41 WZ 111 5A  In 1965, one prototype (without turret) was created. Ch41 WZ 111 5A  Later in same year, the prototype of the gun and turret were made, but weren’t tested on the vehicle. Ch41 WZ 111 5A 
+
+After the prototypes were made, the testing of the vehicle was started immediately. Ch41 WZ 111 5A  The test mainly focused on the construction of the chassis and suspension in order to uncover issues of the design that weren’t anticipated by the designing engineers. Ch41 WZ 111 5A 
+
+After the test, the development was going to the next stage, but the research of main battle tank has already begun as well. Ch41 WZ 111 5A  Committee of Science, Technology, and Industry for National Defense thought that the development of new anti-tank weapon (smooth bore guns, APFSDS shells) made heavy tanks no longer important on modern battlefield. Ch41 WZ 111 5A  The development of WZ-111 was discontinued, but it became an important experience for Chinese designers and some elements of the design were used on other tanks later. Ch41 WZ 111 5A 
+
+'''Armament'''
+
+The main gun on WZ-111 is the 122mm gun Y174. Ch41 WZ 111 5A  It is based on a field gun (Type 60?), but it is hard to find any detailed information about this gun. Ch41 WZ 111 5A  But according to the 《ＷＺ１１１重型坦克设计技术任务书》 document, the fire power of the gun should be the same as the Soviet M62 tank gun. Ch41 WZ 111 5A 
+
+In addition, the gun has advanced hydraulic gun stabilizer, an autoloader (链式输弹机) (SS: from the google translation, I think it’s more like a hydraulic rammer, eg. Ch41 WZ 111 5A  not a real casette autoloader), an active illumination night vision observation device with electric rangefinder and an aiming system, that allows to hit the target at 1 kilometer accurately. Ch41 WZ 111 5A 
+
+
+
+'''Mobility'''
+
+Despite the fact the WZ-111 is a heavy tank, the mobility of the tank is still very good. Ch41 WZ 111 5A 
+
+The engine of the tank is a Chinese locally developed supercharged engine based on the Soviet V-54. Ch41 WZ 111 5A  It produces 750 hp, making it the best tank engine in China in early 1960s. Ch41 WZ 111 5A  The hp/t ratio of the tank is higher than that of Type 59 and Type 69, even just slightly lower than the one of Type 88 MBT. Ch41 WZ 111 5A  Later, the engine became the basis of WZ-122 and 68G experimental tank’s 650hp engine. Ch41 WZ 111 5A 
+
+In order to allow the tank to move on bad roads, the suspension of the tank is wide in order to reduce the ground pressure. Ch41 WZ 111 5A  As a result, the ground pressure of WZ-111 is very low, only 75. Ch41 WZ 111 5A 1 Kpa, lower than Type 59’s 79. Ch41 WZ 111 5A 6Kpa and Type 69’s 80. Ch41 WZ 111 5A 2Kpa, nearly same as the ground pressure light tanks usually have. Ch41 WZ 111 5A  As for the size, the WZ-111 isn’t very big, it can easily move in difficult terrain just like a medium tank. Ch41 WZ 111 5A 
+
+WZ-111 is also the first produced Chinese tank using hydraulic vehicle control system. Ch41 WZ 111 5A  The Hydraulic vehicle control system and Air-cooling/waste gas emission system（not sure how to translate the “废气引射冷却装置”）
+
+
+'''Protection'''
+
+I did n’t translate this part because you already know how’s the armor design of the tank. Ch41 WZ 111 5A  The thickness of the frontal lower plate is 130mm, but not well angled and it’s interesting that WZ-111 also has NBC protection and a landmine detector (but it is not very effective according to the author of the Chinese text). Ch41 WZ 111 5A 
+
+'''Conclusion'''
+
+It’s evident that there are differences between the WZ-111 1-4 in WOT and the historical WZ-111 project. Ch41 WZ 111 5A  The historical WZ-111 had a 122mm instead of the 130mm tank gun. Ch41 WZ 111 5A  It had better engine and was slightlyheavier. Ch41 WZ 111 5A  It had an autoloader and better optics as well. Ch41 WZ 111 5A  WZ-111 in WOT might be the tested prototype of WZ-111 produced in 1960s and the proposed further development plan which was designed with a 130mm gun. Ch41 WZ 111 5A 
+
+
+''The early prototype characteristics were as such'':
+
+''WZ-111 testbed (WZ-111重型坦克试验车)''
+
+Weight: about 44t
+
+Engine: 12150L (520hp) – the 750hp engine still had many technical problems when the prototype were built, so it only has a 12150L engine
+
+Speed: 35km/h
+
+Ground pressure: 71. Ch41 WZ 111 5A 9kpa
+
+Armament: the Y174 122mm and turret wasn’t finished when the vehicle was built (later the turret and gun were made and tested but unfortunately, there is no test result nor photos preserved) and since the 122mm Y174’s development progress was slow, a 130mm gun was also planned. Ch41 WZ 111 5A  Or mabe the 122mm Y174 wasn’t as good as PLA expected?
+
+
+
+|HistoricalGallery= 
+image:WZ-111 1. Ch41 WZ 111 5A jpg{{!}}WZ-111 preserved prototype - front view
+image:WZ-111 2. Ch41 WZ 111 5A jpg{{!}}WZ-111 preserved prototype - rear view
+image:WZ-111. Ch41 WZ 111 5A jpg{{!}}WZ-111 technical drawing
+image:Wz111. Ch41 WZ 111 5A jpg{{!}}WZ-111 hydraulic control system and gas emission system. Ch41 WZ 111 5A 
+
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

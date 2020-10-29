@@ -1,0 +1,96 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+[[File:/Users/alexanderlong/Desktop/strv421. S02 Strv M42 jpg|thumbnail]]
+
+[[File:/Users/alexanderlong/Desktop/strv422. S02 Strv M42 jpg|thumbnail]]
+
+|InTheGame_pros= 
+* Good AP Pen and Damage on the top gun. S02 Strv M42 
+* Tied for best gun depression of all tier 5 tanks with -15. S02 Strv M42 
+* Armor holds up against low tiers. S02 Strv M42 
+* Top engine gives the tank decent acceleration. S02 Strv M42 
+
+|InTheGame_cons= 
+* Slow reload, lackluster DPM and awful aim time
+* Low top speed and mediocre mobility for a medium tank, even with top engine
+* Below average accuracy
+* Tracks easily damaged
+* Stock gun often fails to pen many same-tier tanks, makes for a rough initial grind
+
+|InTheGame_performance= 
+This is a good tank, although is not really exceptional in any way. S02 Strv M42  The top gun is very good, but its long reload time should be taken into account. S02 Strv M42  This reload means that the tank is useless against multiple enemies. S02 Strv M42  This compared with its squishy armour and hitpoints means that it is an exceptional second line support tank, but not as good as an assault tank (unless at top tier). S02 Strv M42  The gun depression is very good, and should be used to your advantage. S02 Strv M42  
+|InTheGame_research= 
+Start with the turret, and then research the engine. S02 Strv M42  The stock gun is usable, but not reliable, whereas the stock engine is terrible. S02 Strv M42  next research the gun. S02 Strv M42  the radio and tracks are optional, as neither are needed to begin researching the next tier. S02 Strv M42 
+|InTheGame_equipment=
+Coated Optics, Improved Ventilation Class 2, Enhanced Gun Laying Drive, Binocular Telescope, Tank Gun Rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+In the mid-1930′s, after only moderate Swedish interest in their designs, Landsverk decided to start working on a medium tank for the export market. S02 Strv M42  By 1936, the first drafts were ready and the marketing process has begun. S02 Strv M42  The design was based on an upscaled version of the L-60 light tank and was fairly modern for its time – the new tank was designated “Lago” by Landsverk. S02 Strv M42  The weight of the vehicle was 15 tons, its armor was fully welded and was 34mm thick. S02 Strv M42  Armament consisted of a 47mm gun and its two 140hp engines gave the tank the top speed of 45kph, with its power to weight ratio of 18,6 hp/t. S02 Strv M42 
+
+
+The attempts to sell the vehicle continued, but little interest was shown until 1939, when Hungary decided to buy the L-60 light tank. S02 Strv M42  Hungary was also interested in a new medium tank design and contacted Škoda, Praga and Landsverk about their medium tank designs. S02 Strv M42  Landsverk received an order for one prototype to be ready by 1940, but after numerous delays and with the increasing involvement of Hungary on the Russian front, it was decided by the Hungarians that they couldn’t wait for the Swedish prototype. S02 Strv M42  Instead, the Škoda T-21 prototype was modified and turned into the M40 Turán medium tank. S02 Strv M42 
+
+Landsverk´s 18 ton Lago prototype
+
+[[File:Lago_Prototype. S02 Strv M42 jpg]]
+
+By this time, Sweden was desperately looking for a medium tank design of its own. S02 Strv M42  The Swedish force of 37mm armed light tanks was quickly becoming obsolete and because of the war, foreign designs were now mostly out of reach. S02 Strv M42  Therefore, it was decided that the Lago prototype would become the basis for the new Swedish medium tank. S02 Strv M42 
+
+In early 1941, a committee started discussing the requirements for the new tank, which was to be based on the newly completed 18 ton Lago prototype. S02 Strv M42  After a while, an agreement was reached that the tank would not be heavier than 22 tons and would have the armour of 55mm at the front and 30 at the sides. S02 Strv M42  A new turret with a new 7,5cm gun was also chosen, there were however other options discussed for armament, including a high velocity 5,7cm gun or a 10,5cm howitzer. S02 Strv M42  Pherhaps the most impressive feature was the -15dg of gun depression for the main gun. S02 Strv M42 
+
+Although the design was pretty modern when it was concieved, it was not exactly perfect. S02 Strv M42  The tank had been built disproportionately tall compared to its width to allow it to be transported easily on railroads. S02 Strv M42  This however meant that it had a small turret ring, that had a hard time carrying a bigger gun, or turret. S02 Strv M42  Another problem was the choice of armament, the short 75mm gun was not powerful enough to reliably penetrate other medium tanks from frontal angles. S02 Strv M42  The use of difficult to change torsion bars and the use of an unreliable German transmission in some models was also a major cause of problems. S02 Strv M42 
+
+Strv m/42
+
+[[File:Strv_m_42_1940s. S02 Strv M42 jpg]]
+
+In early 1943, the production of the newly designated Strv m/42 finally started. S02 Strv M42  It was produced by Landsverk and Volvo, the latter of which refused to equip the tank with the engine from their competitor, Scania, and therefore started development on their own of a more powerful engine. S02 Strv M42  In the end, the army had to point out that they could make Volvo assemble the vehicles with the Scania engine until development of the Volvo engine was complete. S02 Strv M42  Volvo reluctantly agreed and in the end, only 57 of the Strv m/42 tanks would be equipped with the 410hp Volvo engine instead of the two 162hp Scania engines. S02 Strv M42 
+
+It was realized fairly early on during the tank production that the current armament was not sufficient and therefore discussions about rearming the tank started in 1944. S02 Strv M42  Proposals were made for the lengthening of the 75mm or replacing it with the newly developed 5,7cm Pvkan m/43 anti-tank gun. S02 Strv M42  Instead of these options, it was decided to start the development on a new turret, which would be able to mount a high velocity 75mm gun. S02 Strv M42 
+
+Turret schematics
+
+[[File:Strv_m42_turret_schematics. S02 Strv M42 jpg]]
+
+Mockup turret
+
+[[File:Strv_m42_mockup_turret. S02 Strv M42 jpg]]
+
+The new turret had 60mm frontal and 30mm side armor and was armed with the 7,5cm Pvkan m/43 anti-tank gun. S02 Strv M42  But its most interesting feature was a 3 round magazine for an “automatic rammer”, that would allow the tank fire 3 rounds in short bursts. S02 Strv M42  A mock-up of the turret was made and at some point after that a functional prototype was created as well, but by 1946, the tests had bad results and the project was cancelled. S02 Strv M42 
+
+A few special variations of the Strv m/42 existed, the first of which was a command version, which carried a 70W Sv m/43 radio, which replaced the machineguns in the turret. S02 Strv M42  A total of 26 tanks were converted to this command version. S02 Strv M42  Experiments were also made with a recovery version, which was equipped with a crane, capable of lifting 12 tons. S02 Strv M42  Only two were made and both were delivered in 1944. S02 Strv M42  There were also some attempts to create a bridgelayer version, but after disastrous performance in rough terrain due to the disproportionately tall chassis, the project was cancelled. S02 Strv M42  It would later be tested again without a turret, but the results were the same and the project was cancelled once again. S02 Strv M42 
+
+BBV m/42 recovery vehicle and a Strv m/41
+
+[[File:Bbv_m42_recovery_vehicle_and_strv_m41. S02 Strv M42 jpg]]
+
+Brobv m/42 experimental bridgelayer
+
+[[File:Brobv_m42_experimental_bridgelayer. S02 Strv M42 jpg]]
+
+Strv m/42 was produced from April 1943 to January 1945 with a total of 287 units produced. S02 Strv M42  It was the most powerful tank to serve with the Swedish army from 1943 until 1953, when it was replaced with the Centurion Mk. S02 Strv M42 3. S02 Strv M42  The Strv m/42 would however continue its service until 1957, when most were rebuilt with a new turret and gun to become Strv 74, but that is a story for another time. S02 Strv M42  The rest of the vehicles was refitted with a new Ra 121 radio and some, mostly visual, changes happened as well, like the removal of the hull mounted machinegun and the addition of more equipment. S02 Strv M42  The vehicle was redesigned to Ikv 73 and was used as an infantry support vehicle until 1973. S02 Strv M42 
+
+[[File:Ikv_73. S02 Strv M42 jpg]]
+
+{{VideoYT|xVx-phkM6F4|320}}{{VideoYT|0rkCCtbCRIg|320}}{{VideoYT|Ez2uz3S76EQ|320}}
+
+|HistoricalGallery= 
+File:Stridsvagn M 42. S02 Strv M42 jpg{{!}}Stridsvagn m/42 at the Swedish Tank Museum Arsenalen
+File:Restored_strv_m42. S02 Strv M42 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S02 Strv M42 wot-news. S02 Strv M42 com/2014/04/18/swedish-tanks-part-vii-strv-m42/
+
+}}

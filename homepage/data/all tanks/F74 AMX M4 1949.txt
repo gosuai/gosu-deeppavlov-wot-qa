@@ -1,0 +1,85 @@
+{{TankData|Tank= 
+| The AMX M4 mle. F74 AMX M4 1949  49 is French tier 8 premium heavy tank. F74 AMX M4 1949  It notably differs from majority of French tanks for having impressive amount of frontal armor, but is notably less mobile than AMX 50-serie heavies or FCM 50T, while also lacking autoloader of formers. F74 AMX M4 1949  Like pretty much every French tank, M4 49 has very poor side armor, so its expectionally vulnerable to flanking. F74 AMX M4 1949 
+
+|Gallery=
+AMX M4 mle. F74 AMX M4 1949  49 scr 1. F74 AMX M4 1949 jpg
+AMX M4 mle. F74 AMX M4 1949  49 scr 2. F74 AMX M4 1949 jpg
+AMX M4 mle. F74 AMX M4 1949  49 scr 3. F74 AMX M4 1949 jpg
+
+|InTheGame_pros= 
+* Very good penetration
+* Reasonably accurate for a heavy tank when fully aimed
+* Excellent frontal turret and hull armor
+* Great gun depression
+* Decent top speed and reverse speed
+
+|InTheGame_cons=      
+* Low DPM and rate of fire
+* Poor gun handling and aim time
+* Thin side and rear armour, plus a rather large turret cupola
+* Poor ground resistance, sluggish mobility
+* Fairly bad viewrange
+
+|InTheGame_performance= 
+The armor of this untypical French tank is made for fighting much closer to the frontlines than most other French heavies. F74 AMX M4 1949  The side is too weak to stop anything and can get overmatched by some guns. F74 AMX M4 1949  Additionally, hits in the side will almost always damage the ammo rack, but the front is able to stop tier X guns with a bit skill and luck. F74 AMX M4 1949  Keep in mind that the commander's cupola is extremely vulnerable. F74 AMX M4 1949  It's armor is so weak that even a glancing hit will penetrate. F74 AMX M4 1949  It is recommended to angle the front from corners instead of sidescraping, somewhat like with Japanese heavies. F74 AMX M4 1949  The gun is decent, and is similar to the gun on the [[AMX 50 100]], sans the autoloader. F74 AMX M4 1949  Mobility-wise, it's not as impressive as the other high-tier french vehicles, but it's mobile enough to get to the action on time. F74 AMX M4 1949  It's still vulnerable to being flanked however, due to its poor hull, tall profile and very weak side armor. F74 AMX M4 1949  M4 49 is best at mid-ranges, where its gun is still accurate enough to hit enemies while its armor is even harder to penetrate as well as the cupola being harder to hit. F74 AMX M4 1949 
+
+Overall, this tank plays much more like a [[Caernarvon]] than typical French tank. F74 AMX M4 1949  Players who are fans of more conventional heavy tanks will probably enjoy this over the other French heavies. F74 AMX M4 1949 
+
+
+|InTheGame_research= 
+Being a premium tank, research is not required. F74 AMX M4 1949 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 2, Improved Ventilation
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+(See the [[AMX M4 mle. F74 AMX M4 1949  45]] history for the first part of this article)
+
+The AMX M4 project remained still for almost all of 1946. F74 AMX M4 1949  This is directly connected with the ARL 44 entering trials in March of that year. F74 AMX M4 1949  The first French post-war tank was late for almost a year, and trials showed that the vehicle needs extensive improvements. F74 AMX M4 1949  These trials couldn't have left the new tank unaffected. F74 AMX M4 1949  Sadly, the details of the trials are still unknown, but judging by the upcoming metamorphosis, the vehicle's stability was questioned. F74 AMX M4 1949 
+
+[[File:AMX_M4_1947_Blueprints. F74 AMX M4 1949 jpg]]
+
+Improved AMX M4 hull, blueprint dated January 17th, 1947
+
+Work on the prospective heavy tank restarted by the end of 1946. F74 AMX M4 1949  The first results were demonstrated by AMX engineers in early 1947. F74 AMX M4 1949  The concept of a 50 ton medium tank did not change. F74 AMX M4 1949  The high power 90 mm gun and the turret that it was installed in remained unchanged. F74 AMX M4 1949 
+
+The main difference was in the tank's chassis. F74 AMX M4 1949  The hull was lengthened from 6705 to 7413 mm due to an increased size of the driver's compartment. F74 AMX M4 1949  Thanks to this, the driver and radio operator received proper hatches in the hull roof. F74 AMX M4 1949  The longer hull also resulted in another road wheel being added. F74 AMX M4 1949  The upper front plate also received sloped cheeks, increasing the odds of a ricochet. F74 AMX M4 1949 
+
+[[File:AMX_M4_hull_armor. F74 AMX M4 1949 jpg]]
+
+Various variants of the tank's armour were proposed. F74 AMX M4 1949  With a 120 mm thick front, the tank's mass would be 55. F74 AMX M4 1949 5 tons. F74 AMX M4 1949  Because of this, the thick armour was rejected. F74 AMX M4 1949 
+
+This decision wasn't caused by excessive concern for the driver and radio operator. F74 AMX M4 1949  Diagrams indicate that this was the designers' method of improving the center of mass. F74 AMX M4 1949  On the initial design, the turret was shifted forward, which could negatively impact the load on the road wheels. F74 AMX M4 1949 
+
+On the other hand, at what cost was this optimal weight achieved? The front armour was reduced to 80 mm, and even then the estimated mass of this medium tank was 54 tons. F74 AMX M4 1949  A variant with 120 mm of armour that would increase the mass by only 1. F74 AMX M4 1949 5 tons was also explored, but it did not go further than just theory. F74 AMX M4 1949  The 80 mm front armour was finally approved. F74 AMX M4 1949 
+
+[[File:AMX_M4_1949_Blueprints. F74 AMX M4 1949 jpg]]
+
+The AMX M4 looked like this in 1949. F74 AMX M4 1949  The project became more and more similar to the German Tiger II. F74 AMX M4 1949 
+
+In 1947-48, the project was evaluated and re-evaluated in every conceivable way. F74 AMX M4 1949  By the beginning of 1949, designers were forced to admit that 54 tons was not the limit. F74 AMX M4 1949  According to revised estimates, the tank's mass was 54. F74 AMX M4 1949 6 tons, 13 of which were for the turret. F74 AMX M4 1949  The size of the new tank caught to to, and then exceeded, the Tiger II. F74 AMX M4 1949  Meanwhile, its armour was thinner than that of the Panther. F74 AMX M4 1949  Several variations of the AMX M4 were planned, including ones with much thicker armor. F74 AMX M4 1949  Of 
+
+The solution of the center of mass problem wasn't the end of this journey, but only one episode. F74 AMX M4 1949  1949 brought radical changes to the design including an oscillating turret, culminating in the AMX 50 project. F74 AMX M4 1949 
+
+|HistoricalGallery= 
+File:AMX_M4_1949_Blueprints. F74 AMX M4 1949 jpg{{!}}Blueprint of the AMX M4 1949
+File:AMX_Char_M4_Etudes. F74 AMX M4 1949 jpg{{!}}Blueprint of one variant of the AMX M4, designated "AMX CHAR M4 ETUDES"
+File:AMX_M4_49_with_thicker_armor. F74 AMX M4 1949 jpg{{!}}Blueprint of variant with two layers of armor, designated "AMX CHAR M4 ESSAIS (Etudes)"
+File:AMX_M4_49_with_absurdly_thick_armor. F74 AMX M4 1949 jpg{{!}}Blueprint of variant with 280mm thick armor
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://www. F74 AMX M4 1949 chars-francais. F74 AMX M4 1949 net/2015/index. F74 AMX M4 1949 php/liste-chronologique/de-1945-a-1990?task=view&id=20
+* https://tankarchives. F74 AMX M4 1949 blogspot. F74 AMX M4 1949 com/2016/03/amx-50-five-years-of-trial-and-error. F74 AMX M4 1949 html
+* https://warspot. F74 AMX M4 1949 ru/5054-pyatiletka-prob-i-oshibok Original article in Russian
+* https://thearmoredpatrol. F74 AMX M4 1949 com/2015/09/23/french-heavy-branch-proposal/
+
+}}

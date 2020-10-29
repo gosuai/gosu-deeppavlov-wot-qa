@@ -1,0 +1,151 @@
+{{TankData|Tank=AMX38
+|It has excellent armor for its tier and the angular turret and hull are effective in causing shots to bounce. F13 AMX38  This tank is best played as a front line heavy tank, bouncing hits and using your DPM to your advantage. F13 AMX38  Like other low tier French tanks, it has a low top speed and poor gun handling characteristics. F13 AMX38   The upgraded engine only adds 10 additional horsepower and does little to mitigate the problem. F13 AMX38 
+
+It starts with the 37 mm SA38 which has serviceable penetration and handling for a stock gun. F13 AMX38   The first "upgrade", the short-barreled 47 mm SA34, offers worse accuracy and abysmal penetration for a small increase in damage and should be avoided. F13 AMX38   It is best to upgrade to the quick firing 25 mm Raccourci or the 47 mm SA35 - the latter is an essential module in the AMX 40 tree. F13 AMX38 
+
+|Gallery=
+
+|InTheGame_pros=
+* Very well armored
+* Oddly shaped turret will confuse people on where to fire
+* Diesel engine - has a reduced chance of engine fire
+* 25 mm cannon is quick firing, accurate (relatively), and fast aiming, though having less damage per round
+* 47 mm SA35 has decent damage for the tier
+
+|InTheGame_cons=
+* Slow
+* Extremely poor gun depression on the 25 mm Raccourci; also loses the gun mantlet with this gun
+* Poor rate of fire, accuracy, and aiming time on the 47 mm SA35
+* Almost completely useless in a Tier 5 battle
+* Below average view range, signal range, and hitpoints
+
+|InTheGame_performance=
+
+The AMX 38 performs almost exactly like its child, the AMX 40. F13 AMX38   Slow and lumbering with excellent armor and halfway decent firepower, the AMX 38 can, given the right team, in a top tier match, give you the feeling that you're playing a heavy. F13 AMX38   If you're at the top, play like a heavy, as your armor can take the hits as a general rule, and most tanks below you will most assuredly bounce their shots. F13 AMX38   Take extreme care if you're at the bottom and there are Tier 4s in the battle with you. F13 AMX38   Be mindful of attacking in uneven terrain, as the below average gun depression even with the SA35 may hinder your ability to hit a target. F13 AMX38   Also be mindful even in Tier 3 games of enemy tank destroyers, as most will not have any problems with your armor. F13 AMX38 
+
+For its tier the AMX 38 is superior to the AMX 40 in nearly every way, with a high enough HP/ton to actually keep it at its top speed, guns more capable at its own tier, and no frontal weakspot. F13 AMX38   In that regard the AMX 38 generally won't be nearly as ineffective or a pain to play as the AMX 40. F13 AMX38   In most regards though they play very much alike, with minor upgrades to HP, armor, and armament. F13 AMX38 
+
+|InTheGame_research=
+* The 25 mm Canon Raccourci mle. F13 AMX38  1934 and ER 53 radio carry over from the [[Hotchkiss H35]] and can both be mounted immediately. F13 AMX38 
+* First, research the AMX 38 série suspension. F13 AMX38 
+* Depending on whether you want more firepower or more speed, research either the 47 mm SA34 gun, followed by the 47 mm SA35 gun, or the Aster M engine. F13 AMX38   Since the top engine only has 10 more horsepower than the stock, it is probably better to research the guns first. F13 AMX38 
+
+|InTheGame_equipment=
+Camouflage Net, Binocular Telescope, Small Spall Liner, Coated Optics, Enhanced Gun Laying Drive, Improved Ventilation Class 1
+
+|History=
+
+Apart from the companies Hotchkiss, Renault and FCM, AMX too participated in the program to create the next generation light tank for the French army. F13 AMX38  Atelier de Construction d’Issy-les-Moulineaux (AMX for short) was located south of Paris – it consisted of the former Renault tank plant, nationalized in 1936 and was the last company to enter the competition. F13 AMX38  Their tank project, later recieving the designation of AMX 38, was introduced in July 1937. F13 AMX38 
+
+[[image:Amx38_1. F13 AMX38 jpg]]
+
+The main idea behind the tank, as concieved by its designers during the project stage, was to increase the vehicle mobility, all the while keeping the light anti-shell armor (40mm) the same and the weight increase to a minimum. F13 AMX38  The first prototype weighed 13,5 tons (heavier than another project of the same program, FCM 36, by 1,15 tons) – this weight did later make some historians to in fact designate this tank as a medium vehicle. F13 AMX38 
+
+
+On the other hand, even with the 100 horsepower CLM diesel, assumed by the initial project, the dynamics of the AMX 38 only slightly surpassed the ones of the FCM 36 (power-to-weight ratio of 7,4 hp/t, compared to FCM’s 7,36). F13 AMX38  As for the built vehicle however, that one was equipped with a 130hp Aster engine, increasing the power-to-weight ratio to 9,62 hp/t. F13 AMX38  By that increase, this perspective tank surprassed its entire competition (Renault R 35 with its 7,73, Hotchkiss H 35 with its 7,07 and Hotchkiss H 39 with its 9,3 hp/t). F13 AMX38 
+
+
+The initial project counted on the installation of the 37mm SA18 gun (the same gun as FT-17, R 35, H 35 and FCM 36 had) and the first project variant (drawing 0-190 from 23. F13 AMX38 3. F13 AMX38 1939) assumed the installation of the APX-R turret. F13 AMX38  However, as early as June 1938, the turret was already replaced by a design of AMX’s own making, somewhat resembling the turret of FCM 36. F13 AMX38  The armament remained the same, as can be seen on the 0-190 drawing from 10. F13 AMX38 10. F13 AMX38 1938. F13 AMX38 
+
+
+
+AMX 38 drawing 0-190 from 10. F13 AMX38 10. F13 AMX38 1938
+
+[[File:AMX_38_drawing_0-190_from_10. F13 AMX38 10. F13 AMX38 1938. F13 AMX38 jpg]]
+
+
+
+AMX 38 with APX-R turret, drawing 0-190, 23. F13 AMX38 3. F13 AMX38 1939
+
+[[File:AMX_38_with_APX-R_turret,_drawing_0-190,_23. F13 AMX38 3. F13 AMX38 1939. F13 AMX38 jpg]]
+
+
+
+Side view and suspension schematics, drawing 0-155, 13. F13 AMX38 6. F13 AMX38 1938. F13 AMX38 
+
+[[File:Side_view_and_suspension_schematics,_drawing_0-155,_13. F13 AMX38 6. F13 AMX38 1938. F13 AMX38 . F13 AMX38 jpg]]
+
+
+
+Hull, drawing 0-250, 3. F13 AMX38 4. F13 AMX38 1939
+
+[[File:Hull,_drawing_0-250,_3. F13 AMX38 4. F13 AMX38 1939. F13 AMX38 jpg]]
+
+
+
+The first prototype of the AMX 38, built by the end of 1939, differed in a lot of ways from the initial project. F13 AMX38  The vehicle with the registration number W 0231 was equipped with a 37mm SA38 gun, paired with a 7,5mm MAC Mle. F13 AMX38 1931 machinegun. F13 AMX38  Like other French light tanks, AMX 38 had a “tail” mounted on the rear side of the hull, its purpose being to help the vehicle cross infantry trenches. F13 AMX38 
+
+
+
+[[image:Amx38_05. F13 AMX38 jpg]]
+
+
+
+[[image:Fra-CharAMX38-LightTank. F13 AMX38 jpg]]
+
+
+
+[[File:AMX_38_rear_view. F13 AMX38 jpg]]
+
+
+
+The maximum speed of this vehicle was 25 km/h. F13 AMX38  This was not exactly the fastest vehicle on the battlefield, but on the other hand, it was completely sufficient for its intended role of supporting advancing infantry. F13 AMX38  In the end however, the prototype was not regarded as something that should be mass-produced. F13 AMX38  The AMX 38 was behind other contemporary French tanks both in armor and armament. F13 AMX38  As such, the AMX company continued to work further and as early as December 1939 a new vehicle began to take shape in the form of Char Leger Serie, or CLS (something like “serial (mass-produced) light tank”). F13 AMX38  It’s sometimes being called the AMX 39, but this designation is not very correct, as the vehicle continued to be developed well into the spring of 1940. F13 AMX38 
+
+
+Char Leger Serie, drawing 0-326, 11. F13 AMX38 12. F13 AMX38 1939
+
+[[File:Char_Leger_Serie,_drawing_0-326,_11. F13 AMX38 12. F13 AMX38 1939. F13 AMX38 jpg]]
+
+
+
+Improved AMX 38 hull, drawing 0-395, 14. F13 AMX38 3. F13 AMX38 1940
+
+[[File:Improved_AMX_38_hull,_drawing_0-395,_14. F13 AMX38 3. F13 AMX38 1940. F13 AMX38 jpg]]
+
+
+
+Gun, mounted in a modernized AMX 38 turret, drawing 0-339, 27. F13 AMX38 12. F13 AMX38 1939
+
+[[File:Gun,_mounted_in_a_modernized_AMX_38_turret,_drawing_0-339,_27. F13 AMX38 12. F13 AMX38 1939. F13 AMX38 jpg]]
+
+
+
+The first significant difference between the CLS and the AMX 38 was the installation of the 47mm SA35 gun, replacing the older 37mm. F13 AMX38  With such a gun, the tank became significantly more dangerous to its enemies, including any German tank of that period. F13 AMX38  Additionally, the frontal turret and hull armor was increased to 60mm, making the standard German 37mm PaK practically useless against this vehicle. F13 AMX38 
+
+
+Of course, this reflected on the vehicle's weight, that grew to 16,5 tons. F13 AMX38  The suspension also had to be reworked and the vehicle was planned to run with a more powerful engine (also Aster) of 160 horsepower. F13 AMX38  Thanks the the new engine, the power-to-weight ratio also grew a bit to 9,69 hp/t. F13 AMX38  The ending result was a light infantry tank, roughly equal to the British Valentine – not very fast, but well armored with a gun to match. F13 AMX38  True, the old flawed concept of one man turret, where the commander is also the gunner, loader and radioman would have impaired its effectiveness. F13 AMX38  But that’s all just a speculation, as no prototype of this improved AMX 38 was ever built. F13 AMX38 
+
+|HistAcc=
+
+* The AMX 38 in-game has the model of the prototype AMX 38, while having the heavier weight, more powerful engine, stronger gun, and thicker armor of the improved CLS version of the AMX 38
+* The AMX 38 was never planned to have the 47 mm SA34 or the 25 mm Canon Raccourci mle. F13 AMX38  1934
+** The 47 mm SA35 would have required the upgraded turret of the CLS version of the AMX 38
+
+|HistoricalGallery=
+image:Amx38_05. F13 AMX38 jpg{{!}}The prototype AMX 38
+image:Amx38_1. F13 AMX38 jpg{{!}}AMX 38
+image:Amx38. F13 AMX38 jpg{{!}}AMX 38
+image:Fra-CharAMX38-LightTank. F13 AMX38 jpg{{!}}AMX 38
+File:AMX_38_rear_view. F13 AMX38 jpg{{!}}AMX 38
+File:AMX_38_drawing_0-190_from_10. F13 AMX38 10. F13 AMX38 1938. F13 AMX38 jpg{{!}}AMX 38 drawing 0-190 from 10. F13 AMX38 10. F13 AMX38 1938
+File:AMX_38_with_APX-R_turret,_drawing_0-190,_23. F13 AMX38 3. F13 AMX38 1939. F13 AMX38 jpg{{!}}AMX 38 with APX-R turret, drawing 0-190, 23. F13 AMX38 3. F13 AMX38 1939
+File:Side_view_and_suspension_schematics,_drawing_0-155,_13. F13 AMX38 6. F13 AMX38 1938. F13 AMX38 . F13 AMX38 jpg{{!}}Side view and suspension schematics, drawing 0-155, 13. F13 AMX38 6. F13 AMX38 1938. F13 AMX38 
+File:Hull,_drawing_0-250,_3. F13 AMX38 4. F13 AMX38 1939. F13 AMX38 jpg{{!}}Hull, drawing 0-250, 3. F13 AMX38 4. F13 AMX38 1939
+File:Char_Leger_Serie,_drawing_0-326,_11. F13 AMX38 12. F13 AMX38 1939. F13 AMX38 jpg{{!}}Char Leger Serie, drawing 0-326, 11. F13 AMX38 12. F13 AMX38 1939
+File:Improved_AMX_38_hull,_drawing_0-395,_14. F13 AMX38 3. F13 AMX38 1940. F13 AMX38 jpg{{!}}Improved AMX 38 hull, drawing 0-395, 14. F13 AMX38 3. F13 AMX38 1940
+File:Gun,_mounted_in_a_modernized_AMX_38_turret,_drawing_0-339,_27. F13 AMX38 12. F13 AMX38 1939. F13 AMX38 jpg{{!}}Gun, mounted in a modernized AMX 38 turret, drawing 0-339, 27. F13 AMX38 12. F13 AMX38 1939
+
+
+|Ref_references=
+
+
+|Ref_sources=
+Jean-Pierre VALANTIN
+
+|Ref_links=
+
+* [https://www. F13 AMX38 chars-francais. F13 AMX38 net/2015/index. F13 AMX38 php/liste-chronologique/de-1930-a-1940?task=view&id=797 '''<i>1937 CHAR AMX 38 at chars-francais. F13 AMX38 net</i>'''] Photos, specs, and brief history in French. F13 AMX38 
+* https://ftr. F13 AMX38 wot-news. F13 AMX38 com/2015/03/02/the-development-of-amx-38/
+* https://yuripasholok. F13 AMX38 livejournal. F13 AMX38 com/4302315. F13 AMX38 html
+
+}}

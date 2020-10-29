@@ -1,0 +1,140 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:Skoda T 40 scr 1. Cz01 Skoda T40 jpg
+File:Skoda T 40 scr 2. Cz01 Skoda T40 jpg
+File:Skoda T 40 scr 3. Cz01 Skoda T40 jpg
+
+
+|InTheGame_pros= 
+
+* Excellent DPM, good alpha damage per shot
+* Good top speed and acceleration
+* Good view range and signal range
+* Good AP (standard) and great HEAT (premium) penetration
+* Decent accuracy and aim time
+* Good credit maker
+*HE shells have a higher velocity than regular AP rounds
+
+|InTheGame_cons= 
+
+* Large size and bad camouflage values
+* Very poor armor
+* Frequent module/crew damage
+* Poor 'hidden' dispersion values
+* Bad gun depression
+
+|InTheGame_performance= 
+
+This tank has to be played cautiously as its armour is wholly inadequate and it is prone to crew and module damage, which it has in common with most Czech medium tanks. Cz01 Skoda T40  Furthermore, it's slow traverse speed and low rate of fire make it unsuitable for dogfighting. Cz01 Skoda T40  In addition, the gun has a tendency to miss unless fully aimed, making it unreliable when taking snap shots. Cz01 Skoda T40 
+Instead, it should be used as a medium range sniper and flanking medium, using its superior speed to get into an advantageous position and to retreat when necessary. Cz01 Skoda T40  
+
+
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer,GLD,Improved Ventilation Class 2,Binocular Telescope,"Wet" Ammo Rack Class 1
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+In Czechoslovakia’s history, their armored vehicle industry production was considered as one of the fastest in the world, but not well known by the rest of the world at the time. Cz01 Skoda T40  It was the first year post-war, when the Czechoslovakia Defense Security led the work on the creation of their own armored vehicles and weapons based on their experience gathered during the German occupation for their tests and new developments. Cz01 Skoda T40 
+
+Most of the development projects were very interesting & useful-looking to begin  production with, but for particular reasons, including economic and political nature, they couldn’t start a series production, not even reaching the prototype stage. Cz01 Skoda T40  Nevertheless, they represented an important aspect for the future armored vehicle engineering. Cz01 Skoda T40  It’s worth noting, that tanks and self-propelled guns developed in Czechoslovakia were quite advanced than most of their neighbor countries at the time, but obviously still far below than the other countries known for their higher quality of armored vehicle industry production, such as United States of America, Great Britain, and the Soviet Union. Cz01 Skoda T40  As a result, returning its former glory as one of the leading power of the most advanced armored vehicle production failed, although that didn’t prevent Czechoslovakia to regain its status as one of the leading exporters of arms and military equipments. Cz01 Skoda T40 
+
+Currently, the only source of information available regarding post-war Czechoslovakian military industry is the book created by Martin Dubanek. Cz01 Skoda T40  His book is dedicated to the Czechoslovakian arms and military equipment ranging from 1945-1955. Cz01 Skoda T40  Unfortunately, the book had a lot of factual errors, including the history of Czechoslovakia’s future tanks. Cz01 Skoda T40  But thanks to the work of Yuri Tintery (Jiří Tintěra), one of the leading Czech historians, some of these errors were able to be fixed to make it as precise as the history record. Cz01 Skoda T40 
+
+One of the errors was very terrible, involving the tanks from the TVP tank series (Czech for Tank Všeobecného Použití / Main Battle Tank). Cz01 Skoda T40  Work on this project begun in October 1945 and lasted until 1952. Cz01 Skoda T40  As a result, instead of a series of  original TVP tanks, the T-34-85 was listed as the first series of the (production) line, and then the T-54. Cz01 Skoda T40  However, the middle part of this TVP development had been quite corrected. Cz01 Skoda T40  But again, there were particular reasons that made it impossible to put in service. Cz01 Skoda T40  In the meanwhile, TVP tank series provided from Martin Dubanek’s book included a tank that actually participated in a competing project. Cz01 Skoda T40  TVP project was developed by VTU (Vojenský Technický Ústav), and the tank that was attributed to the one of the TVP tank series, in fact, had a T-index in front of the Number 40, and was also developed by Škoda, also known as the Škoda T 40 project. Cz01 Skoda T40 
+
+[[File:Skoda_T_40_project_manual_cover. Cz01 Skoda T40 jpg|thumb|500px]]
+
+
+Technical requirements adopted by Škoda T 40 were pretty much repeated along with the one adopted by TVP. Cz01 Skoda T40  Frontal hull with 65 mm armor thickness, 88 mm high velocity gun as the main armament, a crew consisting of 5 tank operators, and top speed of 50 km/h. Cz01 Skoda T40  Although the specifications from both vehicles were identical, some of the numbers were different. Cz01 Skoda T40  By the time the VTU project sketch was more conceptual, Škoda offered a better project with more specifications of the vehicle and its structure too. Cz01 Skoda T40  Specifications table for the T 40 can be inspected here: [https://forum. Cz01 Skoda T40 valka. Cz01 Skoda T40 cz/topic/view/179787/CZK-Skoda-T-40 CZK – Škoda T 40 (Czech)]
+
+[[image:Vha_fl-vtu-1947_kl-015_sl-15671_str-013. Cz01 Skoda T40 jpg]]
+
+Design-wise, the TVP and T 40 were identical in many aspects, including their frontal hull shape and characteristics, tank treads with 6 road wheels and 3 return rollers for each side. Cz01 Skoda T40  But it was not for long, when both tanks were proposed to mount a tandem installation (meaning bi-mount) of a main gun and flamethrower, which Škoda engineers refused. Cz01 Skoda T40  Also, both tanks used different types of suspensions, where TVP used a leaf spring suspension while T 40 used a torsion bar suspension. Cz01 Skoda T40  Furthermore, the TVP project and its schematics raised many questions among the engineers, while the Škoda T 40 project was deemed sufficient. Cz01 Skoda T40  Moreover, the tank was also identical with the previous Czechoslovakian tanks. Cz01 Skoda T40 
+
+[[File:T_40_suspension. Cz01 Skoda T40 jpg]]
+
+The power plant specifications of the TVP development required it to achieve enough power-to-weight ratio at 20 hp/ton, in the meanwhile the Škoda engineers have managed to find a way to solve this: an X-shaped air-cooler diesel Škoda 16ADH140 700 hp engine running at 2000 RPM. Cz01 Skoda T40  the TVP had a combat weight at about 33 tons, while the T 40 had a more heavier combat weight at exactly 40 tons, coincidentally matched with the Škoda’s tank designation number. Cz01 Skoda T40  The required power plant specifications of the tank’s power-to-weight ratio was supposedly enough for speeds designed up to 50 km/h. Cz01 Skoda T40 
+
+[[File:T_40_Cannon. Cz01 Skoda T40 jpg]]
+
+Although, the biggest difference from both tanks was their turret design. Cz01 Skoda T40  The VTU turret schematic designed for the TVP was quite complex, with curved sides, a V-shaped frontal turret, and a narrow gun mantlet adopted from the Krupp Schmalturm turret schematics for the 8. Cz01 Skoda T40 8 cm L/71 gun mount. Cz01 Skoda T40  Ironically, as early as February 1946, it was the same gun to be installed on the TVP (it was designated as 8. Cz01 Skoda T40 8 cm k. Cz01 Skoda T40 p. Cz01 Skoda T40 l. Cz01 Skoda T40 vz. Cz01 Skoda T40 41). Cz01 Skoda T40  As for Škoda, their engineers offered a more advanced turret schematic, which was also similar with the more successful combinations of Krupp turret designs. Cz01 Skoda T40  This is normal though, especially given the fact that Škoda even managed to build some of the Tiger II’s turrets, and was actively working with a number of German defense plants and design bureaus at the time. Cz01 Skoda T40  The gun mantlet was also adopted from the Krupp Schmalturm turret, just like the TVP design. Cz01 Skoda T40  As for the weapon, T 40 used a 8. Cz01 Skoda T40 8 cm L/56, or to be exact, the German 8. Cz01 Skoda T40 8 cm KwK 36 L/56 without a muzzle brake, and the coaxial machine gun was a ZB-37 Czechoslovak machine gun. Cz01 Skoda T40  Overall, the base turret design was native to German design engineering. Cz01 Skoda T40 
+
+In general, the engineers at Škoda developed a thoroughly modern design, which had only one drawback – it was inadequate for the time (Soviet occupation and such). Cz01 Skoda T40  In comparison with a T-34-85, it has less armor than the Soviet counterpart. Cz01 Skoda T40  The tank is not a copy of German or Soviet tanks, but instead the Škoda has its own style. Cz01 Skoda T40 
+
+Dimensions:
+
+Length – gun forward: 9060mm
+Hull length: 6700mm
+Width: 3200mm
+Height: cca 2800mm
+Clearance: 450mm
+
+Sprocket diameter: 666mm
+Number of drive sprocket teeth: 16
+Frontal wheel diameter: 500mm
+Roadwheel diameter: 750mm
+Roadwheel rubber banding thickness: 130mm
+Suspension: torsion bars
+
+Track width: 700mm
+Number of links per track: 110
+Length of the track segment touching the ground: 4600mm
+Ground pressure: 60,8 kPa (0,62 kg/cm2)
+
+
+Engine: 16ADH140 diesel
+Engine volume: 33,25 liter
+Compression: 1:16,5
+Engine power: 700 hp at 2000 RPM
+Fuel consumption: 220 grams of fuel per horsepower per hour
+Transmission: 5F/5R
+Maximum speed: 6 to 50 km/h
+Operating range offroad: 200 km
+Operating range on road: 250 km
+
+Maximum trench length to traverse: 2,3m
+Maximum obstacle height to traverse: 0,9m
+Fording depth: 1,3m
+Maximum slope to traverse: 45 degrees
+
+Armor – frontal hull: 65mm
+Armor – hull sides: 40-30mm
+Armor – rear: 30mm
+Armor – bottom: 20mm
+Armor – hull deck: 15mm
+
+Armor – turret front: 65mm
+Armor – turret side: 40mm
+Armor – turret rear: 40mm
+Armor – turret roof: 20mm
+
+Armament: 88mm L/56 (in original document, it’s L/57) Vz. Cz01 Skoda T40 36N (captured, Tiger I gun)
+Armament – secondary: 1 x 7,92mm Vz. Cz01 Skoda T40 37 MG
+Armament – tertiary: grenade launcher on the roof (unspecified type)
+
+|HistoricalGallery= 
+image:Vha_fl-vtu-1947_kl-015_sl-15671_str-013. Cz01 Skoda T40 jpg
+
+|Ref_references=
+
+|Ref_sources=
+* VHA Praha, FL: VTÚ 1947, KL: 15, SL: Čj. Cz01 Skoda T40  15671 Taj. Cz01 Skoda T40 
+* Tabulky SI, ČSN 01 1300, vyd. Cz01 Skoda T40  ÚNM, Praha 1977
+
+|Ref_links=
+* https://ftr. Cz01 Skoda T40 wot-news. Cz01 Skoda T40 com/2015/02/13/skoda-t-40-combat-vehicle-archive-drawing/
+* https://ritastatusreport. Cz01 Skoda T40 blogspot. Cz01 Skoda T40 com/2015/08/t-40-characteristics-and-commentary-by. Cz01 Skoda T40 html
+* https://thearmoredpatrol. Cz01 Skoda T40 com/2015/06/25/development-of-the-skoda-t-40/
+* https://yuripasholok. Cz01 Skoda T40 livejournal. Cz01 Skoda T40 com/4792812. Cz01 Skoda T40 html (Russian)
+
+}}

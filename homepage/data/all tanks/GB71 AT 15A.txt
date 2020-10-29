@@ -1,0 +1,60 @@
+{{TankData|Tank=AT 15A
+|It was the first British tank destroyer to be added to the game. GB71 AT 15A   Nicknamed the "AT-AT", this tank is a slow moving warehouse, as such, it has good frontal defense like the [[Ferdinand]] and carries a fast-firing gun. GB71 AT 15A   While its alpha damage is very low, its reload time and accuracy ensure that no opponent wants to stay in your line of fire and risk being punctured to death. GB71 AT 15A   
+The AT 15A received a buff in patch 9. GB71 AT 15A 4. GB71 AT 15A 
+
+
+|Gallery=
+
+
+|InTheGame_pros= 
+* Decent hit points and armor
+* Good rate of fire, accuracy, gun depression and gun traverse arc
+* Preferential matchmaking (tier 8 maximum)
+* gun shield is much stronger than normal AT 15(304+mm)
+
+|InTheGame_cons=
+* Very low top speed and slow turning: very susceptible to being flanked
+* Roof-mounted machine gun turret is an obvious weakspot (still ~150mm though)
+* Prone to ammo rack damage, loader dies often (when hit in the machine gun weakspot on roof)
+* Low gun caliber and poor alpha damage is very lacking for its tier, so is penetration (at least not the worst)
+
+
+ 
+
+
+
+
+|InTheGame_performance=
+
+The high frontal armor, while sporting great-looking stats, is tempered by a huge weakspot in both the large frontal plate below the gun and also the gun slit. GB71 AT 15A  The effective armour of the frontal plate can be vastly improved through angling the tank and the gun slit is pretty hard to hit. GB71 AT 15A  When properly angled, the front armor can bounce most rounds from Tier 7 and many Tier 8 tanks. GB71 AT 15A  The wide gun traverse helps greatly with angling. GB71 AT 15A 
+
+The gun is very accurate but rather weak in terms of penetration and damage. GB71 AT 15A  Knowing weakspots on enemy tanks is crucial for having  success with this tank, as many opponents cannot be penetrated without hitting a weakspot. GB71 AT 15A 
+
+Unfortunately, the AT 15A is slow and unmaneuverable, making it easy prey for artillery and flankers. GB71 AT 15A   The high armor on the sides and rear will save you from scouts and some Tier 5 to 6 mediums. GB71 AT 15A  As the ammo rack is easily damaged it's recommended to train repairs and save the repair kit for ammo rack damages or crucial situations (tracked in close combat etc. GB71 AT 15A ). GB71 AT 15A 
+Keep your enemies in front of you and at a distance and always travel with allies so they can hold off flankers. GB71 AT 15A  Also, use hard cover whenever possible, as artillery can seriously cripple you. GB71 AT 15A 
+
+The income generation for the AT 15A is poor and worse than E25. GB71 AT 15A  Poor penetration on its gun forces players to use premium rounds excessively and its poor mobility doesn't allow it to engage in battles early. GB71 AT 15A 
+
+
+|InTheGame_research=
+
+
+|InTheGame_equipment= Tank Gun Rammer, Spall Liner, Vents, Coated Optics
+
+
+
+|History=The AT-15 was a Nuffield design suggestion from September 1943. GB71 AT 15A  After numerous experiments with asymmetrical design, army insisted on a vehicle with a gun mounted on the central axis. GB71 AT 15A  With AT-15 guidelines that will emerge A39 Tortoise were more then visible. GB71 AT 15A  Final proposal had 152 mm of sloped armor on the front, and 100 mm on the sides. GB71 AT 15A  Main armament consisted of the famous 17 ponder gun, which was at the time considered enough to penetrate any German armor it stood against. GB71 AT 15A  AT-15A was a slight modification of the project that was some 5 tons heavier. GB71 AT 15A 
+
+
+|HistoricalGallery=
+image:AT15. GB71 AT 15A jpg{{!}}AT15 Technical Drawing
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

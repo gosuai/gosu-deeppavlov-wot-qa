@@ -1,0 +1,84 @@
+{{TankData|Tank=Pz_Sfl_IVb
+|The Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb is an excellent SPG due to its versatility, high ammo capacity, and excellent gun elevation and depression; it also has an excellent camouflage factor, making it a serious threat to enemies. G95 Pz Sfl IVb   To top it off, it can even fire AP rounds which can easily penetrate the roof armor of enemies and cause devastating effects, that is, if they manage to land on it. G95 Pz Sfl IVb   The downside of this SPG is its very long aim time and very poor mobility. G95 Pz Sfl IVb 
+
+|InTheGame_pros=
+* Superb gun range for both guns 
+* Widest gun arc out of all non-turreted arty (70 deg total), gun depression great for TD mode
+* Very good accuracy and damage
+* Second gun can fire AP rounds
+* Very high ammo count, even on second gun
+
+|InTheGame_cons=
+* Very slow, even for a SPG, weak engine hampers its mobility
+* Traverses are quite bad, lacks agility
+* Burst radius is unimpressive, but normal in comparison with other nations' SPGs
+
+|InTheGame_performance=
+This tank is incredibly fun to play. G95 Pz Sfl IVb  While it is quite serviceable as a standard artillery, its very high damage gun, plus its ability to fire AP rounds from its top gun, mean that it can fulfill a very effective ambush TD role as well. G95 Pz Sfl IVb  Its gun suffers the same issues facing other SPGs trying to play as TDs: a lack of the sniper view, slow shell trajectory, low accuracy, and long aim times. G95 Pz Sfl IVb  As a result, you will likely have to rely on a good bit of luck or simply sitting still for a while to let the aim circle narrow; playing as an ambush-type TD allows you to pre-aim at likely avenues of approach and start counting down the 5. G95 Pz Sfl IVb 5 second aim time. G95 Pz Sfl IVb 
+
+If you do choose to act as a TD, stick to enclosed spaces or bottlenecks where tanks have to come through in single file or at lower speeds. G95 Pz Sfl IVb  If you get into a close-range fight with multiple tanks on each side, you probably don't have time to relocate, so take up a punishing position and fire AP rounds at vulnerable parts as enemies try to peek and shoot. G95 Pz Sfl IVb  The long reload time on both guns will make this a risky venture, however. G95 Pz Sfl IVb 
+
+Scouts are going to be a pain, but less so than other SPGs; while you'll be able to one-shot most of them much like any other SPG, you have a much wider arc of fire, which will render circling less effective against this SPG. G95 Pz Sfl IVb  As always, being tracked or simply outmaneuvered will leave you at a disadvantage, since your pitiful traverse will make you an easy target. G95 Pz Sfl IVb 
+
+In the traditional SPG role, the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb  IVb benefits by being the most accurate artillery for its tier (tied with the [[Birch Gun]]), and indeed, one of the most accurate artillery in the game. G95 Pz Sfl IVb  This makes its AP and HEAT shells notably more useful thanks to the increased probability to score direct hits on enemy tanks. G95 Pz Sfl IVb  While it cannot unload DPM like the [[T82 HMC]], it can do so with greater accuracy. G95 Pz Sfl IVb  A Brothers-in-Arms crew, gun rammer, gun laying drive, and chocolate can bring the reload time down to around 12. G95 Pz Sfl IVb 5 seconds (and the rate of fire up to about 4. G95 Pz Sfl IVb 8), the aim time down to 4. G95 Pz Sfl IVb 5 seconds, and the dispersion down to . G95 Pz Sfl IVb 65, making this vehicle extremely lethal when upgraded and fully equipped. G95 Pz Sfl IVb  As a result, this SPG remains competitive even in higher tiers; much like the Birch Gun or [[FV304]], some players grow to hate this SPG for its ability to constantly keep a tank tracked. G95 Pz Sfl IVb 
+
+For consumables, consider using the 100 or 105-Octane Gasoline for the 5%/10% boost (respectively) to both engine power and turret traverse speed. G95 Pz Sfl IVb  Due to its low health, poor speed, and weak armor, most engine fires are not survivable, and a fire extinguisher is usually unnecessary. G95 Pz Sfl IVb 
+
+
+|InTheGame_research=
+The stock configuration isn't terrible, and upgrades don't bring anything very new to the tank except some minor stat upgrades. G95 Pz Sfl IVb  Sadly, none of the radios from the Wespe, or even the [[G. G95 Pz Sfl IVb Pz. G95 Pz Sfl IVb  Mk. G95 Pz Sfl IVb  VI (e)]] carry over, as the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb  IVb is closer to an actual tank than a self-propelled gun. G95 Pz Sfl IVb  The Fug 7 is a staple of earlier tanks and goes back as early as the Pz. G95 Pz Sfl IVb  I and II. G95 Pz Sfl IVb  The Fug Spr. G95 Pz Sfl IVb  A can be picked up from [[Pz. G95 Pz Sfl IVb Kpfw. G95 Pz Sfl IVb  II Ausf. G95 Pz Sfl IVb  G]], or maybe the [[Pz. G95 Pz Sfl IVb Kpfw. G95 Pz Sfl IVb  I Ausf. G95 Pz Sfl IVb  C]], if you've delved any into the German scout tree. G95 Pz Sfl IVb  You may wish to pick up the engine or the upgraded gun first; traverse speed is less important on this SPG, compared to others, because of its turret’s wide field of fire. G95 Pz Sfl IVb  The suspension isn't required at all, as you can mount every module without having to upgrade it. G95 Pz Sfl IVb 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net, Additional Grousers
+
+|Gallery=
+
+
+|History=
+[[image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_one_of_the_few_prototypes_that_saw_combat. G95 Pz Sfl IVb jpg|200px|left|PzKpfw III AUSF-N]]
+Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb also known as Heuschrecke 10 (English: Grasshopper 10) was a prototype self-propelled gun developed by Krupp-Gruson between 1943 and 1944. G95 Pz Sfl IVb  The official designation of the vehicle was 105 mm leichte Feldhaubitze 18/1 L/28 auf Waffenträger Geschützwagen IVband was scheduled to be built in Magdeburg, Germany. G95 Pz Sfl IVb  The Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb featured a removable turret which could be deployed as a pillbox or towed behind the vehicle as an artillery piece. G95 Pz Sfl IVb  Krupp produced only three prototypes from 1942–1943. G95 Pz Sfl IVb  The Heuschrecke initially made use of a shortened Panzerkampfwagen IV hull, but it was later switched to the Geschützwagen IV chassis, developed for the Hummel self-propelled gun. G95 Pz Sfl IVb  Mass production of the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb was scheduled to start in February 1945, but never occurred. G95 Pz Sfl IVb 
+
+==Development history==
+Towards the end of September 1939, Krupp designed the "first real self-propelled artillery piece", the Sonderkraftfahrzeug 165/1 (Special Purpose Vehicle 165/1, abbreviated Sd. G95 Pz Sfl IVb Kfz. G95 Pz Sfl IVb  165/1). G95 Pz Sfl IVb  The Sd. G95 Pz Sfl IVb Kfz. G95 Pz Sfl IVb  165/1 was similar in design to the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb, but did not have the chassis-mounted launching mechanism to remove the turret. G95 Pz Sfl IVb  After a series of tests, the Sd. G95 Pz Sfl IVb Kfz. G95 Pz Sfl IVb  165/1 was accepted by the Wehrmacht in early January 1940. G95 Pz Sfl IVb  In 1941, Krupp built prototype vehicles armed with the 105 mm leichte Feldhaubitze 18/1 L/28 (light field howitzer 18/1 L/28, abbreviated leFH 18/1 L/28) cannon based on a modified Panzer IV chassis. G95 Pz Sfl IVb  The prototypes were fitted with a smaller six-cylinder Maybach HL66P engine, which had a power capacity of 188 hp (140 kW). G95 Pz Sfl IVb  Although 200 vehicles were ordered, Krupp completed only 10 prototypes in the final four months of 1942. G95 Pz Sfl IVb  These saw service on the Eastern Front. G95 Pz Sfl IVb  
+
+'''Design features'''
+
+The distinguishing feature of the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb was its removable turret. G95 Pz Sfl IVb  A lifting gantry attached to the chassis could remove the turret for use on concrete fortifications or the ground. G95 Pz Sfl IVb  Although the howitzer could equally be fired from the chassis, the vehicle was designed to carry the artillery piece to a firing emplacement for removal before usage. G95 Pz Sfl IVb  The turretless vehicle could be used as an ammunition carrier or recovery vehicle. G95 Pz Sfl IVb  The prototype turret was armed with the 105 mm leFH 18/1 L/28. G95 Pz Sfl IVb  The production models, however, were to have the 105 mm leFH 43 L/28. G95 Pz Sfl IVb  The hull was consisted of a welded steel plates, with thickness ranging from 10 to 25 millimeters, and sloped armour to deflect incoming fire more effectively. G95 Pz Sfl IVb  It had a large ammunition stowage, making it one of the chosen ammunition-carriers to help alleviate losses of ammunition that could not otherwise be transported. G95 Pz Sfl IVb  The original prototype engine was the twelve-cylinder Maybach HL90, but for the production models, the twelve-cylinder Maybach HL100 was chosen. G95 Pz Sfl IVb  
+
+'''Prototypes'''
+[[image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_during_factory_trials. G95 Pz Sfl IVb jpg|200px|left|Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb during factory trials]]
+The design phase began in 1942, when Krupp conceived a new type of self-propelled artillery. G95 Pz Sfl IVb  In 1943, Krupp produced three prototypes, with serial numbers from 582501 to 582503, which were designated as either Heuschrecke 10 or Heuschrecke IVb. G95 Pz Sfl IVb  The cehicle designed by Krupp was similar in design to a vehicle built by Alkett and Rheinmetall-Borsig, the 105 mm leFH 18/40/2 auf Geschützwagen III/IV, which was ready in March 1944. G95 Pz Sfl IVb  The competing Rheinmetall-Borsig model had overall slightly better performance than that of Krupps' vehicle. G95 Pz Sfl IVb  It was decided, however, to utilize an alternate chassis on the Rheinmetall-Borsig model, that of the Panzer IV. G95 Pz Sfl IVb  Production was to start in October 1944, but the chassis choice was changed to that of the Geschützwagen IV in December 1944. G95 Pz Sfl IVb  Production, in Magdeburg, was then intended to commence in February 1945, but none were produced. G95 Pz Sfl IVb  The Nazi high command thought that the production of the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb would disrupt the production of the needed Panzers. G95 Pz Sfl IVb  The quantity of materials required for the construction of weapon-carriers were so great that companies like Krupp were told to halt production. G95 Pz Sfl IVb  The majority of weapon-carriers never left the production stage. G95 Pz Sfl IVb  The Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb was seen as interesting by the General Inspector of the Panzer Troops, Heinz Guderian, however, Guderian agreed that their development was not worth the disruption to tank production. G95 Pz Sfl IVb   The development of the Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb was therefore canceled in February 1943. G95 Pz Sfl IVb  
+
+'''Survivors'''
+
+It is believed only one Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb survived the war. G95 Pz Sfl IVb  This sole survivor was originally on display at Aberdeen Proving Grounds. G95 Pz Sfl IVb  It was transferred from there to the Fort Sill Field Artillery Museum in Fort Sill, Oklahoma along with several other World War II self-propelled guns. G95 Pz Sfl IVb  
+
+
+
+|HistoricalGallery=
+image:Aberdeen_Tank-Museum_Heuschrecke_10_aka_Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb. G95 Pz Sfl IVb jpg{{!}} Aberdeen Tank-Museum Heuschrecke 10 aka Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_after_restauration. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb after restauration
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_at_Krupp_factory. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb at Krupp factory
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_detailed_model. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb detailed model
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_during_factory_trials. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb during factory trials
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_during_trials. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb during trials
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_in_turret_removal_phase. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb in turret removal phase
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_offroad_driving. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb offroad driving
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_one_of_the_few_prototypes_that_saw_combat. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb one of the few prototypes that way ready, but never saw real combat
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_open_top_closeup. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb open top closeup
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_rear_view. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb rear view
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_side_view. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb side view
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_spg. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb spg
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb_top_view_with_manned_turret. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb top view with manned turret
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb. G95 Pz Sfl IVb jpg{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb
+image:Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb. G95 Pz Sfl IVb png{{!}}Pz. G95 Pz Sfl IVb Sfl. G95 Pz Sfl IVb IVb drawings
+
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* [https://en. G95 Pz Sfl IVb wikipedia. G95 Pz Sfl IVb org/wiki/Heuschrecke_10 Wikipedia]
+
+}}

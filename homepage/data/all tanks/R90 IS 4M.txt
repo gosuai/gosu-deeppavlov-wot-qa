@@ -1,0 +1,91 @@
+{{TankData|Tank=IS-4
+
+|As the final development of its Heavy Tank tech tree, the IS-4 goes for the more versatile "Jack-of-All-Trades/Master-of-None" approach to its in-game performance. R90 IS 4M  Its gun is adequate for its tier, but is quite unimpressive in any single aspect such as accuracy or DPM. R90 IS 4M  Its turret armor is quite strong frontally, but can be easily over-matched when shot through the exposed roof, where it is much weaker. R90 IS 4M  Its hull armor is decent, boasting a tough all-around layout which gives the tank good side-scraping capabilities, but is relatively easy to punch through from the front, even if angled properly. R90 IS 4M  Its mobility is totally different from its quick and nimble brother, the [[IS-7]] with the IS-4 being very sluggish and slow by comparison. R90 IS 4M   
+
+The culmination of these characteristics makes the IS-4 feel like more of a support tank rather than an all out assault leader. R90 IS 4M  While the IS-4 mounts a more accurate 122mm main gun as opposed to the 130mm cannon of the IS-7 and the [[Object 705A]], it still isn't very well suited for long range sniping and if you miss a shot it can be a painful experience. R90 IS 4M  In addition, the tank does not have the speed and maneuverability to get itself into position quickly and relocate if needed. R90 IS 4M  These drawbacks largely restrict the efficiency of the IS-4 to medium and short range brawler-type combat. R90 IS 4M  However, due to the low vertical profile of the tank, it enjoys a somewhat better camouflage rating and can utilize many forms of cover much more effectively - peek out, fire a shot at the enemy, then dive back into safety. R90 IS 4M  But due to its average gun handling, it will require a few seconds to fully aim or risk a hard miss otherwise. R90 IS 4M  All of the above points demonstrate the IS-4 for what it currently is - a Jack-of-All-Trades tank, permitting its driver greater versatility at the expense of any exceptional capabilities. R90 IS 4M   
+
+
+
+|Gallery=
+
+|InTheGame_pros=
+* Same top gun as the [[ST-I]], with much improved soft stats 
+* Good armor profile - strong turret armor and thick side hull armor
+* Large healthpool, largest among all Soviet heavy tanks
+* Low profile compared to preceding tanks in the branch (such as [[ST-I]])
+* Good top speed for a heavy tank
+
+|InTheGame_cons=
+* Sluggish acceleration and average mobility
+* Frontal hull armor has several weakspots
+* Thin, overmatchable plate on the turret roof
+* Fairly lacking in DPM
+* Below average gun depression
+
+|InTheGame_performance=
+Among the oldest techtree tanks available to players, the IS-4 could be called the most "flavorless" of the Tier 10 Soviet heavy tanks. R90 IS 4M  It lacks the sheer armor thickness and firepower of [[Object 705A]], and the mobility and flexibility of [[Object 277]], and is not as good an assault leader as the renowned [[IS-7]]. R90 IS 4M  What the IS-4 offers though, is a 'jack of all trades' package that, while outclassed by its brethren in specific areas, is overall good in every department without compromising anything for specializations. R90 IS 4M 
+
+That is not to say the IS-4 is without merits though. R90 IS 4M  First of all, its armor profile is deceptively durable. R90 IS 4M  While its upper and lower glacis are not very thick (at least when compared to other overarmored tanks seen in Tier 10), its frontal cheeks and side armor are not only thick but also well angled, making a sidescraping IS-4 an exceptionally tough opponent to deal with, to the point artillery and large caliber HE are the only surefire ways to deal damage to it. R90 IS 4M  Its turret armor is also very well armored despite its raw thickness being inferior to its more modern techtree counterparts, however players should be mindful that a portion of the turret roof is quite thin and easily penetrated via triple overmatch. R90 IS 4M 
+
+The gun is the same 122mm M62-T2 used on the preceding [[ST-I]], and while its raw alpha and penetration are the same, it enjoys much better accuracy (for Soviet standards) and a rather decent aim time, as well as a higher rate of fire. R90 IS 4M  Unfortunately, the IS-4 has a much worse gun depression compared to the ST-I, as well as a lower ammo capacity, which can lead to uncomfortable situations if the player positions themselves poorly or is wasteful with their ammunition. R90 IS 4M 
+
+Mobility-wise, the IS-4 is your typical heavy tank. R90 IS 4M  It enjoys a pretty good top speed and a serviceable reverse speed, but is fairly lacking in acceleration and can feel sluggish to maneuver, especially on uneven terrain. R90 IS 4M  It can relocate, but won't go anywhere as fast as its quicker techtree brothers such as the Object 277. R90 IS 4M 
+
+Overall, the IS-4 is not a bad tank, but the ever advancing powercreep dooms it to mediocrity. R90 IS 4M  It is considered obsolete and a poor choice for the competitive environment, such as Clan Wars, but it can still be a powerful asset in random battles. R90 IS 4M  Its playstyle is also quite easy to master, as it has much in common with, of all things, the Tier 7 [[IS]]. R90 IS 4M  Any player who has enjoyed the IS and its many premium counterparts, will have no trouble adjusting to the IS-4 and having success in it. R90 IS 4M  
+
+|InTheGame_research=
+It's impossible to advance from the [[ST-I]] without researching the improved gun, so the IS-4 should instantly arrive as an elite tank. R90 IS 4M 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Spall Liner
+
+|History=
+While the IS-3 programme had been under way in 1944, the design team under engineer L. R90 IS 4M S. R90 IS 4M  Troyanov began work on a further elaboration of the IS-2 design under the codename Obiekt 701. R90 IS 4M  Several alternatives were proposed on paper, and three designs were presented to the Red Army's tank directorate. R90 IS 4M  These included:
+<br><br>
+1. R90 IS 4M  Obiekt 701-2, armed with the S-34 100mm gun;<br>
+2. R90 IS 4M  Obiekt 701-5, with a different armour configuration;<br>
+3. R90 IS 4M  Obiekt 701-6, armed with the standard D-25T 122mm gun. R90 IS 4M <br>
+<br><br>
+The latter was accepted for further development. R90 IS 4M  There were three significant changes in the Obiekt 701-6 design: thicker armour, a lengthened hull, and an uprated engine. R90 IS 4M  The basic armour for the hull was increased to 160mm and the turret to 250mm. R90 IS 4M  The 750hp V-12 engine used a revised cooling system influenced by the layout of German Panther tanks, with the radiators under a pair of circular fans. R90 IS 4M  The design was accepted for quantity production as the IS-4 tank in 1947
+
+After a short production run of only 200 tanks, IS-4 production was halted. R90 IS 4M  The main criticism was that the speed and the mobility of the vehicle were inadequate. R90 IS 4M  In the summer of 1950 after the outbreak of the Korean War, nearly all of the IS-4 regiments were shipped to the Far East. R90 IS 4M  They were deployed to form the shock force for a tank army that Stalin was organising to intervene in the Korean conflict. R90 IS 4M  In spite of intense pressure from the Chinese, Stalin decided against intervening in Korea for fear it would result in the outbreak of a general war with the nuclear-armed American armed forces. R90 IS 4M  The IS-4s remained in the region and in the late 1950s, they were modernised along the same lines as the IS-3M, remaining in service into the 1960s. R90 IS 4M  Currently preserved at the Kubinka armour museum near Moscow, the IS-4 shows physical similarity to the IS-2 and was the heaviest tank series ever produced in the USSR. R90 IS 4M 
+
+There have been repeated reports that several superheavy tanks were under development in the Soviet Union in 1945, including a 150 ton tank. R90 IS 4M  However none of these designs appear to have progressed beyond paper studies, or they remain so secret that they still are not discussed today. R90 IS 4M  Among these designs were reputed to be the Vladimir Lenin VL-1, fitted with a front mounted engine and rear mounted turret. R90 IS 4M 
+
+|HistoricalGallery=
+image:IS-4 2. R90 IS 4M jpg{{!}}The IS-4 somewhere in the fields
+image:IS-4 4. R90 IS 4M jpg{{!}}The IS-4 somewhere in the fields
+
+|HistAcc=
+*Like many soviet tanks in game the IS-4 has increased gun depression. R90 IS 4M  In reality it had -3° instead of -6°
+*The IS-4 was never equipped with the M62 122mm cannon although the gun itself was designed to be able to fit all D-25T mounts
+
+|Ref_references=
+Steven Zaloga, Peter Sarson - IS-2 Heavy Tank 1944-73, Osprey Publishing 1994
+
+|External_Reviews= 
+
+
+|Ref_sources=
+
+
+|Ref_links=
+{{VideoYT|Hq3qfnvEIVM}}{{VideoYT|0y25K180etk}} <br>
+* [https://en. R90 IS 4M wikipedia. R90 IS 4M org/wiki/Iosif_Stalin_tank '''Iosef Stalin (IS) Series Heavy Tanks IS-1, IS-2, IS-3, IS-4, IS-6, IS-7'''] at wikipedia. R90 IS 4M 
+
+* [https://www. R90 IS 4M youtube. R90 IS 4M com/watch?v=zFvyGr8heDo'''IS-4 Drive By'''] at YouTube. R90 IS 4M 
+* [https://www. R90 IS 4M youtube. R90 IS 4M com/watch?v=sisbRqINxf8'''IS-4 VS IS-7 Review'''] at YouTube. R90 IS 4M 
+
+|Sidebar_Camostop=6. R90 IS 4M 9
+|Sidebar_Camomove=3. R90 IS 4M 4
+|Sidebar_Camofire=1. R90 IS 4M 4
+|Sidebar_Passhard=1. R90 IS 4M 151
+|Sidebar_Passmed=1. R90 IS 4M 534
+|Sidebar_Passsoft=2. R90 IS 4M 589
+|Sidebar_DispTurret=0. R90 IS 4M 077
+|Sidebar_DispRecoil=3. R90 IS 4M 356
+|Sidebar_DispAccel=0. R90 IS 4M 24
+|Sidebar_DispTurning=0. R90 IS 4M 24
+}}
+
+[[Category:USSR Tanks]]

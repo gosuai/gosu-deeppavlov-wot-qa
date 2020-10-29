@@ -1,0 +1,77 @@
+{{TankData|Tank=T69
+|The T69 medium tank is similar to the [[France|French]] [[AMX 13 90]]. A90 T69  Although it is a bit slower, it has more armor and more concentrated firepower. A90 T69  This increases the chances of players bouncing rounds off of it, allowing some players to take on tier 9 mediums in this tank. A90 T69  However, the top gun only holds 4 rounds in a magazine, meaning you have to pick your fights. A90 T69 
+
+|Sidebar_GunAlt= 90mm T178
+|Sidebar_Camostop=12. A90 T69 90
+|Sidebar_Camomove=9. A90 T69 40
+|Sidebar_Camofire=3. A90 T69 10
+|Sidebar_Passhard=1. A90 T69 055
+|Sidebar_Passmed=1. A90 T69 151
+|Sidebar_Passsoft=2. A90 T69 014
+|Sidebar_DispTurret=0. A90 T69 153
+|Sidebar_DispRecoil=3. A90 T69 836
+|Sidebar_DispAccel=0. A90 T69 211
+|Sidebar_DispTurning=0. A90 T69 211
+
+|Gallery=
+
+
+|InTheGame_pros=
+* 4-round autoloader with good burst damage
+* Good gun depression and elevation for an oscillating turret
+* Trollish armor, can give some unexpected bounces
+* Good view range
+* Has a dedicated loader, unlike most other autoloaders
+
+|InTheGame_cons=
+* Subpar AP penetration
+* Poor gun handling and aim time
+* Armor is overall unreliable
+* Difficult stock grind
+* Very different playstyle compared to preceding tanks in the line
+
+|InTheGame_performance=
+Play from the rear, always in support, always from the rear (even when the team is winning) and always with support. A90 T69   Use your excellent view range to your advantage. A90 T69 
+
+As mentioned above, the autoloader reloads quite quickly between rounds - about 2 seconds - so with a full magazine you can fire repetitiously. A90 T69   The magazine holds 5 rounds on the 76mm, but only 4 rounds on the 90mm. A90 T69   The 76mm's magazine will reload in roughly 15 seconds - depending on your crew skills, equipment, and consumables, of course. A90 T69   The 90mm takes longer to reload - naturally - at around 26 seconds. A90 T69  To a player wanting a change of pace, one can try the 76mm gun even if they already have the 90mm gun. A90 T69  With the perk Dead Eye and the fact you're shooting more shells you will find engines and modules will constantly feel the pain, and scouts be much easier to dispatch. A90 T69  Naturally, Vertical Stabilizer and Gun Laying drive are even more effective in this scenario. A90 T69 
+
+Gun elevation is not great, but the depression is surprisingly good, which, when coupled with the high overall height of this tank, it can be used hull down in the right terrain. A90 T69 
+
+|InTheGame_research=
+* Cross-branch research: the '''SCR 619''' radio carries over from the M8A1. A90 T69  The '''Continental AOS-895-3''' and '''Continental AOSI-895-5''' engines carry over from the M44. A90 T69  If available, these should be mounted immediately. A90 T69 
+* Nothing carries over from the T20. A90 T69 
+* First, purchase the Enhanced Suspension equipment. A90 T69 
+* Next, research either the '''90 mm Gun T178''' or the '''Continental AOS-895-3''' and '''Continental AOSI-895-5''' engines. A90 T69 
+* Then, research the '''T95''' suspension for improved mobility. A90 T69 
+* Research the gun or engines, depending on what was researched previously. A90 T69 
+* Finally, research the '''SCR 619''' radio. A90 T69 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Vents, Coated Optics, Enhanced Gun Laying Drive
+
+
+|History=
+[[image:T69_1. A90 T69 jpg|thumb|left|200px|T69 Prototype]]
+T69 was a US Medium tank developed in the period from 1953 to 1955. A90 T69  The U. A90 T69 S. A90 T69  in the late '40s and early '50s was very interested in the development of French tanks with oscillating turrets. A90 T69  And so, it was not long as the Americans got hold of the 2nd experienced French AMX-13 tank. A90 T69  But even after a U. A90 T69 S. A90 T69  study pursued a series of setbacks for the creation of such tanks and then they turned to the French experience. A90 T69  The United States has achieved its greatest development in the creation of medium tanks with oscillating tower and the first of them was armed with a 90mm gun, T69, use the chassis experienced tank T42. A90 T69  
+
+The French tanks automatic loader was introduced into the feed gap of the tower, which means that you need to recharge to be outside of the tank. A90 T69  In combat conditions, it meant the conclusion equipment from the combat zone to recharge, which means literally a single application of a tank in combat. A90 T69  U. A90 T69 S. A90 T69  went ahead and fixed this huge flaw placing the autoloader ammo drum under the gun of the tank, allowing relatively quick recharge tools without leaving the safety of the tanks hull. A90 T69 
+
+Tanks main armament, T175 90 mm gun was essentially a version of the TJ39 900 mm gun installed on M36 Jackson and M26 Pershing, but with some assembly changes applied to solve the problem with the imposition of rollback. A90 T69  The autoloader could accommodate up to eight (8) conical shells, and could feed the gun at the rate of around 18 rounds per minute. A90 T69  After the shot, the cartridge was automatically ejected through a designated hatch on the turret. A90 T69  The layout of the tank - a classic. A90 T69  The crew consisted of 3 people. A90 T69  The loader was placed on the left side of the cast turret and was responsible for refilling the drum once empty while the gunner was located right in front of the tower, improving the comfort of using periscope sight. A90 T69  The engine power of 500 horses allowed max speed of 51 km\h. A90 T69  Suspension was built around individual torsion bar with hydraulic shock absorbers. A90 T69 
+
+From 1955 to 1956, the tank was tested at the Aberdeen Proving Ground. A90 T69  The result was disappointing and revealed serious problems and failures of the automatic loader. A90 T69  Unfortunately, problem of stabilizing the rocking mechanism of the tower was never solved, and it eventually led to cancellation of the projects. A90 T69  Experience gained on T69 was used on all other experimental designs with oscillating turret. A90 T69  
+
+|HistoricalGallery=
+
+File:T69_1. A90 T69 jpg
+File:T69_turing_field_testing. A90 T69 jpg
+File:T69_2. A90 T69 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

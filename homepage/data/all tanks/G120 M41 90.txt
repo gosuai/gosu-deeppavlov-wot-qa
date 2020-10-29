@@ -1,0 +1,41 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good alpha damage, penetration, gun handling, and aim time
+* Good gun depression
+* Very high top speed and good reverse speed
+* Good viewrange
+* Very high hull traverse speed, good agility
+
+|InTheGame_cons= 
+* No armor to speak of, typical for a light tank
+* Bad shell velocity
+* Low engine power, poor acceleration for a light tank
+* Bad camouflage value 
+* Crew slots don't match most of the German LT line
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

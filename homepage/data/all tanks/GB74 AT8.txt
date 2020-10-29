@@ -1,0 +1,66 @@
+{{TankData|Tank=GB74_AT8
+| The AT 8 is a natural progression from its predecessor, the [[AT 2]]. GB74 AT8  Unfortunately, many of its stats are near identical such as traverse speed and engine power. GB74 AT8  The main feature of the AT 8 is an improved cannon with twice the alpha damage, improved penetration, and good damage per minute. GB74 AT8  The AT 8 has many flaws, including poor mobility and top speed, a large commanders cupola, and very poor gun depression and gun arc. GB74 AT8  Nonetheless the accurate high DPM gun, the large HP pool, and armour that will still bounce its share of shots of range make the AT 8 a dangerous defender. GB74 AT8 
+
+|Gallery=
+
+|InTheGame_pros=
+- Top 17 pdr gun is very formidable with great penetration, rate of fire, accuracy, damage per minute and aim time. GB74 AT8 
+
+- 800 HP pool is massive for a tier VI TD, closer to that of a heavy tank. GB74 AT8 
+
+- 203/101/101 armor layout is fairly effective against even some high tier opponents
+ 
+- Well-protected tracks offer some defense against arty splash damage. GB74 AT8 
+
+- Relatively good camo values. GB74 AT8 
+
+|InTheGame_cons=
+- Armor is flat and contains easy to hit weak spots; at tier 8 most enemies will have no trouble penetrating you. GB74 AT8 
+
+- 20 km/h top speed combined with very slow traverse makes it a prime target for flankers and arty. GB74 AT8 
+
+- Very tight gun arc combined with bad elevation & depression angles doesn't allow much gun movement; you'll be moving a lot. GB74 AT8 
+
+- Bad view range. GB74 AT8  Doesn't do well w/o spotters. GB74 AT8 
+
+- Quite low alpha damage, although this shouldn't pose a problem since it has good reload time. GB74 AT8 
+
+- Awful stock gun; grind to top gun is irritating and difficult. GB74 AT8 
+
+- Short height allows enemies to facehug you and hit your roof. GB74 AT8 
+
+|InTheGame_performance= The AT 8 is very similar to its predecessor in being big, slow, and cumbersome. GB74 AT8  It gains even thicker armor at 203mm, but at a very poor flat angle. GB74 AT8  Thus, its armor cannot be relied upon against higher tiers. GB74 AT8  As with the [[AT 2]], the AT 8 is very difficult to penetrate while top tier and even its sides and rear are hard to break when angled. GB74 AT8  However, the very poor gun arc prevents any angling if the AT 8 wants to continue firing. GB74 AT8  The main weak spot of the AT 8 is the huge commander's copula, yet still proof against most tiers 5 and 6 guns. GB74 AT8  The At 8 is very bouncy at a distance but up-close enemies will aim at the big copula and quickly dispatch the AT 8 through it. GB74 AT8  Do note, however, that there are two well-protected machine gun blocks around the copula. GB74 AT8  These blocks are very tough and can potentially cover half of the copula, thus, protecting it. GB74 AT8  
+
+The 17-pdr gun is exceedingly accurate and aims very quickly. GB74 AT8  Thus, using a Toolbox or Vents instead of a Gun Laying Drive is highly recommended. GB74 AT8  The 17-pdr has decent penetration and alpha damage coupled with good damage per minute and penetration. GB74 AT8  The 17-pdr can also fire APCR rounds with enough penetration to be effective against Tier 8s. GB74 AT8  You have better camo than you'd think for such a TD, playing the tank as a sniper makes it harder for opponents to aim at weak spots while your DPM can shred anything that does not dive for cover. GB74 AT8   Your HP, armour, and accurate high DPM gun allow you to excel at long range and mitigate the tank's weaknesses. GB74 AT8  The 17-pdr cannon is the main upgrade of the AT 8. GB74 AT8 
+
+Do note that the grind up to the 17-pdr gun will hurt a lot. GB74 AT8  The 6-pounder will simply not cut it most of the time without APCR, while the 75mm is actually worse. GB74 AT8  Only with the 77 mm will the tank start to feel like an upgrade from the previous tier. GB74 AT8  Unlocking the 17-pdr on the [[Tank:GB44_Archer|Archer]] or [[Tank:GB45_Achilles_IIC|Achilles]] is much easier than trying to grind through to it from the stock gun on the AT 8. GB74 AT8 
+
+Speed and mobility are the main weaknesses of the British tank destroyers. GB74 AT8  An AT 8 should always keep moving forward whenever possible to prevent being left behind by its team. GB74 AT8  Also, the poor top speed makes being pushed by teammates ineffective. GB74 AT8  The poor engine power means that running over trees or stone fences will have a serious impact on speed, coupled with poor acceleration. GB74 AT8  Once the AT 8 chooses a route it is committed to that route for the rest of the game. GB74 AT8  There is potential in base defense but enemy artillery and poor view range will severely hinder its effectiveness. GB74 AT8  
+
+The AT 8 sets the play style for the AT 7 and beyond, which should be medium-long range sniping to increase the odds shots will miss weak spots. GB74 AT8  
+
+|InTheGame_research=
+* The Nuffield Liberty Mk. GB74 AT8  III Engine and WS No. GB74 AT8  19 Mk. GB74 AT8  III Radio carry over from the AT 2. GB74 AT8  Mount them immediately. GB74 AT8 
+* The OQF 17-pdr AT Gun Mk. GB74 AT8  VII will be unlocked if you played the Archer previously. GB74 AT8  
+* All modules can be mounted without upgrading the suspension. GB74 AT8  However, adding equipment can start to bring you to close to the limit. GB74 AT8  You may be able to save the suspension until after the 77mm gun, but waiting until after the 17 pdr will leave you no room with equipment. GB74 AT8 
+* The Nuffield Liberty Mk. GB74 AT8  V Engine requires very little experience, but provides little improvement from the previous engine. GB74 AT8  It would probably be best to research most or all of the guns before taking the time to research it. GB74 AT8   If you have already unlocked the engine through the British medium line, immediately mount this engine. GB74 AT8 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Binocular Telescope, Toolbox, Spall Liner
+
+|History=
+AT-8 was a slight modification of the AT-7 project. GB74 AT8  Despite its designation, AT-8 wasn't a descendant of AT-7, but more of a spin off, as they were developed roughly at the same time. GB74 AT8   Main armament was to be the same 6pdr gun, but this time mounted in the center of the vehicle. GB74 AT8  The 20mm Polsten autocannon moved from the left sponson to the right sponson. GB74 AT8  Roof of the vehicle had four machine guns mounted into two mini turrets. GB74 AT8  The armor remained the same maximum of 203 mm on the front, and 100 mm on the sides and back of the vehicle. GB74 AT8  The weight was estimated at 41 tons. GB74 AT8  No prototype was ever built. GB74 AT8 
+
+|HistoricalGallery=
+image:Th AT-8. GB74 AT8 jpg{{!}}AT8 Technical Drawing
+
+|HistAcc=
+The AT 8's only intended primary armament was the 6-pdr gun. GB74 AT8  All other armament configurations are fictitious. GB74 AT8 
+* Its performance specifications were all made up by WG. GB74 AT8 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

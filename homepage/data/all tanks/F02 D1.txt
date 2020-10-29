@@ -1,0 +1,76 @@
+{{TankData|Tank=D1
+|The D1 has better armor than the [[RenaultFT|Renault FT]], but is heavier and has a weaker engine so it has much worse mobility. F02 D1  With the exception of the 47 mm SA 34, the D1 retains the same gun selection as the FT. F02 D1  Physically, it is much larger than the FT. F02 D1 
+|Gallery=
+image:D1_001. F02 D1 jpg{{!}}D1 001
+image:D1_002. F02 D1 jpg{{!}}D1 002
+image:D1_003. F02 D1 jpg{{!}}D1 003
+image:D1_004. F02 D1 jpg{{!}}D1 004
+
+|InTheGame_pros=
+* Decent armor
+* 18 degrees of gun depression - one of the highest in the game!
+* Quick aim time and high rate of fire
+* High hit points
+
+|InTheGame_cons=
+* Awful mobility and turret traverse speed
+* Poor accuracy
+* Low signal range
+* Both top guns have serious problems: low range and damage-per-shot for 25mm, low pen and shell velocity for 47mm
+
+|InTheGame_performance=
+Designed long before World War 2, the D1 was designed as an infantry support tank. F02 D1  As such, it has pretty decent armor, but it is incredibly slow and considerably undergunned. F02 D1  All of its guns, except the 47 mm SA34, are carried over from the Renault FT starter tank, which basically forces the D1 to choose between relatively high damage but abysmal penetration guns such as the 13. F02 D1 2 mm Hotchkiss mle. F02 D1  1930 heavy machine gun, the 37 mm APX SA18, and the 47 mm SA34, or the high penetration but low damage 25 mm Canon Raccourci mle. F02 D1  1934. F02 D1  The 47 mm SA34, in particular, has the worst penetration of any single-shot tank gun in the game. F02 D1 
+
+If armed with the any of the low penetration guns, the D1 will have a very hard time dealing with other D1s, the [[Hotchkiss H35]] or its German equivalent the [[Pz. F02 D1 Kpfw. F02 D1  38H 735 (f)]], the [[T18]] frontally, and most tier 3 tanks. F02 D1  The 25 mm is generally the better option, but it should be noted that it has a maximum effective range of 400 m, beyond which it will not penetrate even the weakest of armor. F02 D1  The 47 mm SA34 has the lowest penetrating single-shot gun in the game and nearly useless. F02 D1  However, its HE round has only 1 mm average penetration less than the AP round but deals considerably more damage, making an all HE loadout somewhat viable with that gun. F02 D1  It can reliably penetrate only the most thinly armored tanks (e. F02 D1 g. F02 D1  [[Vickers Medium Mk. F02 D1  II]]). F02 D1 
+
+Working as a team, it can try to absorb hits while other team members provide the firepower. F02 D1  That's not to say it's invincible by any means. F02 D1  There are guns available to Tier 2 and especially Tier 3 tanks that can punch right through this tank's armor. F02 D1  The turret front and hull front are also riddled with weakspots in the form of vision ports, that can be easily penetrated. F02 D1  Expect to see a stark contrast between surviving countless hits from some enemies and only a few from others. F02 D1  Angling and sidescraping techniques can dramatically increase the D1's survivability in battle. F02 D1  Since the commander is also the gunner and loader, having him knocked out will cripple the D1 immensely. F02 D1 
+
+The D1 is incredibly slow, and would usually do well to avoid climbing hills. F02 D1  When stock, it is as slow as the [[T95]]. F02 D1  Be sure to pick the correct path to take at the beginning of the game, as the D1 is not capable of relocating quickly at all. F02 D1  Upgrading the turret and gun before the engine slows this tank down considerably. F02 D1 
+
+|InTheGame_research=
+* The 13. F02 D1 2 mm Hotchkiss mle. F02 D1  1930 and the 25 mm Canon Raccourci Mle. F02 D1  1934 guns carry over from the FT, and are available immediately. F02 D1 
+* The engine is a good place to start researching for an additional 9 horsepower with no additional weight. F02 D1 
+* It is a good idea to upgrade the suspension next. F02 D1 
+* Now research the D1b turret and the 47 mm SA34 gun. F02 D1 
+* Be sure to research the ER 53 radio before moving on. F02 D1 
+
+|InTheGame_equipment=
+Vents, Small Spall Liner, Toolbox
+
+|History=
+The Char D1's Renault FT ancestry can still be seen from the sloping engine deck and the profile of the side armour plates; it is also still a rather narrow vehicle, only 2. F02 D1 16 metre wide. F02 D1  Its length is 5. F02 D1 76 metre with tail. F02 D1  The riveted hull armour is thirty mm thick on all vertical surfaces, ten mm on top and bottom. F02 D1  The NC31 introduced a 10 mm protection plate for the suspension units; the lower hull side armour beneath it was probably 16 or 25 mm thick — the exact data have been lost. F02 D1  For its time the Char D1 was relatively well armoured; as a result the hull alone weighs 11 metric tons, rather heavier than a typical light tank of the period. F02 D1  A 74 hp V-4 engine of 6. F02 D1 08 litre renders a top speed of 18. F02 D1 6 km/h; the range is ninety kilometres; it can climb a 110 cm obstacle and a 50% slope, cross a 220 cm trench and wade through 90 cm of water. F02 D1  The type thus had a relatively good mobility for the early thirties. F02 D1  In the hull are two crew members. F02 D1  The first is the driver who, as with the Renault FT, is seated below large double hatches that form the nose plates. F02 D1  He can operate, via a steel cable, a fixed 7. F02 D1 5 mm Reibel machine gun low in the nose, that is almost completely hidden behind the armour. F02 D1  The second crew member operates the radio set on the right side of the fighting compartment, the set being an ER (Émetteur-Récepteur or "emitter-receiver") 51 for the NC31s and an ER52 or 53 for the series vehicles. F02 D1  At the right of the engine deck a very distinctive and robust radio antenna frame is fitted, its point the highest of the vehicle at 2. F02 D1 4 metres. F02 D1  It impedes a full rotation of the turret to the right, limiting the total movement to about 345°. F02 D1  The radio operator also assists in the loading of the gun, by handing over rounds taken from the munition load of 76 to the third crew member, the commander, located in the turret. F02 D1 
+
+As the ST1 turret type had been rejected, a new one had to be developed. F02 D1  Until it was ready all 160 Char D vehicles were temporarily fitted with existing Renault FT turrets, taken from the Renault FT matériel reserve. F02 D1  Two new turret designs were proposed by Schneider. F02 D1  The ST3 was a modification of the ST1. F02 D1  To solve the balance problem, this type had an armoured extension at the back, with a large square opening. F02 D1  The hatch in the back of the main armour could be opened through the square hole of the extension, providing more room for the commander, who, when operating the gun, would still enjoy some protection against small arms fire, without the weight penalty of a larger turret. F02 D1  The matériel commission judged this system, though ingenious, to be hugely impractical — it made the turret more vulnerable in precisely those situations where it was most likely to be hit: when fighting the enemy — and decided to accept the weight penalty, choosing the alternative ST2 that was simply a larger turret that had more room at the back, weighing three metric tonnes. F02 D1  Nevertheless a single pre-series vehicle was fitted with the ST3 for trials and afterwards used in this configuration by the driver school. F02 D1 
+
+This ST2 turret had a very complex geometry with many shot traps. F02 D1  This was partly caused by the large protruding diascopes at the sides, but also a result of forcing the commander to operate in three height levels: he had to stretch himself to observe his surroundings via the cupola, had a forward observation hatch that he could look through while standing in a normal position and had to crouch to operate the 47 mm SA34 gun to the right of him and the coaxial 7. F02 D1 5 mm machine gun to the left. F02 D1  The lower level had its own extension, where extra room had been found in the front of the turret to bring the machine gun forward, while retracting the main gun, thus improving balance even further. F02 D1  Needless to say, the army was very critical of this general arrangement, but it could not be rejected as deliveries were already greatly delayed: the first replacement turrets were fitted only in early 1936. F02 D1 
+
+The ST2, weighing 1788 kg, brought the total weight to fourteen metric tons and, costing 100,000 FF per piece, the total vehicle price to 475,000 FF. F02 D1  The Char D1 was thus neither particularly light nor cheap, causing the Hotchkiss company to propose a design better conforming to the role of mass produced light infantry tank, which proposal would eventually result in no less than three production types: the Hotchkiss H35, Renault R35 and FCM 36. F02 D1  However, even in 1926 the project had been seen as more of a cheaper alternative to the Char B than as a pure light infantry tank; the political situation of the early thirties would force the Char D1 completely into the role of Char de Bataille or "battle tank". F02 D1 
+
+|HistoricalGallery=
+image:Char_D1_front_view. F02 D1 jpg
+image:Char_D1_side_view. F02 D1 jpg
+image:Char_d1. F02 D1 jpg
+image:Renault_D1_loaded_on_a_heavy_truck. F02 D1 jpg
+image:Char D1. F02 D1 jpg
+image:Char D1 (2). F02 D1 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+* Jean-Pierre VALANTIN
+
+|Ref_links=
+
+* [https://www. F02 D1 chars-francais. F02 D1 net/new/index. F02 D1 php?option=com_content&task=view&id=35&Itemid=37 '''<i>1929 Renault D1</i>'''] Web page at Chars-Francais. F02 D1 net. F02 D1  Photos, specs, and brief history in French. F02 D1 <br />
+
+* [https://www. F02 D1 militaryfactory. F02 D1 com/armor/detail. F02 D1 asp?armor_id=325 '''<i>Renault Char D-1</i>'''] Web page at the MilitaryFactory. F02 D1 com. F02 D1  <br />
+
+* [https://www. F02 D1 tanks-encyclopedia. F02 D1 com/ww2/france/Char_Renault_D1. F02 D1 php '''<i>Char Renault D1</i>'''] Web page at Tanks-Encyclopedia. F02 D1 com. F02 D1  <br />
+
+* [https://en. F02 D1 wikipedia. F02 D1 org/wiki/Char_D1 '''<i>Char D1</i>'''] Web page at Wikipedia. F02 D1 com. F02 D1 <br />
+
+
+
+
+}}

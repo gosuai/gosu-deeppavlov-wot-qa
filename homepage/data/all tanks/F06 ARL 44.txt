@@ -1,0 +1,177 @@
+{{TankData|Tank=
+|The ARL 44 has decent sloped frontal armour but a weak turret and paper-thin side and rear armour. F06 ARL 44  As such, it is quite prone to fires and internal module damage when hit from anywhere but the front. F06 ARL 44  However, the ARL boasts much-improved mobility over its predecessors, great gun depression and elevation values, and an excellent gun selection. F06 ARL 44  There is a choice between 3 guns: a hard-hitting 105mm gun, a jack-of-all-trade 90mm F3 gun, or a 90mm DCA 45 gun with extremely high penetration - even better than the German 88mm L/71. F06 ARL 44  The ARL 44 is the most powerful tier 6 tank in terms of penetration and thus can effectively snipe and remain effective even in Tier 8 battles. F06 ARL 44 
+
+As of the Italian Tanks update, the ARL 44 received some minor buffs. F06 ARL 44  175 Armor Piercing Penetration with the 105 millimeter now, good enough for Tier VIII, tied with KV-85s 175s AP penetration. F06 ARL 44  The 90mm F3 also now has a minor buff to aiming time (2. F06 ARL 44 9 to 2. F06 ARL 44 7). F06 ARL 44  The whole tank received less dispersion when turning the turret and when on the move, making it better to play. F06 ARL 44  
+
+|Gallery=
+image:ARL_44_001. F06 ARL 44 jpg{{!}}ARL 44 001
+image:ARL_44_002. F06 ARL 44 jpg{{!}}ARL 44 002
+image:ARL_44_003. F06 ARL 44 jpg{{!}}ARL 44 003
+image:ARL_44_004. F06 ARL 44 jpg{{!}}ARL 44 004
+
+|InTheGame_pros=
+- Good top speed across most terrain, coupled with good acceleration and power-to-weight ratio - high weight allows ramming. F06 ARL 44 
+
+- Best penetration in class with the 90mm DCA 45; second best of every tier 6 tank. F06 ARL 44 
+
+- Hard-hitting 105mm similar to [[T-150]] but with a cheaper, more powerful APCR round and much better accuracy. F06 ARL 44 
+
+- Surprisingly thick and well-sloped upper glacis can give a lot of bounces, especially if angled correctly. F06 ARL 44 
+
+- Excellent gun depression (-10°), decent view range (on par with M6 at 350m) and excellent signal range at 750m. F06 ARL 44 
+
+|InTheGame_cons=
+- Weak armour everywhere else than the upper glacis. F06 ARL 44 
+
+- Shots to the exposed tracks up front often do hull damage as well. F06 ARL 44  (Thus, it can't sidescrape)
+
+- Turret is large and turns slowly, full turns also slowly; very sluggish with stock engine. F06 ARL 44  
+
+- Atrociously low HP pool for Tier 6 HT standard (exactly the same as BDR G1 B at tier V before it!)
+
+- All guns have very low DPM, comparable to tier V (especially the 90mm DCA45, which is even worse than BDR G1 B). F06 ARL 44 
+
+- Painful stock grind
+
+
+|InTheGame_performance= 
+
+For all intents and purposes, this tank feels like BDR G1 B at tier VI. F06 ARL 44  Unfortunately, it also keeps exactly the same HP at 1 tier higher, as well as even worse DPM if 90mm DCA45 is used. F06 ARL 44 
+
+The ARL 44 has very different play-styles depending on the gun it is equipped with. F06 ARL 44  The '''76 mm Gun M1A1''' and '''90 mm DCA 30''' are simply guns to be ground through, and are not worth any serious consideration for long term use. F06 ARL 44  Despite its lower penetration compared with the DCA45, the '''90 mm F3''' is also a viable option thanks to its better aim time, higher DPM (than the DCA45), along with slightly better penetration than the Canon 13TR. F06 ARL 44  The '''90 mm DCA 45''', with its exceptional penetration, good accuracy (once fully aimed), good alpha damage and rate-of-fire, make it much better suited for being used as a sniper, although the horrible aim time will make it difficult to find targets. F06 ARL 44  The '''105 mm Canon 13TR''', with its great damage output but lower penetration and accuracy along with equally horrible aim time, makes the ARL 44 better at trading shots and brawling at the expense of long range combat. F06 ARL 44 
+
+The ARL 44's hull sports 120mm of sloped frontal armour with a line of sight thickness of almost 170mm. F06 ARL 44  However, this upper glacis has two small and four large weak points. F06 ARL 44  Also, the lower glacis plate is very exposed from the tanks high ground clearance, though it is a fairly small target. F06 ARL 44  The sides and rear of the tank have very thin armor and must be protected. F06 ARL 44  Utilizing what armour the ARL 44 has requires proper positioning and knowledge of the ARL 44's many weak points. F06 ARL 44  It is very difficult to angle the ARL 44 properly due to its very poor side armour. F06 ARL 44  Besides that, the track mounts on the front of the tank are very lightly armoured and become a large shot-trap. F06 ARL 44  Shots that ricochet off your front glacis plates will nearly always land on your track mounts, doing full damage to you and possibly tracking you. F06 ARL 44  Fighting other tanks without cover is best done head-on, with some slight angling. F06 ARL 44  Be wary of the exceptionally thin turret side armour on the upgraded turret, which despite its angle can be very easily penetrated by many of the larger Tier 6 guns (90 mm and above) due to overmatching mechanics. F06 ARL 44   Also, with 10° of gun depression, going hull down with this tank is fairly easy. F06 ARL 44   While the armour of the turret is not exceptional, per se, the significant angling of the cheeks provides fairly reliable bounces when dealing with equal or lower tier guns. F06 ARL 44 
+
+The ARL reaches speeds of 35 to 42 kph on flat ground and is relatively mobile for a heavy tank. F06 ARL 44  Its powerful Maybach HL230 P 45F engine allows it to climb up hills much better than any other heavy tank of this tier. F06 ARL 44  The ARL 44's hull traverse is slow, and especially so on soft ground, making it very vulnerable to being circled. F06 ARL 44  Overall the KV-85 has better maneuverability and ground resistance, but the ARL 44 has a better power-to-weight ratio and slightly better top speed, so overall the mobility is as good as the KV-85. F06 ARL 44  It can keep up and continue to support a flank easily. F06 ARL 44  
+
+
+|InTheGame_research=
+* Research the '''90mm DCA 30''' gun (if it wasn't researched on the BDR G1B already). F06 ARL 44 
+* Research the ARL 44 turret next, as it weighs less than the ACL 1 turret and allows access to the upgraded guns. F06 ARL 44 
+* Research the '''90mm F3''' gun. F06 ARL 44 
+* Research the '''ARL 44 bis''' suspension. F06 ARL 44 
+* Research '''Maybach HL 230 P 45F''' engine for increased mobility. F06 ARL 44 
+* Research '''SCR 528F''' radio. F06 ARL 44 
+* Research, depending on play-style, the '''105 mm Canon 13TR''' or the '''90 mm DCA 45'''. F06 ARL 44 
+** The 90mm DCA 45 has the highest penetration of Tier 6 and makes this tank capable of damaging Tier VIII heavies from the front. F06 ARL 44 
+** 105mm premium rounds increase damage (30 more than normal AP) for more reliable kills and even better DPM. F06 ARL 44 
+* Finally, research the last gun, depending on which one was researched first. F06 ARL 44 
+
+It is important to note that nearly all the ARL 44's modules carry over into the [[AMX M4(1945)]], which also uses the 90 mm DCA 45 as its top gun. F06 ARL 44  Thus, researching them on the ARL 44 will save a lot of effort on the AMX M4(1945). F06 ARL 44 
+
+|InTheGame_equipment= Tank Gun Rammer, GLD, Vents, Toolbox, Binocular telescope
+
+
+|History=
+
+While under German occupation, French tank developers worked in secret on their own projects. F06 ARL 44  These main secret developers of French tanks were involved in the creation of the best French wartime tank, the Char B. F06 ARL 44  Forges et Chantiers de la Méditerranée (FCM) ended up outside of the occupation zone, but Ateliers de construction de Rueil (ARL) ended up inside of it. F06 ARL 44  Until 1936, this organization was the tank building branch of the APX arms manufacturer. F06 ARL 44 
+
+Aside from the Char B, both companies worked on modernization of the breakthrough tank. F06 ARL 44  Here the B1 ter prototypes were developed and produced, and work on the improved B40 tank began. F06 ARL 44  In addition, both companies were competing for the contract of making a superheavy tank for the Maginot Line. F06 ARL 44  Prototypes were ordered and full scale models built. F06 ARL 44 
+
+During the occupation, work at FCM and ARL slowed down, but didn't stop. F06 ARL 44  Outside the occupation zone, work to modernize the Somua S35 cavalry tank continued. F06 ARL 44  FCM engineers developed two and three man turrets with a more powerful 47 mm gun. F06 ARL 44  As for ARL, they went even further. F06 ARL 44  In 1942, the design bureau performed a deep modernization of the Somua S35, indexed SARL 42 (Somua-ARL 42). F06 ARL 44 
+
+The design of the hull was changed: the front was sloped more, the radio operator's position was removed, the hull was simplified. F06 ARL 44  Another change was a new turret ring: 1500 mm wide opening, 1580 mm wide base. F06 ARL 44  A new three man turret was designed from scratch, to be equipped with a 75 mm L/53. F06 ARL 44 3 gun. F06 ARL 44  The work was split up: the SARL 42 hull was developed in Rueil-Malmaison, supervised by the chief engineer of ARL Maurice Lavirotte. F06 ARL 44  The turret was designed by engineer Devenne's grop in Caussade, outside of the occupation zone. F06 ARL 44  Also in Caussade, Lafargue's group was working on the gun, based on a 75 mm Schneider AA gun. F06 ARL 44 
+
+After the Germans occupied the rest of France in the fall of 1942, work on SARL 42 stopped. F06 ARL 44  ARL engineers were also working on a 30 ton tank that continued the Char B lineage, but this work was stopped in November of 1942. F06 ARL 44  However, this was not in vain: the engineers received priceless experience that will come in handy two years later. F06 ARL 44 
+
+In August of 1944, Paris was liberated, and by fall, most of France was free of occupants. F06 ARL 44  Almost immediately after liberation, companies resumed work on new tanks. F06 ARL 44  Vast trophies supplemented their own experience. F06 ARL 44  Even though most vehicles in France were hopelessly outdated, the Allies did run into a few hundred Panthers and a few heavy Tiger battalions. F06 ARL 44  In addition, France saw the combat debut of the Tiger B, and the majority of these new tanks from the 503rd Heavy Tank Battalion remained in the fields of Normandy. F06 ARL 44  The aforementioned vehicles, especially the Tiger B, played an important role in restoring French post-war tank production. F06 ARL 44 
+
+==Growth of Appetites==
+
+On October 9th, 1944, Lieutenant General Leier, the Chief of Staff of the French Army, signed an order for the development and production of new vehicles. F06 ARL 44  The first section listed 150 Panhard 178 armoured cars armed with 47 mm guns, later expanding to Panhard 178B. F06 ARL 44 
+
+The second section is what interests us most. F06 ARL 44  It describes a 35 ton tank armed with a 75 mm gun and a 500 hp Talbot engine with the armour of an American M4 Sherman. F06 ARL 44  On November 29th, an new document was written. F06 ARL 44  The Chief of Staff approved the characteristics of the new tank, and, most interestingly, the tank was to enter production straight from the drawing board, without even a prototype! The production volumes were very ambition for a country just freed from occupation. F06 ARL 44  Leier wanted no less than 500 tanks! The first vehicles were to be ready in May of 1945, with a monthly production run of 50-70 tanks. F06 ARL 44 
+
+There was a reason for such tight deadlines. F06 ARL 44  The new vehicle was nothing more than an evolution of the Char B concept. F06 ARL 44  The second gun was removed and the front plate was sloped at a high angle. F06 ARL 44  The suspension was very similar to that of the Char B. F06 ARL 44  The gun, indexed 75 mm SA Mle. F06 ARL 44 1944 was effectively the same gun that Lafargue's engineers designed in Caussade in 1942. F06 ARL 44  The AA gun whose ballistics it inherited penetrated 80 mm of armour from a kilometer away. F06 ARL 44  This was enough to combat medium tanks, but was not enough for Tigers and Panthers. F06 ARL 44  
+
+In December of 1944, a proposal for a 90 mm tank gun based on the CA Mle 39 S was made. F06 ARL 44 This gun, capable of penetrating 90 mm of armour from a kilometer away, was considered the most appropriate armament for superheavy tanks. F06 ARL 44  Schneider started on the development of this new gun. F06 ARL 44  On December 28th, 1944, it was decided that 300 of the 500 tanks would be armed with a 90 mm gun. F06 ARL 44  However, mass production was delayed. F06 ARL 44  The first 50 tanks were now expected on June 23rd, 1945. F06 ARL 44 
+
+
+The name for this new tank was first mentioned in a letter dated January 28th, 1945. F06 ARL 44  It discussed the distribution of tasks in the production of the ARL 44. F06 ARL 44  The 35 ton vehicle with up to 60 mm of armour was spread between two factories: Renault and FAMH (Forges et Aciéries de la Marine et d'Homécourt, better known as Saint-Chamond). F06 ARL 44  By then, an alternative to the Talbot engine was proposed by Panhard. F06 ARL 44  Production of 150 units was planned. F06 ARL 44 
+
+Production of components for the ARL 44 was planned to begin in February of 1945, and assembly would start in September. F06 ARL 44  Renault would build 200 tanks, and FAMH would build 300. F06 ARL 44  By now, the production schedule looked a lot more reasonable: REnault would produce 5 tanks in September, 10 in October, 15 in November, 20 tanks per month starting in December, and then 25 tanks per month starting in March of 1946. F06 ARL 44  FAMH would make 7 tanks in September, 15 in October, 25 in November, and 30 tanks a month starting in December. F06 ARL 44  The last 8 tanks of this type would be built in August of 1946. F06 ARL 44 
+
+
+By then, Schneider, tasked with the development of a weapon for the new tank, was working on a more powerful weapon than the 90 mm gun. F06 ARL 44  The gun, later indexed 90 mm SA Mle. F06 ARL 44 1945S or 90 mm SA 45 S, was definitely inspired by the German 88 mm KwK 43 L/71. F06 ARL 44  The length of the gun was 65 calibers, which increased the muzzle velocity to 1000 m/s and drastically increased penetration. F06 ARL 44 
+
+With this new gun, the ARL 44 became a dangerous enemy of any German tank. F06 ARL 44  It was decided to use this gun instead of the tank version of the CA Mle 39 S. F06 ARL 44  At the same time, the 75 mm version of the tank remained. F06 ARL 44  This gun, installed in an ACL 1 turret developed by Ateliers de Chantiers de la Loire, was to be installed in initial production tanks. F06 ARL 44 
+
+
+Due to rapidly changing requirements and a series of other reasons, production of the ARL 44 drew further and further away. F06 ARL 44  Meanwhile, over the night of May 8th to May 9th, 1945, Marshal Keitel signed the act of surrender of Germany, and the war in Europe ended. F06 ARL 44  France no longer had an urgent need for new tanks. F06 ARL 44  At the same time, the French army's appetites grew once more. F06 ARL 44  Rightfully assuming that 60 mm of armour wasn't enough for a modern tank, the thickness was doubled in February of 1945. F06 ARL 44  The 35 ton vehicle gained weight, reaching way past 40 tons. F06 ARL 44 
+
+
+
+The 90 mm SA 45 gun needed a new turret, which was designed by Schneider. F06 ARL 44  Here, experience with superheavy tanks helped. F06 ARL 44  The tank needed to be redesigned, since the perspective engines could no longer provide the tank with the necessary agility. F06 ARL 44  Disappointed with these delays, the French military decreased the volume of their order to 150 tanks on May 23rd, 1945. F06 ARL 44 
+
+
+
+On June 20th, 1945, Renault finally finished a full scale model of the ARL 44. F06 ARL 44  The armour was indicated as only 60 mm, even though it was well known that the 120 mm variant was going into production by this point. F06 ARL 44  The turret on this model was the Schneider type, equipped with a 90 mm SA 45 gun. F06 ARL 44 
+
+The mass of the tank was 48 tons, so it was decided that the German Maybach 230 TRM engine should be used. F06 ARL 44  After Germany's surrender, France received a large amount of these 600 hp engines. F06 ARL 44  A direct cooperation with Maybach also began. F06 ARL 44  In addition, a Simca automobile engine was used to traverse the turret. F06 ARL 44 
+
+
+By the time the final ARL 44 version was approved, French defense companies joined into the DEFA consortium (Direction des Études et Fabrications d'Armement, later GIAT, since 1989, Nexter). F06 ARL 44  This merger allowed centralization of work on the new vehicle. F06 ARL 44  However, by August of 1945, a bid for tender was announced for the ARL 44's replacement. F06 ARL 44  The military had few illusions about this tank. F06 ARL 44  Work on the AMX 45 began in parallel with the ARL 44, which later became the AMX M4. F06 ARL 44  
+
+
+The first ARL 44 was ready by March 1st, 1946. F06 ARL 44  As proposed, the tank received the ACL 1 turret and a 75 mm SA 44 gun or 76 mm M1A1 gun. F06 ARL 44  However, the idea of a batch of tanks with this gun disappeared by spring of 1946. F06 ARL 44  First of all, work on a 75 mm gun based on the German 7. F06 ARL 44 5 cm KwK 42 L/70 began. F06 ARL 44  This gun was significantly more powerful than the French design. F06 ARL 44  Second, it was obvious that such a small caliber gun on a tank of this size was silly. F06 ARL 44  Emphasis shifted towards the 90 mm gun in the Schneider turret. F06 ARL 44 
+
+
+Preparations for mass production began in April of 1946. F06 ARL 44  As proposed, production was split between Renault and FAMH. F06 ARL 44  The first mass production ARL 44 was ready in June of 1946, two years after the initial production plan. F06 ARL 44  By then, the order volume was cut even further: 60 vehicles. F06 ARL 44  20 would be built by Renault and 40 by FAMH. F06 ARL 44  Documents reveal that the final split was different: 24 Renault tanks and 36 FAMH. F06 ARL 44 
+
+
+
+The new vehicle was a costly one for French manufacturing. F06 ARL 44  The ARL 44 only reached the army several years after the first tank was built. F06 ARL 44  The first unit to receive these tanks was the 303rd Tank Regiment, which paraded through the streets of Paris on July 14th, 1951 with their new vehicles. F06 ARL 44  By then, the ARL 44 was classified as a tank destroyer. F06 ARL 44  Usage of the ARL 44 was accompanied by numerous breakdowns. F06 ARL 44  A year later, the tanks were temporarily removed from service, which became permanent with the development of the AMX 50 and the purchase of the American M47 Patton. F06 ARL 44 
+
+==Description==
+The ARL 44 was fairly closely based on earlier French heavy tank design. F06 ARL 44  The hull is long, over 9 metres, but relatively narrow, just as a vehicle meant to cross wide trenches. F06 ARL 44  The covered suspension, with its many small road wheels that had already become outdated in the 1930s, is the most obvious sign of its basic Char B1 ancestry; it is in essence identical to that of the Char B1 ter. F06 ARL 44  The ARL 44 has often been compared to the many "Super Char B" projects from before the war. F06 ARL 44  Its speed is likewise limited, the lowest of any 50 ton tank built after the war. F06 ARL 44  This was also partly due to the lack of a sufficiently strong engine; it had originally been intended to compensate for this by using a more efficient petro-electrical transmission. F06 ARL 44  This kind of transmission has a major drawback in that it very easily overheats and the ARL 44 as a result was fitted with an impressive and complex array of ventilators and cooling ducts; the engine deck was made to extend behind the track to accommodate them all. F06 ARL 44  The hull glacis plate was 120 mm thick and inclined at about 45°, giving a line-of-sight thickness in the horizontal plane of about 170 mm. F06 ARL 44  This made the ARL 44 the most heavily armoured French tank until the Leclerc, which came much, much later. F06 ARL 44  Within the glacis, low on the right side, a 7. F06 ARL 44 5 mm machine-gun is fitted in a fixed position. F06 ARL 44 
+
+The turret was the most modern looking part, but it too was also an obvious makeshift solution, somewhat crudely welded together, made necessary by the simple fact that Schneider as yet couldn't produce complete cast turrets large enough to hold a 90 mm gun. F06 ARL 44  The turret front was a single cast section though. F06 ARL 44  As the turret was positioned near the middle of the tank, even when pointing to the back the long 90 mm DCA 45 gun would have a large overhang; in order to facilitate transport it was therefore made retractable into the turret. F06 ARL 44  The turret was rotated by a Simca 5 engine. F06 ARL 44 
+
+In all, the ARL 44 was an unsatisfactory interim design, afterwards often called the "Transitional Tank", whose main function was to provide experience in building heavier vehicles. F06 ARL 44  The main lesson learned was for many engineers that it was unwise to construct too heavy types and this opinion was reinforced by the failure of the tank project that the ARL 44 formed the transition to: the much more ambitious heavy AMX 50. F06 ARL 44  Only after a gap of sixteen years France would in 1966 again build a main battle tank, the AMX 30. F06 ARL 44 
+
+==Operational history==
+The ARL 44s equipped the ''503e Régiment de Chars de Combat'' stationed in Mourmelon-le-Grand and before the end of 1950 replaced seventeen Panther tanks used earlier by that unit. F06 ARL 44  In service the ARL 44 was, at first, an unreliable vehicle: the brakes, the gear box and the suspension were too frail. F06 ARL 44  A special improvement program remedied most of these shortcomings. F06 ARL 44  The ARL 44 made only one public appearance, when ten vehicles participated in the Bastille Day parade on 14 July 1951. F06 ARL 44  When the American M47 Patton became available, which also had a 90 mm gun, they were phased out in 1953 and used as targets. F06 ARL 44  The rumour that most ARL 44s were exported to Argentina is unfounded. F06 ARL 44 
+
+Today, five tanks of this type remain, in various states. F06 ARL 44  One of them can be found in the Saumur tank museum. F06 ARL 44  Another tank is at the Mourmelon-le-Grand garrison. F06 ARL 44  One vehicle, sans gun, is located at the Fontevraud garrison. F06 ARL 44  Finally, two ARL 44s, which spent a long time as shooting range targets, were recently purchased by French collector Eric Kauffmann. F06 ARL 44  His ASPHM association plans to restore both tanks. F06 ARL 44 
+
+|HistAcc=
+Historical [[Gun/France#75 mm SA44|75 mm SA44]] gun that was fitted to the initial ARL 44 prototype is missing. F06 ARL 44 
+* There exist no records nor plans of fitting the 105 mm Canon 13TR, the 90 mm F3, nor the 90 mm DCA 30 to the ARL 44. F06 ARL 44 
+* Historical HEAT round with 320 mm of penetration is missing. F06 ARL 44  This was the standard ammunition of the 90 mm F3 gun. F06 ARL 44  The AP and APCR rounds are fake. F06 ARL 44  
+
+|HistoricalGallery=
+image:The ARL 44 in Saumur. F06 ARL 44  One of the three surviving vehicles. F06 ARL 44 jpg{{!}}The ARL 44 in Saumur. F06 ARL 44  One of the five surviving vehicles
+image:ARL44MMPark. F06 ARL 44 jpeg{{!}} The ARL 44 of the MM Park (near Strasbourg, France) which need to be restored. F06 ARL 44  
+image:ARL 44 note the sloped front armor. F06 ARL 44 jpg{{!}}ARL 44. F06 ARL 44  note the sloped front armour
+File:Full_Scale_ARL_44_model. F06 ARL 44 jpg{{!}}The full-scale ARL 44 model  built in the summer of 1945 at Renault. F06 ARL 44 
+File:ARL_44_prototype_with_ACL_1_turret_and_75mm_SA_44_gun. F06 ARL 44 jpg{{!}}The first ARL 44 prototype. F06 ARL 44  The tank received the ACL 1 turret with the 75 mm SA 44 gun or 76 mm M1A1 (sources vary on which one it was)
+File:ARL_44_with_gun_turned_backwards_during_travel_to_reduce_length. F06 ARL 44 jpg{{!}}The ARL 44 with the 90mm DCA 45 turned backwards. F06 ARL 44  This was done to reduce the overall length during travel. F06 ARL 44 
+File:ARL_44_debut. F06 ARL 44 jpg{{!}}Debut of the ARL 44 at a parade on the anniversary of the Taking of the Bastille, July 14th, 1951. F06 ARL 44 
+
+|Ref_references=
+
+|Ref_sources=
+
+* Touzin, P. F06 ARL 44 , 1979, '''<i>Les Véhicules Blindés Français 1900-1944</i>''', EPA, Paris, 266p, ISBN:9782851200945. F06 ARL 44 
+
+* Vauvillier, F. F06 ARL 44 , 2013, '''<i>The Encyclopedia Of French Tanks And Armoured Fighting Vehicles: 1914-1940</i>''', Histoire & Collections, Paris, 176p, ISBN:9782352503224. F06 ARL 44 
+
+* Zaloga, S. F06 ARL 44 J. F06 ARL 44 , 2010, '''<i>French Tanks of World War I</i>''', New Vanguard Series 173, Osprey Publishing, Oxford, 48p, ISBN:9781846035135. F06 ARL 44 
+
+* Zaloga, S. F06 ARL 44 J. F06 ARL 44 , 2014, '''<i>French Tanks of World War II - Vol-1 Infantry and Battle Tanks</i>''',  New Vanguard Series, Osprey Publishing, Oxford, 48p, ISBN:9781782003892, due out in February 2014. F06 ARL 44 
+
+* Centre des archives de l'Armement et du personnel civil (CAAPC)
+
+* Du B 40 а l'ARL 44, Stéphane Ferrard, GBM №111, 2015
+
+|Ref_links=
+
+* [https://www. F06 ARL 44 chars-francais. F06 ARL 44 net/2015/index. F06 ARL 44 php/liste-chronologique/de-1945-a-1990?task=view&id=678 '''<i>ARL-44 at chars-francais. F06 ARL 44 net</i>'''] Photos, specs, and brief history in French. F06 ARL 44 
+
+* https://tankarchives. F06 ARL 44 blogspot. F06 ARL 44 com/2016/03/the-last-of-char-b. F06 ARL 44 html
+
+* https://warspot. F06 ARL 44 ru/4958-posledniy-iz-roda-char-b
+
+}}
+
+[[Category:French Tanks]]

@@ -1,0 +1,89 @@
+{{TankData|Tank=T92
+|Also known as "Nuke Cannon" or "King Kong". A38 T92   The T92 HMC is the hardest-hitting artillery vehicle in the game, armed with a massive 240mm howitzer. A38 T92   The damage and splash from this gun is enormous and can cripple any tank it hits, but the burst radius of each shell is so vast that it is not required to make a direct hit. A38 T92   Splash from high explosive shells can cripple any tank that happens to be within a few meters of the impact. A38 T92   If an HE shell manages to penetrate the target it will most likely be knocked out or very heavily damaged. A38 T92   Armor piercing rounds are discouraged, as the gun is very inaccurate, but if one makes a connection, it has the ability to one-shot Tier IX tanks and some Tier X's. A38 T92   The T92 lacks effective gun depression, a feature that makes self-defense very difficult. A38 T92   This is worsened by the vehicle's low mobility, which while having been improved in a recent patch remains a liability. A38 T92   The T92's main gun currently has the single highest alpha damage output in the game. A38 T92 
+
+In the 9. A38 T92 18 rework patch the T92's alpha was dramatically decreased by 58% -- from 2,250 to 1300 -- and its AP ammo was removed. A38 T92   But on par with new stun mechanics the T92 has the highest stun damage in the game with a wider burst radius. A38 T92 
+
+[[Tank:A99_T92_LT|Click here for the US premium tier VIII T92 Light Tank. A38 T92 ]]
+
+|Sidebar_Camostop=8
+|Sidebar_Camomove=4
+|Sidebar_Camofire=0. A38 T92 5
+|Sidebar_Passhard=1. A38 T92 151
+|Sidebar_Passmed=1. A38 T92 342
+|Sidebar_Passsoft=2. A38 T92 205
+|Sidebar_DispTurret=0. A38 T92 614
+|Sidebar_DispRecoil=5. A38 T92 753
+|Sidebar_DispAccel=0. A38 T92 364
+|Sidebar_DispTurning=0. A38 T92 364
+
+|InTheGame_pros=
+- Gun range: 1400 m
+
+- Most powerful gun in the game, Even its damage is decreased, It still had potential of destroying some full-health tanks
+
+- Largest Splash in The Game - Standard HE: 8. A38 T92 13m. A38 T92  Premium HE: 11. A38 T92 64
+
+- Its shot provides longest stun time in the game (More than 30 seconds)
+
+
+|InTheGame_cons=
+- Second most inaccurate gun in the game
+
+- One of the slowest rates of fire in the game
+
+- No gun depression(makes going "TD" mode almost impossible)
+
+- Much slower than the M53/M55. A38 T92  Also one of the slower SPG's in general
+
+- fear factor makes people target you immediately after you have been spotted
+
+
+|InTheGame_performance=
+Before the patch 8. A38 T92 6 SPG changes, the T92 was an extremely effective tank. A38 T92  It originally had a dispersion of only 0. A38 T92 62 meters per 100 meters, meaning that even with a miss, the splash was close enough to do significant damage. A38 T92  In the 8. A38 T92 6 update, however, it was given 0. A38 T92 30m higher dispersion and its usefulness was significantly reduced. A38 T92   The T92 also received a large mobility nerf with the removal of its upgraded engines, making it far more sluggish and very difficult to relocate when needed. A38 T92 
+
+Nevertheless, the T92 still has a powerful gun and can be a nasty surprise for any tank in the game. A38 T92  Of course, it is very team-dependent, as zero gun depression and high bloom combined with its low mobility make "TD mode" difficult against fast-moving scouts and mediums. A38 T92 
+
+With the inaccuracy of its 240mm howitzer, much of the effectiveness of this SPG will come from splash damage, which is not lacking due to the huge caliber of the gun. A38 T92  One tactic that is good for this artillery is zeroing in on a group of tanks and dropping a huge round right into them and damaging them all, allowing the team to take advantage of them, knocking out several or more damaged and/or tracked tanks. A38 T92 
+
+However, your gun can give you away easily, so be sure to relocate immediately after firing or you very well might be the next target. A38 T92 
+
+|InTheGame_research=
+
+None
+
+|InTheGame_equipment= Large-Caliber Artillery-Shell Rammer, GLD, Camouflage Net
+
+
+|Gallery=
+image:T92_001. A38 T92 jpg{{!}}T92_001
+image:T92_002. A38 T92 jpg{{!}}T92_002
+image:T92_003. A38 T92 jpg{{!}}T92_003
+image:T92_004. A38 T92 jpg{{!}}T92_004
+image:T92game. A38 T92 jpg{{!}}T92, Live oaks map
+
+|History=The 240 mm Howitzer Motor Carriage T92 was self-propelled howitzer developed by the United States of America during World War II. A38 T92 
+The 240 mm M1 howitzer was mounted on a slightly modified Heavy Tank T26E3 (later the "Heavy Tank M26 Pershing") chassis - it used an extra bogie wheel, to bring a total of seven. A38 T92 
+A limited production run was ordered in March 1945, and the first test model was finished in July of that year. A38 T92  Total production of the T92 was five. A38 T92 
+A similar vehicle was also built in conjunction with the T92, the 8in Gun Motor Carriage T93. A38 T92  The T93 mounted the longer 8in M1 gun. A38 T92 
+Limited numbers of both 240mm HMC T92s and 8in GMC T93s were going to be used in Operation Downfall, the planned invasion of the Japanese mainland. A38 T92  However, after the Japanese surrender on 14 August 1945, the T92s and T93s were not shipped to the Pacific Theater of Operations. A38 T92 
+
+
+|HistoricalGallery=
+image:T92-1. A38 T92 jpg{{!}}T92 in action
+image:T92-2. A38 T92 jpg‎{{!}}T92 in action
+image:T92-3. A38 T92 jpg‎{{!}}T92 in action
+image:T92-4. A38 T92 jpg{{!}}T92 in action
+image:T92-5. A38 T92 jpg{{!}}T92 in action
+File:Preserved_T92_HMC. A38 T92 jpg{{!}}T92 HMC preserved at Detroit Arsenal, Tank-automotive and Armaments Command, Warren, MI (USA) 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. A38 T92 wikipedia. A38 T92 org/wiki/T92_Howitzer_Motor_Carriage
+* https://the. A38 T92 shadock. A38 T92 free. A38 T92 fr/Surviving_Tank-based_GMC. A38 T92 pdf
+
+}}

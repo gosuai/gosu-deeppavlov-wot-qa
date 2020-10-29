@@ -1,0 +1,52 @@
+{{TankData|Tank=
+|The T95E2 is given out as a reward for the Refer-A-Friend Program. A81 T95 E2 
+
+|Gallery=
+
+File:T95E2 scr 1. A81 T95 E2 jpg
+File:T95E2 scr 2. A81 T95 E2 jpg
+File:T95E2 scr 3. A81 T95 E2 jpg
+
+
+|InTheGame_pros=
+* Good gun handling and decent accuracy
+* Good gun depression
+* Well rounded turret front with a good mantlet
+* Large healthpool for a medium tank
+* Good viewrange
+
+|InTheGame_cons=
+* Low AP (standard) penetration
+* Very large turret cupola, a prominent weakspot  
+* Fairly sluggish acceleration, average hp/t 
+* No premium earning multipliers, earns as much as a regular Tier 8 medium tank
+* Limited usefulness as a crew trainer (crew of 4 without a dedicated Radioman)
+
+
+|InTheGame_performance=
+This tank plays (and also looks) very much like the [[Tank:A84_M48A1|M48A1 Patton]], the main difference being a low penetration value for its tier. A81 T95 E2  Does not get a premium tank credit coefficient, which often leads to little or no money gained. A81 T95 E2  It's not a good crew trainer as it lacks a radio operator (only matches [[T54E1]], [[M48A1 Patton]], [[T69]] or [[Tank:A24_T2_med|T2 Medium Tank]])
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Coated Optics, Vertical Stabilizer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+
+|HistAcc=
+The T95E2 is armed with the same 90 mm M41 rifled gun as the [[59-Patton]], yet the penetration value of the AP shell is inconsistent. A81 T95 E2 
+
+|HistoricalGallery=
+image:T95e2. A81 T95 E2 png
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

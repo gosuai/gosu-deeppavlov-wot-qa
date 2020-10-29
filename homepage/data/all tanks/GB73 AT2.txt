@@ -1,0 +1,64 @@
+{{TankData|Tank=AT 2
+|The AT 2 is radically different from its predecessors: it's the first true non-turreted British Tank Destroyer in its line. GB73 AT2  The AT 2 is well known for being tough as hell, boasting the highest armour in its tier. GB73 AT2  (Rivaling even Tier VIIs) and a high HP pool (450). GB73 AT2  This vehicle's robust nature gives it the ability to endure heavy bouts of punishment before falling and returning this much hurt in its gun. GB73 AT2 
+
+For this amount of armor, the AT 2 is slow on the straight and turn so open-fielded maps wouldn't offer much to make the most of its protection. GB73 AT2  With SPGs free to take pot-shots as it trundles its way up a hill. GB73 AT2 
+
+Unfortunately the AT2's armour was significantly nerfed in the December 2017 updates, meaning that it is now possible for the AT2 to be two-shotted, and greatly increasing its vulnerability to artillery fire. GB73 AT2  Other buffs were added to compensate such as greater damage output and speed but above all, it's best to be skilled to use the AT2 correctly. GB73 AT2 
+
+
+|Gallery=
+
+|InTheGame_pros=
+- Even its armor was "nerfed", it still boasts incredible armor. GB73 AT2  Great for taking in the punishment for less-protected tanks or as part as a diversion. GB73 AT2 
+
+- Top 6 pdr has a very fast RoF, aim time, high DPM and good accuracy. GB73 AT2 
+
+- Abnormally high HP pool for a TD. GB73 AT2 
+
+- High DPM, especially for its tier
+
+- Decent Top radio, but not the best, which can be a pain for such a slow tank. GB73 AT2 
+
+- Cupola can pull off some bounces
+
+
+|InTheGame_cons=
+- Upper Glacis, gun mantlet, and massive cupola often compromise the armor, especially in higher tiers
+
+- Armor has been halved, post-update, meaning the AT-2 is much easier to destroy. GB73 AT2  Skill is needed to make the use of these new changes. GB73 AT2 
+
+- Very slow speed and horrid traverse, very high flanking risk (made even worse due to bad view range)
+
+- Small angles of gun traverse meaning the tank needs to turn often. GB73 AT2 
+
+- 6 pdr gun is awful by alpha damage standards. GB73 AT2  Worst alpha and pen. GB73 AT2  of any tier V TD. GB73 AT2  However, the rate of fire for a skilled crew using vents is extraordinary and it is easily capable of causing multiple crew and module damage
+
+- Tracks got shot down often; consider the suspension equipment as it's cheap and adds no weight
+|InTheGame_performance= With very thick frontal and awesome rear and side armor, the AT 2 is an intimidating opponent. GB73 AT2  Even though it's extremely well armored, it has weak spots that are easy to hit up close, a very slow top speed, and a sluggish traverse speed. GB73 AT2  Furthermore, its armor is weaker than advertised, especially around the gun mantlet and the upper glacis. GB73 AT2  It is very easy to get knocked out at close range, be it from weak spot snipers or faster tanks. GB73 AT2  Do not get overconfident with the AT 2's armor. GB73 AT2  In a Tier 5 battle, the AT 2's armor is very difficult to break and most shots to the rear and sides and be deflected with simple angling. GB73 AT2  Always be mindful that the armour is less reliable now it's been nerfed - an average or below average player is unlikely to block 2000 damage every game any more. GB73 AT2 
+
+The accurate and rapid-firing 6-pounder gun offers good damage per minute and ensures no enemy wants to stay in your path, no matter how tough they think they are - you will quickly be able to find weak spots. GB73 AT2 
+
+The AT 2 is very very slow, comparable to a [[Maus]]. GB73 AT2  Its top speed keeps it at a modest speed even when downhill. GB73 AT2   Furthermore, the weak engine power means running into trees and stone fences will result in a serious speed decrease. GB73 AT2  Speed is the biggest flaw of the AT 2 and makes it a tank that is reliant on its team to protect its rear and to spot for it. GB73 AT2  The AT 2's weaknesses can be minimized by playing with constant support. GB73 AT2  Once you manage to make it to the enemy you'll find the AT 2's excellent armor and good gun extremely rewarding. GB73 AT2 
+
+|InTheGame_research=
+* Decide whether you really want the derp gun, the Howitzer. GB73 AT2  Otherwise, upgrading the gun is the last priority, because the 6-pdr Mk. GB73 AT2  V is only a very slight improvement over the Mk. GB73 AT2  III. GB73 AT2 
+* The second radio might carry over from the Valentine AT. GB73 AT2  Mount it if you have it researched. GB73 AT2 
+* Your best performance gains will be from the Mk. GB73 AT2  III engine and the Mk. GB73 AT2  II suspension. GB73 AT2  
+
+|InTheGame_equipment=
+Improved Ventilation, Coated Optics, Toolbox, Spall Liner
+
+|History=AT-2 is a Nuffield Mechanizations Limited design from May 1943. GB73 AT2  Total weight was estimated at 41 tons, and the vehicle was running on torsion bar suspension. GB73 AT2  It was introduced along with the AT-1 design, which had a turret that could mount a 75 mm high velocity gun or a 95 mm howitzer. GB73 AT2  With AT-2, it was decided an assault tank doesn't need a turret and so it was replaced with a fully enclosed superstructure. GB73 AT2  Both designs shared the same hull, but since AT-2 was supposed to have a casemate construction, it should have been around 4 tons lighter, and considerably cheaper to produced compared to the AT-1. GB73 AT2 
+
+|HistoricalGallery= 
+image:Th AT-2. GB73 AT2 jpg{{!}}AT2 Technical Drawing
+
+|HistAcc=
+No historical records of the AT 2's armor values or performance specifications exist. GB73 AT2 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+}}

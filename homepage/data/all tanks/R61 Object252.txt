@@ -1,0 +1,103 @@
+{{TankData|Tank=Object252
+|The IS-6 replaced the [[KV-5]] as the Soviet Tier 8 premium heavy tank available through the in-game store from patch 0. R61 Object252 7. R61 Object252 3. R61 Object252  It is also currently available from the gift shop as a bundle with a garage slot all year-round. R61 Object252  It is the 2nd (defender) cheapest of the Tier 8 premium heavy tanks. R61 Object252  It has good armour and decent mobility, but an inaccurate gun with fairly low penetration. R61 Object252  
+Once one of the most common premium tanks in the game, the IS-6 has suffered heavily from powercreep as well as the new matchmaking. R61 Object252  Even its main advantage, the preferential match making, has been largely nullified by the fact that it will see mostly tier 9 matches, for which it is poorly suited due to its low penetration. R61 Object252 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Very good DPM and alpha enables aggressive and fun gameplay
+* Highly angled all around armor with good effectiveness, especially if angled properly
+* Decent mobility for the armor that it carries
+* No obvious frontal weakspots - the driver's hatch is actually thicker than the upper plate
+* Preferential matchmaking (tier 9 max, no tier 10 battles)
+
+|InTheGame_cons=
+* Relatively low ammunition capacity
+* Poor penetration and shell speed on both AP and APCR shells
+* Bad accuracy and hull movement dispersion values
+* Poor viewrange, easily outspotted 
+
+
+|InTheGame_performance=
+Most Soviet heavy tank players who went to the IS line should feel right at home with the IS-6. R61 Object252  In many ways, the IS-6 is essentially an [[IS]] that has been moved up to Tier 8, but still meets the same opponents. R61 Object252  
+
+The '''122 mm D-30''' is for all intents and purposes the natural evolution of the IS's top gun, the 122 mm D-25T (and in fact, the D-30 was historically a modified version of the D-25T). R61 Object252  It has marginally improved penetration (186 mm), marginally improved accuracy (0. R61 Object252 44 m), and shorter aim time (2. R61 Object252 8 s), none of which are appreciable for its tier. R61 Object252  Using the gun at ranges above 100 m requires a lot of patience in allowing the gun to fully aim in, and even then the gun can and will miss. R61 Object252  It works best at medium to close ranges. R61 Object252  The rate-of-fire and alpha damage are quite good, however, and at shorter ranges the IS-6 can use its superior damage output to its advantage, especially against the [[Löwe]] and [[T34]]. R61 Object252  An Enhanced Gun Laying Drive ''and'' a Vertical Stabilizer are highly recommended. R61 Object252  The limited ammunition capacity of only 37 rounds coupled with the high rate-of-fire and necessity of splitting between all 3 kinds of ammo means that running short of ammunition is a very real possibility, and shots should be taken with care. R61 Object252 
+
+The IS-6 is relatively well-protected when compared to other tier 8 premiums. R61 Object252  Unlike the KV-5, which depends on raw armour thickness and a high number of HP to in order to absorb hits, the IS-6 relies on its very well-sloped armour to bounce incoming enemy fire. R61 Object252  Additionally, the IS-6 lacks the distinct weak spots that the KV-5 has. R61 Object252  While not nearly as impenetrable as the T34 or IS-3's frontal turret, the IS-6 is still reasonably well-protected. R61 Object252  Angling and sidescraping will really boost the IS-6's survivability, especially since the side armour is just as thick as the front and is either sloped or covered with some form of spaced armor. R61 Object252  The rear of the turret and hull are significantly weaker than the other sides, however, and one should be very careful about enemy tanks getting behind the IS-6. R61 Object252  When angling the IS-6, one must be careful not to expose the hull "shoulder plates" too much, as too much angling of the front plate will at the same time straighten out one of the "shoulders", making it easier to penetrate. R61 Object252 
+
+More than most any other Tier 8 premium heavy tank (with the distinct exception of the very mobile [[FCM 50 t]]) the IS-6 is better at reacting to the changes of a dynamic battlefield. R61 Object252  The good mobility of this tank, combined with it's other features gives it the flexibility that many other Tier 8 premium heavy tanks lack. R61 Object252  All of this combines to allow the IS-6 to get in close, where it can make good use of it's high alpha, moderately accurate gun. R61 Object252 
+
+As a Tier 8 premium tank, the IS-6 is good at earning credits. R61 Object252  However, the expensive ammunition, particularly when shooting APCR, will quite noticeably cut into its profits. R61 Object252  
+
+In the game's files and in official matchmaking charts, the IS-6 is known by its ''Ob'yekt'' (Object) designation: Object 252. R61 Object252 
+
+=='''Crew Skills'''==
+As a premium tank, it is generally not recommended that a dedicated crew be run on the IS-6. R61 Object252  Instead, one should use an existing Soviet heavy tank crew. R61 Object252  If none exists, however, then the following options are probably the most viable. R61 Object252 
+
+* '''Repair''' as the first skill for all the crew members is a solid choice, allowing broken tracks or other damaged modules to be brought to operational condition as quickly as possible. R61 Object252  Repair kits can thus be saved for more important modules like the gun or ammunition rack. R61 Object252 
+* A more specialized set of first skills would be '''Repair''' (Commander and Loader), '''Snap Shot''' (Gunner), and '''Smooth Ride''' (Driver). R61 Object252  The loader only has perks available, which are not useful until they have reached 100%. R61 Object252  '''Repair''' is the most viable option for the loader, which may later be swapped out for his perks. R61 Object252  The combination of Snap Shot and Smooth Ride act like a Vertical Stabilizer, reducing the accuracy penalties while moving in a straight line or turning the turret. R61 Object252  When combined with an actual Vertical Stabilizer, this can make a significant difference, especially given the IS-6's terrible dispersion and aim time. R61 Object252  '''Mentor''' may also be used instead of Repair if the emphasis is on getting the other crew members' skills up faster. R61 Object252  Smooth Ride may be substituted with '''Off-Road Driving''' for improved overall mobility or '''Clutch Braking''', which is always useful on any heavy tank for the increased hull traverse, allowing them to counter circling tanks better. R61 Object252 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly advised, as it is one of the most important perks in the game. R61 Object252  It is especially valuable in matches with artillery, since in a heavy tank being spotted usually means an artillery round is on its way towards you. R61 Object252  The loader's skill may be dropped in favor of '''Safe Stowage'''. R61 Object252 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R61 Object252  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R61 Object252  It improves nearly every aspect of the tank's performance, but is generally better saved for later in favor of more important skills and perks like Repair and Sixth Sense. R61 Object252 
+
+|InTheGame_research=
+As a premium tank, the IS-6 has no upgrades. R61 Object252  
+
+|InTheGame_equipment=
+Vertical Stabilizer, Large-caliber tank gun rammer, GLD, Vents, Toolbox
+
+|History=
+Following the Battle of Kursk in the summer of 1943, the Soviets were able to acquire a few examples of the new generation of German tanks, most notably the ''[[Tiger|PzKpfw VI Tiger]]'' heavy tank (known as the "''T-6H Tiger''" to the Soviets) and the ''Panzerjäger Tiger (P)'' tank destroyer, better known as the ''[[Ferdinand]]'' (designated the "''T-6P Ferdinand''" by the Soviets). R61 Object252  After studying these vehicles, the OGK NKTP (''Otdel Glavnogo Konstruktora Narodniy Kommissariat Tankovoy Promishlennosti'' - Main Design Department of the People's Commissariat of Tank Production) developed a keen interest in some of their new features, particularly the neutral steering capabilities of the ''Tiger'' and the electrical transmission of the ''Ferdinand''. R61 Object252  Due to the more advanced German designs, The Soviets decided to break the barrier by beginning construction of a new series of tanks, commonly known as the "IS" (Iosif Stalin) Series. R61 Object252  After releasing a newer engine to fit inside the IS-6 prototype. R61 Object252  OGK NKTP provided these state of the art engines. R61 Object252  They were found to make driving the tanks a lot easier, and the OGK NKTP began considering the possible incorporation of these features into Soviet tanks. R61 Object252 
+
+Between the 13th and 17th of November 1943, the OGK NKTP, along with the VAMM (''Voennaya Akademiya Mekhanizatsii i Motorizatsii'' - Military Academy of Mechanisation and Motorisation) and the NATI (''Nauchniy AvtoTraktorniy Institut'' - Automobile and Tractor Research Institute), began work on further increasing the [[IS|IS-2]] heavy tank's firepower and protection by developing a heavy assault tank. R61 Object252  The project was originally intended to produce a tank with a rear-mounted superstructure and an electromechanical transmission similar to that of the ''Ferdinand'', and was led by Deputy Chief of the GBTU (''Glavnoye Bronyetankovoye Upravleniye'' - Main Tank Directorate) I. R61 Object252  Lebedev. R61 Object252  Early the next month, the design bureau of the Experimental Plant No. R61 Object252  100 in Chelyabinsk, under the leadership of Zhosef Kotin, designer of the KV and IS heavy tanks, began work on a new heavy tank project. R61 Object252  Eventually, two designs for the '''IS-6''' were submitted, both in the "classical" tank configuration. R61 Object252 
+
+On 8 June 1944, the NKTP ordered the Experimental Plant No. R61 Object252  100, along with the ''Uralmashzavod'' (Ural Machine Plant) to begin design and construction of the two IS-6 designs as the ''Ob'yekt 252'' and ''Ob'yekt 253'' respectively. R61 Object252  Preliminary design work had already been completed by the Experimental Plant No. R61 Object252  100 under A. R61 Object252  Yermolayev, and most of the remaining design work would be the responsibility of Uralmashzavod, as the ChKZ (''Chelyabinsk Kirov Zavod'' - Chelyabinks Kirov Plant), with which the Experimental Plant No. R61 Object252  100 was associated, was also preoccupied with the production of existing tank designs, as well as with work on the ''Ob'yekt 701'' heavy tank (the prototype of the [[IS-4]]). R61 Object252  The Experimental Plant No. R61 Object252  100 would be responsible for construction of the prototypes, while the Uralmashzavod would be responsible for assembly and testing of the prototypes. R61 Object252 
+
+Strictly speaking, there were two different tanks which received the same designation IS-6: the ''Ob'yekt 252'' and the ''Ob'yekt 253''. R61 Object252  The IS-6 featured ingame is the ''Ob'yekt 252''. R61 Object252  It was manufactured in October 1944, and can be easily distinguished from the ''Ob'yekt 253'' by the large-diameter road wheels and lack of track support rollers. R61 Object252  The suspension had previously been tested on the IS-3 experimental heavy tank (''Ob'yekt 244'', not to be confused with the other IS-3, the ''[[IS-3|Ob'yekt 703]]''). R61 Object252  It was armed with the 122 mm D-30, an improved version of the 122 mm D-25T (not to be confused with the later 122 mm 2A18 howitzer, which also had the name of D-30). R61 Object252  The D-30 was equipped with a shell rammer for increased rate-of-fire, and also had a compressed gas system to purge the barrel of gun fumes after firing. R61 Object252  It was fitted with a 700 hp V-12U diesel engine and a conventional mechanical transmission, while the ''Ob'yekt 253'' was fitted with the new electro-mechanical transmission. R61 Object252  The ''Ob'yekt 252'' underwent factory testing from 8 to 27 November 1944 before being sent, along with the ''Ob'yekt 253'', for further testing at the NIIBT (Nauchno-Ispitatyelniy Institut BronyeTekhnika - Research and Testing Institute for Armoured Vehicles) testing grounds in Kubinka. R61 Object252 
+
+Comparative testing with the ''Ob'yekt 701'' showed that both IS-6 prototypes were broadly equivalent to it in firepower and mobility, but were inferior in armour protection. R61 Object252  Neither IS-6 design was eventually selected for production; the ''Ob'yekt 252'', with its mechanical transmission, was found to offer no significant advantages over existing heavy tanks, while the ''Ob'yekt 253'''s electrical transmission was found to be too bulky, too unreliable, and required too much space for the cooling units. R61 Object252  The increased weight of the electrical transmission also reduced the vehicle's maneuverability, eliminating any advantages in handling the electrical transmission would have provided. R61 Object252  Further development of both IS-6 designs was thus halted. R61 Object252 
+
+|HistoricalGallery=
+
+image:Iosif Stalin 6 1. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 252'') tank during maintenance
+image:Iosif Stalin 6 2. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 253'') tank parked in the factory depot
+image:Iosif Stalin 6 3. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 253'') rear view
+image:Iosif Stalin 6 4. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 252'') tank during army trials
+image:IS-6. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 252'') tank during army trials
+
+|HistAcc= 
+*d-30 gun was an improvement of d-25t but in the game the stats are the same. R61 Object252   HEAT and HE were only able to be fired from artillery version of d-30. R61 Object252 
+*Like many soviet tanks in game the IS-6 has increased gun depression. R61 Object252  In reality it had -3° instead of -6°
+*Its armour was unhistorically increased in patch 1. R61 Object252 2, most notibly the turret front from 150->190 and the upper glacis from 100->110 (mm)
+
+|Ref_references=
+
+* [https://www. R61 Object252 youtube. R61 Object252 com/watch?v=2Q_XhQ_ONvM '''Youtube''' ] RBS video review
+
+|Ref_sources=
+
+|External_Reviews= 
+
+|Ref_links=
+
+* [https://en. R61 Object252 wikipedia. R61 Object252 org/wiki/Iosif_Stalin_tank '''Iosef Stalin (IS) Series Heavy Tanks IS-1, IS-2, IS-3, IS-4, IS-6, IS-7'''] at wikipedia. R61 Object252 
+
+* [https://ru. R61 Object252 wikipedia. R61 Object252 org/wiki/%D0%98%D0%A1-6] '''Russian Wikipedia article on the IS-6 (in Russian)'''
+
+* [https://pro-tank. R61 Object252 ru/brone-sssr/336-tank-is6] '''(in Russian)'''
+
+* [https://www. R61 Object252 tankinfo. R61 Object252 ru/Country/SSSR/2/heavi/IS/IS-6_ob_252. R61 Object252 php] '''(in Russian)'''
+
+|Sidebar_Camostop=7. R61 Object252 1
+|Sidebar_Camomove=3. R61 Object252 7
+|Sidebar_Camofire=1. R61 Object252 4
+|Sidebar_Passhard=1. R61 Object252 151
+|Sidebar_Passmed=1. R61 Object252 438
+|Sidebar_Passsoft=2. R61 Object252 205
+|Sidebar_DispTurret=0. R61 Object252 115
+|Sidebar_DispRecoil=3. R61 Object252 836
+|Sidebar_DispAccel=0. R61 Object252 221
+|Sidebar_DispTurning=0. R61 Object252 221
+}}
+
+[[Category:USSR Tanks]]

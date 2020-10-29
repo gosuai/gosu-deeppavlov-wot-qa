@@ -1,0 +1,87 @@
+{{TankData|Tank=Object 268 Version 4
+|Replaced [[Object 263]]'s position in 9. R149 Object 268 4 22 patch. R149 Object 268 4  The '''Object 268 Version 4''' (often shortened to '''"268 V4"''', and also known as '''"Bobject"''') generates a considerable amount of controversy about rapid-firing Soviet tank destroyers line by turned the whole line into slow-firing, "high" alpha Assault Tank. R149 Object 268 4 
+
+However, the Object 268 Version 4 vehicle takes the definition of "Assault Tank" to the whole new level. R149 Object 268 4   It has an insane combination of armor and speed that makes up this vehicle. R149 Object 268 4  It can lead a charge to enemy front, block every hit from enemies, counter them with a 152mm boomstick, and even ram enemies with its medium tank speed and heavy tank weight. R149 Object 268 4 
+
+Still, it suffers from some downsides shared with other Soviet tanks; poor accuracy(on paper), and low DPM. R149 Object 268 4 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Outstanding frontal armor. R149 Object 268 4  Can soak an ungodly amount of premium rounds when used properly. R149 Object 268 4 
+* Good alpha damage and high penetration. R149 Object 268 4 
+* Extremely good gun handling for a large caliber gun. R149 Object 268 4  Can snapshoot rather well. R149 Object 268 4 
+* Ridiculous engine power, acceleration and speed for its weight. R149 Object 268 4  One of the best battering rams in the game. R149 Object 268 4 
+* Unmatched capacity to hold entire flanks by itself. R149 Object 268 4  
+
+|InTheGame_cons= 
+* Poor accuracy and below average DPM. R149 Object 268 4 
+* Bad traverse speed, vulnerable to flanking. R149 Object 268 4 
+* Thin side, rear, and roof armor. R149 Object 268 4  Takes high damage from artillery. R149 Object 268 4 
+* Frequently gets module damages and crew injuries. R149 Object 268 4 
+* Priority target. R149 Object 268 4  Ridiculous armor encourages the spam of HE. R149 Object 268 4 
+
+|InTheGame_performance= 
+This tank, even after update 1. R149 Object 268 4 02, still one of the strongest machines in the entire game. R149 Object 268 4  Possessing an excellent combination of characteristics, both medium and heavy tank tactics are allowed in this tank. R149 Object 268 4 
+Homever, this tank truly shines holding key positions for its team, taking an unhealthy abuse of enemies, and after annihilating everything across its path with its 152mm gun and ram capacities. R149 Object 268 4 
+This tank its extremely influential in the battle, and in the hands of a skilled player who has mastered the keys and weakness of this vehicle, will be the worst nightmare you'll find. R149 Object 268 4   
+
+
+
+|InTheGame_research= 
+None needed. R149 Object 268 4 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Heavy Spall Liner, Toolbox, Optics. R149 Object 268 4 
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The Object 268 version 4 is an SPG developed from the base of the Object 730, which itself later became the T-10M. R149 Object 268 4 
+
+
+==Armament==
+The initial armament chosen for what became the Object 268 was the 152mm M53 gun. R149 Object 268 4  This gun had a muzzle velocity of 760m/s and was developed by factory #172's design bureau in parallel with the shorter 152mm M31 and M48, both of which were planned for earlier heavy self-propelled guns but ended up cancelled and never built. R149 Object 268 4  Unlike them, the M53 was built along with its SPG, the Object 116 aka the SU-152P, in 1948. R149 Object 268 4  The vehicle's trials showed that it was not accurate enough to meet specifications, and so was rejected for production. R149 Object 268 4  The vehicle itself was preserved and can be seen in Patriot Park. R149 Object 268 4 
+
+The M53 cannon was used as a basis for a new SPG project, which was later designated the Object 268. R149 Object 268 4  According to preliminary calculations, the muzzle velocity of its shells would be 740 m/s. R149 Object 268 4  The M53 was mixed with some parts from the M62-T 122 mm tank gun. R149 Object 268 4  The overall mass of this system with no official name was 5100 kg. R149 Object 268 4 
+
+==Version 2==
+Version #2 of the new SPG had a rear fighting compartment, which allowed the reduction of the hull length of 6675 mm. R149 Object 268 4  Since the entire from of the vehicle was taken by the engine and transmission, the driver sat in the fighting compartment, to the right. R149 Object 268 4  The driver's visibility with this layout was not great. R149 Object 268 4 
+
+These inconveniences were balanced out by the relatively short overhang of the barrel, only 2300 mm. R149 Object 268 4  The front of the casemate was 150-180 mm thick, the sides were 90 mm thick. R149 Object 268 4  The upper front plate was only 75 mm thick, but sloped at 75 degrees. R149 Object 268 4  The vehicle was well protected. R149 Object 268 4  The crew consisted of four men. R149 Object 268 4  In order to ease the loader's job, shells were stored in a loading drum behind the gun. R149 Object 268 4 
+
+The draft of this variant, alongside the draft of the turreted Version 3, was created on April 25, 1952. R149 Object 268 4  It should be noted that these were created before the final draft of the tactical-technical requirements was finished, and they never officially carried the 268 index. R149 Object 268 4 
+
+==Version 4==
+The redesigned version of the 2nd variant which was indexed #4 was finished on December 18th, 1952. R149 Object 268 4  This design already had the index 268, and the chief designer was listed as Zh. R149 Object 268 4 Ya. R149 Object 268 4  Kotin. R149 Object 268 4  Externally, the 4th variant was similar to the 2nd, but the changes were significant. R149 Object 268 4 
+
+First of all, the length of the hull was increased to 6900 mm, almost the same as on the Object 730. R149 Object 268 4  The length of the barrel overhang was reduced by 150 mm. R149 Object 268 4  The sloped rear of the casemate was straightened out, which increased the available size. R149 Object 268 4  These changes were necessary, as the new technical requirements were for a crew of 5. R149 Object 268 4 
+
+The new crew member was a second loader, positioned behind the commander. R149 Object 268 4  The commander received a new cupola with a rangefinder and a machinegun with a curved barrel. R149 Object 268 4  The driver's station was redesigned, and he received new observation devices. R149 Object 268 4  The loading drum was left alone, but the project authors noted that the increased fighting compartment size meant that an even more powerful gun could be used. R149 Object 268 4  In parallel with the increased fighting compartment size, the armour protection was increased. R149 Object 268 4  The lower front plate was thickened to 160 mm. R149 Object 268 4  The front of the casemate stayed at 180 mm, but 160 mm thick cheeks were positioned at a sharp angle. R149 Object 268 4 The mass of the vehicle remained under 50 tons. R149 Object 268 4 
+
+In January 1953, Variant 4, along with Variant 5 (which itself was a modified version of Variant 3), were submitted  to the GBTU Scientific-Technical Committee and Ministry of Transport and Heavy Machinebuilding. R149 Object 268 4  After studying them, member of the committee decided that both projects required substantial changes to the hull of the T-10M that the SPG's were built off of and were cancelled. R149 Object 268 4  The only Object 268 that did end up being built was not ready until 1956, using the newer and considerably shorter (but with about the same muzzle velocity) 152mm M64. R149 Object 268 4 
+
+|HistoricalGallery= 
+File:SPG_on_Object_730_chassis. R149 Object 268 4 jpg{{!}}Variant 2 of the Object 268, dated to April 25, 1952. R149 Object 268 4 
+File:Variant_4_of_Object_268. R149 Object 268 4 jpg{{!}}Variant 4 of the Object 268, dated to December 18, 1952. R149 Object 268 4 
+File:Draft_of_modified_152_mm_M53_gun. R149 Object 268 4 jpg{{!}}Draft of the modified 152mm M53, dated to 1952. R149 Object 268 4 
+
+|HistAcc=
+* The frontal armor of the in-game Object 268 Version 4 is much stronger than its real-life specifications, which had a maximum frontal armor thickness of 180mm. R149 Object 268 4 
+* The in-game Object 268 Version 4 is 75 tons, way over the 50 tons that was planned. R149 Object 268 4  This is likely a reference to how the in-game version has much more armor. R149 Object 268 4 
+
+|External_Reviews=
+{{VideoYT|AMgqC3GFS6k}}
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://tankarchives. R149 Object 268 4 blogspot. R149 Object 268 4 com/2016/09/the-last-soviet-heavy-tank-destroyers. R149 Object 268 4 html
+* https://warspot. R149 Object 268 4 ru/6864-poslednie-sovetskie-tyazhyolye-istrebiteli-tankov The original article in Russian
+
+}}

@@ -1,0 +1,82 @@
+{{TankData|Tank= 
+|The '''Stridsvagn 103B''' is the Final milestone of Swedish Tank Destroyer line as the real ''"Born-to-be"'' tank hunter. S11 Strv 103B  Although its characteristics are fairly similar to [[Tank:S10_Strv_103_0_Series|Strv 103-0]], It has the third highest DPM in the game thanks to its powerful gun that is vastly improved from its predecessor. S11 Strv 103B  It can knock out even the [[Maus]] in one or two minutes. S11 Strv 103B 
+
+If players can handle its hydraulic suspension controls and know who, when, and where to snipe, It will reward you nicely. S11 Strv 103B 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Extremely powerful and devastating firepower: 3rd highest DPM (after the [[Tortoise]] and the [[Tank:GB92_FV217|Badger]]), best accuracy, no aim time and 2nd best regular round penetration in the game (After the [[FV215b (183)]] and FV4005)!
+
+- High mobility in travel mode; low terrain resistances. S11 Strv 103B 
+
+- Tied with its predecessor, it has low chance of catching fire (10%), although this is quite irrelevant due to fuel tanks getting damaged from the front. S11 Strv 103B 
+
+- Upper front plate is 50mm thick in most places and thus much harder to penetrate than earlier Swedish tanks. S11 Strv 103B  Also comes with front grills that can protect frontal HEAT shots. S11 Strv 103B 
+
+- Very high camouflage values, among the best in the game (can reach to more than 60%). S11 Strv 103B 
+
+- Longest radio signal range in the game at 850 meters. S11 Strv 103B 
+
+- APCR rounds have very high shell velocity, that allow the tank to hit fast-moving targets easier. S11 Strv 103B  Also, the standard APCR round does not lose too much penetration value when firing from long distance. S11 Strv 103B 
+
+|InTheGame_cons= 
+- Very low HP; tied with Grille 15, Bat Chat 25t and TVP T50 / 51 for having lowest non-SPG HP at tier 10. S11 Strv 103B 
+
+- Since the armor is flat, the tank is very vulnerable against SPGs, especially in Siege mode. S11 Strv 103B 
+
+- Has to wait a little to switch in and out from Siege mode, greatly limiting its versatility. S11 Strv 103B 
+
+- No gun traverse or depression outside of siege; top speed limited to 10/10 kph in Siege mode, very vulnerable in close range combat. S11 Strv 103B 
+
+- Lowest alpha damage of all tier 10 TDs, but it makes up for it with its astounding ROF. S11 Strv 103B 
+
+- High ammo cost compared to fast firing rate. S11 Strv 103B 
+
+- APCR rounds also serve as a drawback: their normalization angle is smaller than normal AP round (2 degrees compared to AP's 5 degrees, but is still better than HEAT and HE with no normalization at all), and will have trouble punching through well-angled enemies. S11 Strv 103B  Premium round penetration is not extraordinary at 350mm. S11 Strv 103B 
+
+
+
+|InTheGame_performance= 
+The Strv 103B is a great sniper and support tank as its low profile gives it great camouflage values. S11 Strv 103B  Best tactic is to search for a good position (preferably a bush), activate siege mode and wait for the enemy. S11 Strv 103B  Start using your accurate gun and perfect penetration to melt your enemies one by one. S11 Strv 103B  Alpha damage might be low for a tier X tank destroyer, but the quick reload time turns it into an advantage, since you can keep the enemy tracked and kill them in seconds. S11 Strv 103B  If you get spotted, change to travel mode which will take 1,3 seconds and then retreat backwards, as your high reverse speed is quite helpful for fast escapes. S11 Strv 103B  Your extremely angled roof can bounce some shots but it is better not to rely on this. S11 Strv 103B  Use your great mobility in travel mode and search for a new position. S11 Strv 103B 
+
+Another good tactic is to use the terrain. S11 Strv 103B  Look for hill edges, drive in siege mode over the the edge, fire and retreat in siege mode backwards under the edge. S11 Strv 103B  Your gun is almost at the top of the tank so you will expose only a small part of the angled roof. S11 Strv 103B  Many enemy shots will pass over you or bounce on the roof. S11 Strv 103B 
+
+As perfect as this tank is as a long range sniper, as terrible it is in a direct duel. S11 Strv 103B  If a light or medium tank comes close to you, your chances of survival is very low. S11 Strv 103B  Turning speed and mobility in siege mode is terrible and in travel mode you can´t aim your gun. S11 Strv 103B  This can lead also to trouble at the end of the battle in 2v2 or 3v3 situations. S11 Strv 103B  You can´t attack the enemy effectively as you will need 2 sec. S11 Strv 103B  to change to siege mode. S11 Strv 103B  This will only work if you can surprise someone from behind. S11 Strv 103B  Best way is to use your mobility, act as a scout and let your team mates finish the last enemies, or the opposite. S11 Strv 103B  As a last resort you can try to fire in travel mode at close enemies but the chance to miss it quite high unless it is point blank range. S11 Strv 103B 
+
+Due to the tank's inability to fight on close range, you should at all times stay behind and snipe. S11 Strv 103B  If you have the feeling that your flank is lost, retreat early and search for a new position. S11 Strv 103B  Some of your team mates might call you "camper" but playing defensive is the only way to play this tank, as Defense is its speciality. S11 Strv 103B    
+
+|InTheGame_research= 
+No research required, this tank is elite from purchase. S11 Strv 103B 
+
+|InTheGame_equipment=
+Medium-caliber Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|HistAcc= 
+* The actual vehicle was a main battle tank to used rather aggressively (there was no siege mode, but to get acceptable precision (>70% hit probability with the first round) it had to come to a complete stop just like every other tank of the time. S11 Strv 103B  Wargaming wanted a top tier TD and thought the 103 the best choice, so ingame it is a TD. S11 Strv 103B 
+* In reality the Strv 103 had an autoloader that could fire once every three seconds, fed from either the 25 round magazine (usually AP) or the 20 round magazine (usually HE), switching between the magazines with a press of a button. S11 Strv 103B  To prevent this vehicle from being overpowered like the removed Waffenträger auf E100, Wargaming decided to remove the autoloader from this tank in the game. S11 Strv 103B 
+* The Strv 103 had Amphibious Ability, but it is absent in this game. S11 Strv 103B 
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{#ev:youtube|RiDfxgTB_Dk}}
+
+|History= 
+In late 1964, after it became clear that the Strv 103 prototypes and pre-production vehicles had achieved the most important requirements placed on them, and the decision was taken to place an order for the production version. S11 Strv 103B  The first production batch included 70 vehicles with the first entering service in 1967 under the designation Strv 103a. S11 Strv 103B  In 1970, another batch of 220 vehicles followed, this time with modifications made as a result of the testing with the 0-series. S11 Strv 103B  The most important change was in the gas turbine: the 0-series and Strv 103a had both been equipped with the Boeing 502 (300hp) gas turbine, which had been found underpowered. S11 Strv 103B  In the Strv 103b, Boeing 502 was replaced with the Caterpillar 553 (490hp), which, combined with the Rolls-Royce K60 diesel engine, produced 730hp, giving the tank the power to weight ratio of 18hp/t. S11 Strv 103B  The Strv 103b also introduced the built-in swimming equipment, the dozer blade, and a laser sight to the production model. S11 Strv 103B  The Strv 103A were soon upgraded to B-standard. S11 Strv 103B  Adjustments to the hydro-pneumatic suspension increased elevation range from -10 through +12 degrees, to -11 through +16 degrees. S11 Strv 103B <br />
+{{VideoYT|5Vr0YmNfYHw}}
+
+|HistoricalGallery=
+image:Strv103reallife. S11 Strv 103B jpg{{!}}Strv 103B
+image:Strv103bathtub. S11 Strv 103B jpeg{{!}}Strv 103B with Amphibious equipment
+File:Strv_103_anti-HEAT_armor. S11 Strv 103B jpg{{!}}Anti-HEAT armor being installed on an Strv 103. S11 Strv 103B  The aim of this armor was to prematurely detonate HEAT shells that struck it. S11 Strv 103B 
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S11 Strv 103B wot-news. S11 Strv 103B com/2014/08/21/swedish-tanks-part-xvii-strv-103/
+
+}}

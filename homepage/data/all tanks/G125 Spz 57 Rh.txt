@@ -1,0 +1,45 @@
+{{TankData|Tank=Rheinmetall Panzerwagen 
+| 
+|Gallery= 
+
+|InTheGame_pros= 
+* Outstanding top speed, great acceleration and hull traverse speed
+* Excellent HE penetration, the best for a Tier 10 light tank
+* Great gun depression, the turret is also very small
+* Excellent base viewrange of 420 metres
+* Joint largest hitpoint pool in tier/class
+
+|InTheGame_cons= 
+* Low alpha damage and DPM
+* Limited ammo capacity
+* Large profile with bad camouflage for a light tank
+* Paper-thin armor, takes catastrophic damage from HE and ramming
+* Very prone to flipping when maneuvering at high speed
+
+|InTheGame_performance=
+
+
+|InTheGame_equipment= 
+Tank Gun rammer, Vertical Stabilizer, Coated Optics
+
+|InTheGame_Equipment_Builds= 
+
+|External_Reviews= 
+
+|History= 
+
+The Rheinmetall Panzerwagen is based on the tank design patented by Rheinmetall in 1957. G125 Spz 57 Rh  The design was notable for its unique turret and gun set-up, which let the gun depress through the top of the tank. G125 Spz 57 Rh  This lets the tank keep a low profile without sacrificing gun depression. G125 Spz 57 Rh 
+
+|HistoricalGallery= 
+File:Rheinmetall_tank_1. G125 Spz 57 Rh png
+File:Rheinmetall_tank_2. G125 Spz 57 Rh png
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://thearmoredpatrol. G125 Spz 57 Rh com/2016/12/18/identifying-the-new-tier-10-lights/
+* https://youroker. G125 Spz 57 Rh livejournal. G125 Spz 57 Rh com/27986. G125 Spz 57 Rh html
+
+}}

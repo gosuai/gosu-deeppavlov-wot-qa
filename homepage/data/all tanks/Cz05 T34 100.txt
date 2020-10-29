@@ -1,0 +1,104 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:Konstrukta T-34 100 scr 1. Cz05 T34 100 jpg
+File:Konstrukta T-34 100 scr 2. Cz05 T34 100 jpg
+File:Konstrukta T-34 100 scr 3. Cz05 T34 100 jpg
+
+
+|InTheGame_pros=
+* Excellent top gun alpha damage and penetration for a Tier 7 medium tank
+* Uses HEAT for premium ammo, with very good penetration
+
+
+|InTheGame_cons=
+* Poor armor, similar to Russian counterpart [[T-34-85]]
+* Extremely prone to module damage and crew injury
+* Poor gun depression
+* Low ammo capacity with the top gun
+* Awful stock grind
+
+|InTheGame_performance= 
+The T-34/100 is a tank with superb firepower for a tier 7 medium, but sacrifices armor and mobility. Cz05 T34 100  Unlike the previous and following tanks in the line, its gun depression cannot be relied upon. Cz05 T34 100  Therefore, due to surprisingly decent accuracy and soft stats on the gun, a driver should make the most of the 100mm gun by supporting allies in the second line. Cz05 T34 100  Though the T-34/100 cannot take many hits, its surprisingly good terrain resistance values allow it to shift quickly on the battlefield and provide support where its 100mm gun is needed the most. Cz05 T34 100 
+|InTheGame_research= First, go for the suspension in order to mount the gun. Cz05 T34 100  
+You should focus on the gun, it provides a much needed damage and penetration boost. Cz05 T34 100 
+After the gun, go for the turret, which significantly improves stats on the gun. Cz05 T34 100 
+Engine and radio are optional. Cz05 T34 100 
+
+|InTheGame_equipment=
+Coated Optics, Improved Ventilation Class 2, Enhanced Gun Laying Drive, Medium-Caliber Tank Gun Rammer, "Wet" Ammo Rack Class 1
+
+
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The history of the Czechoslovak T-34 tanks was long and somewhat colourful. Cz05 T34 100  They served in the Czechoslovak People's Army (CSLA) for quite a long time and had several modifications made. Cz05 T34 100  Let's have a look at their history in detail. Cz05 T34 100 
+
+
+In order to begin our story, we have to go back to 1945. Cz05 T34 100  Germany was just defeated after the worst war in human history and people were slowly recovering from the horrors of nazism, oblivious to the fact that the Soviets weren't the liberators they had hoped for - but they'd soon find out they weren't freed, they just changed one master for another. Cz05 T34 100  But for now, freedom was the word of the day. Cz05 T34 100  Leftist ideas (supported by the heroic pictures of Soviet troops in Prague on their iconic T-34 tanks) helped to shift the whole political system to the left. Cz05 T34 100  The situation escalated in February 1948, when the communists took over the country - and this is where it all started. Cz05 T34 100 
+
+In months following the takeover, the army was consolidated, anti-communist elements eliminated and the independent development (notably in tanks) was stopped and fully transferred under Soviet command. Cz05 T34 100  Several promising projects were scrapped (for example the TVP and LP tanks) and the technology acquisition focused on Soviet tech. Cz05 T34 100  In july 1949, a license to produce a local copy of the T-34/85 tank was acquired from Soviet union and by November, the drawings and plans needed to manufacture the vehicle were transferred from Factory No. Cz05 T34 100 183. Cz05 T34 100  Along with the plans, Soviet "advisors" (some of them were intelligence agents) were transferred to Czechoslovakia. Cz05 T34 100  They helped to build the ČKD plant in Sokolovo and prepare it for production - it was ready by the end of 1950. Cz05 T34 100  The (by then nationalized) ČKD thus became the main contractor for the production of the T-34/85 tanks, with Škoda Pilsen being a subcontractor for engines, SMZ Dubnice nad Váhom a subcontractor for the guns and the J. Cz05 T34 100 V. Cz05 T34 100 Stalin Factory in Martin manufactured the hulls. Cz05 T34 100 
+
+The first T-34 tanks were assembled partially from parts imported from Soviet Union. Cz05 T34 100  The first tank was assembled on 1. Cz05 T34 100 9. Cz05 T34 100 1951. Cz05 T34 100  Eight more were produced until October and they were subjected to series of army trials (whcih - under the pressure from Soviet Union - were made quicker than usual). Cz05 T34 100  The trial results were however a partial failure due to the low manufacture quality of the first vehicles (notably the steering, the clutch, the sprocket drive and the electroinstallation were problematic). Cz05 T34 100  However, despite this setback, the tank was given a green light by the government and serial ČKD production started in February 1952 (it continued until december 1953). Cz05 T34 100  Imported parts were used until winter of 1952, when the first fully Czechoslovak-made tank rolled from the assembly line. Cz05 T34 100  In the meanwhile, a political decision was taken to transfer the manufacture plant from ČKD Sokolovo to Martin (Slovakia) (the reason was the "expected American aggression", in which case Martin wouldn't be anywhere near the frontlines). Cz05 T34 100  First tanks in Martin were produced in May 1952 (the production ran for more than a year simultaneously in both plants) and they were manufactured here until the end of 1956. Cz05 T34 100 
+
+Between 1951-1956, 2736 T-34/85 tanks were manufactured in Czechoslovakia in total (other sources however claim s many as 3185 tanks in total - it's possible this number includes the VT-34 engineering vehicles, JT-34 crane vehicles and the MT-34 bridgelayer vehicles, PBCHT-34 NBC-proof recon vehicle and PB-34 heavy bulldozer). Cz05 T34 100  The early series had their flaws (notably the gearboxes remained problematic for years, their quality was in the first year allegedly even lower than of those manufactured in Soviet union). Cz05 T34 100  All the vehicles produced in 1955 and 1956 however went for export (1437 went to the Czechoslovak army, 1299 were exported). Cz05 T34 100  In the last 3 years, the quality of the vehicles improved significantly and some improvements were made. Cz05 T34 100  The export desitnations were mainly Egypt (820 vehicles) and Syria (120 vehicles), Romania and Bulgaria, but also other exotic destinations, such as India, Iraq and Yemen. Cz05 T34 100  Cuba recieved 100 machines (possibly phased out from CSLA service) for 33 percent of their original price and Mali recieved another 10 machines like this also and so did Mozambique. Cz05 T34 100 
+
+Apart from the locally manufactured T-34/85, Czechoslovakia also recieved wartime surplus machines directly from the Soviet Union - from 1945 to 1950, 366 vehicles in total (plus 5 T-34/76 in 1945). Cz05 T34 100  The 1945 machines weren't new however, they served before with the Red Army Czechoslovak units (1st Czechoslovak Army Corps). Cz05 T34 100 
+
+Both the manufactured and the imported T-34 tanks were introduced to the Czechoslovak tank corps from 1952 to 1958 - in 1956, the number of active T-34/85 tanks peaked at 1701 machines in service. Cz05 T34 100  From that point, the numbers went down, but the tank remained in active service for very long. Cz05 T34 100  In 1967, the ČSLA still had 1120 of those tanks in active service and in 1971 around 780 of these vehicles. Cz05 T34 100  Last of these vehicles were apparently phased out in late 70's. Cz05 T34 100 
+
+==Differences from Soviet vehicles==
+
+The most significant difference remained the manufacturing quality. Cz05 T34 100  Despite the fact the initial series were quite bad quality-wise, the level of manufacture steadily improved and by 1954, the vehicles were better made than the ones in Soviet union. Cz05 T34 100  Notably the technical allowances were lower. Cz05 T34 100 
+
+Other changes included:
+
+- installing the German (captured) "Notek" night-lamps on the early vehicles
+- shifting the commander's copula more to the left from the axis of the turret
+- mounting the light/infralight combo under the common construction on the hull
+- the infantry signal horn moved to the back of the vehicle under an armored "roof"
+- mounting the compressor for filling the emeregency start gas canisters directly into the tank
+- installing the new BTI-3 air purifiers
+- bigger 107l fuel tanks
+- left oil canister replaced by an additional fuel tank
+- different fuel feed system (BNK-12B rotary fuel pump and 12-plunger injecting fuel pump) 
+- improved clutch
+- improved transmission (5+1 with reduction possibility)
+- different brake pads
+- the braces for attaching logs to the vehicle on the left side of the tank
+- special fording kit
+- special CSLA one-shot smoke grenades. Cz05 T34 100 
+
+The vehicles were armed with the Slovak-manufactured Vz. Cz05 T34 100 44 cannon, which was basically an improved version of the Soviet ZIS-53 gun. Cz05 T34 100  The ammunition was unified with the Soviet original. Cz05 T34 100 
+
+==T-34/100==
+
+Since early 50's, there have been attempts to improve the design of the T-34/85 to increase its combat value. Cz05 T34 100  In 1953, the army technical institute recieved an order to arrange the installation of the Soviet D-10S gun (resp. Cz05 T34 100  slightly improved Czechoslovak copy thereof under the name of 100mm vz. Cz05 T34 100 44 S, produced in Slovakia for the SD-100 - a Czech copy of SU-100) in the regular T-34/85 turret, if possible without changing the original turret parameters. Cz05 T34 100  In September 1953, the Slovak company Konštrukta Trečín was tasked with the development of this project. Cz05 T34 100  The initial evaluation of the project stated that the turret modifications would result in changes to depression and gun elevation (-3/+20 degrees), with the rate of fire of 8 rounds per minute. Cz05 T34 100 
+On 6. Cz05 T34 100 4. Cz05 T34 100 1954, two design variants were presented by Konštrukta developers to the VTU (army technical institute), along with a preliminary price calculation. Cz05 T34 100  Both variants presumed the removal of TŠ-20 indirect fire sights. Cz05 T34 100  The gun was also modified by adding a coaxial DTM machinegun to its right side. Cz05 T34 100  Both variants differed by solving the gun mantlet and by positioning the gun. Cz05 T34 100  Both were also viable, but the price was far less space for the gunner and the loader in the turret. Cz05 T34 100  It was absolutely clear that the gun aiming and loading time would suffer. Cz05 T34 100  Worse still, it was found out that the ammunition load would suffer too - for both variants, only 6 ready rounds would be able to be stored in the turret itself. Cz05 T34 100  Both variants were however sound stability-wise and the designers hoped the handling characteristics of the tank wouldn't be diminished. Cz05 T34 100 
+
+Despite this, the project was judged as fundamentally flawed. Cz05 T34 100  Even though the army command still wanted to increase the firepower of the T-34/85, it was clear this wouldn't be the way. Cz05 T34 100  In April 1954, one army general issued yet another demand for firepower increase for the T-34 for the production years 1955-1960, but this time, they had a completely different weapon in mind (an indigenous Czech 100mm autoloaded and fully stabilized cannon, possibly the still-developed AK1, originally meant for the TVP project). Cz05 T34 100  This demand however was not accepted by the high command and that was the end of the attempts to increase the firepower of the T-34. Cz05 T34 100  The project was officially cancelled on 30. Cz05 T34 100 6. Cz05 T34 100 1954 - the main reason for it (apart from the aforementioned flaws) being the successful negotiations about the T-54 production licenses. Cz05 T34 100 
+
+|HistoricalGallery= 
+image:T-34_syria. Cz05 T34 100 jpg{{!}}Czech T-34 in Syria
+image:T34_kuba01. Cz05 T34 100 jpg{{!}}Czech T-34 in Havana, Cuba
+image:Var1. Cz05 T34 100 jpg
+image:Var2. Cz05 T34 100 jpg
+
+|Ref_references=
+
+|Ref_sources=
+* www. Cz05 T34 100 valka. Cz05 T34 100 cz
+* M. Cz05 T34 100 Dubánek - Od bodáku po tryskáče
+
+|Ref_links=
+* https://ftr-wot. Cz05 T34 100 blogspot. Cz05 T34 100 cz/2013/02/czechoslovak-t-3485-and-t-34100-tanks. Cz05 T34 100 html
+* https://ftr. Cz05 T34 100 wot-news. Cz05 T34 100 com/2014/01/27/czechoslovak-t-34100-drawings/
+
+}}

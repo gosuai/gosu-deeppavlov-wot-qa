@@ -1,0 +1,90 @@
+{{TankData|Tank=
+|The CDC is a rather interesting tank. F68 AMX Chasseur de char 46  While it was originally intended as a tank destroyer, in WoT it's classed as a medium tank. F68 AMX Chasseur de char 46  The hard stats will lead you to believe that this is essentially a fat light tank - 35hp/t being one of the best in the game. F68 AMX Chasseur de char 46  
+
+However, due to hidden stats, namely ground resistance, the tank is much slower than you'd think. F68 AMX Chasseur de char 46  Adding to the problems is bad gun handling - all in all it results in an inadequate package of a quick-ish medium tank with an average gun, bad gun handling and absolutely no armor. F68 AMX Chasseur de char 46  In case that's not enough, the camo values are between a Pershing and a Panther. F68 AMX Chasseur de char 46  That's 'mediocre' to 'pretty darn bad', in other words. F68 AMX Chasseur de char 46 
+
+While the CDC was considered one of the best premium tanks at its introduction, it's not mostly a relic of the past. F68 AMX Chasseur de char 46  Penetration, while good, is not enough for the matches this thing will see, nor is it good enough to compensate for lackluster gun handling. F68 AMX Chasseur de char 46 
+
+Good players might be able to exploit the arguably above average mobility of the tank, but it remains a tank with extremely low survivability. F68 AMX Chasseur de char 46  Big size, low camo, slow aiming, most things are against you even when employing what would appear to be ideal tactics for a fast tank destroyer. F68 AMX Chasseur de char 46  That's not even counting that this playstyle is impossible on most of the in-game maps. F68 AMX Chasseur de char 46  
+Adding to the problem is that most players will load HE when you come around. F68 AMX Chasseur de char 46  This means that trading shots or dueling tanks is extremely risky at best. F68 AMX Chasseur de char 46  Artillery will feast on you, and with a direct hit you won't even remember that there was an arty rebalance trying to counter the 1000-damage penetrating hits. F68 AMX Chasseur de char 46 
+
+|Gallery=
+
+File:AMX Chasseur de chars scr 2. F68 AMX Chasseur de char 46 jpg
+File:AMX Chasseur de chars scr 3. F68 AMX Chasseur de char 46 jpg
+File:AMX Chasseur de chars scr 4. F68 AMX Chasseur de char 46 jpg
+File:AMX Chasseur de chars screen1. F68 AMX Chasseur de char 46 jpg
+File:AMX Chasseur de chars screen2. F68 AMX Chasseur de char 46 jpg
+File:AMX Chasseur de chars screen3. F68 AMX Chasseur de char 46 jpg
+File:AMX Chasseur de chars scr 1. F68 AMX Chasseur de char 46 jpg
+
+
+|InTheGame_pros= 
+* Above-average penetration for T8. F68 AMX Chasseur de char 46 
+* Fast hillclimber. F68 AMX Chasseur de char 46 
+* Great gun depression at 10 degrees; effective on hilly terrain
+* High ammunition count
+* Good credit-making ability for its price
+
+|InTheGame_cons=
+* Non-existent armour
+* Low top speed for a so-called fast medium tank. F68 AMX Chasseur de char 46 
+* Bad camouflage values (for a pure support tank)
+* Huge size (especially length) for a medium; even bigger than some heavies in-game
+* Sluggish due to hidden stats, effectively negating most of the engine power advantage. F68 AMX Chasseur de char 46 
+* Frequent ammo rack damage. F68 AMX Chasseur de char 46 
+* No preferential matchmaking
+
+|InTheGame_performance= 
+As it effectively has no armor at all, the AMX CDC demands a careful playstyle. F68 AMX Chasseur de char 46  Avoiding damage entirely through concealment and clever positioning and relocating is essential and brawls are to be avoided at all costs. F68 AMX Chasseur de char 46  Consider the CDC a lightly armed, turreted tank destroyer more than a medium tank. F68 AMX Chasseur de char 46 
+
+|InTheGame_research=
+None required, a premium tank comes elited. F68 AMX Chasseur de char 46 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Coated Optics, Improved Ventilation. F68 AMX Chasseur de char 46 
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|nBWHoh93Zm0}}
+
+|History=
+
+The AMX Chasseur de Chars (literally "Hunter of Tanks/Tank Hunter") was a lightly armored tank destroyer, designed in 1946 upon the chassis of the AMX M4 project. F68 AMX Chasseur de char 46  The project was cancelled in the blueprint stage with no prototypes built. F68 AMX Chasseur de char 46 
+
+'''Characteristics''':
+
+* Length: 7. F68 AMX Chasseur de char 46 38 m 
+* Width: 3. F68 AMX Chasseur de char 46 25 m 
+* Height: 2. F68 AMX Chasseur de char 46 70 m
+* Weight in combat order: 34 t
+* Armor: front: 30 mm, other parts 20 mm
+* Suspension: Torsion bars
+* Engine: Maybach HL 295 12 cylinders 1200 hp
+* Transmission: AK5-250 5-speed
+* Armament: 1 90 mm Schneider gun and coaxial machine gun, 1 cash machine gun. F68 AMX Chasseur de char 46 
+* Ammunition: 90 shells, 18 magazines
+* Fuel: 1,700 liters of gasoline in 4 tanks at the rear. F68 AMX Chasseur de char 46 
+* Run time: 6 hours
+* Crew: 4 men, tank commander, gunner, loader, driver
+
+
+|HistoricalGallery=
+
+File:AMX_CDC_sketch. F68 AMX Chasseur de char 46 jpg{{!}}Contemporary sketch of the AMX CDC
+File:AMX_CDC_side_blueprint. F68 AMX Chasseur de char 46 jpg{{!}}AMX CDC blueprint from the side
+File:AMX_CDC_top_blueprint. F68 AMX Chasseur de char 46 jpg{{!}}AMX CDC blueprint from the top
+
+|HistAcc=
+- It was originally designed as a tank destroyer, not a medium tank. F68 AMX Chasseur de char 46  The name translates to English as "AMX Tank Destroyer"
+
+|Ref_references=
+
+|Ref_sources=
+
+* Archives DGA Chatellerault
+
+|Ref_links=
+* https://www. F68 AMX Chasseur de char 46 chars-francais. F68 AMX Chasseur de char 46 net/2015/index. F68 AMX Chasseur de char 46 php/liste-chronologique/de-1945-a-1990?task=view&id=729
+
+}}

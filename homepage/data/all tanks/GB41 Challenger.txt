@@ -1,0 +1,99 @@
+{{TankData|Tank=
+|
+It is often called one of the worst tier 7 tank Destroyers, although in actuality, once you are past the first gun and turret, it becomes a reasonable competitive vehicle as long as you play on a map with ample concealment. GB41 Challenger  Under the right circumstances it can be used as either a sniper, or a flanker, though it is not ideal in either role. GB41 Challenger  
+
+
+|Gallery=
+File:Challenger scr 1. GB41 Challenger jpg
+File:Challenger scr 2. GB41 Challenger jpg
+File:Challenger scr 3. GB41 Challenger jpg
+
+
+|InTheGame_pros=
+* Very fast speed and surprisingly good traverse (for a TD), can let it play a flanking role or fall back when in danger
+* Great gun depression of 10 degrees all around the tank
+* Good gun handling and accuracy lets even less experienced players nail shots frequently
+* Very fast RoF compensates for the horrible alpha damage
+* Has a turret and pivots unlike most TDs of same tier
+* 32pndr has excellent penetration 
+
+
+|InTheGame_cons=
+* Large size and thin armor makes you easy pickings for enemy tanks, especially arty
+* 2nd turret has a mere 40mm of frontal armor (200mm on the back, which is rarely useful)
+* 32pdr limits turret traverse to 60 degrees on either direction
+* Awful stock grind if coming straight from the Firefly as none of the guns are available
+
+
+|InTheGame_performance=
+WHen it was introduced, this tank suffered from a poor synergy between the vehicle and the gun. GB41 Challenger  The 17 pounder's low alpha damage required that you hit targets repeatedly in order to do significant damage, but the vehicle lacks the armour to stand up to return fire and it's large silhouette and poor camouflage values make this tank difficult to conceal (even with camo-oriented setup, most enemies will spot you from about 350m). GB41 Challenger  
+The resulting combination was reminiscent of an [[M18 Hellcat]] that lacks the 90 mm gun. GB41 Challenger  This is playable at Tier 6, but for a Tier 7 vehicle it poses considerable difficulties. GB41 Challenger  
+Since Patch 9. GB41 Challenger 20. GB41 Challenger 1 the Callenger has been buffed with the 32 pounder gun, which allows it to operate as a sniper, combining reasonable alpha damage with good accuracy. GB41 Challenger 
+
+The primary role of this tank is long-range sniping. GB41 Challenger  Its decent mobility allows it to take advantageous positions early and quickly change positions, should such need arise. GB41 Challenger   Avoid close-range fighting - poor armor, slow traverse and low accuracy while moving make you an easy prey for most light and medium tanks you encounter. GB41 Challenger  
+After the Buff in update 9. GB41 Challenger 15, it is a reasonably effective flanking tank, especially with the top gun and turret and on maps such as Malinovka, where the good maneuverability will allow you to harass enemy tanks from behind rather effectively. GB41 Challenger  
+An important aspect to this way of playing the Challenger is planning. GB41 Challenger  The turret traverse is very slow, so you need to turn it in the right direction well in advance, the follow whatever route past the target that you have chosen. GB41 Challenger  
+Keep in mind that the Challenger lacks a gun mantlet, so working a ridge-line, or going hull down is not a viable option. GB41 Challenger  
+When low tier, the Challenger can perform well as a passive scout. GB41 Challenger  Just make sure not to fire any shots as it will cost you most of your camouflage
+
+An interesting thing to note is that the stock turret of the Challenger is very similar to the turret on the TOG II*. GB41 Challenger  This is not coincidental; during development, the TOG II* was fitted with a variety of turrets, the final configuration seen today in the Bovington Tank Museum and in the game used the Challenger's turret. GB41 Challenger  
+
+|InTheGame_research=
+The first thing that you definitely want to research is the gun, the tank is useless without the second gun and so it is a must. GB41 Challenger 
+
+Next, research the second turret, as it will give you a huge RoF boost and is actually lighter than the first. GB41 Challenger  
+
+Once you have the second turret, research the top gun. GB41 Challenger 
+
+After this, research everything else in any order, it doesn't really matter. GB41 Challenger 
+
+Note that if you've fully researched the Achilles, you'll have all modules available immediately with the exception of the turret and tracks. GB41 Challenger  The 2nd turret is lighter than the stock turret, so the tracks can be researched last, if at all. GB41 Challenger 
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+Since stealth and manoeuvrability are your only defence, you will need to train camouflage on all crew members. GB41 Challenger  Once the first skill is at 100 percent, immediately change the commander to sixth-sense. GB41 Challenger  
+Skills like situational awareness and recon to increase the view range are also useful. GB41 Challenger  However, keep in mind that this is not a tank you are likely to keep in your garage once you have unlocked the [[Charioteer]], so additional crew-training should focus on the needs of future vehicles. GB41 Challenger 
+
+|InTheGame_equipment=Tank Gun Rammer, Binocular Telescope, Camouflage Net, Improved Ventilation class 2
+
+|External_Reviews=
+
+https://forum. GB41 Challenger worldoftanks. GB41 Challenger com/index. GB41 Challenger php?/topic/446098-a-challenger-perspective-not-the-worst-td/
+
+|History=
+
+The Tank, Cruiser, Challenger (A30) was a British tank of World War II. GB41 Challenger  It mounted the QF 17-pounder anti-tank gun on a chassis derived from the Cromwell tank to add heavier anti-tank firepower to the cruiser tank units. GB41 Challenger 
+
+The design compromises made in fitting the large gun onto the Cromwell chassis resulted in a tank with a powerful weapon, but with less armour. GB41 Challenger  The extemporised Sherman Firefly conversion of the US-supplied Sherman was easier to produce and, combined with delays in production, meant that only 200 Challengers were built. GB41 Challenger  However, it was able to keep up with the fast Cromwell tank and was used alongside them. GB41 Challenger 
+
+The driving force in the development of Challenger was Roy Robotham. GB41 Challenger  Robotham had been a Rolls-Royce executive in the car division who, with no work to do, had led a team to develop a tank powerplant from the Rolls-Royce Merlin aircraft engine. GB41 Challenger  The Rolls-Royce Meteor gave the British a powerful, reliable engine, which would power the A27M Cruiser Mk VIII Cromwell tank. GB41 Challenger  Robotham's contributions gained him a place in the Ministry of Supply and on the Tank Board, despite his lack of experience in tank design. GB41 Challenger [5]
+
+The General Staff brought forward specification A29 for a 45-ton 17-pounder-armed cruiser tank based on needs identified in the African desert campaign. GB41 Challenger  The design weight of this vehicle was too heavy however, and prior to manufacture the specification was passed over in favour of the alternate specification, A30 at 10 tons lighter. GB41 Challenger [6]
+
+In 1942, an order for an A30 based tank was placed with Birmingham Railway Carriage and Wagon Company (BRC&W) expecting it to be based on the Cromwell components also being manufactured by BRC&W. GB41 Challenger  Turret and gun mounting was in the hands of Stothert & Pitt. GB41 Challenger  Birmingham Carriage had to modify the Cromwell hull to take a bigger turret. GB41 Challenger 
+
+The design received additional emphasis when it was found in May 1943 that the Cromwell was not going to be able to fit its intended armament. GB41 Challenger  Vickers had been developing a 50-calibre-long 75mm "High Velocity" tank gun. GB41 Challenger  It was realised late in the design process that the Cromwell's turret ring was too small to mount this 75 mm (3. GB41 Challenger 0 in) gun. GB41 Challenger [7] Thus the Challenger would be the only British cruiser tank to mount a weapon that could tackle heavier German armour until the arrival of the A34 Comet. GB41 Challenger 
+
+British tank production was a limited resource however, and insufficient numbers could be made. GB41 Challenger  In the lead-up to D-Day, Sherman tanks were upgraded with the 17-pounder creating the interim Sherman Firefly. GB41 Challenger  Conversions of Sherman tanks to Fireflys was simpler than production of Challenger, and the A30 order was cancelled after about 200 had been built allowing BRC&W to focus on production of the Cromwell. GB41 Challenger 
+
+The tank was rendered obsolete when the Vickers HV 75 mm gun was developed to become the 77mm HV (actually 76. GB41 Challenger 2 mm calibre) to arm the Comet tank. GB41 Challenger  The 77mm HV used the same projectiles as the 17-pounder although with a reduced propellent charge compared to the 17-pdr. GB41 Challenger  The 17-pdr was briefly used on earlier marks of Cromwell's successor -the Centurion tank. GB41 Challenger 
+
+
+|HistAcc=
+The Challenger in this game is an amalgamation of the Challenger cruiser tank and the Avenger tank destroyer. GB41 Challenger  The Avenger utilised a new hull based on the Comet cruiser tank; the turret was never fitted to a Challenger. GB41 Challenger 
+* The 32-pdr gun configuration is fictitious. GB41 Challenger  It was only used on the Tortoise heavy assault tank. GB41 Challenger 
+* SCC No. GB41 Challenger  15 Olive Drab paint scheme is missing. GB41 Challenger  This was the base colour on all British AFVs in Europe from April 1944. GB41 Challenger 
+* Allied star identification marking is missing. GB41 Challenger  The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Challenger entered service in 1944. GB41 Challenger 
+
+|HistoricalGallery=
+Challenger. GB41 Challenger jpg
+Challenger (1). GB41 Challenger jpg{{!}}Challenger tank of 15/19th Hussars, 11th Armoured Division in Holland on 17 October 1944
+Avenger. GB41 Challenger jpg{{!}}SP 17pdr, A30 (Avenger)
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

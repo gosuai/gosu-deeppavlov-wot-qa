@@ -1,0 +1,54 @@
+{{TankData|Tank=A46
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good top speed, ground resistances, and hull traverse
+* Decent gun depression & elevation, fast turret rotation
+* Good base camouflage rating
+* Decent view range
+
+|InTheGame_cons= 
+* Worst-in-class HP pool and no reliable armor
+* Poor gun overall--bad DPM, alpha, accuracy, penetration, handling, and shell velocity
+* Weak acceleration for a light tank, lacks engine power
+* Poor crew trainer for the British light tank line
+* Terrible radio, low signal range
+
+|InTheGame_performance= 
+The A46 is a tier 6 British light tank, which is unfortunate--it must challenge some very popular and solid performers in this tier and class, which has such standouts as the popular [[Type 64]] and [[AMX 12 t]] tanks. GB108 A46  True to the line philosophy, this British light tank is more about stealth, vision control, and sneaking in damage where you can. GB108 A46  It requires a fairly passive and patient play style, somewhat akin to a forward tank destroyer. GB108 A46 
+
+Taking advantage of the A46's few advantages requires a primarily vision-oriented build, excellent map knowledge, and knowing when the enemy has something more interesting to shoot at than you. GB108 A46  Find good concealment and settle in with vision equipment active. GB108 A46  The main purpose of the A46 early in the game is finding the enemy and informing your team of what is incoming. GB108 A46  It is recommended to set up someplace where your tank destroyers can provide covering fire. GB108 A46  
+
+Resist the urge to fire on the enemy early on unless a critical target needs to be eliminated; your gun is awful in just about every way imaginable, and you cannot afford to risk getting shot at while the enemy team is fresh. GB108 A46  Only fire if a high-value target is exposed and on less than 75 health (so that even a low damage roll will take them out in a single shot). GB108 A46  You cannot afford to linger to keep pumping shots the enemy like the Type 64 or [[T-50-2]]. GB108 A46  Spotting should be your priority. GB108 A46  Your awful radio range of just 450m will make it hard to spot for friendly artillery especially, so stick near to allied tanks if at all possible. GB108 A46  
+
+If you still have most of your hit points, you can afford to be braver towards the middle and late stages of the game. GB108 A46  Your HP pool is small, so conserve every point possible! Do not let the enemy know where you are, or give them a chance to hit you. GB108 A46  Due to your poor effective armor, there is simply no meaningful protection to call on, not even a gun mantlet. GB108 A46  It is far better to play it safe and deny the enemy a chance to hit you, so be ready to reposition if they become too aware of your location. GB108 A46 
+
+'''Do not ram with this tank. GB108 A46 ''' It is far too light and thinly armored to survive impacts with other vehicles. GB108 A46  Only ram as a measure of last resort if you have no other choice. GB108 A46  Conversely, be aware that enemies will know that you are extremely lightweight and easy to smash physically. GB108 A46  Be prepared for rams and to avoid them by whatever means necessary. GB108 A46 
+
+Play patiently, use your camouflage and mobility to the utmost, and take advantage of distracted or unaware foes. GB108 A46  Remember that you are not the tip of the spear, you are advance reconnaissance: get in, get eyes on the target, and get out before the enemy realizes that they've been caught out. GB108 A46 
+
+|InTheGame_research= 
+
+As a reward tank, the A46 is elite in its stock configuration. GB108 A46 
+
+|InTheGame_equipment=
+Camouflage Net, Tank Gun Rammer, Binocular Telescope, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

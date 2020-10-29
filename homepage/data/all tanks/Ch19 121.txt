@@ -1,0 +1,90 @@
+{{TankData|Tank=
+|The 121 continues the Chinese tradition of installing the largest gun possible on a medium tank. Ch19 121  The 121 is an all round improvement over the WZ-120 with improved gun handling and DPM being the main benefits. Ch19 121 
+With its 122mm gun, the 121 excels in the peek-and-boom role, and may outtrade most other medium tanks or even heavy tanks. Ch19 121  The armor might not lend itself to proper front-line use, but as always the soup-bowl turret and angled frontal plate will extend your survivability. Ch19 121 
+
+The 121 is a menacing opponent for any tank in a straight close-range brawl and is flexible enough to carry games with its raw damage output. Ch19 121  Still, expect to struggle if not fighting on your own terms - the gun handling is nowhere near the best T10 mediums. Ch19 121 
+
+
+|InTheGame_pros=
+* Joint highest alpha damage in tier/class, good penetration
+* Very good DPM, good gun handling and accuracy
+* Strong turret armor and better hull armor than its predecessor [[WZ-120]]
+* Excellent hull traverse speed and good ground resistance, great agility
+* Low profile, good camouflage values
+
+
+|InTheGame_cons=
+* Despite improvements, the hull armor is still unreliable
+* Fairly low engine power for a Tier 10 medium tank
+* Bad gun depression, as usual for a Chinese tank
+* Shell velocity is among the lowest in tier/class
+* Poor aim time, comparable to that of a heavy tank
+
+|InTheGame_performance=
+A straight upgrade from the [[WZ-120]] and China's main counterpart to the Russian [[Object 430U]], the 121 employs a similar playstyle to its predecessor, but with improvements across the board. Ch19 121 
+
+Most critically, the 121 "enjoys" -5 degrees of gun depression. Ch19 121  While this would normally be a bad number, it is a significant improvement over the abysmal -3 degrees the WZ-120 had to deal with when using its top gun, allowing the 121 more freedom when choosing its positions on the battlefield. Ch19 121  Alpha damage is still the highest in tier and class, tied with Object 430U and the Swedish [[UDES 15/16]], and while HEAT penetration is the same as WZ-120, base AP penetration as well as shell velocity enjoy small but welcome upgrades. Ch19 121  Accuracy, gun handling and aim time are also improved, providing an overall more comfortable experience for players who wished the WZ-120 had a less clumsy top gun. Ch19 121  Also, the 121 has excellent DPM, with about 8 seconds reload with a fully trained crew, ventilation and a standard gun rammer. Ch19 121  Unfortunately, the aim time is quite poor. Ch19 121 
+
+In terms of defense, the 121 retains a solid turret with small and well protected cupolas, and a thicker upper glacis compared to the WZ-120. Ch19 121  When able to cover its hull, the 121 can be very hard to dislodge from its position, though the hull armor is quite unreliable and unable to withstand most return fire from same-tier guns, barring poorly aimed shots. Ch19 121  The 121 also enjoys good concealment and has a low profile, so it can use cover effectively. Ch19 121 
+
+Mobility-wise the 121 is a mix of good and bad - it has good speed and excellent agility, but its engine power is low (improved somewhat as of 1. Ch19 121 10. Ch19 121 1) and acceleration can feel sluggish at times. Ch19 121  Overall, it is still better than its main Russian competitor though. Ch19 121 
+
+All said, the 121 is a strong tank let down by some critical shortcomings, such as long aim time and lack of gun depression. Ch19 121  This makes it unsuitable for top competitive gameplay, but a properly played 121 can be quite devastating so long as its strengths and weaknesses are understood. Ch19 121  
+
+*As of Patch 1. Ch19 121 10. Ch19 121 1, the 121 has been buffed. Ch19 121  While still unreliable, the thickness of the frontal hull has been increased from 120 to 135, improving the frontal hull effective thickness from ~195 to ~220. Ch19 121  This makes it slightly more reliable, mostly against lower tiers. Ch19 121  Additionally, the Health has been increased from 1,950 to 2,050. Ch19 121  The engine power has also increased from 580 to 650, giving it 1. Ch19 121 8 more hp/t. Ch19 121  Lastly, the shell velocity and penetration of its AP shells has been increased, from 258 to 262 pen, along with 115 more shell velocity, from 1,000 to 1,115. Ch19 121  However, the shell velocity of its premium HEAT shells and its HE shells has been decreased from 1,000 to 907. Ch19 121 
+
+|InTheGame_research=
+None Required. Ch19 121 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|External_Reviews= {{#ev:youtube|CtjaibtOlgw}}
+{{VideoYT|vUffU8PtFos}}
+{{#ev:youtube|L25eLaHjrmY}}
+
+
+|Gallery=
+image:121 1. Ch19 121 jpg{{!}}121 1
+image:121 2. Ch19 121 jpg{{!}}121 2
+image:121 3. Ch19 121 jpg{{!}}121 3
+
+|History=
+
+Note: The 121 is not to be confused with the WZ-121, better known as the Type 69. Ch19 121 
+
+==Background==
+
+The 121 was the first attempt of China to develop its own tank after the breakdown of relations between China and the Soviet Union. Ch19 121  However, the project was considered too ambitious, and development instead switched to the Type 69, which itself was developed from a captured T-62. Ch19 121 
+
+The prototype 121 ended up being destroyed as a test vehicle during Chinese nuclear testing, along with the prototype WZ-132's. Ch19 121  No pictures or blueprints of the tank survive. Ch19 121 
+
+|HistAcc=
+As many of the data of the 121 were either lost or are still classified by the Chinese government, many of the technical aspects of the tank were made up by Wargaming. Ch19 121 
+* The 121 is commonly mistaken for the WZ-121, the Chinese industrial designation for the Type 69 tank. Ch19 121  The Type 69 was derived from the Type 59 and has no relation to the 121. Ch19 121 
+
+|HistoricalGallery=
+
+|Ref_references=
+
+* [https://www. Ch19 121 youtube. Ch19 121 com/watch?v=JTeLOx6frxk '''Youtube  ''' ] RBS video review
+
+|Ref_sources=
+
+
+|Ref_links=
+* sinodefence. Ch19 121 com [https://sinodefence. Ch19 121 com]<br>
+* defence. Ch19 121 pk [https://defence. Ch19 121 pk]
+* https://ftr. Ch19 121 wot-news. Ch19 121 com/2015/01/25/chinese-tank-121-and-t-34-x-series-part-1/
+
+|Sidebar_Camostop=15. Ch19 121 1
+|Sidebar_Camomove=11. Ch19 121 4
+|Sidebar_Camofire=2. Ch19 121 9
+|Sidebar_Passhard=0. Ch19 121 767
+|Sidebar_Passmed=0. Ch19 121 863
+|Sidebar_Passsoft=1. Ch19 121 726
+|Sidebar_DispTurret=0. Ch19 121 134
+|Sidebar_DispRecoil=3. Ch19 121 836
+|Sidebar_DispAccel=0. Ch19 121 134
+|Sidebar_DispTurning=0. Ch19 121 134
+}}

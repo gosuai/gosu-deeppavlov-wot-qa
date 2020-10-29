@@ -1,0 +1,101 @@
+{{TankData|Tank=GB77_Bert The Avenger
+
+|Commonly known as "Bert the Avenger" or just "Bert" at playerbase. GB77 FV304 
+
+Bert The Avenger is a unique SPG. GB77 FV304  It has very good accuracy and aiming time, along with a fast rate of fire -- as little as a 10 second reload. GB77 FV304  This is balanced by the fact that it has very low damage and penetration, as well as virtually no splash radius. GB77 FV304  The small gun also means that it cannot stun a target. GB77 FV304  Just like the Bishop, it is necessary to bring the FV304 closer to the action than a typical SPG, due to its low range, and support its team with a constant barrage of sustained fire. GB77 FV304  The good news is that its blistering speed allows it to relocate to proper range in short time. GB77 FV304 
+
+However, if it needs to defend itself, despite having good gun's accuracy and aiming time, the low alpha damage makes one-shotting enemy impossible unless its on low health (below 100), and the low shell velocity makes hitting fast moving lights difficult, even in short range. GB77 FV304  All in all, Bert is quite a capable SPG, but needs to be handled differently than most arty. GB77 FV304 
+
+*Before 0. GB77 FV304 9. GB77 FV304 15. GB77 FV304 1, the size was less than half that seen with the introduction of the HD model, and it had the second highest camouflage rating in the game. GB77 FV304  View range and mobility were also better prior to this update. GB77 FV304  This allowed the FV304 to be played like a scout and/or ambush TD. GB77 FV304 
+
+|Gallery=
+
+File:FV304 scr 1. GB77 FV304 jpg
+File:FV304 scr 2. GB77 FV304 jpg
+File:FV304 scr 3. GB77 FV304 jpg
+
+
+|InTheGame_pros= 
+* Fastest SPG in the game due to top speed and pw/wt ratio. GB77 FV304 
+* One of the most accurate artillery in the game. GB77 FV304 
+* Decent gun horizontal gun arc and very fast aiming time. GB77 FV304 
+* Very high gun arc allows it to hit enemies behind cover easily at close-to-maximum range. GB77 FV304 
+
+|InTheGame_cons=
+* Awful range especially worse than Tier 2 SPGs; and now a very high profile making it hard to hide from the enemy. GB77 FV304 
+* Low damage and penetration, often bouncing off some heavily armoured tanks. GB77 FV304 
+* Rather underwhelming rate of fire for its alpha, lower than [[Bishop]]; extremely low splash radius. GB77 FV304 
+* Very slow traverse speed compared to its acceleration and top speed. GB77 FV304 
+* Extremely poor shell velocity, even for SPG. GB77 FV304 
+
+|InTheGame_performance=
+Bert is different from most other SPGs. GB77 FV304  He has low range (about 500m) but is very fast. GB77 FV304  The trick with Bert is to play him more as a support tank, this can be done by hiding behind rocks or small houses as the high elevation of his cannon will allow you to shoot over such obstacles. GB77 FV304  With Bert, you have to know where the enemy and your team is, because the moment a flank is weakening you should try to get there and support it as fast as possible. GB77 FV304  His high speed will allow you to do this. GB77 FV304  The low damage and penetration of Bert's cannon is countered by a high rate-of-fire. GB77 FV304  You can track tanks and leave them helpless out in the open or just shoot them yourself once they are pinned. GB77 FV304  Hitting fast moving targets is another matter though, and the tank can be frustrating for many players. GB77 FV304  However, you do have an over-abundance of shells so you don't have to be shy about using them. GB77 FV304   Bert should not be thought of lightly as he can escape dangerous situations easily then retaliate later keeping tanks tracked and even scout late-game if needed. GB77 FV304 
+
+Note that Bert no longer can be used as a fast TD as he is just too darn big for sneaking around unnoticed. GB77 FV304 
+
+|InTheGame_research=
+* The Q. GB77 FV304 F. GB77 FV304  4. GB77 FV304 5-in. GB77 FV304  Howitzer and WS No. GB77 FV304  19 Mk. GB77 FV304  III Radio carry over from the Bishop. GB77 FV304  Mount them immediately. GB77 FV304 
+* First, research the Rolls-Royce Meteor M300 Engine. GB77 FV304 
+* Next, research the FV304 Mk. GB77 FV304  II Suspension, as you'll need it if you want to carry any equipment modules other than Coated Optics. GB77 FV304 
+* Finally, research the WS No. GB77 FV304  22 Radio. GB77 FV304 
+
+|InTheGame_equipment=Improved Ventilation Class 1,Medium-Caliber Artillery Shell Rammer,GLD,Camouflage Net
+
+|History=
+
+'''FV300 series'''
+
+[[image:FV_304. GB77 FV304 jpg|thumb|200px|left|FV304 drawings]]
+
+Development of the FV300 started in 1943 when the Tank Board called for a British Light Tank to be in production by 1945 to replace the USA's Stuart, and later Chaffee, in British service. GB77 FV304  A contract was place with Vickers for a tank of 14 to 16 tons mounting a 77mm (as subsequently in Comet). GB77 FV304  This was the first time that a machine of this category was to have armament suitable for the task it would have to carry out, which was in reconnaissance troops of tank regiments. GB77 FV304  Transmission and suspension were kept as simple as possible to reduce power loss at the sprockets, and the tank owed a good deal to the experience which had been gained from Harry Hopkins and Tetrarch. GB77 FV304  FV300 was intended to be air-portable in unladen form, and the possibility of carrying the turret, gun and even tracks separately in another aircraft was seriously considered. GB77 FV304  Even then, it would have been necessary to lift a 10-ton load, and thereby to accept much reduced strategic range in any transport aircraft available at that date. GB77 FV304  The air-portability requirement was therefore dropped, and as the order was only for 80 production tanks, progress was extremely slow. GB77 FV304  The wooden mock up led to many modifications, among them being the substitution of a Meteorite V-8 350 h. GB77 FV304 p. GB77 FV304  engine in place of the 210 h. GB77 FV304 p. GB77 FV304  GMC6-71 motor originally proposed. GB77 FV304  The engine and gearbox were moved to the right front of the hull, leaving the final drive at the back, to bring the gun layout into line with that selected for the SP's and other variants. GB77 FV304 1946 saw a revived interest in the project, and it was brought into new series as FV301. GB77 FV304  
+
+By 1947 further changes had been made. GB77 FV304  The Rolls-Royce Meteor petrol-injection 500 h. GB77 FV304 p. GB77 FV304  engine coupled to a TN10 gearbox in place of the earlier Spicer box was to be used, on a sub-frame for easy removal as a unit. GB77 FV304  Torsion bar suspension was used, in preference to the Christie type, The turret was composite-built, with a front casting and rolled plates for the rest. GB77 FV304  The 77mm gun had a new concentric recoil system, promising even better accuracy, and it was mounted well forward in the turret to provide room for the crew. GB77 FV304  An equilibrator was used to compensate for the out-of-balance. GB77 FV304  Eighty rounds could be stowed in the hull, a considerable design feat, considering the size of the ammunition. GB77 FV304  But frontal armour was reduced to 2"actual thickness, the all up weight of the machine having risen to 21 tons. GB77 FV304  However in 1950, doubts arose about the value of such lightly armored vehicles on the modern battlefield. GB77 FV304  In parenthesis, one may be permitted to wonder why these doubts had not been properly evaluated earlier; but the result of the later views led to the cancellation of the entire FV300 series by 1953. GB77 FV304 
+
+==Proposed variants==
+[[image:FV_304_model. GB77 FV304 jpg|thumb|200px|right|FV304 model]]
+FV301 - Light Tank
+
+FV302 - Command Post
+
+FV303 - 20pnd SP Gun
+
+'''FV304 - 25pnd SP Gun'''
+
+FV305 - 5. GB77 FV304 5" SP Gun
+
+FV306 - Light ARV
+
+FV307 - Radar vehicle
+
+FV308 - Field Artillery Tractor
+
+FV309 - Ammunition Vehicle
+
+FV310 - Light APC
+
+FV311 - Armoured Load Carrier
+
+
+|HistoricalGallery=
+image:FV303_SPG_hull_section. GB77 FV304 jpg{{!}}FV303 SPG hull section
+image:FV310_Light_APC. GB77 FV304 jpg{{!}} FV310 light APC
+image:FV303_with_20_pounder_SPG_hull_section. GB77 FV304 jpg{{!}} FV303 with 20 pmdr SPG prototype side view
+image:FV303_with_20_pounder_SPG_during_construction. GB77 FV304 jpg{{!}} FV303 with 20 pounder SPG during construction
+image:FV303_with_20_pounder_SPG. GB77 FV304 jpg{{!}} FV303 with 20 pounder SPG during construction. GB77 FV304  Note the dummy gun
+image:FV302_GPO-CPO. GB77 FV304 jpg{{!}} FV302 GPO-CPO
+image:FV301_with_77mm_gun. GB77 FV304 jpg{{!}} FV301 with 77mm gun
+image:FV_304. GB77 FV304 jpg{{!}}FV 304 drawings
+
+|HistAcc=
+The FV304 models presented in the game currently are actually The FV305. GB77 FV304 
+* The 4. GB77 FV304 5-inch howitzer was never developed for the FV304. GB77 FV304  It was only used on the BT-42, a Finnish assault gun. GB77 FV304 
+* Considering that the model of in-game FV304 is actually FV305, it should have the 5. GB77 FV304 5 inch howitzer which is the main armament for FV305 as gun choice. GB77 FV304 
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

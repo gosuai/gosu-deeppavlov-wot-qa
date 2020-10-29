@@ -1,0 +1,78 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Т-54 облегчённый scr 1. R109 T54S jpg
+File:Т-54 облегчённый scr 2. R109 T54S jpg
+File:Т-54 облегчённый scr 3. R109 T54S jpg
+File:Т-54 облегчённый scr 4. R109 T54S jpg
+File:R109_T54S screen1. R109 T54S jpg
+File:R109_T54S screen2. R109 T54S jpg
+File:R109_T54S screen3. R109 T54S jpg
+
+
+|InTheGame_pros=
+* Strong turret and hull armor for a light tank
+* Great on the move accuracy and rate of fire
+* Great HP
+* Great horsepower/ton ratio considering its armor
+
+|InTheGame_cons=
+* Mediocre gun depression and accuracy
+* Armor is insufficient against higher tiers
+* Limited shell capacity (34 rounds), as of 9. R109 T54S 18 it carries 40 rounds. R109 T54S 
+* Slightly weaker pen than most tier 9 Light Tanks, compensated by better agility than alot of them 
+* Weaker frontal hull than LTTB
+
+|InTheGame_performance=
+
+Avoid direct confrontations in early battle. R109 T54S  Instead, scout for bigger guns on your team and skirmish with enemy light tanks. R109 T54S  The T-54 ltwt excels against enemy light tanks due to its thick and well sloped armor. R109 T54S  Avoid battle with higher tier mediums due to their significantly improved firepower, unless flanking. R109 T54S  Late game, act as a highly mobile assassin. R109 T54S  In tier 9 games, the T-54 can play as a highly mobile medium tank, whilst in tier 10 scouting is advised over medium tank performance. R109 T54S  Make use of turret armor, but do not rely on it too much as the cheeks and cupolas can be penetrated by most enemies. R109 T54S  
+
+|InTheGame_research=
+
+If grinding from stock, the engine should be your top priority. R109 T54S   It gives a huge boost to acceleration, maneuverability, and top speed. R109 T54S   The top gun should come secondary as it improves your rate of fire and aim time. R109 T54S   Alternatively, the upgraded suspension significantly reduces the terrain resistance (around 20%) and therefore makes your vehicle more maneuverable. R109 T54S   The radio should be researched last, as it gives a very slight boost for ~7k experience. R109 T54S  Afterwards, research the T-100 LT. R109 T54S 
+
+|InTheGame_equipment=Vertical Stabilizer, Coated Optics, Tank Gun Rammer, Vents
+
+|External_Reviews= 
+{{#ev:youtube|WMfz2Se-jeY}}
+
+|History=
+
+In May 1949, the design bureau of Plant No. R109 T54S 183 (Kharkov) designed a light variant of the T-54 tank with improved terrain passability compared to the production T-54 model. R109 T54S  This light variant could serve during special operations, where passability, speed and agility were needed more than superior armor protection. R109 T54S   In order to achieve that, this light variant had wider tracks (580mm). R109 T54S  Both tanks were to use the same components, so the lighter variant could be easily produced by the plant in parallel with the original vehicle. R109 T54S  The only things different were the hull and the turret, both having reduced level of protection, but kept the original shape (armor angles and such) of the production model. R109 T54S  Final drives were also subjected to some small technical changes. R109 T54S 
+
+
+The turret shape was modified to remove the frontal shot trap. R109 T54S  Its frontal armor was also reduced from (T-54) 200mm to 180mm, the sides were reduced from 160mm to 120mm, the turret roof from 30mm to 20mm and the rear from 65mm to 60mm. R109 T54S  The roadwheels were also to be a bit smaller (810mm diameter reduced to 790mm), torsion bars were also thinner (52mm to 42mm diameter) and the tank of course was lighter. R109 T54S  Its weight was projected 31 tons. R109 T54S  It was to armed with the D-10T 100mm gun, the power-to-weight ration was to be 16,8hp/t (using the 520hp T-54 engine) and its maximum speed was to be 58,7 km/h. R109 T54S 
+
+This vehicle was, according to its designers, to solve tactical problems where using regular T-54 tanks was not practical. R109 T54S  Note that the Chinese actually went even further and reduced not only the armor, but also the size of the original tanks, creating the Type 62 by miniaturizing Type 59. R109 T54S  That happened of course more than a decade later. R109 T54S  Apparently, this project never progressed past the drawing board stage. R109 T54S 
+
+|HistAcc=
+The lightweight variant was to be fitted with the same 520 hp engine on the [[T-54]]. R109 T54S  In World of Tanks, however, the former has almost twice the engine power. R109 T54S 
+* Only the [[Gun/USSR#100 mm D10T|100 mm D10T]] gun was proposed for this tank. R109 T54S  The "D-10TM" designation is fictitious. R109 T54S 
+
+|HistoricalGallery=
+image:T54light side. R109 T54S jpeg{{!}}side view
+image:T54light front. R109 T54S jpeg{{!}}front view
+image:T54lightArmor schematics. R109 T54S jpeg{{!}}Armor schematics 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://ftr. R109 T54S wot-news. R109 T54S com/2014/01/05/t-54-model-1949-light-tank-variant/
+https://ser-sarajkin. R109 T54S narod2. R109 T54S ru/ALL_OUT/TiVOut10/SuT5455/SuT5455012. R109 T54S htm
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=
+|Sidebar_Camomove=
+|Sidebar_Camofire=
+|Sidebar_Passhard=
+|Sidebar_Passmed=
+|Sidebar_Passsoft=
+|Sidebar_DispTurret=
+|Sidebar_DispRecoil=
+|Sidebar_DispAccel=
+|Sidebar_DispTurning=
+}}

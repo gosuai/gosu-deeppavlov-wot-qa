@@ -1,0 +1,40 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Very strong turret and upper frontal plate armor
+* Excellent APCR (premium) penetration
+* Excellent acceleration for a heavy tank
+* Good aim time and acceptable accuracy
+* Enormous ammo capacity
+
+|InTheGame_cons= 
+* Second worst AP (standard) penetration in tier/class, tied with [[T32]]
+* Limited top speed
+* Poor gun depression for an American tank 
+* Weak lower frontal plate
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

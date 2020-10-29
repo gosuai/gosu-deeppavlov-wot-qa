@@ -1,0 +1,73 @@
+{{TankData|Tank=Ch05_T34_2
+|The T-34-2 is often compared to the [[Tank:Ch01 Type59|Type 59]] as it has a similar design, speed, turret, and can even equip the same gun. Ch05 T34 2  However the playstyle of the T-34-2 is different than that of the Type 59. Ch05 T34 2  Unlike the Type 59, the T-34-2 has less hull armor and mobility. Ch05 T34 2  Like with most Chinese tanks above tier 7, this tank has very little gun depression. Ch05 T34 2  With the compact design of both the hull and the turret, being killed by being ammo racked and catching on fire can be a common occurance. Ch05 T34 2  
+The T-34-2 can be played in a variety of ways. Ch05 T34 2  It can be played like a heavy medium tank when using the 122mm gun which is an unexpected heavy tank gun on a medium, or play it like a conventional medium tank with the 100mm gun. Ch05 T34 2  Both ways have their advantages and disadvantages. Ch05 T34 2 
+
+|InTheGame_pros=
+* Fairly small tank, good camouflage values
+* Tough, well-sloped turret armor
+* High alpha damage with the 122mm 37-122JT gun
+* Reasonably good agility
+
+|InTheGame_cons= 
+* Weak hull armor
+* Frequent module/crew loss
+* Bad gun depression, gun handling, aimtime, shell velocity and penetration
+* Horrible stock grind
+* Currently one of the weakest Tier 8 tanks in the game
+
+|InTheGame_performance=
+
+===== When Using The 122mm 37-122JT =====
+
+The T-34-2 can be considered a very unique tank. Ch05 T34 2  It has multiple weaknesses and can be difficult to adapt to but has greater alpha damage than tier 8 heavies, premium HEAT rounds with tremendously improved penetration, a compact size, and a tough turret. Ch05 T34 2  The T-34-2 has very low DPM and cannot brawl head on effectively. Ch05 T34 2  Even while flanking, the poor on-the-move accuracy and very low rate of fire make engagements difficult. Ch05 T34 2  The biggest strengths of the T-34-2 are its alpha damage and good camo value. Ch05 T34 2  The T-34-2's play-style is actually similar to that of an autoloader, its true potential lies in flanking a vulnerable enemy, dishing out heavy alpha damage, and then retreating to cover, or ambushing an enemy using camouflage. Ch05 T34 2  As the T-34-2 is a relatively rare sight on the battlefield, most players don't expect a small and poorly armored medium to have the firepower of an [[IS]]. Ch05 T34 2  The T-34-2 well-utilizes bushes and can often remain hidden until firing. Ch05 T34 2  As difficult as it is with the 122 mm, sniping is a viable tactic, but the gun can only be used at a moderate distance. Ch05 T34 2  In addition, one might try doing support duty with its potent HE shells: peek-a-boom style, but try to target modules instead of conventional weakspots. Ch05 T34 2  The decent splashing radius mitigates its head-scratching accuracy somewhat, and usually will deal both some amount of damage and criticals unless the shot goes wild. Ch05 T34 2  By de-tracking, damaging/disabling main guns and occasional crew/internal module damage, it could prove to be no less efficient than dishing out those much opportunistic AP or HEAT shots. Ch05 T34 2  The HE's also effective in flank guarding, due to its ability to deal crippling blows against LTs or soft-skinned MTs such as the [[Lorraine 40t]]; yet be aware that the low RoF means that failing to evade retaliation will cost dearly. Ch05 T34 2 
+Hem <br />
+
+
+===== When Using The 100mm 59-100T =====
+
+The 100mm top gun of the T-34-2 allows you to play this like many other mediums, despite being outright inferior to most. Ch05 T34 2  Although this tank does have less armor than many other tier 8 mediums, it makes up for it with good profile and a strong turret. Ch05 T34 2  When compared to the 122mm, the 100mm gives you a faster reload time, more consistent accuracy, and better shell penetration (though the premium ammo penetration is worse). Ch05 T34 2  The 100mm top gun also allows 3 more degrees of gun elevation. Ch05 T34 2  This tank plays as a flanker and support tank but with a twist. Ch05 T34 2  The turret armor allows you to also make use of terrain, buildings and ally tanks. Ch05 T34 2  Other benefits of this tank are its small size and good camo value, making it easier to sneak around enemies to get to their rear, allows you to sit and snipe from bushes if you desire and also good at passive scouting. Ch05 T34 2  One of the smaller advantages when using the 100mm gun is that it saves on shell cost, 100mm  AP shells cost 252 credits compared to 122mm AP shells costing 1025 credits. Ch05 T34 2  
+
+
+* Another entertaining yet still somewhat practical playstyle for such a not very competitive tank, is to keep the seemingly useless 56-85JT gun, but carry '''MAINLY''' HE shells into battle. Ch05 T34 2  This may sound absurd, but it has the best accuracy and handling out of all gun options, with also a quick reload rate at around 4 secs, sufficient for some specific purposes. Ch05 T34 2  It could humiliate wall hugging side-scrapers or some casemate vehicles by having them perma-detracked (target those drive sprockets!) to death by a little-known tier 8 tank without even a chance to fight back, and presumably earning you some assist dmg in the process. Ch05 T34 2  Fending off raiders/flankers could be astoundingly effective too, since the DPM value with 85mm HE shell and proper set of equipments/skills reach well beyond the ''4000s''! Any vehicle vulnerable to the 43mm of penetration will be steamrolled if unable to escape the situation. Ch05 T34 2  Imagine a [[Ru 251]] with its gun capable of dealing 240 dmg every ~5. Ch05 T34 2 8 secs, sneaking through a seemingly undefended flank searching for meat, only to be greeted by a 280dmg/~3. Ch05 T34 2 8secs ambush. Ch05 T34 2  With ample supply of credits, one could also take 85mm APCR rounds in supplement, for flanking purposes. Ch05 T34 2  These could penetrate about as much as the 44-100JT's standard AP rounds, which is sufficient for flanking all but the heaviest tanks featured in game. Ch05 T34 2  The DPM with AP/APCR is around 2500 (crew & equips included), something the larger guns could only dream of. Ch05 T34 2  In general, the 56-85JT is to be described situational at best, but when chance presents, it will be more than deadly for opponents. Ch05 T34 2  Surely, this is no good way to boost one's statistics, but serves well as a relief from the otherwise stressing gameplay among high and top tiers. Ch05 T34 2 
+
+*Note: As of Update 1. Ch05 T34 2 10. Ch05 T34 2 1, the T-34-2 has been buffed. Ch05 T34 2  Previously, the hull armor was an OK 70mm thickness frontally, with a terrible 120mm effectiveness. Ch05 T34 2  This has since been increased from 70 thickness to 100 thickness, improving the effective thickness from 120 to 160, letting it fare better against lower tiers. Ch05 T34 2  Additionally, the gun handling when moving and traversing has been improved, from 0. Ch05 T34 2 19/0. Ch05 T34 2 19 to 0. Ch05 T34 2 17/0. Ch05 T34 2 17. Ch05 T34 2  Additionally, the Health has been increased from 1,300 to 1,400. Ch05 T34 2  Lastly, the 100mm has not been changed at all, but the 122mm has. Ch05 T34 2  Previously, the 122mm was 390 alpha and 14. Ch05 T34 2 38 reload, giving it an abysmal 1,627 DPM. Ch05 T34 2  The damage has been decreased to 360/360/530 (down from 390/390/530) however, the reload has been improved to 11. Ch05 T34 2 51, giving it an OK DPM of 1,877, about on par as the P. Ch05 T34 2 44 Pantera or UDES 14 5. Ch05 T34 2  However, the gun handling of the 122mm has been vastly improved, from 2. Ch05 T34 2 97 aim time and 0. Ch05 T34 2 46 dispersion to 2. Ch05 T34 2 78 aim time and 0. Ch05 T34 2 42 dispersion. Ch05 T34 2  Combined with the buffed gun handling, the 122mm should feel vastly more reliable, albeit still clunky compared to other Medium Tank guns at the tier. Ch05 T34 2 
+
+|InTheGame_research= 
+* It is best to mount the Enhance Torsion Bars equipment for some credits, instead of grinding the tracks with a mostly ineffective gun. Ch05 T34 2 <br />
+* Then start researching the turret so you can mount the 100mm gun previously unlocked on the T-34-1. Ch05 T34 2  <br />
+* With competitive firepower in asset, one could then enhance mobility by going through the engines and the top tracks. Ch05 T34 2  The engines don't really provide much extra power, but neither does the T-34-2 weight a lot. Ch05 T34 2  The top engine is used on the [[IS-2]] and the [[110]]. Ch05 T34 2 <br />
+* To reach the WZ-120 you need to research the last 100mm gun. Ch05 T34 2  It is optional to research the 122mm gun, but it should be done if you want to either go up the heavy line, Elite the tank, or use the 122mm on the T-34-2. Ch05 T34 2  
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, "Wet" Ammo Rack Class 1, Vertical Stabilizer, Enhanced Gun Laying Drive
+
+
+|Gallery=
+
+
+|History=
+*The T-34-2 was not an upgraded modification of the Soviet T-34 tank, but was a totally different vehicle. Ch05 T34 2  Chinese engineers conceived the T-34-2 as an analog of the Soviet T-54. Ch05 T34 2  Later the U. Ch05 T34 2 S. Ch05 T34 2 S. Ch05 T34 2 R. Ch05 T34 2  passed the technology of T-54 production to China, and the T-34-2 project was discontinued. Ch05 T34 2 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_GunAlt= 100mm 59-100T
+|Sidebar_Camostop=17. Ch05 T34 2 1
+|Sidebar_Camomove=12. Ch05 T34 2 9
+|Sidebar_Camofire=3. Ch05 T34 2 7
+|Sidebar_Passhard=0. Ch05 T34 2 767
+|Sidebar_Passmed=0. Ch05 T34 2 863
+|Sidebar_Passsoft=1. Ch05 T34 2 726
+|Sidebar_DispTurret=0. Ch05 T34 2 115
+|Sidebar_DispRecoil=3. Ch05 T34 2 836
+|Sidebar_DispAccel=0. Ch05 T34 2 192
+|Sidebar_DispTurning=0. Ch05 T34 2 192
+}}

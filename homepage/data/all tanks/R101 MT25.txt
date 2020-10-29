@@ -1,0 +1,202 @@
+{{TankData|Tank=MT25
+
+|
+
+|Gallery=
+
+|InTheGame_pros=
+* Excellent terrain resistance, makes turning good as well
+* Good ramming capabilities due to weight & high speed (only against other light weight vehicles)
+* Can drift through turns at high speed
+
+|InTheGame_cons=
+* Disastrously slow per Light Tank standards. R101 MT25  Cromwells (Medium Tank) will have no trouble accompanying you. R101 MT25  Especially when stock. R101 MT25 
+* Overall sub-par guns: below average penetration & alpha damage for all it's guns. R101 MT25 
+* Very low DPM @1600 w/ 76mm,(1700 w/ the 57mm gun), worst out of all T6 Lights except the AMX12t, which however is an autoloader. R101 MT25 
+* Long aim time compared to other light tanks
+* Tied for worst view range of the tier 6 light tanks (same as French AMX & Chinese 59-16)
+* Slows down a lot when going over fences or houses due to a "flat" track design, prone to drifting. R101 MT25 
+* Large hull has capabilities to bounce due to angles & thickness, but is bulky & easy to hit if standing still
+* Weak and large tracks makes it easy to get immobilized. R101 MT25 
+
+|InTheGame_performance=
+The MT-25 too big for the most effective passive scouting, however its sheer speed allows for easy active scouting. R101 MT25  Just like the [[Tetrarch]], when the MT-25 moves over obstacles (fences, brick walls, etc. R101 MT25 ) it rapidly decelerates because of the way the suspension is designed. R101 MT25  This tank's mobility is probably the strongest point of the vehicle, try to use it as much as you can. R101 MT25  With a powerful engine, high speed limits, & great terrain resistance combined with good traverse speed, this tank outruns almost every opponent it faces, & deserves to bear the name of "pocket rocket", at least before 9. R101 MT25 18. R101 MT25 
+
+The MT-25's guns are usually considered lackluster when compared to those of its main opponents (eg [[T37]]). R101 MT25  The 57 mm ZiS-4 has high accuracy & shell velocity but takes long to aim, lacks both penetration & damage per shot, rate of fire & the gun depression are less than stellar. R101 MT25  Make the best use of your mobility by attacking isolated tanks & flanking them with your superior speed. R101 MT25  When flanking & shooting the sides of enemies, regular AP shells are usually enough to do the job. R101 MT25  Since accuracy is high, you can try flanking opponents & shooting their sides at longer ranges as well. R101 MT25 
+
+Alternatively, if they are in another light tank or a light TD, you can finish them with a ram many times due to quick speed & fairly heavy weight. R101 MT25  Early on in the game before you do this, try to do passive scouting or mainly active scouting. R101 MT25  Although view range & camo are outclassed, the speed (pre 9. R101 MT25 18 but is still fairly fast) allows you to quickly get to positions or duck from cover to cover before other rival scouts & you can help your team a lot. R101 MT25  This tank's specialty is in hunting other lights, TDs, & SPGs. R101 MT25 
+ 
+|InTheGame_research=
+* First research the Suspension. R101 MT25 
+* Then research the 57 mm ZiS-4 gun (it is best to use the 57mm over any other gun)
+* Next, research the V-16 Engine. R101 MT25  The engine should not be missed as it brings out the supreme mobility of this tank. R101 MT25 
+* Followed by researching the R-113 Radio. R101 MT25 
+* Finally, the 76 mm S-54M gun. R101 MT25 
+
+|InTheGame_equipment=
+Vertical Stabilizer Mk 1, Coated Optics,  Improved Ventilation Class 1, Binocular Telescope, Camouflage Net
+
+|History=
+[[image:MT-25-5. R101 MT25 png|thumb|200px|left|MT-25 drawings]]
+Difficult battles of the Soviet-German front in 1941-1942 negated the advantages of light tanks. R101 MT25  Equipped with relatively weak weapons & mostly bulletproof armor, light tanks as a class were becoming obsolete. R101 MT25  The Germans were the first to see the end of the pre-war concept of a light tank, ceasing production in 1942. R101 MT25  In the USSR, engineers were still trying to boost the combat performance of the T-70. R101 MT25  The result of this work was the T-80 tank, but it came too late. R101 MT25 
+
+Meanwhile, proposals for radically new light tanks arrived. R101 MT25  A proposal for the MT-25 tank was sent by Chelyabinsk engineers to Stalin on February 24th, 1943. R101 MT25  Unlike many proposals, this one contained interesting ideas, was well thought out, & piqued the interest of the Main Armored Directorate. R101 MT25  What were these ideas & why was the tank never built?
+
+Ideas from practice
+
+One of the main problems with the T-70 & its predecessors was that there was a very small resource for modernization. R101 MT25  The tank widely used automotive parts which were simply unsuitable for the loads of a tank. R101 MT25  The mass of the T-70 could not exceed 10 tons for this reason. R101 MT25  The later T-80 grew to 12 tons, & that was also the limit. R101 MT25  The capacity for supercharging the engine was exhausted, & any further increase in weight would have a negative effect on reliability. R101 MT25 
+
+In addition, the T-70 was very small. R101 MT25  In order to fit in a two man turret, the GAZ design bureau headed by N. R101 MT25 A. R101 MT25  Astrov had to apply a titanic effort. R101 MT25  It was impossible to install anything bigger than a 45 mm gun, & the long barreled VT-42 gun was never put into production. R101 MT25 
+
+The two-man turret made the T-80 more difficult to service & the engine was now very close to the loader, which did not make his job comfortable. R101 MT25  It is not surprising that GABTU began looking back at the T-50 in the spring of 1943, a project which was only completely shelved in early 1942. R101 MT25 
+
+[[File:MT-25_from_the_side. R101 MT25 jpg]]
+
+MT-25 from the side. R101 MT25  At 25 tons, it was only 10 cm longer & 10 cm taller than the 14 ton T-50. R101 MT25 
+
+One of the possible solutions for further development of light tanks arrived through personal initiative. R101 MT25  On February 24th, 1943, a letter arrived for Stalin:
+
+
+'''Proposal letter:'''
+
+''"To the Chair of the State Committee of Defense of the Union of Soviet Socialist Republics, I. R101 MT25 V. R101 MT25  Stalin. R101 MT25 
+
+''Fulfilling our duty to the Motherland in this period of relentless & heroic struggle of the Soviet people against the German fascist occupants, & protection of our honour, freedom, & independence, we developed blueprints of a new combat vehicle. R101 MT25 
+
+''During development, we have considered the following factors:
+
+''1. R101 MT25 	High movement speed. R101 MT25 
+
+''2. R101 MT25 	Low damage as a result of being hit. R101 MT25 
+
+''3. R101 MT25 	Large operational range. R101 MT25 
+
+''4. R101 MT25 	Ability to suddenly attack the enemy. R101 MT25 
+
+
+''The vehicle we have developed is called MT-25, & is a wheeled vehicle, with every wheel being a drive wheel. R101 MT25  If tracks are added, the MT-25 becomes a tracked vehicle. R101 MT25  The vehicle's mass is 25 tons. R101 MT25  The average speed is 40-45 kph, maximum 100 kph. R101 MT25  Since every wheel is a drive wheel, the vehicle is very survivable. R101 MT25  Even if half of the wheels are disabled, the vehicle does not stop. R101 MT25  When the engine uses a muffler, the vehicle moves silently. R101 MT25  Armament: 47 mm gun & 3 machine guns. R101 MT25  We ask you to consider our proposal & accept it as a gift in honour of the Red Army's 25th anniversary. R101 MT25 
+
+''Engineers F. R101 MT25 F Gorodkov
+''A. R101 MT25 I. R101 MT25  Starodubtsev
+
+''February 9th, 1943"''
+
+
+At the time, a torrent of various proposals came at GABTU & other organizations, including proposals for tanks. R101 MT25  GABTU's Department of Inventions reviewed dozens of them. R101 MT25  Some of them, like Lieutenant Provornov's light tank (LTP) were rather interesting. R101 MT25 
+
+Meanwhile, the invention with the aforementioned memo can be found in GABTU's main repository, which means a great deal of attention was paid to it. R101 MT25  The authors of this proposal were engineers F. R101 MT25 F. R101 MT25  Gorodkov & A. R101 MT25 I. R101 MT25  Starodubtsev from Chelyabinsk. R101 MT25 
+
+They worked at the interesting factory #200. R101 MT25  This factory, separated from factory #78 in 1941 (modern day OOO Stankomash) specialized in the production of KV hulls & turrets, which were sent to the Chelyabinsk Tractor Factory (ChTZ). R101 MT25  Factory #200's design bureau worked closely with the ChTZ design teams, which contained many engineers that used to work at the Kirov factory in Leningrad. R101 MT25  In addition to KV parts, factory #200 built orders from the design bureau of experimental factory #100. R101 MT25 
+
+[[File:MT-25_width. R101 MT25 jpg]]
+
+The MT-25 was even wider than the T-34. R101 MT25 
+
+Factory #200's engineers had impressive experience. R101 MT25  Perhaps this is why Gorodkov & Starodubtsev's invention was rather extraordinary & had a series of novel solutions. R101 MT25 
+
+'''A heavier A-20'''
+
+As the authors wrote in the foreword to the draft project of the tank they called "Mototank MT-25", technical literature & manuals from the KV-1 & T-34 were mostly used during development. R101 MT25 
+
+"Personal experience at a defense factory" was cited as another source of necessary information, & the influence of this experience can be clearly seen. R101 MT25  The MT-25 resembles the KV-1 in some ways. R101 MT25  The characteristic "step" of the upper front plate is there, & the turret is essentially a smaller KV-1 turret. R101 MT25  However, the proposed tank had a series of important differences from the KV-1, especially when it came to the suspension:
+
+"Existing tank designs largely consist of tracked tanks, where the drive sprockets are elevated & the road wheels are not powered. R101 MT25  The drawback of this design is that if the tracks are destroyed, the tank loses the ability to more, even though its internal mechanisms remain undamaged. R101 MT25  In battle, an immobilized tank is as good as a destroyed tank. R101 MT25  
+The new type of combat vehicle that we propose, the mototank, is free of the aforementioned drawback. R101 MT25  The mototank is a wheeled, & if necessary, tracked, fighting vehicle, where all the road wheels are powered. R101 MT25  If the track or a portion of the wheels are destroyed, the tank does not lose its ability to move & can still fight the enemy or, if necessary, evacuate on its own power. R101 MT25  The vulnerability of the suspension of the new vehicle is drastically reduced. R101 MT25  It can live & fight for as long as the engine runs. R101 MT25 
+Existing designs of tracked armoured vehicles are limited in speed to 50 kph, & only convertible drive tanks can reach a speed of 70-75 kph. R101 MT25 
+The mototank retains a valuable quality of wheeled vehicles: high speed of movement & maneuver. R101 MT25  When driving on wheels, the mototank can reach a speed of up to 100 kph, or 40-45 kph on average. R101 MT25  The design characteristics of the "MT" class allow light, medium, or heavy tanks of this type to be built. R101 MT25  The area of application of the "MT" concept is unlimited & is only dictated by the strategic ideas of high command. R101 MT25 "
+
+In other words, Gorodkov & Starodubtsev suggested the return to a convertible drive tank, one where the wheeled mode, in their opinion, was the main means of movement. R101 MT25  On difficult terrain, chain tracks like on the ZIS-33 truck could be used. R101 MT25 
+
+One could think that the engineers did not come up with anything new, but this is not the case. R101 MT25 
+
+On one hand, the ideas of convertible drive tanks with power to more than one axle already existed. R101 MT25  N. R101 MT25 F. R101 MT25  Tsyganov worked a lot on this idea. R101 MT25  In the spring of 1934, he began working on the BT-2IS tank, which had power to the second, third, & fourth pairs of road wheels. R101 MT25  The maneuverability of this tank was higher than the regular BT-2, but the massive system of shafts was not very reliable. R101 MT25  Further development of Tsyganov's design was used on the BT-5IS, BT-SV, and A-20 tanks. R101 MT25 
+
+[[File:Front_and_rear_view_of_MT-25. R101 MT25 jpg]]
+
+Front & rear views. R101 MT25  The MT-25 had large bustles above the tracks that could be used to store fuel or ammunition. R101 MT25 
+
+However, the Chelyabinsk proposal differed radically from what Tsyganov envisioned. R101 MT25  The BT-2IS and similar tanks transferred power through drive shafts. R101 MT25  The MT-25 had a gear system that ran along the side of the tank. R101 MT25  It took up less space & was more reliable. R101 MT25  In addition, it could power all the road wheels at once. R101 MT25 
+
+In addition, as on the KV-1, the MT-25 used a torsion bar suspension, unlike coil springs on the BT-IS & A-20. R101 MT25  This radically reduced the volume inside the tank that was taken up by the suspension. R101 MT25 
+
+The new project also had no turning wheels. R101 MT25  Gorodkov & Starodubtsev let the MT-25 turn like a tank, with the aid of final drives & friction clutches. R101 MT25 
+
+[[File:Suspension_and_drive_gear_layout_of_MT-25. R101 MT25 jpg]]
+
+Suspension & drive gear layout. R101 MT25 
+
+The running gear of the MT-25 consisted of six doubled up 700 mm wheels per side, without idlers or return rollers. R101 MT25  The wheels were interleaved, which was a first in Soviet tank building. R101 MT25  It is not known if the designers came up with the idea themselves or saw a German halftrack. R101 MT25  Either way, German halftracks used a different layout. R101 MT25 
+
+[[File:Close_up_view_of_MT-25_suspension. R101 MT25 jpg]]
+
+Close up view of the suspension. R101 MT25 
+
+This was not the end to the unusual design decisions. R101 MT25  The hull looked quite interesting, which is not surprising given that it came from factory #200. R101 MT25  Work on an improved IS-1 (KV-13) was underway in early 1943, & the new design used casting extensively. R101 MT25  The MT-25 used even more casting. R101 MT25  The rounded shape of the MT-25's hull suggests that few rolled parts would be used. R101 MT25 
+
+Since the Izhor factory successfully cast KV-1 & T-211 hulls in the fall of 1940, the use of this technology to make a light tank hull was very much possible. R101 MT25  The only steps left would be to weld on a roof for the fighting & engine compartments. R101 MT25  The thickness of the armour was 40-45 mm, same as the T-34. R101 MT25  The authors of the MT-25 compared their tank to the T-34 several times, but the 45 mm gun (47 mm in the description) suggests that they thought of their design as a light tank. R101 MT25  The short hull, only 5. R101 MT25 3 meters, 10 cm more than the T-50, also implies this classification. R101 MT25 
+
+The non-standard suspension influenced the layout of the tank. R101 MT25  The engine & transmission were in the rear, but the transmission was in front of the engine instead of behind it. R101 MT25  This allowed the length of the hull to be reduced. R101 MT25  Of course, removing the transmission became more complicated, but it was possible to service the gearbox & final drives without exiting the tank. R101 MT25 
+
+The decision to move the transmission forward was dictated by the drive wheel requirement. R101 MT25  The gearbox bulged out slightly into the fighting compartment, but did not take up much space. R101 MT25 
+
+The V-2K engine was chosen for the MT-25, giving the tank an impressive 24 hp per ton. R101 MT25  The claimed speed of 100 kph was doubtful, but characteristics on the level of the A-20 were attainable. R101 MT25 
+
+[[File:Cutaway_of_MT-25. R101 MT25 jpg]]
+
+Cutaway of the MT-25. R101 MT25  There is a lot of room, even for a medium tank. R101 MT25 
+
+The fighting compartment was large even for a medium tank. R101 MT25  Thanks to the wide hull (the tank was 2900 mm wide) & lack of massive suspension elements in the sides, there was a lot of room in this small tank. R101 MT25  This let the inventors estimate an optimistic 300 45 mm shells for the vehicle's ammo rack, & 120 disk magazines for the machinegun. R101 MT25  This is a rather bold evaluation, but looking at the volume available above the tracks, it does not seem too far fetched. R101 MT25 
+
+The number of crewmen was not specified, but the similarity of the turret to the KV-1 & the slightly larger turret ring diameter (1570 mm) suggests that a commander, gunner, & loader could fit in the turret. R101 MT25  There was enough room to install a 76 mm gun. R101 MT25  The driver & radio operator were placed in the driver's compartment in the front, as on the KV-1. R101 MT25 
+
+'''Harbinger of future projects'''
+
+The MT-25 was reviewed, but no conclusions were ever made. R101 MT25  On one hand, the layout was very bold, & there was nowhere this kind of tank could be built. R101 MT25  On the other hand, the amount of work put into this design was high, & it stood head & shoulders among similar inventions, which were largely conceptual. R101 MT25  The MT-25 was stuck in limbo, both as an unrealistic & rather interesting project. R101 MT25 
+
+[[File:Reconstructed_MT-25. R101 MT25 jpg]]
+
+Reconstruction of the MT-25. R101 MT25  Author: Dmitriy Shuvalov
+
+There was another reason why Gorodkov & Starodubtsev's proposal did not end up in the Department of Inventions. R101 MT25  Conceptually, the tank was perfect for the tactical-technical requirements for a new light tank that were developed in the spring of 1943. R101 MT25  Initially, GABTU tried to revive the T-50 by installing a 76 mm gun, but the mass of the tank rapidly reached 20 tons, then 22 tons, and finally reached the same value of 25 tons. R101 MT25 
+
+Soviet designers weren't the first to hit that mass with a light tank. R101 MT25  The pioneers here were Germans, whose VK 16. R101 MT25 02 Leopard tank became almost that heavy, at which point work on it was stopped, since it started to resemble a medium tank. R101 MT25 
+
+The Americans were next, whose 14 ton light T7 tank grew into the 25 ton M7 Medium Tank. R101 MT25  Work on it also stopped, but already in production, since it was obvious that the American army did not need another medium tank. R101 MT25 
+
+The 25 ton limit for light tanks surfaced many times after the war. R101 MT25  Many French & American designs ended up with a similar weight. R101 MT25  One tank that was almost as heavy (M41 Walker Bulldog, 23. R101 MT25 5 tons) was even put into production. R101 MT25 
+
+[[File:Recontructed_WOT_MT-25. R101 MT25 jpg]]
+
+Reconstruction of the MT-25 in World of Tanks. R101 MT25 
+
+The rapid growth in penetration of tank & anti-tank guns in late 1943 forced tank designers to drastically increase the level of protection. R101 MT25  Requirements for light tank armour thickness surpassed even those that were set for medium tanks before the war. R101 MT25  
+
+The USSR bet on the revival of amphibious tanks with significantly more powerful armament. R101 MT25  That is how the PT-76 came to be. R101 MT25  The US initially picked lightly armored, but mobile and well armed tanks (Light Tanks M24 and M41), but also eventually made amphibious tanks (M551 Sheridan). R101 MT25 
+
+A mass of 25 tons was too bold for 1943, since tanks with that mass were still classified as medium. R101 MT25  If the weight limit on light tanks was raised to this level, the concept of a cheaper, lighter, & more mobile tank than a medium tank, but with comparable armor & armament, could have been successfully developed for another few years. R101 MT25 
+
+Of course, history doesn't know the word "if". R101 MT25  The situation in Soviet tank building in 1943-1945 left few chances for the MT-25. R101 MT25  At 25 tons, the equipment necessary for building this tank would be the same as for the T-34. R101 MT25  The new tank with an uncertain future was left without anywhere to build it. R101 MT25 
+
+
+|HistoricalGallery=
+image:MT-25-5. R101 MT25 png{{!}}MT-25 drawings - Final proposal
+image:MT-25-1. R101 MT25 jpg{{!}}MT-25 drawings - Side view
+image:MT-25-2. R101 MT25 jpg{{!}}MT-25 drawings - Top view
+image:MT-25-3. R101 MT25 jpg{{!}}MT-25 drawings - Overlapping wheels of suspension
+
+|HistAcc=
+All three main gun configurations are fake. R101 MT25 
+*The 45 mm VT-43 gun was only developed for the [[T-80]]. R101 MT25 
+*The 76 mm S-54 and 57 mm ZiS-4 guns were only developed for the [[T-34]]/76. R101 MT25 
+*Planned [[Gun/USSR#45 mm 20K|45 mm 20K]] gun is missing. R101 MT25 
+*Planned average speed was 40-45 kph, maximum 100 kph. R101 MT25 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://tankarchives. R101 MT25 blogspot. R101 MT25 com/2013/07/moto-tank-mt-25. R101 MT25 html
+* https://warspot. R101 MT25 ru/7193-mototank-mt-25-posledniy-kolyosno-gusenichnyy Original article, in Russian
+
+}}

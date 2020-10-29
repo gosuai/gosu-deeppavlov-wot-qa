@@ -1,0 +1,46 @@
+{{for|the FV4201 Chieftain with T95 medium tank's turret|Tank:GB87_Chieftain_T95_turret|Chieftain/T95}}
+
+{{TankData|Tank= 
+
+| While this is not exactly what the WoT community asked for, this is the closest relatives to that of the much-requested FV4201 Cheiftain main battle tank that were implemented into the game. GB98 T95 FV4201 Chieftain  The '''T95/FV4201 Chieftain''' representing the characteristic of the Main Battle Tank (MBT) as what its its original counterpart (FV4201 Cheiftain and T95 medium tank) was designed for. GB98 T95 FV4201 Chieftain  it had a good mix of protection, damage output, and mobility, and can be used in multiple roles. GB98 T95 FV4201 Chieftain 
+
+The T95/FV4201 Chieftain was added in update 1. GB98 T95 FV4201 Chieftain 3 as a Clan War reward tank. GB98 T95 FV4201 Chieftain 
+|Gallery= 
+
+|InTheGame_pros= 
+* Outstanding gun, arguably the best 120mm currently in the game 
+* Extremely well-armored turret and well angled upper glacis
+* Very good top speed and acceleration for a heavy tank
+* Great gun depression, can use most hull down positions
+* Excellent viewrange at 410 metres base
+
+|InTheGame_cons= 
+* Not counting the upper glacis, the hull is poorly armored
+* While small, there is a thinly armored cupola weakspot on top of the turret
+* Health pool is on the low side for a Tier 10 heavy tank
+* Priority target for artillery and large caliber HE shells, especially when hulldown
+* Worse DPM, accuracy, aim time and hull armor than techtree counterpart [[Super Conqueror]]
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+Comes elite in stock configuration, none required. GB98 T95 FV4201 Chieftain 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+//www. GB98 T95 FV4201 Chieftain tanks-encyclopedia. GB98 T95 FV4201 Chieftain com/coldwar/UK/fv4201-chieftain-medium-tank-t95-hybrid/
+}}

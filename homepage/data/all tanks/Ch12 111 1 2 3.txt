@@ -1,0 +1,79 @@
+{{TankData|Tank=Ch12_111_1_2_3
+|The WZ-111 model 1-4 is a departure from its parent tank, the 110, sporting a slightly weaker, larger hull with higher mobilty in exchange for a significantly tougher turret and a much larger gun which is very comparable to the IS-7's 130mm gun and maybe even better. Ch12 111 1 2 3  Its mobility and agility rivals those of the T-10's and should be used to make up for its rather unreliable hull armor. Ch12 111 1 2 3 
+
+|InTheGame_pros= 
+* Strong turret face and decent hull armor for a fast heavy
+* Very powerful top gun with high alpha and DPM, and great premium ammo
+* Decent accuracy and aimtime for such a large gun
+* High top speed and good mobility, very quick for a heavy tank
+* Good viewrange
+
+|InTheGame_cons= 
+* Poor gun depression
+* Somewhat sluggish due to low engine power
+* Suffers frequent module/crew critical hits
+
+
+|InTheGame_performance=
+This tank plays very much like a T-10, but it trades more alpha damage in exchange for slightly worse accuracy, penetration, and rate of fire, with similar aim time. Ch12 111 1 2 3 
+
+When playing the WZ-111 model 1-4, you should be very careful of being near ridges, as the gun depression is quite horrible. Ch12 111 1 2 3  Combined with the long length of the vehicle, you will be at a significant disadvantage in hilly terrain or on downwards slopes. Ch12 111 1 2 3  You should try to look for ways to make your tank travel on as flat ground as possible, as to ensure you won't be fired at by enemy tanks while being unable to return fire. Ch12 111 1 2 3  With only 5 degrees of gun depression, you might be limited by some maps. Ch12 111 1 2 3  However, thanks to the moderate accuracy and decent penetration, sniping should not be too difficult with this tank. Ch12 111 1 2 3 
+
+Another thing to be careful of is making sure the enemy does not fire into your lower frontal plate, which will not withstand hits from same-tier tanks. Ch12 111 1 2 3  The turret front and upper frontal plate are both well armored and will bounce shots with moderate frequency. Ch12 111 1 2 3  Another thing to note about its armor is that it has spaced, sloped side armor. Ch12 111 1 2 3  Though not as bouncy, thick, or big as that of the [[IS-3]]'s, it can still soak up a shell with some luck. Ch12 111 1 2 3 
+
+Care should be taken as to always make sure your pike nose is pointing at the enemy, as angling will expose your weak sides, as well as making one side of the pike much weaker than when pointing forwards. Ch12 111 1 2 3  Angling will, however, make one corner of the pike much stronger, though this should not be done unless you have some form of cover to make sure your weaker pike won't be damaged easily. Ch12 111 1 2 3 
+
+Last to mention is this tank's mobility, which is really excellent. Ch12 111 1 2 3  With a top speed of 50 km/h, you can quickly gain A LOT of speed and get into position very fast, especially when going down a slope. Ch12 111 1 2 3  While the top speed is outstanding for this tank, the acceleration and track traverse speed leave something to be desired, and the 1-4 requires a fair bit of time to reach its top speed, and will lose a lot of it when climbing hills. Ch12 111 1 2 3 
+|InTheGame_research=
+
+* The 100mm 62-100T gun, 12150LS engine and top radio should already have been researched on the 110, and if available can be equipped immediately
+* Research the tracks
+* Research the upgraded turret
+* Then research the 130mm 59-130T gun for a major boost in firepower
+* Finish with the 12150LT engine 
+
+It should be noted that the WZ-111 model 1-4 branches to two different Tier 10 heavy tanks, the [[113]] and the [[Tank:Ch41_WZ_111_5A|WZ-111 model 5A]]. Ch12 111 1 2 3  Researching the former unlocks the best gun for the [[WZ-120]], so it is advised to grind the 113 too even if one's aim is the 5A. Ch12 111 1 2 3 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, GLD, Vents
+
+|Gallery=
+
+
+|History=
+
+The WZ-111 was the Chinese attempt to answer the Soviet T-10 heavy tank development. Ch12 111 1 2 3  Once completed, the WZ-111 was supposed to replace all Soviet-made IS-2 tanks in PLA service. Ch12 111 1 2 3  However, due to the design shortcomings, only one prototype was completed before the fall of 1964 when the development was cancelled. Ch12 111 1 2 3  
+
+==Design features==
+Flaws that were found during initial tests included heavy and very cramped turret interior, insufficient armor on the hull, and weak and unreliable engine that was struggling with the overall mass of the vehicle. Ch12 111 1 2 3  Most of the technologies used in the WZ-111 were copies of earlier, then already close to obsolete, Soviet solutions . Ch12 111 1 2 3  Turret design was cast steel, with welds on the roof area, fitted with two crew hatches and a commander periscope. Ch12 111 1 2 3   Suspension consisted of seven road wheels with internal shock absorbers, three support rollers, drive wheel position at the rear with removable ring gear, and guide wheel. Ch12 111 1 2 3   Transmission was similar to the one in the IS series, and featured a multi-disc main clutch using dry friction, an eight gear transmission with a dual planetary rotation mechanism, and final drive. Ch12 111 1 2 3  Engine was a Chinese-made unlicensed copy of the B11 diesel, with the maximum power output of 520 horse powers. Ch12 111 1 2 3  Maximum speed achieved during tests was 35 km/h. Ch12 111 1 2 3  The body was made from welded plates, with thickness of 13, 120, 90, and 60 mm. Ch12 111 1 2 3  Test prototype was preserved and today is placed on permanent display in the Chinese Tank Museum located near Beijing. Ch12 111 1 2 3 
+
+|HistAcc=
+The 520 hp engine was the WZ-111's only intended powerplant. Ch12 111 1 2 3  The other engine configurations are fake. Ch12 111 1 2 3 
+*Actual top speed is 35 km/h, and this was without a turret mounted (though a heavy superstructure was mounted to simulate the turret weight). Ch12 111 1 2 3  In World of Tanks, however, the WZ-111 can reach speeds of up to 50 km/h. Ch12 111 1 2 3 
+
+|HistoricalGallery=
+image:WZ-111 1. Ch12 111 1 2 3 jpg{{!}}WZ-111 preserved prototype - front view
+image:WZ-111 2. Ch12 111 1 2 3 jpg{{!}}WZ-111 preserved prototype -rear view
+image:WZ-111. Ch12 111 1 2 3 jpg{{!}}WZ-111 technical drawing
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+|Sidebar_GunAlt= 130mm 59-130T
+|Sidebar_Camostop=6. Ch12 111 1 2 3 9
+|Sidebar_Camomove=3. Ch12 111 1 2 3 7
+|Sidebar_Camofire=1. Ch12 111 1 2 3 1
+|Sidebar_Passhard=0. Ch12 111 1 2 3 863
+|Sidebar_Passmed=0. Ch12 111 1 2 3 959
+|Sidebar_Passsoft=1. Ch12 111 1 2 3 918
+|Sidebar_DispTurret=0. Ch12 111 1 2 3 096
+|Sidebar_DispRecoil=3. Ch12 111 1 2 3 836
+|Sidebar_DispAccel=0. Ch12 111 1 2 3 201
+|Sidebar_DispTurning=0. Ch12 111 1 2 3 201
+}}

@@ -1,0 +1,49 @@
+{{TankData|Tank=IS-2M
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+''See [[Tank:R71 IS 2B|IS-2 Berlin]] for details; only differences are listed here''
+* A bit improved accuracy and gun handling
+* Higher ammo capacity at 35 rounds
+* Has 30mm thick spaced armor protecting the hull shoulders, shoulder themselves are also thicker
+* High HP pool of 1300
+
+|InTheGame_cons= 
+* Retains the same engine despite increased weight, a bit less mobile
+
+|InTheGame_performance= 
+A plainly superior IS-2, with slightly better gun, more reliable hull armor for angling and more HP. R156 IS 2M 
+
+|InTheGame_research= 
+Premium vehicle, none required. R156 IS 2M 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The IS project started as an improvement over previous KV designs, combining the hull developed for the KV-13 prototypes with the new KV-85 three-man turret. R156 IS 2M  The 85mm gun of the IS-1, however, meant that the T-34/85 sporting the same gun performed better in almost every aspect, the IS only offering slightly better protection. R156 IS 2M  Therefore, this variant, known as IS-85, was deemed insufficient for a breakthrough role. R156 IS 2M  Demands for a 122 or a 152 mm gun were made (despite the ISU-152 already being accepted into service). R156 IS 2M  Kotin himself proposed the use of the A-19 gun, citing its effectiveness against concrete bunkers and enemy tanks alike. R156 IS 2M  The choice of a new 122 mm (4. R156 IS 2M 8 in) gun was studied by Kotin’s team at Zavod Nr. R156 IS 2M 9. R156 IS 2M  As shown at Kursk, the 122 and 152 mm (5. R156 IS 2M 98 in) guns were better suited to take on on the new German tanks, the Tiger, Panther and Elefant. R156 IS 2M  It was obvious that, aside the 85 mm (3. R156 IS 2M 35 in) gun, more suitable for the next evolution of the T-34, a 122 mm would be most recommended to be fitted on the new heavy tank. R156 IS 2M  The gun was equipped with a muzzle brake, despite protests that it would be too noticeable when firing, and installed in a D-5 gun mount. R156 IS 2M  The resulting construction was named D-2T. R156 IS 2M  The T-shaped muzzle brake failed during tests, and was replaced with a "German style" muzzle brake, similar to those used on 88 and 105 mm guns, after almost fatally injuring Marshall Voroshilov during a test in the presence of the Main Defense Commissariat. R156 IS 2M  Later in the tank's life, it was again replaced with a domestic design. R156 IS 2M  This version, known as IS-122, started the fruition of the IS-2 tank. R156 IS 2M  The effects of the new tank gun were excellent: coupled with a new pointed AP shell, it could penetrate the front of a Panther at 1400 meters, and the front of a Tiger at 1800 meters. R156 IS 2M  <br>
+
+== The Shashmurin Project ==
+
+Nikolai Fedorovich Shashmurin, a well-known tank designer, was busy with a brand new IS tank, an alternative to the IS-2. R156 IS 2M  Really, the only things it shared with the IS-2 were the gun caliber and its breakthrough role. R156 IS 2M  It even looked vastly different. R156 IS 2M  Unofficially named the IS-2Sh (Sh = Shashmurin) or simply Shashmurin’s IS-2, it was a complete redesign of the IS. R156 IS 2M  It featured a rear-mounted turret carrying the 122mm gun, large single roadwheels and heavily sloped frontal hull armor. R156 IS 2M  The engine was placed in the middle of the hull, with the driver at the bow cut of off from the rest of the crew. R156 IS 2M  Only one drawing is known to exist of this design. R156 IS 2M 
+
+=== Characteristics ===
+
+The plans for this project were lofty indeed: front armour impenetrable for Panther, Tiger, and Ferdinand guns at any range, side armour impenetrable at over 500 meters, an 800-1000 hp engine to get this massive armoured slab moving at 35 kph. R156 IS 2M  Considering that the projected mass of the heavy tank would be 55 tons, that's not even that unthinkable. R156 IS 2M  The fighting compartment was located in the rear, with an engine compartment in the center. R156 IS 2M  This layout allowed to make a gun with a very long barrel, accelerating the shell to 1000 m/s, without it getting in the way of maneuvers. R156 IS 2M  The transmission could be electric or mechanical. R156 IS 2M  One of Shashmurin's projects was deemed viable, designated IS-2M, and began development. R156 IS 2M  Unfortunately, the resources of the construction bureau tasked with the project were soon consumed by the IS-6. R156 IS 2M  While the requirement for impenetrable front armour seems impossible, the IS-3 managed to pull it off in that same year. R156 IS 2M  
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+https://www. R156 IS 2M tanks-encyclopedia. R156 IS 2M com/ww2/soviet/soviet_IS-II. R156 IS 2M php
+https://tankarchives. R156 IS 2M blogspot. R156 IS 2M com/2013/07/birth-of-is-tanks-part-2-is-122. R156 IS 2M html
+|Ref_links=
+
+}}

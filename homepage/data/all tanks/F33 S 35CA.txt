@@ -1,0 +1,68 @@
+{{TankData|Tank=F33_S_35CA
+|Nicknamed as "The Bathtub" due its shape, this tank has a very accurate and good stock gun that is even better than the StuG III's top gun, making it an extremely fun tank to play if you can get past its appearance. F33 S 35CA  The S 35 CA is able to upgrade by mounting two other great guns, the 105mm that packs a punch and can rip up tanks with ease, and a slightly more accurate and faster firing 90mm gun. F33 S 35CA  But some people might prefer the 90mm, as it has a higher damage per minute than the hard-hitting 105mm. F33 S 35CA 
+
+Players will feel right at home with this TD even on stock values, especially after the grueling [[Somua SAu 40]]. F33 S 35CA  The gun traverse is immense and comparable to the [[Marder II]] or [[T40]]. F33 S 35CA 
+
+|Gallery=
+
+File:S35 CA scr 1. F33 S 35CA jpg
+File:S35 CA scr 2. F33 S 35CA jpg
+File:S35 CA scr 3. F33 S 35CA jpg
+
+
+|InTheGame_pros=
+*Excellent stock gun with great penetration for its tier
+*Great selection of weapons, all quite cheap to research
+*Large gun mantlet can, surprisingly, bounce some shots
+*Very wide gun traverse (almost equal to the Marder II) alleviates sluggish aim time and allows for constant use of binocs/camo net, combined with great gun depression
+*105mm Schneider gun has very good alpha damage with high penetration
+
+|InTheGame_cons=
+*Open top means it is vulnerable against HE rounds and artillery fire
+*Only moderately agile
+*Sluggish acceleration
+*Weak armor, also did not get 10 AP penetration buff from the latest update (ARL 44/AMX M4 45 105mm). F33 S 35CA 
+*Fairly poor view range
+
+|InTheGame_performance=
+
+Like most TDs, the S35 CA is best suited for defensive tactics. F33 S 35CA  Its weak armor and tall profile make it completely unsuitable for leading an attack, although it can certainly follow up and support teammates with its powerful gun selection. F33 S 35CA  The tall profile is still a handicap, but it can actually work out favorably for this TD if you know the terrain well. F33 S 35CA 
+The high mounting of its gun means the S35 CA can fire over obstacles easily. F33 S 35CA  Use this to your advantage; with its good gun depression the S35 CA can pull off a mean hull-down position, sitting behind a rock, hill, or knocked-out tank exposing little more than its mantlet and gun to enemy fire. F33 S 35CA  Since the mantlet is close to 60 mm thick, it is the only part of this TD that has any chance of bouncing shots. F33 S 35CA  This will not make this TD invulnerable though, as some tier V tanks can already penetrate both the mantlet and the armor behind it. F33 S 35CA  A good tactic to practice to increase survivability is to "poke and shoot", retreating behind cover between shots and thereby making yourself a more difficult target to hit. F33 S 35CA 
+If you can't establish a hull-down position, the best option for this TD is sniping. F33 S 35CA  Its accuracy is good although the aim time is quite long, and all of its guns have plenty of penetration to fire at and damage targets at longer ranges. F33 S 35CA  Always keep a watchful eye out for artillery, or get some cover if you can; the S35 CA will often get one-shot by a decent hit from almost any artillery piece it encounters. F33 S 35CA  Make sure to research at least the 90mm before moving onto the ARL V39 as the 90mm is required to advance to the next tier and carries over to the ARL V39, together with unlocking the very powerful 90mm DCA 45. F33 S 35CA 
+
+The slow reload of the last two guns gives you a choice: Get good at oneshotting or scaring away enemies with their high alpha before they can fire back, or stick to the stock gun so you won't be defenseless between shots. F33 S 35CA  
+
+|InTheGame_research=
+*The top radio and engine carries over from the Somua SAu 40, and should be equipped immediately. F33 S 35CA 
+*The suspension should be researched next, as the stock suspension cannot hold the 90mm or 105mm. F33 S 35CA 
+*Go from there with your gun choices. F33 S 35CA 
+
+
+
+|InTheGame_equipment=Camouflage Net,Medium-Caliber Tank Gun Rammer,GLD
+
+
+|History=
+[[image:Som_antichar_107. F33 S 35CA jpg|thumb|200px|left|Drawing of the proposed Somua S35 CA]]
+In 1945, shortly after France was liberated from Nazi occupation, France started the work on a new tank destroyer based on a prewar medium tank Somua S35 chassis. F33 S 35CA  The design was simple, and included a large superstructure on mounted on the front of the vessel. F33 S 35CA  Main armament was suppose to be equivalent to the famous British 17 pounder gun. F33 S 35CA  An ammo rack with a storage capacity of 54 rounds (even up to 86 according to some sources) was to be located in the back of the vehicle. F33 S 35CA  By design, the weight of should be a little bit lower than 22 metric tons. F33 S 35CA  The project was soon canceled, which meant the end of all development even before the first prototype was complete. F33 S 35CA  
+
+
+|HistoricalGallery=
+image:Som_antichar1_104. F33 S 35CA jpg
+image:Som_antichar2_291. F33 S 35CA jpg
+
+|HistAcc=
+The S35 CA's only intended armament was the 17-pounder gun. F33 S 35CA  No historical records exist of either the 105 mm AC mle. F33 S 35CA  1930 S or 90 mm AC canon DCA 30 gun being developed for it. F33 S 35CA 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+* Bingham, J. F33 S 35CA , 1971, '''<i>AFV Weapons Profile 36 - Chars Hotchkiss, H35, H39, and Somua 35</i>''', Profile, Windsor, UK,  24p. F33 S 35CA 
+
+|Ref_links=
+* https://en. F33 S 35CA valka. F33 S 35CA cz/viewtopic. F33 S 35CA php/title/FRA-Cannon-Automoteur-de-16-Livres-sur-Chassis-SOMUA-35/t/70571
+* https://www. F33 S 35CA chars-francais. F33 S 35CA net/2015/index. F33 S 35CA php/liste-chronologique/de-1945-a-1990?task=view&id=834
+
+}}

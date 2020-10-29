@@ -1,0 +1,83 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good alpha damage
+* Best standard penetration in tier/class
+* Good gun depression
+* Very good speed and acceleration
+* Small size and low profile, excellent camouflage
+
+|InTheGame_cons= 
+* Very poor DPM 
+* Subpar accuracy and gun handling
+* Very low ammo capacity
+* Very poor gun elevation
+* Subpar agility for a light tank
+
+|InTheGame_performance= 
+The Manticore is equipped with an underpowered variant of the 105mm L7 found on many other Western tanks (such as the [[Centurion Mk. GB100 Manticore 7/1]]), with the same meaty 390 alpha damage (joint highest among Tier 10 light tanks) and a reasonably good penetration for its class, though using standard AP ammunition (APCR is available as premium rounds); gun depression is good, but gun elevation is very lacking, as is ammo capacity. GB100 Manticore  It is also a very small and light tank, and enjoys excellent acceleration and good speed, as well as very good camouflage; its size also allows it to hide in most bushes and behind cover with ease, something Manticore players would do well to get acquainted with. GB100 Manticore  Survivability is abysmal - the armor is so thin artillery penetrations are a real possiblity, the healthpool is low, and the crew of two (with the Commander also being Gunner and Radio Operator) means it's quite easy for all crewmen to get injured and knock out the tank. GB100 Manticore  
+
+Manticore is not a tank suited for leading a team to victory. GB100 Manticore  It is, however, a superb passive spotter and a potentially serious threat if left unchecked. GB100 Manticore  Players are encouraged to adopt a cautious playstyle, creeping around the battlefield while abusing camouflage and vision mechanics to provide effective spotting for their teammates, while taking safe potshots at distracted and/or unwary enemies. GB100 Manticore  Always be mindful of the very small ammo capacity though, and make every shot count. GB100 Manticore 
+
+|InTheGame_research= 
+None required. GB100 Manticore 
+
+|InTheGame_equipment=
+Binocular Telescope, Camouflage Net, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+Chimera (or in-game Manticore) was 1955's british tank design. GB100 Manticore  The name "Manticore" is a straight fabrication on Wargamming's part, probably to avoid confusion with the other Chimera. GB100 Manticore  There was some blueprints drawn. GB100 Manticore  Vehicle was never built or made. GB100 Manticore 
+
+
+While the Chimera is certainly a "light" tank at 12. GB100 Manticore 4 tonnes (27,345lbs more precisely), it would have been more accurate to describe the tank as a self-propelled anti-tank gun. GB100 Manticore  To quote the documents about the aim of the STT project "To design a vehicle-mounted substitute for the BAT which is acceptable in the Forward Infantry positions. GB100 Manticore  Its role is to provide anti-tank defence for the Infantry Battalion up to 1000 yards stand off distance in front of the Forward Defended localities. GB100 Manticore " For reference, the L2 BAT is a 120mm recoil-less rifle used by the British as a Battalion anti tank gun. GB100 Manticore  The vehicle also had a much smaller engine, but I'll get too other inaccuracies in a moment. GB100 Manticore 
+
+
+To sum up these (and other information) in a simplified WOT-friendly form. GB100 Manticore 
+
+
+* Turrets: Chimera
+* Guns: Gun: QF 105mm (ex 20 pounder). GB100 Manticore  The 105mm L7 was still being developed at this time. GB100 Manticore 
+* Engines: Rolls Royce B81 (198bhp @ 3700 RPM)
+* Suspension: Webbed Single Trailing Spud
+* Radio: B 47 VHF and C 47 VHF
+* Crew: 2 (Commander/Gunner/Radio Operator, Driver/Loader)
+* Weight: 27,345lbs (12. GB100 Manticore 403 t)
+* Max Speeds: 32mph (51. GB100 Manticore 49km/h)
+* Hull: 25mm / 29mm / 17mm. GB100 Manticore 
+* Turret: 28mm / 28mm / 20mm
+* Elevation/Depression: +10/-10. GB100 Manticore 
+* Shell Capacity: 20 rounds (not 16)
+
+
+And as for the dimensions. GB100 Manticore 
+
+* Dimensions: 66 Inches (1. GB100 Manticore 6764m) High, 96 inches (2. GB100 Manticore 4384m) Wide, 183 inches (4. GB100 Manticore 6482m) Long, 272 inches (6. GB100 Manticore 9088m) long counting gun. GB100 Manticore 
+
+|HistoricalGallery=
+File:1955 Chimera 3 dimension drawing. GB100 Manticore jpg{{!}}1955 Chimera 3 dimension drawing
+File:1955 Chimera side drawing. GB100 Manticore jpg{{!}}1955 Chimera side drawing
+File:1955 Chimera A cutaway of sorts view. GB100 Manticore jpg{{!}}Cut views
+File:Some basic specifications about the Chimera. GB100 Manticore jpg{{!}}Basic specifications
+File:1955 Chimera Basic specifications next. GB100 Manticore jpg{{!}}Basic specifications
+
+
+|HistAcc=
+The Manticore's actual designation is actually the '''Chimera 1955'''. GB100 Manticore  The fake name was given to avoid confusion with another existing tank in World of Tanks which were also named as "[[Tank:GB97_Chimera|Chimera]]". GB100 Manticore 
+* The Chimera 1955 project was a tank destroyer, not a light tank. GB100 Manticore 
+* The Chimera 1955 project used an autoloader. GB100 Manticore 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://www. GB100 Manticore reddit. GB100 Manticore com/r/WorldofTanks/comments/c6pczl/what_the_heck_is_the_manticore_tier_x_british/
+}}

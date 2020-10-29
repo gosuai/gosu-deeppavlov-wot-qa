@@ -1,0 +1,59 @@
+{{TankData|Tank=GB76_Mk_VIC
+|The Light Mk. GB76 Mk VIC  VIC was [https://worldoftanks. GB76 Mk VIC com/en/news/22/holiday-specials-2013/ the 2014 New Year's gift tank]. GB76 Mk VIC  It was also sold from January till February 2018 as a bundle pack including 30 days of premium account. GB76 Mk VIC   Poorly armored and somewhat slow to accelerate, the VIC's greatest strength comes in the form of its 15mm BESA machine gun. GB76 Mk VIC   Though lacking penetration, the VIC's gun is capable of dealing a devastating amount of damage in a short 5. GB76 Mk VIC 5 second burst. GB76 Mk VIC 
+
+|Gallery=
+
+File:Light Mk. GB76 Mk VIC  VIC scr 1. GB76 Mk VIC jpg
+File:Light Mk. GB76 Mk VIC  VIC scr 2. GB76 Mk VIC jpg
+File:Light Mk. GB76 Mk VIC  VIC scr 3. GB76 Mk VIC jpg
+File:Light Mk. GB76 Mk VIC  VIC scr 4. GB76 Mk VIC jpg
+
+
+|InTheGame_pros=
+* Very high burst damage
+* Great aim time, gun elevation, and gun depression
+* Good top speed and traverse
+* Preferential matchmaking; only sees tier II battles
+* Good view range
+* Small silhouette 
+
+|InTheGame_cons=
+* Paper-thin armor 
+* Poor penetration and gold shells do not exist 
+* Long clip reload
+* Poor acceleration
+* Fragile engine, in the front of the tankette
+
+|InTheGame_performance=
+
+The Light Mk. GB76 Mk VIC  VIC is a one-trick pony - its greatest strength comes in the form of its armament. GB76 Mk VIC   Though the 15mm BESA machine gun may lack the penetration necessary to damage well armored targets ([[T18]]s and [[Hotchkiss_H35|H35s]] are almost completely immune to it), it has a 40 round belt with an average potential damage of 360 hitpoints. GB76 Mk VIC  The VIC's machine gun dishes out this damage in just under 5. GB76 Mk VIC 5 seconds, which makes it capable of killing two tier II enemy tanks with one clip. GB76 Mk VIC   Though it can do a great amount of damage in quick bursts, the VIC takes roughly 18 seconds to reload its clip between them. GB76 Mk VIC   The 15mm gun, like most small-caliber autocannons, is only effective at short to medium range. GB76 Mk VIC   Fortunately, the VIC benefits from a good 300m viewrange which lets it spot and track tanks that are beyond the 15mm gun's effective range. GB76 Mk VIC 
+
+The VIC doesn't have many strong points aside from its great burst damage and good view range. GB76 Mk VIC   Its armor is very thin and incapable of protecting it even from other small machineguns. GB76 Mk VIC   Though it's very light and has a high top speed, the VIC's 88hp engine isn't powerful enough to give it the acceleration of other light tanks. GB76 Mk VIC   The VIC also has an atypical configuration with its engine in the front and turret in the back. GB76 Mk VIC   This means that the VIC is prone to engine fires when it takes hits from the front. GB76 Mk VIC   One way to protect the front of the tank is to reverse around corners and only expose the rear of the tank, though this can making flanking or ambushing maneuvers slower and more difficult. GB76 Mk VIC 
+
+====Compared to Similar Tanks====
+
+The Light Mk. GB76 Mk VIC  VIC was given to players only a few months after the [[T7 Combat Car]], and since both feature similar machinegun armaments, the two are often referred to together. GB76 Mk VIC   The T7's and VIC's machine guns both have large clips with high burst damage, poor penetration, and long reload times. GB76 Mk VIC   Comparatively, the T7 has more burst damage per clip at 400 average hitpoints, but an even longer clip reload time of 24 seconds. GB76 Mk VIC   The T7 shares the VIC's lack of armor, but has a much more powerful engine and is altogether faster. GB76 Mk VIC   Both tanks share similar playstyles and are suited for ambushing and flanking, albeit at different paces. GB76 Mk VIC 
+
+|InTheGame_research=
+
+All modules are researched with the tank. GB76 Mk VIC 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, GLD
+
+|History=
+The Light Mk. GB76 Mk VIC  VI series of tanks were produced by Vickers-Armstrong between 1936 and 1940, and saw service in World War II. GB76 Mk VIC   The Mk. GB76 Mk VIC  IV weighed 10,800 pounds and was powered by an 88hp Meadows 6-cylinder gasoline engine. GB76 Mk VIC   It employed a Wilson pre-selector gearbox, and rode on Horstmann inclined coil spring suspension. GB76 Mk VIC   Although the Horsmann suspension had proved durable, it was found to pitch violently due to the proportions of the tank, and made shooting accurately while moving extremely difficult. GB76 Mk VIC   The Mk. GB76 Mk VIC  IV had a crew of three (commander/radio operator, driver, and gunner), and was armed with one 7. GB76 Mk VIC 7mm machine gun and one 50 caliber Vickers machine gun. GB76 Mk VIC   Over 1,600 Mk. GB76 Mk VIC  VI series tanks were built. GB76 Mk VIC 
+
+
+Several variants of the Light Mk. GB76 Mk VIC  VI were built. GB76 Mk VIC   The Mk. GB76 Mk VIC  IVA had a return roller removed from the leading bogie and attached to the tank's hull, and was equipped with a faceted cupola. GB76 Mk VIC   The Mk. GB76 Mk VIC  VIB was very similar to the VIA, but included modifications to make production simpler such as a one piece radiator louver and a circular cupola. GB76 Mk VIC   A version of the VIB was produced for the British Indian Army with the cupola removed and replaced by a hatch on top of the turret. GB76 Mk VIC   The last tank in the Mk. GB76 Mk VIC  VI series, the Mk. GB76 Mk VIC  VIC, also had the commander's cupola removed. GB76 Mk VIC   The VIC was also fitted with 3 carburetors on the 6 cylinder engine to improve performance, and was given wider bogies. GB76 Mk VIC   It was also given a more powerful armament of co-axial 15mm and 7. GB76 Mk VIC 92mm BESA machine guns. GB76 Mk VIC 
+|HistoricalGallery=image:LMkVICHG1. GB76 Mk VIC jpg
+image:LMkVICHG2. GB76 Mk VIC jpg
+image:LMkVICHG3. GB76 Mk VIC jpg
+
+|Ref_references=
+
+|Ref_sources=*https://en. GB76 Mk VIC wikipedia. GB76 Mk VIC org/wiki/Light_Tank_Mk_VI
+
+|Ref_links=
+
+}}

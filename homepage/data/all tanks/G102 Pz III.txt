@@ -1,0 +1,69 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+image:PzIIIA. G102 Pz III png{{!}}PzKpfw III Ausf. G102 Pz III A in battle. G102 Pz III 
+image:Pz_III_Ausf_A_1. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A front left view
+image:Pz_III_Ausf_a_2. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A front right view
+image:Pz_III_Ausf_a_3. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A back left view
+image:Pz_III_Ausf_a_4. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A back right view
+
+|InTheGame_pros=
+* Good mobility: high Power/Weight ratio, good acceleration and high top speed
+* Good hull traverse speed
+* Good penetration, damage and rate of fire
+* Good all-round armor, reliable against most autocannons or starting tier guns when well angled
+
+|InTheGame_cons=
+* Very inaccurate guns, dispersion penalty on movement and traverse is also bad
+* Higher chance of engine fire
+* Low maneuverability at speed
+* Upgraded turret slows the tank down
+
+|InTheGame_performance=
+The Pz. G102 Pz III Kpfw. G102 Pz III  III Ausf. G102 Pz III  E boasts an excellent top speed and maneuverability. G102 Pz III  It excels in the scout role, and after learning the ropes in tiers 1 and 2, players should find this to be an enjoyable next step. G102 Pz III  After receiving a HD model in patch 9. G102 Pz III 16, the Pz. G102 Pz III Kpfw. G102 Pz III  III Ausf. G102 Pz III  E (formerly Ausf. G102 Pz III  A) is now slightly taller, but with better hull armor. G102 Pz III  It's hull and turret armor is 30mm all-round (except for the rear of the hull), which is effective against machine guns and low tier opponents. G102 Pz III  It does have drawbacks, like the stock gun which is not much more powerful than those found on the previous two tiers. G102 Pz III  However, once fully upgraded, it is more than a match for the equivalent [[USSR|Soviet]] and [[USA|American]] tanks. G102 Pz III  It also excels in an anti-scout role such as taking down faster tanks such as the BT-7 that it can penetrate consistently. G102 Pz III  To make up for the longer aim time, it can take up a "scout-sniper" role in that it can first rush ahead to spot the enemies, and as soon as it makes first contact with the enemy it can then escape with its good speed and then take up a better sniping position to take out the arriving enemies. G102 Pz III  The gun can and will absolutely decimate hordes of enemies unaware of the tanks position and will rarely need to be well aimed considering the 5cm gun used. G102 Pz III 
+
+|InTheGame_research=
+* The 2cm Flak 38L/112 gun and the FuG-7 and FuG Spr. G102 Pz III 1 radios carry over from the Pz. G102 Pz III II and should be mounted if already researched. G102 Pz III 
+* Prioritize the 2nd turret which must be mounted before next mounting the 5cm top gun. G102 Pz III 
+* Tracks next followed by the 2nd and 3rd engines. G102 Pz III 
+* Last, but not least, research and mount the Tier-8 radio for great signal range if not carried over from the Pz. G102 Pz III II. G102 Pz III 
+
+|InTheGame_equipment=
+Toolbox, GLD, Coated Optics, Binocular Telescope, Camouflage Net, Improved Ventilation Class 1, Enhanced Springs
+
+
+|History=
+During the mid-1930s, and after gaining an experienced taste from the Spanish Civil War of how warfare would be fought in the coming decades, the Wehrmacht began developing a new armored doctrine based on the lightning fast application of force in combined arms operations. G102 Pz III  
+
+Under General Heinz Guderian, a project was commenced to solicit designs for two new types of tank. G102 Pz III  One would be a support tank and would be armed with a large caliber gun. G102 Pz III  The other would be mounting an anti-tank gun and 2 machine guns. G102 Pz III  The former would become the [[Pz. G102 Pz III Kpfw. G102 Pz III  IV]]. G102 Pz III  The latter would become the [[Pz. G102 Pz III Kpfw. G102 Pz III  III]]. G102 Pz III  
+
+Late in 1935, development proposals were requested from MAN (Nurnberg), Daimler-Benz AG (Berlin-Marienfelde), Rheinmetall-Borsig (Berlin), and Krupp AG (Essen) for a 15-ton fully-tracked vehicle, and in the interest of security to be named Zugfuhrerwagen (ZW): platoon commander’s vehicle. G102 Pz III  
+
+The vehicle's development began with a series of arguments between the Waffenamt (the Ordnance Department) and the Inspector for Mechanized Troops over its armament. G102 Pz III  The Waffenamt had chosen the 3. G102 Pz III 7cm cannon while the Inspector for Mechanized Troops demanded 5cm gun. G102 Pz III  Ultimately, the 3. G102 Pz III 7cm was chosen as the vehicle's main armament because the infantry was already equipped with the standard 37mm Pak 35/36 L/45 anti-tank gun. G102 Pz III  This meant that only one type of gun and ammunition needed to be produced, although the turret and turret ring were capable of mounting the heavier 5cm gun. G102 Pz III  
+
+Since this new vehicle was to be used in the forward echelons of assault tank formations, it was decided to require heavier armor in the front than in the rear. G102 Pz III  Top speed was specified to be 40km with a crew of 5 men, with a new turret based on an enlarged version of that found on the [[Pz. G102 Pz III Kpfw. G102 Pz III  II]]. G102 Pz III  The [[Pz. G102 Pz III Kpfw. G102 Pz III  III Ausf. G102 Pz III  A]] was the first German Tank to use a new intercom system for in-tank communications, which was fitted to all later Panzer tanks, and was highly successful. G102 Pz III  
+
+Eventually, the Daimler-Benz design was selected and ten prototypes were constructed in 1937. G102 Pz III  Some sources state that as many as fifteen were constructed, but only eight were armed. G102 Pz III  These eight equipped units of the 1st, 2nd, and 3rd Panzer Divisions and took part in Anschluss, the take-over of Sudetenland and the Polish Campaign. G102 Pz III  
+
+The Pz. G102 Pz III Kpfw. G102 Pz III  III Ausf. G102 Pz III  E was the first dramatic change to the tank's design. G102 Pz III  The tank's suspension was redesigned from leaf-springs to torsion-bars, and now had six roadwheels per side instead of five. G102 Pz III  The armor was also upgraded from 15mm of armor on all sides to 30mm of armor on all sides. G102 Pz III 
+
+|HistAcc=
+Both 2 cm gun configurations are fake. G102 Pz III 
+* Historical [[Engine#Maybach HL 108 TR R|HL 108]] engine with 250 hp is missing. G102 Pz III  This was the powerplant of the Ausf A. G102 Pz III 
+* The Maybach HL 120 engine is considerably more powerful than in reality, with 350-440 hp compared to the historical 300. G102 Pz III 
+
+|HistoricalGallery=
+image:Panzer-3a. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A
+image:Pz3a 5. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A
+image:PzIIIA. G102 Pz III jpg. G102 Pz III jpg{{!}}PzKpfw III Ausf. G102 Pz III  A
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://www. G102 Pz III wwiivehicles. G102 Pz III com/germany/vehicle/medium-tank/pzkpfw-iii-ausf-a-medium-tank. G102 Pz III asp WWIIVehicles. G102 Pz III com]
+}}

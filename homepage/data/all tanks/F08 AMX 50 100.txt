@@ -1,0 +1,137 @@
+{{TankData|Tank=
+|The AMX 50 100 is the first French heavy tank to receive an [[Automatic Loader|autoloader]], which features a 6 round magazine and an impressive potential damage per clip. F08 AMX 50 100  The AMX 50 100 is very flexible can be used in a great variety of ways. F08 AMX 50 100  It's very fast and mobile and its 100mm SA 47 gun boasts good accuracy, penetration, and damage which allows it be effective in sniping, supporting advancing teammates, and as heavy firepower for medium wolf packs. F08 AMX 50 100  Similarly to its predecessor, the armor of the AMX 50 100 is very weak and receives full damage from arty and HE shells if hit on the sides and rear. F08 AMX 50 100  The magazine reload takes 50 seconds which makes a cornered AMX 50 100 very vulnerable. F08 AMX 50 100  Thus, a good 50 100 always leaves itself an escape route and stays safe until it's time to unload its powerful cannon. F08 AMX 50 100 
+
+|Gallery= 
+image:AMX_50_100_001. F08 AMX 50 100 jpg{{!}}AMX 50 100 001
+image:AMX_50_100_002. F08 AMX 50 100 jpg{{!}}AMX 50 100 002
+image:AMX_50_100_003. F08 AMX 50 100 jpg{{!}}AMX 50 100 003
+image:AMX_50_100_004. F08 AMX 50 100 jpg{{!}}AMX 50 100 004
+image:AMX_50_100_OLDandHD. F08 AMX 50 100 png{{!}} Difference between the new and the old model of the AMX 50 100. F08 AMX 50 100 
+
+|InTheGame_pros= 
+* 6-round autoloader with an average burst of 1800 alpha if all shots penetrate
+* Excellent penetration, rarely needs premium ammunition
+* Very good gun depression
+* Excellent top speed and acceleration for a heavy tank, comparable to mediums
+* Easy stock grind, most modules carry over from the [[AMX M4 Mle. F08 AMX 50 100  45]]
+
+|InTheGame_cons= 
+* Large target with poor armor and a low hitpoint pool
+* Punishing clip reload time
+* Poor aim time and slow shell cycling, must stay exposed for a long time to empty a full clip
+* Bad gun handling, firing on the move is mostly a waste
+* Extremely vulnerable to artillery and high pen HE shells
+
+|InTheGame_performance=
+The AMX 50 100 is a glass cannon. F08 AMX 50 100  Although, the 6-round drum has a tremendous average damage of 1800, extreme care must be taken when driving an AMX 50 100. F08 AMX 50 100  Its negligible armor attracts enemy fire and often causes a swift trip back to the garage. F08 AMX 50 100  The perk Sixth Sense is highly recommended as arty are well aware they can hit 50 100's for full damage. F08 AMX 50 100  By staying alive you'll naturally find yourself dealing more and more damage as you reload your drum again and again. F08 AMX 50 100  In order to maximize survivability and damage potential, a 50 100 must wait for the right opportunity to make use of its strengths. F08 AMX 50 100  Whether it's unloading on an enemy caught out in the open, making a dash for arty, supporting your teammates through flanking, or chasing down speedy enemies, the choice of action a 50 100 makes can have a huge effect on the outcome of the battle. F08 AMX 50 100  Always try to go for the kill, finish off targets you started unloading on, and above all, know when to pull back. F08 AMX 50 100  Sometimes you won't be able to unload your entire clip without taking an extra shot from the enemy. F08 AMX 50 100  Some people might prefer the 90 mm DCA 45 featured first on the ARL 44 over the 100 mm SA47 as the reload of the clip is much shorter (though the reload between shells is the same), and the damage per minute is higher. F08 AMX 50 100  Also, the shells are much cheaper (255 credits for the 90 mm shells vs 1030 for the 100 mm shells). F08 AMX 50 100 
+
+The AMX 50 100 is more of a tank destroyer than true heavy in comparison to its fellow Tier 8s; avoid taking the front lines, and never advance alone if possible. F08 AMX 50 100  Stay observant of both teams and take advantage of opportunities as they come up. F08 AMX 50 100  Understand that an AMX 50 100 cannot limit itself to a single role constantly. F08 AMX 50 100  Everything about the 50 100, except armor and horribly long reload, is excellent for its tier. F08 AMX 50 100  The 50 100 is overall a fun tank to learn and play and is a popular keeper among many Tier 8 aficionados, but only really shines in platoons. F08 AMX 50 100  Even then, city maps are usually a unpleasant experience for this tank. F08 AMX 50 100  
+
+The AMX 50 100, due to its characteristics, is commonly used in Team battles and tournaments. F08 AMX 50 100 
+
+
+|InTheGame_research=
+* The 90mm DCA 45, top radio, and top engine carry over from the [[AMX M4 Mle. F08 AMX 50 100  45]] 
+* Research the tracks first, as while it is possible to mount all available modules from the start, doing so will leave no weight left for equipment (alternatively, temporarily install the enhanced suspension upgrade to increase carrying capacity)
+* Research the 100mm SA47 gun
+* You are ready to grind your way to the [[AMX 50 120]]
+
+|InTheGame_equipment=
+Vents, Vertical Stabilizer, GLD, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+*{{#ev:youtube|xq-SkYDZE-k}}
+
+|History=
+[[image:AMX 50 100 during a parade in Paris, 1950. F08 AMX 50 100  At the time France was counting the AMX 50 to become the future tank for the Wester European nations. F08 AMX 50 100 jpg|thumb|200px|left|AMX 50 100 during a parade in Paris, 1950. F08 AMX 50 100  At the time France was counting the AMX 50 to become the future tank for the Western European nations]] 
+When it became obvious that frontal armor of only 30 mm on M 4 tank would not be sufficient for the next generation of french tanks, the prototype was uparmored. F08 AMX 50 100  In order to save weight. F08 AMX 50 100  it was decided to install a novel oscillating turret, designed by FAMH. F08 AMX 50 100  Nevertheless, when the first prototype, now under the designation AMX 50 after its intended weight class, was delivered in 1949, it weighed 53. F08 AMX 50 100 7 metric tonnes. F08 AMX 50 100  
+
+==Development history==
+In the winter of 1950 instead of the 90 mm, a 100 mm gun was fitted, designed by the Arsenal de Tarbes. F08 AMX 50 100  The second prototype with a slightly different turret, but also with a 100 mm gun, was ready soon after. F08 AMX 50 100  The prototypes had a length, with gun, of 10. F08 AMX 50 100 43, a width of 3. F08 AMX 50 100 40 and a height of 3. F08 AMX 50 100 41 metres. F08 AMX 50 100  It was intended to fit a 1200 hp engine to attain a speed much superior to all existing medium tank types. F08 AMX 50 100  The Maybach HL 295 (a redesigned German gas engine in 1945 captured at Friedrichshafen by Engineer-General Joseph Molinié) and a Saurer diesel engine were tested. F08 AMX 50 100  Both failed to deliver the required output and maximum speed was in fact no higher than 51 km/h. F08 AMX 50 100  The prototypes were tested between 1950 and 1952. F08 AMX 50 100 
+
+==Parallel designs==
+
+'''AMX Chasseur de Char'''[[image:Somua SM. F08 AMX 50 100 jpg|thumb|200px|right|Competitive designt that was eventualy rejected. F08 AMX 50 100 Somua SM closely resembled the AMX 50; It too had an oscillating turret, first with a 90 mm, then with a 100 mm gun. F08 AMX 50 100 ]]
+
+AMX from 1946 designed the AMX Chasseur de Char, a lightly armoured 34 tonne tank destroyer based on the M4 chassis, but fitted with a modern rounded sleek turret for the 90 mm gun. F08 AMX 50 100  No prototype was built. F08 AMX 50 100 
+
+'''Somua SM'''
+
+In competition with AMX, the SOMUA company also developed a tank to meet the demand for a heavily armed vehicle: the Char SOMUA SM, that however had been conceived as a heavy tank, Char Lourd, in the sixty tonne weight class, from the very beginning, again imitating the German King Tiger. F08 AMX 50 100  The order to build a prototype was given in 1946, the vehicle was delivered in October 1951, weighing 56 metric tonnes. F08 AMX 50 100  Both companies had in the end been forced by the Army to work along identical and detailed specifications. F08 AMX 50 100  As a result the SOMUA SM closely resembled the AMX 50: it too had an oscillating turret, first with a 90 mm, then with a 100 mm gun. F08 AMX 50 100  The main external difference was that the nine road wheels were not overlapping. F08 AMX 50 100  It only was tested between January and July 1953 as many parts had not been sufficiently developed; the delay ensured that the type was rejected. F08 AMX 50 100 
+
+==AMX 50 Series development history==
+
+'''Oscillating turret'''
+[[image:Oscillating turret. F08 AMX 50 100 jpg|thumb|200px|left|Close up photo of a typical oscillating turret design]] 
+Because there were five prototypes, it is not possible to give a description applying to all of them in detail. F08 AMX 50 100  Weighing about fifty-five tons, the general AMX 50 project was the heaviest of a trio of French AFV designs of the postwar period (the others being the AMX-13 and the Panhard EBR) to feature an oscillating turret. F08 AMX 50 100  The oscillating turret design, lacking a conventional gun-mantlet, is in two separate parts, with an upper and lower part connected by two hinge bolts or pivots, the gun being fixed within the upper section. F08 AMX 50 100  The horizontal movement of the gun, traversing, is conventional, but the vertical movement, elevation, is achieved through the pivoting of the entire upper section with respect to the lower section. F08 AMX 50 100  This method of elevation has two main advantages. F08 AMX 50 100  Firstly it allows for a smaller turret volume, as no internal space is needed for the vertical movement of the gun breech. F08 AMX 50 100  Secondly, it allows the use of a relatively simple auto-loader fed by multiround magazines, achieving a very high rate of fire for as long as the magazines were loaded, as the gun is also fixed with respect to the auto-loader located in the back of the upper turret, i. F08 AMX 50 100 c. F08 AMX 50 100  a protruding bustle. F08 AMX 50 100  The automatic loading system worked satisfactorily when the calibre was 100 mm. F08 AMX 50 100  After the larger 120 mm gun was introduced, reliability suffered, due to the increased weight of the rounds used. F08 AMX 50 100  The oscillating turret was a very fashionable concept in the fifties, and also applied in some American projects, such as the T57 and T58. F08 AMX 50 100  Only the French however, would produce operational systems. F08 AMX 50 100 
+
+'''German rolemodels'''
+
+The hull was equipped with a torsion bar suspension designed to ensure a vehicle with good cross-country mobility. F08 AMX 50 100  The hull and suspension recalled both the German Tiger and the Panther tanks which, having entered French service after the war, were well known and deliberately imitated. F08 AMX 50 100  Especially the engine deck, the sprockets and the tracks are strongly reminiscent of the German design style. F08 AMX 50 100  The nine overlapping tyred road wheels each side, were however much smaller. F08 AMX 50 100  The French engineers had not been aware at first that the much admired German overlapping design had been motivated by a shortage of high quality rubber, necessitating large road wheels to lower tyre tension, which then were made overlapping to better distribute the load pressure. F08 AMX 50 100  As France would have no trouble obtaining rubber of the desired quality, this feature was superfluous. F08 AMX 50 100  Therefore the road wheels were made smaller, compared to the first design proposal, both to save weight and lower the profile of the tank, which was quite high due to a deep hull, a problem only changed in the fifth prototype. F08 AMX 50 100  The track now had to be supported by five top rollers. F08 AMX 50 100  The overlapping system as such was maintained in all prototypes; with smaller wheels it allowed for nine instead of the originally planned eight wheels, five forming the outer, four the inner row. F08 AMX 50 100 
+
+[[image:AMX 50 100 during trials. F08 AMX 50 100 jpg|thumb|200px|right|AMX 50 100 during trials. F08 AMX 50 100  First of the AMX 50 protoypes is easily recognisable by an oscillating turret and a Panther like sloped front plate]] The engine and transmission system was in the rear of the vehicle with rear drive sprockets. F08 AMX 50 100  The transmission was derived from the ZF of the Panther. F08 AMX 50 100  The functions of final drive and steering were combined in a single assembly; for each gear two turning radii could be selected. F08 AMX 50 100  The engine was the Maybach HL295 12 cylinder of 29. F08 AMX 50 100 5 litres, using fuel injection combined with spark ignition. F08 AMX 50 100  The project goal was to bring the engine output to 1200 hp, implying a very favourable hp/litre ratio of over forty. F08 AMX 50 100  This proved to be unrealistically ambitious, given the level of technological development at the time; in reality not even a ratio of thirty was reliably attained. F08 AMX 50 100 
+
+The hull sides were vertical, as in the case of the Tiger, while the front of the hull was in the first three prototypes evenly inclined at approximately 40 degrees from the horizontal, using sloped armour similar to that of the Panther and Tiger II. F08 AMX 50 100  The corners between the glacis and the sides were truncated. F08 AMX 50 100  The first two prototypes had a frontal protection level equivalent to about 120 mm "line-of-sight" thickness in the horizontal plane. F08 AMX 50 100  The type was thus not particularly heavily armoured for its time. F08 AMX 50 100  The weight increase with the third prototype was mainly caused by the larger turret and even in its fourth "uparmoured" form, doubling the frontal armour thickness, the AMX 50 was less well protected than its American and British competitors, themselves inferior in armour to the Soviet heavy tanks they had been created to fight. F08 AMX 50 100  The fifth prototype used a lower cast hull, with a rounded frontal section for a better weight efficiency. F08 AMX 50 100 
+
+Above the massive hull, there was the oscillating turret, smaller, lighter and more compact than that of the Tiger; the sloped face of the upper part had a thickness of 85 mm. F08 AMX 50 100  In the turret rear back there was the commander's cupola, well equipped with optical equipment. F08 AMX 50 100  The turret had an optical rangefinder. F08 AMX 50 100  The first two prototypes had twin 7. F08 AMX 50 100 5 mm "Reibel" machine guns placed on top of the roof as an AA-weapon, a third was coaxial. F08 AMX 50 100  In the first design proposal for a 120 mm version, the conventional turret had a high cupola armed with both a machine gun and a 20 mm MG 151 rapid fire cannon. F08 AMX 50 100  However the third and fourth "120 mm" oscillating turret prototypes had a single 7. F08 AMX 50 100 5 mm AA machine gun and a second 7. F08 AMX 50 100 5 mm coaxial machine gun. F08 AMX 50 100  For the production vehicles it was considered to install a coaxial 20 mm gun; lighter armoured targets could then be engaged without depleting the limited ammunition stock in the turret magazines. F08 AMX 50 100  Despite the auto-loader, the crew was four: a second man was seated in the hull, functioning as radio-operator, but mainly needed to replenish the turret magazines from the hull ammunition stocks. F08 AMX 50 100 
+
+'''Jack of all trades wannabe'''
+[[image:AMX50 120 one of the prototypes from the 1955. F08 AMX 50 100  Note the spear (IS-3 like) shaped front hull. F08 AMX 50 100 jpg|thumb|200px|left|AMX50 120. F08 AMX 50 100  First upguned and uparmored prototypes from the year 1955. F08 AMX 50 100  Note the spear (IS-3 like) shaped front hull]]
+The AMX 50 as originally planned, would have been a medium, not a heavy, tank. F08 AMX 50 100  It was supposed to be light, well armed and above all mobile. F08 AMX 50 100  When the first two prototypes were made, low weight had already been sacrificed in favour of a high protection level, but it was still supposed to be a quite agile vehicle, in the 45 - 50 tonne weight class, with a hp/tonne ratio of over twenty. F08 AMX 50 100  Expectations were high: as General Molinié afterwards ironically put it, it was hoped to create a tank with the protection of the Panther, the firepower of the Tiger, the mobility and abundance of the T-34, the reliability of the M4 Sherman and all that weighing less than the M26 Pershing. F08 AMX 50 100  At that time France hoped to regain its position as a Great Power; rebuilding its armaments industry served this goal. F08 AMX 50 100  To build an indigenous battle tank was however not merely a question of national prestige. F08 AMX 50 100  Europe as a whole was trying to recover from the devastations caused by the war and to assert a modicum of independence towards the two superpowers, the USA and the USSR. F08 AMX 50 100  To this end in 1948 the Treaty of Brussels was signed, which among other things was also a common defence agreement. F08 AMX 50 100  The AMX 50, superior in armament and mobility to the existing American and British designs, was seen as the logical candidate for a common European tank, to equip the future armies of the Western European Union defence organisation. F08 AMX 50 100  The prototypes were proudly displayed during the 1950 Bastille Day parade. F08 AMX 50 100  Somewhat inconsequentially, it was hoped that the Americans would fund such a tank, as the financial position of the European states would not allow them to rearm. F08 AMX 50 100 
+
+[[image:AMX 50B 120 rear view. F08 AMX 50 100 jpg|thumb|200px|right|AMX 50B 120 rear view]]That same year, the situation changed drastically due to the outbreak of the Korean War. F08 AMX 50 100  Quickly the USA recommenced medium tank mass production, of the new M47 Patton. F08 AMX 50 100  When this tank proved to be unsatisfactory, an even more advanced type was taken into production for the American forces, the M48 Patton; thousands of M47s were leased for free to the European allies, France included. F08 AMX 50 100  The AMX 50 was suddenly made redundant as a medium tank, despite a "100 mm" prototype being sent in 1952 to the Aberdeen Proving Grounds for, successful, tests. F08 AMX 50 100 
+
+'''Engine problems'''
+
+To save the project, a new rôle was found in the Soviet heavy tank threat. F08 AMX 50 100  In the early fifties, NATO tacticians were worried by the strong armour of the Soviet vehicles, that seemed to be immune to the guns of the existing Western types. F08 AMX 50 100  In response Britain would develop the Conqueror and the USA the M103 heavy tank; abandoning the SOMUA SM, it was decided to let the AMX 50 evolve into a comparable type, even though other French heavy tank projects were in existence, such as the Char de 70 tonnes, a sort of "AMX 70". F08 AMX 50 100  Already having a large chassis, the AMX 50 could in principle easily be adapted to carry the desired 120 mm gun — a derivation by the Atelier du Havre of the American gun, using the same ammunition — and had the advantage of a, on paper, very powerful engine. F08 AMX 50 100  In practice there were many obstacles. F08 AMX 50 100  Room could in fact only be found by increasing the height of the lower turret half, negating the advantages of the oscillating concept and creating a dangerous shot trap. F08 AMX 50 100  The "uparmoured" version, with its deeper hull and flatter turret, was specially designed to counter this and make the vehicle immune in long range fire engagements, but further increased weight. F08 AMX 50 100  In 1955 the AMX 50 was nevertheless very close to being ordered by the French government, that expected to produce the type for the reconstituted German Army also. F08 AMX 50 100  A production was planned of a hundred for 1956. F08 AMX 50 100  This decision had to be delayed however, due to the fact the engine problems had not been solved: reliability could only be assured if the output was limited to 850 hp, causing a mediocre hp/tonne ratio of about 13:1. F08 AMX 50 100 
+
+'''Delays proved fatal '''
+[[image:Seventy-ton version of the AMX 50 battle tank with a 120 mm gun. F08 AMX 50 100 . F08 AMX 50 100 jpg|thumb|200px|left|Seventy-ton version of the AMX 50 battle tank with a 120 mm gun and a frontal armor of 210 mm]]
+The delay proved fatal to the project. F08 AMX 50 100  In the late fifties, swift advances in hollow charge technology led to an increased vulnerability for heavy tanks. F08 AMX 50 100  Mobility thus gained a priority over protection and the very concept of a heavy tank became obsolete. F08 AMX 50 100  As a result the project was changed again in intention, now trying to present itself as an agile main battle tank, with the same gun as the Conqueror but much lighter and more powerful. F08 AMX 50 100  This failed as it was much too large and expensive; oscillating turrets also became unpopular as they were inherently difficult to protect against nuclear and chemical contamination. F08 AMX 50 100  The engine problems with the Maybach were never overcome and lowering the hull to save weight, as was done for the final prototype, made it impossible to install a larger engine. F08 AMX 50 100  Recognizing that the problem of combining excellent mobility with heavy armour was for the time being irresolvable, the AMX 50 project was terminated; the priority given to mobility demanded a new design concept, leading to the AMX 30, the lightest MBT of its time. F08 AMX 50 100  Only in the early eighties would France again attempt to combine heavy armour and armament in its tank designs, beginning with the later AMX 32 prototypes. F08 AMX 50 100  The AMX 50 would not be a complete waste of time and effort however, as much technological knowledge had been gained from which the AMX 30 would profit. F08 AMX 50 100  In the Musée des Blindés at Saumur an AMX 50 is shown, a combination of the last cast hull and the Tourelle D. F08 AMX 50 100 
+
+|HistoricalGallery=
+image:AMX 50 100 during a parade in Paris, 1950. F08 AMX 50 100  At the time France was counting the AMX 50 to become the future tank for the Wester European nations. F08 AMX 50 100 jpg{{!}}AMX 50 100 during a parade in Paris, 1950. F08 AMX 50 100  At the time France was counting the AMX 50 to become the future tank for the Wester European nations. F08 AMX 50 100 
+image:AMX 50 100 during factory. F08 AMX 50 100 jpg{{!}}AMX 50 100 during factory
+image:Amx 50 100. F08 AMX 50 100 jpg{{!}}Amx 50 100, side view
+image:Amx50 100 back view. F08 AMX 50 100 jpg{{!}}Amx50 100 back view
+image:Amx50-100-93 1 153. F08 AMX 50 100 jpg{{!}}Amx50 100 mm
+image:AMX 50 battle tank with a 100 mm gun. F08 AMX 50 100 jpg{{!}}AMX 50 battle tank with a 100 mm gun
+image:AMX 50 100 during factory. F08 AMX 50 100 jpg{{!}}AMX 50 100 during factory
+File:Armor_documentation_for_the_AMX_50_100. F08 AMX 50 100 png{{!}}Armor documentation for the AMX 50 100. F08 AMX 50 100  “Vaulted” means that this part of the tank is either curved or has no “constant” slope value, being an oscillating turret. F08 AMX 50 100  
+
+|HistAcc=
+Actual frontal turret armor is 200 mm thick, while the sides are 60 mm. F08 AMX 50 100 
+* Actual hull armor values are 90/40/40, not 90/35/30. F08 AMX 50 100 
+* Historical HEAT round with 320 mm of penetration is missing. F08 AMX 50 100  This was the standard ammunition of the 90 mm F3 gun. F08 AMX 50 100  The AP and APCR rounds are fake. F08 AMX 50 100  
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [https://www. F08 AMX 50 100 youtube. F08 AMX 50 100 com/watch?v=xq-SkYDZE-k '''Youtube''' ] RBS video review
+
+* [https://www. F08 AMX 50 100 chars-francais. F08 AMX 50 100 net/2015/index. F08 AMX 50 100 php/liste-chronologique/de-1945-a-1990?task=view&id=20 '''<i>1949 CHAR AMX 50-100 at chars-francais. F08 AMX 50 100 net</i>'''] Photos, specs, and brief history in French. F08 AMX 50 100 
+
+* https://tankarchives. F08 AMX 50 100 blogspot. F08 AMX 50 100 com/2016/03/amx-50-five-years-of-trial-and-error. F08 AMX 50 100 html
+
+* https://warspot. F08 AMX 50 100 ru/5054-pyatiletka-prob-i-oshibok Original version of the above link in Russian
+
+* https://thearmoredpatrol. F08 AMX 50 100 com/2015/09/10/amx-50-turret-buff-and-o-thers/
+
+|Sidebar_Camostop=5. F08 AMX 50 100 7
+|Sidebar_Camomove=3. F08 AMX 50 100 1
+|Sidebar_Camofire=1. F08 AMX 50 100 4
+|Sidebar_Passhard=1. F08 AMX 50 100 151
+|Sidebar_Passmed=1. F08 AMX 50 100 247
+|Sidebar_Passsoft=2. F08 AMX 50 100 014
+|Sidebar_DispTurret=0. F08 AMX 50 100 153
+|Sidebar_DispRecoil=3. F08 AMX 50 100 836
+|Sidebar_DispAccel=0. F08 AMX 50 100 211
+|Sidebar_DispTurning=0. F08 AMX 50 100 211
+
+}}
+
+[[Category:French Tanks]]

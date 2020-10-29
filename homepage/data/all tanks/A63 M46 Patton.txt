@@ -1,0 +1,103 @@
+{{TankData|Tank=
+|It is the evolution of the [[M26 Pershing]]. A63 M46 Patton  The Patton is slower compared to its tier 9 medium tank counterparts, but its maneuverability and powerful 105mm T5E1M2 gun make this tank a pretty hard target to kill. A63 M46 Patton  Even though this tank doesn't have enough armor to take direct hits without damage, its frontal turret position and quick acceleration, combined with its low gun dispersion, allow it to be one of the true masters of creating protection through exploiting the surroundings. A63 M46 Patton  By effectively determining when to take on targets or shots of opportunity while focusing on best supporting the team as a whole through the Patton's strengths, the determined player is a positive force on the team's odds of success. A63 M46 Patton  Compared to its tier 9 medium tank counterparts, the Patton is an exploiter and force multiplier, able to effectively boost the sight-lines of other tanks and deliver critical punishment at key times. A63 M46 Patton 
+
+|Sidebar_GunAlt= 105mm T5E1M2
+|Sidebar_Camostop=13. A63 M46 Patton 40
+|Sidebar_Camomove=10. A63 M46 Patton 30
+|Sidebar_Camofire=2. A63 M46 Patton 90
+|Sidebar_Passhard=1. A63 M46 Patton 055
+|Sidebar_Passmed=1. A63 M46 Patton 247
+|Sidebar_Passsoft=2. A63 M46 Patton 014
+|Sidebar_DispTurret=0. A63 M46 Patton 08
+|Sidebar_DispRecoil=3. A63 M46 Patton 836
+|Sidebar_DispAccel=0. A63 M46 Patton 105
+|Sidebar_DispTurning=0. A63 M46 Patton 105
+
+|InTheGame_pros=
+* High DPM and alpha damage 
+* Excellent gun handling and aim time
+* Great gun depression
+* Very good acceleration and reverse speed
+* Excellent viewrange
+
+|InTheGame_cons=
+* Poorly armored, even the upgraded turret is unreliable
+* Subpar camouflage 
+* Subpar shell velocity and accuracy
+* Low base penetraion
+* Awful stock grind
+
+|InTheGame_performance= In many ways the M46 Patton is similar to the M26 Pershing. A63 M46 Patton  It has good mobility and a very reliable final gun at its disposal. A63 M46 Patton  Just like the Pershing the M46 Patton can be played as a flanker, a support tank, an erstwhile sniper (made somewhat problematic by the 105mm's mediocre accuracy), and a brawler. A63 M46 Patton  The similarities end there, however. A63 M46 Patton  The M46 Patton's superior reload-time is one of its strongest assets. A63 M46 Patton  Unlike the Pershing, the M46 Patton's DPM is one of the best in its  class, being able to fire every 7+ seconds. A63 M46 Patton  Combined with the 390 alpha damage of the 105mm gun the M46 Patton can punish most Medium and Light tanks of its tier and below. A63 M46 Patton  Against Heavy tanks with inadequate armor the M46 is an extremely dangerous opponent that can shoot twice before they can retaliate. A63 M46 Patton  Long range duels are not recommended as the M46's mediocre accuracy and penetration will be telling disadvantages, especially against the likes of the [[E-50]] or the [[Centurion Mk. A63 M46 Patton  7/1]]. A63 M46 Patton  Let more dedicated snipers deal with that problem while you support them with your view-range. A63 M46 Patton  
+
+Another great asset of the M46 Patton is its phenomenal gun-handling. A63 M46 Patton  Its low dispersion values allow it to reliably fire on the move and take peeking shots from crests or hills. A63 M46 Patton  This allows the Patton to aim, shoot, and run for cover very quickly; often faster than most tanks can react to. A63 M46 Patton  Indeed, many Patton users will tell you this tank is capable of connecting shots that were aimed and fired at a moment's notice. A63 M46 Patton 
+
+The M46 Patton is also a reliable scout and spotter, with its 410m view range (2nd highest in-game) and increased mobility. A63 M46 Patton  It can be a passive or aggressive scout depending on the terrain and the needs of the battle. A63 M46 Patton  Unfortunately, because of the 450m view range limit, Coated Optics are more useful than Binoculars, as you will get more out of your already exceptionally good view range. A63 M46 Patton 
+
+The M46's final turret is small and sloped, making it difficult to hit at longer ranges. A63 M46 Patton  Thanks to recent armor buffs this turret is now sturdy enough for poking around crests and hills without being penetrated in return. A63 M46 Patton  The turret is by no means tough as, say, the [[T-54]] but it is now capable of bouncing return-fire from most Light and Medium tanks. A63 M46 Patton  Tank destroyers will still have no problem plowing through the front of the turret, and care should be exercised when poking ridgelines; use the gun's fabulous gun handling to snap shots quickly and pull back before the tank destroyers have time to fix their sights on you. A63 M46 Patton  As with the [[M103]] the M46's turret armor only works with minimal exposure, when engaging enemies at the front. A63 M46 Patton  Taking fire from more than one tank negates the usefulness of the frontal turret armor, so always pay attention to your surroundings. A63 M46 Patton 
+
+The M46 Patton still remains a very potent tank despite the introduction of newer medium tanks. A63 M46 Patton  Its flexibility, exceptional DPM, and exceptional gun-handling still make it a crucial asset to the team with the potential to deal devastating amounts of punishment. A63 M46 Patton  
+
+|InTheGame_research=
+* The 90 mm Gun T15E2M2, Continental AV-1790-1 Engine, and SCR 528 Radio carry over from the M26 Pershing. A63 M46 Patton  Unfortunately, only the engine and radio can be mounted immediately. A63 M46 Patton 
+* If you don't mind sticking with the stock gun for a while, the Continental AV-1790-5A Engine provides a boost in power for no extra weight. A63 M46 Patton  If you would rather mount a larger gun, save this engine for later. A63 M46 Patton 
+* Research the M46T81 Suspension in order to mount the better gun. A63 M46 Patton 
+* Research the 105 mm Gun T5E1M2 for extra damage and penetration, it doesn't need upgraded turret and has nice rate of fire even with stock turret. A63 M46 Patton  Enhanced suspension equipment is added in patch 9. A63 M46 Patton 3. A63 M46 Patton 
+* From here, research the M46T119 Turret for higher view range and better armor/angling, or the top engine (assuming you haven't already researched it). A63 M46 Patton 
+
+|InTheGame_equipment= 
+Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents
+
+|InTheGame_Equipment_Builds=
+The Patton can be specialized to fill many roles. A63 M46 Patton  With its great view range and DPM, the best combination is either Rammer+VStab+Vents for maximum brawling ability or VStab+Optics+Vents for an active scout and harasser. A63 M46 Patton  Likewise, Rammer+VStab+Optics allows it to be a very balanced tank that responds to most situations. A63 M46 Patton 
+
+|HistAcc= 
+While the 105 mm Gun T5E1M2 gun existed in various mounts such as the T95 and the T54E1, the M46 and M47 Patton only used the 90 mm M36. A63 M46 Patton  Only a few Spanish M47E2s were upgraded with 105 mm Rheinmetall RH 105-30, though this gun has no relation to the T5E1. A63 M46 Patton 
+* The T42 turret was actually mounted on the M47 Patton, a development of the M46. A63 M46 Patton  See [[M46 Patton KR]] for the historical version. A63 M46 Patton 
+* Actual engine power of the Continental AV1790 is 810 hp, not 704 or 820. A63 M46 Patton 
+* Ford GAN engine is considerably more powerful than in reality, with 560 hp compared to the historical 470. A63 M46 Patton  The engine itself was never mounted on the M46 Patton. A63 M46 Patton 
+
+|Gallery=
+image:M46_Patton_001. A63 M46 Patton jpg 
+image:M46_Patton_002. A63 M46 Patton jpg
+image:M46_Patton_003. A63 M46 Patton jpg
+image:M46_Patton_004. A63 M46 Patton jpg
+
+|History=
+The limited use of the [[M26 Pershing]] at the end of World War II led US forces to believe they had the basis for a successful tank design. A63 M46 Patton  However, the tank did not meet the requirements laid forth by the Ground Forces Equipment Review Board in 1945. A63 M46 Patton  The key complaint with the Pershing, was that it was underpowered. A63 M46 Patton  The M26 used the same drive train as the M4 series. A63 M46 Patton   With the increased weight of the Pershing, it was an inevitable conclusion that a new power plant was needed. A63 M46 Patton 
+
+A new engine, the Continental Motors AV-1790-1 V-form, 12-cylinder, water-cooled, gasoline engine was combined with a newly designed General Motors CD-850-1 cross-drive transmission. A63 M46 Patton  This power plant provided 740 hp, a somewhat limited increase in power. A63 M46 Patton  The novel design of this unit was it acted as a transmission, braking system, and steering system all in one unit. A63 M46 Patton  In addition to this modification, a bore evacuator was added to the M3A1 90mm tank gun, along with a single baffle muzzle brake. A63 M46 Patton  Certain other changes were made, including an M83 telescopic fire control system, and round transmission access covers. A63 M46 Patton 
+
+In essence, the Patton was basically a modernized Pershing. A63 M46 Patton  Originally designated the M26E2, the tank was accepted into service as the Medium Tank M46. A63 M46 Patton  It was given the nickname "Patton" in honor of the great World War II general George S. A63 M46 Patton  Patton, Jr. A63 M46 Patton 
+
+With the outbreak of the Korean War, the tank was rushed into action alongside its M26 cousin to combat the [[T-34-85|North Korean T-34-85s]]. A63 M46 Patton 
+
+The first M46 entered US service in late 1949. A63 M46 Patton   The tank saw action in the Korean War from 1950 to 1953, where it proved superior to the Russian T-34-85. A63 M46 Patton   About 200 M46 were used by the US forces in Korea. A63 M46 Patton   The M46 was retired from US service in 1957. A63 M46 Patton  It was exported only to Belgium, and only in comparatively small numbers. A63 M46 Patton 
+
+|HistoricalGallery=
+image:M46patton_koreanwar. A63 M46 Patton JPEG‎{{!}}M46 Patton in Korean war
+image:Patton_in_Korea. A63 M46 Patton jpg{{!}}USMC Patton in Korea
+image:M46_koreanwar. A63 M46 Patton jpg{{!}}M46 Patton in Korea
+image:Patton-a1. A63 M46 Patton JPG{{!}}M47 Patton in museum Vukovar, Croatia
+image:Patton-aa. A63 M46 Patton jpg{{!}}M47 Patton in warehouse Zagreb, Croatia
+File:M46e1. A63 M46 Patton jpg{{!}}M46E1 Patton, a development of the M46 with the T119 turret. A63 M46 Patton  This eventually became the M47 Patton. A63 M46 Patton 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Forty, G. A63 M46 Patton , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A63 M46 Patton 
+
+Foss, C. A63 M46 Patton F. A63 M46 Patton  and W. A63 M46 Patton  Fowler, 2002, '''<i>The Encyclopedia of Tanks and Armored Fighting Vehicles</i>''', Thunder Bay Press, San Diego, CA, 544p, ISBN:9781571458063. A63 M46 Patton 
+
+Hunnicutt, R. A63 M46 Patton P. A63 M46 Patton , 1984, '''<i>Patton: A History of the American Main Battle Tank - Volume-1</i>''', Presidio Press, 450p,  ISBN:9780891412304. A63 M46 Patton 
+
+Zaloga, S. A63 M46 Patton J. A63 M46 Patton , 2003, '''<i>M47 and M48 Patton Tanks</i>''', New Vanguard Series 31, Osprey Publishing, Oxford, 48p, ISBN:9781855328259. A63 M46 Patton 
+
+
+|Ref_links=
+
+
+}}
+
+[[Category:USA Tanks]]

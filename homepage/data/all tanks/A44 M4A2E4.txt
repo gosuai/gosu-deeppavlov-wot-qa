@@ -1,0 +1,58 @@
+{{TankData|Tank=M4A2E4
+|It is currently not available from the in-game store. A44 M4A2E4 
+
+This tank was awarded to players who managed at least 1,000 battles during Beta testing. A44 M4A2E4  It is essentially a heavier variant of the [[M4 Sherman]]. A44 M4A2E4  It sports decent mobility and a relatively acceptable gun for its tier, which has no problems penetrating [[Light Tanks|light]] and most medium tanks but will struggle to penetrate [[Heavy Tanks|heavy tanks]]. A44 M4A2E4  It also has straight-angled hull armor instead of the more rounded hull that the M4 Sherman has, potentially resulting in shells bouncing more frequently. A44 M4A2E4 
+
+The tank was given to beta testers on the NA and EU servers as a reward and is not currently available on those servers. A44 M4A2E4  It was available on the SEA server as part of a monthly mission reward in October 2014. A44 M4A2E4  It is only available for in-game purchase on the RU server. A44 M4A2E4 
+
+|Sidebar_Camostop=12
+|Sidebar_Camomove=9. A44 M4A2E4 1
+|Sidebar_Camofire=3. A44 M4A2E4 4
+|Sidebar_Passhard=0. A44 M4A2E4 988
+|Sidebar_Passmed=1. A44 M4A2E4 093
+|Sidebar_Passsoft=1. A44 M4A2E4 64
+|Sidebar_DispTurret=0. A44 M4A2E4 153
+|Sidebar_DispRecoil=3. A44 M4A2E4 836
+|Sidebar_DispAccel=0. A44 M4A2E4 23
+|Sidebar_DispTurning=0. A44 M4A2E4 23
+
+|InTheGame_pros=
+* Superb view range
+* Sloped frontal armor
+* Good rate of fire
+* Good gun depression
+* Preferential matchmaking (tier 6 max, no tier 7 battles)
+
+|InTheGame_cons=
+* Larger than the regular M4 Sherman
+* Inferior to a fully upgraded M4 Sherman
+* Poor penetration for its tier
+* Poor accuracy
+
+|InTheGame_performance=
+The performance of this tank is comparable to the [[T14]], though the T14 has better all round armor at the cost of reduced mobility. A44 M4A2E4  Like other premium vehicles, the M4A2E4 is a good moneymaker and a pleasure to drive, unless assigned in high tier battles where the lack of penetration of its gun becomes obvious, and it often is. A44 M4A2E4  Unless it's in the top tier, this tank is most effective when supporting other tanks. A44 M4A2E4 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox
+
+|Gallery=
+image:M4A3E4_001. A44 M4A2E4 jpg{{!}}M4A3E4_004
+
+|History=
+M4A2E4 tank was part of experiments made with different types of suspensions which led to the adoption of the HVSS suspension system on Sherman family of tanks. A44 M4A2E4  Two M4A2E4 prototypes were built in the summer of 1943. A44 M4A2E4  Performance of the independent torsion bar suspension was considered unsatisfactory due to severe maintenance problems which lead to the cancellation of the development. A44 M4A2E4 
+
+|HistAcc=
+M2 Browning machine gun on the turret roof is missing. A44 M4A2E4 
+* Has the same diesel engine as the [[Sherman III]], which is also an M4A2 hull. A44 M4A2E4  However, their horsepower and weight values are inconsistent. A44 M4A2E4  The British equivalent of the engine actually has the historical values. A44 M4A2E4 
+* The in-game model is carrying accessories like jerry cans and haversacks, even though the tank was only an experiment and never entered service to begin with. A44 M4A2E4 
+
+|HistoricalGallery=
+image:M4A2E4 1. A44 M4A2E4 jpg
+image:M4A2E4 (3). A44 M4A2E4 jpg{{!}}Left front view
+image:M4A2E4 (2). A44 M4A2E4 jpg{{!}}Top view
+image:M4A2E4 2. A44 M4A2E4 jpg{{!}}M4A2E4 Technical Drawing
+
+|Sources=
+https://overlord-wot. A44 M4A2E4 blogspot. A44 M4A2E4 com/2011/03/m4a2e4-preliminary-specifications. A44 M4A2E4 html
+
+}}

@@ -1,0 +1,46 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+*good penetration, can pen most tier threes
+*decent accuracy, while not great, considerably better then the 20mm
+*good top speed, and can pivot
+*good gun arc
+*high ammo capacity
+|InTheGame_cons= 
+*terrible armour
+*horrible accuracy with 20mm machine gun; don't even bother. S09 L 120 TD 
+*tall
+|InTheGame_performance= 
+After the [[Renault FT AC]], this is the second tank destroyer that can mount an autocannon (The 20mm is an autocannon, contrary to what it says in the list above). S09 L 120 TD  However, due to the low accuracy when firing in bursts, this is inadvisable. S09 L 120 TD  Best used as a sniper. S09 L 120 TD  Mount 37mm. S09 L 120 TD  Run when spotted. S09 L 120 TD 
+
+|InTheGame_research= 
+*research the 37mm ASAP
+*research the engine next
+*treads
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+An experimental mini-SPG useful for both AA and TD duties, designed by the Royal Army Ordnance Administration and intended for company-level support for armored formations. S09 L 120 TD  One prototype built and tested as a feasibility study in 1942. S09 L 120 TD  
+
+|HistAcc=
+* The designation is fictional – it was never given a name. S09 L 120 TD 
+
+|HistoricalGallery= 
+File:Pvlvv_fm42. S09 L 120 TD jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. S09 L 120 TD live/2016/08/18/how-much-paper-is-there-in-the-swedish-tree/
+
+}}

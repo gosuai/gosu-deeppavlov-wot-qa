@@ -1,0 +1,55 @@
+{{TankData|Tank= 
+|Basically a Chinese version of the American [[T95E2]], with some differences in terms of performance. Ch26 59 Patton 
+
+|Gallery=
+
+File:59-Patton scr 1. Ch26 59 Patton jpg
+File:59-Patton scr 2. Ch26 59 Patton jpg
+File:59-Patton scr 3. Ch26 59 Patton jpg
+
+
+|InTheGame_pros= 
+* Good gun depression for a Chinese tank (-7. Ch26 59 Patton 5° over the upper glacis, -9° over both sides)
+* Good on the move dispersion values
+* Well angled turret offers decent protection
+* Very good viewrange
+* Spotting can be achieved just by poking the commander's cupola, minimizing the tank's exposure
+
+|InTheGame_cons= 
+* Enormous and poorly armored commander's hatch
+* Terrible camouflage values for a medium tank
+* Low power to weight ratio, lackluster mobility
+* Somewhat subpar DPM and low shell velocity
+* Weak fuel tanks and ammo rack can be damaged/destroyed by frontal hits
+
+|InTheGame_performance= 
+If you already have the M48A1 Patton, you should know how to play in this tank. Ch26 59 Patton  Or if you don't have the M48A1 Patton, this will be a good tank to learn how to play it in. Ch26 59 Patton  You must use your excellent gun depression to your advantage. Ch26 59 Patton  With gun depression, as the 59-Patton has, you can easily pose a serious threat on a hill. Ch26 59 Patton  Along with excellent gun depression, you get very good accuracy on the move, which is better than [[Tank:A35 Pershing{{!}}Pershing]]'s. Ch26 59 Patton  If you are moving @ 30 km/h, you have a good chance of hitting the target, which is at 50-100M distance. Ch26 59 Patton  The 59-Patton's biggest disadvantages are the huge cupola on the turret roof ( which is lightly armored and inherited from the M48 ) and poor penetration. Ch26 59 Patton  In Tier 8 battles there will be no problems in penetrating, only the IS-3 will be hard to penetrate frontally. Ch26 59 Patton  In Tier 9 battles, you will be able to penetrate some of the Tier 9 mediums frontally, but there are no chances of penetrating any Tier 9 heavy tank frontally with AP shells ( except [[Tank:F09 AMX 50 120{{!}}AMX 50 120]] ) and there are some chances with APCR shells. Ch26 59 Patton  The huge cupola on the roof of the turret is a very big problem ( many players say ), but that problem can be reduced if you move constantly, or if you hide it properly. Ch26 59 Patton  But only Tier 6,7 and some Tier 8 tanks will aim for it if they see the whole tank, because higher tiers can easily penetrate the 59-Patton in every place of the tank they aim at. Ch26 59 Patton  In Tier 8 battles you can bounce many shots if you angle your tank properly and if you hide the cupola well, despite the fact the turret is well-angled at all sides. Ch26 59 Patton  In every aspect, 59-Patton is a very good support tank, so never, but NEVER go rush alone, because you will be destroyed easily if you encounter any Tier 8 heavy tank alone, and even some Tier 8 medium tanks ( like the T26E4 Super Pershing which is hard to penetrate ). Ch26 59 Patton  Despite having a frontally-mounted ammo rack, one suggested equipment is a Wet Ammo Rack ( even with it you will have damaged ammo rack in 1/5 battles ), so first skill for the Loader should be the Safe Storage Perk, which will decrease chances of getting ammo rack damage. Ch26 59 Patton  But the most vulnerable of all modules in 59-Patton is the fuel tank, which will be damaged in 1/3 battles. Ch26 59 Patton  The 59-Patton is a very good support tank if you use it properly. Ch26 59 Patton   Gunner and Driver will often get killed frontally 1/4 battles if not used properly. Ch26 59 Patton 
+
+In Tier 8, the 59-Patton has the best accuracy on the move. Ch26 59 Patton  The speed is in the middle of all Tier 8 medium tanks at 50 km/h, and has good armor at front side of the turret: 176 mm and even bigger in some areas ( like gun mantle, which goes to 400 mm of effective armor ). Ch26 59 Patton  It has good mass, which makes it effective in colliding with some lighter mass Tier 8 medium tanks ( like the AMX CDC and STA-2 ). Ch26 59 Patton  The cannon acts much like STA-2's 90MM Rifled Gun. Ch26 59 Patton  Those two have almost the same penetration and same damage with same reload time. Ch26 59 Patton  The 59-Patton has middle range penetration with the HEAT shell ( 250 mm ) which is able to penetrate all Tier 9 mediums and almost all Tier 9 heavies ( only VK 45. Ch26 59 Patton 02 B, Type 4 Heavy and E-75 will be a problem ), and all Tier 9 TDs. Ch26 59 Patton  Again you will need assistance of some teammates if you go against even some Tier 8 tanks, and especially Tier 9 and Tier 10 tanks, because rushing alone on some full HP Tier 8 heavies and higher Tier tanks ( any type of a tank ) will be a horrible mistake, and will result in the destruction of your tank. Ch26 59 Patton  Hills will be to your advantage, thanks to your gun depression ( -9° on side, -7° on front), but may be a disadvantage if you are climbing a hill and the enemy is already on the hill ( especially on Malinovka, which has a hill often full of enemy heavy tanks ). Ch26 59 Patton  Enemies will spot the cupola first if you are climbing the hill. Ch26 59 Patton  In those situations, it's best to wait for more armored teammates, who will absorb damage and allow you to be able to aim at the enemy without getting damage. Ch26 59 Patton  So, the help of your teammates is needed if you want to play this tank effectively. Ch26 59 Patton 
+|InTheGame_research= 
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Fill tanks with CO2
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+See: https://www. Ch26 59 Patton tanks-encyclopedia. Ch26 59 Patton com/59_Patton_Fake_Tanks
+
+|HistoricalGallery= 
+
+|HistAcc=
+The turret is from the [[Tank:A120_M48A5|M48 Patton]] which was actually used by Taiwan and never exported to China. Ch26 59 Patton  Conversely, the hull is from the [[Type 59]] which was actually used by China and never exported to Taiwan. Ch26 59 Patton  Thus the mash-up configuration is fake. Ch26 59 Patton 
+* The Type 59's turret ring is too small to fit the M48 Patton turret. Ch26 59 Patton 
+* Same 90 mm M41 rifled gun as the [[T95E2]], yet the penetration value of the AP shell is inconsistent. Ch26 59 Patton 
+* Same hull as the Type 59, yet engine power is inconsistent. Ch26 59 Patton  Even though the 59-Patton is fake, oddly enough its engine actually has the historical value. Ch26 59 Patton 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. Ch26 59 Patton blogspot. Ch26 59 Patton com/2015/03/type-59patton-hybrid-fake-or-real. Ch26 59 Patton html
+
+}}

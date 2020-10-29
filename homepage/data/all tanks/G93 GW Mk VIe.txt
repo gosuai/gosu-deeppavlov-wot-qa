@@ -1,0 +1,53 @@
+{{TankData|Tank=GW_Mk_VIe
+|
+
+|InTheGame_pros=
+* Highest caliber and hardest hitting gun among tier 2 SPG's
+* Excellent range for its tier (~850 meters)
+
+|InTheGame_cons=
+* Poor gun traverse
+* Sickening accuracy, worst among tier 2 artillery
+* Very slow aiming time
+* Disgraceful reload time
+* Weak radio
+* Very sluggish
+
+
+|InTheGame_performance=
+
+A decent Tier 2 SPG. G93 GW Mk VIe   Note that the long range of the gun is somewhat hampered by a short-range radio. G93 GW Mk VIe  This can lead to games where allies advance out of radio range, leaving you with no targeting information. G93 GW Mk VIe  The 105mm howitzer, while being a rather large gun for the second tier, even on artillery, pays for its range and damage with a reload time that can be defined as abysmal. G93 GW Mk VIe 
+
+|InTheGame_research=
+* Nothing carries over from the Leichttraktor. G93 GW Mk VIe 
+* First, research the Meadows ESTL Engine. G93 GW Mk VIe 
+* Next, research the G. G93 GW Mk VIe Pz. G93 GW Mk VIe  Mk. G93 GW Mk VIe  VI (e) Suspension. G93 GW Mk VIe 
+* Finally, research the FuG 5 Radio. G93 GW Mk VIe 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, Camouflage Net, GLD 
+
+|Gallery=
+
+
+|History=
+The G. G93 GW Mk VIe Pz. G93 GW Mk VIe  Mk. G93 GW Mk VIe  VI (e) is based on the  Mk VI  British light tank, produced by Vickers-Armstrongs in the late 1930s. G93 GW Mk VIe  
+Some Mk. G93 GW Mk VIe VIB light tanks were left behind by the  British expeditionary force during the Dunkerque evacuation and Germans captured them damaged, but more or less intact. G93 GW Mk VIe   In 1940, 6 of them were rebuilt by the Germans to carry a 105mm leFH 16 howitzer and a MG34 machinegun. G93 GW Mk VIe 
+
+The howitzer was enclosed in a thin (11-22mm thick) superstructure and the vehicle was open-topped. G93 GW Mk VIe  In fact, the superstructure was thicker than the hull armor. G93 GW Mk VIe  The new improvised self-propelled gun was crewed by 4 men and powered by the original Meadows V6 (87hp), allowing it to go as fast as 50 km/h on the road (but only 20 km/h in terrain). G93 GW Mk VIe 
+
+Earlier it was believed that these SPG's were never actively used and spent their "life" in Belgium as training vehicles. G93 GW Mk VIe  However, now it seems they were transferred to the Artillerieregiment 227, fighting near Leningrad in late 1941, where they apparently survived until 1942. G93 GW Mk VIe   The full German name of this vehicle is "10,5cm Selbstfahrlafette auf Geschützpanzer Mk. G93 GW Mk VIe VI(englisch)". G93 GW Mk VIe 
+
+|HistoricalGallery=
+image:German Vickers Lighttank. G93 GW Mk VIe jpeg
+image:German Vickers Lighttank 2. G93 GW Mk VIe jpeg
+
+|Ref_references=
+
+
+|Ref_sources=
+* https://ftr-wot. G93 GW Mk VIe blogspot. G93 GW Mk VIe cz/2013/04/105cm-sfl-auf-geschutzpanzer-mkvie-new. G93 GW Mk VIe html
+
+}}
+
+[[Category:German Tanks]]

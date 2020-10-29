@@ -1,0 +1,84 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:Skoda T 25 scr 1. Cz08 T 25 jpg
+File:Skoda T 25 scr 2. Cz08 T 25 jpg
+File:Skoda T 25 scr 3. Cz08 T 25 jpg
+
+
+|InTheGame_pros= 
+
+* 3-shot autoloader with fast clip reload and shell cycling
+* Great gun depression
+* Excellent speed and acceleration
+
+|InTheGame_cons= 
+
+* Lowest alpha damage in tier/class
+* Fires faster than it can aim
+* Virtually useless armor, large profile and poor camouflage
+* Abysmal hull traverse speed for a medium tank
+* Extremely vulnerable to module damage and crew injury
+
+|InTheGame_performance= 
+
+The gun on this vehicle performs very similar to the top gun on the tier 7 Japanese [[Tank:J11_Chi_Ri|Chi-Ri]]. Cz08 T 25  However, unlike the latter the T-25 has the speed and accelerationn to get away after firing. Cz08 T 25  Use your acceleration to peek behind cover and unload as many of your shells into the enemy as you can. Cz08 T 25  Take care not to get hit, as you have neither the armour nor the HP to do so. Cz08 T 25  If you cannot unload all three of your shells without taking a hit, retreat. Cz08 T 25  Your magazine reload time is very short compared to other autoloading tanks at this tier at approximately 8 seconds. Cz08 T 25  Overall, it performs best as a hybrid between the Chi-Ri and the previous Škoda T-24. Cz08 T 25 
+
+|InTheGame_research= 
+* The first thing you need to do is upgrade the suspension, the druhý model. Cz08 T 25  And ready to install the top gun (75 mm Škoda A18 (s automatickým nabíjením)) which you are advised to research next
+* Secondly, upgrade the turret, the druhý model to increase view range
+* Now is the time to get the upgraded engine to greatly increase mobility
+* Research the radio (if Škoda T24 has already researched the radio, no need)
+|InTheGame_equipment=
+Coated Optics, Improved Ventilation Class 2, Enhanced Gun Laying Drive, Binocular Telescope, "Wet" Ammo Rack Class 1
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|External_Reviews= 
+{{#ev:youtube|cZVzzuurcco}}
+
+|History= 
+
+The weapon construction works in Škoda factories in Pilsen were undertaken during the German occupation under very difficult conditions, as the German army and producers weren’t interested in splintering the mass production of new weapons and in spreading weapons of non-German origin. Cz08 T 25  That was also the case of tanks, where Czech Škoda development and production were all but stopped (apart from some exceptions). Cz08 T 25  This changed only after the German command sobered up when the German army met new Russian tanks on the eastern front. Cz08 T 25  Škoda developers therefore used the interest of the German weapons testing office (Waffenprüfungsamt) and the initiative of the German company board and they presented idea projects of new generation tanks and SPG’s. Cz08 T 25 
+
+
+In february 1942, Pilsen designers provided the German specialists with a base project of the new 18500kg T-24 medium tank to consider. Cz08 T 25  After the mutual agreement it was decided that until the end of 1942, a wooden mockup shall be completed and presented to the German representatives. Cz08 T 25  Therefore, the Special Design Bureau of the Škoda factory further developed the T-24 project (Germans considered the most important factors to be the ease of manufacture (as few manhours as possible), low requirement for rare metals and the tropicalisation of the vehicle), but in parallel it developed a heavier 23000kg tank project designated T-25 of the same tank category. Cz08 T 25 
+
+Based on the negotiation results of the Škoda factory representatives and of the Germans weapons testing office from 26. Cz08 T 25 3. Cz08 T 25 1942 in Pilsen, Czech designers were allowed to present a new project of a higher tactical, construction and manufacturing level and properties, mostly when it came to mobility, speed and terrain passability. Cz08 T 25  The idea project was to be presented until the end of July 1942 along with a wooden mockup of the new vehicle. Cz08 T 25  The preliminary agreement assumed a working prototype to be manufactured until April 1943 if the work went well. Cz08 T 25  The engineers worked hard on the project and on the mockup and the partial tasks were completed in time. Cz08 T 25  The T-25 medium tank proposal itself comes from July 1942 and the technical description from August 1942. Cz08 T 25  The proposal acknowledged a lot of German testing office demands, both when it came to mobility and firepower. Cz08 T 25  Therefore, on 2nd September 1942, the Škoda factory was informed that the T-24 project was to be discontinued and the work will continue on the T-25 project instead. Cz08 T 25  The work on the T-24 tank was definitively stopped and the wooden mockup was scrapped. Cz08 T 25  In the end, however, the T-25 project suffered the same fate. Cz08 T 25  In December 1942 it was decided by the Germans to stop the work on the T-25 tank as well and that the company is not to request further supplies for its construction. Cz08 T 25 
+
+The considered T-24 and T-25 solutions were completely different from the other to-date projected, designed and produced Škoda vehicles when it came to the armor shapes, the in-built engine and the suspension, but mostly the intended armament. Cz08 T 25 
+
+The tanks were inspired without any doubt by Soviet medium tanks and adjusted to fit the German tank specialists‘ expectations. Cz08 T 25  Both vehicles had welded body and turret, consisting of armor plates 30-60mm (front and sides) or 10-20mm (other parts) thick. Cz08 T 25  In case of Škoda T-25, it was 35-60mm on the front and sides of the hull and turret and 20-25mm on other spots. Cz08 T 25  Other sources indicate that the frontal armor had a maximum thickness of 50mm. Cz08 T 25  The hull was split into two parts by a 8mm thick armor plate with the crew compartment in the front and the turret set above it. Cz08 T 25  The propulsion (engine) was at the back. Cz08 T 25  The front part had two seats (driver to the left, radioman to the right) with the access for both of them to the turret. Cz08 T 25  Both hull crewmembers had their own viewports in the hull, covered by armored shutters. Cz08 T 25  Such viewports were also present in the side armor for both crewmembers (without the shutters). Cz08 T 25  These side sections with viewports could be opened and used as entry points for the driver and the radioman. Cz08 T 25 
+
+The turret, inteded for the two remaining crewmembers – the shooter and the and the commander – along with the main armament was to be installed on a turret ring with 1700mm in the diameter and could be rotated either mechanically, or via a hydroelectric drive. Cz08 T 25  The turret crew entry point was situated on the right side of the turret roof. Cz08 T 25  For recoinnesance, a rotary periscope was also installed on the roof. Cz08 T 25  The connection of the commander with the driver and radioman was performed either thru an on-board telephone device, or via light signals. Cz08 T 25  The turret also had a back extension with the ammunition rack installed as a counterweight to the cannon. Cz08 T 25  The turret front of the T-25 tank had a hexagonal shape, the back part was rounded. Cz08 T 25  The whole thing was installed on a 1820mm turret ring. Cz08 T 25 
+
+
+The suspension consisted of six double motion wheels on either side with either a 640mm diameter (T-24) or 700mm diameter (T-25) with rubber rims, with two opposite wheels always connected to each other. Cz08 T 25  The suspension was also smoothed by 12 torsion bars situated under the hull floor. Cz08 T 25  The tracks were either 420mm (T-24) or 460mm (T-25) wide and they were led thru the front drive wheels. Cz08 T 25  The lower part of tracks (where tracks meet wheels) were structured like a comb, while the upper rollers for leading tracks and the roadwheels were not included. Cz08 T 25  The T-24 project counted on introducing a new Škoda powerplant, based on gasoline 4-stroke water-cooled V12 engine (cylinder diameter 115 x 130mm) with a displacement volume of 16200ccm, rated at maximum 380hp at 3000RPM. Cz08 T 25  The T-25 project on the other hand counted on a diesel engine. Cz08 T 25  That demand, however, was cancelled and in the end, the project had a petrol engine with a smaller auxilliary engine, also running on gas. Cz08 T 25  The main engine was an OHV air-cooled V12 engine (total displacement: 19814ccm), giving 450hp at 3000 RPM. Cz08 T 25  The auxilliary engine was an in-line 4-cylinder engine with a 2383ccm volume, reaching peak power of 50hp at 3000 RPM. Cz08 T 25  The auxilliary engine served to power up the main engine and to power two massive fans. Cz08 T 25  It was started either by electricity, or by a crank from the combat compartment – the main engine was in turn started by the auxilliary one via a geared flywheel. Cz08 T 25  The steering system was doubled – one for steering while driving, one for steering on spot, with separate steering levers. Cz08 T 25  The maximum speed of both vehicles was estimated at 58-60 km/h. Cz08 T 25 
+
+The main armament of the T-24 tank was to be the 75mm A13 Škoda cannon (L/36), projected simultaneously with the tank in the gun division of the Škoda factory. Cz08 T 25  With the muzzle speed of 790 m/s while penetrating 70mm of armor at 1500mm, it was an effective weapon. Cz08 T 25  The gun was paired with a coaxial 7,92 heavy machine gun in the same mount. Cz08 T 25  Another heavy machinegun was mounted in the middle of the front hull on an independent mount. Cz08 T 25  The tank was to carry 50 gun rounds and 3000 rounds for both machineguns – they were supposed to be carried either in the back part of the turret, or in the hull. Cz08 T 25 
+
+The main gun for the T-25 was to be the 75mm L/55 A18 Škoda cannon (German designation KwK 42/1) with an automatic autoloader, using a revolver magazine. Cz08 T 25  The gun (its rounds reaching 600 m/s) penetrated a 98mm armor plate at 1000m. Cz08 T 25  After each round, the barrel was automatically cleaned by compressed air. Cz08 T 25  The factory-estimated rate of fire was to be 15 rounds per minute and the tank was to carry 60 cannon rounds. Cz08 T 25  The gun, along with its mount and other accessories weighted 1600kg. Cz08 T 25  Mounted on the right side of the cannon, there was a heavy coaxial machinegun with 3000 rounds of ammo. Cz08 T 25  Unlike the T-25 project, this gun was completed during the war as a prototype and after the war, it was tested in a captured Tiger tank. Cz08 T 25 
+Both projects T-24 and T-25 were to be equipped with German communication devices and regular German accessories. Cz08 T 25 
+
+|HistoricalGallery= 
+image:Skoda_t-25_medium_tank. Cz08 T 25 jpg{{!}}Drawing of the Skoda T 25 by Hilary Doyle. Cz08 T 25  This was confirmed to match the late Skoda T 25 blueprints found in archives. Cz08 T 25 
+File:Am_2029-S_blueprint. Cz08 T 25 jpg{{!}}Am 2029-S blueprint, dating to May 1942. Cz08 T 25  Considered to be an early version of the Skoda T 24/25. Cz08 T 25 
+File:10,5_cm_le. Cz08 T 25 F. Cz08 T 25 H. Cz08 T 25 _43_auf_Selbstfahrlafette_T-25. Cz08 T 25 jpg{{!}}Mock-up of a SPG based on the T 25 chassis, with 30mm of maximum armor and a 105mm LeFH 43 L/30. Cz08 T 25  The proposal was called the 10,5 cm le. Cz08 T 25 F. Cz08 T 25 H. Cz08 T 25  43 auf Selbstfahrlafette T-25 and would have been designated the Grille 12. Cz08 T 25  A sister project to mount a 15cm howitzer also existed. Cz08 T 25 
+
+|Ref_references=
+
+|Ref_sources=
+* Special Panzer Variants by Walter Spielberg (for the SPG Mock-up)
+
+|Ref_links=
+* https://ritastatusreport. Cz08 T 25 blogspot. Cz08 T 25 cz/2015/09/cz-tree-part-5-t-25. Cz08 T 25 html{{!}}The most recent article
+* https://ftr-wot. Cz08 T 25 blogspot. Cz08 T 25 cz/2013/01/czechoslovak-tree-part-4-medium-tanks. Cz08 T 25 html
+* https://ftr. Cz08 T 25 wot-news. Cz08 T 25 com/2014/02/27/buff-my-tank-t-25/
+* https://ftr. Cz08 T 25 wot-news. Cz08 T 25 com/2014/02/26/skoda-t-25-artillery-105cm-15cm/
+
+}}

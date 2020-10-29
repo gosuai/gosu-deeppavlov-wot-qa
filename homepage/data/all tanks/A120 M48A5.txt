@@ -1,0 +1,154 @@
+{{TankData|Tank= M48A5 Patton
+|The M48A5 Patton is another example of a jack-of-all-trades/master-of-none tank like its predecessors. A120 M48A5  It possesses a smooth, egg-shaped hull and a curved turret with decent frontal thickness. A120 M48A5  Its armor is stronger than most mediums of its tiers and will deflect a surprising amount of shots from its peers if hull down. A120 M48A5  The 105mm M68 is an extremely versatile weapon, with high penetration, damage, and rate-of-fire. A120 M48A5   While it is a clear improvement in firepower over the [[M46 Patton]], the M48A5 will face opponents with equal or even superior survivability. A120 M48A5  
+
+It is also slightly slower than its predecessor, due to its heavier weight and weaker engine. A120 M48A5  In addition, the M48A5 is also a very large tank, even larger than the [[T110E5]] heavy tank. A120 M48A5  However, it compensates for that with its reasonable amount of maneuverability and great traverse, at 50 degrees per second. A120 M48A5  Furthermore, the gun depression is still satisfactory at 9 degrees, though not as effective as the M46 Patton due to its middle turret placement. A120 M48A5  This makes it suited for close to mid-range combat, darting in and out of cover or a crest, firing shots at the enemy before they can fire back. A120 M48A5 
+
+|Sidebar_Camostop=8. A120 M48A5 6
+|Sidebar_Camomove=6. A120 M48A5 0
+|Sidebar_Camofire=2. A120 M48A5 0
+|Sidebar_Passhard=0. A120 M48A5 767
+|Sidebar_Passmed=0. A120 M48A5 863
+|Sidebar_Passsoft=1. A120 M48A5 726
+|Sidebar_DispTurret=0. A120 M48A5 08
+|Sidebar_DispRecoil=3. A120 M48A5 836
+|Sidebar_DispAccel=0. A120 M48A5 096
+|Sidebar_DispTurning=0. A120 M48A5 096
+
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Excellent DPM, shell velocity and penetration
+* Excellent gun handling and aim time
+* Good turret armor and gun depression
+* Large hitpoint pool
+* Outstanding base viewrange
+
+|InTheGame_cons= 
+* Large target with poor camouflage
+* Low top speed for a medium tank
+* Large hull with fairly ineffective armor
+* Subpar ranged accuracy
+
+|InTheGame_performance= 
+
+One of the main improvements of the M48A5 over the M46 is the stronger hull and turret armor. A120 M48A5  M48A5 is able to more effectively go hull down and bounce more shots with its turret, with its mantlet acting as spaced armor. A120 M48A5  In addition, the turret and hull overall are sloped and shots that land on the turret's edges may bounce. A120 M48A5  The same also applies to M48's front plate or rather curved sides on its hull. A120 M48A5  However, one should be aware there is a hole in the center of the turret with no armor behind it. A120 M48A5  This means it is not a good idea to stay exposed for too long as accurate enemy fire and premium rounds can still go through your turret with ease. A120 M48A5  Fortunately, given the gun's accuracy on the move and depression angles, you do not need to stop, or at least stop for long, to make an accurate shot. A120 M48A5  A viable tactic is to use the M48A5s on the move accuracy to your advantage. A120 M48A5  Build up to your top speed and peek over a hill, auto-lock or manually aim at a target, and fire before driving out of sight on the other side of the hill to reload. A120 M48A5  Spotting targets is easier thanks to M48A5's game leading in-game view range of 420m, allowing the tank to both play the role of passive scout as well. A120 M48A5 
+
+With the M48A5's long view range, decent agility, and quick turning turret combined with the exceptional on-the-move gun handling make it more than just a passive scout or shoot-and-scoot tank, it also makes it an adept counter scout vehicle. A120 M48A5  It is very dangerous for a light tank to attempt to engage in an area occupied or watched by an M48A5 as it has the agility and attributes to counteract its speed, even on the move. A120 M48A5  Even if the scout has managed to immobilize the M48A5 and is attempting to encircling it, the turret of the M48A5 alone has the traverse speed to keep up with most light tanks. A120 M48A5  
+
+In essence, play the M48A5 as a second-line supporting tank for more heavily armored mediums attempting to flank the enemy team, using your excellent gun depression and reasonably well-armored turret to provide covering fire. A120 M48A5  Your goal is to assist in a push and to engage any tanks that attempt to flank your teammates. A120 M48A5  A commander of the M48A5 shouldn't worry too much if the enemy gets too close though. A120 M48A5  Brawling in the M48A5 is possible, with its well-angled turret and curved hull, along with excellent on the move dispersion allowing you to duel effectively, but your lack of armor will show in an extended engagement and/or when flanked by another opponent. A120 M48A5  It is best to keep duels on the move, one-on-one, and at medium distance. A120 M48A5  Commander's should also keep in mind that the M48A5s large size, slow top speed, poor acceleration, and generally weak armor make the tank a very attractive target, especially for artillery. A120 M48A5  Therefore, an M48A5 commander should constantly maintain situational awareness and never stay idle for too long, especially in the open. A120 M48A5 
+
+|InTheGame_research= 
+The tank comes elite upon purchase. A120 M48A5 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Coated Optics, Vertical Stabilizer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+[[image:M48A1-Patton-tank. A120 M48A5 jpg|thumb|200px|left|M48A1 Patton]]
+The M48 Patton is a medium tank that was designed in the United States. A120 M48A5  It was a further development of the M47 Patton tank. A120 M48A5  The M48 Patton served as an interim tank in U. A120 M48A5 S. A120 M48A5  service until replaced by the U. A120 M48A5 S. A120 M48A5  Army's first main battle tank (MBT), the M60 Patton. A120 M48A5  The M48 served as the U. A120 M48A5 S. A120 M48A5  Army and Marine Corps's primary battle tank during the Vietnam War. A120 M48A5  It was widely used by U. A120 M48A5 S. A120 M48A5  Cold War allies, especially other NATO countries. A120 M48A5 
+The M48 Patton tank was designed to replace the previous M47 Pattons and M4 Shermans. A120 M48A5  Although largely resembling the M47, the M48 Patton was a completely new tank design. A120 M48A5  Some M48A5 models served well into the 1980s with American forces, and many various M48 Patton models remain in service in other countries. A120 M48A5  The M48 was the last U. A120 M48A5 S. A120 M48A5  tank to mount the 90 mm tank gun, with the last model, the M48A5, being upgraded to carry the new standard weapon of the M60, the 105mm gun. A120 M48A5 
+
+==Development history==
+[[image:M48A1 02. A120 M48A5 jpg|thumb|250px|right|M48A1 side view]]
+On 27 February 1951, OTCM #33791 initiated the design of the new tank, designated the 90mm Gun Tank T-48 (the prefix letter "T" would be replaced by the prefix "X" beginning with the M60 series tank). A120 M48A5  A deeper modernization than the M46 and the M47, the M48 featured a new turret, newly redesigned hull, and an improved suspension. A120 M48A5  The hull machine gunner position was removed, reducing the crew to 4. A120 M48A5  It was essentially a new tank. A120 M48A5  On 2 April 1953, the Ordnance Technical Committee Minutes (OTCM) order #34765 standardized the last of the Patton series tanks as the 90mm Gun Tank M48 Patton. A120 M48A5 
+Nearly 12,000 M48s were built from 1952 to 1959. A120 M48A5  The early designs, up to the M48A2C's, were powered by a gasoline 12-cylinder engine which was coupled with an auxiliary 8-cylinder engine (called the "Little Joe"). A120 M48A5  The gas engine gave the tank a short operating range and was prone to catching fire when hit. A120 M48A5  This version was considered unreliable but numerous examples saw combat use in various Arab-Israeli conflicts. A120 M48A5  They also were prone to fire when the turret was penetrated and the hydraulic lines ruptured spewing "cherry juice" (the nickname for the red colored hydraulic fluid) at high pressure into the crew compartment resulting in a fireball. A120 M48A5  The flashpoint was too low, less than 300 F, causing many burns and deaths to crew members. A120 M48A5  
+
+'''Diesel power plant introduces'''
+
+Beginning in 1959, most American M48s were upgraded to the M48A3 model which featured a diesel power plant. A120 M48A5  M48s with gas engines, however, were still in use in the US Army through 1968 and through 1975 by many West German Army units including the 124th Panzer Battalion. A120 M48A5 
+In February 1963, the US Army accepted its first of 600 M48 Patton tanks that had been converted to M48A3's, and by 1964, the US Marine Corps had received 419 Patton tanks. A120 M48A5  These Pattons were to be deployed to battle in Vietnam. A120 M48A5  Because all M48A3 tanks were conversions from earlier models, many characteristics varied among individual examples of this type. A120 M48A5  M48A3 tanks could have either 3 or 5 support rollers on each side and might have either the early or later type headlight assemblies. A120 M48A5 
+
+'''New gun for the final version'''
+
+In the mid-1970s, the M48A5 upgrade was developed to allow the vehicle to carry the heavier 105 mm gun. A120 M48A5  This was designed to bring the M48s up to speed with the M60 tanks then in regular use and to simplify ammunition logistics. A120 M48A5  Most of the M48s were placed into service with reserve units by this time. A120 M48A5 
+By the mid-1990s, the M48s were phased out of U. A120 M48A5 S. A120 M48A5  service. A120 M48A5  Many foreign countries, however, continued to use the M48 models. A120 M48A5 
+
+==Variants==
+[[image:Jordanians M 48 are there. A120 M48A5 jpg|thumb|200px|left|Jordanians M 48 tank]]
+With the M47 being only a stopgap solution the M48 Patton was a completely new design compared to its predecessors. A120 M48A5  The hull and turret were of cast steel, well-curved design, and offered much better ballistic protection than former welded and rather flat designs. A120 M48A5  The M48 was significantly larger than any earlier medium tank design. A120 M48A5  The M48 finally omitted the bow machine gun and gunner. A120 M48A5  It was armed with a co-axial 7. A120 M48A5 62mm MG and the commander’s . A120 M48A5 50 cal MG only. A120 M48A5  The M48 retained a 90mm M41 gun as the main weapon. A120 M48A5  The US Army evaluated the first prototypes in 1951 and the production of the M48 began in 1952. A120 M48A5  Production finally ceased in 1959 with 11703 vehicles being build. A120 M48A5 
+
+'''M48/ M48A1'''
+
+The first production M48 can easily be distinguished by the . A120 M48A5 50cal being mounted on an external cradle without any armor protection. A120 M48A5  The tank was fitted with an AV1790 gasoline engine giving it an operational range of only 115km. A120 M48A5  Many of the early M48 suffered from the lack of testing and were not considered fit for service. A120 M48A5  They were quickly superseded by the M48A1. A120 M48A5  The M48A1 received the M1 commanders’ cupola providing armored cover and enclosing the . A120 M48A5 50 cal plus numerous other improvements to the tank. A120 M48A5  However, the M48/ M48A1 was still hampered by its unreliability and lack of range as it was pressed into service due to cold war threats. A120 M48A5  To overcome the lack of range a system of jettison-able fuel drums was developed. A120 M48A5 
+
+'''M48A2'''
+
+The M48A1 was quickly followed by the M48A2 entering service in 1955 with a new power plant and fire control systems. A120 M48A5  The M48A2 can be easily distinguished from the earlier versions. A120 M48A5  It had three instead of five return rollers and a new engine deck without the extensive grille work atop. A120 M48A5  However, it was still powered by gasoline. A120 M48A5  The next step, the M48A2C was a further improved version; externally the only major difference is the absence of the small track tensioning wheel between the sixth road wheel and the sprocket. A120 M48A5  All M48A2 had a new headlight arrangement, similar to the M60. A120 M48A5  The M48A2C was the last ‘all-new’ M48 to be produced, all further versions are rebuilds of existing tanks. A120 M48A5 
+
+'''M48A3'''
+
+Another step further in the M48 development was the M48A3 of 1959, as already stated these were rebuilt M48/ M48A1 and possibly a few M48A2. A120 M48A5  The upgrade included a new diesel power plant, the AVDS 1790 engine, with the necessity for a new engine compartment, similar to the A2 but with external side loading air cleaners mounted on top of the fenders. A120 M48A5  Late M48A3 also had a new vision ring for the commanders’ cupola plus a few internal upgrades. A120 M48A5  The CWS hatch was redesigned, providing more internal space but deleting the two periscopes to the rear. A120 M48A5  The M48A3 was widely used in the US Army and Marine Corps and saw extensive action in Vietnam where it proofed rugged and reliable. A120 M48A5  [[image:In front of the loader's position, to the left of the main gun, is a nineteen-round ready rack. A120 M48A5  This tank is fitted out with replica HEAT and sabot ammunition. A120 M48A5 . A120 M48A5 jpg|thumb|200px|right|In front of the loader's position, to the left of the main gun, is a nineteen-round ammo rack. A120 M48A5  This tank is fitted out with replica HEAT and sabot ammunition]]The 90mm main gun was sufficient for the task of infantry support as the Vietnam war was mainly an infantry war due to lack of armored resistance. A120 M48A5  The M48A3 performed very well in this role being able to take most mines and even RPG rounds without immediate danger to crewmembers’ lives. A120 M48A5  Another M48 version used in Vietnam was the M67A2 flamethrower tank. A120 M48A5 
+
+'''M48A5'''
+
+The final US version is the M48A5 of 1975. A120 M48A5  It incorporates a new main gun, the L107 105mm, two M60D 7. A120 M48A5 62mm machine guns, and new tracks with replaceable octagonal track shoes, the T142 track, and a new CWS now close to the IDF ’Urdan’ design as most prominent features. A120 M48A5  Of course, the fire control received upgrades also, most M48A5 also have the lighting system reworked to M60 standard. A120 M48A5  The rear lights and engine access doors were upgraded, too. A120 M48A5  The whole M48A5 program nevertheless shows a wide range of actual different conversion status’, some even without the new gun but others with the old M1 cupola or track. A120 M48A5  Conversion packs were also sold to other M48 users. A120 M48A5 
+The M48A5 has been phased out of any US service since the mid-1990s. A120 M48A5 
+
+'''Foreign service'''
+
+The M48 has seen and still sees widespread use in foreign service. A120 M48A5  The first users being allied NATO countries. A120 M48A5  Major users were Belgium, Germany, Greece, Norway, Spain, and Turkey. A120 M48A5  Other important foreign users are Israel, Iran, Jordan, Pakistan, Taiwan, and Korea. A120 M48A5 
+
+|HistAcc=
+* While the previous version of the tank in-game (M48A1 Patton) never carried the 105mm M68 gun and had the wrong hull/turret combination, the current M48A5 Patton was equipped with the 105mm M68 and is thus in a historical configuration for its combination of hull/turret/gun. A120 M48A5 
+* Actual speed is 48km/h. A120 M48A5 
+
+|HistoricalGallery=
+image:This_tank_lacks_the_track_tensioning_idler_wheel_found_on_the_earlier_Patton_tanks. A120 M48A5 _The_number_of_track_return_rollers_has_also_been_reduced_to_three. A120 M48A5 . A120 M48A5 jpg
+image:This_tank_is_provided_with_a_xenon_searchlight,_and_details_of_its_mounting_are_visible_here. A120 M48A5 jpg
+image:This_tank_is_provided_with_a_xenon_searchlight,_and_details_of_its_mounting_are_visible_here. A120 M48A5 jpg
+image:This_M48A5_is_sporting_the_Israeli-designed_low-silhouette_commander%27s_cupola. A120 M48A5 jpg
+image:This_M48A2C_features_three_track_return_rollers,_and_lacks_the_small_track_tensioning_idler_previously_found_between_the_last_road_wheel_and_drive_sprocket. A120 M48A5 jpg
+image:This_M48A1_was_photographed_at_Camp_Shelby. A120 M48A5 jpg
+image:The_right-side_transmission_and_engine_access_grilles_can_be_seen_here. A120 M48A5 jpg
+image:The_new_exhaust_grille_is_obvious_when_the_vehicle_is_viewed_from_behind. A120 M48A5 . A120 M48A5 jpg
+image:The_M48_and_M48A1_had_their_exhausts_routed_through_the_rear_deck,_and_the_exhaust_outlet_is_visible_here. A120 M48A5 jpg
+image:The_elliptical_cross-section_of_the_tank_can_be_seen_in_this_view. A120 M48A5 jpg
+image:The_drivers_of_M48s_had_a_small_hatch_compared_with_later_versions_of_the_tank. A120 M48A5 _This_vehicle_had_been_equipped_with_an_infrared_periscope_for_the_driver;_the_IR_periscope_was_mounted_in_the_hatch_door. A120 M48A5 . A120 M48A5 jpg
+image:The_difference_between_the_small_driver%27s_hatch_in_the_tank_above_is_easily_contrasted_with_the_hatch_on_this_later_model. A120 M48A5 jpg
+image:The_commander%27s_cupola_on_this_tank_sits_atop_the_vision_block_adapter_ring,_giving_the_TC_more_room_and_a_better_all-around_view. A120 M48A5 jpg
+image:SP5_Petrov,_I_Co. A120 M48A5 ,_1st_Plt. A120 M48A5 . A120 M48A5 jpg
+image:Patton1103. A120 M48A5 jpg
+image:M48a3pattonsuite3bz. A120 M48A5 jpg
+image:M48a1de_001. A120 M48A5 jpg
+image:M48a1. A120 M48A5 jpg
+image:M48A1-Patton-tank. A120 M48A5 jpg
+image:M48A1_02. A120 M48A5 jpg
+image:M48A1_%28NOT_M48A3%29. A120 M48A5 jpg
+image:M-48_Tank_on_maneuvers. A120 M48A5 _I_Co. A120 M48A5 ,_1st_Plt. A120 M48A5 . A120 M48A5 jpg
+image:KG_036. A120 M48A5 JPG
+image:Jordanians_M_48_are_there. A120 M48A5 jpg
+image:In_front_of_the_loader%27s_position,_to_the_left_of_the_main_gun,_is_a_nineteen-round_ready_rack. A120 M48A5 _This_tank_is_fitted_out_with_replica_HEAT_and_sabot_ammunition. A120 M48A5 . A120 M48A5 jpg
+image:H-31_tank_threw_a_track,_Wildflecken_1958,. A120 M48A5 jpg
+image:H-21_M48A1_tank,_Wildflecken,_1958. A120 M48A5 jpg
+image:CM-12. A120 M48A5 jpg
+image:Detailm48jordan674qj. A120 M48A5 jpg
+image:An_overview_of_the_driver%27s_position_is_seen_here. A120 M48A5 jpg
+image:98813195. A120 M48A5 jpg
+image:90mm_gun_tank_M48_Patton_48_at_the_US_Army_Ordnance_Museum. A120 M48A5 . A120 M48A5 jpg
+
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Forty, G. A120 M48A5 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A120 M48A5 
+
+Foss, C. A120 M48A5 F. A120 M48A5  and W. A120 M48A5  Fowler, 2002, '''<i>The Encyclopedia of Tanks and Armored Fighting Vehicles</i>''', Thunder Bay Press, San Diego, CA, 544p, ISBN:9781571458063. A120 M48A5 
+
+Hunnicutt, R. A120 M48A5 P. A120 M48A5 , 1984, '''<i>Patton: A History of the American Main Battle Tank - Volume-1</i>''', Presidio Press, 450p,  ISBN:9780891412304. A120 M48A5 
+
+Zaloga, S. A120 M48A5 J. A120 M48A5 , 2003, '''<i>M47 and M48 Patton Tanks</i>''', New Vanguard Series 31, Osprey Publishing, Oxford, 48p, ISBN:9781855328259. A120 M48A5 
+
+
+|Ref_links=
+
+}}
+
+[[Category:USA Tanks]]

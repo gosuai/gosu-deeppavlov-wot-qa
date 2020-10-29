@@ -1,0 +1,68 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Massive alpha damage, same as the [[Tank:R134 Object 252U|Object 252U]]
+* Good gun handling for such a heavy weapon, surpassing the 122mm cannons on the [[T-44]] and the [[T-34-2]]
+* Decent protection on frontal arc: turret face is 203mm thick like the [[M26 Pershing|Pershing]], with sloped hull glacis
+* Unusual high weight coupled with acceptable mobility, ramming is more than practical
+* Great gun depression
+
+|InTheGame_cons= 
+* Bad agility, turns like alligator
+* Incredibly bad accuracy penalty on movement
+* '''Worst''' view range in class, also bad camo due to its size; doesn't spot well
+* Low shell velocity even with APCR
+* Playstyle differs much from British techtree mediums, requires much time to handle 
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+Special vehicle, comes elite in its stock configuration. GB97 Chimera 
+
+|InTheGame_equipment=
+Vertical Stabilizer, Tank Gun Rammer, Vents, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= It should be noted that Chimera was never a medium tank, or planned as one and the statistics, role and even looks have been heavily modified by the developers to fill a perceived role over any real information. GB97 Chimera 
+
+|History= Chimera Heavy Tank
+
+Chimera began as a design exercise in April 1950 at the School of Tank Technology (STT) to design and draw up the plans for a tank capable of engaging and destroying the Soviet IS-3. GB97 Chimera  The Russian behemoth had first shown up in numbers at the Berlin victory parade and the British tank industry began working overtime to come up with new and innovative ways to tackle this tank, as it rendered all British designs at the time relatively obsolete. GB97 Chimera 
+
+Individual firms, such as Vickers and Leyland, began to look at ways to quickly mount 120mm guns onto existing hulls while Chertsey and the STT looked at other ideas and design exercises. GB97 Chimera  The course looked at the IS-3 and evaluated what they knew about it. GB97 Chimera  Instead of focusing on what was good, they looked at what was bad and how these issues could be improved upon in a British counter. GB97 Chimera 
+
+The issues highlighted several areas, notably the omission of refinement, lack of crew comfort, low power to weight ratio and its limited ammunition count. GB97 Chimera  The team set about a design that could overcome these issues and try to match its better aspects. GB97 Chimera  The team realized that, in order to overcome the faults found in the IS-3, the Chimera would need to weigh 55 tons and have a crew of four men. GB97 Chimera  The designers were convinced that although 55 tons was ten tons heavier than IS-3,the installation of a powerful engine, increased crew space, additional ammunition capacity and other statistics such as gun handling would compensate for the higher profile and weight gain. GB97 Chimera 
+
+The Chimera was also to feature set design criteria that included a low maintenance score i. GB97 Chimera e. GB97 Chimera  be quick to fix with minimal costs or resources and ideally a small training curve for ease of operation and a training program that was forgiving for new crews. GB97 Chimera 
+
+In order to overcome the IS-3, the Chimera needed to mount a weapon able to penetrate 120mm of armor at 2000 meters and, if possible, be multirole, able to tackle both armored targets and provide adequate support against soft targets or fortified positions. GB97 Chimera  For defenses, Chimera was to have enough armor to survive being hit by the IS-3 at 1000 meters,. GB97 Chimera  The designers calculated that the 122mm gun had 173 mm of penetration at 1000 meters. GB97 Chimera  Finally, it was noted that the IS-3 was unpowered or lacked agility on the battlefield and therefore Chimera was to have as large an engine as possible, and not less than 1000 bhp to give it an advantage in the mobility department. GB97 Chimera   
+
+Several weapon layouts were considered. GB97 Chimera  The initial idea was for a 120mm ADPS firing rifled gun which was discarded as it was calculated that in order to achieve a 100% chance to penetrate the IS-3 at 2000 meters the round would need to be traveling at 4000 fps which was not possible to achieve in a gun the size and weight required for Chimera. GB97 Chimera  They therefore chose to go with a large rifled weapon designed to fire HESH as its primary ammunition with HE and HEAT as secondary rounds. GB97 Chimera  HESH would suffer no loss of performance over distance and double up as effective secondary round at the same time. GB97 Chimera  
+
+The amount of Plastic Explosive (PE) filler to overcome the armour on IS-3 was estimated at 24 lbs (10. GB97 Chimera 8kg) and, with an average of 40% filler, would require a 60 lb (27. GB97 Chimera 2kg) shell from a gun with a calibre of at least 5 inches (127 mm). GB97 Chimera  It was desired that the gun be mounted rigidly and not with a gun mantlet like the Centurion. GB97 Chimera  This may have been designed in order to save space and internal volume and other UK vehicles had had problems when trying to mount 120mm guns. GB97 Chimera  Secondary weapons were to consist of machine guns either coaxially mounted, pintle mounted, or even a bow gun configuration, although the latter was quickly dropped. GB97 Chimera  A pair of Campbell smoke dischargers were also chosen for screening purposes. GB97 Chimera  The issue of obscuration was raised however, and the team looked at various bag charges and settled on a relatively smokeless charge that would alleviate a lot of the issues but no bore evacuator or muzzle brake was to be fitted and a limited amount of obscuration would be present. GB97 Chimera 
+
+The armor thickness was matched quite closely to that of the IS-3, at least on paper. GB97 Chimera  The designers estimated the Soviet turret to be 200mm thick at the front and so Chimera’s was to be 8 inches (203 mm) correspondingly. GB97 Chimera  They did not know what the turret side of the IS-3 was and chose Chimera’s to be 3” (76mm). GB97 Chimera  The Chimera team estimated the IS-3 to have 120 mm of frontal armor at 55°, however, they did not appear to have taken into consideration the secondary angle of the pike nosed design which gave it in excess of 200 mm of effective thickness from the front, providing the hull was facing the shooter. GB97 Chimera  In response to this, Chimera’s frontal plate was 114 mm thick at 55° for 199 mm of effective protection. GB97 Chimera  
+
+The IS-3 did have thicker side armor with its 45° sloped inner side offering 90 mm of protection to the 75mm of Chimera that tapered to 50 mm at the rear, although this was nearly twice as thick as many British tanks that often had to rely on only 40 mm of side armor. GB97 Chimera  The IS-3 did offer better protection on the roof with 60 mm to the Chimera’s 25 mm and both had similar belly plates of about 25 mm. GB97 Chimera 
+
+The IS-3 was armed with the powerful D-25 122 mm AT cannon which, at combat ranges (1000 meters), could perforate 158 mm of Rolled Homogeneous Armor (RHA) with its BR-471 Armour Piercing High Explosive (APHE) rounds or 180 mm with Armour Piercing Capped Ballistic Capped (APCBC) rounds, forcing the IS-3 to close to around 500 meters to be combat effective. GB97 Chimera  The 120mm High Explosive Squash Head (HESH) from the Chimera would have scabbed up to a maximum depth of 375 mm but an optimal armor depth of 100-200mm would have resulted in a large amount of spall and the relative thickness of the IS-3 frontal plate having little to no effect on the hypersonic shockwave. GB97 Chimera 
+
+The next comparison the team made was in engine power. GB97 Chimera  The IS-3 was considered underpowered with what they believed to be a 520 hp engine and a top road speed of 40 kph and to that end they decided to go with a 1040 bhp engine which would give it about 18 hp/ton and a top speed of 50 kph on roads. GB97 Chimera  This maneuverability advantage would give the Chimera the edge in choosing where and when to strike. GB97 Chimera 
+
+The dimension comparison between Chimera and IS-3 was a bit of give and take; Chimera was somewhat shorter at 28. GB97 Chimera 5 ft (8. GB97 Chimera 6 meters) to the IS-3’s 32. GB97 Chimera 3 ft (9. GB97 Chimera 8 meters) but also slightly wider at 12 ft (3. GB97 Chimera 6 meters) to 10. GB97 Chimera 6 ft (3. GB97 Chimera 2 meters). GB97 Chimera  Chimera and IS-3 were relatively even on the height measurements, with the former being 9 ft (2. GB97 Chimera 7 meters) to the IS-3’s 8ft (2. GB97 Chimera 4 meters) but had better gun depression of -10 degrees to the Soviet’s -3 degrees
+
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

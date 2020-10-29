@@ -1,0 +1,113 @@
+{{TankData|Tank=GB79_FV206
+|While not considerably the most nimble of the Tier VIII SPGs, unlike its predecessors, the FV207 adopts a more heavier artillery fashion; Keeping up the pace with its noticeably faster reload speed and smiting any stationary or slow moving targets with deadly grace. GB79 FV206 
+
+|Gallery=
+
+File:FV207 scr 1. GB79 FV206 jpg
+File:FV207 scr 2. GB79 FV206 jpg
+File:FV207 scr 3. GB79 FV206 jpg
+
+
+|InTheGame_pros= 
+* Gun range: stock: 1300 m, top: 1400 m
+* High ammo capacity
+* Very wide gun traverse
+* Top gun's fast reload, accuracy, and aim time makes up for its lack of damage. GB79 FV206 
+
+|InTheGame_cons=
+* Weak alpha for its tier
+* Big size
+* Slow with slow traverse speed
+
+|InTheGame_performance=
+
+The FV207 is a hit and miss for most people. GB79 FV206  Right of the bat the first thing everyone notice is the weak alpha damage for its top gun compared to the SPG's in the same tier. GB79 FV206  However, thanks to it's wide gun arc and fast reload speed it's much easier to hit moving targets with this artillery than with any other in its tier. GB79 FV206  Also, if you hit weakspots in the enemy tanks, the FV207 can be very deadly. GB79 FV206 
+
+Unfortunately, unlike most British artillery, this one doesn't have good mobility. GB79 FV206  Couple this with it's big size, and it makes changing positions very difficult, although it's closed armor makes it more resilient to counter battery fire. GB79 FV206 
+
+|InTheGame_research=
+* Nothing carries over from the Crusader 5. GB79 FV206 5-in. GB79 FV206  SP, but the WS No. GB79 FV206  22 Radio carries over from the FV304. GB79 FV206  Mount it immediately. GB79 FV206 
+* The Rolls-Royce Meteor Mk. GB79 FV206  IVC Engine can be mounted without upgrading the suspension. GB79 FV206 
+* If you would prefer to increase your firepower over your manoeuvrability, instead research the FV207 Suspension, followed by the Q. GB79 FV206 F. GB79 FV206  6-in. GB79 FV206  Gun Mk. GB79 FV206  V, then research the engine. GB79 FV206 
+* Finally, research the SR C42 Radio. GB79 FV206  
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,Improved Ventilation Class 3,GLD
+
+|History=
+
+Shortly after development began on the A41 Heavy Cruiser aka Centurion, the British drew up a specification for what was known as the ‘Universal’ Tank which was to be one basic hull design being adapted to suit a variety of roles in a complete series of vehicles, from heavy tanks, through self propelled guns all the way to APC's. GB79 FV206  Initial chassis was borrowed from the A45 Infantry Support tank whose development started shortly after that of the A41 Centurion tank. GB79 FV206   
+
+'''FV200 series'''
+
+The first prototype was the FV201, and turned out to be the most popular proposal from FV200 series. GB79 FV206  This vehicle was running in 1948 but development costs were rising and by 1949 it had been found that the Centurion had developed into an extremely versatile vehicle capable of providing most of the Universal tank variants. GB79 FV206  As a consequence the Centurion became the universal tank and development on the FV200 series was cancelled with the exception of the FV214 which was required to counter the threat posed by the Soviet IS-3. GB79 FV206  This vehicle was subsequently named 'Conqueror'. GB79 FV206 
+
+To match the firepower of the IS-3 the Conqueror was fitted with an American 120mm gun the ammunition of which came as a separate charge and projectile. GB79 FV206  This was the first time such ammunition had been used in a british tank, unfortunately the charge came in a large brass case and took up much valuable space. GB79 FV206  The turret had a better ballistic shape than the Centurion and featured a contra-rotating commanders cupola which was located in its own compartment at the rear of the turret and effectively prevented the commander from seeing what was going on in the main turret. GB79 FV206  The commander had a cross-cupola rangefinder allowing him to select new targets whilst the gunner was observing elsewhere. GB79 FV206  The commander could then remotely traverse the turret to whatever his cupola was being used to observe. GB79 FV206  Despite the size and weight, Conqueror turned out to be more mobile than Centurion across rough ground due to low ground pressure from the very wide tracks, and massive power available from the fuel injected Meteor engine. GB79 FV206  In all 185 Conquerors were delivered to the British Army and remained in service from 1955 to 1966. GB79 FV206  They served in Germany with a maximum of nine allocated per regiment being used as long range support for Centurions. GB79 FV206 
+
+Vickers also produced eight FV219 ARV Mk Is and 20 FV222 ARV MKIIs. GB79 FV206 
+
+==Proposed variants==
+
+FV201 - the Universal Tank
+
+FV202 - AVRE (T)
+
+FV203 - AVRE (L)
+
+FV204 - Universal Flail
+
+FV205 - SPMedium Anti-Tank Mounting
+
+FV206 - SP Medium Artillery
+
+'''FV207 - SP Heavy Artillery'''
+
+FV208 - Universal Bridgelayer
+
+FV209 - Universal ARV
+
+FV210 - Tractor Heavy Artillery
+
+FV212 - Assault Personnel Carrier
+
+FV213 - Beach armoured recovery vehicle
+
+FV214 - Conqueror Mk 1 or MK2
+
+FV215A - Heavy armoured vehicle, Royal Engineers
+
+FV215B - SPG heavy, 183mm anti-tank gun
+
+FV216 - Tank, heavy, Royal Engineers, flail
+
+FV217 - SPG medium, No 1, 120mm anti-tank gun
+
+FV219 - Conqueror ARV Mk 1
+
+FV221 - Caernarvon MK 1
+
+FV221 - Caernarvon Mk 2
+
+FV222 - Conqueror ARV Mk 2
+
+FV223 - Bridgelayer ARK
+
+|HistoricalGallery=N/A
+
+|Ref_references=
+
+|Ref_sources= *https://en. GB79 FV206 wikipedia. GB79 FV206 org/wiki/Centurion_tank
+
+|Ref_links=
+
+
+|Sidebar_Camostop=7. GB79 FV206 7
+|Sidebar_Camomove=3. GB79 FV206 8
+|Sidebar_Camofire=1. GB79 FV206 1
+|Sidebar_Passhard=1. GB79 FV206 247
+|Sidebar_Passmed=1. GB79 FV206 438
+|Sidebar_Passsoft=2. GB79 FV206 397
+|Sidebar_DispTurret=0. GB79 FV206 46
+|Sidebar_DispRecoil=4. GB79 FV206 795
+|Sidebar_DispAccel=0. GB79 FV206 345
+|Sidebar_DispTurning=0. GB79 FV206 345
+}}

@@ -1,0 +1,61 @@
+{{TankData|Tank= 
+
+| This tank was given as a reward during the 2018 Battle of Kursk campaign for players who completed at least 30 missions in the 50-mission campaign. R154 T 34E 1943  It was also available for sale in the Premium Shop. R154 T 34E 1943 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good DPM for a 75/76mm-armed medium
+* Retains good top speed of T-34
+* Spaced armor on hull and turret reduce threat of HEAT shells
+* Capable rammer due to speed and weight
+* Great shell velocity due to default shell being APCR
+
+|InTheGame_cons=
+* Poor view range and turret traverse due to using a modified stock T-34 turret 
+* Bad gun handling: poor aim time, terrible dispersion, mediocre bloom control
+* Noticeably sluggish due to lower HP/T rating and traverses, loses speed in turns
+* Default APCR ammo suffers against angled/sloped armor, premium round is underwhelming
+* Terrible crew layout (Commander is also Gunner, separate Radioman) matches only the basic [[T-34]]
+
+|InTheGame_performance= 
+The T-34 Shielded is a modified version of the basic T-34 and shares many characteristics with its parent tank: a good top speed, thin but sloped armor, and a fairly good gun held back by poorer-than-average gun handling. R154 T 34E 1943  It is still a versatile and well rounded medium tank, but T-34 drivers used to the fast-firing 57mm ZiS-4 gun will find the T-34 Shielded demands a different set of tactics. R154 T 34E 1943 
+
+It is best to think of the T-34 Shielded as a combination of three common tier 5 medium tanks: the [[T-34]] (naturally), the [[M4 Sherman]], and the [[Pz. R154 T 34E 1943  IV H]]:
+
+* It has the top speed, armor layout, and ground resistances of a T-34. R154 T 34E 1943 
+* It has the basic traverses, gun handling, and power-to weight ratio of an M4. R154 T 34E 1943 
+* It has the spaced armor, health pool, and DPM of a 75mm-armed Pz. R154 T 34E 1943  IV H. R154 T 34E 1943 
+
+Taken all together, this makes the T-34 Shielded into a basic but otherwise reliable tier 5 medium. R154 T 34E 1943  Taking a little bit of everything from the listed tanks, the T-34 Shielded best serves as a supporting flanker with other tanks. R154 T 34E 1943  Operate with a partner or platoon and always move in groups. R154 T 34E 1943  Peeking is a viable tactic for this tank--poke out, take a shot, and back off. R154 T 34E 1943  The 8 degrees of gun depression, while far from the best, is sufficient to take advantage of low cover or small ridges. R154 T 34E 1943  It also has enough ammunition to spare for the occasional blind or risky shot. R154 T 34E 1943 
+
+The 120mm of penetration and 110 alpha damage are acceptable at tier 5, and can penetrate some same-tier heavies frontally. R154 T 34E 1943  Nonetheless, it is best to get around to the sides of enemies and hit them from the flank. R154 T 34E 1943  The accuracy of the 76mm F-34 cannon is noticeably poor at . R154 T 34E 1943 43 dispersion, so while supporting positions are useful, sniping is not advised. R154 T 34E 1943  This also makes hitting weakspots more of a challenge. R154 T 34E 1943  Premium ammunition is less useful for offsetting this shortcoming, as the premium shell is also APCR and only gains a 30mm increase in penetration, resulting in a medicore 150mm of penetration. R154 T 34E 1943 
+
+With regards to equipment loadouts, the low view range hurts the viability of Coated Optics, granting just 34 additional meters of view range to the tank, boosting it to only around the ''base'' view range of the M4. R154 T 34E 1943  It may be better to allow other tanks to spot for you and instead boost its gun handling instead. R154 T 34E 1943  A gun rammer and improved vents will bring the reload down to 3. R154 T 34E 1943 38 seconds and the DPM up to 1955. R154 T 34E 1943  Equipping a gun laying drive lowers the aim time down to 2. R154 T 34E 1943 05 seconds, which is average but acceptable. R154 T 34E 1943 
+
+Most players will find that the T-34 Shielded is more survivable but less focused, a jack-of-all-trades tank that is more forgiving of player error but lacking any specific claim to excellence. R154 T 34E 1943 
+
+|InTheGame_research=
+As a premium tank, the T-34 Shielded is elite in its stock configuration. R154 T 34E 1943  
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vents, GLD, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistAcc=
+Uses the same 76 mm F-34 gun as the [[T-34]]. R154 T 34E 1943  However, their penetration values are inconsistent. R154 T 34E 1943 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

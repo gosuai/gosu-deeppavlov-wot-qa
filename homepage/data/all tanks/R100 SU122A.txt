@@ -1,0 +1,78 @@
+{{TankData|Tank=
+|
+
+|InTheGame_pros=
+* Decent engine power and traverse - relocates easily
+* Top gun has the highest damage of all tier V SPG's  
+* Gun range: stock: 1150 m, top: 1200 m 
+* Gun range can reach end map easily 
+
+
+|InTheGame_cons=
+* Quite poor accuracy and slow aim time on both guns. R100 SU122A  Occasionally misses fully aimed shots. R100 SU122A 
+* Almost a half minute to reload top gun, DPM is lowest of all tier V SPG's. R100 SU122A 
+* Unstellar gun elevation and narrow gun traverse. R100 SU122A 
+* Limited top speed
+
+
+|InTheGame_performance= So, you have a brand new SU-122A in your garage?  With the best crew and equipment credits can buy. R100 SU122A  You've got a 75% crew, an artillery rammer and a gun laying drive. R100 SU122A  What could you expect from this tier V SPG then?
+
+The mobility of the SU-122A is adequate. R100 SU122A  While its top speed is only 30 kmp/h, a power to weight ratio above 15 is enough to get the SU-122A where it needs to be. R100 SU122A  Due to its decent acceleration and traverse, combined with its compact size, the SU-122A has the potential to become a deadly ambush tank. R100 SU122A  If you can lure tanks to expose their side to you rounding a corner, you can severely damage them at point blank range. R100 SU122A  However, with your long reload time you should not expect to fire a second shot unless you have plenty of team support. R100 SU122A 
+
+The difficulties begin when it's time to fire the gun in artillery mode. R100 SU122A  The stock 122 mm M-30 of the SU-122A comes with large dispersion and an insignificant burst radius. R100 SU122A  Fully aimed shots are typically required for a reasonable chance to hit a target. R100 SU122A   And to cause substantial damage direct hits are necessary given the small burst radius. R100 SU122A  Unfortunately even fully aimed shots will often miss. R100 SU122A 
+  
+Aiming the SU-122A is an excruciatingly slow process and to fire a fully aimed shot with the above crew and equipment layout will require more than 11 seconds of aim time. R100 SU122A  Any potential target will have plenty of time to move away before a fully aimed shot can be fired. R100 SU122A   Also a spotted tank might disappear in about 10 seconds if no longer visible to your team mates and having a target disappear before the shot is fully aimed is naturally not helpful when attempting to hit said target. R100 SU122A  
+
+The long aim time of the SU-122A gives it a sluggish response which makes it difficult to hit targets of opportunity. R100 SU122A  Instead one will often have to rely on pre-aimed shots, hoping for an enemy tank to appear near the pre-aimed target point. R100 SU122A  Which is fine when a target does appear but less so when the result is staring at an empty piece of ground, waiting for a target which never shows. R100 SU122A   
+
+Because of the awkwardly long  aim time of the SU-122A, there won't be many opportunities to fire fully aimed shots at visible targets in a game. R100 SU122A  Furthermore, when a target do remain visible in the open long enough that SU-122A can fire a fully aimed shot, then this target can also typically be shot by some of your allies. R100 SU122A  Allies which generally will aim and fire much faster than the SU-122A, meaning your intended target will likely explode before you're able to fire at it. R100 SU122A  
+
+The top 152mm D-1 of the SU-122A comes with the same awkward aim time and large dispersion as the stock gun. R100 SU122A  The reload time is furthermore nearly twice that of the stock gun, so the rate of fire of the 152mm top gun is nearly cut in half compared to the stock gun. R100 SU122A  This is not as bad as it may sound however, as nearly all those shells from the stock gun would have missed their targets anyway to create nothing but expensive holes in the ground. R100 SU122A  
+
+What the top gun offers is higher damage, a much larger burst radius and the ability to stun the target. R100 SU122A   When that rare opportunity does arise and the SU-122A is finally able to fire a fully aimed shot at a target which have not yet disappeared or been destroyed by your allies, the 152 mm top gun is more likely to catch the target within its burst radius, will do more damage when it does and may also generate some secondary damage if your allies can hit a stunned target. R100 SU122A   
+
+These are significant improvements and it's arguably even more important to have the top gun if the crew has not yet reached 100% as they'll be hard pressed to hit anything  with the stock gun. R100 SU122A  With a 100% crew you could perhaps go back to the stock 122mm M-30 gun to check if the crew is good enough to leverage the higher DPM the stock gun provides. R100 SU122A  
+
+The top 152mm D-1 does not necessarily transform the SU-122A into something resembling a capable SPG. R100 SU122A  While the top gun does offer some advantages, the identical aim time and dispersion means the gameplay of the SU-122A largely stays the same irrespective of which gun is is mounted: 
+
+
+Aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  and the target moves away. R100 SU122A 
+  
+Aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  and the target disappears. R100 SU122A   
+
+Aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  and the target is destroyed by allies. R100 SU122A  
+
+
+Over and over again. R100 SU122A   
+
+
+There will be lots of aiming done. R100 SU122A  There will be lots of missed opportunities and targets lost. R100 SU122A  There will be lots of shots going astray. R100 SU122A  Few targets will be hit and little damage will be done. R100 SU122A  
+
+If that is the gameplay you're looking for, the SU-122A might be the SPG for you. R100 SU122A  Else you might find it a less than rewarding grind. R100 SU122A 
+
+|InTheGame_research=
+* Nothing carries over from the SU-5. R100 SU122A 
+* First, research the SU-122A enhanced Suspension. R100 SU122A 
+* Next, research the 152 mm Howitzer D-1. R100 SU122A 
+* Now, research the M-80 Engine. R100 SU122A 
+* Finally, research the 12RT Radio. R100 SU122A  It is used on many other Soviet vehicles in a variety of different lines. R100 SU122A 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+
+
+|History=
+
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+}}

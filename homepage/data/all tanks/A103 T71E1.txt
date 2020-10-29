@@ -1,0 +1,87 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+|Sidebar_Camostop=14. A103 T71E1 3
+|Sidebar_Camomove=14. A103 T71E1 3
+|Sidebar_Camofire=3. A103 T71E1 7
+|Sidebar_Passhard=0. A103 T71E1 671
+|Sidebar_Passmed=0. A103 T71E1 767
+|Sidebar_Passsoft=1. A103 T71E1 438
+|Sidebar_DispTurret=0. A103 T71E1 115
+|Sidebar_DispRecoil=3. A103 T71E1 356
+|Sidebar_DispAccel=0. A103 T71E1 23
+|Sidebar_DispTurning=0. A103 T71E1 23
+
+|InTheGame_pros=
+* 6-round clip with high burst damage and decent magazine reload
+* APCR as standard ammunition, good penetration and shell velocity
+* Good overall mobility
+* Decent gun depression and great elevation for an oscillating turret
+* Very good viewrange for its tier/class
+
+|InTheGame_cons=
+* Vulnerable to engine damage and fires
+* Subpar accuracy
+* Poor camouflage values for a light tank, comparable to mediums
+* Different crew layout compared to its predecessor [[T21]] and successor [[T69]]
+* Horribly overpriced premium ammunition
+
+|InTheGame_performance=
+Originally somewhat forgotten because of the popularity of the M41 Walker Bulldog (which was also tier 7 at the time), the T71 has seen an increase in popularity since the introduction of the tier 9 and 10 light tanks. A103 T71E1 
+In-game, it possesses similar properties to the French AMX series of light tanks except the camo which is lower (14/14 vs 18/18). A103 T71E1  The pacing between shots is 2 seconds on both guns in a 6-round revolver magazine. A103 T71E1  It has good dynamics, but care should be taken to avoid being hit in the hull, as the engine is especially weak when stock and is destroyed easily. A103 T71E1 
+
+The gun can be considered outstanding for its tier, with 900 potential burst damage over 10 seconds, compared to other autoloader lights around its tier that does ~700 per drum. A103 T71E1  145 penetration is acceptable given the light tank chassis, which encourages flank and rear shots. A103 T71E1  If forced into a shootout, the HEAT rounds with 210mm penetration comes more than handy: these are capable of cutting through a Ferdinand, or a Type 59 frontally, but will also lead to an astounding ammunition bill post battle. A103 T71E1   As with the French tanks, the best combat strategy is to flank a distracted enemy and unload as many of your rounds into their weak areas as you can without taking damage, then withdrawing to repeat on other targets of opportunity. A103 T71E1   Special attention should be given to one-shot targets, as the T71 can kill several weak tanks very quickly given the chance. A103 T71E1   Because of its great turning and top speed it can also circle tanks with low agility, leaving them entirely defenseless. A103 T71E1  This should only be attempted on isolated tanks, however. A103 T71E1 
+
+Its great view range and good agility make it an excellent scout, both active and passive. A103 T71E1  Active scouting at these tiers becomes risky however, as both alpha and accuracy are better than previous scout tanks have seen. A103 T71E1  Also, active scouting increases the chance of getting into a confrontation with a high-tier medium, a situation the T71 is ill-equipped to deal with. A103 T71E1 
+
+|InTheGame_research=
+
+* The top cannon is 500kg lighter than the stock one; by researching this, you save on tracks for a while and can mount some equipment. A103 T71E1 
+* The upgraded engine gives you an additional 70 horse power and more than double amount of module hitpoints. A103 T71E1 
+* The Tier X radio almost doubles the signal range, boosting it from 410 to 745 metres. A103 T71E1 
+* The tracks are not required to mount anything, but give better terrain pass-ability and better track traverse. A103 T71E1 
+
+
+|InTheGame_equipment=Improved Ventilation Class 1, Vertical Stabilizer Mk 1, Coated Optics, Camouflage Net
+
+|External_Reviews= 
+{{#ev:youtube|0WedxP1OXis}}
+
+|History=
+[[image:Detroit_proposal_piked_front_version. A103 T71E1 jpg|thumb|200px|left|Detroit proposal piked front version]]
+Little is known on this unusual US tank because the T71 never actually made it out of the factory and onto the battlefields. A103 T71E1  It suffered the fate of many interesting vehicles that were thought up in the post-war era, when the US tank manufacturing industry was very rich in ideas but became increasingly poor in funding. A103 T71E1  Armed with the experience gained from the industry’s previous rapid expansion, the US engineers were looking to improve their entire line-up of light, medium and heavy tanks, and try out new and sometimes experimental designs on them. A103 T71E1  When some of those experiments didn’t turn out quite as everybody had hoped for, projects were quickly dropped, as in the case of the T71 that only existed in mock-up form and never actually saw the light of day. A103 T71E1 
+ 
+The few available records say that its development began in the early 50s when the US Ordnance Committee ordered a new light tank with very specific characteristics, aimed at replacing the T41E1 –which itself had already been the improved successor of an upgrade of the experimental light tank T37. A103 T71E1  Being the third generation of an experimental vehicle, the T71 was meant to continue the same bold nature by sporting a heavy 90mm calibre gun on a 20 ton light weight structure. A103 T71E1  Manufacturers such as the Detroit Arsenal Tank Plant put forward their plans featuring an oscillating turret that would be able to handle the recoil of the cannon. A103 T71E1  This was a rather unusual technology that was only used in a couple of tanks worldwide. A103 T71E1  As the tank was meant to be carried airborne, its ultimate weight had to be reduced even further, which limited possible armament to a 76mm gun, but in turn enabled the use of an auto-loader. A103 T71E1 
+ 
+The designers had bet on quantity over quality, giving the tank an impressive firing rate (before the unavoidable drum reload of course) and an ammo rack capable of carrying up to 60 shells of different types. A103 T71E1  Light-weight and equipped with a decent AOI-628 engine in the rear hull for agile quickness, the engineers thought they had created a nimble scout and artillery support tank. A103 T71E1  However, they had forgotten an important aspect: the armour. A103 T71E1  Due to the imposed weight restrictions, the tank was covered in “paper-thin” 25 mm armour which failed to impress the Ordnance Committee. A103 T71E1  Ultimately its performance just did not live up to the necessities of changing warfare of its time. A103 T71E1  The project was scrapped in 1953 with nothing but a wooden model to show for it. A103 T71E1 
+
+|HistoricalGallery=
+image:Detroit_proposal_side_view. A103 T71E1 jpg{{!}}Detroit proposal side view
+image:Detroit_proposal_piked_front_version. A103 T71E1 jpg{{!}}Detroit proposal piked front version
+image:Detroit_proposal_rear_view. A103 T71E1 jpg{{!}}Detroit proposal rear view
+image:T71_wooden_model_proposed_by_Detroit_Arsenal. A103 T71E1 png{{!}}T71 wooden model proposed by Detroit Arsenal
+image:T71_drawingl_proposed_by_Cadillac. A103 T71E1 png{{!}}T71 drawingl proposed by Cadillac
+image:T71_by_Detroit_Arsenal_isometric_view. A103 T71E1 jpg{{!}}T71 by Detroit Arsenal isometric view
+
+|HistAcc=
+As the T71 only existed as a wooden mockup, many of its performance and armor specs were made up by WG. A103 T71E1 
+* Engines are more powerful than in reality, with 350/420 hp compared to the historical 340/400. A103 T71E1 
+* The [[Gun/USA#76 mm Gun M1A2|76 mm M1A2]] is the same gun used on the [[M4A3E8 Sherman]] and [[M4A3E2 Sherman Jumbo]]. A103 T71E1  Yet the penetration value of the AP shell is inconsistent. A103 T71E1 
+
+|Ref_references=
+These two volumes are widely regarded as the definitive reference works on the American Light Tanks. A103 T71E1  Volume-1 covers the real life counterparts of the in-game light tanks: T1, T2/M2, M3, and M5 series and the T21 and the M24. A103 T71E1  Volume-2 covers the T-71. A103 T71E1 
+* Hunnicutt, R. A103 T71E1 P, 1992, '''<i>Stuart: A History of the American Light Tank - Volume-1</i>''', Presidio Press, 508p,  ISBN:0891414622. A103 T71E1 
+* Hunnicutt, R. A103 T71E1 P. A103 T71E1 , 1995, '''<i>Sheridan: A History of the American Light Tank -  Volume 2</i>''',  Presidio Press, 340p,  ISBN:9780891415701. A103 T71E1 
+
+|Ref_sources=
+
+
+|Ref_links=
+https://ftr-wot. A103 T71E1 blogspot. A103 T71E1 com/2013_04_08_archive. A103 T71E1 html  '''Post WW2 Prototype Light Tank T71'''
+
+
+}}
+
+[[Category:USA Tanks]]

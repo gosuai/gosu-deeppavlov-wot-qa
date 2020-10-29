@@ -1,0 +1,283 @@
+{{for|the Soviet tier 3 premium [[Medium Tank]]| [[Tank:R143 T 29|T-29]] }}
+
+{{TankData|Tank=T29
+|Generally considered one of the best tanks of its tier, if not downright overpowered, the T29 is a solid combination of firepower, armor and mobility. A11 T29  Stock, it comes with the inefficient 76 mm M1A2 gun, but can immediately equip the powerful 90 mm M3 gun if it was researched previously from the [[M6]], which will prove sufficient against most opponents it faces while the tank advances down the upgrade path. A11 T29  The 105 mm gun that you are able to mount later is very powerful and lethal, as it can penetrate almost any tank in its tier and still can penetrate some higher tier tanks and can pack quite a punch. A11 T29  The most notable feature of the T29 is its large and extremely well-armored turret, strong enough to bounce shots even from tier 9 tanks if faced frontally and with good angling. A11 T29  For this reason, the T29 performs exeptionally well when placed in a [[Tactics|hull-down position]]. A11 T29  The frontal hull armor of the T29 is also quite robust if angled properly. A11 T29  
+
+|Sidebar_Camostop=5. A11 T29 1
+|Sidebar_Camomove=2. A11 T29 9
+|Sidebar_Camofire=1. A11 T29 4
+|Sidebar_Passhard=1. A11 T29 055
+|Sidebar_Passmed=1. A11 T29 438
+|Sidebar_Passsoft=2. A11 T29 493
+|Sidebar_DispTurret=0. A11 T29 173
+|Sidebar_DispRecoil=3. A11 T29 836
+|Sidebar_DispAccel=0. A11 T29 211
+|Sidebar_DispTurning=0. A11 T29 211
+
+|InTheGame_pros=
+- Frontal turret armor is almost 100% invulnerable against even many tier 9s, inarguably the best hull-downer in tier. A11 T29 
+
+- Frontal armor can bounce quite a few at tier tank shots if you get the angling down. A11 T29 
+
+- Large tracks and decent side armor can soak up shots if you dont over-expose them
+
+- Top gun has excellent pen and great alpha; handling is also decent, especially with VStab mounted
+
+- Decent speed and traverse once fully upgraded ( for a tier VII Heavy anyway ). A11 T29 
+
+
+|InTheGame_cons=
+- DPM and accuracy is not very good, especially compared to the Tiger. A11 T29 
+
+- Huge size makes this tank very easy to spot, also draws arty fire due to very large and thinly armed engine bay
+
+- The lower glacis and MG port are frighteningly weak and easy to pen. A11 T29 
+
+- Turret roof oddly enough is able to be hit from ground level and is very thin; The cupola can be a liability at close range
+
+- Stock grind will be severely painful if coming from the M4A3E2 Sherman Jumbo
+
+|InTheGame_performance=
+The T29, although capable of leading an assault, can be very hard to coax out of a defensive position if it keeps its hull hidden and only exposes its strong turret. A11 T29  If put into a tier 8 or higher battle, it will have more difficulty avoiding damage unless it is put in a hull-down position. A11 T29  The turret armor can bounce almost any shell and fight back with good results. A11 T29  The T29 does need to attempt to keep all of it's opponents inside of a relatively small arc in front of its armor to control the fight though. A11 T29  The T29 is somewhat slow although its acceleration is acceptable once the engine has been upgraded, making it somewhat less swift than German/Russian offerings on flat ground but not behind most player packs. A11 T29  Therefore, it is highly advised to research the 90mm gun first if you have not already, and then research mobility upgrades to increase responsiveness. A11 T29  If you did not research the 90mm gun on the M6, and you have no free exp to use, then this tank virtually hamstrings teams as the stock 76 mm prevents a (typically high on the battle listings) heavy from performing a key aspect of its role against its equals on the other team. A11 T29 
+
+The T29, while not as notorious as the IS/IS-2 for its alpha damage, is often considered by many as one of the most powerful Tier 7 vehicles due to its acceptable mobility, powerful and well-handled gun and extremely resilient turret armor. A11 T29  While its hull armor is obviously weaker, the side armor and thick tracks is still enough to employ side-scraping tactics and its front hull can resist low-tier guns up to 175mm penetration. A11 T29  In comparison to other Tier 7 hull armor, only the Tiger(P) and Black Prince (as well as the premium IS-2) have any reasonable hull armor. A11 T29  
+|InTheGame_research=
+* The 90mm Gun carries over from the [[M6]] (or if you previously played the [[T20]]) and should be installed immediately. A11 T29  The 76 mm is insufficient for anything at this tier. A11 T29  Free XP is strongly recommended if you came from the M4A3E2 Sherman Jumbo and don't have the 90mm M3. A11 T29 
+* First, research the upgraded suspension, as it makes the T29 more durable to tracking shots, slightly improves mobility, and most importantly gives it the ability to mount the heavy 105mm cannon (though torsion bars allow mounting of 105). A11 T29 
+* Next, research the 105mm Gun T5E1. A11 T29  The 38mm penetration boost is significant, and will provide much needed firepower against tougher opponents. A11 T29  Keep in mind that the listed rate of fire applies only when this gun is used with the upgraded turret. A11 T29  With the stock turret it is only 4 rounds per minute! It may be preferable to keep the 90mm until the upgraded turret has been unlocked. A11 T29 
+* The top engine should follow in order to increase the speed and maneuverability of the vehicle. A11 T29 
+* Finally, the top turret should be researched, which will provide +100 hitpoints, increase the fire rate for all guns and add the distinctive rangefinder "ears" to the appearance of the T29. A11 T29  Note that these "ears" count only as spaced armor; shots passing through will not cause damage. A11 T29 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Toolbox, spall liner
+
+|External_Reviews= 
+{{#ev:youtube|FMki8fwhMR8}}
+
+|Gallery=
+image:T29_001. A11 T29 jpg{{!}}T29_001
+image:T29_002. A11 T29 jpg{{!}}T29_002
+image:T29_003. A11 T29 jpg{{!}}T29_003
+image:T29_004. A11 T29 jpg{{!}}T29_004
+image:T29-a1. A11 T29 jpg{{!}}T29, map Karelia
+
+|History=
+By the middle of 1944, combat reports from Europe describing the use of heavy tanks by the Germans stimulated new interest in the development of an equivalent American vehicle. A11 T29  The Pershing medium tank provided an answer to the early model of the German [[Pz. A11 T29 Kpfw. A11 T29  VI Tiger]]. A11 T29  However, although the latter was still in first-line service, it had first been encountered by U. A11 T29  S. A11 T29  Army during 1943. A11 T29  By 1944, the Germans were introducing even more heavily armed and armored vehicles([[Pz. A11 T29 Kpfw. A11 T29  Tiger II]]). A11 T29   Although for morale purposes the [[M26 Pershing]] was temporarily redesignated as a heavy tank, it clearly did not provide an answer to the problem. A11 T29  On 14 September 1944, U. A11 T29  S. A11 T29  forces recommended development and manufacture of four prototypes of a new heavy tank. A11 T29  Two of these were designated as the heavy tank [[T29]] and were to be armed with the 105mm gun T5E1. A11 T29  The remaining two were designated as the heavy tank [[T30]] and were to be armed with the 155mm gun T7. A11 T29 
+
+== Technical info ==
+[[image:T29_technical_drawing. A11 T29 gif|thumb|200px|left|T29E2 Prototype-technical drawings]]On 1 March 1945, an order for 1200 [[T29]] tanks was recommended by the U. A11 T29 S. A11 T29  Army. A11 T29  The new heavy tank was powered by the Ford GAC V-12, liquid- cooled engine developing 770 horsepower at 2800 rpm. A11 T29  The engine was coupled to the new cross-drive transmission developed by General Motors. A11 T29  The latter combined the functions of a transmission, steering gear, and brakes in a single unit. A11 T29  With the original cross drive model EX-120, the driver used an electric control system to operate the transmission under normal conditions. A11 T29  Two mechanical manual steering levers also were provided for emergency use. A11 T29  Lack of sensitivity and feel with the electric control resulted in its replacement by a mechanical system also using a single control lever, usually referred to as the "wobble stick". A11 T29  The manual steering levers were retained for emergency use. A11 T29  Separate controls were provided for the driver and assistant driver (bow-gunner). A11 T29 [[image:T29e3_technical_drawing. A11 T29 gif|thumb|200px|right|T29E3 Prototype-technical drawings]]
+When delivered to the Army, the [[T29]]s were fitted with the CD-850-1 version of the cross-drive transmission. A11 T29  This unit incorporated two hydraulically-selected gear ranges driving through a single phase torque converter. A11 T29  Part of the power was transmitted through a mechanical path, bypassing the torque converter. A11 T29  This mechanically transmitted power, as well as that from the torque converter, was applied equally to both output shafts except when steering. A11 T29  At that time, all of the mechanical power was applied to one side to provide the speed difference required for steering. A11 T29  Braking for the vehicle was by means of built-in disc brakes actuated mechanically by foot pedals in the driver's compartment. A11 T29  A later version of the cross-drive was installed during the testing program. A11 T29  Designated as the CD-850-2, it replaced the single phase torque converter with a polyphase unit. A11 T29  This later model was more efficient at high speeds and acted as a fluid coupling after the point of 1:1 torque multiplication was reached. A11 T29  The great advantage of the cross-drive transmission was its simplicity of operation, which greatly eased the task of the driver. A11 T29  Pushing the wobble stick to the left or right steered the tank in that direction when the transmission was in first or second gear. A11 T29  The same action in neutral caused the vehicle to pivot in place with one track going forward and the other in reverse. A11 T29  Such action greatly increased the ability of the tank to extricate itself from difficult terrain where less agile vehicles would be stuck. A11 T29 
+Many components in common with the medium tank M26 Pershing were used in the new heavy tanks. A11 T29  The T80E3 tracks were the 23 inch T80E1 tracks of the Pershing fitted with five inch extended end-connecters, giving a total width of 28 inches. A11 T29  Power was transmitted to the tracks through sprockets at the rear of the vehicle. A11 T29  Eight road wheels per side increased the ground contact length to reduce the ground pressure of the tank which weighed over 70 tons, combat loaded. A11 T29 
+The hull was a welded assembly of armor castings and rolled plate similar to the M26. A11 T29  The same maximum thickness of four inches was retained on the upper front, but the angle was increased on the [[T29]] to 54 degrees from the vertical. A11 T29  The driver and assistant driver (bow-gunner) were seated on the left and right sides of the front hull respectively. A11 T29  The latter operated the . A11 T29 30 caliber machine gun ball mounted in the front armor. A11 T29  Both the driver and assistant driver were provided with a single periscope in their hatch covers. A11 T29  
+
+== Crew ==
+The large cast turret was installed on an 80 inch diameter ring well forward on the hull. A11 T29  The turret armor thickness varied from seven inches on the front to four inches on the rear. A11 T29  A crew of four manned the turret with the tank commander seated under a cupola in the center of the turret-bustle. A11 T29  The gunner was located in the right front of the turret and was provided with a direct-sight telescope in the gun mount and a periscopic sight in the turret roof. A11 T29  The two loaders worked in the rear of the turret ring, one on each side of the cannon. A11 T29  Two hatches, one on each side, were located in the turret roof in addition to the hatch in the commander's cupola. A11 T29  A circular pistol port was installed in the right side wall of the turret. A11 T29  The 105mm gun T5E1, installed in the combination gun mount T123, was a long-barreled weapon with a muzzle velocity of 3000 feet per second using the 39 pound armor piercing shot (AP) [[T32]]. A11 T29  During tests, a 24. A11 T29 6 pound hypervelocity armor piercing shot (HVAP) [[T29]]E3 achieved a muzzle velocity of 3700 feet per second. A11 T29  A 33. A11 T29 5 pound [[T30]]E1 high explosive shell (HE) was provided with a reduced muzzle velocity of 2500 feet per second. A11 T29  A total of 63 rounds of 105mm ammunition was stowed in the turret and hull. A11 T29  Two . A11 T29 50 caliber machine guns were mounted coaxially on the left side of the 105mm gun. A11 T29  Another . A11 T29 50 caliber machine gun was fitted on a pedestal mount in front of the left loader's hatch on the turret roof. A11 T29  Ventilation was provided by two 1500cfm blowers. A11 T29  One was mounted in the turret roof to the right rear of the commander's station, and the other was located in the front hull roof between the driver and the assistant driver. A11 T29 
+
+== History ==
+An order for the [[T29]] tank was approved on 12 April 1945, but the numbers were reduced to 1152. A11 T29  Also in April, four additional prototype  [[T29]]s were authorized, but later, it was directed that one of these was to be armed with the 120mm gun T53 and redesignated as the heavy tank [[T34]]. A11 T29  This was only one of the many changes to the program with the approaching end of hostilities. A11 T29  After the end of the war in the Pacific, the production contract with the Pressed Steel Car Company, Inc. A11 T29  was terminated with one [[T29]] completed and a second partially finished. A11 T29  All material was transferred to Detroit Arsenal for the completion of ten prototypes for postwar development studies authorized on 23 August, 1945. A11 T29  Later, the total of [[T29]] prototypes was reduced to eight. A11 T29 
+
+== Models ==
+[[image:Tank_t29_e2. A11 T29 jpg|thumb|200px|right|T29E2 Prototype]]The first [[T29]] arrived at Aberdeen Proving Ground in October 1947. A11 T29  By this time, there was no longer any requirement for production of these heavy tanks and the test program was limited to evaluating the various power train components for application to new tank designs. A11 T29  Two additional [[T29]]s arrived at Aberdeen in April and May 1948 and they also were used in the endurance and engineering test programs. A11 T29 
+[[T29]] number 1 was diverted to General Motors Corporation for the installation of a modified version of the Allison liquid-cooled V-12 aircraft engine. A11 T29  To accommodate the new power package consisting of the Allison V-1710-E32 engine and the CD-850-1 cross-drive transmission, the tank hull was lengthened by 1 31/32 inches. A11 T29  The new engine developed 870 gross horsepower at 2800 rpm and weighed about 1600 pounds dry. A11 T29  This vehicle, armed with the 105mm gun T5EI in mount T123, was designated as the heavy tank T29E1 in December 1945. A11 T29 
+[[T29]] number 2 was fitted with what was designated as the heavy tank turret T5. A11 T29  This turret was equipped with the Massachusetts Institute of Technology combination hydraulic power turret traversing and elevating mechanism and computing sight. A11 T29 
+The tank was armed with the 105mm gun T5E2 in mount T123E2. A11 T29  OCM 32107, dated I April 1948, designated the [[T29]] with the T5 turret as the heavy tank T29E2. A11 T29 
+At this point, a brief description of the guns and mounts is in order. A11 T29  The 105mm gun T5E1 was installed in mount T123, which used three recoil cylinders on top of the gun cradle. A11 T29  This design was modified to have two recoil cylinders on top of the cradle and one on the bottom. A11 T29  This new mount was the T123E1 and the cannon modified to fit it was the 105mm gun T5E2. A11 T29  Installation of the power traversing and elevating system in the [[T29]]E2 tank required further modification of the mount, and it received the new designation T123E2. A11 T29  Heavy tanks [[T29]] numbers 3, 4, 5, 6, and 7 were all armed with the 105mm gun T5E2 in mount T123E1. A11 T29 
+Heavy lank [[T29]] number 8 was armed with the 105mm gun T5EI in mount T123. A11 T29  This vehicle was modified to provide for the installation of the range finder T31E1 and telescopic T93E2 in mount TI36. A11 T29  Provision also was made to install panoramic telescopes T141, T144, and T145 to evaluate their use during indirect fire with the 105mm gun. A11 T29  The T141 and T144 telescopes were used in the gunner's periscopic sight mount, and a T156 mount for the T145 telescope was fitted into the turret roof. A11 T29  [[image:Tank_t29_e3. A11 T29 jpg|thumb|200px|left|T29E3 Prototype]]All this was part of a program to study the effectiveness of integrated fire control systems. A11 T29  The same program also utilized a modified version of the medium tank T25E1. A11 T29  When fitted with the new fire control system, [[T29]] number 8 was redesignated as the heavy tank T29E3. A11 T29  The T31E1 range-finder was a stereoscopic instrument with a base length of nine feet. A11 T29  It was not connected to the other fire control system components and was operated by the tank commander, who manually relayed the range information using the control box just below the range finder. A11 T29  When the range and the desired lead were set into the control box, it was transmitted by flexible shafting to the telescope mount T136. A11 T29  Thus the gunner could give his undivided attention to tracking the target. A11 T29  Unfortunately, it did not work very well in practice. A11 T29  The tests at Aberdeen showed that backlash, as well as windup and binding of the flexible shafting, introduced serious errors into the system. A11 T29  However, the test program did show that the stereoscopic range-finder was particularly useful for spotting purposes and sensing bursts. A11 T29  It also emphasized the necessity for a range-finder, if first-round hits were to be obtained at ranges over 1000 yards. A11 T29 
+
+== T-series prototypes ==
+The [[T29]], [[T30]], [[T32]], and [[T34]] series of tanks were used to evaluate numerous experimental components after World War II. A11 T29  Although too late for the war for which they were designed, they provided invaluable service in developing these components for later tanks. A11 T29  Much of the work which made the early AV-1790 engine and the CD-850 transmission a reliable power package utilized these tanks. A11 T29  Later, they were used in the development of other power train components such as the XT-1400 transmission, which was tested in the [[T30]]. A11 T29 
+
+
+<table style="text-align:center;" frame="box" rules="vertical;horizontal" >
+<caption>American Heavy tank comparison</caption>
+<tr>
+<th></th>
+	<th>Mk. A11 T29 VII</th>
+	<th>[[M6]]</th>
+	<th>T28</th>
+	<th>[[T29]]</th>
+	<th>[[T30]]</th>
+	<th>[[T32]]</th>
+	<th>[[T34]]</th>
+	<th>M103A2</th>
+</tr>
+<tr>
+<th>Crew</th>
+	<td>8</td>
+	<td>6</td>
+	<td>4</td>
+	<td>6</td>
+	<td>6</td>
+	<td>5</td>
+	<td>6</td>
+	<td>5</td>
+</tr>
+<tr>
+<th>Length</th>
+	<td>10,43m</td>
+	<td>8,43m</td>
+	<td>11,12m</td>
+	<td>11,56m</td>
+	<td>10,9m</td>
+	<td>10,83m</td>
+	<td>11,77m</td>
+	<td>11,23m</td>
+</tr>
+<tr>
+<th>Width</th>
+	<td>3,66m</td>
+	<td>3,12m</td>
+	<td>4,54m</td>
+	<td>3,8m</td>
+	<td>3,8m</td>
+	<td>3,76m</td>
+	<td>3,8m</td>
+	<td>3,63m</td>
+</tr>
+<tr>
+<th>Height</th>
+	<td>3,12m</td>
+	<td>3,00m</td>
+	<td>2,86m</td>
+	<td>3,22m</td>
+	<td>3,22m</td>
+	<td>2,81m</td>
+	<td>3,22m</td>
+	<td>3,56m</td>
+</tr>
+<tr>
+<th>Weight</th>
+	<td>39,5t</td>
+	<td>57,4t</td>
+	<td>86,3t</td>
+	<td>64,25t</td>
+	<td>64,74t</td>
+	<td>54,5t</td>
+	<td>65,2t</td>
+	<td>58,1t</td>
+</tr>
+<tr>
+<th>Engine<br />power</th>
+	<td>Liberty<br />338hp</td>
+	<td>G-200<br />960hp</td>
+	<td>GAF<br />500hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>AV1790<br />750hp</td>
+</tr>
+<tr>
+<th>Max. A11 T29  speed</th>
+	<td>8,8km/h</td>
+	<td>35km/h</td>
+	<td>12,8km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>37km/h</td>
+</tr>
+<tr>
+<th>hull armour<br />(angle)</th>
+	<td>12mm<br />(28)</td>
+	<td>83mm<br />(30)</td>
+	<td>305mm</td>
+	<td>102mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(60)</td>
+</tr>
+<tr>
+<th>side armour</th>
+	<td>12mm</td>
+	<td>70mm</td>
+	<td>152mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>51mm</td>
+</tr>
+<tr>
+<th>Turret armour<br />(mantlet)</th>
+	<td>16mm</td>
+	<td>83mm<br />(102mm)</td>
+	<td>-</td>
+	<td>178mm<br />(279mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>298mm<br />(298mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>127mm<br />(254mm)</td>
+</tr>
+<tr>
+<th>top armour</th>
+	<td>6-10mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>bottom armour</th>
+	<td>6-8mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>Gun</th>
+	<td>2x57mm<br />Hotchkiss</td>
+	<td>75mm M7<br />37mm MB</td>
+	<td>105mm<br />T5E1</td>
+	<td>105mm<br />T5E2</td>
+	<td>155mm<br />T7</td>
+	<td>90mm<br />T15E2</td>
+	<td>120mm<br />T53</td>
+	<td>120mm<br />M58</td>
+</tr>
+<tr>
+<th>Secondary<br />armament</th>
+	<td>5x7,62mm<br />Hotchkiss</td>
+	<td>2x12,7mm <br />HB M2<br />2x7,62mm<br />M1919A4</td>
+	<td>12,7mm<br />HB M2</td>
+	<td>3x12,7mm<br />HB M2<br />7. A11 T29 62mm<br />M1919M4</td>
+	<td>2x12,7mm<br />HB M2<br />7. A11 T29 62mm<br />M1919M4</td>
+	<td>12,7mm<br />HB M2<br />2x7. A11 T29 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A11 T29 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A11 T29 62mm<br />M37</td>
+</tr>
+</table>
+
+|HistAcc=
+The Continental AV1790 engine was only mounted on the [[T30]] and [[M103]] heavy tanks. A11 T29  Its configuration on the T29 is fake. A11 T29 
+
+|HistoricalGallery=
+image:T29. A11 T29 jpg{{!}}T29 Prototype
+image:T29e3_1947_source_picassa. A11 T29 jpg{{!}}T29E3 Prototype 1947
+image:T29e3_top_view. A11 T29 jpg{{!}}T29E3 top view
+
+
+|Ref_references=
+
+|Ref_sources=
+
+Hunnicutt, R. A11 T29 P. A11 T29 , 1988, '''<i>Firepower: A History of the American Heavy Tank</i>''', Presidio Press, 222p,  ISBN:9780891413042. A11 T29 
+
+|Ref_links=
+
+*[https://www. A11 T29 wwiivehicles. A11 T29 com/usa/tanks-heavy/t29-t30-t32. A11 T29 asp '''T29 Heavy Tank'''] Photos & history. A11 T29 
+* https://svsm. A11 T29 org/gallery/T29E3 - T29E3, Patton Museum, by Matthew Flegal 
+* https://armor. A11 T29 kiev. A11 T29 ua/Tanks/Modern/Heavy/
+
+}}
+
+[[Category:USA Tanks]]

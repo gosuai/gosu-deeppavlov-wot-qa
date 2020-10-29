@@ -1,0 +1,74 @@
+{{TankData|Tank= 
+|InTheGame_pros= 
+* Good accuracy and Weapon handling with the 75mm long barrel gun 
+* Combination of fast reverse speed and excellent gun depression is ideal for working a reverse slope. S19 Sav M43 
+* Sports a very dangerous 105mm howitzer to tier 3's and most tier 4's 
+* Great gun arc. S19 Sav M43 
+
+|InTheGame_cons= 
+* Almost useless stock gun
+* Generally poor manoeuvrability
+* 105mm howitzer has almost 10 sec reload, along with lower HE alpha. S19 Sav M43  Due to that, it has a lower DPM than most tier 4 TD's. S19 Sav M43 
+* 105mm howitzer has the worst Aim Time out of all the Tier 4 derp guns. S19 Sav M43 
+|InTheGame_performance= 
+Like the [[Ikv 72]] the Stormartillerivagn m/43 plays somewhat like the [[SU-85]]. S19 Sav M43  Once equipped with the 75mm long barrel gun, the Sav m/43 can perform as a sniper. S19 Sav M43  The combination of excellent gun depression and a fast reverse speed means that the [[Ikv 72]] can successfully park behind a ridge. S19 Sav M43  Another choice is the 105mm howitzer, or "derp" gun. S19 Sav M43  When mounted with this gun, the Sav m/43 turns from a sniper to a close range brawler. S19 Sav M43  It can be compared to the Hetzer in some aspects. S19 Sav M43  But, unlike the Hetzer, this has an almost 10 sec reload, even with equipment. S19 Sav M43  Due to a sluggish traverse speed, players should be careful of their flanks. S19 Sav M43 
+
+|InTheGame_research= 
+* Radios carry over from the IKV 72. S19 Sav M43  Mount them. S19 Sav M43 
+* You will find that the stock engine and stock tracks to be very limiting. S19 Sav M43  First get the engine, then your tracks. S19 Sav M43  This will be very helpful for you, since it will boost your combat effectiveness indirectly. S19 Sav M43 
+* After getting the engine and tracks, focus on the 75 mm long barrel. S19 Sav M43  It will boost combat effectiveness immensely. S19 Sav M43 
+* IF you find the 75mm to be lacking in damage, research the 105. S19 Sav M43  This will unlock the Infanterikanonvagn 103. S19 Sav M43  You can choose to use this 105mm or stick with the 75mm long barrel gun. S19 Sav M43 
+* SKIP FINAL RADIO. S19 Sav M43  it will unlock with Ikv 103. S19 Sav M43  
+|InTheGame_equipment=
+camouflage net, Tank Gun Rammer, Binocular telescope, Vents
+
+|InTheGame_Equipment_Builds=
+|Gallery=
+|External_Reviews= 
+
+|History=
+With the start of World War Two, Sweden had seen success of the German and Russian assault guns, especially vehicles like the Stug 3. S19 Sav M43  And so, in September 1941, a decision was taken that assault guns should be introduced to the Swedish army. S19 Sav M43  The role of these assault guns would be to support infantry with mobile direct or indirect artillery fire, as well as to provide some anti-tank capability. S19 Sav M43 
+
+Studies began and it was soon decided to utilize the leftover L-60 tank prototype to test the new concept. S19 Sav M43  The vehicle was finished in 1942 and was simply called by its army number designation as “number 62”. S19 Sav M43  During its trials, the vehicle was tested with the 7,5cm Kan m/40 field gun and later the older 7,5cm Kan m/02. S19 Sav M43  In 1943, the vehicle was re-designated to Stormpjäs fm/43 and was trialled with a 15cm recoilless rifle. S19 Sav M43  The tests with this vehicle generally proved positive, but the weight limitations of the L-60 suspension meant that the vehicle could only provide its crew with protection against small arms, except for the gun mantlet, which was 50mm thick. S19 Sav M43 
+
+[[File:Stormpjas_fm43. S19 Sav M43 jpg|thumb|Stormpjäs fm/43]]
+
+[[File:Sav_m43_with_15cm_recoilless_rifle. S19 Sav M43 jpg|thumb|With 15cm recoilless rifle]]
+
+It was decided to continue the project on such a vehicle, that could be equipped with heavier armor. S19 Sav M43  Landsverk responded by proposing an assault gun, based on the L-62 SPAAG chassis, but it did not meet the protection requirements. S19 Sav M43  Therefore, Landsverk made a new proposal, based on their new projected light tank, called Terro. S19 Sav M43  This proposal was however also rejected, as the weight of such a vehicle would likely exceed 15 tons and that the production of new chassis would take too long. S19 Sav M43  Instead, the new assault gun would be based on the Strv m/41 chassis. S19 Sav M43  In fact, this option had been tested in 1942 with a full scale wooden superstructure being built around a Strv m/41 prototype and in 1943, a functional prototype was ordered. S19 Sav M43 
+
+[[File:Pav_m43_prototype. S19 Sav M43 jpg|thumb|Pav m/43 prototype]]
+
+The prototype vehicle was ready by August of the same year. S19 Sav M43  It was designated Pansarartillerivagn m/43 (Pav m/43), but was later re-designated to Stormartillerivagn m/43 (Sav m/43). S19 Sav M43  It was equipped with the same 7,5cm Kan m/02 as the Stormpjäs fm/43, but only as stopgap measure, until a 10,5cm gun would be available. S19 Sav M43  In March 1944, a decision was taken to convert the remaining Strv m/41-SII from the production batch to assault guns. S19 Sav M43  A total of 36 vehicles was delivered between March 1944 and January 1945. S19 Sav M43  During 1945-1946, the vehicles received their 10,5cm guns. S19 Sav M43 
+
+[[File:Sav_m44_with_10,5cm. S19 Sav M43 jpg|thumb|Sav m/44 with 10,5cm]]
+
+When it entered service in 1944, the vehicle was relatively modern and completely sufficient for the infantry support role. S19 Sav M43  It was equipped with frontal armor of 50mm thickness and with 15mm side and rear armor. S19 Sav M43  It weighed 12 tons and had a 162hp engine, which gave it decent mobility with power-to-weight ratio of 13,5hp/t. S19 Sav M43  It could also reach the top speed of 45kph. S19 Sav M43  Its main drawback was perhaps its lack of a decent gun during WW2. S19 Sav M43  Later in its life, the vehicle had its engine replaced by a weaker 142hp engine, which was more reliable. S19 Sav M43  The vehicle was in service with the Swedish army until the 1970s when it was replaced by the Ikv 91. S19 Sav M43 
+
+There were however more projects derived from the Sav m/43. S19 Sav M43  In 1944, plans were made for a conversion of the Sav m/43 into a 10 ton tank destroyer. S19 Sav M43  The vehicle was to share the same chassis with the Sav m/43, but with the engine moved to the front and the superstructure to the rear. S19 Sav M43  The rear superstructure was to have an open rear part, which had a platform, that could be folded down, so the crew could service the gun. S19 Sav M43  The vehicle would be armed with the 7,5cm L/54 Pvkan m/43 anti-tank gun, or another gun of equal power. S19 Sav M43  This would give the vehicle the ability to fight most modern tanks of the time, while keeping the weight as low as possible. S19 Sav M43  In fact, the Sav m/43 prototype was converted to this configuration. S19 Sav M43 
+
+[[File:Tratoffelvagn_with_15cm_m44_Sav_recoilless_rifle. S19 Sav M43 jpg|thumb|“Trätoffelvagn” with 15cm m/44 Sav recoilless rifle]]
+
+The vehicle was tested between circa 1944-1945 and was initially armed with the 7,5cm Pvkan m/43, but it never entered production. S19 Sav M43  So, instead the prototype was trialled as a heavy assault gun with a 15cm m/44 Sav recoilless rifle. S19 Sav M43  This weapon fired a 40kg high-explosive shell, which was rather impressive. S19 Sav M43  The trials were however short, as it was quickly realized that the backblast of the weapon caused major problems. S19 Sav M43  Instead, the prototype would serve as a training vehicle for the Sav m/43 crews. S19 Sav M43  It is likely that it was during this time it received its nickname “Trätoffelvagn”, meaning clog wagon. S19 Sav M43  It is unclear as to what happened with the vehicle after this point, but I think it is safe to assume that it was used as a target at a firing range. S19 Sav M43 
+
+There is however yet another assault gun project, derived from the Sav m/43. S19 Sav M43  In late 1949, Bofors created a prototype for the next generation of assault guns. S19 Sav M43  The vehicle seems to have been private joint venture between Bofors and Landsverk and the result was a 20 ton vehicle, armed with a 120mm autoloader. S19 Sav M43  The vehicle was based on the same suspension, albeit extended, as the Sav m/43. S19 Sav M43  The vehicle had a 6 round autoloader 120mm gun, which had a muzzle velocity of 550m/s. S19 Sav M43  The gun could traverse 15 degrees to each side and could depress to -10 deg with an elevation of +25 deg. S19 Sav M43  It is unclear why this vehicle was never purchased, but it is possible that this was because of problems with the complexity and cost of the autoloader. S19 Sav M43 
+
+[[File:Bofors_12cm_Sav. S19 Sav M43 png|Bofors 12cm Sav]]
+
+|HistAcc=
+Has the same Scania Vabis 1664 engine as the [[Hetzer]], yet their horsepower and weight values are inconsistent. S19 Sav M43 
+
+|HistoricalGallery= 
+File:Sav_m43_picture. S19 Sav M43 jpg
+File:Preserved_sav_m43. S19 Sav M43 jpg{{!}}Preserved Sav m/43 at Arsenalen museum
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S19 Sav M43 wot-news. S19 Sav M43 com/2014/04/08/swedish-tanks-part-vi-sav-m43/
+* https://tanks. S19 Sav M43 mod16. S19 Sav M43 org/2014/02/05/considerations-regarding-self-propelled-105-mm-howitzer-1949/
+* https://www. S19 Sav M43 ointres. S19 Sav M43 se/sav_m43. S19 Sav M43 htm
+
+}}

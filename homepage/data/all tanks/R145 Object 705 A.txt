@@ -1,0 +1,49 @@
+{{TankData|Tank=Object 705A
+
+
+|Gallery= 
+
+
+|InTheGame_pros= 
+* Highest alpha damage among Russian heavy tanks, good gun handling
+* Ridiculously strong turret armor with virtually no weakspots
+* Hull sides are thick and covered with spaced armor, excellent for sidescraping
+* Good top speed and acceleration
+* Huge mass, thick armor and decent speed allow for effective ramming
+
+|InTheGame_cons= 
+* Poor rate of fire and DPM
+* Long aim time and bad accuracy
+* Bad gun depression
+* Rear-mounted turret makes the tank rather inflexible
+* HE shell damage is lower than average for a 152mm gun
+
+|InTheGame_performance=
+
+|InTheGame_research= 
+None required, the tank comes elite. R145 Object 705 A 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+File:Object_705_turret_and_122_mm_BL-13_gun. R145 Object 705 A jpg{{!}}Object 705 turret with the 152 mm M-51
+File:Object_705_Armor_profile. R145 Object 705 A jpg{{!}}Object 705 armor profile
+File:Object_705_profile_area_calculations. R145 Object 705 A jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://tankarchives. R145 Object 705 A blogspot. R145 Object 705 A com/2016/01/object-705. R145 Object 705 A html
+* https://tankarchives. R145 Object 705 A blogspot. R145 Object 705 A com/2017/08/soviet-rear-turret-tanks. R145 Object 705 A html
+* https://techwiki. R145 Object 705 A creativereactor. R145 Object 705 A ru/index. R145 Object 705 A php/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_705
+
+}}

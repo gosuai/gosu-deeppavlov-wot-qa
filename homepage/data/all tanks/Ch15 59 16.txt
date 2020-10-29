@@ -1,0 +1,64 @@
+{{TankData|Tank=Ch15_59_16
+|The First True Chinese Light Tank in Chinese line. Ch15 59 16  This tank weighs very little, and has weak armor to match, although its front is angled and rounded turret. Ch15 59 16  Unfortunately, both its stock view range and speed are subpar for a light tank. Ch15 59 16  After 9. Ch15 59 16 18 patch, This tank has only 2 guns left for use; the 57mm stock gun same as Type T-34, and the improved 76mm gun that has better alpha and penetration, but it lost its autoloading version in 9. Ch15 59 16 18 patch. Ch15 59 16 
+
+|Sidebar_GunAlt= 57 mm 55-57FG
+|Sidebar_Camostop=17. Ch15 59 16 4
+|Sidebar_Camomove=17. Ch15 59 16 4
+|Sidebar_Camofire=4. Ch15 59 16 6
+|Sidebar_Passhard=0. Ch15 59 16 767
+|Sidebar_Passmed=0. Ch15 59 16 863
+|Sidebar_Passsoft=1. Ch15 59 16 534
+|Sidebar_DispTurret=0. Ch15 59 16 115
+|Sidebar_DispRecoil=3. Ch15 59 16 356
+|Sidebar_DispAccel=0. Ch15 59 16 173
+|Sidebar_DispTurning=0. Ch15 59 16 173
+
+|InTheGame_pros= 
+
+* Good penetration and gun handling 
+* Compact size and low profile, very good camouflage
+* Very good agility, even for a light tank
+* Very long signal range with top radio (750 meters)
+
+|InTheGame_cons=
+
+* Poor accuracy and shell velocity
+* Poor view range
+* Bad gun depression
+* Modules and crew often damaged/injured
+
+
+|InTheGame_performance=
+The 59-16 fits your textbook definition of a scout tank. Ch15 59 16  It sports both excellent maneuverability and a tiny profile, allowing it to either perform as a passive scout or an active scout. Ch15 59 16  (Since 9. Ch15 59 16 18, passive scouting became harder because of the reduced view range. Ch15 59 16 ) The small size and agility of the 59-16 can let you drive around a map, lighting up enemy positions as you use the terrain to keep yourself as hidden as you can. Ch15 59 16  Equipping optics would be a great idea for this tactic. Ch15 59 16  The same traits can let you be the first player to spot from a forward position, letting your team take out enemy tanks before they even have a chance to fight back. Ch15 59 16  If you're doing this, it is best to hold your fire as well as bring along a camo net and some binoculars. Ch15 59 16 
+
+These excellent scouting traits come at a cost though, preventing you from doing most other tasks effectively. Ch15 59 16  Your 76mm gun will prove nearly useless against even some medium tanks, so avoiding combat is a must. Ch15 59 16  (The 76mm autoloader was removed in patch 9. Ch15 59 16 18). Ch15 59 16 
+
+However, now that the 76mm autoloader is gone, you'll have to time your runs carefully, even when cleaning up enemy tanks that are at low health. Ch15 59 16  It's premium ammo can pen almost all tanks within its matchmaker tier when fired at the sides or rear, as well as you will find it is often ignored by the higher tier tanks as they blow it off as not being able to pen them allowing you to get behind them, fire, and run away before they are even able to turn their turret. Ch15 59 16  Using the tank as a flanker late game is advised, owing to it's fast rate of fire and good maneuverability, which allows you to easily take heavy tanks by surprise and deal a respectable amount of damage before they turn their attention to you. Ch15 59 16 
+
+|InTheGame_research =
+For the tank, you should research the suspension first of all. Ch15 59 16  After that, go for the 76mm gun then the turret, then the radio for scouting. Ch15 59 16   
+You needn't worry about researching the Type 58 before getting the WZ-131, since they longer share any components. Ch15 59 16 
+|InTheGame_equipment=
+Coated Optics, Enhanced Gun Laying Drive, Medium-Caliber Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|Gallery=
+
+
+|History=
+
+59-16 Light Tank (simplified Chinese: 59-16式轻型坦克; traditional Chinese: 59-16式輕型坦克) was a former Chinese light tank design which was developed during the late 1950s, originally intended as one of the "tributes to the 10th anniversary of the founding of the PRC". Ch15 59 16  Within the design plans, the intended weight was planned to be approximately 16 mt with a 76 mm tank gun. Ch15 59 16  However, because this tank was too weak to fight against the western tanks at that time, it was eventually set aside by the military
+
+|HistoricalGallery=
+image:5916mockup. Ch15 59 16 jpg{{!}}A scale model of the 59-16 being presented to Marshal Zhu De, among others. Ch15 59 16 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. Ch15 59 16 wikipedia. Ch15 59 16 org/wiki/59-16_Light_Tank
+* https://view. Ch15 59 16 inews. Ch15 59 16 qq. Ch15 59 16 com/a/NEW2015021201919501
+
+}}

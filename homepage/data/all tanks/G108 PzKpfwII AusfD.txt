@@ -1,0 +1,57 @@
+{{TankData|Tank=G108_PzKpfwII_AusfD
+|The Pz. G108 PzKpfwII AusfD Kpfw. G108 PzKpfwII AusfD  II Ausf. G108 PzKpfwII AusfD  D was [https://worldoftanks. G108 PzKpfwII AusfD com/en/news/pc-browser/22/new-year-marathon-wz-111/ the 2015 New Year's gift tank]. G108 PzKpfwII AusfD   When put to paper, the II D appears somewhat mediocre in comparison to most other tier II tanks. G108 PzKpfwII AusfD   Most prominent among its shortcomings are its very poor AP shell penetration and thin armor (excluding the front hull). G108 PzKpfwII AusfD   Still, the II D benefits from a better top speed and improved maneuverability compared to its [[Tank:PzII|non-premium cousin]], and with patience and thoughtful positioning it is easily more than capable of pulling its weight. G108 PzKpfwII AusfD 
+
+|InTheGame_pros=
+* Good frontal hull armor
+* Large hitpoint pool
+* Good top speed and traverse speed
+* Good gun depression
+
+|InTheGame_cons=
+* Poor turret, hull sides, and hull rear armor
+* Very poor penetration
+* Sluggish due to low hp/t ratio
+* No preferential matchmaking
+
+|InTheGame_performance=
+The Pz. G108 PzKpfwII AusfD Kpfw. G108 PzKpfwII AusfD  II Ausf. G108 PzKpfwII AusfD  D's most noticeable feature is, unfortunately, its very poor penetration ability. G108 PzKpfwII AusfD   Its lackluster average penetration of 23mm with AP is the second least in the entire game and puts it behind even machinegun-armed tanks such as the [[T7 Combat Car]]. G108 PzKpfwII AusfD   Unlike the T7 though, the II D has the option to fire APCR rounds with an average 46mm of penetration. G108 PzKpfwII AusfD   Thus, it is expected to pull the weight of a standard tier II and gets standard tier II matchmaking (meaning it will occasionally be put into tier III games). G108 PzKpfwII AusfD   Though firing gold rounds will help to bypass the gun's poor AP penetration when needed, its inaccurate and rapid-fire nature means that doing so will often cost more money than the tank is capable of making. G108 PzKpfwII AusfD  Loading only gold will cost 72,000 credits if you spend all of them firing without a care. G108 PzKpfwII AusfD   On top of all this, the II D also doesn't get the benefit of the regular Pz II's thick armor. G108 PzKpfwII AusfD   The 30mm frontal hull armor is capable of bouncing off-angle, low-penetration shells, but elsewhere the II D's armor is thin and leaves it with very little protection (and will often be overmatched at odd angles by large guns). G108 PzKpfwII AusfD 
+
+With all this in mind, proper positioning of the II D is paramount to a successful game. G108 PzKpfwII AusfD   With its side or turret armor exposed for too long, enemy tanks will quickly chew through its large hitpoint pool. G108 PzKpfwII AusfD   When used to shoot at the front of many tanks with AP, the II D will often fail to do any meaningful damage. G108 PzKpfwII AusfD   The II D's good speed and maneuverability enable it to reposition when necessary and therefore allow it to stay protected while giving it the opportunity to take flanking shots on unwary enemies. G108 PzKpfwII AusfD   The II D works best as part of a cohesive team or platoon, working over distracted tanks and cleaning up weaker ones by trading hitpoints. G108 PzKpfwII AusfD 
+
+|InTheGame_research=
+All modules are researched with the tank. G108 PzKpfwII AusfD 
+
+|InTheGame_equipment=
+Vents, Coated Optics, GLD, Spall Liner
+
+|Gallery=
+
+File:Pz. G108 PzKpfwII AusfD Kpfw. G108 PzKpfwII AusfD  II Ausf. G108 PzKpfwII AusfD  D scr 1. G108 PzKpfwII AusfD jpg
+File:Pz. G108 PzKpfwII AusfD Kpfw. G108 PzKpfwII AusfD  II Ausf. G108 PzKpfwII AusfD  D scr 2. G108 PzKpfwII AusfD jpg
+File:Pz. G108 PzKpfwII AusfD Kpfw. G108 PzKpfwII AusfD  II Ausf. G108 PzKpfwII AusfD  D scr 3. G108 PzKpfwII AusfD jpg
+File:Pz. G108 PzKpfwII AusfD Kpfw. G108 PzKpfwII AusfD  II Ausf. G108 PzKpfwII AusfD  D scr 4. G108 PzKpfwII AusfD jpg
+File:ScreenshotpzIIausfd01. G108 PzKpfwII AusfD jpg
+File:ScreenshotpzIIausfd02. G108 PzKpfwII AusfD jpg
+File:ScreenshotpzIIausfd03. G108 PzKpfwII AusfD jpg
+
+
+|History=
+
+Panzer II Ausf. G108 PzKpfwII AusfD  D
+
+With a completely new torsion bar suspension with four road wheels, the Ausf. G108 PzKpfwII AusfD  D was developed as a tank for use in the cavalry divisions. G108 PzKpfwII AusfD  Only the turret was the same as the Ausf. G108 PzKpfwII AusfD  C model, with a new hull and superstructure design and the use of a Maybach HL62TRM engine driving a seven-gear transmission (plus reverse), giving a top road speed of 55 km/h (33 mph). G108 PzKpfwII AusfD  The design was shorter (4. G108 PzKpfwII AusfD 65 m) but wider (2. G108 PzKpfwII AusfD 3 m) and taller (2. G108 PzKpfwII AusfD 06 m) than the Ausf. G108 PzKpfwII AusfD  C. G108 PzKpfwII AusfD  A total of 143 Ausf. G108 PzKpfwII AusfD  D and Ausf. G108 PzKpfwII AusfD  E tanks were built from May 1938 through August 1939 by MAN, and they served in Poland. G108 PzKpfwII AusfD  They were withdrawn in March 1940 for conversion to other types since the cross country speed was much lower than previous models. G108 PzKpfwII AusfD 
+Starting with the D model, the front armour was also increased to 30 mm. G108 PzKpfwII AusfD  The 2 cm autocannon proved to be ineffective against many Allied tanks, and experiments were conducted with a view to replacing it with a 37 mm cannon, but nothing came of this. G108 PzKpfwII AusfD  Prototypes were built with a 50 mm tank gun, but by then the Panzer II had outlived its usefulness as a tank regardless of armament. G108 PzKpfwII AusfD  Greater success was had by replacing the standard 2 cm armour-piercing explosive ammunition with tungsten cored solid ammunition, but due to shortages of tungsten this ammunition was in chronically short supply. G108 PzKpfwII AusfD 
+
+<ref>https://en. G108 PzKpfwII AusfD wikipedia. G108 PzKpfwII AusfD org/wiki/Panzer_II</ref>
+
+|HistoricalGallery=
+
+|Ref_references=
+<references/>
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

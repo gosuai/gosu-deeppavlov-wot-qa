@@ -1,0 +1,75 @@
+{{TankData|Tank=Ch24_Type64
+|The first and the only tank that was designed and produced by Taiwan/Republic of China. Ch24 Type64  Comes with unique Kuomintang insignia on turret. Ch24 Type64  Unlike other light tanks, the Type 64 is excellent at hit and run and flanking enemy tanks, however due to its large size and paper-thin armor players need to act more carefully when scouting. Ch24 Type64 
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=15. Ch24 Type64 38
+|Sidebar_Camomove=15. Ch24 Type64 38
+|Sidebar_Camofire=3. Ch24 Type64 8
+|Sidebar_Passhard=0. Ch24 Type64 671
+|Sidebar_Passmed=0. Ch24 Type64 767
+|Sidebar_Passsoft=1. Ch24 Type64 63
+|Sidebar_DispTurret=0. Ch24 Type64 077
+|Sidebar_DispRecoil=3. Ch24 Type64 356
+|Sidebar_DispAccel=0. Ch24 Type64 115
+|Sidebar_DispTurning=0. Ch24 Type64 115
+
+|Gallery=
+
+File:Type 64 scr 1. Ch24 Type64 jpg
+File:Type 64 scr 2. Ch24 Type64 jpg
+File:Type 64 scr 3. Ch24 Type64 jpg
+File:Type 64 screen 1. Ch24 Type64 jpg
+File:Type 64 screen 2. Ch24 Type64 jpg
+
+
+|InTheGame_pros=
+- Decent accuracy, also good dispersion on the move
+
+- Best view range on any tier 6 light (390 m)
+
+- Great mobility and one of the highest top speeds (72km/h) in tier. Ch24 Type64 
+
+- Superb gun depression of 10 degrees
+
+- Very fast rate of fire with decent penetration
+ 
+
+|InTheGame_cons=
+- Large size can make active scouting difficult. Ch24 Type64 
+
+- Tied with M24 Chaffee for low ammo capacity relative to its firing rate (45 rounds @ 18 shots per minute). Ch24 Type64  Ammo can be depleted in long games. Ch24 Type64  The ammo rack itself gets frequently taken out as well. Ch24 Type64 
+
+- Open turret and paper-thin armor makes it very vulnerable to even small-to-mid calibre HE. Ch24 Type64 
+
+- Crew layout does not match any other Chinese light tank due to the 5-men crew with dedicated Radio Operator. Ch24 Type64 
+
+- Slow turret rotation for a light tank. Ch24 Type64 
+
+
+|InTheGame_performance= The Type 64, while fully capable of fighting other tanks, still makes an excellent scouting tank. Ch24 Type64  Though the large profile can make moving around the map undetected difficult, using terrain and your high speed can keep you from taking damage. Ch24 Type64  Take advantage of high view range and on-the-move camouflage to spot enemy tanks while staying just outside their view range. Ch24 Type64   
+
+Once the game has progressed and there are damaged tanks about, you can choose to either flank isolated tanks and destroy them with your high rate of fire or provide a distraction while your allies swoop in and take them out without trouble. Ch24 Type64   The Type 64 possesses excellent on the move accuracy, though you should also make sure that you do not get carried away and take too many pot-shots as thanks to your fast reload speed, the available 45 rounds can disappear fast. Ch24 Type64 
+
+|InTheGame_research= None required, premium tank
+
+|InTheGame_equipment=Coated Optics, Vertical Stabilizer, Tank Gun Rammer
+
+|External_Reviews= 
+{{#ev:youtube|JLvZK_kGmpY}}
+
+|History=
+
+https://en. Ch24 Type64 wikipedia. Ch24 Type64 org/wiki/Type_64_(tank)
+
+|HistoricalGallery=
+image:type64photo1. Ch24 Type64 jpg
+image:type64photo2. Ch24 Type64 jpg
+image:type64photo3. Ch24 Type64 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

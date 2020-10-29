@@ -1,0 +1,93 @@
+{{TankData|Tank=E-75
+|The first heavy tank in the Entwicklung series, this tank has thick frontal armor that comes with excellent sloping at the front. G55 E-75  Stock, it is armed with the inadequate 8. G55 E-75 8 cm KwK 43 L/71, but can also use the 10. G55 E-75 5 cm KwK 46 L/68 from the [[Tank:G16 PzVIB Tiger II|Tiger II]], so make sure to research it before using the E-75, unless you want a terrible grind. G55 E-75  Eventually, you will have access to the very powerful 12. G55 E-75 8 cm KwK 44 L/55 that packs a sizable punch up close or afar, albeit being relatively unreliable at range (in contrast to earlier tanks). G55 E-75  As such, owing to the great armor and devastating weaponry, it is an excellent brawler, perhaps the perfect definition of one for Tier 9. G55 E-75  The E-75 has sluggish acceleration, making it difficult to move around. G55 E-75  While the E-75 is one of the easier tanks to flank, it is still harder to damage once flanked thanks to its relatively thick side armor. G55 E-75  
+Speed and agility aside, it is a versatile tank. G55 E-75  You can be a close range brawler relying on your brutish armor and firepower to keep you alive, but due to the poor vision, merely average penetration, poor gun handling, and low DPM, sniping like previous tanks is unadvisable. G55 E-75  The E-75 is one of the most dynamic heavies of its tier, with thick hull and turret armor coupled with an excellent gun. G55 E-75  In situations in which your armor does not hold out against enemy fire, you have enough hitpoints to last while you're under fire. G55 E-75 
+
+|InTheGame_pros=
+* Very strong armor profile that rewards angling/sidescraping
+* Surprisingly decent mobility for such a heavy vehicle
+* A very heavy tank, can deal massive ramming damage
+* Large caliber, hard hitting 12,8cm gun with high alpha damage and good penetration
+* Good gun depression 
+
+|InTheGame_cons=
+* Lower than average DPM for its tier
+* Fairly inaccurate for a German heavy
+* Large target with poor camouflage, difficult to hide
+* Large, vulnerable lower glacis with the transmission behind it
+* Plays differently compared to its predecessors, more of a brawler than a sniper
+
+|InTheGame_performance=
+With strong armor (especially at the sides, which makes it very good for side-scraping), a powerful gun, and decent maneuverability for its size, the E-75 is a highly capable tank. G55 E-75  It looks very similar to its predecessor Tiger II up-armored and up-gunned to tier 9. G55 E-75 
+
+The tank has a very high silhouette, so don't expect to do much hiding. G55 E-75  The top gun reloads very slowly, so make every shot count and aim carefully before each shot. G55 E-75  The turret rotates very slowly so any medium tank can out-circle the E-75. G55 E-75  However the E-75 hull traverses slightly faster than both the [[Pz. G55 E-75 Kpfw. G55 E-75  Tiger II|Tiger II]] and considerably faster than the [[E-100]]. G55 E-75  Traversing your hull along with your turret helps you keep up with fast enemies if they get too close. G55 E-75 
+
+However, in the top tier, E-75 is a perfectly balanced machine, whose presence in the list should make any opponent nervous. G55 E-75  Very few opponents can penetrate your armor frontally without hitting weak spots. G55 E-75 
+
+The E-75 has a transmission hit-box that is placed to the front (E-75 is based on Tiger II and its power-train), so it might suffer engine damage from frontal hits. G55 E-75  However it is still less prone to this than other German heavies due to relatively well-armored lower frontal plate (especially angled), preventing penetrations in the first place. G55 E-75 
+
+The tank is very sensitive to the splash damage from artillery, not to mention a direct hit. G55 E-75  It would be very useful to have the E-100's screens, but in their absence, this tank must rely on abusing hard cover in urban settings, its preferred environment anyways. G55 E-75 
+
+When fighting very strong opposition, "hull down" or "American" tank tactics can be used: hide the hull or even only the lower glacis behind a hill, stones or dead tank and shoot enemies from a distance. G55 E-75  One can also "wiggle" the turret back and forth while reloading to make your vulnerable commander's cupola a harder target to hit. G55 E-75  In general though, short of a few Tier 9 and 10 tanks shooting HEAT ammunition (T-54 and Obj. G55 E-75  268 come to mind), the frontal plate is nigh-invulnerable, and in a proper side-scrape, nothing should ever touch you except for HE. G55 E-75 
+
+The E-75 is a good tank to side-scrape with as well, especially if you can find a corner where you are leaving your left side behind cover, as that will keep your commanders hatch from being hit at all. G55 E-75   The tracks on the E-75 will eat a lot of shots while side scraping, but few of them will track you if you are angled correctly; the tracks will just act as spaced armor. G55 E-75 
+
+It must be noted that the E 75 does differ radically from the play-style of the [[Pz. G55 E-75 Kpfw. G55 E-75  VI Tiger|Tiger I]] and [[Pz. G55 E-75 Kpfw. G55 E-75  Tiger II|Tiger II]], in that both of those were primarily snipers who relied on their long-range DPM-based fire-power for most of the game and used their HP pools at the end to take hits and push. G55 E-75  In contrast, the E 75 is an in-your-face brawler that leads charges and holds corners. G55 E-75  In more than one way, it's their antithesis. G55 E-75 
+
+However, it ''can'' still snipe, but to a lesser degree than its predecessors. G55 E-75  Only do this if you have a very steady aim and a sure shot on a target, that is, their entire hull (or most of it) is within reach of the mighty lethal 128mm. G55 E-75  With the 105mm of the Tiger II, the E75's flexibility is at its most pronounced, but it can feel lacking in the penetration department against tier 10s. G55 E-75 
+
+|InTheGame_research=
+* All the guns from the Tiger II carry over and can be installed immediately. G55 E-75 
+* The first thing you should research is the upgraded suspension. G55 E-75 
+* From there the turret is a great next step, as you need it for the gun. G55 E-75 
+* The gun is what makes the tank, and if you have the free experience, I would highly advise using it up to here
+* Next, research the engine; after the changes, the stock engine isn't as bad, but great mobility is still useful
+* If the top radio is not yet researched, research that and put it on. G55 E-75 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Vertical Stabilizer
+
+|External_Reviews= 
+{{#ev:youtube|lR4DmSpQD5o}}
+
+|Gallery=
+image:E-75 front view 1. G55 E-75 jpg {{!}}E-75 front left view
+image:E-75 front view 2. G55 E-75 jpg‎{{!}}E-75 front right view
+image:E-75 back view 1. G55 E-75 jpg‎{{!}}E-75 back left view
+image:E-75 back view 2. G55 E-75 jpg‎{{!}}E-75 back right view
+image:E75game1. G55 E-75 jpg‎{{!}}E-75, Murovanka map
+
+|History=
+The E-75 Standardpanzer was intended to be the standard heavy tank to be used as a replacement of the [[Pz. G55 E-75 Kpfw. G55 E-75  Tiger II|Tiger II]] and [[Jagdtiger]]. G55 E-75  The E-75 would have been built on the same production lines as the [[E-50]] for ease of manufacture, and the two vehicles were to share many components, including the same Maybach HL 234 engine. G55 E-75  The E-75 would have had much thicker armour however, and in fact compared to the Tiger II the E-75 had improved hull armour all round. G55 E-75  As its name indicates, the resulting vehicle would have weighed in at over 75 tonnes, reducing its speed to around 40 km/h. G55 E-75  To offset the increased weight, the bogies were spaced differently than on the E-50, with an extra pair added on each side, giving the E-75 a slightly improved track to ground contact length. G55 E-75 
+
+According to some sources, the similarities between the E-50 and the E-75 went further; they were to be equipped with the same turret and 88mm L/71 or L/100 gun, along with an optical rangefinder for increased long range accuracy (German scientists and engineers had successfully designed a 'schmal' or narrow turret and infra-red lighting and sights for use on the prototype Panther F as the war drew to a close). G55 E-75  Other sources however, indicate that the E-75 was to be fitted with the much larger Tiger II turret, which could be adapted to accommodate an even more powerful high velocity 10. G55 E-75 5 cm gun. G55 E-75 
+
+|HistoricalGallery=
+image:E-50 and E-75 Hull and Chassis. G55 E-75 jpg{{!}}E-50 and E-75 Hull and Chassis Technical Drawing
+
+|HistAcc=
+Contrary to the in-game description, no blueprints of the E-75 exists. G55 E-75 
+*The E-75 was an incomplete project, of which no historical records of its armour or design specifications exist. G55 E-75 
+*Its only intended turret and armament are the Tiger II Serienturm and 8,8 cm Kw. G55 E-75 K. G55 E-75  43 L/71 respectively. G55 E-75 
+*The 10,5 cm gun was developed only for the Tiger II, not the E-75. G55 E-75 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. G55 E-75 wikipedia. G55 E-75 org/wiki/E-75_Standardpanzer
+
+
+|Sidebar_Camostop=4. G55 E-75 3
+|Sidebar_Camomove=2. G55 E-75 3
+|Sidebar_Camofire=0. G55 E-75 9
+|Sidebar_Passhard=1. G55 E-75 055
+|Sidebar_Passmed=1. G55 E-75 151
+|Sidebar_Passsoft=2. G55 E-75 11
+|Sidebar_DispTurret=0. G55 E-75 173
+|Sidebar_DispRecoil=2. G55 E-75 877
+|Sidebar_DispAccel=0. G55 E-75 211
+|Sidebar_DispTurning=0. G55 E-75 211
+}}

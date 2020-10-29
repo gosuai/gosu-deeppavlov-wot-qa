@@ -1,0 +1,78 @@
+{{TankData|Tank=KV-1s
+|The KV-1S has an interesting history in World of Tanks. R13 KV-1s  Starting as the only way to access the [[IS]] from the heavy line in 0. R13 KV-1s 7. R13 KV-1s 3, it was then moved down to Tier 5 and replaced by the KV-85 in 0. R13 KV-1s 9. R13 KV-1s 3, only to once again take its place as one of the Tier 6 Soviet heavy tanks in update 1. R13 KV-1s 9, though now without access to the 122 mm gun that once made it infamous. R13 KV-1s  This tank trades in some of the KV-1's armor for improved mobility, allowing it to spearhead assaults and deal quite a bit of damage with either of its top guns. R13 KV-1s 
+
+|Gallery=
+image:KV1S-a. R13 KV-1s jpg{{!}}Front Right
+image:KV1S-b. R13 KV-1s jpg{{!}}Front Left
+image:KV1S-c. R13 KV-1s jpg{{!}}Rear Right
+image:KV1S-d. R13 KV-1s jpg{{!}}Rear Left
+
+
+|InTheGame_pros=
+* One of the most mobile of the tier 6 heavies
+* Choice of two guns: a fast-firing 85 mm for medium to long range engagements, or a fearsome but inaccurate 122 mm howitzer
+* Best DPM of all Tier 6 heavies when using the 85 mm
+* Excellent at the "peek-a-boom" tactic
+
+|InTheGame_cons=
+* Somewhat poor view range for its tier
+* Joint weakest armor of the Tier 6 heavies
+* Catches fire easily due to fuel tanks along most of the sides of the tank
+* Mediocre penetration and very poor gun depression (buffed from 3. R13 KV-1s 5 to 5 as of 1. R13 KV-1s 9. R13 KV-1s 1)
+* Bad stock grind
+
+|HistAcc=
+Has the same ZiS-5 gun as the [[KV-220-2]]. R13 KV-1s  However, their penetration values are inconsistent. R13 KV-1s 
+
+|InTheGame_performance=
+This tank can be quite tricky to play for those who come straight from the [[KV-1]] as it uses a completely different play style from its predecessor. R13 KV-1s  It makes a good front line tank, as its speed and maneuverability allow it to move to where its gun is most needed. R13 KV-1s  If you support a medium flank, you can use the mediums as a distraction to take on the targets they cannot reliably defeat, or give them the added fire power they need to break through. R13 KV-1s  Learn what you can out maneuver, and what you can engage head on. R13 KV-1s  When in the right hands, this tank easily makes up for its shortcomings and offers invaluable practice in learning to drive and operate the IS tank series. R13 KV-1s 
+
+Be aware, however, that this tank is not meant to fight at long range. R13 KV-1s  Its long aim time, bad accuracy, and long reload will have you pulling hair out if you try to take on German tanks at range. R13 KV-1s  However, don't be afraid to scope in and shoot if you have a clear, safe shot. R13 KV-1s  
+
+Overall, stick to your strength - close range, urban combat fighting and you will come out victorious. R13 KV-1s  But if you see a full HP tier 4 in the sights, don't be afraid to show them one big reason why that is often considered the worst tier in the game. R13 KV-1s 
+
+*NOTE: As of Update 1. R13 KV-1s 9. R13 KV-1s 1 the KV-1S received minor buffs: the gun depression was increased from 3. R13 KV-1s 5 degrees to 5 degrees, the aiming circle spreads out less after firing, and the turret rotates about 3 degrees per second faster. R13 KV-1s 
+
+
+|InTheGame_research=
+* The '''10RK''' radio transfers over from the [[KV-1]] and should be installed immediately. R13 KV-1s 
+* Prioritize the '''85 mm S-31M''' for a much needed gun upgrade. R13 KV-1s 
+* Then, research the '''V-2IS''' engine for a nice boost to mobility. R13 KV-1s 
+* Research the '''KV-122 mod. R13 KV-1s  1944''' turret for a slight boost to view range and HP. R13 KV-1s 
+* Research either the '''122 mm Howitzer S-41''' for a different playstyle or the '''KV-1S mod. R13 KV-1s  1943''' suspension for a slight boost to mobility. R13 KV-1s 
+* Research whichever module you didn't choose previously. R13 KV-1s 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD
+
+|History=
+According to one of the KV-1's designers: "During 1942 we were still in need of a reliable heavy tank. R13 KV-1s  That's why we were defeated in Crimea and at Kharkov. R13 KV-1s  The KV-1 completely discredited the concept of a heavy tank". R13 KV-1s 
+
+Some Red Army high commanders demanded that all production of heavy tanks be stopped. R13 KV-1s  Others suggested development of an "universal tank", something between heavy and medium tank. R13 KV-1s  By the way, in the 1960's-1970's tank designers around the world came to the conclusion that it was the right decision. R13 KV-1s 
+
+Soviet tank builders tried to develop such a tank. R13 KV-1s  This tank was named the KV-13. R13 KV-1s  It contained many brilliant ideas (some of those ideas were applied in the IS-2 tank), however it never served in the Red Army. R13 KV-1s 
+
+At this time, a new decision was made to fully re-design KV-1. R13 KV-1s  Soviet tank designers wanted to develop a new KV with lighter armor and higher speed and maneuverability like T-34 Medium Tank. R13 KV-1s  The new tank was named KV-1S where "s" letter means "skorostnoy" or "speed". R13 KV-1s  The KV-1S was lighter than its predecessor by up to 5 tons. R13 KV-1s  The thickness of the frontal armor was lowered from 90 mm to 75 mm. R13 KV-1s  The rear hull was re-designed. R13 KV-1s  The existing road wheels were replaced with newer, lighter ones. R13 KV-1s  The KV-1's transmission was re-designed as well. R13 KV-1s 
+
+The old gear-box was replaced with a new one and the tank received a new turret with a commander's cupola (the first Soviet tank with a commander's cupola was T-50 Light Tank). R13 KV-1s  Both ZIS-5 or F-34 tank guns could be mounted in this turret. R13 KV-1s  In addition, the new tank was armed with four machine-guns: a coaxial MG, a bow MG, an AA machine-gun, and a MG in the rear of the turret. R13 KV-1s  Also, new tracks (608 mm width) were designed specially for this tank. R13 KV-1s 
+
+In the summer of 1942, the KV-1S prototype was tested. R13 KV-1s  On August 20, 1942, the production of this tank had begun. R13 KV-1s  However, when the KV-1S appeared in the war theatre, the Red Army was already in need of a tank with thicker armor and better protection. R13 KV-1s  A total of 1370 KV-1S were built. R13 KV-1s  In April 1942 its production was cancelled. R13 KV-1s  Many tanks were sent in tank brigades because the reorganization of the Red Army had not begun yet. R13 KV-1s  The KV-1S took part in all major operations of the Red Army including Siege of Berlin. R13 KV-1s 
+
+|HistoricalGallery=
+
+image:Kv1s_german. R13 KV-1s jpg
+File:KV_1S_with_S-41_122mm_howitzer. R13 KV-1s jpg{{!}}KV-1S with 122mm S-41 howitzer
+File:KV-1S_with_85mm_S-31_gun. R13 KV-1s jpg{{!}}KV-1S with 85mm S-31 gun
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* https://tankarchives. R13 KV-1s blogspot. R13 KV-1s ca/2013/10/s-41-122-mm-howitzer-project. R13 KV-1s html
+* https://english. R13 KV-1s battlefield. R13 KV-1s ru/kv-1s. R13 KV-1s html
+
+}}

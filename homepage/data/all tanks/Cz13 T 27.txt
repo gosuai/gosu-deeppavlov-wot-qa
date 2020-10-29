@@ -1,0 +1,40 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* 3-shot autoloader with very fast intra-clip reload
+* Good acceleration 
+* Good gun depression and elevation
+* Has a dedicated loader
+
+|InTheGame_cons= 
+* Long clip reload for a mere 720 average damage per burst
+* Subpar AP (standard) penetration 
+* Poor gun handling, also aim time is longer than intra-clip reload
+* Weak armor, expect nothing but lucky ricochets
+
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

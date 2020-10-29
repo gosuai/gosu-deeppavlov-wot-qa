@@ -1,0 +1,116 @@
+{{TankData|Tank=
+|Combining exceptional firepower with a relatively cumbersome, poorly-armored, and slow platform, the KV-2 is one of the most unique and fun tanks in the game. R77 KV2  With its 152 mm howitzer, it is a dangerous opponent against anything it is likely to face, dealing heavy damage or crippling modules of even heavily armored tanks using its powerful high explosive rounds. R77 KV2  However, it is itself quite vulnerable to most guns it is likely to face, and has its own weaknesses to balance. R77 KV2 
+
+|Gallery=
+
+|InTheGame_pros=
+
+- 152mm HE can one-shot, do massive damage, cripple multiple modules and damage through any armour. R77 KV2  Near misses damage, too. R77 KV2 
+
+- HE shell has high penetration (86) for its type, can fully penetrate surprisingly many targets. R77 KV2  
+
+- While overall armor is mediocre, the side armor is relatively thick and can be used to bait shots. R77 KV2 
+
+- Useful against ANY tier enemies; lower and same tier tanks can be 1-shotted, higher ones crippled. R77 KV2 
+
+- Sniping stationary or slow targets works with HE, since you only need to hit (anywhere) to do damage. R77 KV2 
+
+- Despite its hard stats, the gun tends to hit often without fully aiming, even when snapshotting (guided by the hand of Stalin)
+
+- Fear factor: Nobody wants to be the first around a corner if they know a locked and loaded KV-2 is waiting for them!
+
+- It can be used to shift USSR research line from IS line to KV line and SPGs line. R77 KV2 
+
+- 152 mm caliber means that AP shells can overmatch a whopping 50 mm of armor, which is a common thickness at tiers 4-6
+
+- HE shells are cheap in comparison with the average damage they do, so this tank can earn nice credits if played right
+
+- Very fun and deadly vehicle to play, especially in well-coordinated platoons
+
+|InTheGame_cons=
+
+- Weak overall armor, with huge and soft turret
+
+- Agonizingly slow reload (approx. R77 KV2  20 sec) and long aim time
+
+- Very tall silhouette; easy to hit, but hard to hide
+
+- Bad gun depression
+
+- Bad camo and view range, gets easily spotted
+
+- Fear factor: gets focused often by artillery and other tanks due to soft armor but dangerous gun
+
+- Poor AP penetration on 152mm, only useful against lower tiers
+
+- Slow shell velocity on 152mm, hitting moving targets at range is very hard
+
+- Slow turret and hull traverse, with mediocre overall mobility
+
+- Fuel tanks get damaged very easily, and often catch fire as a result
+
+|InTheGame_performance=
+The KV-2 remains among the most fun tanks to play in the game. R77 KV2  It was the undisputed king of "derp" for a long time, but starting patch 9. R77 KV2 10, a bigger tank with a similar gun, the [[O-I]], has challenged it to the title. R77 KV2  The title is still being disputed, with fights between both tanks often. R77 KV2  In the hands of a skilled player, it's a vehicle to be feared of by all tiers that come across it. R77 KV2  It can be a difficult tank to take advantage of to the new players. R77 KV2  It has a very tall profile, a huge turret and the hull and armor rating of the KV-1, which makes bouncing shots from many other tanks very hard. R77 KV2  However, clever use of side scraping and angling of the square turret when not taking shots can enhance the armor enough to bounce the odd shell. R77 KV2  Some players may want to use the 107mm which has consistent penetration, decent alpha and a good rate of fire. R77 KV2  However, this gun is much better suited to T-150 which has better armor, and it feels like a waste on this tank. R77 KV2  
+
+Which brings us to the excellent 152mm, and the reason why people go out of their way to research and purchase this tank. R77 KV2  It has similar damage to many tier X (!!!) 150mm guns when they use HE (that's why it is sometimes called "the best tier X of tier six"). R77 KV2  For example, it has similar HE damage and penetration to 60TP and E100 and even higher damage than 705A (all of which are tier X heavies!!), so this can be used favourably to a great extent, even when bottom tier. R77 KV2 
+
+The AP penetration is weedy (110/136), meaning you'll have to aim for weak spots and be reasonably close to punch through enemy tanks, or use it only when you are top tier, so you can overmatch armor for full damage regardless of impact angle. R77 KV2  But in general, HE shells are much better allround option, as just hitting a tank will cause considerable damage even if the shot does not fully penetrate, regardless of tier. R77 KV2  A non-penetrating shot yields 330 dmg on average, but this is massively inconsistent and depends hugely on the thickness of armor at the point of impact. R77 KV2  The mantle of the T29, for example, will probably only do around 80hp, so it is still a good idea to aim for weaker parts if you have such opportunity. R77 KV2  With 86mm of penetration for the HE, going through the sides and rears of enemy tanks is pretty easy. R77 KV2  You can one-shot an enemy KV-2 with ease, even frontally, if you know where to aim. R77 KV2  Try to avoid spaced armor and tracks if you want to guarantee the full 910HP average damage. R77 KV2 
+
+A good hit with HE will not only remove a huge chunk of hit points; it will also kill crew and damage multiple modules of any tank, if it doesn't outright kill them in 1 shot. R77 KV2  Interestingly enough, using HE in the 152mm also turns the KV-2 into a great tank for just hurling shells downrange where enemies commonly peek out (similar to artillery); do not be surprised if you actually manage to blindly one-shot opponents in this manner. R77 KV2 
+
+Once you've fired, find some cover as you need to wait roughly 20 seconds for your gun to reload. R77 KV2  You'll be extremely vulnerable at this point and the enemy knows this, so make use of hard cover and/or your teammates while you reload. R77 KV2  Never go alone in this tank, as you can and will quickly get swarmed immediately after you take a shot. R77 KV2  Try to avoid facehugging the enemy because your turret is tall and quite soft; you may not be able to gain the depression required to hit the softer parts of their tanks, and your HE will also damage yourself in point-blank range. R77 KV2 
+
+Avoid open ground unless you know its clear, the KV-2 will be easily spotted and quickly destroyed. R77 KV2  It is a pure city fighter with bad view range. R77 KV2  Play this tank wisely and you will be able to contribute to the victory of your team against virtually any enemy you encounter. R77 KV2  
+|InTheGame_research=
+The 10RK radio and V2-K engine are already researched from the KV-1. R77 KV2  Research the 152mm first because the stock suspension and turret allow for the cannon to be mounted. R77 KV2  After that, get the turret for better view range, hit points and traverse speed. R77 KV2  The engine should follow for a boost in power and finally the tracks to ensure your you can turn a little better. R77 KV2 
+
+|InTheGame_equipment=GLD, Vents, Large-Caliber Tank Gun Rammer
+
+|History=
+When the Soviets entered the Winter War, the KV was among the tanks sent to be tested in combat conditions. R77 KV2  The KV outperformed others. R77 KV2  It's heavy armor proved highly resistant to Finnish anti-tank weapons, making it more difficult to stop. R77 KV2  However, the Soviets found it difficult to deal with the concrete bunkers used by the Finns and a request was made for a tank with a large howitzer. R77 KV2  One of the rush projects to meet the request put the howitzer in a new turret on one of the KV tanks. R77 KV2  The 152 mm howitzer one as KV-2 Heavy Artillery Tank. R77 KV2 
+
+During the Battle of Raseiniai (23–27 June 1941)German forces encountered a unit equipped with the Soviet KV heavy tanks for the first time. R77 KV2  The Germans' Panzer 35(t) tanks and antitank weapons were practically ineffective against the Soviet heavy tanks—some of them were out of ammunition, but closed with and destroyed German antitank guns by literally driving over them. R77 KV2  Attempts to destroy these armoured giants concentrated on first immobilising them by firing at their tracks and then by tackling them with artillery, AA Guns, or by blowing them up at close range by high explosive charges of the Sticky Bomb type
+
+On June 24, a single KV-2 heavy tank, at a crossroads in front of Raseiniai, managed to cut off elements of the 6th Panzer Division which had established bridgeheads on the Dubysa. R77 KV2  It stalled the Division's advance for a full day while being attacked by a variety of antitank weapons, until it finally ran out of ammunition. R77 KV2 
+
+When production shifted to the Ural Mountains 'Tankograd' complex, the KV-2 was dropped. R77 KV2  While impressive on paper, it had been designed as a slow-moving bunker-buster. R77 KV2  It was less useful in highly mobile, fluid warfare that developed in World War II. R77 KV2  The turret was so heavy it was difficult to traverse on uneven terrain. R77 KV2  Finally, it was expensive to produce. R77 KV2  Only about 300 KV-2s were made, all in 1940-41. R77 KV2 
+
+Variants:
+
+Designation of the two models varies between sources and can be confusing. R77 KV2  The earlier model of the KV-2 had a turret with a sloped front with rivets and only featured one DT machine gun in a hull mount. R77 KV2  It weighed 53. R77 KV2 8 tons, and was the lesser produced model. R77 KV2  In German sources, this variant is referred to as the KW-II. R77 KV2   This model is sometimes erroneously called the KV-2 M1939 or KV-2 M1940. R77 KV2  The turret is often wrongly called the MT-1, but that is the designation of the gun mount, not the turret. R77 KV2  Sometimes the MT-10 designation is also wrongly used for the turret, and this seems like a mix of the mount name and the gun name (MT-1 + M-10). R77 KV2  The turret was actually simply called “big turret” (большой башней). R77 KV2 
+
+The later variant of the KV-2 featured the more common and boxy turret, featuring a second DT machine gun in a rear mount, and an improved rear turret hatch that made resupplying ammunition easier. R77 KV2  The armor was kept the same, but thanks to the removal of the angled turret front, it had a much roomier crew turret, meaning that working conditions were better for the crew, especially the loaders. R77 KV2  In German sources, this variant is referred to as the KW-2B or KW-IIB. R77 KV2  It is sometimes wrongly designated as the KV-2A, KV-2 M1940, KV-2 M1941 or KV-2B. R77 KV2  The turret is often erroneously called the MT-2, seemingly as a progression over the wrong MT-1 designation of the previous turret. R77 KV2  The turret was also simply called “reduced turret” (пониженная башня). R77 KV2 
+
+Very few early production models were fitted with the 122 mm (4. R77 KV2 8 in) 1938 L/22. R77 KV2 7 howitzer fitted to the earlier turret. R77 KV2  The number produced is unknown, but were very limited before they were upgunned with the 152 mm (5. R77 KV2 98 in) howitzer. R77 KV2 
+
+An unknown number of KV-2s were captured by the Wehrmacht. R77 KV2  They were sent to Berlin for tests before they were fitted with a new commander’s cupola and sent back to the front line. R77 KV2  These were designated (Sturm)Panzerkampfwagen KV-II 754(r) and were often used for artillery observation due to their height. R77 KV2 
+
+Perhaps the most interesting variant was a KV-2 armed with a 107 mm (4. R77 KV2 21 in) gun. R77 KV2  This was during a time when the superheavy tank concept was still being considered by Soviet leadership. R77 KV2  There were no plans to serially produce a KV-2 with a 107 mm gun. R77 KV2  Instead, just before the Siege of Leningrad, a KV-2 with a 107 mm gun was made and sent for fire testing in March, 1941. R77 KV2  The 107 mm gun was going to be mounted on vehicles such as the KV-3, KV-4, and KV-5, but none of these projects left the drawing board as a result of the Siege of Leningrad. R77 KV2  All 107 mm guns were destroyed and work on superheavy tanks was stopped. R77 KV2 
+
+|HistoricalGallery=
+File:KV-2_Technical_Drawing. R77 KV2 jpg
+image:KV2HG1. R77 KV2 jpg
+image:KV2HG1. R77 KV2 png
+image:Dfe3d8da88fd. R77 KV2 jpg{{!}}KV-2 fitted with the 107mm gun, intended for the KV-3, KV-4, and KV-5
+File:KV-2_prototype_U-3_in_February_1940. R77 KV2 jpg{{!}}KV-2 prototype U-3 in February 1940
+File:Technical_Drawing_of_KV-2,_U-3_preseries_prototype. R77 KV2 jpg{{!}}U-3 technical drawing
+File:Preserved_KV-2_at_the_Central_Museum_of_Russian_Armed_Forces,_Moscow. R77 KV2 jpg{{!}}Preserved KV-2 at the Central Museum of Russian Armed Forces, Moscow
+
+|HistAcc=
+The 122 mm U-11 was never used by the KV-2 as the gun was developed after most were destroyed, captured or phased out. R77 KV2  However, some early KV-2's were equipped with the 122 mm 1938 L/22. R77 KV2 7 howitzer, though they were upgunned to the 152 mm howitzer. R77 KV2 
+* Early KV-2's were equipped with the unavailable 152 mm 1938/1940 L20 Howitzer. R77 KV2 
+* The top speed of the KV-2 was only 25 km/h on road and 12 km/h off road. R77 KV2 
+* The KV-2's turret could only traverse on relatively flat ground. R77 KV2 
+* Although there were plans for a new turret that featured -7°, it was never built and the second turret featured -5° just like the first
+* The KV-2 was only equipped with the 500 hp diesel engine. R77 KV2  The other engine configurations are fake. R77 KV2 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+*https://www. R77 KV2 tanks-encyclopedia. R77 KV2 com/ww2/soviet/soviet_KV-2. R77 KV2 php
+*https://www. R77 KV2 youtube. R77 KV2 com/watch?v=CunMPmL6Yxs
+*https://en. R77 KV2 wikipedia. R77 KV2 org/wiki/Kliment_Voroshilov_tank
+
+}}

@@ -1,0 +1,55 @@
+{{TankData|Tank=DW_II
+|Often called as "Douchbagwagen". G90 DW II A fat tank, one of the most underrated for its poor mobility and awful gun selection. G90 DW II  It is however not terrible - just takes some getting used to - and plays a lot like a KV-1, if always fighting in a high tier match when the gun is less useful. G90 DW II  Sidescrape often by reversing; and do not peek out with the awful front armour, both glacis and turret are essentially aluminium sheets in the shape of a tin can. G90 DW II  Once you cover the front, it plays a lot more like its cousins - just wait for the excellent guns of the rest of the Henschel range!
+
+|Gallery=
+File:Durchbruchswagen 2 scr 1. G90 DW II jpg
+File:Durchbruchswagen 2 scr 2. G90 DW II jpg
+File:Durchbruchswagen 2 scr 3. G90 DW II jpg
+
+|InTheGame_pros=
+*Tier V maximum matchmaking
+*Comparatively good side and rear hull armor, effective sidescraping when reversing, takes surpisingly few criticals. G90 DW II 
+*Pretty good traverse speed when boosted, with one of a 75% + crew, equipment, crewskills, and consumables
+*Premium Ammo is very effective, unlike the [[B1]], also effective if hitting weakspots on heavily armoured enemies
+*In some cases, DW2 trumps the B1 due to all-terrain track terrain resistance versatility
+
+|InTheGame_cons=
+*Frontal hull armor is wet cardboard; not thick nor does it have slope. G90 DW II  
+*Even with angled tank you'll be penetrated from most guns and or flanked without cover - be a team player
+*Poor gun selection for a heavy tank with both guns having awful AP penetration even for tier 4
+*Poor maneuverability especially when stock. G90 DW II  Grousers can be used, as can consumable fuel, and offroad driving. G90 DW II  
+*Unfortunately prone to engine damage, especially if frontal transmission plate is hit. G90 DW II  Top speed also awful. G90 DW II 
+
+
+
+|InTheGame_performance=
+Due to its fairly thin armor, it is recommended to avoid taking fire whenever possible. G90 DW II   Sidescraping and reverse angling is good with the 50mm of side plate and should be used whenever the situation calls for taking hits or holding a choke point. G90 DW II   Hull down is also marginally effective due to the top turret being fairly well armored with a decent mantlet, but cannot be relied upon to block any guns, especially with penetration such as those used by tank destroyers. G90 DW II   If caught in the open, try to angle the tank at approximately 40-45 degrees to the enemy. G90 DW II   With proper angling the tank becomes somewhat resilient to many guns that normally could pen the front head on, like scout autocannons. G90 DW II 
+
+The tank is best used at medium ranges as neither weapon is effective at close range. G90 DW II  the most accurate weapon, the 50cm KwK 39 L/60 lacks the accuracy to be effective at extreme ranges but can hit weakspots from close to mid range. G90 DW II   The 75cm KwK 37 L/24 is can be used in short range fighting; but is generally not the preferred choice as it has a slow reload, is incompatible with the bad mobility, and requires suppression support. G90 DW II  It also cannot take out the heaviest of armour - for example, the ridiculous AT2 - because it cannot take out weakspots and HEAT is ineffective. G90 DW II  For both guns, since all of the weapons lack penetration, flanking or targeting weakspots is essential, just as with the Panzer 3. G90 DW II   Flanking can be effective but not very viable due to very low camo ratings and a lack of both speed and agility. G90 DW II   If one's budget allows it, APCR can really turn this tank into a deadly machine due to the very good penetration of 130mm, enough to go through the front of almost any tank, up to tier V when aimed at the correct spot. G90 DW II   
+
+Overall this tank should be played as a support zone-control heavy. G90 DW II  Its job is to occupy rocks and blocks, reverse-scraping and teasing the enemies with the tracks, as its armor and maneuverability are both lacking. G90 DW II   The guns have low penetration but can be viable when targeting weakspots or using premium ammo, either APCR/HEAT. G90 DW II   Stay behind the main push, let heavier tanks take damage and deal with the first wave, and advance to secure locations once enemies are suppressed for the benefit of your team. G90 DW II  Life gets better with stronger guns next tier!
+
+
+|InTheGame_research= Focus on the turret, first mounting the tracks for sufficient load capacity. G90 DW II 
+
+|InTheGame_equipment=Additional Grousers, Tank Gun Rammer, Toolbox, Enhanced Gun Laying Drive
+
+
+|History=
+
+|HistAcc=
+The VK 30. G90 DW II 01 turret configuration is fake. G90 DW II 
+* Only the 7,5 cm KwK 37 was intended for this tank. G90 DW II  The 5 cm gun configuration is also fake. G90 DW II 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

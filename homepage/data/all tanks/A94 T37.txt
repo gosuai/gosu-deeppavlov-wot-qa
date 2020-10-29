@@ -1,0 +1,107 @@
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Т37 scr 1. A94 T37 jpg
+File:Т37 scr 2. A94 T37 jpg
+File:Т37 scr 3. A94 T37 jpg
+File:Т37 scr 4. A94 T37 jpg
+
+
+|InTheGame_pros=
+* Excellent gun handling and aimtime 
+* Second highest DPM in class
+* Good gun depression
+* Highest health pool of all tier 6 light tanks
+* Good viewrange
+
+|InTheGame_cons=
+* Poor accuracy, long range sniping can be difficult
+* Large target with very poor armor and fairly bad camouflage values
+* Vulnerable ammo rack
+
+
+|InTheGame_performance=
+When compared to the M24 Chaffee, the T37 is significantly larger, but barely losing any mobility. A94 T37  However, it makes up for this for a huge boost in damage per minute, as well as increased HP pool. A94 T37 	
+
+As the 76 mm T91 gun lost much of its trademark penetration and accuracy in Patch 9. A94 T37 18, this tank should not be played in the sniper way any longer. A94 T37  However,  with a fully upgraded engine its mobility is more than capable of scouting, and be sure to use that speed to flank and destroy tanks, and chase off other lights. A94 T37   With its excellent view range, you can move into position and monitor vast swathes of the battlefield, spotting would-be surprise attacks. A94 T37  Close up, the T37 can troll big, dumb, heavy tanks by circling them, however you may not have the penetration to go through the front without mountains of silver or gold, but standard rounds are more than capable of punching holes in side and rear armor for all but the heaviest tanks. A94 T37  Care must be taken, for there will be many opponents more than willing to shoot at your thin, large profile. A94 T37  
+
+Overall this tank functions just like its predecessor. A94 T37  The T37's main strength seems to lie not only in its scouting abilities, but due to reduced camo, its effectiveness in a supporting role with its high damage output. A94 T37 
+
+
+|InTheGame_research=
+Tracks, 2nd Turret, 2nd Gun, Engine, Go from there
+
+|InTheGame_equipment= Vertical Stabilizer, Coated Optics, Camouflage Net, Binocular Telescope, Vents
+
+|External_Reviews= 
+{{#ev:youtube|QK1NUnxfxL0}}
+
+|History=
+
+[[File:T37-a. A94 T37 jpg]]
+
+Ever since 1945, the US Army started to look for its new future light tank. A94 T37  Sure, there was the Chaffee, but the army was looking for something that would pack a bigger punch. A94 T37  The production of the Chaffee ended in August 1945 with roughly 4. A94 T37 7k made (in the future, they would scatter all over the world, sold to US-friendly countries). A94 T37  Meanwhile, between January and November 1945, an army equipment committee convened twice, each time recommending a new tank development. A94 T37  In the eyes of the committee, this new light tank should have better firepower and mobility than the M24 and should be armed with a 76mm (3in) gun, capable of penetrating 127mm of armor (5in), sloped at 30 degrees at 914 meters (1000 yards). A94 T37  The vehicle was to weigh 25 tons. A94 T37 
+
+
+The development of this requested vehicle was started in July 1946 at the Detroit Arsenal R&D division and on 27th of September 1946, the project officially recieved a designation “T37″. A94 T37  It was recommended by the committee to manufacture three prototype tanks (in May 1947, it was reduced to two). A94 T37 
+
+The design was complete in early 1949 and a wooden mock-up was built. A94 T37  The vehicle had a crew of four (commander, driver, gunner, loader) and was powered by the Continental AOS-895-1 engine (air-cooled six cylinder supercharged 8,2 liter engine, providing 500 gross horsepower at 2800 RPM – note that this engine is already in the game as Chaffee’s top engine with 500hp). A94 T37  The vehicle weighed 21,9 tons (22,83 hp/t power-to-weight ration, ingame Chaffee has 25,74). A94 T37  Maximum speed was 41 miles per hour (66 km/h). A94 T37 
+
+The armor was as follows:
+
+Upper frontal plate: 25mm (60 deg, 50mm EFF)
+Lower frontal plate: 32mm (45 deg, 45mm EFF)
+Hull sides: 19-25mm
+Hull rear: 19mm
+
+Turret front: 32mm (55 deg, 55mm EFF)
+Mantlet: 25-32mm
+Turret sides: 25mm
+Turret rear: 25mm
+
+Judging from the leaked pictures, the armor in the game seems historical. A94 T37 
+
+The vehicle was armed with the 76mm T94 gun (already in the game, Chaffee’s top gun with 137mm PEN), capable of -9/+20 elevation, historical rate of fire was 12 rounds per minute. A94 T37  It was not automatically loaded. A94 T37  Its historical muzzle velocity with AP rounds was 2600 feet per second (792 m/s). A94 T37 
+
+In development Phase II, the vehicle was supposed to be armed with the 76mm T91 (an identical gun to the 76mm T185 – in the game, it’s the T71′s top gun (175mm penetration), only without the automatic loading and with Vickers fire control system). A94 T37  Phase II vehicle was subsequently renamed to T41. A94 T37  Phase III (also T41) was to include an automatic loading device or a stubby case, increasing the proposed rate of fire. A94 T37  The first T37 was shipped to Aberdeen Proving Grounds in May 1949 and was tested until August 1950, when it was returned to Detroit for test results evaluation, after the outbreak of fighting in Korea. A94 T37 
+
+T41
+
+[[File:T41. A94 T37 jpg]]
+
+Along with the T37, the Phase II tanks (T41) were also tested in Aberdeen (three prototypes were made), armed with the aforementioned T91 76mm high-power gun in a modified turret. A94 T37  The original T37 project was cancelled due to the Korean war, while the T41 Stage II (Stage III with autoloader was never built, again, due to the Korean War) project was modified, specifically by changing the internal turret layout, eliminating the turret blister machineguns and increasing the turret ring size. A94 T37  This redesigned version by Detroit Arsenal was redesignated as T41E1 and in January 1950, Cadillac recieved a contract to build roughly 100 of those. A94 T37  The contract was later postponed due to Korean War (again), resulting in further modifications of the vehicle and that is how the M41 Walker Bulldog came to be, but that is a story for another time. A94 T37 
+
+The T41, like the T37, had a crew of four men. A94 T37  It had the same nominal armor, the turret just looked a bit different. A94 T37  Its T91 gun was capable of 12 round per minute (as mentioned, the Stage II had a loader), the elevation was -9/+20 as well. A94 T37  The engine and performance was the same too, but the vehicle weighed 23,4 tons, resulting in slightly worse power-to-weight ratio. A94 T37 
+
+Source:
+
+R. A94 T37 P. A94 T37 Hunnicutt: A History of the American Light Tank Vol. A94 T37 2 – Sheridan
+
+
+|HistoricalGallery=
+file:t37-a. A94 T37 jpg{{!}}T37
+File:T41. A94 T37 jpg{{!}}T41
+
+|Ref_references=
+
+|Ref_sources=
+* R. A94 T37 P. A94 T37 Hunnicutt: A History of the American Light Tank Vol. A94 T37 2 – Sheridan
+
+|Ref_links=
+* https://ftr. A94 T37 wot-news. A94 T37 com/2014/06/28/t37-light-tank/
+
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=
+|Sidebar_Camomove=
+|Sidebar_Camofire=
+|Sidebar_Passhard=
+|Sidebar_Passmed=
+|Sidebar_Passsoft=
+|Sidebar_DispTurret=
+|Sidebar_DispRecoil=
+|Sidebar_DispAccel=
+|Sidebar_DispTurning=
+}}

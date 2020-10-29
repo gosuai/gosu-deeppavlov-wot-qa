@@ -1,0 +1,77 @@
+{{TankData|Tank=Bison_I
+|
+
+|Gallery=
+
+image:Sturmpanzer I Bison front view 1. G11 Bison I jpg‎{{!}}Sturmpanzer I Bison left view
+image:Sturmpanzer I Bison front view 2. G11 Bison I jpg‎{{!}}Sturmpanzer I Bison right view
+image:Sturmpanzer I Bison back view 1. G11 Bison I jpg‎{{!}}Sturmpanzer I Bison back left view
+image:Sturmpanzer I Bison back view 2. G11 Bison I jpg‎{{!}}Sturmpanzer I Bison back right view
+
+|InTheGame_pros=
+* Gun range: 600 m
+* High damage and penetration, can one shot most LTs in tier upon direct hit
+* Large splash radius for its tier and high shell trajectory, can damage unsuspecting opponents
+* Is the only SPG at its tier that can stun
+* Insanely powerful top radio, can stay in touch across the map; despite rarely useful due to its low accuracy at range 
+
+|InTheGame_cons=
+* Mediocre to bad maneuverability even for a SPG, slow acceleration and traverse
+* Difficult to handle: has very limited gun arc, lengthy aim time and bad shell velocity
+* Limited damage potential due to slow reload rate and small supply of only 12 shells on board
+* Little self-defense capability: extremely low view range, unreliable accuracy even at point-blank range and little armor
+
+
+|InTheGame_performance=
+
+The Bison differentiates itself from the other tier 3 SPGs by firing bigger shells with a slower rate of fire. G11 Bison I  A direct hit is fatal to most of the opponents it faces. G11 Bison I  The slow rate of fire is painful, but what really hurts is the time it takes to aim on targets. G11 Bison I 
+
+If you're looking for an SPG to learn the ropes of the class with, you're probably better off not going with this one, but if you're experienced with higher tier artillery already, then you're probably already used to slow reload times. G11 Bison I  Regardless, if you don't like the Bison, it doesn't take long to get through it. G11 Bison I 
+
+The Bison is a very slow SPG, having a low turning rate, acceleration, and top speed. G11 Bison I  It also doesn't hold too many shells, so firing erratically is ill-advised. G11 Bison I  The Bison does, however, have an excellent firing angle at long ranges, allowing you to shoot if an enemy is completely behind cover. G11 Bison I  Also, the Bison can one-shot any tier 2-3 scouts with ease, and any tier 4 scouts with 75% health or lower. G11 Bison I  Missing in close quarters engagements will prove lethal, however, due to its very slow rate of fire. G11 Bison I  
+
+In all, consider the Bison the T92 of tier 3 artillery. G11 Bison I  Although it has a very poor aim time, rate of fire and accuracy, it has a huge splash radius, damage and penetration that will be sure to severely damage or destroy most tanks it fires at. G11 Bison I  This makes this SPG paradoxically better the higher tier matches it plays in; as the tanks get slower, this artillery gets more effective, crippling tier 4 tank destroyers and easily penetrating even an AMX 40 if you hit the right spots. G11 Bison I 
+|InTheGame_research=
+
+* The Maybach HL 38 TR engine carries over from the [[Pz. G11 Bison I Kpfw. G11 Bison I  I|Pz. G11 Bison I  I]] and the [[Tank:G21 PanzerJager I|Pz. G11 Bison I Jg I]], so you can install it if already acquired. G11 Bison I 
+* Your best bet is likely to research the upgraded suspension first. G11 Bison I 
+
+|InTheGame_equipment=
+
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|History=
+
+The 15 cm sIG 33 (Sf) auf Panzerkampfwagen I Ausf B was a German self-propelled heavy infantry gun used during World War II. G11 Bison I  The Invasion of Poland had shown that the towed sIG 33 guns assigned to the infantry gun companies of the motorized infantry regiments had difficulties keeping up with the tanks during combat. G11 Bison I  The easiest solution was to modify a spare tank chassis to carry it into battle. G11 Bison I  A sIG 33 was mounted on the chassis of the Panzer I Ausf. G11 Bison I  B, complete with carriage and wheels, in place of the turret and superstructure. G11 Bison I  Plates 13 millimeters (0. G11 Bison I 51 in) thick were used to form a tall, open-topped fighting compartment on the forward part of the hull. G11 Bison I  This protected little more than the gun and the gunner himself from small arms fire and shell fragments: the loaders were completely exposed. G11 Bison I  The rearmost section of armor was hinged to ease reloading. G11 Bison I  There was no room to stow any ammunition, so it had to be carried by a separate vehicle. G11 Bison I  When mounted, the sIG 33 had a total 25° of traverse and could elevate from -4° to +75°. G11 Bison I  It used a Rblf36 sight. G11 Bison I 
+
+The chassis was overloaded and breakdowns were frequent. G11 Bison I  The vehicle's extreme height and lack of on-board ammunition were severe tactical drawbacks. G11 Bison I 
+Thirty-eight were produced in February 1940, by Alkett. G11 Bison I  Thirty-six of these were organized into independent schwere Infanteriegeschütz-Kompanie ("Self-propelled Heavy Infantry Gun Companies"); mot. G11 Bison I S. G11 Bison I  Numbers 701-706 and these were assigned to the 1st, 2nd, 5th, 7th, 9th, and 10th Panzer Divisions in the Battle of France[1] as well as Operation Barbarossa[2]. G11 Bison I  The 705th and 706th were destroyed during Operation Barbarossa, belonging to the 7th and 10th Panzer Divisions respectively. G11 Bison I  Of the remaining companies, only the 701st participated in the opening stages of the subsequent Case Blue in 1942, although it, and its parent 9th Panzer Division, were transferred to the Army Group Center by the end of the summer of 1942[3]. G11 Bison I  The last reference to them is with the 704th Company of the 5th Panzer Division during the middle of 1943[4]. G11 Bison I 
+
+|HistoricalGallery=
+
+image:Sturmpanzer_I_Bison_Side. G11 Bison I jpg{{!}}A Bison on the Eastern front during Operation Blau, summer 1942
+image:Sturmpanzer_I_Bison_greece. G11 Bison I jpg{{!}}A sIG 33 auf Panzerkampfwagen I in Greece
+
+|Ref_references=
+
+# Trojca & Jaugitz, p. G11 Bison I  5
+# Niehorster, 1941
+# Niehorster, 1942
+# Chamberlain & Doyle, p. G11 Bison I  24
+
+|Ref_sources=
+
+* Chamberlain, Peter, and Hilary L. G11 Bison I  Doyle. G11 Bison I  Thomas L. G11 Bison I  Jentz (Technical Editor). G11 Bison I  Encyclopedia of German Tanks of World War Two: A Complete Illustrated Directory of German Battle Tanks, Armoured Cars, Self-propelled Guns, and Semi-tracked Vehicles, 1933–1945. G11 Bison I  London: Arms and Armour Press, 1978 (revised edition 1993) ISBN 1-85409-214-6. G11 Bison I 
+* Niehorster, Leo. G11 Bison I  German World War II Organizational Series; Volume 3/I: Mechanized Army Divisions (22 June 1941) Hannover, Germany: Niehorster, 1990
+* Niehorster, Leo. G11 Bison I  German World War II Organizational Series; Volume 4/I: Mechanized Army Divisions (28 June 1942) Hannover, Germany: Niehorster, 1994
+* Trojca, Waldemar and Jaugitz, Markus. G11 Bison I  Sturmtiger and Sturmpanzer in Combat. G11 Bison I  Katowice, Poland: Model Hobby, 2008 ISBN 978-83-60041-29-1
+
+|Ref_links=
+
+* https://en. G11 Bison I wikipedia. G11 Bison I org/wiki/15_cm_sIG_33_(Sf)_auf_Panzerkampfwagen_I_Ausf_B
+* https://tankarchives. G11 Bison I blogspot. G11 Bison I com/2017/07/small-but-fierce. G11 Bison I html
+* https://www. G11 Bison I wwiivehicles. G11 Bison I com/germany/vehicle/self-propelled/sig-33-self-propelled-gun. G11 Bison I asp
+
+}}
+
+[[Category:German Tanks]]

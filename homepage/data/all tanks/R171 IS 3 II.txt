@@ -1,0 +1,53 @@
+{{TankData|Tank=
+|
+
+
+|Gallery=
+
+|InTheGame_pros=
+- Amazing shot power when both guns are used. R171 IS 3 II  Can remove half of the hp from tier 9 medium tanks. R171 IS 3 II <br />
+- Nice gun handling and accuracy, with good shell velocity. R171 IS 3 II  Can snapshot rather well. R171 IS 3 II <br />
+- Great versatility of having three shooting modes - single, double and autoreloader. R171 IS 3 II <br />
+- Same armor layout as the [[IS-3]] with a noticeable increase in thickness. R171 IS 3 II  Very good at sidescraping. R171 IS 3 II  <br />
+- Strong frontal turret armor with very small cupola and -8 of gun depression. R171 IS 3 II  Fairly good for hulldown tactics. R171 IS 3 II <br />
+- Rather good mobility, such as traverse and top speed. R171 IS 3 II  Can move around the battlefield easily. R171 IS 3 II <br />
+
+|InTheGame_cons=
+- Long aim time and time required to fire both guns. R171 IS 3 II  Missing shots even in close quarters is rather frequent. R171 IS 3 II <br />
+- Sub-par penetration and damage per shot for such caliber in tier and class (BL-9 gun stats on wiki are slightly inaccurate). R171 IS 3 II <br />
+- Cannot mount gun rammer. R171 IS 3 II  <br />
+- Although thick, the gun mantlet can be reliably penetrated by 330+ pen ammo. R171 IS 3 II <br />
+- Requires a lot of time in order to get used to the new double-barreled gun mechanics. R171 IS 3 II <br />
+
+
+|InTheGame_performance=
+Faster and better armored than its predcessor, this tank is even capable of out-trading 150mm guns. R171 IS 3 II  The IS-3-II gets a perfect mix of characteristics that make it a force to be reckoned with on the battlefield. R171 IS 3 II  However, it tank requires a lot of time and skill in order to shine, due to several stats which limit its potential, such as aim time and time preparation for double shot. R171 IS 3 II 
+
+The 100mm stock gun also works well with this tank, making it a support heavy rather than brawler. R171 IS 3 II 
+
+
+|InTheGame_research=
+The second suspension is needed for the third gun. R171 IS 3 II  However, using the "enhanced torsion bars" equipment helps you skip that. R171 IS 3 II 
+
+
+|InTheGame_equipment=
+Coated Optics, Vertical Stabilizer, Vents
+
+|History=
+
+
+|HistoricalGallery=
+
+
+|HistAcc=
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+{{}}
+
+}}

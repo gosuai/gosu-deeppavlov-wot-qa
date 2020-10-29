@@ -1,0 +1,65 @@
+{{TankData|Tank=
+|Briefly made available in the gift shop in November 2014, the SU-76I was quickly withdrawn from sale by Wargaming. R50 SU76I  
+
+|Gallery=
+
+File:СУ-76И scr 1. R50 SU76I jpg
+File:СУ-76И scr 2. R50 SU76I jpg
+File:СУ-76И scr 3. R50 SU76I jpg
+
+
+|InTheGame_pros=
+* Frontal armour is ridiculously thick, most tier IIIs ( excluding TD's ) will bounce right off
+* Very strong gun with high damage will punch right through even most tier IVs
+* Good top speed in a straight line and decent hull traverse
+* Preferential Matchmaking, only sees battle-tier III and IV
+* No frontal weak-spots, makes the armour all the more effective                                                                                                      |InTheGame_cons=
+* Poor view range and bad radio means you cant wander far from your team
+* Small gun arc and very pitiful gun depression
+* Accelerates rather slow and hates soft ground
+* Fairly long aim-time and bad accuracy makes sniping almost impossible
+* Although the gun is strong, its the lowest penetrating of all tier III TD's                                                                                               |InTheGame_performance=
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History= 
+
+The Red Army experienced a need for light SPGs armed with 76 mm guns as early as Fall of 1941, but that need was not met until December of 1942, when production of the SU-76 SPG began. R50 SU76I  Sadly, production was dragging slowly, and the vehicle ultimately ended up a bust. R50 SU76I  The need for a light SPG didn't go anywhere. R50 SU76I  In order to meet the army's needs, factory #37 converted [[Panzer III]]'s and StuGs to use an F-34 76 mm gun in a fixed casemate. R50 SU76I 
+
+
+"According to GOKO decree #2758 from January 18th, 1943, factory #37 and TsAKB NKV designed and built an experimental prototype of a SU-76I SPG on the chassis of a captured StuG SPG and PzIII tank, using a stock 76 mm F-34 tank gun. R50 SU76I 
+
+In March of 1943, the vehicle was tested at the Sofrino proving grounds over 280 kilometers of travel and 434 rounds. R50 SU76I 
+
+The experimental prototype passed trials, and was recommended for service in the Red Army. R50 SU76I  The SU-76I SPG was accepted into the Red Army by GOKO decree #2758ss from January 18th, 1943. R50 SU76I "
+CAMD RF 38-11369-1
+
+The SU-76I was a continuation of the SG-122 design, along with some improvements, like sloped armour. R50 SU76I  Originally, the project called for a ZiS-3 gun (which was later installed on the SU-76), but the only way to provide proper mantlet protection was to use an F-34 in a special frame (indexed S-1). R50 SU76I  Armour reached 50 mm in the front. R50 SU76I  The SPG kept its 300 hp Maybach engine. R50 SU76I  Due to the fact that vehicles of different makes and models served as a base for the SU-76I, various SPGs of this type can look slightly different. R50 SU76I  It is not known exactly how many of these vehicles were made from StuGs and how many were made from PzIIIs. R50 SU76I  According to M. R50 SU76I  Svirin, the total amount of SU-76I and SG-122 vehicles built with captured StuG hulls only equalled eight. R50 SU76I 
+
+An interesting point: the decree that accepted the SU-76I into service pre-dates its trials by a month and a half. R50 SU76I  The Red Army must have really needed those SPGs. R50 SU76I  611 SU-76I vehicles were built (compared to 550 of the original SU-76 production run). R50 SU76I 
+
+By the end of 1943, there were almost no SU-76Is left in the army, and in the beginning of 1944, the last of them were transferred to training units. R50 SU76I  To this day, two SU-76Is remain: an authentic one at Sarny, Ukraine, and one with a restored casemate at the Poklonnaya Gora museum in Moscow. R50 SU76I 
+
+|HistoricalGallery=
+File:Mass_production_su-76I_spg. R50 SU76I png{{!}}Command vehicle version of SU-76I, distinguished by Pz. R50 SU76I Kpfw. R50 SU76I  III cupola
+File:Su-76i_livejournal_user_starcom68. R50 SU76I jpg{{!}}Preserved SU-76I at Sarny, Ukraine. R50 SU76I  Taken by Livejournal user starcom68
+
+|HistAcc=
+
+|Ref_references=
+
+|Ref_sources=
+* Zaloga 1984, p 180. R50 SU76I 
+
+|Ref_links=
+* [https://translate. R50 SU76I google. R50 SU76I com/translate?sl=auto&tl=en&js=y&prev=_t&hl=sv&ie=UTF-8&u=http%3A%2F%2Fwww. R50 SU76I battlefield. R50 SU76I ru%2Fsu76i. R50 SU76I html&edit-text=]
+* https://ftr. R50 SU76I wot-news. R50 SU76I com/2013/12/09/su-76i-and-su-85i/
+* https://tankarchives. R50 SU76I blogspot. R50 SU76I com/2013/12/su-76i. R50 SU76I html
+
+}}

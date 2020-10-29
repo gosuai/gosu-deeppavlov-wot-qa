@@ -1,0 +1,102 @@
+{{TankData|Tank=
+|The AMX M4 45 can be considered an evolution of its predecessor play-style. F07 AMX M4 1945  It uses the same guns as the [[ARL 44]], which are less outstanding for its tier, but with improved rate of fire, accuracy, and aim time. F07 AMX M4 1945  Although the M4 45 sports better track protection, its overall armor is weaker than the ARL 44's, and very poor for its tier. F07 AMX M4 1945  However, it receives fairly good mobility for a heavy tank in exchange, and is fairly effective in a supporting role, setting the pattern for future French heavy tanks. F07 AMX M4 1945 
+
+|Gallery=
+image:AMX_M4_(1945)_001. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 001
+image:AMX_M4_(1945)_002. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 002
+image:AMX_M4_(1945)_003. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 003
+image:AMX_M4_(1945)_004. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 004
+
+|InTheGame_pros=
+* Great choice of guns, excellent AP/APCR penetration with the 90 mm DCA 45 and good DPM with 105mm. F07 AMX M4 1945 
+* Great but annoying gun depression (10 degrees only on the front 160 degree arc, none on the sides and rear). F07 AMX M4 1945 
+* Turret cheeks and hull upper glacis are well-angled and bouncy because people tend to not aim for weaker areas. F07 AMX M4 1945 
+* Good acceleration for a heavy tank with high HP ratio, 90mm now has good aim time for the penetration. F07 AMX M4 1945 
+* Easy stock grind; all guns carry over from ARL 44, 105mm is a decent brawling choice with the AP penetration buff. F07 AMX M4 1945 
+
+|InTheGame_cons=
+* Large weak spots on frontal armor, along with side and rear armor vulnerable to overmatch by 120mm+ shells. F07 AMX M4 1945 
+* Average alpha, low RoF, and terrible DPM, with the DCA 45 leads to not so great firepower. F07 AMX M4 1945 
+* Large silhouette, bad camoflague rating and low 35km/hr top speed makes using the limited firepower hard. F07 AMX M4 1945 
+* Stupidly big and slow speed for the paper armor it has (except for the turret). F07 AMX M4 1945 
+* Prone to module and crew damage, especially the gun, ammo rack and loader, even when taking fire from the front. F07 AMX M4 1945 
+
+|InTheGame_performance=
+The M4 45 plays similarly to its peer, the [[Pz. F07 AMX M4 1945 Kpfw. F07 AMX M4 1945  VI Tiger]]. F07 AMX M4 1945  Compared to the Tiger, it receives slightly better frontal armor, better gun depression, and a better power-to-weight ratio in exchange for much worse side and rear armor, worse guns, generally poorer soft statistics like  terrain resistance and gun dispersion, and a much lower health pool. F07 AMX M4 1945  Therefore, it is very important to avoid taking fire at all times and to a greater extent, avoid being spotted. F07 AMX M4 1945  The AMX M4 45 must try to deal as much damage as possible with its tricky guns by abusing its mobility to stay competitive on the battlefield. F07 AMX M4 1945  Furthermore, getting used to poor armor and assuming a supporting sniper role will help very much in preparing players for the [[AMX 50 100]] and the similar vehicles that follow it. F07 AMX M4 1945  
+
+The 90 mm DCA 45, 90 mm F3, and 105 mm Canon 13TR were previously also available on the ARL 44, and on the M4 1945 receive generally better characteristics. F07 AMX M4 1945  However, they are generally worse than guns on other tier 7 heavy tanks. F07 AMX M4 1945  The 90 mm DCA 45 has low DPM, 90 mm F3 is all round worse than DCA 45 other than its acceptable DPM, 105 mm 13TR has nice alpha and decent DPM, along with now sufficient 175 Armor Piercing penetration (formerly 165) but requires APCR to be effective against most heavies at tier 8. F07 AMX M4 1945  Since tougher opposition is faced by the M4 45, APCR will be needed with the latter two guns. F07 AMX M4 1945  The DCA 45's outstanding penetration is generally sufficient with AP, even at Tier 7. F07 AMX M4 1945  The 105mm is also a solid choice if you plan on running full gold with it, in which the M4 45' transforms to an IS with higher penetration and better accuracy. F07 AMX M4 1945  This does get really expensive and will burn a big hole in your wallet, though, and the 105mm still takes a while to aim. F07 AMX M4 1945 
+
+With its powerful engine, the M4 45 is fairly mobile for a heavy tank, although the poor top speed and reverse speed is really disappointing, especially with its poor armour. F07 AMX M4 1945  The turret is somewhat stronger than the ARL 44's, but the hull is significantly weaker. F07 AMX M4 1945  Artillery is very dangerous for the M4 45 due to low armour thickness. F07 AMX M4 1945  Although the good gun depression and decent acceleration go a long way towards helping limit its exposure in combat, the low speed limit means finding and keeping yourself in arty'proof spots important. F07 AMX M4 1945 
+
+As of the update that introduced Italian Tanks, the AMX M4 45 is somewhat better of a vehicle. F07 AMX M4 1945  The gun handling is universally better, and the 90mm DCA 45 and 105mm 13 TR have received buffs in addition. F07 AMX M4 1945  The aim time on both cannons is better; 2. F07 AMX M4 1945 9 -> 2. F07 AMX M4 1945 5 aim time on the 90mm, and 2. F07 AMX M4 1945 9 -> 2. F07 AMX M4 1945 7 aim time on the 105mm. F07 AMX M4 1945  The 105mm additionally received 10 more penetration on the AP shell: 165 -> 175. F07 AMX M4 1945  This means a little less APCR is required on it. F07 AMX M4 1945  However, the 90mm is still the better cannon to use, as although it has mediocre DPM, the fully aimed accuracy is far better (0. F07 AMX M4 1945 36 compared to 105mm 0. F07 AMX M4 1945 41, though with 100% crew it is 0. F07 AMX M4 1945 35 compared to 0. F07 AMX M4 1945 39) and has very good standard penetration (212 compared to 175). F07 AMX M4 1945  Additionally, the 90mm has higher shell velocity (1,000/1,250/1,00) compared to the 105mm's (850/1,063/850). F07 AMX M4 1945  The AMX M4 45 cannot afford to be close to enemies regardless of gun choice, so the 105mm is mostly a novelty gun, and  requires a lot of APCR to work at higher tiers, whereas the 90mm can usually aim for weakpoints or load an almost overkill 259 APCR penetration. F07 AMX M4 1945 
+|InTheGame_research=
+*As stock, you should be able to equip the first engine upgrade, the radio, the 90mm F3 and/or the 105 mm Canon 13TR, as they were available on the ARL 44. F07 AMX M4 1945 
+*a) Research the suspension. F07 AMX M4 1945 
+*b) Skip researching the suspension and equip Enhanced Springs. F07 AMX M4 1945 
+*Research and equip the turret. F07 AMX M4 1945 
+*Research or just mount the 90mm DCA 45 or keep the 105mm 13TR with better alpha but worse stats (if previously researched from the ARL 44). F07 AMX M4 1945 
+*Research the engine(s). F07 AMX M4 1945 
+*Finally, research the radio if you hadn't previously done so. F07 AMX M4 1945 
+*Go from there. F07 AMX M4 1945 
+ 
+|InTheGame_equipment=Large-Caliber Tank Gun Rammer,GLD,Improved Ventilation Class 3, Camouflage net, Binocular telescope, Enhanced Leaf Springs 3 Class
+
+
+|History=
+After the end of WWII, French tank design was significantly influenced by their German colleagues. F07 AMX M4 1945  Their achievements are very well reflected in the design of the French AMX M4 heavy tank, the predecessor to the AMX 50. F07 AMX M4 1945  Even though the tank never reached production, it left its mark on tank building history. F07 AMX M4 1945  Here's how it all began. F07 AMX M4 1945 
+
+Despite the occupation of France, French tank designers did not stop for even a minute. F07 AMX M4 1945  Work continued in strictest secrecy on both new tanks and modernizations of existing ones. F07 AMX M4 1945  Most progress came from Ateliers de construction de Rueil (ARL) from Rueil-Malmaison, west of Paris. F07 AMX M4 1945  In addition to an array of pre-war tanks, they also designed the SARL (Somua-ARL) 42 tank in 1942. F07 AMX M4 1945  In November of 1944, ARL began designing a heavy tank with experience of the SARL 42 and B1 ter tanks in mind. F07 AMX M4 1945  The designs of German tanks, especially the Tiger II, was also kept in mind. F07 AMX M4 1945  The first ARL 44 prototype was built in 1946. F07 AMX M4 1945 
+
+The French military knew that this vehicle was only a temporary measure. F07 AMX M4 1945  Rapid developments in the field of armoured warfare rendered the ARL 44 obsolete even during its design phase. F07 AMX M4 1945  The suspension and design of the hull were more suitable for the early 1930s, maybe even mid 1920s. F07 AMX M4 1945  Neither 120 mm of front armour nor the Maybach HL. F07 AMX M4 1945 230 engine could bridge the gap. F07 AMX M4 1945  The military decided to keep the project open, but a competition for a new 50-ton medium tank began on July 31st, 1945. F07 AMX M4 1945  ARL did not participate, as work on the ARL 44 was in progress. F07 AMX M4 1945 
+
+According to archive data, the following companies participated: Forges et Chantiers de la Méditerranée (FCM), Ateliers de construction d'Issy-les-Moulineaux (AMX), Lorriane, Somua, and. F07 AMX M4 1945 . F07 AMX M4 1945 . F07 AMX M4 1945  Renault. F07 AMX M4 1945  The last entrant is the most curious, especially since AMX was essentially the tank branch of Renault, nationalized in 1936. F07 AMX M4 1945  Aside from the fact that Renault participated in this contest, no information survives to this day; work did not even reach the project stage. F07 AMX M4 1945  FCM was also unlucky, and its 50 ton tank remained on paper. F07 AMX M4 1945  After more than 5 years of work, Lorraine and Somua produced prototypes of their projects (Lorraine 40t and Somua SM). F07 AMX M4 1945  Work got as far as designing and producing prototypes of SPGs on the Lorraine 40t chassis. F07 AMX M4 1945 
+
+AMX was the luckiest. F07 AMX M4 1945  This company from suburban Paris worked on its 50 ton tank for almost 15 years, the project was changed several times, and SPGs were designed and built on its chassis. F07 AMX M4 1945  The tank never made it to mass production, but deserves a spot in history. F07 AMX M4 1945 
+
+The characteristics of the AMX tank were similar to those of the ARL 44. F07 AMX M4 1945  The vehicle, indexed Char A. F07 AMX M4 1945 M. F07 AMX M4 1945 X. F07 AMX M4 1945  45, was also referred to as NOM 141 (project 141). F07 AMX M4 1945  It was supposed to have 120 mm of front armour (50 mm LFP), 50-60 mm thick sides, 110 mm of front turret armour, and 30 mm thick turret sides. F07 AMX M4 1945  Like the ARL 44, the cast turret designed by DEFA (Direction des Études et Fabrications d’Armement, later reformed to GIAT, renamed Nexter in 1989) would house a 90 mm 65 caliber long Schneider gun with a coaxial 7. F07 AMX M4 1945 5 mm MAC Mle. F07 AMX M4 1945  1931 machinegun. F07 AMX M4 1945  Another machinegun was placed in a ball mount in the front of the hull. F07 AMX M4 1945  The 47 ton tank would be put in motion by a German Maybach HL. F07 AMX M4 1945 230 engine. F07 AMX M4 1945  The tank looked like a Tiger II from the outside, but the French refused to place the transmission in the front. F07 AMX M4 1945  The transmission and drive wheels were in the rear from the very beginning of the project. F07 AMX M4 1945 
+
+The first draft of the AMX 45 project is dated August 1945. F07 AMX M4 1945  By the end of the month, the project was radically altered for the first time. F07 AMX M4 1945  The new characteristics drove up the mass by 3 tons, to a total of 50 tons. F07 AMX M4 1945  The Maybach HL. F07 AMX M4 1945 230 was no longer satisfactory, as 700 hp was considered too little for such a heavy vehicle. F07 AMX M4 1945  High effective horsepower was considered very important, based on experience from WWII. F07 AMX M4 1945  Starting with blueprint 01041 dated August 28th, 1945, the tank obtained a 1000 hp MP. F07 AMX M4 1945 65 Sauer engine. F07 AMX M4 1945  The AMX 45 index disappeared, replaced by a new one: Char Moyen 50t M4 (50 ton medium tank M4). F07 AMX M4 1945  The name "AMX M4" stuck for five years, during which the project changed almost completely. F07 AMX M4 1945 
+
+The Swiss engine didn't last long. F07 AMX M4 1945  It was not available in metal, and the engine is no less an important component of the tank than its gun. F07 AMX M4 1945  Not surprisingly, the Germans replaced the Swiss in this regard. F07 AMX M4 1945  Maybach ended up under French influence after the war, and mutually beneficial cooperation followed. F07 AMX M4 1945  Also, many German engineers, including Porsche, ended up involved with French tank design, willingly or otherwise. F07 AMX M4 1945 
+
+If ARL 44 was the combination of existing components, the AMX M4 was a combination of all German late-war ideas. F07 AMX M4 1945  The E-50 and E-75 that are so beloved by fans of alternate history left their mark here. F07 AMX M4 1945  Recall that the E-50 was meant to have a rear transmission, and the Maybach HL. F07 AMX M4 1945 234, proposed as the power plant for the E-50 and E-75, evolved into the new AMX M4 engine. F07 AMX M4 1945  The HL. F07 AMX M4 1945 295, blueprints for which are dated September 1945, was an enlarged HL. F07 AMX M4 1945 234, giving 1000 hp at 2800 RPM. F07 AMX M4 1945  This was not just a proposal, it was really built in metal. F07 AMX M4 1945  Maybach engines also powered the Lorraine 40t and Somua SM tanks. F07 AMX M4 1945  As for the AMX M4, the HL. F07 AMX M4 1945 295 first appeared in its design towards the end of November of 1945. F07 AMX M4 1945 
+
+By then, the AMX M4 began another metamorphosis. F07 AMX M4 1945  The turret was unchanged, but the hull and its interior changed drastically. F07 AMX M4 1945  The front plate was thinned out to 90 mm, the sides to 40 mm, but the slope of the UFP was increased from 42 to 55 degrees. F07 AMX M4 1945  The hull became more reminiscent of the Tiger II, but with the turret further forward. F07 AMX M4 1945  This introduced many problems with the hatches for the driver and hull gunner. F07 AMX M4 1945  It was decided to make them smaller and put them in the corners of the roof. F07 AMX M4 1945  The driver received an observation device similar to the one on the Panther Ausf. F07 AMX M4 1945  D and Ausf. F07 AMX M4 1945  A. F07 AMX M4 1945 
+
+The AMX M4 kept changing in the winter of 1945-1946. F07 AMX M4 1945  One of the changes moved the crew around in the turret. F07 AMX M4 1945  Initially, the commander's cupola, essentially a copy from the pre-war AMX Tracteur C, was to the right of the tank. F07 AMX M4 1945  In December of 1945, it, like the Tiger II cupola, was moved to the left, increasing the resemblance of the two tanks. F07 AMX M4 1945 
+
+The changes to the hull, or rather the suspension, were more interesting. F07 AMX M4 1945  Designers realized that torsion bars are a very non-French solution, real French tanks use bogeys. F07 AMX M4 1945  They were presented as an alternative to the torsion bars. F07 AMX M4 1945  Not one, but two alternate designs were made. F07 AMX M4 1945 
+
+The first variant was a re-imagining of the work of Surin, used on CKD tanks. F07 AMX M4 1945  While Surin used large wheels, the wheels here were much smaller than the ones in the torsion bar variant. F07 AMX M4 1945  Leaf springs were used, a bold move considering the mass of the tank. F07 AMX M4 1945  Since there were seven wheels per side, the front wheel received its own spring. F07 AMX M4 1945  Return rollers had to be added, four per side. F07 AMX M4 1945  The idler was also changed, and its tightening mechanism was very reminiscent of the good old Char B. F07 AMX M4 1945 
+
+The other bogey design used the same idler. F07 AMX M4 1945  This variant had five return rollers, and the first and last were smaller than the rest. F07 AMX M4 1945  The number of road wheels grew to eight, so no individual suspensions were needed. F07 AMX M4 1945  Clearly there were some engineers that worked on tanks in the 1930s, as the suspension was taken straight from the Renault R35 and other light tanks of that era. F07 AMX M4 1945  Paired springs were used instead of rubber elastic elements; this design was a lot more progressive. F07 AMX M4 1945 
+
+Both bogey designs were rejected. F07 AMX M4 1945  Yes, torsion bars have their difficulties, and yes, Kniepkamp's suspension has its problems, but compared to what AMX engineers came up with, it was the height of perfection. F07 AMX M4 1945  Not only was the bogey suspension inappropriate for such a heavy tank, it turned out much more complicated. F07 AMX M4 1945  It is hard to imagine what kind of curses French tankers would utter if they encountered this design in production. F07 AMX M4 1945  The alternative idea failed. F07 AMX M4 1945 
+
+By early 1946, the new Char M4 was finalized. F07 AMX M4 1945  It was an interesting fighting vehicle, similar to the Centurion Mk. F07 AMX M4 1945 3 in characteristics. F07 AMX M4 1945  This tank, officially designated as medium, weighed 50. F07 AMX M4 1945 8 tons, but managed to surpass the French design only in the thickness of turret and side armour. F07 AMX M4 1945  The Centurion had less effective hp/ton, and was more than half a meter longer. F07 AMX M4 1945  The guns of the two tanks were similar. F07 AMX M4 1945  The American M46 Patton also had similar characteristics. F07 AMX M4 1945  With an 810 hp engine at 44 tons, it came close to the French tank in mobility. F07 AMX M4 1945  Aside from the sides, the armour of the two tanks was similar. F07 AMX M4 1945  The American tank was taller than its competitors, and also longer than the French tank. F07 AMX M4 1945  The product of Ateliers de construction d'Issy-les-Moulineaux was a rather ordinary tank, very much in line with the international idea of a medium tank at the time. F07 AMX M4 1945 
+
+The AMX M4 ingame depicts the originally-proposed M 4 tank. F07 AMX M4 1945  No prototypes under the original M 4 specification were ever produced. F07 AMX M4 1945 
+
+|HistAcc=
+*The AMX M4 program only ever considered mounting the 90mm Canon de 90 mm SA mle. F07 AMX M4 1945  1945, or short, the 90mm SA45. F07 AMX M4 1945  This gun is what is called the 90mm DCA 45 in game, although this name is erroneous. F07 AMX M4 1945 
+*Although the 90mm F3 was never considered for the tank, it's missing its historical HEAT round with 320 mm of penetration. F07 AMX M4 1945  This was the standard ammunition of the 90 mm F3 gun and there was no AP or APCR ammunition developed for this gun. F07 AMX M4 1945 
+
+|HistoricalGallery=
+image:AMX_M4_(1945)_Plans_Side_Exterior. F07 AMX M4 1945 jpg{{!}}AMX M4(1945)
+image:AMX_M4_(1945)_Plans_Full. F07 AMX M4 1945 png{{!}}AMX M4(1945)
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. F07 AMX M4 1945 chars-francais. F07 AMX M4 1945 net/new/index. F07 AMX M4 1945 php?option=com_content&task=view&id=20&Itemid=41 '''<i>1945 CHAR AMX M4 at chars-francais. F07 AMX M4 1945 net</i>'''] Photos, specs, and brief history in French. F07 AMX M4 1945 
+* https://tankarchives. F07 AMX M4 1945 blogspot. F07 AMX M4 1945 ca/2016/01/third-reich-serving-fourth-republic. F07 AMX M4 1945 html
+* https://warspot. F07 AMX M4 1945 ru/4299-narabotki-tretiego-reyha-dlya-chetvyortoy-respubliki Original article in Russian, has more pictures
+
+}}
+
+[[Category:French Tanks]]

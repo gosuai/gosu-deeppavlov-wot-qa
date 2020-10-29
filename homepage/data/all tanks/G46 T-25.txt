@@ -1,0 +1,55 @@
+{{TankData|Tank=T-25
+|Designed as a successor to the [[Pz. G46 T-25 Kpfw. G46 T-25  38 (t)]] and [[Pz. G46 T-25 Kpfw. G46 T-25  38 (t) n. G46 T-25 A. G46 T-25 ]] designs, the Skoda T-25 has a similar profile. G46 T-25  It's larger, with sloped armor, and has a forward rather than center mounted turret. G46 T-25  For its tier, the armor is sub-par, but still decent - though against [[Heavy Tanks|heavies]] it will not last very long. G46 T-25  The T-25 makes up for it by being very fast with a 60km/h top speed and can be achieved by its rather powerful engine, making the tank very good at breaching enemy lines, or moving from supporting one position to another in a hurry. G46 T-25  However, it very much lacks in maneuverability. G46 T-25  Don't expect to dodge shells like a light tank as it has a long chassis. G46 T-25  The T-25 has an excellent rate of fire with the 7. G46 T-25 5 cm A18 KwK, which is comparable to the [[Gun#7,5 cm KwK 40 L/48|7. G46 T-25 5 cm KwK 40 L/48]]. G46 T-25  It is quite accurate and with its high rate of fire, the T-25 is capable of devastating lower tier tanks very quickly, but it is has trouble against stronger tanks' front armor. G46 T-25  Overall, it's a decent medium tank. G46 T-25  While it cannot stand up against heavies such as the [[Pz. G46 T-25 Kpfw. G46 T-25  VI Tiger]], it is still a valuable addition to any player's arsenal. G46 T-25 
+
+The T-25 also will be the tier 6 Czech medium tank, with an auto-loading gun and better mobility. G46 T-25 
+
+|InTheGame_pros=
+* Good gun depression
+* Can re-position quickly
+* Excels in the support role
+* Above average hit points for tier 5
+
+|InTheGame_cons=
+* Slow turret traverse
+* Wide turning radius
+* Poor aim time
+* High terrain resistance
+
+|InTheGame_performance=
+Experienced players have said that the T-25 plays more in the style of a turreted American tank destroyer. G46 T-25  Being a premium tank, the T-25 has a very good credit earning potential when compared to other tier 5 tanks. G46 T-25 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Binocular Telescope, Vents
+
+
+|Gallery=
+image:T25_01. G46 T-25 jpg{{!}}T25 01
+image:T25_02. G46 T-25 jpg{{!}}T25 02
+image:T25_03. G46 T-25 jpg{{!}}T25 03
+image:T25_04. G46 T-25 jpg{{!}}T25 04
+
+|History=
+The Pz. G46 T-25 Kpfw. G46 T-25  T 25 was never built in real life, but from what is known about it, it is possible that the tank was one of the purposed Panther designs. G46 T-25  However, there is also a chance that Skoda just so happened to propose this design at around the time of the Panther design contest. G46 T-25  Nevertheless, the Germans rejected this design with no reason given, a theory attribute it's rejection due to the proposition of a 20 ton design when German companies Daimler Benz (DB)and Maschinenfabrik Augsburg Nürnberg AG (MAN) were designing 30+ tons Panther designs. G46 T-25  However, it might also have also been rejected due to the design not being German. G46 T-25  
+
+
+The tank was to be quite similar to it's in-game counterpart, although some in-game statistics would have been likely to have been made up due to this the non-existent nature of this tank. G46 T-25  More information about this tank can be found in the book "Czechoslovak Armored Fighting Vehicles 1918-1948. G46 T-25 "  
+
+|HistoricalGallery=
+image:T-25_Side_Elevation. G46 T-25 jpg‎{{!}}T-25 Side Elevation
+image:Skoda T-25 1. G46 T-25 jpg{{!}}Skoda T-25 1
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. G46 T-25 armchairgeneral. G46 T-25 com/forums/showthread. G46 T-25 php?t=53537
+
+}}
+
+[[Category:German Tanks]]

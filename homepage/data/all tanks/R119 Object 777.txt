@@ -1,0 +1,66 @@
+{{TankData|Tank=
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Strong turret armor and well sloped upper plate
+
+- Good mobility
+
+- Good alpha damage and standard shell penetration
+
+- Built in unlimited large repair kit. R119 Object 777  Saves player credits
+
+- Low profile
+
+|InTheGame_cons= 
+- Long aiming time and poor accuracy
+
+- Low damage per minute
+
+- Poor gun depression
+
+- Position of the turret on the hull's center means sidescraping can be a bit tricky at times
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Improved Ventilation Class 3,Large-Caliber Tank Gun Rammer,Coated Optics,GLD,Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Obiekt-777 was another radical re-design of the T-10 series that was
+developed on paper as a potential replacement for the T-10M, but did not
+progress to prototype stage. R119 Object 777  The Obiekt-777 also drew its origins from the
+Obiekt-770, using the T-10 series hull but with seven large (750mm) diameter
+road wheels with internal amortization and hydro-mechanical transmission. R119 Object 777 
+The armament was to have been the 122mm M-62-T2, with 15 armour
+piercing and 25 HE-FRAG rounds. R119 Object 777  The secondary armament was reconfigured
+so that the co-axial weapon was a 7. R119 Object 777 62mm SGM instead of the 14. R119 Object 777 5mm KPV
+of the T-10M, which allowed 3,000 rounds of ammunition for the co-axial
+weapon to be stowed. R119 Object 777  A 14. R119 Object 777 5mm KPV was nevertheless retained as an AAMG,
+located in a remote control mounting above the turret rear. R119 Object 777 
+
+The original design drawings considered alternative engine options, one
+of which was the installation of a V-12 gas turbine engine developing 850hp,
+giving the 49. R119 Object 777 8 tonne tank (still inside the heavy tank limit by 200kg) a
+maximum road speed of 50km/h. R119 Object 777  The crew was to be reduced to four due to
+the use of an autoloader system. R119 Object 777 
+
+Although reviewed as a design project with completed drawings and
+options, the Obiekt-777 was not developed beyond concept stage. R119 Object 777 
+|HistoricalGallery= 
+
+|Ref_references=
+n/a
+|Ref_sources=
+James Kinnear, Stephen Sewell - "Soviet T-10 Heavy Tank and Variants", Osprey Publishing 2017
+|Ref_links=
+n/a
+}}

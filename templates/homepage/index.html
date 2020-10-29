@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+  </head>
+  <body>
+      <h1>Прорицатель мира танков</h1>
+       <img src="https://media.giphy.com/media/h8sd5ds2kyFBciEkJ4/giphy.gif">
+       <br>
+      <p>
+        {{ question }}
+        <br>
+        <p>Ответ:</p>
+        {{ answer }}
+        <br>
+        <p>Вся инфа о танке:</p>
+        {{ tank_info }}
+      </p>
+      <form action="/" method="post">
+        <h2>Задайте вопрос</h2>
+        <p>Выберите танк:</p>
+          <p><input list="character" id="tank_name" name="tank_name" required> 
+           <datalist id="character">
+            {{ all_tanks_html|safe }}
+           </datalist></p>
+        <p>Задайте ваш вопрос:</p>
+        <input type="text" id="question" name="question" required size="80">
+        <br>
+        <br>
+        <input type="submit" value="Узнать">
+      </form>
+
+  </body>
+</html>

@@ -1,0 +1,68 @@
+{{TankData|Tank=VK 72. G92 VK7201 01 (K)
+|Also known as the "Failowe", the '''VK 72. G92 VK7201 01 (K)''' was first awarded to the 3,000 players who amassed the most Fame Points in the Second Clan Wars Campaign. G92 VK7201  And later became one of Clan Wars reward tanks that were only given to the top clans on each Clan Wars seasons, making it became one of the rarest tank in the game. G92 VK7201 
+
+The VK 72. G92 VK7201 01 (K)'s stats were reworked in 9. G92 VK7201 17. G92 VK7201 1 making its stats similar to [[Tank:G134_PzKpfw_VII|Pz. G92 VK7201 Kpfw. G92 VK7201  VII]], but still kept the [[Tank:E 100|E 100]]'s 15 cm Kw. G92 VK7201 K. G92 VK7201  L/38 as its main armament. G92 VK7201  And again in 1. G92 VK7201 0. G92 VK7201 1 patch to swapping the weakspot shared with Panzer VII (turret ring became stronger while lower plate became weakspot instead). G92 VK7201  The armor changes of the VK 72. G92 VK7201 01 (K) were quietly reverted in 1. G92 VK7201 8. G92 VK7201 It now shares the same turret ring weakspot of the [[Tank:G134_PzKpfw_VII|Panzer VII]]. G92 VK7201 
+
+|Gallery=
+
+File:VK 72. G92 VK7201 01 (K) scr 1. G92 VK7201 jpg
+File:VK 72. G92 VK7201 01 (K) scr 2. G92 VK7201 jpg
+File:VK 72. G92 VK7201 01 (K) scr 3. G92 VK7201 jpg
+
+
+|InTheGame_pros=
+
+- Strong turret face that is identical to [[Tank:G134_PzKpfw_VII|Panzer VII]]
+
+- Good HP pool (2500)
+
+- Top speed is decent for its weight
+
+- High damage-per-shot, huge penetration with premium rounds (350mm)
+
+-Strong lower plate at 230mm (same as [[Tank:G134_PzKpfw_VII|Panzer VII]])
+
+|InTheGame_cons=
+- Patch 1. G92 VK7201 8 silently switched the armor model to match that of the [[Tank:G134_PzKpfw_VII|Panzer VII]]. G92 VK7201  The turret ring is once more a weakspot at only 160mm armor thickness
+
+- Quite low damage-per-minute and long reload time
+
+- Poor accuracy and aim time
+
+- The lack of a second Loader position makes it incompatible with either E-100's or Maus' Crew, making it a troublesome trainer at best
+
+|InTheGame_performance=
+
+This is a reward tank. G92 VK7201  Before the patch 1. G92 VK7201 0. G92 VK7201 1 was the twin brother of the [[Tank:G134_PzKpfw_VII|Panzer VII]] but with a bigger gun and without ears, after that they changed armor values: now the armor of lower plate is decreased (really weak, also tier 8 can easly penetrate it) in favour of the old weakspots collocated on the turret ring that now are very thick . G92 VK7201  This is a good new for the owners of this tank, now VK 72. G92 VK7201 01 (K) can do extremely well the job has been designed for: side scraping. G92 VK7201  These changes are no longer valid as of patch 1. G92 VK7201 8. G92 VK7201  It now shares the same armor model of the [[Tank:G134_PzKpfw_VII|Panzer VII]]
+
+As the [[Tank:G134_PzKpfw_VII|Panzer VII]], this tank is a beast when you minimize your total area that's exposed to enemy fire in hull down position: your upper plate is almost invicible (but don´t expose the piece of flat lower plate that is thick only 170 mm) and the gun depression is enough to do this work (-7°, but remember when the gun is upon the upper plate gun depression decrese to -5°). G92 VK7201 . G92 VK7201 . G92 VK7201 the only problem is your inner gun mantlet that is thick only 200 mm (also the cupola is a weak spot, but in hull down is almost impossible to hit it). G92 VK7201  So keep always moving and your enemies will have a really hard game against you. G92 VK7201 
+
+The VK, like many other tier X heavies, does not have good side/rear protection and is as vulnerable as any to flanking; with its slow turret traverse pushing too far ahead can be very dangerous. G92 VK7201  The VK works best in a defensive capacity or by working in concert with other tanks while pushing down a lane. G92 VK7201  With the same slow rate of fire shared with the other 150mm-armed heavy, the E-100, the VK7201 usually will not win a damage-per-minute contest and probably responds best to peek-a-boom style play. G92 VK7201 
+
+|InTheGame_research=
+Tank is elite in stock configuration
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|History=
+
+|HistAcc=
+According to in-game description, There's no proof that Krupp was a redesign of the VK 70. G92 VK7201 01 ([[Tank:G51_Lowe|Löwe]]). G92 VK7201  Since Adolf Hitler and his Generals were more interested in [[Tank:G42_Maus|Maus]] project. G92 VK7201  So, The tank project is more likely nonexist. G92 VK7201 
+
+|HistoricalGallery=
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+|Sidebar_Passhard=1. G92 VK7201 055
+|Sidebar_Passmed=1. G92 VK7201 151
+|Sidebar_Passsoft=2. G92 VK7201 205
+|Sidebar_DispTurret=0. G92 VK7201 153
+|Sidebar_DispRecoil=3. G92 VK7201 836
+|Sidebar_DispAccel=0. G92 VK7201 221
+|Sidebar_DispTurning=0. G92 VK7201 221
+}}

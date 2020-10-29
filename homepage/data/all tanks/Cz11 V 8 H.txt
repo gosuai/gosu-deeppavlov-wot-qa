@@ -1,0 +1,69 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:ST vz. Cz11 V 8 H  39 scr 1. Cz11 V 8 H jpg
+File:ST vz. Cz11 V 8 H  39 scr 2. Cz11 V 8 H jpg
+File:ST vz. Cz11 V 8 H  39 scr 3. Cz11 V 8 H jpg
+
+
+|InTheGame_pros=*Small size
+* Good camouflage
+*Good penetration with the top gun: AP 86mm, APCR 132mm
+*Fairly accurate, dispersion: 0,36
+*Good gun depression (-10 degrees)
+*Fairly good ROF on top gun: 24 shots per minute
+
+|InTheGame_cons= 
+*Low damage per shot
+*On the slow side. Cz11 V 8 H  Engine upgrades have low impact. Cz11 V 8 H 
+*Lowest DPM compared to the other tier IV med tanks
+*Armour doesn't deflect many shots
+
+|InTheGame_performance= This tank is more of a support tank. Cz11 V 8 H  Due to its slow top speed and slow turret traverse, it isn't made for the front lines. Cz11 V 8 H  However, if used properly, it can deal fairly good damage thanks to its decent penetration and accuracy. Cz11 V 8 H  However, take note that its damage and therefore DPM are quite low. Cz11 V 8 H  Stay behind and snipe, as getting out of hairy situations is difficult given the tank's limited mobility and low armour. Cz11 V 8 H  Fortunately, the tank has a good camouflage value to support a sniping playstyle. Cz11 V 8 H 
+
+|InTheGame_research=Prioritize getting the top gun. Cz11 V 8 H  An upgraded suspension is necessary only for adding equipment. Cz11 V 8 H  The second gun gets a boost in the rate-of-fire from top turret (20 shots per minute). Cz11 V 8 H  Turret isn't a priority, but it has more 30mm than the first one frontally. Cz11 V 8 H  Engines have a minimal impact on speed, so research them last. Cz11 V 8 H 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+ST vz. Cz11 V 8 H  39, also known as V-8-H, was a Czechoslovakian medium tank developed by ČKD in the late 1930s. Cz11 V 8 H  Only two prototypes were ever built. Cz11 V 8 H 
+
+History: 
+
+The V-8-H was the first completely independent construction of ČKD Praga. Cz11 V 8 H  It was the result of the experience, gained by ČKD during the Šp-IIb cooperation in the mid 30's (a prototype of Šp-IIb was built in 1937). Cz11 V 8 H  Škoda, however, being the main competitor of ČKD wasn't really that much interested in cooperation and pushed its resources into what would become the T-2X line of vehicles (specifically the T-21 medium tank). Cz11 V 8 H  Seeing that didn't make ČKD too happy and a decision was made to make an independent medium tank as a competititor to the upcoming T-21 vehicle. Cz11 V 8 H  The result was the V-8-H (the designation means V-8 engine, H - tracked) and it did inherit the best parts and experience of the Šp-IIb. Cz11 V 8 H  Unfortunately, it did inherit some of its flaws too (namely an unreliable engine and weak final drive). Cz11 V 8 H  
+
+The prototype was built and tested from summer 1937 for roughly 6 months. Cz11 V 8 H  The tests went rather fine and subsequently the project was offered to several countries, including United Kingdom, China, Denmark, Egypt and many others. Cz11 V 8 H  However, the interest in the vehicle wasn't high for two reasons: first - funnily enough, for its time it was considered too heavy (it weighted cca 14 tons at the time, while most bridges of that time could hold vehicles up to 10 tons). Cz11 V 8 H  It was also considerably more expensive than the Czechoslovakia-produced light tanks. Cz11 V 8 H  Only Italy, Sweden and Switzerland showed some margin of interest. Cz11 V 8 H  In late 1937 however, the Czechoslovak army decided to run official tank trials both in infantry tank and cruiser tank categories. Cz11 V 8 H  V-8-H took part in these trials and emerged as clear victor of its category (unlike the Škoda's Š-IIc, which was plagued by technical problems at the time). Cz11 V 8 H  At that time (december 1937) the Czechoslovak army felt it needs a medium tank a lot. Cz11 V 8 H  The Czechoslovak generals, seeing the nazi Germany arm itself by the new Panzer III vehicles felt that the contemporary light tanks aren't just going to cut it anymore. Cz11 V 8 H  A competition was announced for the new Czechoslovak army medium tank and V-8-H was there to take part. Cz11 V 8 H  From April 1938 the vehicle was thoroughly tested and changes were made and the tank got heavier, gaining 2 more tons. Cz11 V 8 H  Almost all the parts were changed and improved, including the engine, armor and drivetrain. Cz11 V 8 H  
+
+By that time, the political climate forced the army to act and 300 V-8-H tanks were ordered. Cz11 V 8 H  However, the tank crews actually successfully blocked that order, since they felt the vehicle is not very reliable (in that time it was believed that the people who would actually operate the tank have to have the last word and that their opinion is the most important one of all). Cz11 V 8 H  This, along with the fact that ČKD was unable to strike a deal with Škoda (who wanted to produce it under the official designation of ST-39 or Střední Tank vzor 1939) for the manufacturing capacities eventually doomed the tank. Cz11 V 8 H  The production didn't start until Czechoslovakia was seized by Germany. Cz11 V 8 H  The Germans eventually took the prototype and tested it, but decided against it. Cz11 V 8 H  The only other country that was interested was Romania - Romanians tested the V-8-H against the Škoda T-21 vehicle. Cz11 V 8 H  The tests were effectively a draw, the Škoda tank however suffered a massive drivetrain breakdown. Cz11 V 8 H  Despite that, it was the Škoda vehicle that was ordered by Romanians (no vehicles would be delivered for political reasons either way) and that was the end of V-8-H. Cz11 V 8 H  The fate of the prototype is unknown, but it stayed in ČKD's factory for the rest of the war and was scrapped soon after it. Cz11 V 8 H 
+
+Characteristics:
+
+Armor: 20-32mm
+Weapon: 47mm A11
+Weight: 16,1 tons
+Speed: 45 km/h
+Engine: Praga NR, 225hp
+
+|HistoricalGallery= 
+File:Obraz1262. Cz11 V 8 H jpg{{!}}V-8-H
+image:ST_vz_39_02. Cz11 V 8 H jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://ftr-wot. Cz11 V 8 H blogspot. Cz11 V 8 H cz/2013/01/czechoslovak-tree-part-4-medium-tanks. Cz11 V 8 H html
+* https://ritastatusreport. Cz11 V 8 H blogspot. Cz11 V 8 H cz/2015/08/cz-tree-part-4-st-vz39. Cz11 V 8 H html
+
+}}

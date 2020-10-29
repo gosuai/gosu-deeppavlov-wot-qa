@@ -1,0 +1,74 @@
+{{TankData|Tank=T-60
+|Although it is classified as a light tank this tank doesn't ride around super fast. R42 T-60  The T-60's top gun has good penetration, average alpha and relatively low rate of fire. R42 T-60  All the auto cannons may have a superb rate of fire but they are horribly lacking in penetration and are only effective when flanking other tanks. R42 T-60 
+
+|Gallery=
+
+|InTheGame_pros=
+* Small profile with decent armor and sloping
+* 37mm ZiS-19 has good penetration, accuracy and acceptable alpha damage
+* High speed limit
+* Good traverse speed
+
+|InTheGame_cons=
+* 12,7mm DShK machine gun has extremely poor penetration and lengthy reload despite the extreme damage potential,  
+* Armour is very thin on the sides and rear, and the 35mm of sloped armour is only around the beak area
+* Very slow acceleration, albeit not as bad as [[Cruiser Mk. R42 T-60  I]]
+* Low gun depression
+
+|InTheGame_performance=
+Compared to the other tier II Soviet tank choices, the BT-2 and T-26, the T-60 is unremarkable. R42 T-60  All three share the top gun, 37mm ZiS-19, which has good penetration and accuracy. R42 T-60  However, when mounted on the T-60, the gun has a lower rate of fire and aiming time, compared to the other two. R42 T-60  This puts the tank at a relative disadvantage, at least among its Soviet peers. R42 T-60  The T-60 does not have the sheer speed of the BT-2, nor does it have the manoeuvrability and view range of the T-26. R42 T-60  The only category in which the T-60 is superior is its front and rear hull armour, and even the provided armour values are deceptive, as the heavily sloped upper frontal plate is significantly thinner than the lower frontal plate. R42 T-60  Still, the armour works rather well against autocannons, especially at longer ranges. R42 T-60 
+
+Previous points set the T-60 apart from its contemporaries, due to this, the tank requires a different play style. R42 T-60  It does have a small, low profile turret that makes it a hard target to hit, especially if always on the move. R42 T-60  If that isn't enough, the hull is on the small side as well, meaning it is rather easy to hide. R42 T-60  The T-60 has the best camouflage factor among tier II light tanks. R42 T-60  It is best played as a second line support tank in matches with higher tiers. R42 T-60  The T-60 works well at destroying heavily armoured vehicles such as the T-45, D1 or H35, as long as it remains out of the reach of the enemies' gun. R42 T-60  When all else fails and enemies get close, simply relying on armour isn't enough. R42 T-60  Keeping the frontal hull pointed towards the enemy is essential, wiggling it increases the changes of a ricochet occurring. R42 T-60  Keep in mind, even though the upper front plate is heavily sloped, it is still rather thin (and can be easily overmatched) and one must angle it enough to create autobounce angles. R42 T-60 
+
+In conclusion, in order to properly utilise the T-60's strengths and minimise weaknesses, keeping distances between the tank and the enemy is essential (when using the 37mm ZiS-19 gun, as it allows you to possibly remain undetected and provides additional time for aiming and reloading. R42 T-60  The view range is acceptable, so detecting enemies shouldn't be much of an issue. R42 T-60  Also, the amour works well at medium to long ranges, bouncing, perhaps, a few odd higher calibre rounds. R42 T-60  When using autocannons, choosing a position where you can retreat into cover after delivering a burst is necessary. R42 T-60  In this case, ambush tactics work well. R42 T-60 
+
+If you find yourself losing your tank, due to your crew of two dying while your tank still has hit points remaining, you might consider a Spall Liner. R42 T-60  Although unusual on a light tank, the weight isn't as much of an issue here as it would be on a faster, more maneuverable tank. R42 T-60  The main benefit in this case is the reduced chance of crew injuries, but the other benefits are a nice bonus. R42 T-60 
+
+|InTheGame_research=
+* First, research the T-60 enhanced Suspension. R42 T-60 
+* Research the T-60 Turret and the ZiS-16 Engine in whichever order you wish. R42 T-60 
+* Now, research the 37 mm ZiS-19 Gun. R42 T-60 
+* Finally, research the 71-TK-3 Radio. R42 T-60 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics, Camouflage Net, Binocular Telescope
+
+|History=
+The T-60 scout tank was a light tank produced by the Soviet Union from 1941 to 1942. R42 T-60  In this time over 6,292 vehicles were built. R42 T-60  The tank was designed to replace the obsolete T-38 amphibious scout tank. R42 T-60 
+
+==Development history==
+[[image:T-60 Kubinka_museum. R42 T-60 jpg |thumb|200px|left|T60 Light Tank in Kubinka museum ]]
+Nicholas Astrov's design team at Moscow Factory No. R42 T-60  37 was assigned the task of designing amphibious and non-amphibious scout tanks in 1938. R42 T-60  They produced the T-30A and T-30B prototypes. R42 T-60  The former was to be manufactured as the T-40 amphibious tank starting in 1940. R42 T-60  It also led to the T-40S (sukhoputniy, "dry-land" version), a heavier tank prototype which was considered too complex to manufacture. R42 T-60  The T-30B prototype, sharing the T-40's chassis but simpler in construction and with heavier armour, was accepted as the T-60 scout tank, and began production in July 1941, just after the German invasion. R42 T-60 
+
+Although at first intended to carry a 12. R42 T-60 7 mm machine gun like the T-40, the armament was later upgraded to the 20 mm TNSh cannon, a tank version of the ShVAK, on the advisement of the People's Commissar for Tank Industry, Vyacheslav Malyshev. R42 T-60  This weapon could penetrate 15 mm of perpendicular armour at 500 m range which proved inadequate against the newer up-armored German tank designs thus attempts were made in 1942 to re-arm the T-60 with the 37 mm ZIS-19 cannon, but were abandoned due to the Soviet Union's shortage of 37 mm ammunition. R42 T-60  Due to this a new project started as to house the standard 45mm tank gun on a modified turret. R42 T-60  That became impossible, and a new turret designed and tested successfully in the summer 1942. R42 T-60  The new turret had the gun moved to its right side as to make more room for the crew member and a co-axial machine gun added. R42 T-60  At the end the project terminated when STAVKA choose T-70 as the new standard light tank which had matured earlier that year. R42 T-60 
+
+==Designs based on T60==
+
+
+'''Gliding tank'''
+
+One T-60 was converted into a glider in 1942 and was designed to be towed by a Petlyakov Pe-8 or Tupolev TB-3 bomber and was to be used to provide partisan forces with light armour. R42 T-60  The tank was lightened for air use by removing armament, ammunition, headlights and leaving a very limited amount of fuel. R42 T-60  Even with the modifications the TB-3 bomber had to ditch the glider due to the T-60's poor aerodynamics during its only flight to avoid crashing. R42 T-60  The T-60 landed on a field near the aerodrome and after dropping the glider wings and tail returned to its base. R42 T-60  Due to lack of sufficiently powerful aircraft to tow it the project was canceled and never resumed. R42 T-60 
+
+
+'''Romanian TACAM and Mareşal tank destroyers'''
+
+The Romanians modified 34 captured T-60s into TACAM T-60 tank destroyers in 1943. R42 T-60  It had a captured Soviet F-22 76. R42 T-60 2 mm gun housed in a light armoured superstructure open in its top and back, a typical configuration in the tank destroyers at the time. R42 T-60  All survived vehicles were confiscated by the Soviets after Romania defected to the Allies in August 1944. R42 T-60 
+
+The Romanians also developed a very modern for its time low height full armoured tank destroyer also based on T-60 chassis, the Mareşal M05. R42 T-60  Its shape and size was very similar to the famous Hetzer German tank destroyer (in fact Romanians started developing it well before Hetzer giving rise to the theory that Hetzer itself was possibly inspired from Mareşal). R42 T-60  It mounted a Romanian 75mm anti-tank gun and used armour plates from salvaged Soviet BT tanks and a Hotchkiss petrol engine. R42 T-60  Both prototypes and the first unfinished batch of pre-production vehicles had been confiscated by the Soviets and no further work allowed after Romania shifted sides. R42 T-60 
+
+
+
+|HistoricalGallery=
+File:T-60 Kubinka_museum. R42 T-60 jpg{{!}}T-60 at Kubinka Museum
+
+File: T-60 light tank. R42 T-60 png{{!}}T-60 with solid road wheels
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+* [https://web. R42 T-60 archive. R42 T-60 org/web/20190307111649/https://www. R42 T-60 wwiivehicles. R42 T-60 com/soviet-union/vehicle/light-tank/t-60-light-tank. R42 T-60 asp '''T-60 Light Tank'''] Photos & history. R42 T-60 
+* [http://english. R42 T-60 battlefield. R42 T-60 ru/tanks/8-light-tanks/10-t-60. R42 T-60 html '''T-60 Light Tank'''] at battlefield. R42 T-60 ru. R42 T-60 
+
+}}

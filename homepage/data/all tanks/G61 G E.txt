@@ -1,0 +1,64 @@
+{{TankData|Tank= G. G61 G E W. G61 G E  E 100
+|While it is very similar to the [[GW Tiger]], it has a very slight boost to reload time and accuracy, a slightly wider horizontal arc, more ammo capacity and better armor. G61 G E  It acts like a middle ground between the [[Object 261]] and [[T92]]. G61 G E  This SPG also possesses a unique skirt armor, which absorbs splash damage, so a direct hit is needed to kill it. G61 G E 
+
+|Gallery=
+image:G type E front view 2. G61 G E jpg‎{{!}}front left view
+image:G type E front view 1. G61 G E jpg‎{{!}}front right view
+image:G type E back view 2. G61 G E jpg‎{{!}}back left view
+image:G type E back view 1. G61 G E jpg‎{{!}}back right view
+image:GWtypEgame1. G61 G E jpg{{!}}GW Typ E, Malinovka map
+
+|InTheGame_pros=
+* Good balance of damage, reload, and accuracy
+* Decent armor can deflect some shots; skirt armor helps absorb splash damage
+* Size allows it to equip a Super Heavy Spall Liner and makes it resistant to ramming
+* Better DPM than the T92
+* Highest HP of any arty in the game
+* Can sidescrape if needed, although not recommended
+
+|InTheGame_cons=
+* Rather slow speed and traverse
+* Biggest SPG of its tier
+* Very slow shell velocity
+* One of the lowest camo ratings in-game, along with the GW Tiger
+
+|InTheGame_performance=
+The G. G61 G E W. G61 G E  E 100 has the third largest cannon in the game, with a rated average of 2000 damage with its HE shells. G61 G E   It does not do the most damage, but is more accurate and reloads much faster than the T92 or Conqueror Gun Carriage. G61 G E   It has the second highest shell arc of any tier 10 artillery (surpassed only by the Conqueror Gun Carriage), but limited gun traverse and relatively low mobility, due to its E 100 chassis. G61 G E   Like most high tier artillery, it is very large with a horrible camo value, which lets scouts easily spot it. G61 G E  It has sideskirts that protect the tracks, which can decrease damage from counter-artillery fire. G61 G E  As artillery shots leave tracers in the air, relocating between shots to avoid enemy artillery pinpointing your location is crucial to survival. G61 G E  The G. G61 G E W. G61 G E  E 100 has 80mm of sloped armor on the front and 50mm on the sides, which can bounce a shot if you're lucky. G61 G E   In Clan Wars, the G. G61 G E W. G61 G E  E 100 is one of the less preferred artillery pieces, as the Conqueror Gun Carriage is more used due to its higher arc, better mobility, and bigger splash, and the M53/55 is used in the generalist role that the G. G61 G E W. G61 G E  E 100 would normally be in due to its high mobility. G61 G E   It may be seen used in smaller clans due to tank locking, and is more common than the Bat. G61 G E - Châtillon 155 58 and the T92. G61 G E 
+
+|InTheGame_research=
+none needed
+
+
+|InTheGame_equipment=
+Large-Caliber Artillery-Shell Rammer, GLD, Spall Liner
+
+|History=
+As part of the late-war German effort to standardize and maximize the production of cheaper, more reliable tanks, the Entwicklung series comprised of six different tank weight classes, from which several specialized variants were developed. G61 G E  Orders had also been given, from as early as 1942, to commence the development of the Geschützwagen (German for Artillery Wagon) series which converted existing chassis to mount artillery guns. G61 G E  These two projects combined at the end of 1943 to yield the Geschützwagen Type Entwicklung (G. G61 G E W. G61 G E  Type E for short) artillery. G61 G E  
+
+Even though the G. G61 G E W. G61 G E  Type E never got past the drawing board, it was nonetheless planned to have been based on the chassis of the Heavy Tank E-100. G61 G E  The design would have potentially been armed with a varying choice of high-caliber guns, ranging from the 70mm K 72 L/50 gun to the Škoda 305mm GrW L/16, and, like its earlier variants, would've had its armament mounted on the rail platform inside the hull, allowing it to be dismounted anytime. G61 G E  It would be operated by a crew of eight (Commander, Driver, Gunner, Radio operator and four Loaders). G61 G E  The typical sloped armor layout from late-war German tanks was included with a front-mounted transmission and reduced armor, in comparison to the E-100. G61 G E  After World War 2, the idea of mounting high-caliber guns on tanks was abandoned, with 155mm howitzers being the usual caliber for Self-Propelled Artillery Guns. G61 G E 
+
+|HistoricalGallery=N/A
+
+|HistAcc=
+It is generally agreed the G. G61 G E W. G61 G E  E 100, as it exists in the game, is a fabrication based on creative liberties taken with various program proposals. G61 G E 
+
+|Ref_references=
+
+
+|Ref_sources=*https://en. G61 G E wikipedia. G61 G E org/wiki/Entwicklung_series
+
+
+|Ref_links=
+
+
+|Sidebar_Camostop=1. G61 G E 7
+|Sidebar_Camomove=0. G61 G E 9
+|Sidebar_Camofire=0. G61 G E 1
+|Sidebar_Passhard=1. G61 G E 247
+|Sidebar_Passmed=1. G61 G E 438
+|Sidebar_Passsoft=2. G61 G E 397
+|Sidebar_DispTurret=0. G61 G E 499
+|Sidebar_DispRecoil=5. G61 G E 753
+|Sidebar_DispAccel=0. G61 G E 288
+|Sidebar_DispTurning=0. G61 G E 288
+}}

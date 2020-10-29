@@ -1,0 +1,58 @@
+{{TankData|Tank=G100_Gtraktor_Krupp
+|Thinly armored, very large and armed with a short barreled 75mm mini-howitzer, the "G-Traktor" is one oddball of a tank that plays very different compared to other tier III Mediums. G100 Gtraktor Krupp  To start, its (ahem) "armor" is pathetically thin, being nearly identical in thickness to the Vickers Medium Mk. G100 Gtraktor Krupp  III and stands a snowballs chance in hell of bouncing a shot from anything, so like the Medium III, play as a supporter, hiding behind your more armored peers and unleashing your high alpha damage shells on unsuspecting victims! In terms of offense, this tank bounces back from its awful defense(at least against tier IIIs anyway), the 75mm gun can easily pick apart most tier IIIs from mid to close range, however, with bad accuracy and slow shell travel speed, sniping is a big no-no. G100 Gtraktor Krupp  One massive problem the G-Traktor faces however is its near uselessness against tier IV and V tanks, almost anything beyond tier III will laugh as your shells bounce off their armor and they make quick work of your large, underarmored tank. G100 Gtraktor Krupp  Dont be discouraged though, pack a few HEAT Shells and wait for your higher tier team mates to catch the enemy off-guard and go for their weakpoints; do this and you'll still be of some use, even in higher tier matches. G100 Gtraktor Krupp  All in all, play the G-Traktor cautiously, supporting your team from behind more heavily armored peers, lashing out at tier IIIs and going for the weakspots of tier IV and Vs when the time is right, stick to this method and you'll unlock this weird tank's true potential and discover how much fun it really is. G100 Gtraktor Krupp  
+
+|Gallery=
+
+File:Großtraktor - Krupp scr 1. G100 Gtraktor Krupp jpg
+File:Großtraktor - Krupp scr 2. G100 Gtraktor Krupp jpg
+File:Großtraktor - Krupp scr 3. G100 Gtraktor Krupp jpg
+
+
+|InTheGame_pros=
+- Highest HP pool of any Tier 3 tank
+
+- Fast traverse and decent mobility comparable to light tanks
+
+- Excellent gun depression and elevation, performs well in hull down 
+
+- HE shells have decent penetration, and high alpha
+
+- Side-skirts cover both sides entirely and defend against HE shells
+
+|InTheGame_cons=
+- Fairly large target, easy to hit even from a distance
+
+- 75mm gun is very inaccurate with bad handling characteristics; restricted to mid to close range fighting
+
+- Quite slow shell velocity; AP shells should '''not''' be carried, or played, regardless of circumstances. G100 Gtraktor Krupp 
+
+- Very thin overall armor; side-scraping at auto-bounce angle can lead up to 60mm effective side armor. G100 Gtraktor Krupp 
+
+- Unable to mount a [[Equipment|Medium-Caliber Tank Gun Rammer]]
+
+|InTheGame_performance=
+The Großtraktor is a tank that is more than capable of dealing massive damage to smaller tanks while not being entirely capable of withstanding damage in return. G100 Gtraktor Krupp   The Gtraktor's Kw. G100 Gtraktor Krupp K 37 75mm howitzer has very high single-shot alpha damage, a characteristic which is amplified by using the gun's powerful HE rounds (which are almost equally as good at penetrating armor as the AP rounds). G100 Gtraktor Krupp   At close range, the Gtraktor can devastate poorly armored tanks and soak up shots from smaller guns with its large hitpoint pool. G100 Gtraktor Krupp   Also, despite being one of the largest tier IIIs, the Gtraktor is fairly maneuverable. G100 Gtraktor Krupp   With its good speed and very good gun depression value, the Gtraktor can flank and take advantage of terrain to conceal its great bulk. G100 Gtraktor Krupp 
+
+While the Gtraktor dominates against smaller or more poorly armored tanks of its tier, its effectiveness falls off greatly against higher tier enemies. G100 Gtraktor Krupp   The howitzer's poor penetration ability means the Gtraktor is almost completely ineffective against well armored tanks such as the [[Matilda]] and [[AMX 40]]. G100 Gtraktor Krupp   The gun's bad accuracy, poor handling characteristics, and low shell velocity also eliminate sniping as a viable option in high-tier games. G100 Gtraktor Krupp   In addition, the Gtraktors large hitpoint pool is much less effective at soaking up shots from more powerful high-tier guns. G100 Gtraktor Krupp   In such games, the Gtraktor is reliant on its larger allies to engage well armored tanks enabling it to attack their weaker flanks. G100 Gtraktor Krupp 
+
+|InTheGame_research=
+
+|InTheGame_equipment=
+GLD, Coated Optics, Vents
+
+|HistAcc=
+
+|History=
+Grosstraktor ("large tractor") was the name given to six prototype medium tanks built (two each) by Rheinmetall, Krupp and Daimler, for the German Weimar Republic, in violation of the Treaty of Versailles. G100 Gtraktor Krupp <br />
+<br />
+Constructed in secret they were tested in the Soviet Union. G100 Gtraktor Krupp  They were used for training and retired as monuments after the Nazi party came to power. G100 Gtraktor Krupp 
+
+|HistoricalGallery=
+File:Bundesarchiv Bild 146-1979-107-13, Volkssturm, Übung mit Panzerschreck. G100 Gtraktor Krupp jpg{{!}}The Grosstraktor used for anti-tank training
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

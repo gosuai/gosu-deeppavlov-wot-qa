@@ -1,0 +1,78 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:Somua S35 scr 1. F44 Somua S35 jpg
+File:Somua S35 scr 2. F44 Somua S35 jpg
+File:Somua S35 scr 3. F44 Somua S35 jpg
+File:Somua S35 scr 4. F44 Somua S35 jpg
+
+
+|InTheGame_pros= 
+* Solid armor for tier 3 - Many angled and rounded areas
+* Top gun has good penetration against Tier III's and even some Tier IV's
+* High ROF, good aim time and accuracy
+* 11 degrees of gun depression
+* 98mm of penetration with APCR on top gun - Can be a saving grace
+* Rear turret armor is oddly the thickest on the vehicle at 60mm
+* 710m signal range
+
+|InTheGame_cons= 
+* Low HP/ton - Maneuverability is sluggish
+* Will struggle on higher tier matches
+* SA34 and SA35 have lower velocity rounds, making it harder to hit moving targets
+
+|InTheGame_performance= 
+*At the top of the match list, the Somua S35 is in its prime - AT Tier III the armor is excellent to shrug off small cannon and autocannon fire and the top 47mm can disperse whatever it comes across. F44 Somua S35   It can lead an assault reliably as long it has backup. F44 Somua S35   Be wary of tank destroyers of Tier III such as the [[Marder II]] as they can easily pierce your armor. F44 Somua S35   On a map like Ensk or Himmelsdorf it can show its true colors, taking cover in the rubble and sidescraping around buildings. F44 Somua S35 
+*At the bottom of the match list (Tier IV -- the Somua no longer has to face Tier V's) where it is most common, the armor loses its effectiveness drastically. F44 Somua S35   Become a support tank - Don't lead any charge as you will find yourself back to the garage quickly. F44 Somua S35 
+
+|InTheGame_research=
+* Nothing carries over from the Hotchkiss H35. F44 Somua S35   However, the SA35 cannon will be unlocked if you played either the [[AMX 38]] or the [[D2]] previously. F44 Somua S35   The SA35 is light enough for the stock suspension, so if you have it unlocked mount it immediately. F44 Somua S35   In addition, the SA37 cannon will be unlocked if you've already elited the D2, but you have to research the turret first to mount it. F44 Somua S35  
+* Research the SA35 cannon first if it isn't unlocked. F44 Somua S35   It has nearly twice the penetration of the SA34. F44 Somua S35 
+* Research the ARL 2C turret and the SA37 cannon next. F44 Somua S35   Both the turret and the SA37 will fit on the stock suspension, as long as you don't mount any equipment (but Binocs will fit). F44 Somua S35  
+* Researching the Hispano-Suiza V8 diesel engine will increase horsepower slightly, reduce the chance of fire, and reduce the weight. F44 Somua S35   This frees up sufficient weight capacity for Vents and Binocs while still using the stock suspension. F44 Somua S35 
+* If you don't have the suspension upgraded yet, do it now for the +3 traverse speed and slightly improved terrain resistance. F44 Somua S35 
+* Researching the ER 29 radio provides a useful increase in signal range without weighing much. F44 Somua S35 
+* Elite the vehicle as you wish from there. F44 Somua S35 
+
+|InTheGame_equipment=Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The SOMUA S35 was a French Cavalry tank of the Second World War. F44 Somua S35   Built from 1936 until 1940 to equip the armoured divisions of the Cavalry, it was for its time a relatively agile medium-weight tank, superior in armour and armament to its French and foreign competitors, such as the contemporary versions of the German Panzerkampfwagen III. F44 Somua S35   It was constructed from well-sloped and mainly cast armour sections, that however made it expensive to produce and time-consuming to maintain. F44 Somua S35 <br />
+<br />
+During the German invasion of May 1940, the SOMUA S35 proved itself to be a tactically effective type, but this was negated by the French command's strategic mistakes in deploying the Cavalry armoured divisions. F44 Somua S35   After the defeat of France in June 1940, limiting production to a number of about 440, captured SOMUA S35s were used by the Axis powers, some of them on the Eastern Front. F44 Somua S35   A derived type, the SOMUA S40, with an improved suspension, lowered hull cast and welded turret armour, had been planned to replace the original version on the production lines in July 1940. F44 Somua S35   However only an unfinished prototype had been built by the Fall of France. F44 Somua S35   While plans were made to produce this improved type for the benefit of Vichy France, Germany and Japan, they ultimately did not lead to any manufacture. F44 Somua S35 
+{{VideoYT|PRRdUgAgpug}}{{VideoYT|VfaVeZ_xjIc}}
+
+|HistAcc=
+* The 47mm SA37 wasn't considered for the Somua S35. F44 Somua S35   While it was planned for the S40, it required a larger 3-man turret to fit. F44 Somua S35 
+
+|HistoricalGallery= 
+File:Char 1935 S Somua 1. F44 Somua S35 jpg{{!}}A SOMUA S35 at the US Army Ordnance Museum
+File:S35 hist. F44 Somua S35 jpg{{!}}SOMUA S35 at the Bovington Tank Museum
+File:SOMUA-S35-2. F44 Somua S35 jpg{{!}}SOMUA S35 in running condition at the annual Carrousel in Saumur
+File:Somua S 35 (musée des blindés de Saumur). F44 Somua S35 jpg{{!}}The Saumur tank displayed in the museum building. F44 Somua S35  The cupola hatch added by the Germans is clearly visible
+File:Bundesarchiv Bild 121-0412, Frankreich, Panzer Somua S35, Geschütz. F44 Somua S35 jpg{{!}}S 35s captured by Germany in 1940
+File:Bundesarchiv Bild 101I-212-0209-32, Russland-Nord, Panzer und Soldat. F44 Somua S35 jpg{{!}}The S 35 in German service on the Eastern Front in 1941
+File:Bundesarchiv Bild 101I-300-1858-35A, Frankreich-Belgien, Panzer Somua S35. F44 Somua S35 jpg{{!}}A captured S 35 in service with the Wehrmacht. F44 Somua S35 
+image:Arl_2c_schematics. F44 Somua S35 jpg{{!}}The top ARL 2C turret
+image:Arl_2c_side_view. F44 Somua S35 jpg{{!}}Side view of the ARL 2C turret
+image:Arl_2c_front_view. F44 Somua S35 jpg{{!}}Front view of the ARL 2C turret
+image:Arl_2c_back_view. F44 Somua S35 jpg{{!}}Back view of the ARL 2C turret
+File:2_man_FCM_turret. F44 Somua S35 jpg{{!}}FCM 2-man turret, designed for the Somua S40 during 1942. F44 Somua S35 
+File:3_man_FCM_turret. F44 Somua S35 jpg{{!}}FCM 3-man turret, meant to use the 47mm SA37
+File:Partially_completed_somua_s40_prototype. F44 Somua S35 jpg{{!}}The partially completed Somua S40
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. F44 Somua S35 wot-news. F44 Somua S35 com/2015/03/04/somua-s35-development-in-occupied-france/
+* https://ftr. F44 Somua S35 wot-news. F44 Somua S35 com/2015/03/01/arl-2c-top-turret-for-somua-s35/
+
+}}

@@ -1,0 +1,101 @@
+{{TankData|Tank=Chi_To
+|
+
+|Gallery=
+
+File:Type 4 Chi-To scr 1. J10 Chi To jpg
+File:Type 4 Chi-To scr 2. J10 Chi To jpg
+File:Type 4 Chi-To scr 3. J10 Chi To jpg
+File:Type 4 Chi-To Production f. J10 Chi To jpg{{!}}Type 4 Chi-To Production
+File:Type 4 Chi-To Production b. J10 Chi To jpg{{!}}Type 4 Chi-To Production
+File:Type 4 Chi-To Prototype f. J10 Chi To jpg{{!}}Type 4 Chi-To Prototype
+File:Type 4 Chi-To Prototype b. J10 Chi To jpg{{!}}Type 4 Chi-To Prototype
+
+
+|InTheGame_pros=
+* Good gun depression (10° with the upgraded turret)
+* Accurate top gun and it handles rather well
+* Good amount of hit points
+* Decent DPM with high RoF
+
+
+|InTheGame_cons=
+* Noticeably bulky size, visibility leaves a lot to be desired
+* Incredibly bad armor outside of turret and hull front, very vulnerable to HE and overmatching 
+* One of the worst stock grinds next to VK 30. J10 Chi To 01 (P), with bad gun depression and barely any mobility to speak of
+* Acceleration and top speed are both under par for a medium, although maneuverability is still ok
+* Premium round is also an AP with mediocre penetration and velocity, somewhat pointless
+
+|InTheGame_performance=
+
+* The Type 4 Chi-To trades armor for gun depression and rate of fire, which allow this tank to excel in a support role and when executing flanking maneuvers. J10 Chi To  Slow acceleration, bulky size, and paper thin armor make this tank weak to HE rounds and getting caught out in the open. J10 Chi To  Be sure to maximize cover as much as possible, as well as attempting to hull down to make use of the 150mm gun mantlet armor and solid gun depression. J10 Chi To  Be aware that the stock turret only has 7 degrees of gun depression, but still gets the 150mm thick gun mantlet. J10 Chi To 
+
+* The Chi-To's good maneuverability and fairly high rate of fire (~3. J10 Chi To 4s) make it an excellent tank for flanking. J10 Chi To  It's possible to maneuver around the side of many heavier tanks and take 2 or even 3 shots before quickly retreating behind cover without taking any damage. J10 Chi To  
+
+* Stay on second line and follow a heavy tank, let it take the enemy fire and use your good RoF to do a lot of damage while enemies doesn't notice you're the true source of damage. J10 Chi To 
+
+|InTheGame_research=
+
+*Research the 400HP Mitsubishi AL Type 4 Kuurei V-12 first. J10 Chi To  Without it, the Chi-To is slow and cumbersome to handle. J10 Chi To 
+
+*Second, research the Type 5 Model 1 gun to improve reload time
+
+*Third, upgrade to the Chi-To Production Tracks. J10 Chi To 
+ 
+*Fourth, research the Type 4 Chi-To Production turret
+
+*Lastly, research the radio(s). J10 Chi To 
+
+*Go from there. J10 Chi To  
+|InTheGame_equipment=
+Improved Ventilation,Coated Optics, GLD
+
+|History=
+
+Development history
+
+Japan expected that a new generation of tanks capable of tank engagements would be needed later in the war. J10 Chi To  In 1942, three medium tank classes were initiated. J10 Chi To  A 47mm cannon class, a 57mm cannon class, and a 75mm cannon class. J10 Chi To  These three classes were called Kou, Otsu, Hei respectively (something like A, B, C). J10 Chi To  It was soon considered that the 47mm cannon class medium would be obsolete before completion thus it was upgraded to a 57mm cannon class tank. J10 Chi To  The other 57mm cannon class medium merged with the 75mm cannon class tank. J10 Chi To  Thus these two, the 57mm cannon class tank and the 75mm cannon class tank, were respectively the Chi-To and the Chi-Ri tanks. J10 Chi To 
+
+
+In the beginning plans were for a 20 ton tank with 50mm of armor with new features like an electrically driven turret. J10 Chi To  By February 1943, plans changed to 75mm armor, the 57mm cannon and top speed of 45kph. J10 Chi To 
+
+For a bigger tank, a new engine started development by Mitsubishi and AL in 1943. J10 Chi To  The result was a air-cooled diesel 412 horsepower at 1800 rpm. J10 Chi To 
+
+Multiple types of suspensions were examined such as the staggered road wheel layout from Germany (Chidori) and torsion bars. J10 Chi To  but the Japanese settled with what they were familiar with, the coil springs. J10 Chi To 
+
+The 57mm cannon prototype was completed in March 1944. J10 Chi To  It completed testing and was officially named the Chi-To in May 1944. J10 Chi To 
+
+
+In the very same month, the Chi-To received the requirement to mount a high velocity 75mm cannon. J10 Chi To  The cannon would come for the Chi-Ri tank program. J10 Chi To  The single tray loader would be removed and the cannon was named the “model 2″ and was used for the Chi-To. J10 Chi To  There were delays in getting the new cannon on which eventually happened in early February 1945. J10 Chi To  A new turret and hull was designed and planned to enter production beginning in August 1945 (the “production version”). J10 Chi To  Plans were written up to create 170 Chi-To tanks by the end of 1945
+
+
+==Design==
+The Type 4 Chi-To was a thirty-ton, all-welded medium tank with a maximum armor thickness of about 75 millimeters (3. J10 Chi To 0 in) on the frontal plates. J10 Chi To  The tank was 6. J10 Chi To 73 m (22. J10 Chi To 1 ft) long, 2. J10 Chi To 87 m (9 ft 5 in) high, and 2. J10 Chi To 87 m (9 ft 5 in) wide. J10 Chi To  The Type 4 had a crew of five men. J10 Chi To  The tracks were supported by seven road wheels. J10 Chi To  It was powered by a 300 kW (400 hp) engine, which was significantly more powerful than the 180 kW (240 hp) engine of the 19-ton Type 3 Chi-Nu tank. J10 Chi To  This gave it a top speed of 45 km/h (28 mph). J10 Chi To  The main armament consisted of a long-barreled Type 5 75 mm Tank Gun which was a variant of the Japanese Type 4 75 mm AA Gun. J10 Chi To  The gun was mounted in a large, hexagonal turret. J10 Chi To  A single 7. J10 Chi To 7 mm machine gun was mounted in the hull. J10 Chi To 
+
+|HistAcc=
+* The Experimental 57 mm Tank Gun Shin that the prototype Chi-To was fitted with is unavailable on this vehicle. J10 Chi To 
+
+|HistoricalGallery=
+File:57_mm_Chi_To. J10 Chi To jpg{{!}}57 mm Chi-To
+File:Chi_To_prototype_on_left,_production_version_on_right. J10 Chi To jpg{{!}}Chi-To prototype version on the left, and production version on the right
+File:Chi_To_istory_screen3. J10 Chi To jpg{{!}}Chi-To production model blueprint. J10 Chi To 
+File:Chi_To_prototype. J10 Chi To jpg{{!}}Chi-To prototype with the 75 mm Type 5 cannon. J10 Chi To 
+File:More_Chi_To. J10 Chi To jpg
+File:Chi-To_prototype_and_Type_FB_Swamp_Vehicle. J10 Chi To jpg{{!}}Photo of Chi-To prototype behind a Type FB Swamp Vehicle, the latter of which is being inspected by an American soldier. J10 Chi To  The Chi-To did not have the 75 mm Type 5 cannon, but rather the 57 mm gun. J10 Chi To 
+File:Japanese_tank_gun_depression. J10 Chi To jpg{{!}}Diagram of various Japanese tanks' gun depression. J10 Chi To  The production model of the Chi-Ri is the second from the bottom. J10 Chi To 
+
+
+|Ref_references=
+* 『対戦車戦闘の参考（戦車関係）補遺』、アジア歴史資料センター。 C14060869100。
+
+|Ref_sources=
+* 日本の戦車 Japanese Tanks Hara 1978
+* グランドパワー Ground Power October 2012
+
+|Ref_links=
+* https://en. J10 Chi To wikipedia. J10 Chi To org/wiki/Type_4_Chi-To
+* https://ftr. J10 Chi To wot-news. J10 Chi To com/2013/09/23/type-4-chi-to-upcoming-tier-5-medium-tank/
+* https://ftr. J10 Chi To wot-news. J10 Chi To com/2014/10/20/buff-my-tank-chi-to/
+* https://www. J10 Chi To reddit. J10 Chi To com/r/Warthunder/comments/601qd8/rare_photo_of_the_chito_prototype_tank/
+
+}}

@@ -1,0 +1,49 @@
+{{TankData|Tank=R175_IS_2_screen 
+
+|The IS-2 Screened was a reward for completing at least four stages of 2020's Road to Berlin event. R175 IS 2 screen  
+
+|Gallery= 
+
+|InTheGame_pros=
+* Mesh screens over the turret and the front and sides of the hull protect against HEAT and HE
+* Good alpha damage and acceptable standard penetration
+* Respectable DPM
+* Improved armor angling over standard IS and IS-2 models
+
+|InTheGame_cons=
+* Somewhat sluggish, namely in hull traverse and top speed
+* No preferential matchmaking. R175 IS 2 screen  Will meet tier 9 tanks. R175 IS 2 screen 
+* Poor view range
+* Poor overall gun handling
+
+|InTheGame_performance=
+The IS-2 Shielded is a variation of the standard [[IS]] tank which features mesh screens over various portions of the vehicle's turret and hull, providing a small amount of protection against HEAT and HE shells. R175 IS 2 screen  In many ways the IS-2 Shielded is the logical progression of the Chinese [[IS-2]] design as compared to the standard IS. R175 IS 2 screen  It features the well-angled hull of the IS-2, but the thickness is improved by 10mm. R175 IS 2 screen  This plus the screens gives it an effective armor value of almost 175mm, meaning that mediums and lower-penetration heavies (including other tanks using the 122mm D-25T type gun) will have only a 50-50 chance for penetration. R175 IS 2 screen 
+
+The IS-2 Shielded also carries a 122mm D-25T, with all that implies--poor gun handling, relatively mediocre penetration, and devastating damage per shot. R175 IS 2 screen  The IS-2 Shielded is meant to get in close and start brawling with enemies, and with its improved armor coverage it stands a good chance of winning against most same-tier brawlers. R175 IS 2 screen  Tanks which rely on HEAT to carry their weight will find the IS-2 Shielded an especially frustrating opponent, as even a minor amount of angling can present a HEAT-dispersing screen where one was not before. R175 IS 2 screen 
+
+However, the IS-2 Shielded buys this defensive boost at the price of mobility. R175 IS 2 screen  "Lumbering" is the only way to really describe it, compared to the likes of the IS. R175 IS 2 screen  Its power-to-weight ratio of 12. R175 IS 2 screen 91 is not the worst among IS-type tanks at this tier, but its poor hull and turret traverse speeds, even worse than the standard IS, means that it will struggle to bring its gun to bear on fast enemies, or angle its hull against new opponents. R175 IS 2 screen  This, plus its 30 kph top speed, means that the IS-2 Shielded will have a very difficult time responding to threats on other parts of the map. R175 IS 2 screen 
+
+The IS-2 Shielded is a slow but steady street fighter designed to partake in city battles and other strong defensive positions. R175 IS 2 screen  Unfortunately, its inability to fulfill other roles as flexibly as the IS, plus its full matchmaking spread, means that it will often be pulled into tier 9 games where it will be heavily outclassed by enemy mediums and particularly the enemy heavies it can expect to face. R175 IS 2 screen  In such situations, the IS-2 Shielded can only play defensively and attempt to assist allies. R175 IS 2 screen  It will fare slightly better against the mountainous piles of HEAT shells fired at high tiers, but its armor cannot be relied upon when it has to challenge something like an [[E-75]]. R175 IS 2 screen 
+
+As such the IS-2 Shielded is somewhat akin to a Russian take on the [[Super Pershing]], trading mobility and flexibility for defensive benefits, and much like the Super Pershing, it will struggle to fulfill other roles. R175 IS 2 screen  Its lacking vision profile means that it will be spotted long before it sees any enemies, and its trundling movement leaves it vulnerable to artillery and tank destroyer fire, or being circled and destroyed by light tanks or sufficiently agile mediums. R175 IS 2 screen  Stay in cities, stay with allies, and watch the minimap closely to avoid being outflanked and taken down. R175 IS 2 screen 
+
+|InTheGame_research= 
+As a premium vehicle, this tank is elite in its stock configuration. R175 IS 2 screen 
+
+|InTheGame_equipment=
+Improved Ventilation Class 3,Large-Caliber Tank Gun Rammer,Spall Liner,Coated Optics,GLD
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

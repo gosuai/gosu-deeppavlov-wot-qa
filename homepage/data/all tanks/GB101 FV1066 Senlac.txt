@@ -1,0 +1,43 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Best DPM among British light tanks
+* Good gun handling, aim time and standard/HE penetration
+* Great gun depression
+* Great speed and acceleration, good agility
+* Good viewrange
+
+|InTheGame_cons= 
+* Fairly large target with bad camouflage for a light tank
+* Virtually unarmored, as is the case for most light tanks
+* Low alpha damage
+* Fairly underwhelming premium ammo penetration
+* Subpar gun elevation
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+None required, this is a premium tank. GB101 FV1066 Senlac 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Binocs, Camo Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

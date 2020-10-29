@@ -1,0 +1,61 @@
+{{TankData|Tank=GB15_Stuart_I
+|The tier III light tank of the British Lend-Lease line, the Stuart I-IV will give you the same things you felt from the British [[M2]]; something much more sluggish than the American version. GB15 Stuart I  The main difference is the 2-pdr cannon you receive, making this LT much more suited for trading shots and supporting the main force, rather than charging head on like the [[M3 Stuart]]. GB15 Stuart I 
+
+|Gallery=
+
+File:Stuart I-IV scr 1. GB15 Stuart I jpg
+File:Stuart I-IV scr 2. GB15 Stuart I jpg
+File:Stuart I-IV scr 3. GB15 Stuart I jpg
+
+
+|InTheGame_pros= 
+* Is able to mount the excellent British 2-Pdr. GB15 Stuart I  gun, which performs exceedingly well at lower tiers. GB15 Stuart I 
+* High RoF on all guns. GB15 Stuart I 
+* Has adequate armor for its tier; the frontal armor will bounce most lower tier auto-cannons and machine-guns. GB15 Stuart I 
+* Good mobility and top speed when fully accelerated. GB15 Stuart I 
+* Relatively accurate guns
+
+|InTheGame_cons=
+* Sluggish acceleration. GB15 Stuart I 
+* In comparison to its American counterpart, it is slower, less mobile, has a lower RoF and a poorer radio. GB15 Stuart I 
+* Has a boxy silhouette, making it an easy target to hit. GB15 Stuart I 
+* Still has the same armor as the M3 Stuart, meaning that if you're caught off guard and get flanked, your sides and rear will get ripped to pieces. GB15 Stuart I 
+
+
+|InTheGame_performance=
+The Stuart I-IV it plays quite differently to its American counterpart, the M3 Stuart. GB15 Stuart I  It gains the OQF 2-pounder, which is better than the M3's 37mm M6. GB15 Stuart I  But where it gains in firepower, it loses in speed and radio range. GB15 Stuart I  It will take more time to get to its top speed compared to the M3 Stuart, and will not be able to contact allies of enemy positions from across large maps. GB15 Stuart I  Not only that, it still has the same armor as the original M3 Stuart, and is sluggish due to the weaker engine. GB15 Stuart I 
+
+Stick to your friends and support by flanking enemies. GB15 Stuart I  Use the 2-pounder's excellent penetration and rate of fire to rip your enemy's side apart. GB15 Stuart I 
+
+|InTheGame_research=
+# Radios will be available if you've played British tanks already. GB15 Stuart I  Mount it immediately. GB15 Stuart I 
+# Research suspension and engine to gain much needed speed and maneuverability. GB15 Stuart I 
+# Research turret. GB15 Stuart I  The 2-pounder is already available if you've played any of the British low tier 'Cruiser' tanks, so mount it too. GB15 Stuart I 
+# Go from there. GB15 Stuart I 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+The British Army was the first to use the Light Tank M3 as the "General Stuart" in combat. GB15 Stuart I  From mid-November 1941 to the end of the year, about 170 Stuarts (in a total force of over 700 tanks) took part in Operation Crusader during the North Africa Campaign, with poor results. GB15 Stuart I  Although the high losses suffered by Stuart-equipped units during the operation had more to do with better tactics and training of the Afrika Korps than the apparent superiority of German armored fighting vehicles used in the North African campaign, the operation revealed that the M3 had several technical faults. GB15 Stuart I  Mentioned in the British complaints were the 37 mm M5 gun and poor internal layout. GB15 Stuart I  The two-man turret crew was a significant weakness, and some British units tried to fight with three-man turret crews. GB15 Stuart I  The Stuart also had a limited range, which was a severe problem in the highly mobile desert warfare as units often outpaced their supplies and were stranded when they ran out of fuel. GB15 Stuart I  On the positive side, crews liked its relatively high speed and mechanical reliability. GB15 Stuart I  The high reliability distinguished the Stuart from cruiser tanks of the period, in particular the Crusader, which composed a large portion of the British tank force in Africa up until 1942. GB15 Stuart I 
+
+|HistAcc=
+The 2-pdr gun configuration is fake. GB15 Stuart I 
+* Smoke dischargers are visible on the left side of the turret but there is no option to use them. GB15 Stuart I 
+
+|HistoricalGallery=
+Stuart I. GB15 Stuart I jpg{{!}}Stuart I
+Stuart I (2). GB15 Stuart I jpg{{!}}Stuart I tanks of the 8th Hussars undergoing testing in the Western Desert on 28 August 1941
+Stuart I (3). GB15 Stuart I jpg{{!}}Stuart I wreck in North Africa, April 1941
+Stuart I (4). GB15 Stuart I jpg{{!}}Australian Stuart I attacking Japanese pillboxes in support of infantry during the Battle of Buna-Gona on 2 January 1943
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

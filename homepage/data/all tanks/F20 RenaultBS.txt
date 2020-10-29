@@ -1,0 +1,70 @@
+{{TankData|Tank=RenaultBS
+
+|Since the [[SU-18]] was the SPG variant of the [[MS-1]], itself the soviet version of the [[Renault FT]], this tank is extremely similar to its Russian counterpart. F20 RenaultBS  It has a short range, fast RoF and aim time and the same mobility as the FT-17, which puts it on par with the other tier 2 SPGs. F20 RenaultBS 
+
+|Gallery=
+
+File:Renault FT 75 BS scr 1. F20 RenaultBS jpg
+File:Renault FT 75 BS scr 2. F20 RenaultBS jpg
+File:Renault FT 75 BS scr 3. F20 RenaultBS jpg
+
+
+|InTheGame_pros=
+* Gun range: 480 m
+* Aims the quickest of the tier 2 SPGs
+* Good gun traverse, depression and elevation
+* Good reload time
+* Small size makes hiding easier. F20 RenaultBS 
+* Can mount ventilation
+* Most accurate tier 2 SPG
+
+|InTheGame_cons=
+* Poor top speed
+* Slow hull traverse and poor acceleration
+* Poor view range
+* Somewhat slow shell velocity
+
+
+|InTheGame_performance=
+
+The first French SPG can be a rather fun experience for new players that want to try out the artillery side of the game. F20 RenaultBS  It aims faster than the other tier 2 SPGs, which is helpful to all players, but especially to players new to SPGs. F20 RenaultBS  Its second engine upgrade makes it pretty maneuverable and has decent acceleration. F20 RenaultBS  It also has great accuracy and a quick reload time for an arty. F20 RenaultBS  Keep in mind that just like the Soviet [[SU-18]], the range isn't that great, the top speed is terrible, and small obstacles like fences or trees can stall or slow down the tank. F20 RenaultBS  Also, it only has two crew members and a rather limited ammo capacity. F20 RenaultBS  It also plays well as a Tank Destroyer due to its great gun depression. F20 RenaultBS  However, don't do this unless the situation is extreme. F20 RenaultBS 
+
+* This tank can easily relocate after a shot, but don't expect to be crossing the battlefield anytime soon. F20 RenaultBS 
+* The shell has a rather long travel time so you need to time properly when aiming at other tanks, specially when they are on the move. F20 RenaultBS 
+* This tank can easily take advantage of the Camouflage Net as it has rather small profile. F20 RenaultBS 
+* Should you decide to keep this on your garage, the Gun Laying Drive will make your aiming lightning fast!
+
+
+|InTheGame_research=
+
+* The engines carry over from the [[Renault FT]], so upgrade the engine immediately. F20 RenaultBS 
+* Research the suspension and the radio. F20 RenaultBS 
+* Have fun!
+
+|InTheGame_equipment=
+
+Vents, GLD, Camouflage Net, Artillery Shell Rammer
+
+|History=
+[[image:RenaultBS. F20 RenaultBS jpg|thumb|200px|left|RenaultBS. F20 RenaultBS  Evolution of FT with a riveted superstructure and a 75 mm howitzer]]
+The Char Renault FT BS was a self-propelled gun mounting a 75mm Blockhaus Schneider L9. F20 RenaultBS 5 short-barreled howitzer in a seven-sided riveted superstructure that replaced the turret. F20 RenaultBS  Since new superstructure was significantly bigger then the previous turret,  the vehicle's weight was increased to 7. F20 RenaultBS 2 tons. F20 RenaultBS  Due to the size of the gun, ammunition storage was reduced to only 30 rounds, a rather small number considering standards of its time. F20 RenaultBS  The army was satisfied with the design and an order was placed for a total of 970 units. F20 RenaultBS  Unfortunately, due to the Armistice in in 1918, only 39 vehicles were completed before all further production was cancelled. F20 RenaultBS  There are no data concerning possible usage in France during 1940, but some combat service has been recorded during interwar period in North Africa. F20 RenaultBS  At least two vehicles were captured by the Allied forces during operation Torch. F20 RenaultBS 
+
+|HistoricalGallery=
+image:BS 2. F20 RenaultBS jpg{{!}}Renault BS
+image:BS 3. F20 RenaultBS jpg{{!}}A row of Renault BS tanks
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* https://wwi. F20 RenaultBS hut2. F20 RenaultBS ru/tank2/all/ft17. F20 RenaultBS htm
+* https://www. F20 RenaultBS littlewars. F20 RenaultBS se/french1940/ft17. F20 RenaultBS html
+
+}}
+
+[[Category:Append: History]]

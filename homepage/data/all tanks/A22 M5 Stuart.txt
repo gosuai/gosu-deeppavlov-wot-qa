@@ -1,0 +1,66 @@
+{{TankData|Tank=M5_Stuart
+|At first, the M5 Stuart appears to be a minor downgrade from the [[M3 Stuart]], with slightly less armor, but more hit points. A22 M5 Stuart  However, the armor is slanted better, and doesn't make too much of a difference. A22 M5 Stuart  This tank used to be able to equip a powerful 75mm Howitzer M3, but it was removed in Patch 9. A22 M5 Stuart 3 and replaced with the 37mm Gun T16 automatic gun. A22 M5 Stuart  As such, it still posses formidable firepower against lightly armored tanks, but the low penetration hinders it greatly against heavily armored tanks. A22 M5 Stuart  However, the M5's excellent speed and agility can be used to expose the thin rear and side armor of your opponents for maximum effect. A22 M5 Stuart  Come in fast, get close, and then get out of there. A22 M5 Stuart  You can always come around for another pass from a different angle. A22 M5 Stuart 
+
+|InTheGame_pros=
+* Good top speed and maneuverability
+* Good turret traverse speed
+* Good view and signal range
+* The top gun has great gun depression, aim time and dispersion stats
+* Small chunk of spaced armor near the turret machine gun
+
+|InTheGame_cons=
+* The 37mm Gun T16 is one of the only 2 fully-automatic cannons ingame: depletes clip on click, high probability of collateral damage
+* Due to subpar accuracy and very quick in-clip reload, latter shots in a clip would scatter wildly 
+* Poor hull and turret armor
+* Lowest penetration of all tier 4 light tanks
+* Pitiful alpha damage
+
+|InTheGame_performance=
+Due to its battle tier placement, this tank is relegated to a scouting role. A22 M5 Stuart  This tank is not completely defenseless, but as it cannot stand against enemy fire, you should harass the enemy with hit and run tactics. A22 M5 Stuart  This tank can win in a dogfight with pretty much any other tier 4 light, destroy almost any arty it will come up against, and seriously annoy anything else. A22 M5 Stuart  If you can force the enemy's attention away from your allies, their jobs will be much easier and you will have greatly contributed to team victory. A22 M5 Stuart  You are a very small target with passable view range, a good radio and extremely good mobility, making active scouting possible. A22 M5 Stuart  
+
+While performance characteristics are excellent, its gun performance leaves much to be desired, as with the actual M5 Stuart. A22 M5 Stuart  While the T16 gun allows it to pump five shots in the span of less than four seconds dealing 200 damage if all shots hit, the penetration and alpha damage values are horrible; they are literally the same as the preceding gun, the 37mm Gun M6, a cannon adequate against Tier III vehicles when mounted on the M3. A22 M5 Stuart  This severely limits the targets it can engage. A22 M5 Stuart  Even with special ammunition, it is incapable of penetrating the side or rear armor of some heavy tanks, tank destroyers or even a few medium tanks. A22 M5 Stuart  If you do encounter them, then you may either retreat and let allies deal with them or pin them by tracking them long enough for allies to come to your aid. A22 M5 Stuart  Care also must be taken when firing around allies. A22 M5 Stuart  Because of the fact that one click fires all 5 shells, you literally can't stop shooting once you click. A22 M5 Stuart  This can lead to accidental team damage more frequently than other tanks of the same tier. A22 M5 Stuart 
+
+|InTheGame_research=
+* The Continental R-975-C1 engine and the SCR 506 radio carry over from the M3 Stuart and should be installed immediately. A22 M5 Stuart 
+* As a scout, your primary objective is to light up enemy players, not try to kill them, therefore it is recommended that you research the VVSS T36E8 suspension first. A22 M5 Stuart 
+*The 37 mm Gun T16 autoloading gun is next and is needed to unlock the next module, the M5A1 turret which has more armour and an increased view range. A22 M5 Stuart 
+* After that, the player can choose between the M7 and the M24 Chaffee. A22 M5 Stuart 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, GLD, Wet Ammo Rack, Camouflage Net, Small Spall Liner
+
+|Gallery=
+image:M5_Stuart_001. A22 M5 Stuart jpg
+image:M5_Stuart_002. A22 M5 Stuart jpg
+image:M5_Stuart_003. A22 M5 Stuart jpg
+image:M5_Stuart_004. A22 M5 Stuart jpg
+
+|History=
+[[image:United States' M5 Light Tank at the Patton Museum in Ft Knox, Kentucky. A22 M5 Stuart png |thumb|200px|left|The United States' M5 Light Tank at the Patton Museum in Ft Knox, Kentucky ]]
+The Light Tank M5 was a modified [[M3 Stuart|Light Tank M3]] with a new power train and an improved armor layout. A22 M5 Stuart  A radial engine shortage was expected in 1941, and it was decided to find alternative engines to power tanks. A22 M5 Stuart  The engines in the M5 were Cadillac automobile engines, each with its own transmission. A22 M5 Stuart  The hull was all-welded, and the glacis was sloped and moved out to make more room for the drivers. A22 M5 Stuart  The drivers had their own hatches, which were equipped with periscopes. A22 M5 Stuart  Direct vision for the drivers was through two peepholes that were closed with steel plugs attached with chains. A22 M5 Stuart  The M5's turret was the same as that on the light tank M3A1. A22 M5 Stuart  The M5 was originally known as light tank M4, but was redesignated to M5 to avoid confusion with the medium tank M4. A22 M5 Stuart  The British called the M5 the Stuart VI. A22 M5 Stuart 
+
+An experimental 37mm semi-automatic gun known as the 37 mm Gun T16 was built and tested in the M5 Light. A22 M5 Stuart  However, it was found to be impractical due to the need to redesign several elements of the turret and gun, and the project was cancelled in August 1944. A22 M5 Stuart 
+
+|HistoricalGallery=
+image:M5 Light Tank with the 761st Tank Battalion in Coburg, Germany, 21 April 1945. A22 M5 Stuart png{{!}}M5 Light Tank with the 761st Tank Battalion in Coburg, Germany, 21 April 1945
+image:M5 Light Tank with the 7th US Army entering Neustadt a. A22 M5 Stuart d. A22 M5 Stuart  Aisch, Germany on April 6, 1945. A22 M5 Stuart png{{!}}M5 Light Tank with the 7th US Army entering Neustadt a. A22 M5 Stuart d. A22 M5 Stuart  Aisch, Germany on April 6, 1945
+image:United States' M5 light tank, Stuart, gun mount. A22 M5 Stuart png{{!}}United States' M5 Light Tank, Stuart, gun mount
+image:United States' M5 light tank, Stuart, on exercise in 1944. A22 M5 Stuart png{{!}}United States' M5 Light Tank, Stuart, on exercise in 1944
+image:United States' M5 light tank, Stuart. A22 M5 Stuart png{{!}}United States' M5 Light Tank, Stuart
+
+|Ref_references=
+
+
+|Ref_sources=
+* Hunnicutt, R. A22 M5 Stuart  P. A22 M5 Stuart  Stuart, A History of the American Light Tank. A22 M5 Stuart  Vol. A22 M5 Stuart  1; 1992, Presidio Press. A22 M5 Stuart  ISBN 0-89141-462-2. A22 M5 Stuart 
+* Zaloga, Steven. A22 M5 Stuart  M3 & M5 Stuart Light Tank. A22 M5 Stuart  1999; Osprey New Vanguard 33. A22 M5 Stuart  ISBN 978-1-85532-911-9. A22 M5 Stuart 
+* Zaloga, Steven. A22 M5 Stuart  Japanese Tanks 1939-45. A22 M5 Stuart  Osprey New Vanguard 137. A22 M5 Stuart  ISBN 978-1-84603-091-8. A22 M5 Stuart 
+* Zaloga, Steven. A22 M5 Stuart  Armored Thunderbolt, The US Army Sherman in World War II. A22 M5 Stuart  2008; Stackpole Books. A22 M5 Stuart  ISBN 978-0-8117-0424-3. A22 M5 Stuart 
+* Hembree, Mark. A22 M5 Stuart  "History You Can Model" FineScale Modeler February 2011. A22 M5 Stuart . A22 M5 Stuart Page 74 (ISSN 0277-979X, USPS No. A22 M5 Stuart  679-590)
+
+|Ref_links=
+* https://afvdb. A22 M5 Stuart 50megs. A22 M5 Stuart com/usa/m5stuart. A22 M5 Stuart html
+* https://worldoftanks. A22 M5 Stuart com/en/news/chieftain/37mm-gun-t16/
+* https://worldoftanks. A22 M5 Stuart asia/en/news/chieftain/chieftains-hatch-37mmt16b/
+
+}}

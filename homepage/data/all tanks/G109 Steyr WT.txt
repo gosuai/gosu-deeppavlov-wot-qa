@@ -1,0 +1,65 @@
+{{TankData|Tank=
+| 
+
+
+|Gallery=
+image:Steyr Waffenträger front view 1. G109 Steyr WT jpg‎{{!}}Steyr Waffenträger front left view
+image:Steyr Waffenträger front view 2. G109 Steyr WT jpg‎{{!}}Steyr Waffenträger right left view
+image:Steyr Waffenträger back view 1. G109 Steyr WT jpg‎{{!}}Steyr Waffenträger front left view
+image:Steyr Waffenträger back view 2. G109 Steyr WT jpg‎{{!}}Steyr Waffenträger right left view
+
+|InTheGame_pros= 
+- Its turret can fully traverse and does it quite fast for a Tank Destroyer. G109 Steyr WT 
+
+- Good accuracy and gun handling
+
+- High camouflage rating. G109 Steyr WT  Even while moving, it gets ~20%+ (with paint and crew skills). G109 Steyr WT 
+
+- Decent penetration. G109 Steyr WT 
+
+- Exceptional gun elevation angle at 45 degrees. G109 Steyr WT  Gun depression is also useful at -8 degrees. G109 Steyr WT 
+
+|InTheGame_cons= 
+- Thin paper armor and very low HP (800), Can be ripped to pieces by HE
+
+- Acceleration might be acceptable but the poor top speed (35/-15 KM/H) means that if it's spotted, it cannot retreat to safety. G109 Steyr WT 
+
+- Limited view range. G109 Steyr WT 
+
+- Low alpha damage and overall bad DPM. G109 Steyr WT 
+
+- Very weak engine (only 220HP). G109 Steyr WT  As it is mounted on the front, shots might do engine  damage along with a broken track. G109 Steyr WT 
+
+|InTheGame_performance=
+Something of a cross between the [[M56 Scorpion]] and the [[Rheinmetall Skorpion G]], the Krupp-Steyr relies on stealth to snipe from a distance. G109 Steyr WT  Binoculars are an absolute necessity, because the viewrange is rather short. G109 Steyr WT  Avoid closing with the enemy at all costs. G109 Steyr WT 
+
+The turret allows you to make the most effective use of a combination of cammo net and binoculars, and offsets the fact that the Krupp-Steyr is not as stealthy as the [[M56 Scorpion]]. G109 Steyr WT 
+
+Unfortunately, the poor engine power and low top speed make it difficult to maintain a suitable distance. G109 Steyr WT  When retreating the enemy will overtake you, when avancing you may well fall behind the battle and become useless. G109 Steyr WT  The key to success is stealth. G109 Steyr WT  
+This vehicle can be very effective on maps with good concealment, but will struggle badly on city maps. G109 Steyr WT 
+
+The two small viewports at the front block the gun depression, causing the gun to point upwards. G109 Steyr WT  This can become a fatal vulnerability should you find yourself forced into a turning fight at close range. G109 Steyr WT 
+
+Hence, like you should do with any Waffenträger, when you reached the TD spot, point the REAR of the vehicle to the enemy. G109 Steyr WT  This will protect your rather fragile engine and free the gun depression from any obstructions, allowing you to snipe from otherwise difficult positions. G109 Steyr WT 
+
+This will make leaving the area faster, and if you get tracked, the repair kit will come in handy. G109 Steyr WT  But as mentioned before, with 35km/h, you're may not be going too far. G109 Steyr WT 
+
+The crew layout is compatible with: Rhm-B. G109 Steyr WT WT, E25, Jagdpanzer IV and Hetzer. G109 Steyr WT 
+
+|InTheGame_research= None required. G109 Steyr WT  This is a premium vehicle. G109 Steyr WT 
+
+|InTheGame_equipment= Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+|HistoricalGallery=
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

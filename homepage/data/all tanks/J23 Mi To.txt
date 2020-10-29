@@ -1,0 +1,278 @@
+{{TankData|Tank= J23_Mi_To
+| 
+Once an extremely overpowered monstrosity with titanic alpha damage, almost medium tank levels of mobility (and insane ramming capabilities) and rather weak armor, the O-I Experimental is now toned down. J23 Mi To  It is now closer to that of higher tier Japanese heavies, having terrible mobility but very thick frontal armor - thickest of all tier 5 heavies. J23 Mi To  It also features a two sets of viable guns. J23 Mi To 
+
+O-I Experimental still has a fair amount of differences compared to higher tier Japanese heavies - exact opposite to what AP guns are at tier 6-10 (high alpha, poor DPM, gun handling and accuracy), the 7. J23 Mi To 5 cm gun has great DPM, gun handling and decent accuracy but lackluster alpha damage. J23 Mi To  The 12 cm derp gun has very powerful HEAT shells, but the HE is still not quite as effective as higher tier Japanese heavies. J23 Mi To  On top of that, it also has quite a few frontal weakspots unlike its bigger brothers; like KV-5, the miniturrets are weak, and the cupola is also weak. J23 Mi To  Nevertheless, the O-I Experimental is a meaty upgrade from the Type 95, still a strong tank and prepares the player for the rest of the line. J23 Mi To 
+
+The O-I Experimental was removed from tech tree and available for purchase as collector's vehicles in the 1. J23 Mi To 8 update. J23 Mi To  It no longer leads to the O-I. J23 Mi To 
+
+|Gallery=
+
+File:O-I Experimental scr 1. J23 Mi To jpg
+File:O-I Experimental scr 2. J23 Mi To jpg
+File:O-I Experimental scr 3. J23 Mi To jpg
+
+
+|InTheGame_pros= 
+- 12cm howitzer is capable of doing titanic damage if it penetrates with its HE shells
+
+- The HEAT shells on the derp have high penetration, making the O-I Exp very scary opponent to fight from front. J23 Mi To 
+
+- 7. J23 Mi To 5cm guns has high DPM and decent accuracy
+
+- Very good view range
+
+- Very high ammo capacity
+
+- Dirt cheap shells for 12cm gun, besides HEAT. J23 Mi To 
+
+- Very thick armor frontally, can resist most tier 5 standard rounds, and the weakspots are small and not super obvious because they are not shared with higher tier Japanese heavies
+
+- Easy stock grind, since lacking an additional turret, stock gun is 12cm howitzer with effective HE shell and stock tracks can support all modules and all but the heaviest equipments
+
+|InTheGame_cons= 
+- By far largest tank at Tier 5, impossible to evade incoming fire, and camo is almost non-existent
+
+- Extremely vulnerable to artillery due to huge size, poor mobility, rather weak roof armor and tier 5-6 arties in general having higher alpha damage tier-for-tier than higher tier ones
+
+- Low top speed despite powerful engine
+
+- While armor protects well against lower tiers and most peers, even angled it struggles against most higher tiers
+
+- Weak lower hull sides can be troublesome in brawling
+
+- 12cm gun has ridiculous '''''subsonic''''' shell velocity and generally useless AP round,requires lot of practicing to hit anything out of point-blank range
+
+- 7,5cm gun has underwhelming alpha damage
+
+- Large ammorack on the sides that gets damaged often
+
+
+|InTheGame_performance= 
+The O-I Experimental can be considered to be first actual Japanese heavy tank, and for most of people huge relief after struggling with widely mediocre Type 95. J23 Mi To  It already has typical features of the high-tier Japanese heavies - massive size, poor mobility, thick frontal armor, choice of two guns and great gun depression. J23 Mi To  
+
+Whatever gun you use, the O-I Exp. J23 Mi To  stays as a frontline tank - tank hits and return fire. J23 Mi To  The frontal armor is thicker than any other tier 5 HT (though overall way less effective than that of KV-220-2), meaning that when top tier, O-I Exp can just push aggressively. J23 Mi To  When bottom tier however, the O-I Exp will struggle, because the armor is largely irrelevant. J23 Mi To  It does have very nice view range though, meaning that it is capable of atleast spot enemies if it cant do anything else. J23 Mi To 
+
+The 12 cm derp gun is very similar to the 122 mm Russian howitzer. J23 Mi To  It does get an AP shell, but its mostly useless as it has same penetration as the HE shell. J23 Mi To  It can be helpful for overmatching some tanks though, so you can still load a few because the tank has absolutely massive ammo capacity. J23 Mi To  Top tier, if one can afford it, you can load HEAT and absolutely wreck faces with 360 alpha damage. J23 Mi To  However, HEAT is fairly powerless when bottom tier, so spamming HE is more adviceable here. J23 Mi To  Keep on mind that the howitzer has very, very poor shell velocity, so leading shots at long ranges is almost impossible. J23 Mi To  The shell flies on so high arc that O-I Exp can loop its shells over small ridges and obstacles if aimed from 3rd person mode or if using autoaim, so it can function as pseudo-artillery if used correctly. J23 Mi To 
+
+The 7. J23 Mi To 5 cm gun is versatile option, having excellent DPM, average penetration and very good gun handling for a tier 5 heavy tank. J23 Mi To  Top tier it can just melt its enemies, as it can destroy tier 4s and tier 5s in seconds. J23 Mi To  It is also very capable of permatracking enemy tanks. J23 Mi To  However, it has poor premium penetration, meaning that with this gun the tank will struggle if bottom tier. J23 Mi To  It has pretty good accuracy and gun handling, meaning that sniping is actually not impossible with the tank if isnt capable of doing anything else. J23 Mi To 
+
+While the O-I Experimental is generally a shadow of its former itself, it is still a very capable tank. J23 Mi To  It also prepares the player for the rest of the line. J23 Mi To  At tier 6, the playstyle generalizes bit more to basically complete lack of weakspots, and harder hitting derp guns. J23 Mi To 
+
+|InTheGame_research= 
+Due to the fact that you can mount everything with the stock suspension, it is recommended that you start with getting the XP for the engine. J23 Mi To  Suspension, 7. J23 Mi To 5cm guns and radio are secondary unless one prefers quick-firing guns. J23 Mi To  
+
+The two 7. J23 Mi To 5cm may already be unlocked from the tier 5 medium Chi-Nu. J23 Mi To  Otherwise, you have the stock 12cm derp gun to use. J23 Mi To  The stock derp gun is similar to the Russian U-11 122mm derp gun in performance, but has noticeably slower shell velocity; therefore players should try to get close to the enemy to have a decent chance of hitting them. J23 Mi To  The stock 12cm leads to both the 75mm guns, which are considered too tiny for such a heavy breakthrough tank. J23 Mi To  One drawback of these 7. J23 Mi To 5cm guns is that the premium rounds do not offer significant penetration advantage over the standard AP, and may run into trouble facing heavily armored tanks in higher tiers, so be sure to read the teamlist for expected enemies at each map location and plan ahead. J23 Mi To 
+
+The upgraded engine is quite expensive in terms of XP, but this engine carries over right up the line of heavy tanks. J23 Mi To  It only adds 9% engine power but considering that higher tiers are quite slow and appreciates any engine power boost, it's recommended to research. J23 Mi To 
+
+Stock suspension is good enough to handle every module, but the upgraded one can make the tank noticeably more nimble. J23 Mi To 
+
+Lastly, research 7. J23 Mi To 5cm guns if you haven't unlocked them from medium line, unless you have an preference on accurate quick-firing guns. J23 Mi To 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+While the O-I itself existed, the tier 5 O-I Experimental is practically a complete fabrication. J23 Mi To  The tank is based on the "100 tonne prototype" that had only 75 mm armor and could reach the speed of 40 kph. J23 Mi To  None of the guns of the O-I Experimental were ever proposed on the O-I, the tank dimensions are smaller and miniturrets different. J23 Mi To  In addition, the built prototype didnt have turrets, so even with 75 mm armor the tank would have been heavier than 100 tons. J23 Mi To  The armor and mobility, only "historical" traits about the tank, were rebalanced in 9. J23 Mi To 20, rendering the tank practically completely unhistorical, fabricated version of the prototype of the O-I. J23 Mi To 
+
+-----------------
+''History of the super-heavy tank O-I''
+
+The O-I (オイ車 Oi-sensha) was a super-heavy tank prototype designed by the Imperial Japanese Army during the Second Sino-Japanese War after the Battles of Nomonhan in 1939. J23 Mi To  The O-I is one of the Second World War’s more secretive tank projects, with documentation regarding the tank being kept private for over 75 years at Wakajishi Shrine, Fujinomiya. J23 Mi To  Surviving files have been purchased by FineMolds Inc. J23 Mi To , and publicly previewed in mid-2015. J23 Mi To  The multi-turreted 150-ton tank was designed for use on the Manchurian plains as a supportive pillbox for the Imperial Japanese against the Soviet Union. J23 Mi To  The project was disbanded four years after the initial development began, deemed unsatisfactory for continuation in 1943 after the lack of resource material for the prototype. J23 Mi To 
+
+[[image:OI_technical_drawing. J23 Mi To jpg]]
+
+
+
+
+History and development
+
+After 1939, the Imperial Japanese Army quickly came to realize that previous forms of mechanized warfare were proved inefficient after their defeat at Khalkhin Gol. J23 Mi To 
+
+Development of the super-heavy project was spearheaded by Colonel Hideo Iwakuro, the head of the Ministry of War of Japan (陸軍省 Rikugun-shō). J23 Mi To  Iwakuro opposed Japan’s advances towards the Soviet Union in 1939, and with the Japanese defeat, he decided to initiate a project to construct a heavily armored tank capable of withstanding large-calibre field cannons. J23 Mi To  Iwakuro assigned Colonel Murata of the 4th Technical Research Group to design and construct the super heavy tank in 1939. J23 Mi To  Colonel Murata noted Iwakuro’s words as described;
+
+
+「満州の大平原で移動トーチカとして使えるような巨大戦車を作ってほしい。極秘でだ。」
+“I want a huge tank built which can be used as a mobile pillbox in the wide open plains of Manchuria. J23 Mi To  Top secret. J23 Mi To ”
+
+
+「今の戦車の寸法を2倍に延ばして作れ。」
+“Make the dimensions twice that of today’s tanks. J23 Mi To ”
+
+
+The 4th Technical Research Group began designing the super-heavy vehicle throughout 1940, attempting to meet Colonel Iwakuro’s vague instructions on the ultimate goal of the project. J23 Mi To  By March 1941, the research group had finished initial tank design and was ready to begin construction. J23 Mi To  The following month, a group of pre-selected engineers were chosen to partake in the building of the super-heavy tank. J23 Mi To  One recorded engineer was Shigeo Otaka, who stated they were sent to the 4th Technical Research Group’s previous headquarters in Tokyo. J23 Mi To  There, they were guided through a barracks containing multiple small fitting rooms, where they were to conduct meetings and reports on the progress of construction of the super-heavy vehicle. J23 Mi To  Towards the end of the barracks facility was a fully-enclosed room devoid of windows, with soundproofed walls to prevent external personnel from overhearing discussions related to the project. J23 Mi To  Each officer present possessed a portion of the project’s blueprint, which, when assembled, projected the full design of the tank, labelled "Mi-To". J23 Mi To  The name originated from a collection of the Mitsubishi industry and the city, Tokyo; given to the vehicle to uphold secrecy of the tank’s project. J23 Mi To 
+
+
+[[image:Colonel_Murata. J23 Mi To png]] [[image:Colonel_Iwakuro. J23 Mi To jpg]]
+Colonels Murata and Iwakuro
+
+
+The chosen engineers voiced their concerns regarding the Mi-To’s design noting that previously, the largest-sized Japanese tank had been the prototype Type95 Heavy in 1934. J23 Mi To  Issues that had been noted with heavy tank experiments in the years preceding the Mi-To showing Japan’s generally unsuccessful testing on multi-turreted vehicles exceeding the weight of standard armored vehicles. J23 Mi To  However, with the threat of a second Russo-Japanese conflict becoming more apparent, the project continued despite the engineer’s doubts on the size and mobility of the vehicle. J23 Mi To 
+
+[[File:Surviving_Mi-To_engineers. J23 Mi To jpg]]
+Four engineers who survived to record the dealing had with the project
+
+
+On April 14th 1941, the engineers began the construction of the Mi-To under secretive means. J23 Mi To  This entailed privately-made mechanical parts and equipment being shipped to the construction zone. J23 Mi To  Colonel Murata’s original concept was to complete the super-heavy tank three months after the initiation of Mi-To’s construction. J23 Mi To  This, ultimately, did not come into fruition; as technical issues on the project began to arise. J23 Mi To  Due to the limitation on material consumption by the government, the amount of parts that could be secretly shipped-in began to dwindle. J23 Mi To  By the first month of construction, essential construction resources had been depleted and the issues with the vehicle’s cooling system further caused delays. J23 Mi To  The construction of the Mi-To was postponed until January 1942, a delay of nine months. J23 Mi To 
+
+
+After the Mi-To’s construction was resumed, the hull was completed on February 8th 1942. J23 Mi To  The tank had reached near-completion and was being prepared for mobility testing. J23 Mi To  Mitsubishi built the four turrets for the tank in May of the same year. J23 Mi To  Initial assembly of the tank’s armament took place soon after the turret’s superstructures were completed. J23 Mi To  However; the project once again did not have the necessary resources needed for the few remaining parts required for the final assessment. J23 Mi To  Due to this, the primary turret was removed as it lacked a 35-millimetre-thick roof plate, which had not yet arrived. J23 Mi To  Thus, the project was put on standby, until further development could continue. J23 Mi To  The total weight of the vehicle at the time was 96 tons, due to the lack of remaining structural plates and absent 75mm bolted-on armor. J23 Mi To 
+
+
+[[File:O-I_documents_previewed_by_FineMolds. J23 Mi To png]]
+O-I documents previewed by FineMolds
+
+The date on which the construction of the tank resumed is unknown, although active testing of the tank was scheduled for late 1943. J23 Mi To  The tank was unveiled to the Imperial Japanese Army’s highest command in 1943, and received a name change to O-I. J23 Mi To  This followed Japanese naming convention (O translating to Heavy, I for First, making it "First Heavy") that was standard. J23 Mi To  In his place was Lieutenant Colonel Nakano, Murata's assistant and colleague. J23 Mi To  Tomio Hara, head of the Sagamia Army Arsenal, was also present. J23 Mi To  Following the demonstration, senior officials within the IJA requested that field trials begin in August of the same year. J23 Mi To  The tank was disassembled at 2:00 AM one night in June of 1943 and sent to the Sagami Army Arsenal in Sagamihara, 51 kilometres from Tokyo. J23 Mi To  The vehicle arrived at the depot in June, and was reassembled and tested on the 1st of August. J23 Mi To 
+
+On the day of the trials, the O-I performed satisfactorily until the second hour of the tests. J23 Mi To  While manoeuvring on off-road terrain, the tank sank into the ground by up to a meter; attempts at traversing the hull to extricate the vehicle proved fruitless, resulting in further sinking due to the vehicle’s suspension coils compressing. J23 Mi To  The tank was eventually towed out, and further testing was continued on concrete. J23 Mi To  However, the earlier damage to the suspension resulted in vehicle’s movement damaging the concrete, which in turn, further damaged the suspension bogies to the point that further testing could not continue. J23 Mi To  The trials were postponed, and later cancelled the following day. J23 Mi To 
+
+
+Nevertheless, the trials conducted at the testing field were considered to be a success, and the vehicle was deemed ready for use in spite of its flaws. J23 Mi To  The engineers began disassembly of the tank on the 3rd of August due to resources being limited and the inability to maintain the tank in the field. J23 Mi To  Disassembly of the tank was completed on August 8th. J23 Mi To  Two days later, the engineers noted in a log that they were to inspect the parts and conduct research to fix the issues the O-I would face. J23 Mi To 
+
+
+The fate of the O-I after its field-trials which took place on the 1st of August is unclear. J23 Mi To  Russian reports claim the Japanese were in possession of a wooden O-I mock-up mounting a Daimler-Benz DB 601A engine in 1945, however other sources point to the scrapping of the remaining parts of the same year. J23 Mi To  The remains of the O-I reside at the Wakajishi Shrine, with a track link of the prototype still present. J23 Mi To 
+
+[[image: OI_Track_Link. J23 Mi To jpg]]
+Remaining track link of the prototype O-I tank
+
+
+
+Design
+The O-I was conceived out of the necessity to produce an armored vehicle capable of withstanding modern weaponry being able to return fire with similar firepower. J23 Mi To  The O-I was designed to act as a mobile pillbox, supporting infantry and mechanized groups along the border  of the Soviet Union. J23 Mi To  The tank had a length of 10. J23 Mi To 1 meters, width of 4. J23 Mi To 8 meters, and a height of 3. J23 Mi To 6 meters. J23 Mi To  The dimensions of the vehicle closely matched those of the Panzer VIII Maus. J23 Mi To  The tank was envisioned to have a standard thickness of 150 millimeters front and rear, in order to protect against common anti-tank weapons of the time, yet it was constructed with armor 75 millimeters thick. J23 Mi To  However, an additional armor plate could be bolted on to bring the total thickness of the armor to 150 millimeters. J23 Mi To  The use of additional armor allowed for ease of construction and transportation, while also providing the tank with additional defense. J23 Mi To  Side armor on the hull superstructure was 70 millimeters thick. J23 Mi To  The additional armor plates were 35 millimeters thick,  but armor surrounding the suspension was only 35 millimeters thick. J23 Mi To  This made the tank’s theoretical armor on the side 75 millimeters. J23 Mi To   There were eight wheel-supporting beams located on both sides of the suspension area which added an additional 40 millimeters of armor to specific locations on the side of the O-I. J23 Mi To  40 ladder pieces were placed around the tank to provide crew with the ability to climb onto of the vehicle with ease. J23 Mi To 
+
+
+The two 47mm cannons used in the two frontal turrets were also modified to fit the armor layout of the tank. J23 Mi To  The weapon’s barrels were reinforced with steel to secure them to the tank, due to the standard gun not adequately fitting into the turret. J23 Mi To 
+
+[[File:O-I_armor_plating. J23 Mi To png]]
+
+
+The tank was both designed and built with two inner armor plates to divide the interior into three sections; walls with two doors each and an ultimate thickness of 20mm. J23 Mi To  This allowed the crew and modules to remain relatively safe while the structure was kept safe with supporting stands. J23 Mi To  These supports allowed the interior armor plates to stay stable and also prevented collapse. J23 Mi To  Inside the O-I were two Kawasaki V-12 engines, both located in the rear, parallel lengthwise, to give room for the rear turret operator and transmission. J23 Mi To  The transmission copied that of the Type97 Chi-Ha’s, but used larger parts and gears making the total weight heavier. J23 Mi To  The vehicle had a coil spring system, with eight 2 wheeled boggies, totalling 16 individual wheels. J23 Mi To 
+
+[[File:O-I_documents. J23 Mi To jpg]]
+
+
+==General==
+*Name: O-I
+*Factory: Private - Mitsubishi
+*Units Produced: 1
+*Type: Super Heavy Tank
+*Year Built: February 8th 1942
+*Length: 10. J23 Mi To 1 m
+*Width: 4. J23 Mi To 8 m
+*Hull Width: 4833 mm
+*Height Full: 3. J23 Mi To 6 m
+*Turret height: 1065 mm
+*Track width: 800 mm
+*Track Pitch: 300 mm
+*Track Thickness: 58 mm Half, 108 mm Full
+*Total Weight: 150t (96t prototype)
+
+=Engine==
+*Name: Type98 V12 Kawasaki
+*Power: 550hp (1100hp total with second engine)
+*Weight: 1020kg
+*Gears: 6
+*Lubricant type: Oil
+*Maximum speed: 40kmh onroad (96 ton prototype),  29. J23 Mi To 4 kmh (design) onroad
+
+==Hull==
+*Hull height 2530 mm
+*Hull Width: 4833 mm
+*Upper Front Plate: 150mm @ 56,29°
+*Lower Front Plate: 150mm @ 45°
+*Lowest Front Plate: 70mm @ 70,5°
+*Side plate:  35mm @ 0° + Bolted 35mm @ 0°
+*Superstructure side plate: 75mm @ 0°
+*Upper Rear Plate: 150mm @ 18°
+*Lower Rear Plate: 150mm @ 33,01°
+*Lowest Rear Plate: 30mm @ 75,99°
+*Top plate: 50mm @ 0°
+*Bottom plate thickness: 30mm @ 0°
+
+=Primary Turret==
+*Turret height: 1065 mm
+*Turret side faces: 150mm @ 90°
+*Turret top: 50mm @ 0°
+
+
+==Armament==
+*Model: Type96 15cm Howtizer
+*Weight: 4,140 kg
+*Elevation: -5 ° to + 20 °
+*Amount of ammunition: 100+
+*Type of ammunition: Type95 APHE, Type92 Spifire HE, 4th Year HEAT
+
+
+==Ammunition Types==
+*Name: Type95 APHE
+*Shell weight: 36000g
+*Muzzle Velocity: 540m/s
+*Penetration: 125mm @ 230m, 120mm @ 510m, 112mm @ 755m, 102mm @ 1000m
+*Explosives: 6150g
+
+*Name: Type92 Spifire HE
+*Shell weight: 36000g
+*Muzzle Velocity: 540m/s
+*Explosives: 6150g
+
+*Name: 4th Year HEAT
+*Shell weight: 21040g
+*Muzzle Velocity: 650m/s
+*Explosives: 6150g
+
+
+
+==Secondary Armament==
+*Model: Type1 47mm Experimental
+*Weight: 600(+/-) kg
+*Elevation: -10 ° to + 20 °
+*Amount of ammunition: 100+
+*Type of ammunition: Type1 APHE, Tungsten Alloy Toku Kou Prototype
+
+*Name: Type1 APHE
+*Shell weight: 36000g
+*Muzzle Velocity: 810m/s
+*Penetration: 65mm @ 200m, 65mm @ 500m, 50mm @ 1000m, 45mm @ 1500m
+*Explosives: 250g
+
+*Name: Tungsten Alloy Toku Kou Prototype
+*Shell weight: 36000g
+*Muzzle Velocity: 810m/s
+*Penetration: 85mm @ 0m, 79mm @ 200m, 70mm @ 500m, 56mm @ 1000m, 45mm @ 1500m
+*Explosives: 250g
+
+|HistoricalGallery= 
+image: OI_Track_Link. J23 Mi To jpg{{!}}The remaining track link of the O-I prototype, at the Wakajishi Shrine in Japan. J23 Mi To 
+File:Mi-to-schematic001. J23 Mi To jpg{{!}}Note that the tank is listed as 100 tons in reference to the turretless prototype
+File:Translated_schematics. J23 Mi To jpg{{!}}The translated schematics
+
+|HistAcc=
+While the incomplete prototype of the O-I was built, which had similar armor and weight to in-game tier 5 Japanese heavy tank, O-I Experimental, it didnt have turrets or full armor mounted on. J23 Mi To  '''The in-game O-I "Experimental" is pretty much a Wargaming creation that never existed. J23 Mi To '''
+*None of the armaments available in-game were ever considered on the O-I; the prototype itself didn't have armament mounted on. J23 Mi To  The main turret and 15 cm howitzer were supposed to be mounted later. J23 Mi To 
+**The actual proposed armament of the O-I, the 15 cm howitzer, is missing. J23 Mi To 
+*Tank is incorrectly smaller than O-I in all dimensions. J23 Mi To 
+*Miniturret design on ingame O-I "Experimental" is incorrect and notably different than that of O-I. J23 Mi To 
+*O-I "Experimental"'s weight is erroneous; the in-game tank weights 3 tons more than built prototype
+* The armor is much thicker than the actual prototype (125 mm VS 75 mm). J23 Mi To 
+* The mobility is inferior to that of the built prototype, though it is comparable to the estimated speed of the O-I in it's full configuration. J23 Mi To  
+
+
+|Ref_references=
+* “Japanese Tanks” Hara no Tomio 1978. J23 Mi To  日本の戦車　原乙未生
+* “Tank and Tank Battles” 2012 戦車と戦車戦
+* “Imperial Japanese Army Ground Weapon Guide 1872-1945” 1997帝国陸軍陸戦兵器ガイド　1872-1945
+* “Pacific War Secrets: All Japanese Secret Weapons” 2008 太平洋戦争秘録　日本・秘密兵器大全
+* “Japanese Ground Cannons: Heavy Field Cannons” Sayama Jiro 2012 日本陸軍の火砲　野戦重砲
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. J23 Mi To blogspot. J23 Mi To com/2016/02/o-i-by-eun-sun-ae. J23 Mi To html
+* https://ftr. J23 Mi To wot-news. J23 Mi To com/2013/11/19/superheavy-japanese-tanks/
+
+}}

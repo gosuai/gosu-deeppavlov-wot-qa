@@ -1,0 +1,73 @@
+{{TankData|Tank=SU100Y
+|The SU-100Y is a very large tank for its tier, larger than even some tier VIII heavy tanks. R49 SU100Y  The SU-100Y has a devastating 130mm gun that, with a Gun Rammer and 100% crew, loads in less than 14 seconds, dealing an average of 440 damage a shell. R49 SU100Y  It is also very mobile for its size, but unfortunately has next to no armor to cover its massive profile. R49 SU100Y  The SU-100Y is sometimes referred to as the "boxtank". R49 SU100Y 
+
+|Gallery=
+
+|InTheGame_pros=
+* High alpha damage
+
+* Premium ammo yields even better alpha damage ( at the expense of lower pen. R49 SU100Y )
+
+* High penetration on the standard AP rounds 
+
+* Surprisingly agile and mobile for its size, not easy to being flanked and rams well. R49 SU100Y 
+
+* HP Pool is fairly big
+
+* Very good at earning credits and training crews
+
+|InTheGame_cons=
+* High priority target
+
+* Poor armor and base camo rating due to large size; camo skill has low effect outside of bushes
+
+* Gun handling is considered to be average
+
+* Poor radio range
+
+
+
+|InTheGame_performance=
+The SU-100Y is all about the gun - the 130mm Weapon of Doom. R49 SU100Y  With an average damage of 440 (510 with premium) the gun can wreck all lower tier tanks, one-shot everything in tier 4, and if it penetrates any tier 6 other than the [[Tank:GB63_TOG_II|TOG II*]], it will shave off half of said tank's HP pool. R49 SU100Y  With a 100% crew, Improved Ventilation, and a Tank Gun Rammer, this TD can reload in less than 13. R49 SU100Y 50 seconds, making the eventual DPM 1,750. R49 SU100Y 
+
+One of the best tactics to use in this tank is to play it as a front line support role TD, having a hill to shoot off of, and a rock or house to duck behind after you fire your gun. R49 SU100Y  This tank is never going to do well as a brawler or sniper, and trying to take the role of the [[Tank:VK3601H|VK 36. R49 SU100Y 01 (H)]] or [[Tank:StuG_40_AusfG|StuG III Ausf. R49 SU100Y  G]] will result in untimely and useless death, while playing the front line support tank can, if done properly, result in excellent games. R49 SU100Y  Players who have done well in both the KV-85 and IS may find playing this tank a little easier than others, as some skills learned in both of these tanks can give a rough picture of how to play the SU-100Y. R49 SU100Y  But do not forget, this is a tank destroyer, not a heavy tank, use camo crew skill for this tank would help it considerably, especially with its enormous size for a tier 6. R49 SU100Y 
+
+The SU-100Y's hull armor values are nearly identical to that of the KV-85's, except it has 15mm less in the front, which can make a negative difference in some instances. R49 SU100Y  The SU-100Y, despite its size, also feels about as agile as a partially upgraded KV-85, although it does feel like it turns slower due to its size for a tier VI. R49 SU100Y  The SU-100Y in terms of armament is even better than the IS in terms of power, as instead of a 122mm with 175mm of pen, you have a 130mm that packs a better punch and has a considerable 21mm more penetration. R49 SU100Y  Not to mention the higher accuracy of the 130mm gun, which is comparable to KV-85's 100mm gun. R49 SU100Y  Though these do not mean you should brawl against an IS because the SU-100Y's reload speed is comparable to that of the KV-85 equipped with its own 122mm. R49 SU100Y  The IS will most likely be able to eliminate you before you can even get a second shot off on it, that being said, the SU-100Y can get away with being hit from a shot by some tier 8 tanks like the jagdtiger 8. R49 SU100Y 8cm. R49 SU100Y  With your reload speed it is highly advised to avoid getting into close range firefights with other tanks that have far better rate of fire, like the Churchill series of tanks and the black prince. R49 SU100Y  However, remember the SU-100Y is among the last words in finishing off opponents in its tier, a crafty SU-100Y operator can pull out and around a corner to land a killing pot shot square on a target, in most cases at half health, with ineffective armor if allies are engaging them, allowing them to move on to other targets and thus assisting your team. R49 SU100Y 
+
+In a tier VIII battle, keep your distance from the heat of the battle and simply pick at targets of opportunity. R49 SU100Y  If you have a tier 8 exposing its side to you in your line of fire, place a shot into it. R49 SU100Y  If you get a shot opportunity on a tier 7 or 6 tank that you know you can pen from your position, take it. R49 SU100Y  However it is best to avoid trying to take shots on fast light tanks unless they are heading straight towards you, your reload time is not worth a miss, just like in the KV-85 with the 122mm, but remember, unlike the KV-85's 122mm, the odds of a bounce with the 130mm are noticeably fewer. R49 SU100Y   The carefully aimed "Pot Shot" at range is the SU-100Y operator's best friend. R49 SU100Y  And with its nearly 200mm of pen at tier 6 it can even get away with a good number of point blank pot shots on up to tier 7 tanks and if lucky, tier 8s. R49 SU100Y  Otherwise this tank plays heavily on risk vs. R49 SU100Y  reward. R49 SU100Y 
+
+|InTheGame_equipment=
+Vents,Tank Gun Rammer,GLD
+
+|History=
+The multi-turret tank was something of a staple of the interwar period & influenced by the "Land Ship" approach of World War 1 (1914-1918). R49 SU100Y  As such, the 1930s continued tradition with several nations investing in the development of such types including Britain, Germany, & the Soviet Union. R49 SU100Y  The key Soviet development of the period became the multi-turret "T-35" Heavy Tank which was itself influenced by the British Vickers Independent. R49 SU100Y  This gave a poor showing in the Spanish Civil War (1936-1939) namely due to poor armor protection. R49 SU100Y  A subsequent program attempted to right-the-wrongs of the design. R49 SU100Y  It was this venture that ultimately begat the famous "KV-1" series heavy tank for the Red Army & also gave rise to two other (now largely forgotten) competing designs, the "T-100" (the focus of this article) & the SMK. R49 SU100Y 
+
+The T-100 & SMK were very similar to one another in appearance, utilizing a conventional track-&-wheel arrangement relying on multiple small road wheels, a rear-mounted engine, & an extended-length hull. R49 SU100Y  However, the key physical quality of both was the two in line turrets with the primary turret seated over midships mounting a 76. R49 SU100Y 2mm cannon & the secondary turret fitting a 45mm anti-tank gun closer to the bow. R49 SU100Y  Originally, as many as five turrets were to be included but this requirement was dropped early in development (engineers were against the multi-turret approach to begin with). R49 SU100Y  Both designs eventually used a torsion bar suspension system & multiple 7. R49 SU100Y 62mm DT machine gun positions. R49 SU100Y  Required armor protection was to be against 45mm shells at close-to-medium ranges & against 75mm shells at medium-to-long ranges. R49 SU100Y  Armor, therefore, was welded in both offerings for maximum strength & protection to the crew & vital internal workings. R49 SU100Y 
+
+While only one of the SMK form was built, two of the T-100 were completed. R49 SU100Y  This model featured a crew of up to eight men charged with various duties about the tank. R49 SU100Y  The tank held a length of 27. R49 SU100Y 5 feet, a beam of 11. R49 SU100Y 1 feet, & a height of 11. R49 SU100Y 2 feet. R49 SU100Y  Power was from a single GAM-34BT 12-cylinder, liquid-cooled, gasoline-fueled engine developing 800 horsepower & allowing for road speeds of 22 miles per hour & operational ranges out to 120 miles (less when going cross-country). R49 SU100Y  The drive equipment included no fewer than eight double-tired road wheels to a hull side. R49 SU100Y  The drive sprocket was mounted at the rear & the track idler at front. R49 SU100Y  Five track-return rollers were used along the track run's upper reaches. R49 SU100Y 
+
+The primary gun became the Type L-11 weapon & to this was afforded 120 projectiles. R49 SU100Y  The secondary fit was the proven Red Army 45mm anti-tank gun. R49 SU100Y  Held in independently-operating turrets, the T-100 held qualities akin to a battleship with broad arcs of fire with each turret able to target separate enemies at once. R49 SU100Y  The machine guns added an infantry defense measure for those elements attempting to rush the vehicle with explosives. R49 SU100Y  With one turret fitted forward & the other at middle, joined by the engine at the rear, the vehicle was relatively well-balanced for its size but its length made it still clumsy & cumbersome while weight also increased - the T-100 tipping the scales at 58 tons. R49 SU100Y 
+
+Beyond the usual evaluations & trials, the T-100, along with the SMK, were both operationally fielded in the "Winter War" (November 1939 - March 1940) against neighboring Finland. R49 SU100Y  SMK was disabled by an enemy landmine in December of 1939 & abandoned for two months before being recovered by the Soviets - it was never repaired nor reinstated. R49 SU100Y  The T-100 had a slightly better showing in its exposure, the armor protection proving sound against Finnish 37mm & 45mm anti-tank guns. R49 SU100Y  Despite this, it held terrible inherent traits for a frontline combat system & was not given official approval for adoption/serial production. R49 SU100Y  At least one of the two T-100 pilot vehicles was modified to the Self-Propelled Gun (SPG) role in 1940 with a 130mm naval gun as its main armament (as the one-off "SU-100Y") to combat stout Finnish bunker fortifications. R49 SU100Y  Out of desperation, this sole example was then pressed into service in the defense of Moscow (1941-1942) against the invading Germans. R49 SU100Y  Unlike its base model (T-100), the SU-100Y prototype survived the war and is a part of the collection at the Kubinka Tank Museum. R49 SU100Y 
+
+|External_Reviews=
+Review Romana
+{{#ev:youtube|QwJh57MV-N4}}
+
+
+|HistoricalGallery=
+image:SU100Y 1. R49 SU100Y jpg{{!}}SU-100Y in the Kubinka Tank Museum
+image:SU100Y 2. R49 SU100Y jpg{{!}}SU-100Y in the Kubinka Tank Museum
+image:SU100Y 3. R49 SU100Y jpg{{!}}SU-100Y in the Kubinka Tank Museum
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://www. R49 SU100Y aviarmor. R49 SU100Y net/tww2/tanks/ussr/t-100y. R49 SU100Y htm
+
+}}

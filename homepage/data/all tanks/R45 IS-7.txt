@@ -1,0 +1,88 @@
+{{TankData|Tank=R45_IS-7
+|With its well angled "pike-nose" frontal armor layout and a rounded, highly sloped turret front, the IS-7 is one of the toughest nuts to crack when engaged from the front. R45 IS-7  If positioned behind a piece of cover which shields its lower glacis plate, it becomes a hardened object with so few weak points that successfully damaging the tank turns into a most frustrating experience. R45 IS-7  Therein lies a weakness, however - the IS-7 cannot angle its armor, because if it does, the sloping of the frontal plate will become significantly worsened and enable most guns to punch through with relative ease. R45 IS-7  The side armor of the tank is comprised of spaced plates which are not only small but angled as well, making even perfectly landed shots to the hull's midsection fail to do any sort of damage at times. R45 IS-7  The rear armor is quite thin, however, and will rarely deflect even lower tier guns. R45 IS-7  The IS-7 mounts a very potent 130mm S-70 naval cannon as the main gun. R45 IS-7  While it's potentially high damage output can seem quite formidable, the gun itself is largely inaccurate, has a rather long aiming time, takes a while to load, and is actually much less effective than it seems. R45 IS-7  Nevertheless, at close and medium ranges the gun can still inflict very serious damage. R45 IS-7  Sustainability of said damage is difficult, though, due to the aforementioned long reload and aim times. R45 IS-7 
+
+When compared to its Soviets counterparts, the [[IS-4]], the [[Object 277]] and [[Object 705A]], the IS-7 plays like a middle gap between the IS-4 and Object 277. R45 IS-7  Despite being hampered by its poor terrain resistance values, the tank is nonetheless mobile enough to keep up with the team and change position if absolutely needed. R45 IS-7  And due to the aforementioned sub-par gun stats, the player of the IS-7 should use this tank in almost exclusively medium and short range brawler-type combat. R45 IS-7  Your teammates will rely on you to take and deflect the majority of incoming fire while they in turn support your advance and use their (hopefully) more accurate guns to assist in whittling down the enemy team. R45 IS-7  Expect to do some heavy lifting when driving the IS-7 and use it's key advantages to fight on your own terms and dictate the flow of the battle, improving your performance and probability of success. R45 IS-7 
+
+
+
+|InTheGame_pros=
+* High alpha damage and decent gun handling
+* Thick, pre-angled pike nose and spaced side armor
+* Outstanding turret armor, among the best in the game
+* Better than average gun depression for a Russian heavy tank (-6 degrees)
+* Great top speed and engine power for a heavy tank
+
+|InTheGame_cons=
+* Second worst DPM for a Tier 10 Russian heavy tank 
+* Worst penetration among Russian Tier 10 heavy tanks
+* Bad aim time and accuracy
+* Very high ground resistance, achieving the listed top speed can be difficult
+* Very vulnerable to ammo rack damage
+
+
+
+|InTheGame_performance=
+IS-7 is a fast heavy tank that delivers mediocre damage while being hard to kill due to its heavily sloped front armor. R45 IS-7  The IS-7 has some of the best angled frontal armor in the game, however this is somewhat nullified at close range by the equally thick but much less angled lower plate. R45 IS-7  All these strengths come with a weakness; the IS-7's main gun, while having the same listed accuracy as the [[E-100]]'s 15cm, in practice seems to be worse at actually hitting the target, let alone hitting a weakspot, thus requiring the player to get fairly close to their target in order to lessen the impact of its poor dispersion values. R45 IS-7  This in turn makes you a much easier target to hit as well, with a lot of the frontal armor being penetrable by the high penetration premium ammunition found on a lot of tier IX and X tanks from the range the IS-7 prefers to play in. R45 IS-7  The IS-7 uses the 130 mm S-70, which has better alpha damage than the 122mm M62-T2 mounted on [[IS-4]], but worse stats elsewhere. R45 IS-7  The main difference between the IS-7 and the IS-4 is that the IS-7 is much faster, with a top speed of 60 km/h (though this is difficult to reach under normal driving conditions), as well as having good turret traverse. R45 IS-7  A more modern comparison would be with the [[Tank:R155_Object_277|Object 277]], which completely outclasses the IS-7 in terms of mobility, has a better gun complimented nicely by 340mm penetration HEAT rounds, but loses out on hull armor whilst still having extremely strong turret armor (better than the [[113]] and [[Tank:Ch41_WZ_111_5A|WZ-111 5A]]). R45 IS-7  This makes the Object 277 picked far more frequently in competitive modes because of the high penetration and superior speed. R45 IS-7  
+
+However, these sloping plates also add a disadvantage: You cannot angle the frontal armor of IS-7 as you expose the well-sloped-but-weak armor plate to the enemy, the effective armor when fighting angled drops a fair amount, allowing tier 8, 9, and 10 guns to punch through if they strike at a shallow enough angle to the plate. R45 IS-7  This in turn makes your lower plate incredibly easy to penetrate as it is just as thin as the upper plate but with far worse sloping. R45 IS-7  When fighting one at an angle, prefer its flatter front armor sections than is angled side armor, or shoot the sprocket, dealing damage and throwing off the track. R45 IS-7  If fighting in an urban environment with many street corners that force you to turn to shoot you opponent, it's advised that you bait them into shooting your thick and spaced side armor by sidescraping, then returning fire as they reload. R45 IS-7  Alternatively, if your weak lower hull is exposed to enemy fire, try to wiggle or shake it so that it's harder to penetrate. R45 IS-7  This can even sometime bounces tier X TD shots. R45 IS-7  The IS-7 is frequently viewed as one of the easiest tier X tanks in the game to play (particularly in random battles), because of the decent mobility, high alpha damage and armor that always has weak points and strong points making it so that it is difficult to play the tank wrong, and it being very forgiving to mistakes the average player is likely to make. R45 IS-7  However these more generic traits that the IS-7 has (that being that it isn't excellent at any one thing) means that in competitive game modes the IS-7 is rarely seen, because tanks that are better at one job are frequently used in place (e. R45 IS-7 g. R45 IS-7  the [[Tank:GB91_Super_Conqueror|Super Conqueror]] might be used if good turret armor is required, because of the better gun it has, or the [[T110E4]] might be used if high alpha damage with armor that can bounce some shots is required, as in these game modes the IS-7's hull armor is frequently unable to hold up against the high penetration premium ammunition the majority of competitive tanks have. R45 IS-7  Also, if a tank is required in order to be flexible and possibly do one of several jobs, the [[113]], [[Tank:R155_Object_277|Object 277]], and [[Tank:Ch41_WZ_111_5A|WZ-111 5A]] are all picked in favor of the IS-7 because of their power level. R45 IS-7  That being said, the IS-7 is picked when a fast tank with excellent turret armor is needed, and the position it will be using is unable to hide the weaker upper plate of the Object 277, making the IS-7 able to tank a huge amount of damage. R45 IS-7  
+
+All-in-all, the IS-7 is a relatively strong tier X heavy tank that is forgiving to play in random battles making it an excellent choice for a first tier X for newer players (on top of the fact that the tanks leading up to it are also all forgiving to play and powerful in their own tiers), but more capable players may find the IS-7 quite boring to play because of this 'low skill floor, low skill ceiling' that the tank has, and so may well get more consistently excellent games by driving one of the Chinese heavy tanks or the Object 277. R45 IS-7  
+
+{{VideoYT|f_xuFG_fy_o}}  {{VideoYT|yREYyrcrgY0}}
+|InTheGame_research=
+None required. R45 IS-7 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents
+
+|Gallery=
+image:IS7-a. R45 IS-7 jpg{{!}}Front right
+image:IS7-b. R45 IS-7 jpg{{!}}Front left
+image:IS7-c. R45 IS-7 jpg{{!}}Rear right
+image:IS7-d. R45 IS-7 jpg{{!}}Rear left
+image:IS7game1. R45 IS-7 jpg{{!}}IS-7, Malinovka map
+image:IS7game2. R45 IS-7 jpg{{!}}IS-7, MMurovanka map
+image:Ingame_IS7-1. R45 IS-7 jpg{{!}}IS7, map Port
+
+|History=
+In the immediate post-war years, while development of the IS-6 was attempted, reputed Head Engineer Nikolai Shashmurin's team had begun work on a completely new tank design, the IS-7, which bore no immediate connection to any previous Soviet heavy tank. R45 IS-7  The design was envisioned as a counterpart to the German Tiger II heavy tank in terms of armour and firepower. R45 IS-7 <br>Shashmurin took advantage of the transfer back to Leningrad to examine a number of components developed by Soviet naval research institutes in the city. R45 IS-7  These included a 1050 hp marine diesel which would be needed to power such a heavy tank, and a 130mm gun derived fron the naval 56-SM gun. R45 IS-7  The gun fired a huge 36. R45 IS-7 5 kg projectile at 945 m/s, which made it the most powerful weapon ever mounted in a Soviet tank up to that point. R45 IS-7  The co-axial weapon was the powerful 14. R45 IS-7 5mm KPVT heavy machine gun, and no fewer than six other 7. R45 IS-7 62mm machine guns were provided, two co-axially in the mantlet, two on the right side of the hull, and two more on either side of the turret in small armoured barbettes. R45 IS-7  Another 14. R45 IS-7 5mm KPVT was fitted in a remote control mount on the roof for air defence. R45 IS-7  Given its thick armour, the IS-7 was the heaviest tank ever built in the Soviet Union, weighing 68 metric tons. R45 IS-7  In spite of its weight, its powerful engine gave it a higher road speed than previous Soviet heavy tanks. R45 IS-7 <br>
+The first prototype of the IS-7 was ready for testing in 1948. R45 IS-7  The crews were unhappy with the internal layout, which was extremely cramped even by Soviet standards. R45 IS-7  The ammunition was very heavy and this combined with the lack of space in the vehicle made it difficult to load the main armament. R45 IS-7  The number of machine guns was considered excessive, and the location of the ammunition trays made it impossible to reload these weapons in combat. R45 IS-7  The suspension used internal shock absorbers in the wheels patterned after those on the German Tiger II. R45 IS-7  Unfortunately, these were subject to rapid wear and led to break-downs when the tank was operated near its top speed. R45 IS-7  The Soviet Army's armoured vehicle directorate was very unhappy about the vehicle's weight for two reasons. R45 IS-7  Firstly, the extreme weight would tax the limited Soviet road and rail network and the tank would be very difficult to employ tactically since there were few bridges that would withstand its weight. R45 IS-7  Secondly, heavy weight implied high cost, both in the purchase price and in regular operations and maintenance. R45 IS-7 <br>
+In the end, only a small series of test vehicles were manufactured. R45 IS-7  The IS-7 remains the heaviest tank ever built in the USSR. R45 IS-7  In some respects it was ahead of its time. R45 IS-7  The level of firepower and armour on the IS-7 was very similar to that found on NATO tanks in the 1960s, such as the US Army M-60A1 or the British Chieftain. R45 IS-7  On the other hand, its main gun and fire controls suffered from the constraints imposed by the 1940s technology. R45 IS-7  These limitations also denied them the accuracy of later tank guns. R45 IS-7  An IS-7 prototype is still preserved at the Kubinka armour museum to this day. R45 IS-7 
+
+|HistoricalGallery=
+image:Is7 1. R45 IS-7 jpg{{!}}
+image:Is7 2. R45 IS-7 jpg{{!}}
+image:IS-7 3. R45 IS-7 jpg{{!}}
+image:Is7 3. R45 IS-7 jpg{{!}}
+image:IS-7 4. R45 IS-7 jpg{{!}}IS-7 Technical Drawing
+image:Is7 gun. R45 IS-7 jpg{{!}}The main gun of the IS-7
+image:Is7 loading. R45 IS-7 jpg{{!}}The interior of the IS-7's turret as it is today. R45 IS-7   This shows the automatic loading device. R45 IS-7 
+image:Is7 loading2. R45 IS-7 jpg{{!}}The automatic loading mechanism for the IS-7
+image:Is7 kubinka. R45 IS-7 jpg{{!}}The IS-7 as it sits today in Kubinka
+
+|HistAcc=
+*Like many soviet tanks in game the IS-7 has increased gun depression. R45 IS-7  In reality it had -3° instead of -6°
+*Although the IS-7 was planned to feature a 1200 hp engine (B-16) it was instead equipped with a 1050 hp engine (M-50T) 
+
+|Ref_references= 
+* Steven Zaloga, Peter Sarson - IS-2 Heavy Tank 1944-73, Osprey Publishing 1994
+* [https://www. R45 IS-7 youtube. R45 IS-7 com/watch?v=lETgfCqa7ic '''Youtube''' ] RBS video review
+
+|Ref_sources=
+
+
+|Ref_links=
+{{VideoYT|Hoecf7ovrRM}}{{VideoYT|hPWw6sMaCOI}} <br>
+* [https://en. R45 IS-7 wikipedia. R45 IS-7 org/wiki/Iosif_Stalin_tank '''Iosef Stalin (IS) Series Heavy Tanks IS-1, IS-2, IS-3, IS-4, IS-6, IS-7'''] at wikipedia. R45 IS-7 
+
+|Sidebar_Camostop=6. R45 IS-7 9
+|Sidebar_Camomove=3. R45 IS-7 4
+|Sidebar_Camofire=1. R45 IS-7 1
+|Sidebar_Passhard=1. R45 IS-7 247
+|Sidebar_Passmed=1. R45 IS-7 726
+|Sidebar_Passsoft=2. R45 IS-7 973
+|Sidebar_DispTurret=0. R45 IS-7 077
+|Sidebar_DispRecoil=3. R45 IS-7 836
+|Sidebar_DispAccel=0. R45 IS-7 201
+|Sidebar_DispTurning=0. R45 IS-7 201
+}}

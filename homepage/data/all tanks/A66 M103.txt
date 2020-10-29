@@ -1,0 +1,108 @@
+{{TankData|Tank=M103
+| M103 replaced the [[T34]] as the tier 9 heavy in patch 0. A66 M103 7. A66 M103 2. A66 M103  The fully upgraded 120mm cannon is a fantastic gun, with great accuracy, and very high penetration. A66 M103  While it lacks alpha damage compared to the [[Tank:R81_IS8|T-10]] or [[E-75]], the gun's reload speed makes up for its lack of damage. A66 M103  The M103's oddly shaped hull and well-sloped turret can make this tank a bit tricky to fight, especially at long ranges; however, this tank suffers from having very weak sides and rear armor. A66 M103  When fighting this tank from the front, make sure you try and hit the lower glacis as hitting the upper hull will most likely bounce. A66 M103   If you can only see the turret aim for the large cupola atop the tank for easy penetrations. A66 M103  The speed and maneuverability of this tank are quite good, so it's able to keep up with the rest of the team and provide excellent fire support when needed, and is able to turn its frontal hull towards the enemy quickly to reduce damage taken from incoming fire. A66 M103 
+
+|InTheGame_pros=
+* Strong turret face armor and mantlet
+* Good gun depression
+* Well-rounded top gun with good performance across the board
+* Huge tracks can help absorb shots when sidescraping
+* Fast turret rotation for such a large turret
+
+|InTheGame_cons=
+* Covered with weakspots, shockingly unreliable armor for a heavy tank
+* Limited forward speed and horrible reverse speed
+* Large target, the turret is especially huge
+* Fragile ammo rack and engine modules
+* Low ammo capacity
+
+|InTheGame_performance= 
+Coming from the [[T32]], the M103 could be quite the rude awakening for players used to typical American hull-down tactics. A66 M103  Unlike the T32, M103's turret is massive and of limited durability, with only its mantlet and cheeks being somewhat durable. A66 M103  The plate above the mantlet, the turret ring, the roof, the cupola and the sides/rear are all poorly armored for Tier 9 standards, and make relying on hull down tactics a challenge. A66 M103  Further complicating things, the hull armor is also on the weak side, with only the upper glacis offering some meaningful protection. A66 M103  And if that were not enough, the M103 is also a very large tank and therefore a juicy target for artillery. A66 M103 
+
+Thankfully, what the M103 lacks in armor protection, it compensates in firepower and (to a lesser extent) mobility. A66 M103  Its top gun, the 120mm Gun M58, is the same gun used on the [[T110E5]] a tier higher, and comes with good rate of fire, penetration (both standard and premium), a good -8 degrees of gun depression and decent gun handling and aimtime. A66 M103  Do be aware that the tank's ammo capacity is limited though, so you should make every shot count for maximum efficiency. A66 M103  As for mobility, while its speed is average at best (and its reverse speed is plain terrible), for its size it is a fairly quick tank with good acceleration and ground resistance, and can keep up the pace during a push. A66 M103  Never rush to the frontlines though, as the M103 cannot take much punishment - leave that job to tougher heavy tanks like the German [[E 75]] or the Soviet [[Object 257]]. A66 M103 
+
+Overall, the M103 should be considered a "force multiplier", a tank that by itself is overall average, but that excels as support when part of a group. A66 M103  Use cover whenever possible, including your heavily armored allies, and seek opportunities to put your excellent firepower to good use, but never overcommit as that would only result in a trip back to the garage. A66 M103  
+
+|InTheGame_research= 
+
+*Players should first seek to upgrade to the 120mm, as the stock 105mm's low pen and accuracy is vastly inadequate when fighting other tier 9s and 10s. A66 M103 
+*The next upgrade should be the turret, which will give the M103 a badly needed increase in durability and boost the rate of fire as well. A66 M103 
+*The stock tracks allow mounting all upgraded modules, so you can wait to upgrade these if you prefer. A66 M103  The ground resistance is improved though and gives a higher advantage than the top engine on normal ground. A66 M103 
+*Next you should get the engine, as it gives the tank even better mobility. A66 M103 
+*After that you can decide if you want to get the top 120mm gun or to save the 60,000 XP for the [[T110E5]] to get it sooner. A66 M103  The 120mm slightly upgrades rate of fire, penetration, aim time, accuracy, and is highly recommended
+*The radio does not have priority but it is relatively cheap to research; or you can mount it immediately if you already unlocked it in T71 LT or the M41 Walker Bulldog
+
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Vertical Stabilizer
+
+|External_Reviews= 
+{{#ev:youtube|tDaXcLxJnFw}}
+
+|Gallery=
+image:M103-a. A66 M103 png{{!}}M103 front right
+image:M103-b. A66 M103 png{{!}}M103 front left
+image:M103-c. A66 M103 png{{!}}M103 rear left
+image:M103-a. A66 M103 jpg{{!}}M103, map Mountain pass
+image:M-103-a1. A66 M103 jpg{{!}}M103, map Komarin
+
+|History=
+The M103 heavy tank served the United States Army and the US Marines during the Cold War. A66 M103  Until the development of the M1 Abrams in the mid-1970s, it was the heaviest and most heavily armed tank in US service. A66 M103  The M103 was manufactured at the Detroit Arsenal Tank Plant and the first units were accepted in 1957. A66 M103  The last M103s were withdrawn from service in 1974. A66 M103 
+
+== Design and Development ==
+Like the contemporary British Conqueror tank, the M103 was designed to counter Soviet heavies such as the Josef Stalin tank or the T-10 if a conventional World War III broke out. A66 M103  Its long-ranged 120 mm cannon was designed to hit enemy tanks at extreme distances, but it was never used in combat. A66 M103  In 1953-1954 a series of 300 tanks, initially designated T43E1, were built by Chrysler at the Newark plant. A66 M103  Testing was unsatisfactory, and the tanks were all stored in August 1955. A66 M103  Only after recommending improvements, on 26 April 1956 the tank was standardized as the M103 Heavy Tank. A66 M103  Of the 300 T43E1s built, 80 went to the US Army (74 of which were rebuilt to M103 standard), and 220 were accepted by the US Marine Corps, to be used as infantry support, rebuilt to improved M103A1, then M103A2 standards. A66 M103  The successive versions of the M103 shared many components with the M47 and M48 Patton tanks and the M60, which, with the exception of the M60 (a main battle tank) were all considered 90 mm gun (medium) tanks. A66 M103  Tracks, rollers and suspension elements were the same, with some modification to take into account the greater weight. A66 M103  The engine and transmission were never modified enough to give the extra power needed for the greater weight of the M103, and as a result, the tank was relatively underpowered and the drive systems were fragile. A66 M103 
+The turret of the M103 was larger than that of the M48 or the M60 to make room for the huge 120 mm gun and the two loaders assigned to it, in addition to the gunner and the commander. A66 M103  The driver sat in the hull. A66 M103  The gun was capable of elevation from +15 to -8 degrees. A66 M103  The armor is made from welded rolled and cast homogeneous steel of varying thickness. A66 M103 
+*Hull front: 100–130 mm (4. A66 M103 0–5. A66 M103 3 in)
+*Hull side: 76 mm (3. A66 M103 1 in)
+*Hull top: 25 mm (1 in)
+*Turret mantlet: 250 mm (10. A66 M103 2 in)
+*Turret front: 180 mm (7. A66 M103 3 in)
+*Turret side: 76 mm (3. A66 M103 1 in)
+*Turret top: 38 mm (1. A66 M103 5 in)
+
+== Service ==
+In Europe, the US Army fielded only one battalion of heavy tanks, from January 1958, originally assigned to the 899th Armor, later redesignated the 2/33rd Armor. A66 M103  The US Army heavy armor battalion, in contrast to other armor units, was organized into four tank companies, composed of six platoons each, of which each platoon contained three M103's, for a total of 18 tanks per company. A66 M103  Standard US Army armor battalions at the time had three companies per battalion, each with three five-tank platoons, with 17 tanks per company (two tanks were in headquarters platoon). A66 M103  The US Marine Corps assigned one M103 company to each of its 3 Marine tank battalions, including its Marine reserve units. A66 M103  While the US Army deactivated its heavy armor units with the reception of the new M60 series main battle tanks in 1963, the remaining M103s stayed within the US Marine Corps inventory until they began receiving the M60 series MBT. A66 M103  With the disappearance of the heavy tank from US forces came the full acceptance of the main battle tank in 1960 for the US Army, and 1973 for the US Marine Corps. A66 M103  Although the 21st century's M1 Abrams MBT utilizes the same caliber of main gun, the 120 mm, the M103's cannon was a rifled gun firing a fixed round, ejecting a lengthy brass shell casing (34. A66 M103 69 inches in length for the armor-piercing rounds). A66 M103  The M1 tank's 120 mm main gun is a smooth bore (no rifling) firing a semi-caseless round, ejecting only a back cap of the original loaded round; the bulk of the 120 mm shell's casing is consumed during firing. A66 M103 
+Ammunition fired by the M103's M58 cannon included:
+*APBC-T M358 Shot
+*HEAT-T M469 Shell
+*HE-T M356 Shell
+*TP-T M359E2 Shot
+
+== Variants ==
+*T43E1 1953. A66 M103  300 built. A66 M103 
+*M103 1957. A66 M103  74 converted. A66 M103 
+*M103A1 1959. A66 M103  219 converted or rebuilt. A66 M103  New sight (Stereoscopic T52) and T33 ballistic computer. A66 M103  Removed one coaxial machine gun. A66 M103  New turret electric amplidyne system traverse. A66 M103  Turret basket. A66 M103 
+*M103A2 1964. A66 M103  153 converted or rebuilt. A66 M103  New 750 hp (559 kW) diesel engine from the M60 tank, increasing the road range to 480 km and maximum speed to 37 km/h. A66 M103  New sight coincidence XM2A. A66 M103 
+
+|HistoricalGallery=
+image:Heavy_Tank_M103_1. A66 M103 JPG{{!}}M103 on Tank Row at Aberdeen Proving Grounds
+image:Heavy_Tank_M103_2. A66 M103 jpg{{!}}M103 on Tank Row at Aberdeen Proving Grounds
+image:Heavy Tank M103 Technical Drawing. A66 M103 gif{{!}}M103 Technical Drawing
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Estes, K. A66 M103 W. A66 M103 , 2013, '''<i>M103 Heavy Tank 1950–74</i>''', New Vanguard Series 197, Osprey Publishing, Oxford, 48p, ISBN:9781849089814. A66 M103 
+
+Forty, G. A66 M103 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A66 M103 
+
+Foss, C. A66 M103 F. A66 M103  and W. A66 M103  Fowler, 2002, '''<i>The Encyclopedia of Tanks and Armored Fighting Vehicles</i>''', Thunder Bay Press, San Diego, CA, 544p, ISBN:9781571458063. A66 M103 
+
+Hunnicutt, R. A66 M103 P. A66 M103 , 1988, '''<i>Firepower: A History of the American Heavy Tank</i>''', Presidio Press, 222p,  ISBN:9780891413042. A66 M103 
+
+
+|Ref_links=
+
+
+|Sidebar_Camostop=4. A66 M103 9
+|Sidebar_Camomove=2. A66 M103 6
+|Sidebar_Camofire=1. A66 M103 1
+|Sidebar_Passhard=1. A66 M103 151
+|Sidebar_Passmed=1. A66 M103 247
+|Sidebar_Passsoft=2. A66 M103 301
+|Sidebar_DispTurret=0. A66 M103 096
+|Sidebar_DispRecoil=3. A66 M103 836
+|Sidebar_DispAccel=0. A66 M103 192
+|Sidebar_DispTurning=0. A66 M103 192
+}}

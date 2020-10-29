@@ -1,0 +1,108 @@
+{{TankData|Tank=R24_SU-76
+|Despite its move to Tier 4, the SU-76M is still a good tank destroyer, combining above-average penetration with amazing accuracy and decent aim time to make a very good sniper. R24 SU-76  Additionally, it has exceptional camouflage values, allowing it to fire from a covered position and remain hidden from all but the closest enemies. R24 SU-76  This is very helpful, as the SU-76M has very thin armor and will not survive concentrated enemy fire. R24 SU-76 
+
+|Gallery=
+image:SU76-a. R24 SU-76 jpg{{!}}Front right
+image:SU76-b. R24 SU-76 jpg{{!}}Front left
+image:SU76-c. R24 SU-76 jpg{{!}}Rear right
+image:SU76-d. R24 SU-76 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Good rate of fire and accuracy
+* Good hull traverse speed
+* Exceptional camouflage values
+* Good acceleration
+
+|InTheGame_cons=
+* Top gun is extremely expensive (costs more experience and nearly half as many credits as the tank!)
+* Narrow gun arc coupled with bad gun depression
+* Front-mounted engine is vulnerable to damage
+* Thin armor and open-topped, highly vulnerable to artillery
+* Low damage and poor DPM for a Tier 4 tank destroyer
+
+|InTheGame_performance=
+The stock SU-76M is a difficult tank to work with, especially after its move to Tier 4. R24 SU-76  Its stock gun has poor penetration, and it cannot mount either of the upgraded guns or any equipment - even a Camouflage Net or Binocular Telescope - until the suspension has been upgraded. R24 SU-76  Fortunately, the 9RM radio and M-80 engine, both of which are unlocked on the T-70, are light enough that they can be mounted from stock, somewhat alleviating the stock SU-76M's mobility issues. R24 SU-76 
+
+The SU-76M's strength lies in long range combat, where it can easily kill any opponent it encounters. R24 SU-76  At the same time, it has nearly no defense against fast moving enemies that can close the distance, and there are many fast tanks in the lower tiers. R24 SU-76  If it wishes to survive, the SU-76M should always stay behind the front lines and support other tanks. R24 SU-76  The SU-76M does well from spots overlooking large open areas, as in [[Malinovka]], but really suffers in city maps like [[Ensk]], [[Ruinberg]], and [[Himmelsdorf]], where it must play very cautiously. R24 SU-76 
+
+=='''Crew Skills'''==
+* Like on most other tank destroyers with weak armor, '''Camouflage''' is absolutely necessary on all crew members and should be prioritized over other skills. R24 SU-76 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly recommended. R24 SU-76 
+* Once Camouflage and Sixth Sense have been trained, more specialized skills may be considered: '''Recon''' (Commander), '''Snap Shot''' (Gunner), '''Smooth Ride''' (Driver), '''Situational Awareness''' (Loader/Radio Operator). R24 SU-76  Recon and Situational Awareness provide a useful 5% combined bonus to the SU-76's decent view range. R24 SU-76  Snap Shot and Smooth Ride allow the SU-76 to aim faster in order to get an accurate shot off faster, although '''Off-Road Driving''' can also be useful to help augment the SU-76's good mobility. R24 SU-76 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R24 SU-76  It should be saved for later on the SU-76M, at least until after Camouflage and Sixth Sense have been fully trained. R24 SU-76 
+
+|InTheGame_research=
+* The '''M-80''' engine and '''9RM''' radio carry over from the T-70 and should be mounted immediately. R24 SU-76 
+* The '''57 mm ZiS-2''' is highly recommended as the gun of choice on the SU-76M. R24 SU-76 
+* The '''SU-76M''' tracks should be researched next for improved traverse speed. R24 SU-76 
+* The '''76 mm ZiS-3''' is required to unlock the SU-85. R24 SU-76 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Binocular Telescope, Camouflage Net
+
+|History=
+[[image:SU-76-VE-day-parade-moscow. R24 SU-76 jpg|thumb|200px|right|SU-76 at VE day parade in Moscow]]
+The SU-76 was based on a lengthened and widened version of the T-70 tank chassis. R24 SU-76  Its simple construction made it the second-most produced Soviet armored vehicle of World War II, after the T-34 tank. R24 SU-76 
+
+Crews loved this vehicle for its simplicity, reliability, and ease of use, although it was sometimes nicknamed 'suka' (bitch), 'Suchka' (little bitch) or 'Golozhopiy Ferdinand' (bare-arsed Ferdinand) for its layout which recalled the massive Porsche-designed German tank hunter, and its open rear. R24 SU-76  One famous crewman was Rem Nikolaevich Ulanov, who is a distinguished German-Soviet War veteran. R24 SU-76  In his younger days, he was a mechanic-driver and later a commander of an SU-76. R24 SU-76  He and some other soldiers called their SU-76 Columbina after the female Renaissance Italian Commedia dell'Arte personage. R24 SU-76 
+
+Design of the SU-76 began in November 1942, when the State Defense Committee ordered the construction of infantry support self-propelled guns armed with the ZiS-3 76. R24 SU-76 2 mm gun and the M-30 122 mm howitzer. R24 SU-76  The T-70 chassis was chosen for mounting the ZiS-3 gun and was lengthened, adding one road wheel per side to facilitate better gun mounting. R24 SU-76 
+
+In the rush for fast completion of the order, a quite unreliable power plant was installed in the first mass produced SU-76s. R24 SU-76  It utilized two automobile engines (GAZ-202) mounted in "parallel", each track with its own engine. R24 SU-76  It was found to be difficult for the driver to control the two engines simultaneously. R24 SU-76  Moreover, strong vibrations led to early failures of engines and transmission units. R24 SU-76  The vehicle was completely enclosed by armor. R24 SU-76  After producing 320 SU-76s, mass production was halted in order to fix the problems. R24 SU-76  Two chief designers at the GAZ plant, N. R24 SU-76  A. R24 SU-76  Astrov and A. R24 SU-76  A. R24 SU-76  Lipgart, changed the power plant to the reliable T-70 design. R24 SU-76  The roof of the compartment was removed for better gun servicing. R24 SU-76  This modified version, called the SU-76M, began mass production in early 1943. R24 SU-76  The production halt and redesign was the reason for the introduction of the SU-76i (see later) as a temporary replacement for the SU-76. R24 SU-76 
+
+After the pause, GAZ and two factories in Kirov and Mytishchi produced 13,932 SU-76Ms (the larger part of the order, over 9,000 vehicles, were built solely by GAZ). R24 SU-76  Mass production of the SU-76M ceased in the second half of 1945. R24 SU-76  In contemporary accounts, SU-76Ms are often referred to in texts, public radio, and TV broadcasting as SU-76s with the "M" omitted, due to their ubiquity in comparison with the original SU-76s. R24 SU-76  The SU-76 was the basis for the first Soviet tracked armored anti-aircraft vehicle, the ZSU-37. R24 SU-76  Mass production of the ZSU-37 was continued after SU-76M production ceased. R24 SU-76  The SU-76M was withdrawn from Soviet Army service after the Second World War ended. R24 SU-76 
+
+== Variants ==
+[[image:SU-76M Borset. R24 SU-76 jpg|thumb|200px|right|Soviet SU-76M in Bovington tank museum, Dorset]]
+* OSU-76 -- Experimental model based on the T-60 tank chassis. R24 SU-76 
+* SU-76 -- Based on a lengthened T-70 tank chassis, with the inferior dual-engine arrangement of earlier T-70s. R24 SU-76  Only a few were produced, and these were quickly withdrawn from front line service. R24 SU-76 
+* SU-76M -- Main production model. R24 SU-76 
+* SU-76B -- Featured a completely enclosed armoured crew compartment. R24 SU-76  Only a few were produced. R24 SU-76 
+* ZSU-37 -- Self-propelled anti-aircraft gun, based on the SU-76. R24 SU-76 
+* Unnamed variant with the 57mm ZiS-4 gun
+
+The unrelated SU-76i (1943) was based on the German Panzer III and StuG III chassis, armed with a ZiS-5 76. R24 SU-76 2 mm gun. R24 SU-76  About 1,200 of these captured vehicles, many from Stalingrad, were converted at Factory No. R24 SU-76  38 by adding a new enclosed superstructure. R24 SU-76  They were issued to tank and self-propelled gun units starting in autumn 1943. R24 SU-76 [1]
+
+== Combat history ==
+[[image:SU-76M nn 300px. R24 SU-76 jpg|thumb|200px|right|SU-76 at WWII vehicles exhibition in Kremlin of Nizhny Novgorod, Russia. R24 SU-76 ]]
+The SU-76M virtually replaced infantry tanks in the close support role. R24 SU-76  Its thin armor and open top made it vulnerable to antitank weapons, grenades, and small arms. R24 SU-76  Its low weight and low ground pressure gave it good mobility. R24 SU-76 
+
+The SU-76M combined three main battlefield roles: light assault gun, mobile anti-tank weapon, and mobile gun for indirect fire. R24 SU-76  As a light assault gun, the SU-76M had good estimation from Soviet infantrymen (in contrast with their own crews). R24 SU-76  It had more powerful weapons than any previous light tank for close support and communication between infantry and the SU-76M crew was simple, due to the open crew compartment. R24 SU-76  This was extremely useful in urban combat where good teamwork between infantry and AFVs is a key to success. R24 SU-76  Although the open compartment was highly vulnerable to small arms fire and hand grenades, it very often saved the crew's lives in the case of a hit by a Panzerfaust, whose concussion blast would mean death in an enclosed vehicle. R24 SU-76 
+
+The SU-76M was effective against any medium or light German tank. R24 SU-76  It could also knock out the Panther tank with a flank shot, but the ZiS-3 gun was not sufficient against Tiger tanks. R24 SU-76  Soviet manuals for SU-76M crews usually instructed the gunner to aim for the tracks or gun barrel against Tigers. R24 SU-76  To improve the SU-76M's anti-armor capabilities, armor-piercing composite rigid (APCR) and hollow charge projectiles were introduced. R24 SU-76  This gave the SU-76M a better chance against heavily armored German vehicles. R24 SU-76  A low profile, a low noise signature, and good mobility were other advantages of the SU-76M. R24 SU-76  This was ideal for organizing ambushes and sudden flank or rear strikes in close combat, where the ZiS-3 gun was sufficient against most German armored fighting vehicles. R24 SU-76 
+
+The maximum elevation angle of the ZiS-3 was the greatest amongst all other Soviet self-propelled guns. R24 SU-76  The maximum indirect fire distance was nearly 17 km. R24 SU-76  SU-76Ms were sometimes used as light artillery vehicles (like the German Wespe) for bombardments and indirect fire support. R24 SU-76  However, the power of the 76. R24 SU-76 2 mm shells was not sufficient in many cases. R24 SU-76 
+
+The SU-76M was the single Soviet vehicle able to operate in swamps with minimal support from engineers. R24 SU-76  During the Belarus liberation campaign in 1944, it was extremely useful for organizing sneak attacks through swamps: bypassing heavy German defenses on firmer ground. R24 SU-76  Usually, only lightly-armed infantry could pass through large swampy areas. R24 SU-76  With SU-76M support, Soviet soldiers and engineers could effectively destroy enemy strong-points and continue to advance. R24 SU-76 
+The SU-76M had a large number of ammunition types. R24 SU-76  They included armor-piercing (usual, with ballistic nose and subcaliber hyper-velocity), hollow charge, high explosive, fragmentation, shrapnel, and incendiary projectiles. R24 SU-76  This made the SU-76M a true multi-purpose light armored fighting vehicle. R24 SU-76 
+After World War II, the SU-76 was used by Communist forces in the Korean War. R24 SU-76 
+
+== Surviving examples ==
+Due to the large number of vehicles produced, many SU-76Ms have survived the post-war years, and most of the larger Russian military museums have examples of the SU-76M in their exhibitions. R24 SU-76  They can also be found at the German-Soviet War monuments or memorials in different Russian, Belarusian, Ukrainian, and Polish cities. R24 SU-76  There is a nice example at the Muzeul Militar National in Bucharest, Romania. R24 SU-76 
+
+|HistoricalGallery=
+image:SU75MSevestopol. R24 SU-76 jpeg{{!}}SU-76M at the Museum on Sapun Mountain Sevastopol
+image:SU76bucharest. R24 SU-76 jpeg{{!}}SU-76 at National Military Museum 'King Ferdinand I'. R24 SU-76  Bucharest, Romania. R24 SU-76 
+image:SU76berlin. R24 SU-76 jpeg{{!}}SU-76 on the road of Berlin. R24 SU-76  May 1945. R24 SU-76 
+image:SU57. R24 SU-76 png{{!}}SU-76M modified with 57mm Zis-2 gun, became SU-57 (not to be confused with the SU-57 halftrack or the ZSU-57 SPAAG
+
+|Ref_references=
+* Zaloga, Steven J. R24 SU-76 , James Grandsen (1984). R24 SU-76  Soviet Tanks and Combat Vehicles of World War Two, London: Arms and Armour Press. R24 SU-76  ISBN 0-85368-606-8. R24 SU-76 
+* Dougherty, Martin J. R24 SU-76  (2008). R24 SU-76  Tanks; From World War I to the Present Day, New York: Metro Books. R24 SU-76  ISBN 1-4351-0123-4
+
+|Ref_sources=
+# Zaloga 1984, p 180. R24 SU-76 
+
+|Ref_links=
+* [[https://en. R24 SU-76 wikipedia. R24 SU-76 org/wiki/SU-76 Wikipedia]]
+# [[https://www. R24 SU-76 axishistory. R24 SU-76 com/index. R24 SU-76 php?id=5260 Axis History Factbook]]
+# [[https://www. R24 SU-76 battlefield. R24 SU-76 ru/index. R24 SU-76 php?option=com_content&task=view&id=62&Itemid=50 SU-76]] series and [[https://www. R24 SU-76 battlefield. R24 SU-76 ru/index. R24 SU-76 php?option=com_content&task=view&id=63&Itemid=50 SU-76i]] at Battlefield. R24 SU-76 ru]]
+# [[https://users. R24 SU-76 swing. R24 SU-76 be/tanks. R24 SU-76 tanks/complet/538. R24 SU-76 html LemaireSoft]]
+# [[https://www. R24 SU-76 onwar. R24 SU-76 com/tanks/ussr/fsu76. R24 SU-76 htm OnWar]]
+# [[https://www. R24 SU-76 wwiivehicles. R24 SU-76 com/ussr/self-propelled-guns/su-76. R24 SU-76 asp WWII Vehicles]]
+# [[https://www. R24 SU-76 iremember. R24 SU-76 ru/index. R24 SU-76 php?option=com_content&task=view&id=386#jreactions Interview with SU-76 gunner]]
+* [[https://overlord-wot. R24 SU-76 blogspot. R24 SU-76 com/2012/05/wot-digging-through-archives-su-76-with. R24 SU-76 html]] Detailed proposal of the mounting of the 57mm gun on the SU-76M
+* [[https://ftr. R24 SU-76 wot-news. R24 SU-76 com/2014/11/24/su-74-su-76d-and-su-57b-gaz-74-series/]] more variants based off of the SU-76
+}}
+
+[[Category:USSR Tanks]]

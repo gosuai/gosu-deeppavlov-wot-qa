@@ -1,0 +1,53 @@
+{{TankData|Tank=T25PilotNumber1
+|The T25 Pilot is, in its own right, a combination of both the M26 Pershing and the T20; players familiar with the playstyles of both of these tanks will feel right at home with the T25 Pilot. A111 T25 Pilot  The T25 Pilot, compared to other tier 8 premium mediums, is a very well rounded tank, it is a Jack-of-all-Trades much like the Pershing and combines a good mix of average (Or slightly above average in some aspects) mobility, armor, and firepower. A111 T25 Pilot  Whereas, for example, the CDC trades armor for exceptional mobility or the T-54 Mod. A111 T25 Pilot  1 trades mobility for armor. A111 T25 Pilot  The T25 will not last long on its own due to its poor (Though not horrible) armor, and works best in a medium tank wolf pack or as a mid-range sniper, preferably shooting over a ridge only exposing its reasonably well armored turret. A111 T25 Pilot  As for its credit making potential, its fast-firing 90mm as well as its bouncy turret should earn the player a respectable sum. A111 T25 Pilot  One last thing to note is that the T25 travels 7 km/h faster than the Pershing (55 km/h,) and this speed advantage makes the T25 much more flexible at repositioning and escaping from sticky situations. A111 T25 Pilot 
+
+|Gallery= 
+
+|InTheGame_pros=
+* Excellent ground resistance makes up for the lacking engine power;
+* Has also high top speed;
+* Excellent gun handling with handsome vertical clerance and high accuracy;
+* Decent damage per minute by very good rate of fire;
+* Thick gun mantlet can resist most guns at and below 200mm of pen;
+
+
+|InTheGame_cons=
+* Very poor overall armor for a tier VIII medium, can only manage auto-ricochets; 
+* Low power/weight ratio, slow on slopes;
+* Actual hull traverse can be disappointing on medium to soft ground;
+* Low penetration values;
+* Slow shell velocity especially on AP round;
+
+|InTheGame_performance= 
+Unlike typical American medium tanks of the Sherman/Pershing/Patton family, the [[T25 Pilot]] fullfils a specialized role, more akin to that of the mid-tier turreted tank destroyers. A111 T25 Pilot  In that sense it seems to be more akin to the T20, albeit it's much slower. A111 T25 Pilot  Like the [[T20]] it is severly lacking in armor and its main defense lies in staying unnoticed. A111 T25 Pilot  Despite being 1 tier higher with more or less the same gun, its greatly improved RoF definitely makes up for that, contributing more to the flanking ability. A111 T25 Pilot 
+If that fails, its good gun depression and in addition, a gun mantlet of decent thickness allow it to use ridgelines effectively. A111 T25 Pilot 
+
+The strong point of this tank is its gun handling, which allows for snapshooting even at distant targets. A111 T25 Pilot 
+
+|InTheGame_research= 
+None, this is a Premium tank. A111 T25 Pilot 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 2, Coated Optics
+
+|InTheGame_Equipment_Builds=
+As a premium vehicle, this tank will usually not have its own crew. A111 T25 Pilot  However, if it does, training camouflage on all crew members is a useful alternative to repairs. A111 T25 Pilot  <br />
+After that, retrain Sixth Sense on commander and Safe Stowage on loader. A111 T25 Pilot  For the 3rd set and beyond, BiA, Recon, Off-Road Driving and Situational Awareness are suggested picks. A111 T25 Pilot 
+
+|External_Reviews= 
+
+|History= 
+With standardization of the M27 rejected, the Ordnance Department continued designing improved tanks, this time armed with 90 mm guns. A111 T25 Pilot  The immediate result of this line of development was the T25 series—basically a slightly enlarged version of the T23—and then the bigger, better protected T26. A111 T25 Pilot 
+
+|HistAcc=
+Uses the same gun as the [[Tank:A117_T26E5|T26E5]], yet the penetration values are inconsistent. A111 T25 Pilot 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,64 @@
+{{TankData|Tank=T1_Cunningham
+|The first American tank available to the player, the T1 Cunningham is popular with many players for its "bug-eyed" appearance, and is relatively well-known for its role as the main character in the [https://www. A01 T1 Cunningham youtube. A01 T1 Cunningham com/playlist?list=PLYgipOCaRI02FKjWvijbGZTkJn_9Ff4E- "Do's and Don'ts" short-video series]. A01 T1 Cunningham  It is not well-known for its toughness, though, as it has the second-weakest Tier I armor in the game; however, it has the best top speed of any Tier I tank, with good acceleration and handling characteristics. A01 T1 Cunningham  Although it does not excel at bouncing shots, the light tank's guns, with very high rates of fire, are forces to be reckoned with in its tier. A01 T1 Cunningham 
+
+|InTheGame_pros=
+* Good engine power and top speed
+* Semi-automatic gun
+* Very high burst damage from 37 mm Semiautomatic Gun M1924 can kill every tier 1 tank if all shells hit the target
+* Good magazine capacity
+* Fast reload on 37 mm Gun M1916 
+* Rear-mounted turret gives the tank fairly good side-scraping abilities
+* Good for 7/42s and WGLNA games
+
+|InTheGame_cons=
+* Thin hull and turret armour
+* Low penetration
+* Poor aim time and gun elevation
+* No longer gets the powerful 20mm autocannon or the Browning since update 9. A01 T1 Cunningham 14
+
+|InTheGame_performance=
+This tank is considerably faster than other tier 1 vehicles, making it a good offensive tank in early battles. A01 T1 Cunningham  Fully upgraded, it is a nimble but fragile tank, so staying mobile and performing hit-and-run attacks is essential. A01 T1 Cunningham  Other than its speed, something unique to this tank at this tier is the semi-automatic gun. A01 T1 Cunningham  This gun has a 5-round magazine and functions the same way as the French [[Automatic_Loader|autoloaders]]. A01 T1 Cunningham  They can fire their whole magazine in quick succession, but then have a long reload time for next five rounds. A01 T1 Cunningham  Remember, every tank the T1 Cunningham encounters will have more armour, so try to avoid drawn-out slugging matches. A01 T1 Cunningham  
+
+With its speed, it can get into [[Automatic Loader#Autocannons|auto-cannon]] range more easily than other tier 1 tanks, but the problem is often staying alive long enough to kill the target at that range. A01 T1 Cunningham  Also, the reload time for the auto-cannon on this tank is absurdly long (more than twice as long as any other tier 1 tank), giving it a distinct disadvantage. A01 T1 Cunningham  However, you can nullify this disadvantage by using the terrain, setting up traps that result in severely damaging or killing you opponents quickly, if done correctly. A01 T1 Cunningham 
+
+
+Please note the [[Battle_Mechanics#Map_Restrictions|Map Restrictions]] for tier 1 tanks, if you consider purchasing a camouflage skin/paint job for this tank. A01 T1 Cunningham 
+
+|InTheGame_research=
+* Research the [[Gun/USA#37_mm_Semiautomatic_Gun_M1924|37 mm Semiautomatic Gun M1924]], as it has better penetration, a higher rate of fire, and is more accurate than the starting gun. A01 T1 Cunningham  It is also the only thing you can research at this tier, besides the next tier tank. A01 T1 Cunningham 
+
+|InTheGame_equipment=
+Vents,Binocular Telescope, GLD
+
+|Gallery=
+image:T1_Cunningham_001. A01 T1 Cunningham jpg 
+image:T1_Cunningham_002. A01 T1 Cunningham jpg 
+image:T1_Cunningham_003. A01 T1 Cunningham jpg 
+image:T1_Cunningham_004. A01 T1 Cunningham jpg 
+image:T1-1. A01 T1 Cunningham jpg{{!}}T1 Cuningham, map Malinovka
+
+|History=
+The T1 Cunningham was a US light tank design that never progressed beyond built prototypes. A01 T1 Cunningham  Officially carrying the designations of T1E1 through T1E6, it went through its development stages from 1927 through 1932. A01 T1 Cunningham  The tank was never mass produced, nor was it ever fielded in combat. A01 T1 Cunningham 
+
+Ten tanks were produced (including the original T1 model) with the T1E1 series being the only model that had more than one prototype built (4 T1E1s were produced). A01 T1 Cunningham  Only the T1E2 prototype survives to the present day. A01 T1 Cunningham  It currently resides in storage (without any armament) at the U. A01 T1 Cunningham S. A01 T1 Cunningham  Army Ordnance Training and Heritage Center in Virginia, USA, having been moved from the now-closed museum at the Aberdeen Proving Ground in Maryland. A01 T1 Cunningham 
+
+|HistoricalGallery=
+image:T1_Cunningham_pic1. A01 T1 Cunningham jpg{{!}}Aberdeen Proving Ground
+
+|HistAcc=
+The T1 represented in the game is really a T1E1. A01 T1 Cunningham 
+* The top speed was only 29 Km/h for the T1E1, and 32 Km/h for the T1. A01 T1 Cunningham 
+
+|Ref_references=
+
+
+|Ref_sources=
+* Stuart History of the American Light Tank, Vol. A01 T1 Cunningham  1, RP Hunnicutt, Presidio Press, 1992
+* A Yankee Inventor and the Military Establishment: The Christie Tank Controversy, George F. A01 T1 Cunningham  Hofmann, Military Affairs, Vol. A01 T1 Cunningham  39, No. A01 T1 Cunningham  February 1, 1975
+
+|Ref_links=
+* https://www. A01 T1 Cunningham wwiivehicles. A01 T1 Cunningham com/usa/tanks-light/t1. A01 T1 Cunningham asp
+* https://tankarchives. A01 T1 Cunningham blogspot. A01 T1 Cunningham com/2015/12/christies-victim. A01 T1 Cunningham html
+* https://warspot. A01 T1 Cunningham ru/4602-zhertva-tanka-kristi
+
+}}

@@ -1,0 +1,130 @@
+{{TankData|Tank=Ch01_Type59
+|This tank was removed from the in-game store on 16 January 2012. Ch01 Type59  The decision was made "to ensure a healthy gameplay balance at higher tiers, and also to encourage a wider variety of tier 8 medium tank usage. Ch01 Type59 " It last appeared in the gift shop in August 2012. Ch01 Type59  Though not available for traditional purchase, it frequently is the reward for first place in official competitions and tournaments. Ch01 Type59 
+
+Considered one of the best tier 8 premium tanks, the Type 59 combines thick frontal armor with a reliable gun and excellent mobility. Ch01 Type59  Because of its large spread of features and lack of specialization, the Type 59 fills the 'pocket heavy' role of the tier VIII premiums and very often performs better than expected in 1-on-1 fights with tier VIII mediums and light tanks. Ch01 Type59  
+
+A golden variant of the Type 59 - [[Tank:Ch01_Type59_Gold|Type 59 G]] also had its own history, and is occasionally available in Black Market events. Ch01 Type59 
+
+|Gallery=
+File:Type-591. Ch01 Type59 jpg{{!}}Type 59 in HD following update 9. Ch01 Type59 10
+File:Type-592. Ch01 Type59 jpg
+File:Type-593. Ch01 Type59 jpg
+
+|InTheGame_pros=
+* Good gun handling and aim time
+* Outstanding turret armor, hull armor is also decent
+* Good gun depression for a Chinese tank
+* Good top speed, acceleration and agility
+* Preferential matchmaking, won't see Tier 10 battles
+
+|InTheGame_cons=
+* Low DPM
+* Fairly low AP (standard) penetration
+* Vulnerable to module damage and crew injury
+* Low hitpoint pool
+* Extremely hard to obtain
+
+|InTheGame_performance=
+
+The Type 59 is considered by some to be one of the most difficult tanks to destroy by lower tiers since it boasts a well armored and sloped turret, which along with its sloped frontal armor is capable of bouncing many shots. Ch01 Type59  The tank is also fairly agile, so flanking it can prove difficult as well. Ch01 Type59 
+
+The Type 59's main gun is the same 100 mm cannon found on the  [[T-34-2]]. Ch01 Type59  Compared to its tier 8 peers, this tank is very well protected. Ch01 Type59  100 mm frontal armor sloped at 60 degrees is strong enough to stop around 175 mm penetration AP rounds and 200 mm HEAT rounds reliably with minimal angling. Ch01 Type59  This is usually enough to protect from Russian 122 mm D-25T and its peers, as well as many guns found on other tier 8 and below mediums. Ch01 Type59  When shooting this tank from the front, it is generally best to aim for the hatches on top of the turret. Ch01 Type59  While the lower plate might at first seem like a nice target, it is actually just as thick as the upper plate, plus it is generally at a more extreme angle, given its low placement. Ch01 Type59  Availability of gold-ammo-for-credits does allow tanks with weaker penetration to have a better hope at combating this tank frontally. Ch01 Type59  
+The two cupolas on the turret are technically weakspots, but still feature 150 mm armour at the front, which is both rounded and sloped. Ch01 Type59  
+Because of the relatively low silhouette it is possible to shoot down into the top armour in front of the turret from close range. Ch01 Type59  This is very thin and can be easily overmatched even at extreme angles. Ch01 Type59  
+
+The Type 59 is one of the most versatile and feared, if not respected tanks on the battlefield. Ch01 Type59   Its durability, resilience, decent firepower, and agility all contribute to a very well rounded tank. Ch01 Type59   Coupled with the fact that this tank has good matchmaking make it a blast to play, especially in groups. Ch01 Type59 
+
+While the Type 59 has many advantages, it does have a few disadvantages. Ch01 Type59  A fuel tank is located next to the driver at the front of the tank, meaning catching fire from a frontal hit is certainly possible. Ch01 Type59  Ammo racks are also located all along the right side of the hull as well. Ch01 Type59  Flanking a type 59 from the right side can often lead to ammo rack damage for this tank, or even the rack itself detonating. Ch01 Type59 
+
+With the release of the patch 9. Ch01 Type59 20. Ch01 Type59 1 it gave the Type 59 a few buffs such as: Decreased aim time from 2. Ch01 Type59 9 to 2. Ch01 Type59 3 seconds, increase of the ammunition capacity from 34 to 50, decreased turret traverse dispersion by 25%, decreased hull traverse dispersion by 22% and when moving the dispersion is decreased by 22%. Ch01 Type59  In Patch 1. Ch01 Type59 2, the Type 59 received a much more powerful engine and additional gun handling buffs as well as improved frontal turret armor and slight penetration and RoF increases. Ch01 Type59 
+
+The Type 59 also has a very high credit earning ability, just like the other [[Premium Tanks|premium tanks]]. Ch01 Type59  Some even argue that this tank earns the most credits out of the lot due to cheaper ammunition. Ch01 Type59 
+
+Something to note is that since this tank is now only available as a competition prize, it is very hard to acquire one. Ch01 Type59  However, the [[WZ-120]] performs similarly to the Type 59, but the main difference between the two is that you can upgrade the WZ-120 (which ends up vastly better), though you will be facing top tier tanks frequently instead of tier 6 or 7s, as well as not be able to earn as many credits while playing it. Ch01 Type59 
+
+|InTheGame_research=
+Premium tank, none required
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Improved Ventilation Class 2
+
+|InTheGame_Equipment_Builds=
+BiA helps improve its mediocre DPM and accuracy, but not necessarily the most important;
+For improving survivability, one can choose Repairs, Firefightings and Safe Stowage to last longer on the lines. Ch01 Type59 
+For enhancing scouting capability, train Concealments, Recon and Situational Awareness so that poking turret could gain some more assists;
+
+Equipment Setup: Gun Rammer is mandatory, VStab highly recommended to better utilized its high mobility; 3rd slot can be Coated Optics to boost view range or Vents to improve overall performance. Ch01 Type59  Wet Ammo Rack can be somewhat pointless due to the vehicle's low base module HP: even with both Safe Stowage and Wet Rack applied, 100mm projectiles can still detonate it in 2 shots, and 122mm projectiles highly likely to "yellow" by a single shot all the same; only install if you intend to challenge heavy hitters from time to time. Ch01 Type59 
+
+|External_Reviews= 
+{{VideoYT|ZTN2julxBaU}}
+
+|History=
+
+[[image:T59-1. Ch01 Type59 jpg|thumb|200px|left|Type 59 tank in Royal Australian Armoured Corps Tank Museum, captured by ARVN troops in South Vietnam on 4 July 1972. Ch01 Type59 ]]
+The Type 59 (Chinese industrial designation: WZ120) main battle tank is a People's Republic of China produced version of the Soviet Union T-54/T-55 operators and variants tank, an improvement over the ubiquitous T-54/55. Ch01 Type59  The first vehicles were produced in 1958 and it was accepted into service in 1959, with serial production beginning in 1963. Ch01 Type59  Approximately 9,500 of the tanks were produced by the time production ended in 1980 with approximately 5,500 serving with the Chinese armed forces. Ch01 Type59  The tank formed the backbone of the Chinese People's Liberation Army until early 2000s with an estimated 5,000 of the later Type 59-I and Type 59-II variants in service in 2002. Ch01 Type59 
+
+The Type 59 was modified several times during its service with the replacement of the 100mm Type 59 rifled gun with a 105mm rifled gun. Ch01 Type59  It was also the basis of several later Chinese tank designs including the Type 69 and Type 79 tanks. Ch01 Type59 
+
+==Description==
+[[image:T59-2. Ch01 Type59 jpg|200px|right|Note the gap between the first road wheel and the second, and the small hole below the splash board for the bow mounted machine gun. Ch01 Type59 ]]
+Essentially the Type 59 is identical to the early production Soviet T-54As, however there are some key differences. Ch01 Type59  The Type 59 was not originally fitted with the infrared searchlight or main gun stabilization of the T-54. Ch01 Type59 
+
+The Type 59 has a conventional post-war layout with the fighting compartment at the front, an engine compartment at the rear, and a cast dome-shaped gun turret in the centre of the hull. Ch01 Type59  The hull is welded steel varying in thickness between 99mm on the front lower glacis to 20mm on the hull floor. Ch01 Type59  The turret varies from 39–100mm thick. Ch01 Type59 
+
+The driver sits in the front left of the hull, and is provided with a hatch immediately above his seat, which opens to the left. Ch01 Type59  The driver has two pop-up periscopes which give coverage ahead and slightly to the right when buttoned up. Ch01 Type59  The commander sits in the turret along with the gunner and loader. Ch01 Type59  The commander's hatch is on the turret left, with the gunner sitting forward and below him. Ch01 Type59  The loader sits on the right of the turret and has a hatch above him. Ch01 Type59  The turret has a non-rotating floor which complicated the crew's operations. Ch01 Type59 
+
+The turret mounts a rifled 100mm Type 59 cannon, for which 34 rounds are typically carried. Ch01 Type59  A Type 59T 7. Ch01 Type59 62mm machine gun is mounted coaxially with the main gun. Ch01 Type59  A Type 54 12. Ch01 Type59 7mm anti-aircraft machine gun (a Chinese copy of the Russian 12. Ch01 Type59 7mm M1938/46) is provided above the gunner's hatch for which 200 rounds is carried. Ch01 Type59  Additionally a Type 59T 7. Ch01 Type59 62mm bow machine gun is provided for the driver, which fires through a very small hole in the center of the glacis. Ch01 Type59  3,500 rounds of 7. Ch01 Type59 62mm ammunition are normally carried. Ch01 Type59 
+
+[[image:T59-3. Ch01 Type59 jpg|thumb|200px|left|A Type 59 tank at China People's Revolution Military Museum. Ch01 Type59 ]]
+The turret has a powered traverse mechanism that is probably comparable to the T-54 traverse mechanism which can rotate the turret through 360 degrees in 21 seconds. Ch01 Type59  Very early models of the Type 59 gun had manual elevation gear, later replaced with a powered system which allowed the gun to be aimed at between +17 and -4 degrees (the average depression for Western tanks is -10, which allows for better usage of hull-down tactics. Ch01 Type59  Later models added vertical stabilization to make firing on the move practical. Ch01 Type59  An infrared searchlight based night vision system was retrofitted to the tank with infrared periscope for the commander gunner and driver. Ch01 Type59 
+
+The tank is powered by a Model 12150L V-12 liquid cooled diesel engine, which develops 520 horsepower at 2,000 rpm. Ch01 Type59  The engine feeds a manual gearbox with five forward and one reverse gear. Ch01 Type59  A total of 815 liters of diesel can be carried internally in the tank, with a further 400 liters carried externally giving a maximum road range of 600 kilometers, or approximately 430km using only internal fuel. Ch01 Type59  The tank has five road wheels on each side with a prominent gap between the first and second road wheel. Ch01 Type59  The track is driven by a drive sprocket at the rear, with an idler at the front. Ch01 Type59  It is notable that there are no return rollers. Ch01 Type59  The suspension is a torsion bar system. Ch01 Type59  Engine exhaust is on the left fender. Ch01 Type59 
+
+Ammunition is stored inside the turret, which increases the odds of a catastrophic secondary explosion should the tank's interior be penetrated by enemy fire. Ch01 Type59  Crew survivability is hence low. Ch01 Type59 
+
+==History==
+[[image:T59-4. Ch01 Type59 JPEG|thumb|200px|right|A line-up of Chinese armoured vehicles at Shenyang training base, in the foreground are two Type 59-II tanks. Ch01 Type59  Note the bore evacuator in the middle of the barrel. Ch01 Type59 ]]
+
+After the signing of Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance, the Soviets agreed to assist China in building a tank manufacturing facility to manufacture the T-54A MBT in 1956. Ch01 Type59  Initially, the tanks were assembled with Soviet-supplied parts, which were gradually replaced by Chinese-made components. Ch01 Type59  The tank was accepted into service by the PLA in 1959, and given the designation Type 59. Ch01 Type59 
+
+The Type 59 MBT represented China's first-generation tank development. Ch01 Type59  Over the years, it was upgraded with various domestic and western technologies. Ch01 Type59  When the PLA captured a Soviet T-62 from the Sino-Soviet border conflict in 1969, improvements based on the T-62 were incorporated into the T-59 design to become the Type 69 MBT, which was further upgraded with western technology and became the Type 79 MBT. Ch01 Type59  The Type 59 was the beginning of China's first-generation MBT, and the Type 79 last, superseded by the Type 80 second-generation MBT. Ch01 Type59 
+
+The Type 59 MBT is also known as WZ-120 by its manufacturer. Ch01 Type59  It was produced in great numbers from 1959 to mid 1980s, totaling over 10,000. Ch01 Type59  This tank gained worldwide infamy after the "Tank Man" incident in 1989. Ch01 Type59  The Type 59, and its successor, the Type 69, were widely exported, with thousands sold. Ch01 Type59  Today an estimated 5,000 Type 59 MBTs remain in PLA inventory, but is used primarily for training and support roles. Ch01 Type59  The Type 59 series are being replaced by the more capable Type 96 and Type 99 MBTs. Ch01 Type59 
+{{VideoYT|eWsxae3a9eY}}{{VideoYT|6kp_-h4l-lo}}
+
+|HistAcc=
+Actual ammo capacity is 34 rounds. Ch01 Type59  In World of Tanks, however, the Type 59 has 50 rounds. Ch01 Type59 
+* The main gun is a copy of the Soviet D-10TG, the same ones seen on the [[T-54]] and [[T 55A]]. Ch01 Type59  However, the penetration values of the armor-piercing shell are inconsistent. Ch01 Type59 
+* Uses the same main gun as the [[WZ-120]] which is essentially the tech tree version of the Type 59, yet the penetration values are inconsistent. Ch01 Type59 
+* The engine is considerably more powerful than it is in real life, with 650 hp compared to the historical 520. Ch01 Type59  Its engine power value is also inconsistent with the WZ-120's. Ch01 Type59 
+* The People's Liberation Army roundel has the ''Eight One'' emblem inside the star. Ch01 Type59  In World of Tanks, however, the roundel consists of only the red star with yellow fimbriation. Ch01 Type59 
+
+|HistoricalGallery=
+image:T59-1. Ch01 Type59 jpg{{!}}Type 59 tank in Royal Australian Armoured Corps Tank Museum, captured by ARVN troops in South Vietnam on 4 July 1972. Ch01 Type59 
+image:Type 59 (3). Ch01 Type59 jpg
+image:Type 59 (4). Ch01 Type59 jpg
+image:Type 59 tank - front right. Ch01 Type59 jpg
+File:Type 59 (1). Ch01 Type59 jpg
+File:Type59history(5). Ch01 Type59 JPEG
+file:Type59history(1). Ch01 Type59 JPEG
+File:Tank Man. Ch01 Type59 jpg{{!}}Type 59 tanks obstructed by Tank Man in Tiananmen Square, 5 June 1989
+File:Type 59 1989. Ch01 Type59 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=16
+|Sidebar_Camomove=12
+|Sidebar_Camofire=3. Ch01 Type59 7
+|Sidebar_Passhard=0. Ch01 Type59 863
+|Sidebar_Passmed=0. Ch01 Type59 959
+|Sidebar_Passsoft=1. Ch01 Type59 918
+|Sidebar_DispTurret=0. Ch01 Type59 153
+|Sidebar_DispRecoil=3. Ch01 Type59 836
+|Sidebar_DispAccel=0. Ch01 Type59 173
+|Sidebar_DispTurning=0. Ch01 Type59 173
+}}

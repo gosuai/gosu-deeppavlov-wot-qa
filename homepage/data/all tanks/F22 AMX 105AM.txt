@@ -1,0 +1,55 @@
+{{TankData|Tank=AMX_105AM
+|
+
+|InTheGame_pros=
+* Gun range: stock: 980 m, top: 1280 m 
+* Decent top speed
+* Good accuracy
+
+|InTheGame_cons=
+* Flat shell trajectory
+* Sluggish hill climbing
+* Low damage, especially on well armored targets
+* No meaningful splash, it's direct hit or bust
+* Can not even cause stun
+
+|InTheGame_performance=
+* When you first start this tank you might miss a lot of shots, but give it time and train your crew as the accuracy is actually very good compared to other tier 5 arty. F22 AMX 105AM  The second gun has higher accuracy than the stock gun. F22 AMX 105AM 
+
+* This tank's decent top speed allows you to re-position very quickly and avoid enemy scouts or slower heavy tanks. F22 AMX 105AM  It has fairly low acceleration and it slows down a bit on hills, so be careful if you like trying to find odd areas to shoot. F22 AMX 105AM 
+
+* This tank plays like a TD a lot of the time, due to the low shell arch. F22 AMX 105AM  It also is a TD on steroids because it can hit across the map. F22 AMX 105AM  So a TD with benefits. F22 AMX 105AM  So aim behind enemy tanks to get the most accuracy out of the gun. F22 AMX 105AM 
+
+
+|InTheGame_research=
+* The 105 mm obusier mle. F22 AMX 105AM  1950 Gun and SCR 528F Radio carry over from the AMX 105 AM mle. F22 AMX 105AM  47. F22 AMX 105AM  Mount them immediately. F22 AMX 105AM 
+* Research the AMX 13 105 AM mle. F22 AMX 105AM  55 Suspension. F22 AMX 105AM  Now you can mount equipment. F22 AMX 105AM 
+* Finally research the Baudouin 6F 11 SRY Engine, but its not necessary. F22 AMX 105AM  
+
+|InTheGame_equipment=
+Medium-Caliber Artillery Shell Rammer,GLD,Camouflage Net
+
+|Gallery=
+
+File:AMX 13 105 AM mle. F22 AMX 105AM  50 scr 1. F22 AMX 105AM jpg
+File:AMX 13 105 AM mle. F22 AMX 105AM  50 scr 2. F22 AMX 105AM jpg
+File:AMX 13 105 AM mle. F22 AMX 105AM  50 scr 3. F22 AMX 105AM jpg
+
+
+|History=
+This tank is correctly known as the AMX Mk 61 variant AMX 105A, with the chassis of an AMX-13 light tank, it was in use by the Dutch army with the name of AMX-PRA (Pantser rups artillerie; armoured track artillery). F22 AMX 105AM 
+
+The tank (gun) had range of 15 km and a rate of fire of 10 shells in the first 3 minutes, then slowed down to 3 per minute. F22 AMX 105AM . F22 AMX 105AM . F22 AMX 105AM  The tank was in service from 1965 to 1984. F22 AMX 105AM 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+* https://en. F22 AMX 105AM wikipedia. F22 AMX 105AM org/wiki/AMX-13
+* https://nl. F22 AMX 105AM wikipedia. F22 AMX 105AM org/wiki/AMX-PRA (In Dutch, NOT English)
+* https://www. F22 AMX 105AM chars-francais. F22 AMX 105AM net/2015/index. F22 AMX 105AM php/liste-chronologique/de-1945-a-1990?task=view&id=681
+
+}}

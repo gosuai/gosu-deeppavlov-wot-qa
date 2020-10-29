@@ -1,0 +1,117 @@
+{{TankData|Tank=SU-14
+|Often known as the "School Bus" due to its shape, it is a worthy successor platform for the 203mm B-4 cannon first available on the SU-14-1 and the S-51. R27 SU-14  Even though it is one tier higher, the SU-14-2 can still utilise the B-4 to deliver more alpha damage than any other SPG of its tier except the GW Tiger P (which is armed with a slightly bigger 21cm Mörser). R27 SU-14  Relative to its predecessors, it has an improved rate of fire (1. R27 SU-14 5 times as many shots per minute) and some armour to bounce hastily aimed scout shots. R27 SU-14  Unfortunately, all this armour comes at the expense of mobility, and the ammo capacity is still as limited as its predecessors (16 for top gun). R27 SU-14 
+|Gallery=
+image:Su 14 1. R27 SU-14 jpg{{!}}Su-14 front left view
+image:Su 14 2. R27 SU-14 jpg{{!}}Su-14 front right view
+image:Su 14 3. R27 SU-14 jpg{{!}}Su-14 back left view
+image:Su 14 4. R27 SU-14 jpg{{!}}Su-14 back right view
+
+|InTheGame_pros=
+
+* Gun range - stock: 1400 m, top: 1250 m 
+* Top gun has excellent damage and splash radius
+* Good aiming time on both guns
+* Huge mass makes it an unappealing ramming target for light tanks
+* Easy stock grind - gun, radio and engine carry over from the [[SU-14-1]]
+
+|InTheGame_cons=
+
+* Long reload time
+* Very poor mobility and traverse speed
+* Poor accuracy
+* Extremely limited gun arc
+* Low ammunition capacity 
+
+|InTheGame_performance=
+As should have been learned when playing its predecessors, pre-aiming on zones likely to have enemies is key to success because of poor gun stats and narrow traverse arc. R27 SU-14  The stock grind is pretty terrible on this tank as well, but thankfully most people will not need to do it at all since the 203mm carries over from its predecessors. R27 SU-14 
+
+Despite claims to its low mobility, it can be surprisingly nimble for its size, capable of hitting 30km/h when coming down a slope. R27 SU-14  This should only be taken into account if you are repositioning ahead of time to avoid danger. R27 SU-14 
+
+
+|InTheGame_research=
+* Top gun and top radio carry over from the S-51 and SU-14-1 - mount immediately!
+* Engine carries over from the SU-14-1. R27 SU-14  If coming from the S-51, you should research it for more mobility. R27 SU-14 
+* Tracks go on last. R27 SU-14 
+
+
+|InTheGame_equipment=
+improved ventilation class 3, large-caliber tank gun rammer, enhanced gun laying drive
+
+
+|History=
+[[image:SU_14_with_203. R27 SU-14 jpg|thumb|200px|right|An old Soviet self-propelled artillery piece (SU-14) before its test firing. R27 SU-14  It was based on the heavy T-35 tank -- note the lack of an armored box around the gun/crew]]
+The experimental SU-14 was built in 1934 (possibly 2 were built) as heavy self-propelled guns for mechanized units for the destruction of strengthened fortifications. R27 SU-14  
+
+Specifications: weight- 48,5 t; crew- 7 men; armament- 203mm howitzer B-4 mod. R27 SU-14  1931 (range of fire 18 km with 100 kg shell, rate of fire 1 shot/5. R27 SU-14 7 min) + 3 x 7,62mm MG;- ammunition 8 shells + 2268 MG shells; armor 10-20 mm; engine M-17 500 hp; speed- 27. R27 SU-14 3 km/h; range 100-120 km. R27 SU-14  
+
+The SU-14 was based on the T-35 chassis with other elements from both the T-28 and T-35. R27 SU-14  The engine was located in the front and the howitzer was openly-mounted. R27 SU-14  The original SU-14 had the 203mm B-4. R27 SU-14  The SU-14 was equipped with two 200 kg cranes for use with the ammunition, two spades, and had to have its suspension disconnected during firing; it could fire only from the stationary position. R27 SU-14  Its maneuverability and speed were satisfactory. R27 SU-14  Also, operation of the howitzer was convenient. R27 SU-14  But, its size was large, armor was insufficient, and it had problems with over-driven transmissions. R27 SU-14  
+
+The SU-14 was tested in 1935 and its engine and transmission were modified (improved SU-14-1 was built in 1936 - it had better and more reliable transmission, improved spades, more powerful engine M-17F 680 hp. R27 SU-14 ). R27 SU-14  On both SPGs, the 203mm howitzer was replaced by the 152. R27 SU-14 4mm naval gun B-30 and Br-2 (which had better range and rate of fire) in 1936. R27 SU-14  It was planned to produce 5 copies with the 152. R27 SU-14 4mm gun Br-2 (SU-14-2), but that plan was rejected due to the arrest of the chief engineers of the project. R27 SU-14 
+
+See left most (or top most) blueprint below. R27 SU-14 
+<center>
+[[image:SU-14_with_203mm_Howitzer. R27 SU-14 jpg|200px|Original SU-14 design with the 203mm Howitzer]]
+[[image:SU-14-1_with_152mm_Howitzer. R27 SU-14 jpg|200px|SU-14-1 with the longer ranged 152mm Howitzer]]
+</center>
+
+In 1936, the new experimental self propelled gun SU-14-1 was built and tested. R27 SU-14  It was the improved version of the SU-14 with the transmission from a T-35 heavy tank (not from T-28 medium tank as in the case of SU-14), more powerful engine, modernized spades, and without the ineffective suspension needing to be disconnected during firing. R27 SU-14  An additional artillery tractor, “Comintern”, was used as ammunition carrier (50-60 shells) for the SU-14-1. R27 SU-14  See right most (or bottom most) blueprint above. R27 SU-14 
+<center>
+[[image:SU_14_with_203. R27 SU-14 jpg|200px|SU-14 original]]
+[[image:SU-14_SU-14-1_1936. R27 SU-14 jpg|200px|SU-14-1 with a 203mm]]
+</center>
+
+In 1936, the 203mm howitzer was also replaced by the 152. R27 SU-14 4mm gun Br-2 mod. R27 SU-14 1935 with better range and rate of fire. R27 SU-14  The SU-14-1 was equipped with a radio station and additional armor in 1940 for use during the Winter War against Finnish fortifications (Mannerheim line) from a short distance. R27 SU-14  That SP gun was renamed the SU-14-Br2 and was the predecessor of heavy SP guns of the WWII period. R27 SU-14  Now, the SU-14-2 is preserved at the Russian tank museum (Kubinka). R27 SU-14  
+
+<center>
+[[image:SU-14_Br2_Armored. R27 SU-14 jpg|thumb|200px|SU-14 Br2 Blueprint]]
+</center>
+
+[[image:SU-14-museum. R27 SU-14 jpg|200px|thumb|SU-14 Br2 in Kubinka]]
+
+== Combat Usage ==
+
+==== The Winter War ====
+The SU-14 was used quite successful in the destruction of Finnish fortifications during the Winter War. R27 SU-14  
+
+==== World War II ====
+In April 1940, the SU-14 and SU-14-1 were going through tests in NIAP, and in July, were in P. R27 SU-14 F. R27 SU-14  Lebedev's tank group in the Keiv Region. R27 SU-14  In September 1940, both units were given to NIBT for storage. R27 SU-14  In the fall of 1941, when defending Moscow, both SU-14s and an experienced SU T-100-U in a unit called "Separate Heavy Division for Special Purposes" were used in the Kubinka Region to fire from protected positions at advancing German forces (likely, they were using any working weapon available). R27 SU-14 
+
+==Variants==
+* SU-14 -- Armed with 203mm howitzer B-4 mod. R27 SU-14  1931 + 3 x 7,62mm MG; ammunition 8 shells + 2268 MG shells; armor 10-20 mm; engine M-17 500 hp; speed 27,3 km/h; range 100-120 km
+* SU-14-1 -- Armed with 203mm howitzer B-4 mod. R27 SU-14  1931 + 4 x 7,62mm MGs; ammunition 8 shells + 2196 MG shells; armor 6-20 mm; engine M-17F 700 (850?) hp; speed 30-35 km/h; range 120-150 km. R27 SU-14 
+* SU-14-Br2 -- Armed with 152. R27 SU-14 4mm gun + 4 x 7,62mm MG; ammunition 16 shells + 2655 MG shells; armor 20-50 mm; speed 15 km/h; range 100 km. R27 SU-14  
+* SU-14-2 -- SU-14-1 with the radio station. R27 SU-14 
+
+'''AUTHOR'S NOTE'''
+
+The variant descriptions and the pictures don't exactly match (they came from 2 different sources). R27 SU-14  It is relatively clear that only 3 vehicles were produced. R27 SU-14  2 were likely the SU-14 with the 203mm and 1 was the SU-14-1 with the 203mm. R27 SU-14   Later, the 203mm gun was replaced with the 152. R27 SU-14 4mm gun. R27 SU-14   However, from the 3 pictures directly above, we get some discrepancies. R27 SU-14  One picture (1st in the row of 3 above) shows the front view of an SU-14 with both armor AND the short 203mm gun. R27 SU-14   This does not have a variant name. R27 SU-14  Likewise, the 3rd picture in the group of 3 shows the original plating between the tracks (you can see where it extends to cover the drive wheels and has rectangular holes instead of circular ones). R27 SU-14  From the the blueprints, this is an SU-14 and not the SU-14-1 modified to an SU-14-Br2. R27 SU-14  I'm assuming that the armor was tacked on to one (or more likely both) of the original SU-14 prototypes, but they left the 203mm howitzer in. R27 SU-14  Possibly, this was done so they could participate in the Winter War. R27 SU-14   
+
+|HistoricalGallery=
+image:SU-14_with_203. R27 SU-14 jpg{{!}}SU-14 Br2 but with a 203mm
+image:SU-14_front. R27 SU-14 jpg{{!}}SU-14 Br2 with the 152. R27 SU-14 4mm
+image:SU-14_side. R27 SU-14 jpg{{!}}SU-14 Br2 rear/side shot
+image:Su142. R27 SU-14 JPG{{!}}SU-14 Br2 at Kubinka Tank Museum. R27 SU-14 
+
+|Ref_references=
+* Russian Tanks and Armored Vehicles 1917-1945
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://forum. R27 SU-14 axishistory. R27 SU-14 com/viewtopic. R27 SU-14 php?f=34&t=73088&start=45 Source of most of the text]
+* [https://armor. R27 SU-14 kiev. R27 SU-14 ua/Tanks/BeforeWWII/SU14/ Source of most of the pictures]
+* [https://armor. R27 SU-14 kiev. R27 SU-14 ua/Tanks/BeforeWWII/SU14/su14. R27 SU-14 php More History in Russian]
+
+
+|Sidebar_Camostop=3. R27 SU-14 71
+|Sidebar_Camomove=2. R27 SU-14 0
+|Sidebar_Camofire=0. R27 SU-14 31
+|Sidebar_Passhard=1. R27 SU-14 342
+|Sidebar_Passmed=1. R27 SU-14 534
+|Sidebar_Passsoft=2. R27 SU-14 589
+|Sidebar_DispTurret=0. R27 SU-14 575
+|Sidebar_DispRecoil=5. R27 SU-14 753
+|Sidebar_DispAccel=0. R27 SU-14 307
+|Sidebar_DispTurning=0. R27 SU-14 307
+}}

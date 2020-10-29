@@ -1,0 +1,87 @@
+{{TankData|Tank=T28 Prototype
+|The T28 Prototype has a decent gun, good penetration and a useable ROF. A68 T28 Prototype  Like the [[T28]], the Proto is very very slow, if caught in the open there is no chance to survive and reversing will do no good. A68 T28 Prototype  You do have good armor; however it is not as good as the T28, yet it received an closed top in 9. A68 T28 Prototype 14, making it slightly less vulnerable to HE and artillery. A68 T28 Prototype  Do note that although it has a turret, it can not rotate 360° and is very slow, meaning it will not help much against circling enemies. A68 T28 Prototype 
+ 
+
+|InTheGame_pros=
+* Acceptable top tier gun with decent penetration and handling
+
+* Excellent rate of fire and wide fire arc for a TD
+
+* Excellent frontal armor if enemies don't know the weakspots, especially if it can be angled while hiding side armor
+
+* Intimidating opponent, especially if faced head on by mediums or lower tier heavies 
+
+* From 9. A68 T28 Prototype 15 patch on, it was modeled with an enclosed turret. A68 T28 Prototype  It's more resistant to SPGs and can use Improved Ventilation. A68 T28 Prototype 
+
+|InTheGame_cons=
+* Slow traverse and speed (plus low camouflage) make you an easy target for SPG and flankers
+
+* Accuracy and alpha damage are subpar if not bad for its tier
+
+* Armor suffers from gold ammo and is not entirely reliable with multiple large weakspots
+
+* Horrendous stock grind (occasionally useless in tier 10 battles with stock configuration)
+
+* Turret cannot rotate through 360 degrees
+
+
+
+|InTheGame_performance=
+It is very similar to the [[T28]], especially in its speed. A68 T28 Prototype  While flat surfaces are 51mm thinner than that of the T28, these are still roughly proof against most medium tank guns in tier and most guns below its tier. A68 T28 Prototype  With its fast firing 120mm cannon and good gun depression, the T28 Prototype shouldn't be underestimated, especially in hull-down position. A68 T28 Prototype  Its closed turret also makes it more resilient to artillery, but make sure you're staying in cover as much as possible to increase the odds of survival. A68 T28 Prototype  Yet it's important to note that the turret can only traverse a total of 286° degrees, which can be a major disadvantage if a medium or light tank gets to circle you. A68 T28 Prototype  Also, its side armor, even if seemingly rather angled, won't necessarily deflect anything as it only holds 50. A68 T28 Prototype 8mm of thickness, which translates to only little more than 100mm effective thickness outside auto-bounce range (sides no longer are overmatched by 152 mm shells, since the thickness was increased by 0. A68 T28 Prototype 8mm). A68 T28 Prototype  As for prototype users, don't expose your sides when facing the front unless it's necessary to do so. A68 T28 Prototype    
+
+Although a great supporter, if top tier, it can brawl and beat even some tier 8 heavies. A68 T28 Prototype  Most of them cannot reliably penetrate your front without resorting to weakspots, but only brawl if a flank was left open or your team's heavies were destroyed. A68 T28 Prototype  As a sniper, it will devastate tanks out in the open. A68 T28 Prototype  Shooting unsuspecting tanks will scare the crap out of them, Especially when top  tier. A68 T28 Prototype  The 120mm gun's reload is outstanding. A68 T28 Prototype  Many expect it to take longer than 9. A68 T28 Prototype 68 seconds, and will leave themselves exposed because of this. A68 T28 Prototype  You will need to take advantage of this, as it will allow you to deal a lot more damage. A68 T28 Prototype  Flanking, however is still a problem. A68 T28 Prototype  The turret traverse and hull traverse combined is still too slow to keep up with the faster ones. A68 T28 Prototype  One daredevil tactic to use on flankers is to turn your hull into them. A68 T28 Prototype  This will wipe out at least their tracks, if not reducing their HP pool greatly. A68 T28 Prototype  But if you miss the flanker, you will have blown your chance to defend yourself and should only be done if support is coming and you have full HP. A68 T28 Prototype 
+
+|InTheGame_research=
+* You should aim to unlock both guns before moving on to anything else. A68 T28 Prototype  The starting gun is wholly inadequate, while the 120mm makes you a destroyer of worlds. A68 T28 Prototype  If possible, use free XP to get the 105mm gun so you don't have to use the 90mm. A68 T28 Prototype  Alternatively, you can unlock the 105 mm on the [[T25 AT]]. A68 T28 Prototype 
+*Tracks are next, followed by engine
+
+|InTheGame_equipment=
+Tank Gun Rammer, Camouflage Net, Binocular Telescope, GLD
+
+
+|Gallery=
+image:T28p-a. A68 T28 Prototype png{{!}}Front right
+image:T28p-b. A68 T28 Prototype png{{!}}Rear left
+image:T28p-c. A68 T28 Prototype png{{!}}Rear right
+
+|History=
+In 1945, a turreted variant of the first T28 was planned. A68 T28 Prototype  It was planned to mount a big, heavily armored, limited-traversed turret that can only traverse 286° degrees. A68 T28 Prototype  The planned turret armor ranged from 4 inches (102 millimeters) to 8 inches (203 millimeters). A68 T28 Prototype  The gun to be mounted was the 105 mm T5E1, the same gun the T28/T95 had mounted, and it can elevate 15° degrees, and depress 10° degrees from the turret. A68 T28 Prototype  The suspension was changed to use the M4A3's Horizontal Volute Spring Suspension (HVSS) because the Vertical Volute Spring Suspension (VVSS) proved to be obsolete for the tank's weight. A68 T28 Prototype  The HVSS suspension proved that it distributed weight more widely. A68 T28 Prototype  Planned hull armor ranged from 2 inches (51 millimeters) to 8 inches (203 millimeters). A68 T28 Prototype  The tank was planned to use the same engine as the T28/T95 had used, the Ford GAF, a V8 gasoline engine which produced about 500 horsepower. A68 T28 Prototype  The tank housed a crew of five. A68 T28 Prototype  No prototypes or blueprints were ever produced. A68 T28 Prototype  This was because during the later stages of [[T95|T28]] development and evaluation were overtaken by that of the [[T29]] and [[T30]] turreted heavy tank design. A68 T28 Prototype  The T29 mounted the same gun as the T28 in a conventional rotating turret. A68 T28 Prototype  The T30 was developed with a larger-caliber gun and more powerful engine. A68 T28 Prototype  Due to this the [[T95|T28]] program was terminated in October 1947. A68 T28 Prototype 
+
+|HistoricalGallery=
+image:T28proto. A68 T28 Prototype jpg{{!}}The concept drawing the T28 prototype is based on. A68 T28 Prototype 
+
+|HistAcc=
+It is generally agreed the T28 Prototype as it exists in the game is considered to be a fabrication based on liberties taken with various T28/T95 program proposals. A68 T28 Prototype 
+* The T28 had no turret. A68 T28 Prototype 
+* The 105 mm AT Gun T5E1 is the T28's only historical gun which it still carries today. A68 T28 Prototype  The other gun configurations are fake. A68 T28 Prototype 
+* The T15E2 gun was only mounted on the [[T26E4 SuperPershing]]. A68 T28 Prototype 
+* The T53 gun was only mounted on the [[T34]]. A68 T28 Prototype 
+* Ford GAF engine is considerably more powerful than in reality, with 670 hp compared to the historical 500. A68 T28 Prototype  The 780 hp engine configuration is fake. A68 T28 Prototype 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A68 T28 Prototype  and C. A68 T28 Prototype  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A68 T28 Prototype 
+
+Forty, G. A68 T28 Prototype , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A68 T28 Prototype 
+
+Zaloga, S. A68 T28 Prototype J. A68 T28 Prototype , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A68 T28 Prototype 
+
+
+|Ref_links=
+
+|Sidebar_Camostop=12. A68 T28 Prototype 63
+|Sidebar_Camomove=7371
+|Sidebar_Camofire=3. A68 T28 Prototype 8
+|Sidebar_Passhard=1. A68 T28 Prototype 055
+|Sidebar_Passmed=1. A68 T28 Prototype 342
+|Sidebar_Passsoft=2. A68 T28 Prototype 781
+|Sidebar_DispTurret=0. A68 T28 Prototype 153
+|Sidebar_DispRecoil=3. A68 T28 Prototype 836
+|Sidebar_DispAccel=0. A68 T28 Prototype 192
+|Sidebar_DispTurning=0. A68 T28 Prototype 192
+}}
+
+[[Category:USA Tanks]]

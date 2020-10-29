@@ -1,0 +1,93 @@
+{{TankData|Tank=Object_430
+|
+
+|Gallery=
+
+File:Объект 430 scr 1. R96 Object 430 jpg
+File:Объект 430 scr 2. R96 Object 430 jpg
+File:Объект 430 scr 3. R96 Object 430 jpg
+
+
+|InTheGame_pros=
+* Good alpha damage and DPM
+* Very strong turret armor and good hull armor
+* Large hitpoint pool for a medium tank
+* Good camouflage value
+* The easiest grind in the game, only the engine and tracks need to be researched
+
+|InTheGame_cons=
+* Thin turret roof can be easily overmatched
+* Poor accuracy, subpar aim time, and bad penetration on premium round
+* Bad gun depression
+* Sluggish acceleration and average top speed
+* Weak fuel tank module can be damaged/destroyed often
+
+|InTheGame_performance=
+The Object 430 is drastically different to its two brothers, but by no means weaker. R96 Object 430  It sacrifices accuracy, aim time and turret armor for slightly improved hull armor and camo, along with the high damage-per-shot and good sustained damage output. R96 Object 430  It is an excellent tank, even bad players can sometimes do well in it and in hands of skilled players it can be godlike. R96 Object 430  In current meta, it is widely considered to be among top 3 best tier IX mediums. R96 Object 430 
+
+Ideally you want to make use of the tank's decent turret armor and brawling capability. R96 Object 430  Choose spots where the lack of gun depression won't hamper you and you can expose only your turret when firing. R96 Object 430  With its good speed and camo, the tank is a serviceable scout and a good flanker. R96 Object 430  Make sure to maximize your strengths and flex around the battlefield as needed. R96 Object 430  Avoid fighting superheavies frontally, as your premium round is simply unable to penetrate most of hard targets with only 270mm pen value. R96 Object 430 
+
+In comparison to its two sister tanks, the Object 430 has the highest alpha damage, and best effective frontal hull armor. R96 Object 430   
+
+|InTheGame_research=
+Engine provides a tiny boost, and stock tracks can carry everything so don't bother with them (and they don't give any bonuses to hidden stats), so you can practically consider this tank to be elite from the start as far as performance goes, which is extremely rare. R96 Object 430  Radio carries over from almost every other Soviet high tier vehicle, research if you haven't grinded any other lines. R96 Object 430 
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|External_Reviews=
+*{{VideoYT|hfVEKSmV9iM}}
+*{{#ev:youtube|HtpxhmzEM-E}}
+*{{VideoYT|a0jRTTBNqUU}}
+*{{VideoYT|xkIXRAfhuis}}
+
+|History=
+The Ob'yekt 430 was one of several experimental Soviet tanks designed to succeed the prolific [[T-54]] medium tank, which had become the standard medium tank for the Soviet Army after the end of the Second World War. R96 Object 430  As the 1950′s came and went, however, it became more and more clear that the T-54's armament, maneuverability and armor configuration started lagging behind those of its Western counterparts. R96 Object 430  Therefore, several tank development programs were initiated with the goal of creating a vehicle that would outperform anything it could meet on the battlefield. R96 Object 430 
+
+At the ZIM (Zavod imeni Malyshev - Factory in the name of V. R96 Object 430  A. R96 Object 430  Malyshev) in Kharkov, a new department called KB-60M was created specially for this purpose. R96 Object 430  It was led by the plant chief designers J. R96 Object 430  I. R96 Object 430  Baran and A. R96 Object 430  A. R96 Object 430  Morozov (who had worked on the T-34, T-44, and T-54 medium tanks). R96 Object 430  In 1953, KB-60M submitted a preliminary proposal for the new tank. R96 Object 430  The project was officially started in April 1954 and received the designation '''“Ob'yekt 430″. R96 Object 430 ''' The sketches were ready by the end of 1954, and in May 1955, work began on the technical project itself. R96 Object 430  This all was finished by June 1955 and a wooden mockup was made. R96 Object 430 
+
+The Ob'yekt 430 used a completely new chassis with torsion bar suspension, featuring characteristically small roadwheels with internal shock absorbers. R96 Object 430  The completely new 5TD diesel engine had a new ejection cooling system, the first of its kind to be installed on a medium tank (previously used on the [[IS-7]] and [[IS-8|T-10]] heavy tanks). R96 Object 430  The radiator assembly was isolated from the engine-transmission compartment. R96 Object 430  This allowed water to be used to cool the engine during water crossings, preventing overheating and allowing an unlimited width of water obstacles to be crossed. R96 Object 430  The new 5TD was also the most compact engine of its time, with the Ob'yekt 430's engine-transmission compartment being half the volume of the T-54's
+
+Armor protection was to be proof against 100 mm armor-piercing shells from a minimum distance of 1,000 m from the front. R96 Object 430  The hull glacis plate was 120 mm thick, while the ballistically well-shaped turret had a maximum thickness of 240 mm. R96 Object 430 
+
+The 100 mm D-54TS (U-8TS or 2A24) rifled gun was selected as the armament, in common with other prospective T-54 replacements at the time. R96 Object 430  This was backed up by the "Metel" (Blizzard) 2-plane gun stabilizer, which allowed the gun to be automatically relaid on a target after being elevated for loading, a TPD-43b (TPDMS) stereoscopic gun sight, TPN-1 gunner night sight, and an automatic ejection mechanism for spent shell cartridges, expended through a hatch in the rear of the turret. R96 Object 430  A total of 50 rounds were carried. R96 Object 430  A 14. R96 Object 430 5 mm KPVT heavy machine gun was also installed on the turret for anti-aircraft use. R96 Object 430 
+
+The first two prototypes were finished in 1957, and they received the designations “Ob'yekt 430-1*Z” and “Ob'yekt 430-2*Z” ("Zavod" - Factory testing). R96 Object 430  These prototypes were tested by the factory and were also underwent comparison tests with another experimental Soviet tank, the [[Object 140|Ob'yekt 140]]. R96 Object 430  A number of problems (especially regarding the engine) were uncovered during the trials, but overall the tests were considered a success. R96 Object 430  By June 1958, the plant was ordered to build 3 more prototypes for the military to test on proving grounds ("Poligon" in Russian). R96 Object 430  These were designated “Object 430-1*P, 430-2*P and 430-3*P”. R96 Object 430  These prototypes were ready in December 1959 and were tested thoroughly in two stages from March 1960 to May 1961. R96 Object 430 
+
+Eventually, the conclusion of the testing committee was that, while all the development program goals were met and the Ob'yekt 430 was essentially ready for serial production, it did not represent much of an improvement over the T-54. R96 Object 430  Furthermore, other experimental tanks ('''Ob'yekt 165''' and '''Ob'yekt 166''' – otherwise known as [[T-62A]] and T-62) had also passed the tests by that time, but they also had the advantage of sharing components with the T-54. R96 Object 430  This, and the fact that there was still some more modernization potential left in the T-54, led to the Ob'yekt 430's cancellation on 17 February 1961. R96 Object 430  
+
+In addition, the KB-60M, on its own initiative, attempted to fit the new 115 mm U-5TS (2A20) "Molot" (Hammer) smoothbore gun also used by the T-62. R96 Object 430  The resulting tank was designated '''Ob'yekt 435''' KB-60M also undertook design studies for an up-armored '''Ob'yekt 430U''' (“Ulushenniy” – improved, or “Usileniy” – reinforced) with a 122 mm gun. R96 Object 430  The frontal hull armor was to be improved to 160 mm, and the turret was also reworked in order to improve its protection and to install the 122 mm D-25TA gun, also used on the T-10 heavy tank. R96 Object 430  The conclusion was that it would be possible to create a medium tank with the armor and firepower of contemporary heavy tanks. R96 Object 430  This would lead to the '''Ob'yekt 430A''', later renamed Ob'yekt 432, the immediate predecessor of the T-64 standard tank. R96 Object 430 
+
+A single example of both the Ob'yekt 430 and Ob'yekt 435 are both preserved in the Kubinka Tank Museum, near Moscow. R96 Object 430 
+
+|HistoricalGallery=
+image:430_1. R96 Object 430 jpg{{!}}
+image:430_2. R96 Object 430 jpg{{!}}
+image:430_3. R96 Object 430 jpg{{!}}
+image:430_4. R96 Object 430 jpg{{!}}
+image:430_5. R96 Object 430 jpg{{!}}
+image:430_6. R96 Object 430 jpg{{!}}
+image:430_ammo. R96 Object 430 jpg{{!}}An ammo rack located on the hull side
+image:430_driver. R96 Object 430 jpg{{!}}The driver's position
+image:430_interior. R96 Object 430 jpg{{!}}The interior layout of the Object 430
+
+|Ref_references=
+
+
+|Ref_sources=
+https://ftr. R96 Object 430 wot-news. R96 Object 430 com/2013/06/25/object-430-upcoming-t10-soviet-medium/
+
+|Ref_links=
+
+|Sidebar_Camostop=17. R96 Object 430 8
+|Sidebar_Camomove=13. R96 Object 430 4
+|Sidebar_Camofire=3. R96 Object 430 5
+|Sidebar_Passhard=0. R96 Object 430 575
+|Sidebar_Passmed=0. R96 Object 430 671
+|Sidebar_Passsoft=1. R96 Object 430 534
+|Sidebar_DispTurret=0. R96 Object 430 153
+|Sidebar_DispRecoil=3. R96 Object 430 836
+|Sidebar_DispAccel=0. R96 Object 430 134
+|Sidebar_DispTurning=0. R96 Object 430 134
+}}
+
+[[Category:Force's Muddling Attempts at Self-Actualization]]

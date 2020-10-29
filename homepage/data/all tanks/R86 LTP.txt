@@ -1,0 +1,58 @@
+{{TankData|Tank=LTP
+|The LTP was a gift tank [https://worldoftanks. R86 LTP com/en/news/22/wargaming-15th-anniversary-special/ given to players to celebrate Wargaming's 15th anniversary], and given to celebrate [https://worldoftanks. R86 LTP com/en/news/pc-browser/22/5thanniversary-special-rewards/ World of Tank's 5th anniversary]. R86 LTP With a lower power/weight ratio, an inaccurate gun, and good front and rear armor, the LTP stands out among the fast-moving, poorly-armored lights that are commonplace at tier III. R86 LTP   Despite many of its shortcomings, the LTP benefits from preferential matchmaking which ensures that its always capable of pulling its weight in battle. R86 LTP 
+
+|Gallery=
+
+|InTheGame_pros=
+* Front and rear armor with good sloping
+* Hull traverse speed
+* Top speed (40 km/h on ideal terrain)
+* Preferential matchmaking: Only sees tier III and IV battles
+* Very small silhouette and high camouflage values
+
+|InTheGame_cons=
+* Inaccurate gun with bad aim spread
+* Poor signal range
+* Slow acceleration (for a light)
+* Thin side armor (upper side plate is actually 15mm)
+
+|InTheGame_performance=
+
+Though the LTP is designated a light tank, its odd characteristics mean, that in practice, it plays more like a close-range flanking medium. R86 LTP   The LTP's low power/weight ratio prevents it from being an effective scout or high-speed flanker. R86 LTP   Though slower than most lights of its tier, the LTP is also better protected. R86 LTP   With 30mm of well sloped armor front and rear, the LTP is easily capable of bouncing shots from small-caliber guns and autocannons. R86 LTP   The sides of LTP are thinner and mostly flat, with a 15mm top plate and 20mm lower plate. R86 LTP 
+
+The inaccuracy of the 45mm 20KL gun means that it's often only effective at close range, and while the LTP has more armor than most tier III lights, its not reliable enough to bear the brunt of most enemy attacks. R86 LTP   Despite it's low power/weight ratio, the LTP is still maneuverable enough to attack the flanks of larger enemy tanks. R86 LTP   By doing this, the LTP avoids the dangerous firepower of larger enemies and can use its armor to weather the firepower of any of the smaller enemies supporting it. R86 LTP 
+
+
+====Compared to Similar Tanks====
+
+The LTP is often compared to the [[T-127]], which features the same gun and many similar design features. R86 LTP   The LTP is the more difficult to use of the two due to its odd armor configuration and bad aim spread values. R86 LTP   Despite having a lower hp/t ratio than the T-127 (15. R86 LTP 45hp/t on the LTP vs 19. R86 LTP 84hp/t on the T-127), better terrain resistance, faster chassis traverse, and a higher top speed means the LTP is generally more mobile than the T-127. R86 LTP 
+
+|InTheGame_research=
+All modules are researched with the tank. R86 LTP 
+
+|InTheGame_equipment=GLD, Coated Optics, Improved Ventilation Class 1
+
+|History=
+[[image:LTP_drawings_side_view. R86 LTP jpg|thumb|200px|left|LTP original proposal drawing]]
+There is very limited information available about the LTP, as it was a project that never went beyond a paper proposal. R86 LTP   The design was submitted to the Red Army GABTU department for innovations in July 1942. R86 LTP   The designer, Lieutenant K. R86 LTP J. R86 LTP  Provornov from Ulyanovsk, was not a tank designer by trade. R86 LTP   Nevertheless, the LTP was a serious and well-detailed design that could have easily been produced were it not for the existence of the [[T-70]], which ultimately made the it unnecessary. R86 LTP 
+
+|HistoricalGallery=
+
+image:LTP_drawings_side_view. R86 LTP jpg{{!}} LTP original drawings
+image:Alternative_driver%E2%80%99s_hatch. R86 LTP jpg{{!}} LTP alternative drivers hatch
+image:Drivetrain. R86 LTP jpg{{!}} LTP Drivetrain
+image:LTP. R86 LTP jpg{{!}} Cooler section overview
+image:Original_proposal. R86 LTP jpg{{!}} Scan of original proposal
+
+ 
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://ftr. R86 LTP wot-news. R86 LTP com/2013/08/02/ltp-historical-sources/
+}}
+
+[[Category:USSR Tanks]]

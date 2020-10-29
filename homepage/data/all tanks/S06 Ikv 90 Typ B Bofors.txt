@@ -1,0 +1,121 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Good gun arc (20 degrees on both sides), it also has a great depression (Especially for vehicle with rear-mounted gun) value of -10 degrees. S06 Ikv 90 Typ B Bofors 
+
+- The top gun (90 cm kan m/F) has a stupendous shell speed that might allow you to shoot fast moving targets. S06 Ikv 90 Typ B Bofors 
+
+- Low chance of engine catching fire (15%). S06 Ikv 90 Typ B Bofors 
+
+- High mobility and low profile. S06 Ikv 90 Typ B Bofors 
+
+- Excellent penetration both on stock gun and top gun. S06 Ikv 90 Typ B Bofors 
+
+|InTheGame_cons= 
+
+- Practically no armor combined with Lowest non-SPG health in its tier (800); very vulnerable to HE shells and can be easily get one-shotted by SPGs and large caliber howitzers. S06 Ikv 90 Typ B Bofors 
+
+- Engine gets constantly damaged from front, Stock engine had poor p/w ratio. S06 Ikv 90 Typ B Bofors  Can accelerate only up to 45KM/H for the best, also turns slowly when moving at high speeds. S06 Ikv 90 Typ B Bofors 
+
+- Low alpha, long aim time and accuracy isn't that amazing, Stock gun has awful accuracy for a TD (0. S06 Ikv 90 Typ B Bofors 4). S06 Ikv 90 Typ B Bofors 
+
+- Somewhat low maximum ammo, this tank can carry (48 shells) compared to its fast rate of fire (7. S06 Ikv 90 Typ B Bofors 5 shots per minute with stock gun and 8. S06 Ikv 90 Typ B Bofors 11 shots per minute with top gun). S06 Ikv 90 Typ B Bofors 
+
+- Light weight makes this TD very vulnerable to ramming. S06 Ikv 90 Typ B Bofors 
+
+- Extremely weak stock suspension, easily getting tracked. S06 Ikv 90 Typ B Bofors 
+
+- Very poor view range for its tier, forced the player to get closer to the enemies and somewhat negated its camoflage ratings. S06 Ikv 90 Typ B Bofors 
+
+|InTheGame_performance=
+
+Even though this TD has a very good top speed and acceleration, it can´t be used for close combat. S06 Ikv 90 Typ B Bofors  It is suggested to use this speed to reach crucial spots early in the battle (e. S06 Ikv 90 Typ B Bofors g. S06 Ikv 90 Typ B Bofors  hills, corners, bushes, buildings, sniping positions), and also to retreat from too intense combat or dangerous situations. S06 Ikv 90 Typ B Bofors  As a lightly armored vehicle you also have to avoid getting shot by high caliber guns, especially artillery and howitzers (''derp'' guns). S06 Ikv 90 Typ B Bofors  Additionally, the armor is so thin that any gun it encounters will overmatch, no matter what the angle. S06 Ikv 90 Typ B Bofors 
+
+One thing to note is that this TD has a very low profile, which means you can stay hidden in a bush and shoot safely, provided the player knows spotting and concealment mechanics, but don´t expect to be a ghost. S06 Ikv 90 Typ B Bofors 
+
+The maneuverability of this TD is limited by the traverse speed, with only 30 deg/sec you will have trouble facing agile opponents, so you have to make sure the target is far enough from you to prevent it from circling you. S06 Ikv 90 Typ B Bofors  Don't be afraid to face high tier enemy tanks, but have in mind you must be as stealthy and accurate as possible, always have an escape route and a trustful scout at hand. S06 Ikv 90 Typ B Bofors 
+
+|InTheGame_research=
+
+- The Ra 105 and Ra 106 radios can be researched in the previous vehicle, mount the Ra 105 at least. S06 Ikv 90 Typ B Bofors  The top radio is not essencial and can be skipped since it is automatically unlocked as a stock radio when the UDES is researched, but have in mind you can lose communication with far away-positioned allies in the mini map. S06 Ikv 90 Typ B Bofors 
+
+- First either research the top suspension, or mount enhanced suspension equipment, because the stock suspension will not allow even gunrammer + binoculars. S06 Ikv 90 Typ B Bofors 
+ 
+- Research the top engine for a better acceleration, it will give you more chances to take positions early and to withdraw from intense combat. S06 Ikv 90 Typ B Bofors 
+
+- Research the top suspension, if you haven't done so already. S06 Ikv 90 Typ B Bofors  It is required to mount the top gun. S06 Ikv 90 Typ B Bofors 
+
+- Finally, research the top gun (9 cm kan m/F)
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+https://www. S06 Ikv 90 Typ B Bofors youtube. S06 Ikv 90 Typ B Bofors com/watch?v=I5Pbue9tCaM 
+
+|History= 
+
+(See the Ikv 65 Alt II History for more information)
+
+In 1964, a project called Ikv ny was started. S06 Ikv 90 Typ B Bofors  The goal of this project was to acquire a new cheap vehicle, which could offer good mobility and still be able to both support infantry like older Ikv’s, but also would be able to fight tanks. S06 Ikv 90 Typ B Bofors  Essentially, the idea had come about as there simply weren’t enough modern tanks in the Swedish army and there was a need to re-equip a large part of the army, which was still using modified WW2 era vehicles. S06 Ikv 90 Typ B Bofors 
+
+
+In the discussions leading up to the project, a number of different armament options had been considered, ranging from ATGM’s to 10,5cm and 12cm tank guns, but to cut down the unit cost, it was decided that the new Ikv should use a 9cm gun capable of shooting modified ammunition from the newly developed Pvpj1110 recoilless rifle, which was entering service at the time. S06 Ikv 90 Typ B Bofors  These discussions also set up series of other requirements for the vehicle, described as a lightly armored vehicle weighing only 15 tons, which was to have the top road speed of 70kph with a crew of no more than 4 men. S06 Ikv 90 Typ B Bofors  The vehicle was to be able to operate in the harsh conditions of the northern parts of the country, have good gun traverse and the gun elevation of at least -10/+20 to allow it to make use of hull down positions. S06 Ikv 90 Typ B Bofors 
+
+As the project moved on in 1965, three different companies were contacted to propose their designs for the new Ikv. S06 Ikv 90 Typ B Bofors  The first company was Landsverk, who had created the original Ikv’s and had been producing tanks since the 1930s. S06 Ikv 90 Typ B Bofors  The second was Bofors, who was already working on the completion of the S-tank project. S06 Ikv 90 Typ B Bofors  And finally there was Hägglunds, who was a newcomer to armored vehicles, but had recently won the contract for the Swedish army’s next APC. S06 Ikv 90 Typ B Bofors 
+
+Given their different backgrounds it’s not surprising that these companies came up with very different answers to the same requirements. S06 Ikv 90 Typ B Bofors 
+
+Landsverk’s Ikv ny proposals
+
+[[File:Landsverk%27s_Ikv_ny_proposals. S06 Ikv 90 Typ B Bofors jpg]]
+
+The Landsverk proposals were probably the most traditional and realistic with mainly casemate designs, some of which were based on the old Ikv chassis. S06 Ikv 90 Typ B Bofors  However, since both the other companies came up with turreted designs, Landsverk was asked to come with one of their own, which did lead to two rather interesting designs. S06 Ikv 90 Typ B Bofors  Most of Landsverk’s proposals had been designed to make use of existing vehicles and many components were to be shared with the Pbv 302 APC to allow for greater interchangeability of parts between the vehicles. S06 Ikv 90 Typ B Bofors  The main armament was a 90mm L/53 Bofors low pressure gun, which could fire HE and HEAT rounds. S06 Ikv 90 Typ B Bofors  Overall, the Landsverk proposals were very light on the armor even when compared to the other Ikv proposals and a lot of the casemate designs had a maximum of only 15mm at the front. S06 Ikv 90 Typ B Bofors  One thing the designs did have however was excellent gun traverse (40dg) and depression/elevation (-10/+35). S06 Ikv 90 Typ B Bofors 
+
+Bofors Ikv ny proposals
+
+[[File:Bofors_Ikv_ny_proposals. S06 Ikv 90 Typ B Bofors jpg]]
+
+Bofors had an interesting mix of features, which borrowed from their ongoing work with the S-tank, all of their designs had – like the S-tank – frontally mounted engine and some models featured an autoloader. S06 Ikv 90 Typ B Bofors  Initially, three versions, called Ikv 90 A, B and C were offered. S06 Ikv 90 Typ B Bofors  The A and B models were pretty much the same vehicle but differed in the use of a casemate on the B model and a turret on the A model, both of which could be equipped with an autoloader. S06 Ikv 90 Typ B Bofors  The C model was the smallest one and was designed with a shorter 90mm gun than the other two models, this model was however not liked and later dropped when the proposals were redesigned. S06 Ikv 90 Typ B Bofors  To meet updated requirements on gun elevation Bofors redesigned the model A and B into models T and S. S06 Ikv 90 Typ B Bofors  The model T differed very little from the model A but it did have changes to the turret and hull, however model S had turned into what was basically a miniature S-tank but with gun elevation and depression independent of the hull. S06 Ikv 90 Typ B Bofors 
+
+Hägglunds Ikv ny proposals
+
+[[File:Hagglunds_Ikv_ny_proposals. S06 Ikv 90 Typ B Bofors jpg]]
+
+Unlike the other companies, Hägglunds had focused their efforts on mainly turreted designs for the new Ikv project. S06 Ikv 90 Typ B Bofors  They had also probably overestimated some aspects of their vehicles, like the projected top speed and the use of autoloaders on certain models. S06 Ikv 90 Typ B Bofors  In any case, Hägglunds had done a more thorough research of the possibility of using foreign engines or guns and had even based their projected vehicles around a French 90mm gun rather than the Bofors model. S06 Ikv 90 Typ B Bofors  The guns, considered by Hägglunds, were the DTAT 90mm L/51,5 from the AMX-13, a licensed produced version of that gun by Motala Verkstad, the Bofors 90mm L/53, used on the other companies Ikv proposals and a DTAT 105mm low pressure gun using the same recoil mechanism and breach as the French 90mm. S06 Ikv 90 Typ B Bofors  These guns were to be available for use with either a conventional loading system, a fully automated loader or a semi-autoloader with a 4 round magazine, which would be continually fed by the loader. S06 Ikv 90 Typ B Bofors  The armor of the vehicle was – as with the other proposals – very light with a maximum of 20mm at the front, but unlike the other companies, Hägglunds made extensive use of spaced armor for the hull sides and sometimes rear. S06 Ikv 90 Typ B Bofors  It was however very thin and was only meant to offer protection against small arms. S06 Ikv 90 Typ B Bofors 
+
+As the project continued into 1966, it became clear that the Bofors proposals were the most problematic, as they were completely new vehicles, sharing no parts in common with other Swedish vehicles. S06 Ikv 90 Typ B Bofors  Because of this, it was decided that development of the Bofors proposals would be discontinued, it’s at this point where Landsverk and Hägglunds are asked to finalise their designs for the Ikv project. S06 Ikv 90 Typ B Bofors  For Landsverk, this means redesigning the Alternative 5 design into a sort of half turret design seen below. S06 Ikv 90 Typ B Bofors 
+
+Landsverk’s redesigned Ikv Alt 5
+
+[[File:Landsverk%27s_redesigned_Ikv_Alt_5. S06 Ikv 90 Typ B Bofors jpg]]
+
+Hägglund also redesigned their proposal 1 to be more viable, which meant the removal of the autoloader and a change in turret design and results in what would become the Ikv 91. S06 Ikv 90 Typ B Bofors  It was said that the army actually preferred the Landsverk proposal, but that they ultimately chose Hägglunds proposal due to the greater interchangability of parts between their vehicle and the Pbv 302, also designed by Hägglunds. S06 Ikv 90 Typ B Bofors 
+
+Hägglund’s redesigned Ikv
+
+[[File:Hagglund%27s_redesigned_Ikv. S06 Ikv 90 Typ B Bofors jpg]]
+
+|HistAcc=
+* The Volvo THD 100 B engine was 330 HP historically, but in game it is only 310 HP. S06 Ikv 90 Typ B Bofors 
+
+|HistoricalGallery= 
+File:Ikv_90_typ_B_sketch. S06 Ikv 90 Typ B Bofors jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S06 Ikv 90 Typ B Bofors wot-news. S06 Ikv 90 Typ B Bofors com/2015/01/23/swedish-tanks-part-xxi-ikv-ny/
+* https://ritastatusreport. S06 Ikv 90 Typ B Bofors live/2016/09/24/swedish-tree-supertest-and-beyond-messed-up-models-and-made-up-stats/
+* https://ritastatusreport. S06 Ikv 90 Typ B Bofors live/2016/08/18/how-much-paper-is-there-in-the-swedish-tree/
+
+}}

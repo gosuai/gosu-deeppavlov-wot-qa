@@ -1,0 +1,80 @@
+{{TankData|Tank=Ha_Go
+|
+
+|Gallery=
+
+File:Type 95 Ha-Go scr 1. J03 Ha Go jpg
+File:Type 95 Ha-Go scr 2. J03 Ha Go jpg
+File:Type 95 Ha-Go scr 3. J03 Ha Go jpg
+
+
+|InTheGame_pros=
+* Good manoeuvrability
+* Good gun selection
+* Good rate of fire
+* Very good gun depression
+* Small size
+
+|InTheGame_cons=
+* Low accuracy
+* Very thin armour
+* Prone to module damage
+
+|InTheGame_performance=
+Type 95 Ha-Go is a relatively good all-rounder, depending on the gun choice. J03 Ha Go  There are two perfectly viable options, enabling the tank to cater to different play styles. J03 Ha Go  37 mm Gun Type 98 is good for sniping, offering relative accuracy coupled with average penetration and damage. J03 Ha Go  Using this gun requires distancing the yourself from enemies, whenever possible. J03 Ha Go  The excellent gun depression enables to utilise some rather creative sniping positions. J03 Ha Go  Keeping your hull hidden should be your priority. J03 Ha Go 
+
+Though, as Type 95 Ha-Go has well-sloped, but very thin armour, minimizing exposure is the key to victory. J03 Ha Go  Delivering a high amount of damage while keeping yourself hidden is essential. J03 Ha Go  In order to do so, equipping the 57 mm Gun Type 97 howitzer is the way to go. J03 Ha Go  Use your gun depression, keep your hull hidden and retreat into cover after taking a shot. J03 Ha Go  The howitzer has a really low shell velocity, low accuracy and penetration, so engaging moving targets is difficult, especially at greater distances. J03 Ha Go  Ammunition load should mostly be composed of HE shells, along with a few HEAT and AP rounds. J03 Ha Go  HE is sufficient in most cases, as there are plenty of lightly armoured vehicles at tier II. J03 Ha Go 
+
+All in all, in order to perform well, one must remember the basics. J03 Ha Go  Use hull-down positions whenever possible, hide your hull, as most autocannons will shred your weak hull, back into cover when reloading and aim carefully. J03 Ha Go  When used properly, playing the Type 95 Ha-Go is both rewarding and fun. J03 Ha Go 
+
+|InTheGame_research=
+* Suspension should be upgraded first, in order to improve load capacity and traverse. J03 Ha Go 
+* Engine upgrade is necessary, in order to improve manoeuvrability. J03 Ha Go 
+* Gun upgrades are important, first the 37 mm Gun Type 98 and then the 57 mm Gun Type 97. J03 Ha Go 
+* Turret should be next, to improve armor protection
+* Radio upgrades can be left last, however, they are still important, as they are used in later vehicles. J03 Ha Go 
+* Research the next tank, Type 98 Ke-Ni. J03 Ha Go 
+
+|InTheGame_equipment=
+Vents, GLD, Camouflage Net
+
+|History=
+From early 1930s, the Japanese army began experimenting on a mechanized warfare unit combining infantry with tanks. J03 Ha Go  However, the Type 89 Medium tank could not keep pace with the motorized infantry, which could move at 40 km/h (25 mph) by truck. J03 Ha Go  In combat, motorized infantry could only hope to achieve 40 km advance per day. J03 Ha Go  For transport, tanks could be loaded on train platforms like in any other army of the times. J03 Ha Go  To solve this problem, the Army Technical Bureau proposed a new light tank of 7 tonnes or less capable of 40 km/h speed and started development in 1933. J03 Ha Go  
+
+
+The prototype of the new tank was begun in 1933 and completed in 1934 at the Army's Sagami Arsenal. J03 Ha Go  Initial tests were positive but it was too heavy at 7. J03 Ha Go 5 tonnes and had to be reworked bringing the weight down to 6. J03 Ha Go 5 t. J03 Ha Go  Due to doubts by the infantry as to its capability for infantry support it was tested in Manchuria in the winter of 1934/1935. J03 Ha Go  The reports were favourable and a second prototype built, being completed in November 1935. J03 Ha Go  In 1935, at a meeting in the Army Technical Bureau, the Type 95 was proposed as the main tank for mechanized infantry units. J03 Ha Go  The infantry had concerns that the armor was insufficient; however, the cavalry indicated that the improved speed and armament compensated for thin armor. J03 Ha Go  In the end, the infantry agreed, as the Type 95 was still superior to the only available alternative, which was the armored car. J03 Ha Go 
+
+==Design==
+{{VideoYT|0Ad_MKWMazo}}
+The Type 95 was a 7. J03 Ha Go 4-tonne vehicle with a complement of 3 crewmen: a commander, a hull machine gunner, and a driver. J03 Ha Go  Only the commander was seated in the turret, hence he was responsible for observation, loading, aiming, firing the main gun, as well as decision-making and commanding the crew. J03 Ha Go  The hand-operated turret was small and extremely cramped. J03 Ha Go 
+
+The primary armament of the most produced version was a Type 98 37 mm gun with the barrel length of 46. J03 Ha Go 1 calibers. J03 Ha Go  It elevated between −15 to +20 degrees. J03 Ha Go  The tank carried two types of 37 mm ammunition, the high-explosive and armor-piercing. J03 Ha Go  For the latter, muzzle velocity was 675–700 m/s, and the armor penetration was 25 mm at a distance of 500 m. J03 Ha Go 
+
+Secondary armament was two 7. J03 Ha Go 7 mm Type 97 light machine guns, one mounted in the hull front and the other in the back of the turret, facing to the rear right (that is, in the five-o-clock direction). J03 Ha Go 
+
+The most characteristic feature of the Type 95 tank was its simple suspension system. J03 Ha Go  Two bogie wheels were suspended on a single bell crank with two bell cranks per side. J03 Ha Go  The tracks were driven through the front sprockets. J03 Ha Go  There were two return wheels. J03 Ha Go  The suspension had troubles early on, with a tendency to pitch so badly on rough ground that the crew sometimes found it impossible to drive at any speed, and so it was modified with a brace to connect the pairs of bogies. J03 Ha Go  Despite this, the tank continued to give its users a rough ride across any uneven ground. J03 Ha Go  It was provided with an interior layer of asbestos padding separated from the hull with an air gap, to isolate the crew from the sun-heated armor plates, and to protect the crew from injury when the tank moved across rough terrain. J03 Ha Go 
+
+Type 95 was fitted with 120 hp (89. J03 Ha Go 5 kW) Mitsubishi A6120VDe air-cooled diesel engine. J03 Ha Go 
+
+Some tanks were fitted with two reflectors in the front of the vehicle for night operations. J03 Ha Go 
+
+==Production==
+Production was started in 1936 by Mitsubishi Heavy Industries. J03 Ha Go  By 1939, 100 units had been built. J03 Ha Go  Mitsubishi would go on to build a total of 853 in their own factories, with another 1,250 units built by the Sagami Arsenal, Hitachi Industries, Niigata Tekkoshō, Kobe Seikoshō, and Kokura Arsenal. J03 Ha Go 
+
+
+|HistoricalGallery=
+image:Type 95 Ha Go. J03 Ha Go jpg{{!}}Type 95 Ha-Go
+image:Type 4 Ke Nu. J03 Ha Go jpg{{!}}Type 4 Ke-Nu, a modification of the Ha-Go involving replacing the turret with the Chi-Ha's turret, mounting the 57mm gun
+image:Type 95 Ha Go (2). J03 Ha Go jpg
+File:Ha-Go_57mm. J03 Ha Go jpg{{!}}Ha-Go with the 37mm gun replaced with the Chi-Ha's 57mm gun. J03 Ha Go  This modification was known as the Type 3 Ke-Ri. J03 Ha Go 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://en. J03 Ha Go wikipedia. J03 Ha Go org/wiki/Type_95_Ha-Go
+https://en. J03 Ha Go wikipedia. J03 Ha Go org/wiki/Type_4_Ke-Nu
+https://www. J03 Ha Go reddit. J03 Ha Go com/r/Warthunder/comments/5v843f/hago_57mm/
+
+}}

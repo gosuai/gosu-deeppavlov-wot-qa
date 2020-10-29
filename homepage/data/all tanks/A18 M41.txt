@@ -1,0 +1,90 @@
+{{TankData|Tank=
+|Designed as a replacement for the M7 Priest self-propelled howitzer, the M41 is a typical American self-propelled artillery piece, having a wide weapon traverse, good gun with good accuracy and a spectacularly poor hull traverse coupled with a high top speed
+
+After its rebalance to tier V, the M41 will feel right at home in any match that it gets placed, as its 155mm howitzer is capable of dealing apocalyptic damage to any tank it gets to encounter and effective range that spans from one corner to a map to much of the other. A18 M41  However, mind that the shell travel time is slower than other Tier 5 SPGs. A18 M41  Players coming fresh from the [[M37]] will never have to worry about poking higher-tier enemies for insignificant damage. A18 M41 
+
+|Sidebar_Camostop=16. A18 M41 6
+|Sidebar_Camomove=8. A18 M41 3
+|Sidebar_Camofire=2. A18 M41 5
+|Sidebar_Passhard=1. A18 M41 151
+|Sidebar_Passmed=1. A18 M41 342
+|Sidebar_Passsoft=2. A18 M41 205
+|Sidebar_DispTurret=0. A18 M41 479
+|Sidebar_DispRecoil=5. A18 M41 753
+|Sidebar_DispAccel=0. A18 M41 422
+|Sidebar_DispTurning=0. A18 M41 422
+
+|InTheGame_pros= 
+* Gun range: 1300 m
+* High top speed on flat ground
+* Good gun arc
+* Only one gun, no grinding required and is very enjoyable when stock
+* Extremely low ammo cost for such a powerful gun
+
+|InTheGame_cons=
+* Horrible accuracy
+* Long aiming time
+* Slow acceleration
+* Slow traverse speed
+* Large reticule spread when traversing the gun
+* Only one gun (although very well performing)
+* Very expensive to purchase compared to tier V tanks
+
+|InTheGame_performance=
+After the total rebalance of every artillery piece, the M41 is now one tier lower (VI->V) and receives standard tank matchmaking (battle tiers V-VII). A18 M41  
+Formerly known for what was arguably the most enjoyable stock grind of any artillery piece (excluding tier IIs) in the game, the M41 embodies the American artillery playstyle very well: Good damage, good rate of fire, good accuracy, good top speed, great weapon traverse arc and horrible tank traverse speeds. A18 M41  The M41 is very similar to the old M41, but is arguably more enjoyable since it meets tier FIVE and SIX tanks, something impossible previous to this patch. A18 M41  The 155mm Howitzer M1's HE shells can regularly one-shot or penetrate KV-1s, KV-1S'es, KV-2s, French tanks and every medium tank in its matchmaking bracket, causing catastrophic damage to anything it sees. A18 M41  Non-penetrating shells still deal large damage, since its base damage is already high. A18 M41  Non-penetrating hits for above 300 damage are common. A18 M41  However, the M41 now suffers from a significant amount of reticule bloom. A18 M41  Be sure to move the reticule slowly and deliberately to preserve accuracy. A18 M41  The M41 shoots slowly now, although the great damage of the gun and cheap ammunition costs balance it out. A18 M41 
+
+After the nerfs and removal of many of its engines, the M41 does not accelerate as well as it used to. A18 M41  However, its 15HP/ton ratio when upgraded and its high speed limit coupled with low weight allows it to outrun heavier tanks in contingencies. A18 M41 
+
+Worthy of special mention is the very low ammunition costs of the M41's 155mm howitzer. A18 M41  The Grille has a 680 damage gun costing 505 credits per shot, the Hummel has a 950 damage gun that costs 1150 credits per shot, the SU-122A has a 910 damage gun costing 810 credits per shot, compared to the M41's much more favorable 700 damage costing a meager 505 credits per shot, making the M41 a much more favorable moneymaking artillery piece. A18 M41  However, it no longer meets tier VIII and IX enemies, which somewhat hurts its moneymaking potential: Damaging higher tiers have a higher amount of money gained per damage. A18 M41 
+
+With that said, the M41 is an excellent tier V artillery piece, balancing agility, damage, speed and ammunition cost for a jack-of-all-trades artillery piece. A18 M41 
+
+
+|InTheGame_research=
+* Since 8. A18 M41 6 update, now all M37's engines and radios will carry over if you researched them previously. A18 M41 
+* The SCR 610 and SCR 619 radios are also used by the [[M8A1]], so they will be available if you played it prior to the M41. A18 M41 
+* Research the Twin Cadillac Series 44T4 engine first since it has an inexpensive XP cost. A18 M41 
+* Next research the SCR 610 radio . A18 M41 
+* Lastly research the SCR 619 radio so you can once again have the excellent radio range if you haven't already. A18 M41 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+image:M41_001. A18 M41 jpg{{!}}M41_001
+image:M41_002. A18 M41 jpg{{!}}M41_002
+image:M41_003. A18 M41 jpg{{!}}M41_003
+image:M41_004. A18 M41 jpg{{!}}M41_004
+image:M41game1. A18 M41 jpg{{!}}M41, Fjords map
+
+|History=
+[[image:M41_korea_Hope. A18 M41 jpg|thumb|200px|right|SC371824 - Lt. A18 M41  Gen. A18 M41  William M. A18 M41  Hoge, Commanding General, U. A18 M41 S. A18 M41  IX Corps, left, holds the lanyard which will fire the 75,000th shell to be fired by the corps since the start of the conflict in Korea. A18 M41  Brig. A18 M41  Gen. A18 M41  William N. A18 M41  Gillmore, Commanding General, Corps Artilllery, stands to the right of General Hoge. A18 M41  This day also marked the end of the first year fighting in Korea. A18 M41 ]]
+
+The self-propelled howitzer M41 was based on a lengthened M24 Chaffee chassis, and had many of the same modifications as the hull of the M19 self-propelled twin 40mm anti-aircraft gun. A18 M41  The M41's engine was moved to behind the drivers' compartment, and the 155mm howitzer mount was placed at the rear of the vehicle. A18 M41  Of the 250 ordered, 60 were delivered. A18 M41 
+
+'''Manufacturers'''
+* Cadillac Motor Car Division of General Motors Corp. A18 M41 
+* Massey Harris Co. A18 M41 
+
+|HistoricalGallery=
+image:M41 155 mm howitzer in the US Army Ordnance Museum. A18 M41 . A18 M41 JPG{{!}}M41 155 mm howitzer in the US Army Ordnance Museum. A18 M41  The vehicle is based on a m24 Chaffee chasis
+image:M41 155mm HMC. A18 M41  155mm self-propelled gun. A18 M41 jpg{{!}}M41 155mm self-propelled gun. A18 M41 
+image:M41 Side view of a US M41 155 mm Howitzer Motor Carriage. A18 M41 jpg{{!}}M41 Side view of a US M41 155 mm Howitzer Motor Carriage
+image:M41 155mm self propelled howitzer in Korea. A18 M41 jpg{{!}}M41 Self propelled howitzer saw extensive use during the Korean war
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://www. A18 M41 wwiivehicles. A18 M41 com/usa/self-propelled-guns/m41-howitzer-motor-carriage. A18 M41 asp '''M41 Howitzer Motor Carriage'''] Photos & history. A18 M41 
+* [[https://en. A18 M41 wikipedia. A18 M41 org/wiki/M24_Chaffee Wikipedia]]
+* [[https://afvdb. A18 M41 50megs. A18 M41 com/usa/155mmhmcm41. A18 M41 html AFV database]]
+
+
+}}
+
+[[Category:USA Tanks]]

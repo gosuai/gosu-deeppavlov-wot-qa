@@ -1,0 +1,75 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Absurd RoF
+* Good frontal armour
+* Very high penetration
+* Insane gun depression
+* Top gun has APCR default ammo
+
+|InTheGame_cons= 
+* Low alpha damage and DPM
+* Poor radio range
+* Weak engine (both in performance and likelihood to take damage)
+* Large dispersion while moving
+* Low health
+
+|InTheGame_performance= 
+This tank plays somewhat like the British cruiser tanks in that it performs more like a fast medium than a light tank. S12 Strv M40   It has good frontal armour that can bounce a surprising number of shots and excellent penetration on both guns. S12 Strv M40   The main downside is the low alpha damage and DPM coupled with the large dispersion while moving the tank, which makes it difficult to deal sufficient damage in a short time. S12 Strv M40   As a result the Strv m/40L performs poorly when it's not top tier, unable to deal damage effectively, while the poor radio range limits its usefulness as a scout. S12 Strv M40 
+
+The tank should be used on hilly terrain where it can use it's decent armor and crazy gun depression to good use. S12 Strv M40 
+
+|InTheGame_research= 
+Bypass the stock suspension with equipment unless you are really low on money and get the top gun/turret first, then the top radio. S12 Strv M40 
+
+|InTheGame_equipment=
+Improved Ventilation Class 1, Enhanced Gun Laying Drive, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+(See the [[Strv m/38]] history section for the first part of this article)
+
+
+Sweden was now in a really bad situation. S12 Strv M40   Its neighbor, Finland, was already involved in the war with the Russians and in 1940, the other neighbor, Norway, got invaded by the Germans. S12 Strv M40   To top it all, the previously-ordered 90 Czech TNH tanks (the order was made before the invasion of 1939) had been now cancelled by the Germans, who seized the tanks for their own army. S12 Strv M40   This meant that Sweden was cut off militarily from the outside world and would have to rely on its own tank designs. S12 Strv M40   Therefore the L-60 was modified once again, this time with mass production in mind. S12 Strv M40   The tank was largely the same as the L-60-SII, but was now equipped with an automatic gearbox, some vehicles could even mount a mortar on the back for infantry support in addition to the applique armor, but mainly the tank was simplified for mass production. S12 Strv M40   The vehicle was designated Strv m/40L (“L-60-S III” by Landsverk). S12 Strv M40   A total of 100 tanks of this type were produced between 1941 and 1942. S12 Strv M40 
+
+[[image:Strv_m_40L_with_applique_armour. S12 Strv M40 jpg{{!}}Strv m/40L with applique armour|400px|center]]
+
+[[image:Strv_m40L_armor_schematics. S12 Strv M40 jpg{{!}}Armor schematics of the Strv /40L|400px|center]]
+
+By 1943, Landsverk started to produce a heavier tank design and no longer had the capacity to produce the L-60 series of tanks, so instead their production shifted to Karlstad Mekaniska Werkstad. S12 Strv M40   The L-60 design received another overhaul and the suspension was finally improved to the point where the applique armour could be built-in from the start. S12 Strv M40   Other than that a new and more powerful engine was fitted, the result of which was to make the vehicle longer. S12 Strv M40   This tank model was designated Strv m/40K by the army (and L-60-SV by Landsverk). S12 Strv M40   An interesting thing to note is that there is no information on the previous L-60-S IV design, other than it weighed 12 tones and had the same armament as well as an unknown 180hp engine. S12 Strv M40   Nevertheless 80 Strv m/40K tanks were produced between 1943 and 1944, and this was the final version of the L-60 to be produced during the war. S12 Strv M40 
+
+[[image:Strv_m40K. S12 Strv M40 jpg{{!}}Strv m/40K|400px|center]]
+
+[[image:Strv_m40K_armour_schematics. S12 Strv M40 jpg{{!}}Armor schematics of the Strv m/40K|400px|center]]
+
+After the war some models of the tank were still in active service during the 50's; there were even plans to re-equip the tanks with a new turret with a 57mm gun. S12 Strv M40   The idea had been around since 1944, but the first prototype was only ready by 1949-1950. S12 Strv M40   The prototype hull was that of the Strv m/40L and the turret mounted the 5. S12 Strv M40 7cm Pvkan m/43 gun. S12 Strv M40   The vehicle was designated Pvkv IV “Värjan” (Pvkv meaning “tank destroyer 4″, it was named “Värjan” after a kind of sword, used by the Swedish Carolean army in 16th century). S12 Strv M40   The new turret and the gun increased the weight by 500kg, but this was compensated by the removal of the applique armour. S12 Strv M40   The turret was poorly armored to keep the weight down, with a 20mm gun mantelet and 12mm of armor everywhere else. S12 Strv M40   The trials of the prototype showed that there were big problems with the aiming system and the project was discontinued. S12 Strv M40 
+
+[[image:Pvkv_IV_Varjan. S12 Strv M40 jpg{{!}}Pvkv IV "Värjan"|400px|center]]
+
+The last model of the L-60 to serve with the Swedish army was the Strv m/40K, which was retired in 1957. S12 Strv M40   However a few years later 25 Strv m/40s were sold to Dominican Republic. S12 Strv M40   There, some of them would serve until the 1990's. S12 Strv M40   In fact, three of these tanks were lost while fighting the American Marine Corps; one was even destroyed by a M48 Patton. S12 Strv M40 
+
+[[image:Strv_m40_in_service_with_dominican_forces. S12 Strv M40 jpg{{!}}Strv m/40 in service with Dominican forces|400px|center]]
+
+|HistoricalGallery= 
+File:Strv m 40. S12 Strv M40 JPG{{!}}Stridsvagn m/40K on display at Beredskapsmuseet in Helsingborg. S12 Strv M40 
+
+|Ref_references=
+
+|Ref_sources=
+* Pansar issue 1 year 2013
+* Pansar issue 2 year 2013
+* Pansar issue 3 year 2013
+
+|Ref_links=
+* https://www. S12 Strv M40 ointres. S12 Strv M40 se/strv_m38_instruktionsbok. S12 Strv M40 pdf
+* https://www. S12 Strv M40 ointres. S12 Strv M40 se/pansar. S12 Strv M40 htm
+* https://ftr. S12 Strv M40 wot-news. S12 Strv M40 com/2014/03/21/swedish-tanks-part-iv-landsverk-l-60/
+
+}}

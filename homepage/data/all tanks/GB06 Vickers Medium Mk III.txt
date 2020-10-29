@@ -1,0 +1,72 @@
+{{TankData|Tank=GB06_Vickers_Medium_Mk_III
+|The MK III is rather slow, yet capable of dealing its share of damage due to the excellent quality of its guns. GB06 Vickers Medium Mk III  They have fairly good accuracy and a high rate of fire. GB06 Vickers Medium Mk III  Despite that, the armor is weak and the tank can be destroyed easily, especially with HE rounds or artillery fire. GB06 Vickers Medium Mk III  The Mk. GB06 Vickers Medium Mk III  III is well suited for shooting at distances and taking cover when the enemy has finally noticed you're a threat and starts to point his gun at you. GB06 Vickers Medium Mk III  Beware of the [[Cruiser Mk. GB06 Vickers Medium Mk III  II]], [[Alecto]], [[Valentine AT]], [[Type 91 Heavy|Type 91]] and [[Type 95 Heavy]] and the [[Hetzer]], as their HE shells can easily destroy an exposed Medium III. GB06 Vickers Medium Mk III 
+|Gallery=
+
+
+|InTheGame_pros=
+* 6-pdr gun has respectable alpha damage and RoF
+* 2-pdr gun has great accuracy and penetration
+* Accuracy penalty on movement and turret traverse is relatively small
+* 2nd highest HP pool in tier 3. GB06 Vickers Medium Mk III 
+
+|InTheGame_cons=
+* Sub-par survivability; Won't last long in frontal engagements. GB06 Vickers Medium Mk III 
+* Undesirable speeds, with top tier engine, makes it hard to keep up with shifting fights. GB06 Vickers Medium Mk III 
+* Upgrading to the 2-pdr cuts alpha damage by much, while the 6-pdr has slow shell velocity
+* Crew slot matches neither the previous vehicle nor the next in branch
+
+|InTheGame_performance=
+This tank has six crew members, like the [[Cruiser Mk. GB06 Vickers Medium Mk III  II]]. GB06 Vickers Medium Mk III  Unfortunately, instead of two Gunners, it has two Radio Operators. GB06 Vickers Medium Mk III  The limited range of even the top radio on this tank means the second provides no worthwhile benefit. GB06 Vickers Medium Mk III  The new hull is far less boxy in shape, and slightly shorter in height, which allows this tank to use bushes a little more effectively. GB06 Vickers Medium Mk III  The 6-pdr 8cwt QF Mark I gun carries over from the Mark II, it has a faster rate of fire, better accuracy, and faster aim time on this tank, especially with the second turret. GB06 Vickers Medium Mk III  The top 2-pdr gun has somewhat low damage, but the accuracy and handling are simply incredible, and prepares the player better for the next vehicle, the Matilda. GB06 Vickers Medium Mk III 
+
+A good Medium III player treats this tank as a second-assault vehicle, letting the forward advance to engage the enemy while the Medium III supports from the rear; Using it's accurate guns to take out threats from greater distances, and in short order. GB06 Vickers Medium Mk III  It's armor does fare well against Lights however, with even the Pz. GB06 Vickers Medium Mk III  I C's Mauser's shots bouncing off it's armor with good deflection. GB06 Vickers Medium Mk III  This allows it to square off in an anti-Light role. GB06 Vickers Medium Mk III 
+
+
+|InTheGame_research=
+* The 6-pdr 8cwt QF Mark I gun and the WS No. GB06 Vickers Medium Mk III  11 radio carry over from the Vickers Medium Mark II and can be equipped immediately. GB06 Vickers Medium Mk III 
+* Research the upgraded suspension first. GB06 Vickers Medium Mk III 
+* Next research the second turret. GB06 Vickers Medium Mk III 
+* Researching the 2x Rolls-Royce Phantom II engine will improve mobility. GB06 Vickers Medium Mk III 
+* Go from there. GB06 Vickers Medium Mk III 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|History=
+The Medium Mark III was a medium tank developed in the United Kingdom during the inter-war period. GB06 Vickers Medium Mk III  The tank was unsuccessful with only 3 built. GB06 Vickers Medium Mk III  The design did not directly derive from earlier Medium Mark II tank. GB06 Vickers Medium Mk III 
+
+In 1926, the British War Office wanted to replace their existing Mark II tanks with a new design. GB06 Vickers Medium Mk III  In May the Royal Tank Corps Centre was asked for its opinion, which it submitted in July. GB06 Vickers Medium Mk III  One of the requirements was a weight limit of 15. GB06 Vickers Medium Mk III 5 tons, which led to the nickname "16-tonners". GB06 Vickers Medium Mk III  Other specifications included that it could transported by rail; a sufficient supply of lubrication oil to match the range of the tank (dictated by the fuel carried); a wireless set; a gun capable of defeating enemy armour at a range of at least a thousand yards; fuel tanks external to the main compartments and bottom armour sufficient to withstand heavy machine-gun fire when exposed while climbing a crest. GB06 Vickers Medium Mk III  Furthermore the machine should be as silent as possible, as with previous types the engine noise tended to incapacitate the crew. GB06 Vickers Medium Mk III 
+ 
+The War Office added some extra requirements: a separate engine compartment; superior steering capacity and 13 millimetres frontal armour with 9 millimetres thickness for the other plates. GB06 Vickers Medium Mk III 
+ 
+In September Vickers, given the order to build a prototype, proposed a first design based on the Vickers A1E1 Independent, with the fighting compartment in front and the engine compartment at the back. GB06 Vickers Medium Mk III  There would be a central two-man turret with a 3-pounder (47 mm) gun and a coaxial machine-gun; it was intended to house the commander and a special observer, each being provided a separate cupola. GB06 Vickers Medium Mk III  In the front of the hull were to be placed two secondary machine-gun turrets, each with a twin Vickers machine gun. GB06 Vickers Medium Mk III  At the back of the vehicle, behind the main turret a third machine-gun turret was intended, armed with an anti-aircraft (AA) weapon. GB06 Vickers Medium Mk III  A crew was needed of seven men. GB06 Vickers Medium Mk III  Maximum armour would be 13 millimetres and basis armour 6. GB06 Vickers Medium Mk III 5 millimetres, limiting the weight to fourteen tons. GB06 Vickers Medium Mk III  Riveted plates were used. GB06 Vickers Medium Mk III  The total fuel supply would be 120 imp gal (550 l) gallons: ten in a small tank inside, gravity feeding the engine; the remainder in external tanks on the fenders. GB06 Vickers Medium Mk III  Two engine options were indicated: a 120 hp engine would allow for a speed of 14 mph and a 180 hp engine would raise this to 20 mph (32 km/h). GB06 Vickers Medium Mk III 
+ 
+The result was called A6. GB06 Vickers Medium Mk III  In March 1927 a wooden mock-up was presented and after approval a second and prototype were ordered which had to incorporate the new hydraulically operated Wilson epicyclic steering gearbox, the predecessor of the Merrit-Brown gearbox. GB06 Vickers Medium Mk III  By June 1928 both prototypes (A6E1 and A6E2) were presented to the Mechanized Warfare Experimental Establishment for trials. GB06 Vickers Medium Mk III  Vickers was on this occasion ordered to add armour skirts but keep within the weight limit even if it meant removing armour elsewhere. GB06 Vickers Medium Mk III  Meanwhile a third prototype had been ordered: A6E3. GB06 Vickers Medium Mk III 
+ 
+A6E1, A6E2 and A6E3 were fitted with a Armstrong Siddeley air-cooled V8 180 hp engine giving a maximum speed of 26 mph. GB06 Vickers Medium Mk III  A6E2 was fitted with the Ricardo CI 180 hp engine but this was not satisfactory and the Armstrong-Siddeley refitted. GB06 Vickers Medium Mk III  A6E3 was later re-engined with the Thornycroft 6V 500 hp - a slow running marine engine. GB06 Vickers Medium Mk III  It was proposed to combine two Rolls-Royce Phantom engines with the Wilson transmission system on the A6E1, but in view of the costs this was rejected. GB06 Vickers Medium Mk III  A6E2 was eventually refitted with the AS V8 180 hp. GB06 Vickers Medium Mk III 
+ 
+The guns were tested in July 1928. GB06 Vickers Medium Mk III  This proved that the twin-machine gun arrangement was unworkable; so the A6E3, then being constructed, was fitted with a simplified design with a single machine-gun; it also had single cupola on the centreline of the turret. GB06 Vickers Medium Mk III  The AA-turret was removed from A6E1. GB06 Vickers Medium Mk III  However it was also shown that the suspension and the gunnery arrangements were distinctly inferior to those of the Mark II. GB06 Vickers Medium Mk III  It was therefore decided to discontinue the development of the type and use the three vehicles merely as test-beds for the automotive parts. GB06 Vickers Medium Mk III  In 1929 Vickers submitted three alternative suspension designs, which were fitted to the respective prototypes; one of these, tried on A6E3, involved a fundamental reconstruction of the hull. GB06 Vickers Medium Mk III  None proved able to provide a stable gun platform. GB06 Vickers Medium Mk III  Only in 1934 a satisfactory type was fitted by a specialised firm. GB06 Vickers Medium Mk III [1]
+
+The disappointments in the A6 design led to a new design, the "Medium Mark III", being ordered in 1928 and constructed from 1930. GB06 Vickers Medium Mk III [2] It was similar to the A6 design but featured a new turret and improved armour. GB06 Vickers Medium Mk III  The turret had a flat gun mantlet and a bulge at the back to hold the radio set. GB06 Vickers Medium Mk III  The secondary machine-gun turrets were moved more to the front to shift the centre of gravity of the entire vehicle forward to improve its stability. GB06 Vickers Medium Mk III  Larger brakes were fitted. GB06 Vickers Medium Mk III  In 1933 trials were completed of the first two prototypes. GB06 Vickers Medium Mk III  The type was reliable and provided a good gun platform. GB06 Vickers Medium Mk III  However, it still suffered from its bad suspension design: even though road speed increased to thirty miles per hour, during cross-country rides the bogies were often overloaded. GB06 Vickers Medium Mk III  Three Mark IIIs were built, one by Vickers and two by the Royal Ordnance Factory at Woolwich: Medium III E1, E2 and E3. GB06 Vickers Medium Mk III  The third had an improved suspension and the vehicles were in 1934 taken into use by the HQ of the Tank Brigade. GB06 Vickers Medium Mk III  However, no orders followed due to its high price; Medium III E2 was lost to a fire. GB06 Vickers Medium Mk III 
+ 
+One of the Mark IIIs was fitted as a command vehicle with an extra radio aerial around the turret. GB06 Vickers Medium Mk III  This was used by Brigadier Percy Hobart for the Salisbury Plain exercises during 1934. GB06 Vickers Medium Mk III [
+
+|HistAcc=
+The 3-pdr gun was its only main armament. GB06 Vickers Medium Mk III  The other gun configurations are fake. GB06 Vickers Medium Mk III 
+* Historical Thornycroft 6V 500 hp engine is missing. GB06 Vickers Medium Mk III  This was fitted to the third prototype. GB06 Vickers Medium Mk III 
+* The Rolls-Royce Phantom engines was only a proposal that was rejected on the grounds of expense. GB06 Vickers Medium Mk III 
+
+|HistoricalGallery=
+image:MkIII 1. GB06 Vickers Medium Mk III jpg
+image:MKIII 2. GB06 Vickers Medium Mk III jpg
+image:MKIII 3. GB06 Vickers Medium Mk III jpg
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

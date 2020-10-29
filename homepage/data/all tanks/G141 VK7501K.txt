@@ -1,0 +1,45 @@
+{{TankData|Tank= VK 75. G141 VK7501K 01 (K)
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Highest alpha damage in tier/class, not counting howitzers
+* Extremely strong turret and upper plate armor
+* Rear-mounted turret and thick side armor, very good for sidescraping
+* Better than average hitpoint pool for a heavy tank
+* Very good acceleration for such a heavy vehicle
+
+
+|InTheGame_cons= 
+* Poor DPM and long reload time
+* Very poor gun handling
+* Bad gun depression 
+* Large commander cupola on top of the turret
+* Bad turret and hull traverse speed
+
+|InTheGame_performance= 
+{{VideoYT|xf1Mja1wV7g}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Improved Ventilation
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|HistAcc=
+There's no historical reference about the VK 75. G141 VK7501K 01 (K) or any modified version of [[Tiger II]] projects. G141 VK7501K 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,50 @@
+{{TankData|Tank=
+|
+
+
+|Gallery=
+
+|InTheGame_pros=
+* Fast salvo preparation time of 2 seconds
+* Reliable guns
+* Strong turret
+* Decent gun depression (-8) for a Russian tank
+
+|InTheGame_cons=
+* Bad stock guns; underwhelming alpha for its tier
+* Subpar hull armor
+* Low alpha for its class
+* Large target
+
+|InTheGame_performance=
+The IS-2-II is best described as a medium-heavy hybrid, while its mobility is not as good as a medium, its guns sure have the DPM and the alpha to support the heavies' advances. R170 IS 2 II  It's best used as a support heavy tank while the much beefier heavies advance, due to your underwhelming hull armor, your best bet is to seek cover behind other tanks, or find a place to hide your hull and stick your turret out due to the thickness of your turret armor. R170 IS 2 II  
+
+
+|InTheGame_research=
+
+
+
+|InTheGame_equipment=
+Coated Optics, Enhanced Gun Laying Drive, Vents
+
+|External_Reviews= 
+{{#ev:youtube|BU58SoH0Qow}}
+
+|History=
+
+
+|HistoricalGallery=
+
+
+|HistAcc=
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+{{}}
+
+}}

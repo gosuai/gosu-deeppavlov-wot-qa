@@ -1,0 +1,291 @@
+{{TankData|Tank=BT-2
+|Long and low to the ground, it is as sleek and fast as it looks. R08 BT-2  While the BT-2 is extremely fast and has a decent selection of guns, its armor is paper thin. R08 BT-2  In the first few tiers this is not such a huge drawback, but as firepower increases, it is vital to get into good habits for light tanking early. R08 BT-2  The first lesson is to keep moving and use cover as much as possible. R08 BT-2  Long charges across open terrain are suicide, no matter what speed you're going. R08 BT-2  Instead, dash between all available cover, use your agility to throw in some evasive maneuvers, and above all, keep your speed high. R08 BT-2  If BT-2 is used correctly, then it can achieve record-breaking kill and damage records as compared to other recruit match tanks. R08 BT-2  It's relatively powerful, even with the thin armor. R08 BT-2  
+
+|Gallery=
+image:BT2-1. R08 BT-2 jpg‎ ‎{{!}}BT-2 Front right
+image:BT2-2. R08 BT-2 jpg‎ ‎{{!}}BT-2 Rear right
+image:BT2-c. R08 BT-2 jpg ‎{{!}}BT-2 Front left
+image:BT2-4. R08 BT-2 jpg‎ ‎{{!}}BT-2 Rear left
+image:BT-2-1. R08 BT-2 jpg‎ ‎{{!}}BT-2, map Malinovka
+
+|InTheGame_pros=
+* Excellent acceleration and top speed, very agile
+* Good guns
+* Excellent artillery hunter due to its speed, maneuverability, height and guns
+* Best power to weight ratio in the game after the new [[https://wiki. R08 BT-2 wargaming. R08 BT-2 net/en/Tank:R132_VNII_100LT|T-100 LT]] 
+
+|InTheGame_cons=
+* Terrible armor
+* Accuracy isn't the best and on the move is terrible
+* View range is not that good
+* Long silhouette
+* Poor signal range
+
+|InTheGame_performance=
+While the German tier 2 light tanks are more general purpose in nature, the Soviet BT-2 was designed for speed. R08 BT-2  With this tank you will begin learning tactics that will apply to all light tanks at higher tiers. R08 BT-2  In combat, you want to attack enemy flanks, preferably while they're busy fighting one of your allies. R08 BT-2  Use your speed to get in fast and then get out again. R08 BT-2  This is a great way to take out enemy artillery. R08 BT-2  The BT-2 provides a great platform for getting the [[Automatic Loader#Autocannons|auto-cannon]] into range fast where it's the most effective. R08 BT-2  Once more or less fully upgraded, the 45 mm 20K and 37 mm ZiS-19 are also good weapons at this tier. R08 BT-2  This tank also serves well in a scouting role, but the limited signal range can be an issue if there are no friendlies between you and the main group to relay your signal. R08 BT-2 
+
+Another possible use for the BT-2 that is overlooked by other players is its ability to be a sniper and support tank. R08 BT-2  The BT-2 offers a very high penetration gun that can wreck tier 2's and 3's alike, and given its small size and fast speed the tank is allowed to reach these positions quickly and efficiently. R08 BT-2  Once the enemy team has been greatly weakened, you can then go ahead and take the task of an assault tank, wiping out any stragglers and erasing the enemy team from the map. R08 BT-2 
+
+|InTheGame_research=
+* The only thing that carries over from the [[Tank:MS-1|MS-1]] is the 23 mm VJa auto-cannon. R08 BT-2  It's an upgrade worthy of immediate installation. R08 BT-2 
+* The upgraded suspension is a good place to start researching, as it adds 4 deg/s to traverse speed. R08 BT-2 
+* Next upgrade engine and the turret in either order. R08 BT-2 
+* Upgrade the radio. R08 BT-2 
+* Go from there. R08 BT-2 
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension
+
+|History=
+[[image:Bt-2-fast-tank-01. R08 BT-2 png|thumb|200px|left|BT-2 Fast Tank]]
+The BT-2 was a part of a Soviet light tank series produced from 1932 to 1935. R08 BT-2  The BT tanks (Russian, Bystrokhodny tank, light "fast tank" or "high-speed tank") were a series of Soviet cavalry tanks produced in large numbers between 1932 and 1941. R08 BT-2  They were lightly armoured, but reasonably well-armed for their time, and had much better mobility than the rest of the world's contemporary tank designs. R08 BT-2  The BT tanks were known by the nickname Betka from the acronym, or its diminutive Betushka. R08 BT-2 
+The direct successor of the BT tanks would be the famous T-34 medium tank, introduced in 1940, which would replace all of the Soviet fast tanks, infantry tanks, and medium tanks in service. R08 BT-2 
+
+==Design==
+The BT tanks were "convertible tanks". R08 BT-2  This was a feature designed by J. R08 BT-2  Walter Christie to reduce wear of the unreliable tank tracks of the 1930s. R08 BT-2  In about thirty minutes, the crew could remove the tracks and engage a chain drive to the rear-most road wheel on each side, allowing the tank to travel at very high speeds on roads. R08 BT-2  In wheeled mode, the tank was steered by pivoting the front road wheels. R08 BT-2  However, Soviet tank forces soon found the convertible option of little practical use in a country with few paved roads, and it consumed space and added needless complexity and weight. R08 BT-2  The feature was dropped from later Soviet designs. R08 BT-2 
+Christie, a race car mechanic from New Jersey, had tried unsuccessfully to convince the U. R08 BT-2 S. R08 BT-2  Army Ordnance Bureau to adopt his Christie tank design. R08 BT-2  [[image:BT-2_BT-7-2_Fast_Tank_training_turret_at_the_Stalin_Military_Academy. R08 BT-2 png|thumb|200px|right|BT-2 Training turret at the Stalin Military Academy]]In 1930, Soviet agents at Amtorg, ostensibly a Soviet trade organization, used their New York political contacts to persuade U. R08 BT-2 S. R08 BT-2  military and civilian officials to provide plans and specifications of the Christie tank to the Soviet Union. R08 BT-2  At least two of Christie's M1931 tanks (without turrets) were later purchased in the United States and sent to the Soviet Union under false documentation, in which they were described as "agricultural tractors". R08 BT-2  Both tanks were successfully delivered to the Kharkov Komintern Locomotive Plant (KhPZ). R08 BT-2  The original Christie tanks were designated fast tanks by the Soviets, abbreviated BT (later referred to as BT-1). R08 BT-2  Based both on them and on previously obtained plans, three unarmed BT-2 prototypes were completed in October 1931 and mass production began in 1932. R08 BT-2  Most BT-2s were equipped with a 37 mm gun and a machine gun, but shortages of 37 mm guns led to some early examples being fitted with three machine guns. R08 BT-2  The sloping front hull (glacis plate) armor design of the Christie M1931 prototype was retained in later Soviet tank hull designs, and later adopted for side armor as well. R08 BT-2  The BT-5 and later models were equipped with a 45 mm gun. R08 BT-2  
+
+==Combat History==
+
+BT tanks saw service in the Spanish Civil War, Battle of Khalkhin Gol (Nomonhan), the Winter War in Finland, the Polish campaign, and in the entire World War II. R08 BT-2 
+They first saw action in the Spanish Civil War. R08 BT-2  A battalion of BT-5s fought on the Republican side, and their 45 mm guns could easily knock out the opposing German and Italian light tanks. R08 BT-2 
+
+'''Battle of Khalkhin Gol (Nomonhan)'''
+[[image:BT-2 Fast Tank 02. R08 BT-2 png|thumb|200px|left|BT-2]]  
+During the Battles of Khalkhin Gol (also known as the Nomonhan Incident), which lasted from May to September in 1939, BT tanks were easily attacked by Japanese "close quarter" teams (tank killer squads) which were armed with petrol bottles (later called "Molotov Cocktails"). R08 BT-2  The Soviet BT-5 and BT-7 light tanks, which had been operating in temperatures greater than 100F on the Mongolian plains, easily caught fire when a molotov cocktail ignited their gasoline engines. R08 BT-2  General Georgy Zhukov made it one of his "points" when briefing Joseph Stalin, that his ". R08 BT-2 . R08 BT-2 . R08 BT-2 BT tanks were a bit fireprone. R08 BT-2 . R08 BT-2 . R08 BT-2 . R08 BT-2 " Conversely, many Japanese tankers held the Soviet 45mm anti-tank/tank guns in high esteem, noting, ". R08 BT-2 . R08 BT-2 . R08 BT-2 no sooner did they see the flash from a Russian gun, then they'd notice a hole in their tank, adding that the Soviet gunners were accurate too!" 
+After the Khalkhin Gol War in 1939, the Soviet military had broken into two camps; one side was represented by Spanish Civil War veterans General P. R08 BT-2  V. R08 BT-2  Rychagov of the Soviet Air Force, Soviet armour expert General Dimitry Pavlov, and Stalin's favorite, Marshal Grigory Kulik, Chief of Artillery Administration. R08 BT-2  The other side consisted of the Khalkhin Gol veterans led by Generals Zhukov and G. R08 BT-2 P. R08 BT-2  Kravchenko of the Soviet Air Force. R08 BT-2  Under this cloud of division, the lessons of Russia's "first real war on a massive scale using tanks, artillery, and airplanes" at Nomonhan (Khalkhin Gol) went unheeded. R08 BT-2  Consequently, during the Finland War (Winter War), the BT-2 and BT-5 tanks were less successful, and it took the Soviet Union three and a half months, and over a million men, to do what Zhukov did in just ten days at Nomonhan. R08 BT-2  
+After the German war broke out, the Spanish Civil War faction fell in disfavor, with Marshal Kulik in particular being court-martialed and demoted. R08 BT-2  Gen. R08 BT-2  Zhukov and the majority of his surviving Nomonhan veterans were appointed to commands throughout European Russia, in time to engage the German armies. R08 BT-2 
+
+During the Second World War, BT-5 and BT-7 tanks were used in the 1939 Soviet invasion of Poland, and in large numbers in the battles of 1941: during which thousands were abandoned or destroyed. R08 BT-2  A few remained in use in 1942, but were rare after that time. R08 BT-2  The Red Army planned to replace the BT tank series with the T-34, and had just begun doing so when the German invasion (Operation Barbarossa) took place. R08 BT-2 
+During the final weeks of World War II, a significant number of BT-7 tanks took part in the invasion of Japanese-occupied Manchuria in August, 1945. R08 BT-2  This was the last combat action of BT tanks. R08 BT-2  
+
+==Technical legacy==
+[[image:BT-2 WW2 Quick Moving BT 5 Tank - Extracted From Lake. R08 BT-2 jpg|thumb|200px|left|BT-5 Tank extracted from the bottom of the lake after 60 years]]
+The BT tank series was numerous, forming the cavalry tank arm of the Red Army in the 1930s, and had much better mobility than other contemporary tank designs. R08 BT-2  For these reasons, there were many experiments and derivatives of the design, mostly conducted at the KhPZ factory in Kharkov. R08 BT-2 
+The most important legacy of the BT tank was the T-34 medium tank, arguably the most important tank of the entire World War II. R08 BT-2  In 1937, a new design team was formed at the KhPZ to create the next generation of BT tanks. R08 BT-2  Initially, the chief designer was Mikhail Koshkin and, after his death, Morozov. R08 BT-2  The team built two prototypes. R08 BT-2  The light one was called the A-20. R08 BT-2  The more heavily armed and armoured BT derivative, theA-32, was a "universal tank" to replace all the T-26 infantry tank, BT cavalry tanks, and the T-28 medium tanks. R08 BT-2  Such a plan was controversial, but concerns about tank performance under the threat of German blitzkrieg led to the approval for production of a still more heavily-armoured version, the T-34 medium tank. R08 BT-2 
+Along the way, an important technical development was the BT-IS and BT-SW-2 test-bed vehicles, concentrating on sloped armour. R08 BT-2  This proof-of-concept led directly to the armour layout of the T-34. R08 BT-2 
+BT tank chassis' were also used as the basis for engineering support vehicles and mobility test-beds. R08 BT-2  A bridgelayer variant had a T-38 turret and launched a bridge across small gaps. R08 BT-2  Standard tanks were fitted as fascine carriers. R08 BT-2  The RBT-5 hosted a pair of large artillery rocket launchers, one on each side of the turret. R08 BT-2  Several designs for extremely wide tracks, including, oddly, wooden 'snowshoes' were tried on BT tanks. R08 BT-2 
+The KBT-7 was a thoroughly modern armoured command vehicle that was in the prototype stage when World War II broke out. R08 BT-2  The design was not pursued during the war. R08 BT-2 
+In the Kiev maneuvers of 1936, foreign military observers were shown hundreds of BT tanks rolling by a reviewing stand. R08 BT-2  In the audience were British Army representatives, who returned home to advocate use of the Christie suspension on British cruiser tanks, which they incorporated from the Cruiser Mk III onwards. R08 BT-2  Interestingly, the pointed shape of the hull front armor on the BT tank also influenced the design of the British Matilda tank. R08 BT-2 
+
+
+<table style="text-align:center;" frame="box" rules="vertical;horizontal" >
+<caption>Comparison of the BT-2, BT-5, BT-7, BT-7A, and BT-8</caption>
+
+<tr>
+<td></td>
+	<th>[[BT-2]]</th>
+	<th>BT-5</th>
+	<th>[[BT-7]]</th>
+	<th>BT-7A</th>
+	<th>BT-7M (BT-8)</th>
+</tr>
+<tr>
+<th>Number built</th>
+	<td>620</td>
+	<td>2,108</td>
+	<td>4,965</td>
+	<td>154</td>
+	<td>790</td>
+</tr>
+<tr>
+<th>crew</th>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
+</tr>
+<tr>
+<th>weight</th>
+<td>10. R08 BT-2 2 t</td>
+<td>11. R08 BT-2 5 t</td>
+<td>14 t</td>
+<td>14. R08 BT-2 5 t</td>
+<td>14. R08 BT-2 7 t</td>
+</tr>
+<tr>
+<th>length</th>
+	<td>5. R08 BT-2 58 m</td>
+	<td>5. R08 BT-2 58 m</td>
+	<td>5. R08 BT-2 66 m</td>
+	<td>5. R08 BT-2 66 m</td>
+	<td>5. R08 BT-2 66 m</td>
+</tr>
+<tr>
+<th align="right">width</th>
+	<td>2. R08 BT-2 23 m</td>
+	<td>2. R08 BT-2 23 m</td>
+	<td>2. R08 BT-2 29 m</td>
+	<td>2. R08 BT-2 29 m</td>
+	<td>2. R08 BT-2 29 m</td>
+</tr>
+<tr>
+<th>height</th>
+	<td>2. R08 BT-2 20 m</td>
+	<td>2. R08 BT-2 25 m</td>
+	<td>2. R08 BT-2 42 m</td>
+	<td>2. R08 BT-2 52 m</td>
+	<td>2. R08 BT-2 42 m</td>
+</tr>
+<tr>
+	<th>armour</th>
+	<td>6–13 mm</td>
+	<td>6–13 mm</td>
+	<td>6–13 mm</td>
+	<td>6–13 mm</td>
+	<td>6–22 mm</td>
+</tr>
+<tr>
+<th>main gun</th>
+	<td>37 mm<br />
+		Model 30</td>
+	<td>45 mm<br />
+		Model 32</td>
+	<td>45 mm<br />
+		Model 35</td>
+	<td>76. R08 BT-2 2mm<br />
+		Model 27/32</td>
+	<td>45 mm<br />
+		Model 38</td>
+</tr>
+<tr>
+<th>main gun<br />
+ammunition</th>
+	<td>96 rounds</td>
+	<td>115 rouds</td>
+	<td>146 rounds</td>
+	<td>50 rounds</td>
+	<td>146 rounds</td>
+</tr>
+<tr>
+<th>machine guns</th>
+	<td>DT</td>
+	<td>DT</td>
+	<td>DT</td>
+	<td>2×DT</td>
+	<td>3×DT</td>
+</tr>
+<tr>
+<th>engine power<br />
+model</th>
+	<td>400 hp<br />
+		Liberty</td>
+	<td>400 hp<br />
+		M-5</td>
+	<td>500 hp<br />
+		M-17T</td>
+	<td>500 hp<br />
+		M-17T</td>
+	<td>450 hp<br />
+		V-2</td>
+</tr>
+<tr>
+<th>fuel</th>
+	<td>400 l<br />
+		gasoline</td>
+	<td>360 l<br />
+		gasoline</td>
+	<td>620 l<br />
+		gasoline</td>
+	<td>620 l<br />
+		gasoline</td>
+	<td>620+170 l<br />
+		diesel</td>
+</tr>
+<tr>
+<th>road speed</th>
+	<td>100 km/h (62 mph)</td>
+	<td>72 km/h (45 mph)</td>
+	<td>86 km/h (53 mph)</td>
+	<td>86 km/h (53 mph)</td>
+	<td>86 km/h (53 mph)</td>
+</tr>
+<tr>
+<th>power:weight</th>
+	<td>39 hp/t</td>
+	<td>35 hp/t</td>
+	<td>36 hp/t</td>
+	<td>34 hp/t</td>
+	<td>31 hp/t</td>
+</tr>
+<tr>
+<th>road range</th>
+	<td>300 km</td>
+	<td>200 km</td>
+	<td>250 ;km</td>
+	<td>250 km</td>
+	<td>700 km</td>
+</tr>
+<tr>
+<th>tactical range</th>
+	<td>100 km</td>
+	<td>90 km</td>
+	<td>120 km</td>
+	<td>120 km</td>
+	<td>400 km</td>
+</tr>
+</table>
+
+==Variants==
+- BT-1: Christie prototype with no turret. R08 BT-2 
+
+- BT-2 Model 1932: M-5-400 engine (copy of U. R08 BT-2 S. R08 BT-2  Liberty engine), three modifications of turret produced: with single 37 mm gun; 37 mm gun and one DT machine gun; twin DP machine guns mount and a single machine gun. R08 BT-2  In late 1932 modified to BT-3 but produced under same designation. R08 BT-2 
+
+- BT-3: same as BT-2, produced according to metric system (instead of Imperial system as used for BT-2). R08 BT-2  In official documentation referred to as BT-2. R08 BT-2 
+
+- BT-4: was a design with welded hull and minor changes in the suspension. R08 BT-2  3 prototypes produced (with partially riveted hull)
+
+-	BT-5: larger cylindrical turret, 45 mm gun, coaxial DT machine gun. R08 BT-2 
+
+-	BT-5 Model 1933: new turret with twin hatches and larger bustle. R08 BT-2 
+
+-	BT-5PKh: snorkelling variant (prototypes only). R08 BT-2 
+
+-	BT-5A: artillery support version with 76. R08 BT-2 2 mm howitzer (few made). R08 BT-2 
+
+-	BT-5 flamethrower tank: (prototypes only). R08 BT-2 
+
+-	PT-1A: amphibious variant with new hull (few made). R08 BT-2 
+
+-	BT-7 Model 1935: welded hull, redesigned hull front, new Mikulin M-17T engine (licensed copy of a BMW engine), enclosed muffler. R08 BT-2 
+
+-	BT-7 Model 1937: new turret with sloping armour. R08 BT-2 
+
+-	BT-7TU: command version, with whip antenna instead of earlier frame antenna. R08 BT-2 
+
+-	BT-7A: artillery support version with 76. R08 BT-2 2 mm howitzer. R08 BT-2 
+
+-	OP-7: flame-thrower version with external fuel panniers (prototype only). R08 BT-2 
+
+-	BT-7M (1938, prototypes designated A-8; sometimes referred to as BT-8): new V-2 diesel engine replacing earlier gasoline engines, three DT machine guns: coaxial, in P-40 AA mount on roof and in a ball-mount on turret rear. R08 BT-2 
+
+-	BT-42: Finnish assault gun; captured BT-7s were equipped with British 114 mm howitzers. R08 BT-2 
+
+-	BT-IS: Prototype/proof-of-concept platform with heavily sloped armor; forerunner of the armor design on the T-34. R08 BT-2 
+
+-	BT-SW-2 Cherepakha ("turtle"): Another prototype, which took the armour sloping to an extreme. R08 BT-2 
+
+-	A-20: Prototype for a new BT tank, with 20 mm armour, 45mm gun, model V-2 diesel engine, and 8×6-wheel convertible drive. R08 BT-2  Lost out in trials to the A-32, which was further improved and produced as the T-34 medium tank. R08 BT-2 
+
+-	TTBT-5, TTBT-7: teletanks, remote-controlled tanks. R08 BT-2 
+
+|HistAcc=
+The 20 mm TNSh was only installed on the T-38 and [[T-60]] light tanks. R08 BT-2  Its configuration on the BT-2 is fake. R08 BT-2  The T-38 is an amphibious light tank which does not exist in World of Tanks. R08 BT-2 
+
+|HistoricalGallery=
+image:Bt-2-fast-tank-02. R08 BT-2 png‎ ‎{{!}}BT-2 Fast Tank converted to use its road wheels
+image:Bt-2-fast-tank-04. R08 BT-2 png‎{{!}}BT-2 Fast Tank climbs a rise
+image:Bt2-frontyay. R08 BT-2 jpg‎{{!}}BT-2 Fast Tank front view
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+[http://english. R08 BT-2 battlefield. R08 BT-2 ru/tanks/8-light-tanks/3-bt-2. R08 BT-2 html]
+[https://www. R08 BT-2 tanks. R08 BT-2 net/interwar-tanks/bt-medium-tank-series. R08 BT-2 html]
+[https://web. R08 BT-2 archive. R08 BT-2 org/web/20140701202337/https://www. R08 BT-2 wwiivehicles. R08 BT-2 com/ussr/tanks-medium/bt-2. R08 BT-2 asp]
+}}

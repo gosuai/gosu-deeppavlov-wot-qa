@@ -1,0 +1,78 @@
+{{TankData|Tank= 
+|Also known as "ISherman (Israeli Sherman, as it was the basis of Israeli M-50/M-51 Sherman)", Super Sherman, or M4A1 "Ravioli" (or other names that resembles word "Revalorise"). F73 M4A1 Revalorise  At first glance, it's basically just an [[M4 Sherman]] with a bigger gun, painted in French colours, and bumped up three tiers. F73 M4A1 Revalorise  But it's a lot more complicated than that. F73 M4A1 Revalorise  When its strengths and weaknesses are well-understood, the M4A1 Revalorisé can become a rather effective tank hunter in Tier VIII, and even Tier IX games. F73 M4A1 Revalorise 
+
+|Gallery=
+
+File:M4A1 Revalorisé scr 1. F73 M4A1 Revalorise jpg
+File:M4A1 Revalorisé scr 2. F73 M4A1 Revalorise jpg
+File:M4A1 Revalorisé scr 3. F73 M4A1 Revalorise jpg
+
+
+|InTheGame_pros= 
+* Good alpha damage and accuracy, decent gun handling
+* Standard ammo is APCR with great shell velocity
+* Great gun depression
+* Decent base viewrange
+* Good credit earner and not too expensive to purchase
+
+|InTheGame_cons= 
+* No effective armor and bad camouflage values
+* Low DPM and rate of fire
+* Low penetration
+* Very low engine module health, will be damaged/destroyed often
+* Low top speed
+
+|InTheGame_performance= 
+
+One could compare this vehicle to the British Tier 6 [[Sherman Firefly]], as the Revalorisè is also an M4 variant equipped with a larger gun. F73 M4A1 Revalorise  The similarities end here however, as this tank's gun is the exact opposite of the British 17 Pdr. F73 M4A1 Revalorise  - massive, with a very high damage per shot, and with a glacial reload speed. F73 M4A1 Revalorise  It also benefits from good gun handling and great gun depression (similar to American tanks). F73 M4A1 Revalorise 
+
+The gun's behaviour, lack of armor and mediocre mobility make this tank best played as support, firing from the second line, or a sniper thanks to its very high shell velocity and decent accuracy. F73 M4A1 Revalorise  Do note however that the default ammo is APCR, which has worse normalization than AP and so struggles more against sloped armor. F73 M4A1 Revalorise  The armor penetration of 200mm is above average among medium tanks but poor among tier 8 tanks that fight long range. F73 M4A1 Revalorise 
+
+Always try to minimize exposure by making use of cover (be it scenery or even allied tanks) and abuse your gun depression, and never try to brawl as the Revalorisè has no armor and takes well over ten seconds to reload between shots. F73 M4A1 Revalorise  Also, try to let the gun fully aim before firing, again due to the very long reload time. F73 M4A1 Revalorise 
+ 
+{{VideoYT|gSawMzhfbYM}}
+
+|InTheGame_research= 
+None required, this is a premium tank
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Enhanced Gun Laying Drive, Coated Optics, Vertical Stabilizer, Improved Ventilation Class 2
+
+|External_Reviews= 
+{{#ev:youtube|RwqYNeFocBs}}
+
+|History= 
+The M4A1 Revalorisé (improved/upgraded) was a French project to up-gun the M4 Sherman. F73 M4A1 Revalorise  This was done by mounting a 105mm L/51 onto the T23 model turret of a M4A1. F73 M4A1 Revalorise  The turret required a large counterweight added to the rear, as well as a large muzzle brake and new low pressure HEAT ammunition for the cannon to function. F73 M4A1 Revalorise  The 105mm L/51 mounted on the Revalorisé is a shortened version of the 105mm CN 105-57 mounted on the AMX-30. F73 M4A1 Revalorise  The gun was vastly different from the old 105mm M4 howitzer, and fired HEAT rounds at over 900 m/s. F73 M4A1 Revalorise 
+
+
+Eventually this led to The Sherman M-50 and the Sherman M-51, both known abroad as the Super Sherman that served with the Israel Defense Forces from the mid-1950s to early 1980s taking after the French Revalorisé. F73 M4A1 Revalorise  These conversions were all done in Israel using guns purchased from France, aside from the initial M4A1 Revalorisé that was produced in France. F73 M4A1 Revalorise   In addition to mounting the guns and modifying the turrets, Israel also converted these M4A1 Shermans to use the HVSS suspension, replacing the outdated and less efficient VVSS. F73 M4A1 Revalorise  They also replaced the original engines with the much more efficient 460hp Cummins VT8-460 diesel engine. F73 M4A1 Revalorise  The M-51 was also referred to as the Isherman (i. F73 M4A1 Revalorise e. F73 M4A1 Revalorise  Israeli Sherman). F73 M4A1 Revalorise  However, the designations "Super Sherman" and "Isherman" were never used by the Israeli Defense Forces. F73 M4A1 Revalorise  The tank never served in combat for France and the number of vehicles created is unknown. F73 M4A1 Revalorise 
+
+|HistAcc=
+HEAT is actually the standard ammunition of the 105 mm D. F73 M4A1 Revalorise  1504 gun. F73 M4A1 Revalorise  Other historical ammunition types were smoke, HE and APFSDS. F73 M4A1 Revalorise  The APCR round is fake. F73 M4A1 Revalorise 
+* The HEAT round is considerably weaker than in reality, with only 250 mm of penetration compared to the historical 360. F73 M4A1 Revalorise 
+* "Revalorisé" was affixed to any Sherman tank that was upgraded by the French. F73 M4A1 Revalorise  A more accurate name would be "M4A1 canon de 105mm L51", or M-51 prototype. F73 M4A1 Revalorise 
+* The M4A1 Revalorisé was only intended for export, evolving into the [https://console. F73 M4A1 Revalorise worldoftanks. F73 M4A1 Revalorise com/en/encyclopedia/vehicles/france/F73_M4A1_M51/ M-51 Sherman] in Israeli service. F73 M4A1 Revalorise  The M-51 can only be found on the console version of World of Tanks. F73 M4A1 Revalorise 
+* The Continental R975 engine is considerably more powerful than it is in real life, with 550 horsepower compared to the historical 350-400. F73 M4A1 Revalorise 
+* Smoke dischargers are visible on both sides of the turret but there is no option to use them. F73 M4A1 Revalorise 
+* Due to the lack of multi-turret controls in Word of Tanks, the turret-mounted [[Gun/USA#Browning MG caliber . F73 M4A1 Revalorise 50 HB, M2|12. F73 M4A1 Revalorise 7 mm Browning machine gun]] is unusable and only worsens the M4A1's tall silhouette. F73 M4A1 Revalorise 
+* The Revalorisé is essentially the same tank as the [[M4 Sherman]] (apart from the gun), the American equivalent of the M4A1. F73 M4A1 Revalorise  However, even though the Revalorisé is heavier as a result of the larger gun and counterweight, its view range, engine power, hull traverse and turret traverse are superior to the M4. F73 M4A1 Revalorise 
+
+|HistoricalGallery= 
+File:M51-Isherman-latrun-1. F73 M4A1 Revalorise jpg{{!}}An Israeli Sherman M-51. F73 M4A1 Revalorise 
+File:Prototype_M-51. F73 M4A1 Revalorise jpg{{!}}A prototype M4A1 Revalorisé
+File:M4A1_Revalorise_Hunnicutt. F73 M4A1 Revalorise png{{!}}Information of the M4A1 Revalorisé, from Hunnicutt
+
+|Ref_references=
+
+|Ref_sources=
+
+* Sherman: A History of the American Medium Tank – Hunnicutt
+* Warmachines No. F73 M4A1 Revalorise  10: IDF Tiran 4, Tiran 5, Tiran 6 – Michael Mass 
+* Chariots of the Desert – David Eshel
+* Armored Corps (1968 IDF memory book on armor in the Six Days War)
+
+|Ref_links=
+* https://ritastatusreport. F73 M4A1 Revalorise blogspot. F73 M4A1 Revalorise com/2015/09/the-m4a1-revalorise-and-names-of. F73 M4A1 Revalorise html
+* https://www. F73 M4A1 Revalorise chars-francais. F73 M4A1 Revalorise net/2015/index. F73 M4A1 Revalorise php/9-archives/de-1945-1990/1725-sherman-revalorises
+
+}}

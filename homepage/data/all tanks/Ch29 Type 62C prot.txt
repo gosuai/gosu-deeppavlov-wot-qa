@@ -1,0 +1,66 @@
+{{TankData|Tank= 
+|The ideal "Light Medium" in World of Tanks, it has quite reasonable protection (one of the best among light tanks) thanks to its very tough turret and all-around spaced armor that effectively protects it from HEAT and HESH rounds. Ch29 Type 62C prot  This tank is excelled in a fire supporting role, as well as taking some punishment with its turret armor before retreating. Ch29 Type 62C prot 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good alpha damage, shell velocity and aim time
+* Strong turret armor, can play hulldown effectively on flat ground
+* Tracks and turret sides/rear are covered with additional spaced armor
+* Good top speed, acceleration and agility
+* Second largest hitpoint pool among Tier 10 light tanks (tied with [[Tank:R132_VNII_100LT|T-100 LT]])
+
+|InTheGame_cons=
+* Very thin hull armor
+* Poor DPM and accuracy
+* Bad gun depression
+* Camouflage is pretty bad for a light tank
+* Vulnerable ammo rack and fuel tank
+
+|InTheGame_performance= 
+The WZ-132-1 stands out among Tier 10 light tanks, being one of two so-called "light medium" hybrids, the other being the Russian [[Tank:R132_VNII_100LT|T-100 LT]]. Ch29 Type 62C prot  It is, all things considered, a compact, scaled-down counterpart to the [[121B]] medium tank, though it must be noted that the similarity is fairly superficial. Ch29 Type 62C prot 
+
+Unlike most light tanks, the WZ-132-1 benefits from some raw protection - its turret armor is quite solid and, while not outstanding for Tier 10 standards, it is certainly impressive for a light tank. Ch29 Type 62C prot  This allows the WZ-132-1 to use hard cover to conceal its thinly armored hull and only expose its tough turret, which is thick and rounded enough to be able to absorb some return fire, even from the larger guns. Ch29 Type 62C prot  Do note though that, as usual with Chinese tanks, the gun depression is poor at a mere -5 degrees, severely limiting available hull down spots. Ch29 Type 62C prot  
+
+Armamemnt-wise, the WZ-132-1 carries a 105mm gun armed with APCR as default ammunition, and HEAT as premium. Ch29 Type 62C prot  It has good alpha and reasonable penetration, as well as good aim time and decent gun handling (dispersion while rotating the turret is especially good), but is severely lacking in accuracy, making long range shots pretty tricky and RNG-dependant. Ch29 Type 62C prot  DPM is fairly lacking, so be sure to make your shots count, as it takes over eight seconds to reload (this with all available boosts). Ch29 Type 62C prot 
+
+Like most like tanks, the WZ-132-1 is very fast and agile. Ch29 Type 62C prot  It also has a pretty significant mass for a light tank, weighing over 30 tons, which makes ramming other light tanks a viable, if reckless, strategy in case of emergencies. Ch29 Type 62C prot 
+
+Overall, being something of a lightweight medium tank, the WZ-132-1 can be played as one so long as caution is exercised. Ch29 Type 62C prot  As a light tank it lacks concealment and is not the best scout or spotter, and as a medium it lacks durability and firepower, but having something of both it can flex its role as the battle demands and be more comfortable to play than fully dedicated scouts. Ch29 Type 62C prot  
+
+Keep moving, provide fire support where needed, and you'll be a serious threat to the enemy. Ch29 Type 62C prot 
+
+
+|InTheGame_research=
+None needed 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 1, Coated Optics, Improved Ventilation Class 1
+
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|2oPGmtQ3zNU}}
+
+|History= 
+After the development of the WZ-132 light tank was finished, a line was drawn and the project proved to be too technical for the Chinese army to produce at the time. Ch29 Type 62C prot  As a result, the Chinese army command proceeded to implement the WZ-132 mechanisms in Chinese tanks already in use, the base vehicle chosen being eventually the Type 62 tank. Ch29 Type 62C prot  The new modernised variant was named Type 62-I, and was a result of the experience gathered during the Sino-Vietnamese War. Ch29 Type 62C prot  Also known under its industrial designation, WZ-131A, it featured 33 different improvements including an external double lens laser range finder mounted above the mantlet of the 85 mm Type 62-85TC rifled main gun for better firing accuracy and a shield for the 12. Ch29 Type 62C prot 7 mm Type 54 anti-aircraft heavy machine gun. Ch29 Type 62C prot  A late model of the Type 62-I was fitted with external turret storage racks and hull sideskirts for additional protection against HEAT projectiles and anti-tank missiles. Ch29 Type 62C prot  This is the model known in-game as WZ-132-1. Ch29 Type 62C prot 
+
+|HistAcc=
+It should be noted that the tank known as WZ-132-1 in-game is not a variant of the WZ-132 tank, as it was deemed too technical to produce, but rather a late model of a modernised Type 62 variant known as Type 62-I or WZ-131A. Ch29 Type 62C prot 
+*The first Type 62s to be armed with the 105 mm L7 was in 2000. Ch29 Type 62C prot  This variant, which had a welded flat-plate turret incorporating an improved spaced and possibly composite armor with four smoke grenade dischargers on each side, was known as the Type 62G. Ch29 Type 62C prot  The 105 mm gun configuration on the WZ-132-1 is fake. Ch29 Type 62C prot 
+*Historical [[Gun/China#85 mm 64-85T|85 mm 64-85T]] gun is missing. Ch29 Type 62C prot 
+
+|HistoricalGallery= 
+image:Type-62-I-late. Ch29 Type 62C prot png{{!}}Late model of Type 62-I, represented as WZ-132-1. Ch29 Type 62C prot 
+image:type-62-i-blueprints. Ch29 Type 62C prot png{{!}}Blueprints of Type 62-I. Ch29 Type 62C prot 
+image:Type62i. Ch29 Type 62C prot jpg{{!}}Type 62-I in action. Ch29 Type 62C prot 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://www. Ch29 Type 62C prot tanks-encyclopedia. Ch29 Type 62C prot com/coldwar/China/Type-62. Ch29 Type 62C prot php
+https://en. Ch29 Type 62C prot wikipedia. Ch29 Type 62C prot org/wiki/WZ-132_Light_Tank
+https://en. Ch29 Type 62C prot wikipedia. Ch29 Type 62C prot org/wiki/Type_62#Variants
+}}

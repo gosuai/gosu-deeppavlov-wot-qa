@@ -1,0 +1,86 @@
+{{TankData|Tank=T54E1
+|Although a pretty challenging vehicle to play due to its huge size, sluggish speed, weak armor, and poor gun handling, the T54E1 is made an effective tank by the power of its autoloading guns. A89 T54E1  The T54E1 is able to bring focused damage to a firefight and is not crippled by a long reload time like many other autoloading tanks. A89 T54E1  The T54E1 is capable of devastating an enemy force at the opening of hostilities, withdrawing, and then sweeping back in shortly after with a fresh clip to crush the remaining resistance. A89 T54E1  Effective timing and good support tactics allow a T54E1 driver to achieve victory. A89 T54E1 
+
+Changed from a Medium tank to Heavy tank in update 1. A89 T54E1 9 to ease the transition from the tier 9 to tier 10 tank in the line. A89 T54E1 
+
+|Sidebar_Camostop=10. A89 T54E1 00
+|Sidebar_Camomove=7. A89 T54E1 70
+|Sidebar_Camofire=2. A89 T54E1 00
+|Sidebar_Passhard=1. A89 T54E1 055
+|Sidebar_Passmed=1. A89 T54E1 151
+|Sidebar_Passsoft=2. A89 T54E1 205
+|Sidebar_DispTurret=0. A89 T54E1 134
+|Sidebar_DispRecoil=3. A89 T54E1 836
+|Sidebar_DispAccel=0. A89 T54E1 192
+|Sidebar_DispTurning=0. A89 T54E1 192
+
+|Sidebar_SubArc_Count=2
+|Sidebar_SubArc_1=Yes
+|Sidebar_SubArc_1_Start=-160
+|Sidebar_SubArc_1_End=160
+|Sidebar_SubArc_1_Dep=8
+|Sidebar_SubArc_1_Elv=13
+|Sidebar_SubArc_2=Yes
+|Sidebar_SubArc_2_Start=160
+|Sidebar_SubArc_2_End=200
+|Sidebar_SubArc_2_Dep=5
+|Sidebar_SubArc_2_Elv=13
+
+|Gallery=
+
+|InTheGame_pros=
+* High burst damage and fast shell cycling with the top 105mm gun
+* Excellent DPM, among the best in tier/class
+* Turret is covered in oddly angled armor, can lead to surprising ricochets
+* Good gun depression
+* Can be effective at ramming enemy vehicles
+
+|InTheGame_cons=
+* Poor gun handling and long aim time, fires faster than it can aim
+* Large size, poor overall armor profile and low camouflage rating, a glass cannon
+* Limited ammo capacity with the top gun, also does not have access to HE ammunition
+* Low top speed, fairly frustrating for a tank with such low armor
+* Painful stock grind, the stock gun is completely inadequate 
+
+|InTheGame_performance=
+You can carry a total of 36 rounds with the 105mm gun, in clips of four. A89 T54E1  The reload time between each round is 2. A89 T54E1 22 seconds with a 35 second drum reload, which is fast enough to not completely remove the tank from participation after the first burst during a heated firefight. A89 T54E1  The vehicle lacks HE rounds with top gun, limiting you to AP and APCR, which can be troublesome for damaging or de-tracking certain heavy targets. A89 T54E1  After the 1. A89 T54E1 9 tech tree changes which changed the vehicle's class from Medium to Heavy, the penetration was given a significant buff: 248 on the standard rounds (up from 210), with 310 on the APCR (up from 255). A89 T54E1  This puts it on par with same-tier heavy tanks, though it can still struggle to go through the heaviest of armor. A89 T54E1  In addition, while the aim time and accuracy are still poor, they are very much in line with the other Tier 9 heavy tanks. A89 T54E1  And with 4 shots of 390 damage in check, you are an even more effective second row tank; a flanking, lurking, spam-damage machine. A89 T54E1 
+
+However, just like the T69, you still need to operate either well out of the field, out on a flank, or lurk with a couple of big boys. A89 T54E1  Never go it alone somewhere that a flanking medium or mobile heavy can pick you off. A89 T54E1  A Obj. A89 T54E1  430U for example, will eat you for breakfast in a head-to-head. A89 T54E1  Sometimes you'll be heckled for not 'playing like a normal Heavy' - just ignore it - you're not a 'normal Heavy' at all. A89 T54E1  The significant height and size, coupled with 2nd-rated mobility will make your scouting or spearheading effort mostly suicidal!  Play it like a pocket heavy tank due to its synergetic effect with other brawlers. A89 T54E1 
+
+One thing that you might consider, if you have some pals with the same tank, is to mass-platoon three of them and stagger-fire, covering each other on the magazine reloads. A89 T54E1  The amount of metal coming out of a platoon of three that works closely together is insane. A89 T54E1  Arty will be all over you like a rash though, so keep mobile, use what agility you have and listen to that sweet sound of three 105mm cannons firing in rapid succession. A89 T54E1 
+
+|InTheGame_research=
+* Cross-branch research: the '''AN/GRC-7''' radio carries over from the T71 CMCD or M103. A89 T54E1  The '''Continental AV-1790-3''' engine carries over from the T29, and the '''Continental AV-1790-5B''' engine carries over from the M103. A89 T54E1  If available, these should be mounted immediately. A89 T54E1 
+* Nothing carries over from the T69. A89 T54E1 
+* First, purchase the Enhanced Suspension equipment, then research the '''105 mm Gun T140E2'''. A89 T54E1 
+* If you want to mount an additional piece of equipment, research the '''T54E1M2''' suspension. A89 T54E1 
+* Otherwise, research the '''Continental AV-1790-3''' and '''Continental AV-1790-5B''' engines for a slight boost to specific power. A89 T54E1 
+* Next, research the '''AN/GRC-7''' radio. A89 T54E1 
+* Finally, research the suspension if you haven't already. A89 T54E1 
+
+
+|InTheGame_equipment= Vertical Stabilizer, Vents, GLD, Coated Optics,
+
+
+|History=
+The T54 was a series of prototype American tanks of the 1950s with three different turrets, all armed with a 105mm gun, mounted on the M48 Patton chassis. A89 T54E1  The original T54 had a conventional turret with an autoloader, while the turret on T54E1 was of an oscillating design with an autoloader and the one on T54E2 was conventional with a human loader. A89 T54E1  The turret on T54E1 was similar to that of the T69 in its oscillating design and in that it held a crew of three and a nine-round drum autoloader under the gun. A89 T54E1  The T54E1 was abandoned in 1956 and in 1957 the entire project was cancelled in favor of the T95 medium tank. A89 T54E1 
+
+
+|HistoricalGallery=image:T54HG1. A89 T54E1 jpg
+image:T54HG2. A89 T54E1 jpg
+image:T54HG3. A89 T54E1 jpg
+image:T54HG4. A89 T54E1 jpg
+image:T54HG5. A89 T54E1 jpg
+
+
+|Ref_references= *https://en. A89 T54E1 wikipedia. A89 T54E1 org/wiki/T54_%28American_tank%29
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}
+
+[[Category:USA Tanks]]

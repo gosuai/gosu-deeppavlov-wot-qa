@@ -1,0 +1,70 @@
+{{TankData|Tank=Ch23_112
+|The 112 can be considered a tier 8 version of the [[Tank:Ch22 113|113]]. Ch23 112  They both have the same frontal armor, and are both armed with 122 mm guns that are well-suited for brawling. Ch23 112  The 112 is a tough nut to crack from the front, with very strong armor and no easily-hit weak spots. Ch23 112  Its 122 mm gun has good alpha damage, but is let down by sub-par penetration for tier 8, low accuracy, and a ''very'' slow rate of fire. Ch23 112  This, combined with its weak side and rear armor and sluggish turret traverse, makes the 112 extremely vulnerable to flanking. Ch23 112  All in all, it should be played in the same fashion as most Russian heavies of the same tier -- Getting in close, and using its tough frontal armor to brawl with enemy heavies. Ch23 112 
+
+This tank was removed from the Chinese tech tree and the Premium Shop in update 9. Ch23 112 15, but re-added in 9. Ch23 112 17. Ch23 112 1. Ch23 112 
+
+|Gallery=
+
+|InTheGame_pros=
+* Good alpha damage
+* Good viewrange
+* Tough frontal hull (both upper and lower) and turret face
+* Good top speed and decent ground resistance
+* Preferential matchmaking, will not see Tier 10 battles
+
+|InTheGame_cons=
+* Lower rate of fire than its counterpart [[WZ-111]]
+* Poor aimtime and accuracy
+* Penetration of standard rounds is fairly lacking
+* Side armor can be unreliable when sidescraping
+
+
+|InTheGame_performance=
+The 112 plays much like a highly exaggerated IS-6, with even stronger strengths and even weaker weak points. Ch23 112  It trades 20mm of side armor for an additional 20mm on its front, still heavily angled, giving it an effective armor of more than 250 mm at the front. Ch23 112  The turret is also extremely thick and very well angled, capable of shrugging off shots from even tier X guns. Ch23 112  However, the lower glacis is much weaker, capable of being pierced by almost anything that it will face. Ch23 112  Also, the upper plate relies entirely on sloping to provide protection; taller tanks (of which there's plenty, given the 112's low profile) will be able to shoot on it from above and thus dramatically reduce its effective thickness. Ch23 112  Face-hugging is ill-advised against such tanks. Ch23 112 
+
+The gun is a typical, modernized clone of the legendary 122mm D-25 series, featuring rack-blowing 390 damage, a rather poor 186mm of standard AP penetration and a good 530 damage HE shell for softer targets. Ch23 112  Despite the buff in accuracy from 0. Ch23 112 46 to 0. Ch23 112 44 in patch 1. Ch23 112 2, the gun still struggles in long range gunfights. Ch23 112  Continuing to force you to engage enemies at close ranges. Ch23 112  Of special note is that this gun has been modified to fire HEAT rounds: instead of 217mm APCR of the D-25T of Russian tanks, it fires 250mm penetration HEAT shells, capable of raining death and destruction when aimed properly. Ch23 112  Do remember that it is HEAT, and does not react well to being fired at spaced armor. Ch23 112  Avoid tracks, mantlets and Super Pershings like the plague, as they will simply absorb HEAT fire. Ch23 112  HEAT performs best when firing at thick, unsloped armor, where the lack of normalization has little effect. Ch23 112 
+
+The 112 is at home brawling in tight, enclosed spaces, where the thick, sloped frontal hull and very strong turret come into play and the infamous inaccuracy of the D-25TA is irrelevant. Ch23 112  Wiggle and angle your armor to maximize the chances of bouncing shots - simply add 15 degrees of angling and the frontal armor plate is auto bounce, even for massive 152mm guns!
+Overall, the 112 is a solid heavy tank meant for brutal, short-range combat typical of Soviet and Chinese heavies, where the thick armor dominates the field and inaccuracy of the D-25TA is reduced. Ch23 112 
+
+This vehicle received a significant armor buff when it was reworked in HD quality. Ch23 112  The lower frontal plate is no longe a weakspot, and the side armor is considerably thicker, though still kinda unreliable. Ch23 112 
+
+|InTheGame_research=
+Premium tank, none required
+
+|InTheGame_equipment=
+GLD,Vertical Stabilizer Mk 2,Large-Caliber Tank Gun Rammer,Improved Ventilation Class 3, CO2
+
+|External_Reviews=
+{{VideoYT|ud-esAasgqM}}
+
+|History=
+After the ties between the Soviet Union and Communist China began to break, China sought to develop a heavy tank which would be capable of fighting the T-10 and IS-3 tanks. Ch23 112  This lead to the development of several projects such as the 112. Ch23 112  Crew placement deviated from the Chinese standards and was more akin to that of the IS-2. Ch23 112  Because of the engine's size, it had to be mounted longitudinally as opposed to the standard transversely-mounted engines found in other Soviet and Chinese tanks. Ch23 112  Ammunition was stored on either side of the driver in the hull while additional fuel tanks were placed on the floor of the fighting compartment to increase the operational range of the 112 to up to 400 km. Ch23 112   A 120mm smoothbore cannon was planned to be the main armament. Ch23 112  However, some sources state that a 152mm cannon was also planned, but this is unlikely considering the industrial level of China at the time. Ch23 112 
+
+The 112 did not enter mass production because China's industrial capabilities could not support it. Ch23 112 
+
+
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://wot. Ch23 112 pcgames. Ch23 112 com. Ch23 112 cn/280/2805116. Ch23 112 html
+
+|Sidebar_Camostop=6. Ch23 112 63
+|Sidebar_Camomove=3. Ch23 112 31
+|Sidebar_Camofire=1. Ch23 112 29
+|Sidebar_Passhard=1. Ch23 112 055
+|Sidebar_Passmed=1. Ch23 112 151
+|Sidebar_Passsoft=2. Ch23 112 205
+|Sidebar_DispTurret=0. Ch23 112 134
+|Sidebar_DispRecoil=3. Ch23 112 836
+|Sidebar_DispAccel=0. Ch23 112 24
+|Sidebar_DispTurning=0. Ch23 112 24
+}}

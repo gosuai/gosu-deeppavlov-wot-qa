@@ -1,0 +1,177 @@
+{{TankData|Tank= 
+
+| The first Hungarian medium tank to be introduced in the game, the Turán III prototípus best performs as a mid-to-long range sniper with its decent accuracy and poor armor. G116 Turan III prot  It should be noted that this tank does not represent the final (and only) Turán III, but rather represents its wooden-turreted prototype as indicated by the name, as it lacks the extra 25 mm of bolted-on frontal hull armor and side-skirts. G116 Turan III prot 
+
+
+|Gallery=
+
+File:Turán III prototípus scr 1. G116 Turan III prot jpg
+File:Turán III prototípus scr 2. G116 Turan III prot jpg
+File:Turán III prototípus scr 3. G116 Turan III prot jpg
+File:Turán III prototípus render 1. G116 Turan III prot jpg
+
+
+|InTheGame_pros= 
+* High HP pool
+* Good hard gun stats: decent penetration, good rate of fire, acceptable accuracy
+* Decent ground resistances
+* Good gun depression (-10 degrees)
+* Physically small, not as large a target as other tier 5 mediums
+
+|InTheGame_cons=
+* Disastrously low ammo count--just 32 shells, barely 2 minutes of sustained fire
+* Low view range, must rely on others to spot for it
+* Mediocre traverses, weak engine make it sluggish and hard to maneuver
+* Weak armor, easily penetrated even by tier 3 tanks
+* No premium matchmaking--will meet tier 7 opponents
+
+|InTheGame_performance= 
+The Turan III exemplifies the stealthy German sniper ideal like few other tanks; with its thin armor and low view range, the tank does poorly on the front line and must stay in the second line to perform well. G116 Turan III prot  Its accuracy of . G116 Turan III prot 39 is on the better end of the scale for Tier V mediums, so it serves best at a medium range in order to avoid return fire and get the most out of its shallow 32-round ammo rack. G116 Turan III prot  Its penetration and damage values are good; while not as powerful as the American-built M1A1 76mm, it is still sufficient for the majority of targets the Turan III can expect to face. G116 Turan III prot 
+
+The main limitations of the tank are its low view range and mediocre agility; even the somewhat ungainly M4 can still out-turn it, meaning that the Turan III is not a brawler, and it should not be placed into situations where it has to fight enemies at close range. G116 Turan III prot  There are tier 3 lights with sufficient penetration and firepower to worry the Turan III, so it is far better to hang back and pick a spot somewhere between the tank destroyers and the scouts to engage the enemy. G116 Turan III prot  Fortunately, the Turan III has excellent HP and can survive a few hits, even from same-tier howitzers. G116 Turan III prot  Once tier 6 and 7 weaponry come into play, however, the Turan III's high hit points are hard to rely on. G116 Turan III prot  Its low weight and thin, flat armor mean that it is peculiarly vulnerable to ramming attacks. G116 Turan III prot 
+
+Compared to its competition with other tier V medium tanks using 75/76mm guns, it can claim good DPM and good aim time, better bloom control than most of its peers, and higher total health as its main advantages. G116 Turan III prot  However, it rates poor-to-average at best in all other categories, and thus has a much more difficult time 'carrying' games, even at its own tier. G116 Turan III prot  As a result, the Turan III needs spotters, teammates, and cooperation more than any other medium tank in its tier, even the Pz. G116 Turan III prot Kpfw T25. G116 Turan III prot  Coordinated play with a platoon can go a long way to offsetting its shortcomings. G116 Turan III prot 
+
+It is extremely vulnerable on its own and badly outclassed when bottom tier, as its flanking ability is lacking and it can expect to face same-tier light tanks with enough firepower to challenge the Turan III. G116 Turan III prot  Its inability to turn quickly means that a Chaffee or Leopard can effortlessly circle a lone Turan III and severely damage or destroy it. G116 Turan III prot  Stay with allies whenever possible and serve as an opportunistic marksman--deal a few quick, accurate shots at opponents and duck away before they can return the favor. G116 Turan III prot  Let larger allies absorb hits (Japanese heavies are great for this!) while you take 100-HP bites out of the enemy. G116 Turan III prot 
+
+Overall, this tank plays similarly to the Japanese mid-tier medium tanks, focuses on providing supportive fire at range than brawling and flanking. G116 Turan III prot 
+
+|InTheGame_research= 
+The Turan III is elite in its stock configuration. G116 Turan III prot 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Improved Ventilation, Binocular Telescope, Coated Optics, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+In January 1943, after the mass production of the 41M. G116 Turan III prot  Turán II medium tank with the short barreled 75mm L/25 gun has begun, the first combat experiences showed that unfortunately these vehicles did not have enough firepower and protection against the most up-to-date Russian tanks and anti-tank guns either, even after the upgrade from the 40mm cannon of the Turán I. G116 Turan III prot  However, the Hungarian troops needed continuous tank replenishment, so the Hungarian Ministry of Defence just could not halt the – more or less still obsolete – Turán II production. G116 Turan III prot 
+
+At first, to resolve this problem, the Hungarians tried to convince their ally, Germany, to sell manufactured tanks or the production rights for one of their most advanced tank designs, for example the Pz. G116 Turan III prot  Kpfw. G116 Turan III prot  IV Ausf. G116 Turan III prot  H or the Pz. G116 Turan III prot  Kpfw. G116 Turan III prot  V Panther. G116 Turan III prot  Of course, Germany was unwilling to sell manufactured tanks in large numbers to any of their allies, because in 1943, they nearly couldn’t even produce enough combat vehicles for their own purposes. G116 Turan III prot  They did not have any advanced tanks to spare. G116 Turan III prot 
+
+
+In the production rights/licence issue, Germany was also unwilling to sell any of their advanced designs, because on one hand, at that time, the Pz. G116 Turan III prot  IV H and Pz. G116 Turan III prot  V designs were still in an immature state – the Hungarian delegation visited Germany in April 1943, the month when the production of the Ausf H. G116 Turan III prot  started, and the first version of the Panther, the Ausf. G116 Turan III prot  D was just in production for a few months. G116 Turan III prot 
+
+On the other hand, even if the Hungarian military leaders didn’t want to admit it, Hungarian industry was not advanced enough to produce such a complicated vehicle as the Panther. G116 Turan III prot  Plus, complete switch to a new product would have halted the assembly lines for months and the Hungarian Army could not afford such outage. G116 Turan III prot 
+
+However, the Germans offered the production rights (with a horribly high price tag) for one of their earlier tank design, namely the license for the Pz. G116 Turan III prot  Kpfw. G116 Turan III prot  Ausf. G116 Turan III prot  F2, which was armed with the 7,5cm KwK 40 L/43 cannon. G116 Turan III prot  But the Hungarian Institute of Military Science (HTI) found the Ausf. G116 Turan III prot  F2 not enough, a „too little step ahead”, so the Hungarians decided to resolve the problem domestically. G116 Turan III prot  After the failed purchase, the Hungarian Military Leaderboard and the HTI decided (at least tried) to solve the problem of the missing powerful medium tank in two ways:
+
+- At first, to modify the existing Turán I and II design, or even already manufactured vehicle,s with additional (bolted on) armor plates and mounting a higher performance, long barrel 75mm cannon in a reshaped turret on them. G116 Turan III prot  This project became the Turán III. G116 Turan III prot 
+- In the meantime, while the factories manufacture the upgraded Turán, make a completely new, advanced tank design on their own, which could compete even against the most advanced enemy armour. G116 Turan III prot  This project resulted later the 44M. G116 Turan III prot  Tas medium tank. G116 Turan III prot 
+
+The original requirements for the modified Turán III were the following:
+
+- mount the new 75mm 43 M. G116 Turan III prot  L/55 cannon on the same turret of the Turán I and II. G116 Turan III prot 
+- bolt additional armour plates on the most critical points of the armour, to increase the protection of the vehicle. G116 Turan III prot  That means for example on the frontal armour plate: increase from 50 mm to 80 mm. G116 Turan III prot 
+- add factory mounted, perforated 8mm side-skirts against the Soviet anti-tank rifles
+- increase the engine performance if possible. G116 Turan III prot 
+
+However, because of the lack of resources and development time, not every modification could be carried out. G116 Turan III prot 
+
+The abovementioned 75mm 43 M. G116 Turan III prot  L/55 tank gun was already under development at that time, thanks to the 43M. G116 Turan III prot  Zrínyi I assault gun project, that carried this exact cannon too. G116 Turan III prot  It was the slightly modified licensed version of the German 7,5cm Pak 40, which the Germans sold to Hungary after long negotiations. G116 Turan III prot  However, its development was very slow, so only two pieces were ever made by the DIMÁVAG factory in December 1943 before the end of the war – one for the Zrínyi I prototype and an other for the Turán III prototype – because of the continous malfunctions of the prototype guns. G116 Turan III prot  One of these two guns was used for the factory trials of the 44M. G116 Turan III prot  Tas too. G116 Turan III prot 
+
+The long 75mm gun simply could not be fitted in the turret of the Turán I or Turán II, so the engineers had to design a new, bigger turret, which meant that the earlier Turán versions could not get the new cannon so easily. G116 Turan III prot  The new, redesigned turret’s wooden prototype was completed in September 1943 and it was tested with a wooden dummy gun on a Turán II chassis with 2H-012 license plate. G116 Turan III prot  The turret ring diameter didn’t change, but the turret itself became wider, longer (to balance the longer gun), and much higher than the earlier Turán turrets. G116 Turan III prot 
+
+The strangely high turret design came from an earlier stage plan, where the redesigned turret got an additional “elevated” commander cupola, so the commander could command the vehicle while he’s standing. G116 Turan III prot  This idea was later rejected, but the “elevated” commander cupola remained and this made the shape of the turret rather odd. G116 Turan III prot  The early wooden prototype turret differed from the later “would be serial” turret in one part. G116 Turan III prot 
+
+Plus, it didn’t have factory mounted side skirts, unlike the planned serial vehicle. G116 Turan III prot 
+
+Note: Some older books says that there was another prototype turret, which was more similar to the turret of the Turán II. G116 Turan III prot  This turret would have been able to carry one less (only 2 instead of 3) crew members because of the lack of inner space. G116 Turan III prot  However, no pictures or details about it have been found and newer books and articles didn’t say anything about this alternative turret, so this might be an incorrect information. G116 Turan III prot 
+
+To speed up the development, the thickness of the hull armour front plate and the gun mantlet was only increased from 50mm to 75 mm (25+25+25mm of bolted armor) instead of the desired 80. G116 Turan III prot  In addition, the thickness of the hull side armour, the frontal armour of the commander cupola and the turret side and rear armour were increased by a little bit as well. G116 Turan III prot  Unfortunately, the performance of original WM V-8H engine was not changed, because there was not enough time to develop it. G116 Turan III prot  And, because of the increased weight with the same engine, maximum speed decreased to 39 km/h. G116 Turan III prot 
+
+
+The first complete 43M. G116 Turan III prot  Turán III – also known as Turán 75 hosszú (=long) – prototype with the new turret, increased armor thickness, the long 75mm gun and additional 8mm thick side-skirts was finished in February 1944. G116 Turan III prot  However, because of the late war raw material shortage such as the necessary alloy elements and the decrease of production capacity due to the continuous Allied bombing runs against Hungarian industrial areas, no more Turán III tanks were ever created except that prototype even though some sources claim that another 4 or 5 Turán IIs were upgraded (up-armoured) to Turán IIIs, without the long 75mm gun. G116 Turan III prot 
+
+Sadly, the later fate of that Turán III is unknown. G116 Turan III prot 
+
+Characteristics:
+
+Name: 43M. G116 Turan III prot  Turán III (Turán 75 hosszú)
+Year: 1943-44
+Manufacturer: WM
+Crew: 5, Commander, Gunner, Driver, Radioman, Loader
+Combat weight: 21 t
+Combat weight with side-skirts: 23,3 t
+Ground pressure: 0,7 kp/cm2
+Ground pressure with side-skirts: 0,78 kp/cm2
+
+Engine: WM V-8H, 8 cylinders, 260 hp at 2200 r/m, 14866 cm3, petrol
+Power to weight ratio (with side-skirts): 12,4 hp/t
+Max speed forward: 39 km/h
+Max speed with side-skirts: 37 km/h
+
+Dimensions in mm:
+- Full lenght: 5530
+- Full lenght with barrel: 6860
+- Full width: 2440
+- Full width with side-skirts: 2650
+- Height with turret: 2655
+- Ground clearance: 380
+
+Armour: riveted, bolted
+- front: 75 mm
+- side, rear: 35 mm
+- top, bottom: 13 mm
+- side skirts: 8 mm from 580-600 mm of the side
+
+Turret: Turán III
+- turret lenght: 2280
+- turret width: 1980
+- turret height: 1125
+- turret ring diameter: 1700
+- mantlet armour: 75 mm
+- turret side armour: 35 mm
+- turret rear armour: 55 mm
+- commander cupola front armour: 60 mm
+- side-skirt: 8 mm from 250 mm of the turret side
+
+Guns:
+- 43 M. G116 Turan III prot  75mm L/55 tank gun (Licence built, modified version of the German 7,5cm Pak 40 cannon. G116 Turan III prot )
+muzzle velocity with AP: 770 m/s
+max. G116 Turan III prot  range: 7500-8600 m
+theoretical rate of fire: 12 shots/min
+recoil: 480-500mm
+vertical gun depression, elevation: -?°, +?° (no data)
+
+ammo: 32 shells,
+- 7,5cm 43 M. G116 Turan III prot  páncélgránát (AP);
+- 7,5cm 43 M. G116 Turan III prot  páncélrobbantógránát (HEAT);
+- 7,5cm 40 (40W) M. G116 Turan III prot  különleges német páncélgránát (=special German anti-armor round) (APCR);
+- 7,5cm 43 M. G116 Turan III prot  repeszgránát (HE)
+
+penetration with AP in 60°: 85mm/100m, 80mm/300m, 76mm/500m, 66mm/1000m
+penetration with AP in 90°: 113mm/100m, 106mm/300m, 101mm/500m, 88mm/1000m
+penetration with HEAT in 60°: 90mm @ any distance up to 1200m
+
+2x 34/40A M. G116 Turan III prot  Gebauer 8 mm machinegun, 3000 rounds (historical secondary armaments)
+
+Radios:
+- R/5a
+- R/4-T
+
+|HistoricalGallery= 
+File:Prototype_wooden_Turán_III_turret_with_a_mock-up_gun_on_a_Turán_II_chassis. G116 Turan III prot jpg{{!}}Prototype wooden Turán III turret with a mock-up gun on a Turán II chassis
+File:Drawings_of_the_Turán_III_with_side-skirts. G116 Turan III prot png{{!}}Drawings of the Turán III with side-skirts
+File:Differences_between_Turan_wooden_prototype_turret_vs_serial_turret. G116 Turan III prot png{{!}}Image depicting the difference between the wooden mock-up turret versus the planned serial turret
+File:Dismounted_Turán_III_prototype_turret. G116 Turan III prot png{{!}}Dismounted Turán III prototype turret
+File:Only_ever_built_turan_III. G116 Turan III prot png{{!}}The only ever built Turán III, with new turret, increased armor thickness, the long 75mm gun and additional 8mm thick side-skirts
+
+|Ref_references=
+
+|Ref_sources=
+* Bíró Ádám – Sárhidai Gyula: A Magyar Királyi Honvédség hazai gyártású páncélos harcjárművei 1914-1945. G116 Turan III prot  Budapest, 2012. G116 Turan III prot  191-193. G116 Turan III prot  217-220. G116 Turan III prot 
+* Bombay László – Gyarmati József – Turcsányi Károly: Harckocsik 1916-tól napjainkig. G116 Turan III prot  Budapest, 1999. G116 Turan III prot  101-102. G116 Turan III prot 
+* Bíró Ádám: A Turán II és III harckocsicsalád I. G116 Turan III prot  rész. G116 Turan III prot  In: Haditechnika 1995/3. G116 Turan III prot  65-70. G116 Turan III prot 
+* Bíró Ádám: A Turán II és III harckocsicsalád II. G116 Turan III prot  rész. G116 Turan III prot  In: Haditechnika 1995/4. G116 Turan III prot  60-68. G116 Turan III prot 
+* Bonhardt Attila – Sárhidai Gyula – Winkler László: A Magyar Királyi Honvédség fegyverzete. G116 Turan III prot  Kecskemét, 1992. G116 Turan III prot  92-93. G116 Turan III prot 
+* Bonhardt Attila: Az m. G116 Turan III prot  kir. G116 Turan III prot  honvédség páncélos fegyvernemének gerince: a „Turán” harckocsicsalád. G116 Turan III prot  In: Haditechnika 1986/1. G116 Turan III prot  36. G116 Turan III prot 
+* A 7,5 cm 40 M. G116 Turan III prot  páncéltörő- 7,5 cm 43 M. G116 Turan III prot  harckocsi- és 7,5 cm 43 M. G116 Turan III prot  roham-ágyú lőtáblázata. G116 Turan III prot  Budapest, 1944 June. G116 Turan III prot 
+
+|Ref_links=
+* https://ftr. G116 Turan III prot wot-news. G116 Turan III prot com/2014/06/04/hungarian-armor-part-7-turan-iii/
+
+}}

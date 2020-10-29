@@ -1,0 +1,50 @@
+{{TankData|Tank=SU-8
+|With this artillery, you can almost fire all the way across the map. R26 SU-8  Like most Soviet artillery, the SU-8 fires at a high arc, so it can hit tanks behind cover more effectively than its counterpart, the [[Hummel]]. R26 SU-8  It can also hide close in cover and be somewhat immune to counter-battery fire from low arcing shots. R26 SU-8  It is harder to hit moving targets with the SU-8 due to the significantly low shell velocity. R26 SU-8  The weapons available require more time to aim than those on earlier Soviet artillery. R26 SU-8  It does get the 152mm howitzer, which packs a punch that the earlier Soviet artillery lacked. R26 SU-8 
+
+|Gallery=
+image:SU8a. R26 SU-8 jpg{{!}}Front right
+image:Su8b. R26 SU-8 jpg{{!}}Front left
+image:SU8c. R26 SU-8 jpg{{!}}Rear right
+image:Su8d. R26 SU-8 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Gun range: both: 1350 m
+* Good vehicle accerelation
+* High ammo capacity
+* High gun arc
+
+|InTheGame_cons=
+* Horrible accuracy makes this arty useless after 8. R26 SU-8 6
+* Low vehicle traverse speed
+
+|InTheGame_performance= If you can hit the enemy's rear or sides, you can hit hard. R26 SU-8  Otherwise, you generally hit about "250 - 350". R26 SU-8  This SPG is a good improvement over the SU-122A because it has high ammo capacity and and improvements in gun arc, shell velocity, mobility, and general gun statistics. R26 SU-8  It has one of the fastest aim times of all the tier VI counterparts, so with the GLD, it aim will be lightning fast, a significant advantage. R26 SU-8  With higher ammo capacity, you can expect more shots, though still try to make every shot count due to the low accuracy, and with better range, you don't have to keep up with your team. R26 SU-8  If you need to relocate, the tank has an amazing 21 hp/t ratio and can easily relocate. R26 SU-8 
+
+|InTheGame_research=
+* The 12RT Radio carries over from the SU-122A. R26 SU-8  Mount it immediately. R26 SU-8 
+* First, research the SU-8 Bis Suspension. R26 SU-8 
+* Next, research the 152 mm Howitzer ML-20 mod. R26 SU-8  1931. R26 SU-8 
+* Now, research the M-17T Engine, followed by the M-17F Engine. R26 SU-8 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|History=
+The SU-8 is a variant of the [[T-28]]. R26 SU-8 
+
+In the interwar period, which created a number of projects of self-propelled light works, the SU-8 project was conceived. R26 SU-8  The project was a heavy self-propelled gun on the chassis of a medium tank, the T-28. R26 SU-8  The original chassis was retained as well as the rear engine section. R26 SU-8   But all the mechanical parts were stripped out and completely changed. R26 SU-8  Lafetovaný was a 76. R26 SU-8 2 mm caliber cannon, which was protected by the folding armored sides. R26 SU-8  The sides in the fight would be unfolded and thus allow the cannon to rotate sideways. R26 SU-8  
+
+Information regarding the prototype contain large uncertainties. R26 SU-8  Some sources claim that some were been built, and others that the project remained only on paper. R26 SU-8  Work on the project started in 1932 under the leadership of prof. R26 SU-8  FLChlystova in the research department of the artillery academy. R26 SU-8  The reason for cancellation of the project was the attenuation of the production T-28. R26 SU-8 
+
+|HistoricalGallery=
+
+
+
+|Ref_references=
+* Russian Tanks and Armored Vehicles 1917-1945, by Wolfgang Fleischer, 1999
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

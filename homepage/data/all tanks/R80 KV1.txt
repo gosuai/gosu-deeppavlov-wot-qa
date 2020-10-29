@@ -1,0 +1,309 @@
+{{TankData|Tank=KV1
+|Most novice players will find the KV-1's playing style significantly different from what they are used to, having just come out of the [[T-28]] medium tank. R80 KV1  At stock, armed with the adequate 76mm ZiS-5, it is very slow, and certainly not agile. R80 KV1  Consider mounting the 57mm 413 if you enjoy a fast fire rate with decent penetration. R80 KV1  The KV-1 with the 122mm U-11 gun firing HE shells can be a surprisingly fun tank to play, but don't expect to be doing much when you get thrown in with the big boys battles. R80 KV1 
+
+It's one of the tanks new players should definitely learn to kill as the same weak spots are shared with other tanks in the KV family. R80 KV1  Frontal weak-spots include the flat plate directly below the turret and the lower plate below the heavily sloped mid section, and shots to the side and rear will penetrate the flat 60mm armoring fairly consistently. R80 KV1  
+
+This tank used to be combined with the [[KV-2]] in the removed KV tank. R80 KV1 
+
+|InTheGame_pros=
+* Can choose between three good guns that offer completely different styles of play with good DPM and RoF for each. R80 KV1 
+* Excellent armor for its tier on the front and on the sides; with 110mm thick nearly impenetrable rounded upgrade turret. R80 KV1  
+* Good at sidescraping, but mediocre reverse angling due to engine. R80 KV1  Upper front glacis is very bouncy if the enemy doesn't aim. R80 KV1 
+* 122mm U-11 howitzer relatively consistent penetration on low tiers and can one-shot, still capable against higher tiers. R80 KV1 
+* 85mm has excellent fire rate, penetration, and damage, especially for its tier. R80 KV1 
+
+|InTheGame_cons=
+* Slow acceleration, and otherwise poor maneuverability: often an easy priority target for SPGs. R80 KV1  
+* Top speed and strategic mobility is acceptable but lower than IS-line. R80 KV1 
+* Really bad view range (gets sniped easily by invisible tanks outside of range)
+* Slow aiming time on large guns; especially 122mm howitzer, with low accuracy and long reload time to boot. R80 KV1 
+* Frontal weakspots. R80 KV1 
+ 
+|InTheGame_performance=
+The KV-1 is one of the most popular tanks in the game. R80 KV1  Its thick armor, generous gun selection, and easy-to-learn play style make it one of the best starter tanks and allow it to easily dominate in the hands of a skilled player. R80 KV1  In real life, the KV-1 was designed to be a nigh-invulnerable spearhead in assaults against heavily defended areas, and this is reflected in World of Tanks. R80 KV1  The KV-1 boasts very thick all-around hull armor, and a turret that seems even tougher due to its naturally curved shape. R80 KV1  This allows it to [[Tactics#Sidescraping. R80 KV1 2FReverse_angling|sidescrape]] with ease and withstand serious beatings. R80 KV1  Note that sidescraping is actually highly recommended here, as the KV-1's armor, while thick, is also flat when faced from the front and greatly benefits from angling. R80 KV1  The KV-1 also offers a generous selection of guns: a rapid-firing and highly accurate 57mm, an extremely powerful but relatively unreliable 122mm howitzer, or a hard-hitting 85mm which mediates between the two. R80 KV1  
+
+The only downside to the KV-1's guns are their slow aiming speeds, as shells will be reloaded before the gun is fully aimed. R80 KV1  Furthermore, the KV-1 is very slow and turns sluggishly, which can make it vulnerable especially against higher-tiered opponents. R80 KV1  However, don't let that dissuade you as the remarkable penetration of the gun means that as long as the KV-1 is one the field, even in a tier VII game, it is capable of still making a difference. R80 KV1 
+
+The KV-1 has excellent guns and armor for its tier which allow it to heavily dominate tanks at and below its tier. R80 KV1  It's tough, fun, powerful, easy-to-learn, and a great choice as a starter heavy tank. R80 KV1  The KV-1 is a keeper for many, and with good reason. R80 KV1 
+
+|InTheGame_research=
+* Oddly, the M-17F engine carries over from the T-28, even though they're completely different vehicles. R80 KV1  Install it immediately. R80 KV1 
+* The stock suspension can't handle the weight of the second turret, so your choice to start with is between the suspension and the 57mm 413 gun. R80 KV1  The added maneuverability from upgrading the suspension will also make the tank more comfortable to play with, while the 57mm is an excellent choice for fire support if the 122 mm is too close-ranged for your play style. R80 KV1 
+* Whatever you choose to research from the line above, once you research the suspension, you can then research the 122mm howitzer or proceed to the second turret, making the 85mm F-30 gun available. R80 KV1  
+* Be sure to research the 10RK radio before moving on. R80 KV1 
+* You'll have to research the V-2K engine if you want to get the KV-1S and it can also be used on the KV-2. R80 KV1  It is however not necessary for the T-150. R80 KV1  
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Toolbox
+
+|Gallery=
+image:KV-1-a. R80 KV1 jpg{{!}}Front right
+image:KV-1-b. R80 KV1 jpg{{!}}Front left
+image:KV-1-c. R80 KV1 jpg{{!}}Rear right
+image:KV-1-d. R80 KV1 jpg{{!}}Rear left
+
+|HistAcc=
+Two of the KV-1's historical armaments, the [[Gun/USSR#76 mm L-11|76 mm L-11]] and [[Gun/USSR#76 mm F-32|76 mm F-32]], are missing. R80 KV1  KV-1s armed with the L-11 were designated [https://upload. R80 KV1 wikimedia. R80 KV1 org/wikipedia/commons/9/90/Kv1_m39. R80 KV1 jpg Model 1939], while the F-32 version was designated [https://www. R80 KV1 worldwarphotos. R80 KV1 info/wp-content/gallery/ussr/tanks/kv-1/kv-1-104. R80 KV1 jpg Model 1940] (or KV-1A in German service). R80 KV1 
+* KV-1s fitted with the cast turret were only armed with the ZiS-5 gun. R80 KV1  The other gun configurations are fake. R80 KV1 
+* [https://www. R80 KV1 super-hobby. R80 KV1 com/zdjecia/2/8/1/1129_1. R80 KV1 jpg Applique armor] for the turret is missing. R80 KV1  This variant was known as the Model 1940 s ekranami ("with screens") or KV-1E. R80 KV1 
+* Historical [[Gun/Germany#7,5 cm KwK 40 L/43|7,5 cm KwK 40 L/43]] gun is missing. R80 KV1  This modification was done by the Germans on a KV-1 Model 1942 and was designated Pz. R80 KV1 Kpfw KV-1B 756(r). R80 KV1 
+* The 57 mm Project 413 was designed for the KV-1S, not the KV-1. R80 KV1  Furthermore, it never reached prototype stage. R80 KV1 
+* The 122 mm U-11 gun was designed for the KV-9 in a different turret. R80 KV1 		 
+* The 85 mm F-30 gun was designed for the KV-220 in an englarged turret. R80 KV1  Another 85 mm gun, the 85 mm ZIS-25, was designed to fit in the standard KV-1, but a prototype was never made. R80 KV1 
+* Has the same ZiS-5 gun as the [[KV-220-2]]. R80 KV1  However, their penetration values are inconsistent. R80 KV1 
+
+|History=
+[[image:KV1 model 1940 s ekranami (with appliqué), or KV1-E. R80 KV1  The slogan on the turret side reads Victory will be ours. R80 KV1 jpg|thumb|200px|left|KV1 model 1940 s ekranami (with appliqué), or KV1-E. R80 KV1  The slogan on the turret side reads "Victory will be ours. R80 KV1 "]]The Kliment Voroshilov (KV) tanks were a series of Soviet Heavy tanks, named after the Soviet defense commissar and politician Kliment Voroshilov. R80 KV1  The KV series were known for their extremely-heavy armor protection during the early war, especially during the first year of the invasion of the Soviet Union in World War II. R80 KV1  Almost completely immune to the 7. R80 KV1 5 cm KwK 37 and 3. R80 KV1 7 cm KwK 36 guns mounted on the early Panzer III and Panzer IV tanks, until better guns were developed, often the only way to defeat a KV was a point-blank shot to the rear. R80 KV1  Prior to the invasion, about 500 of the over 22,000 tanks in Soviet service at the time were of the KV-1 type. R80 KV1  When the KV-1 appeared, it outclassed the French Char B1, the only Heavy tank used in the world at that time. R80 KV1  Yet, in the end, it turned out that there was little sense in producing the expensive KV tanks, as the T-34 medium tank performed better (or at least equally) in all practical respects. R80 KV1  Later in the war, the KV series have become a base of development of the excellent Iosif Stalin tank. R80 KV1 
+
+== Development ==
+After disappointing results with the multi-turreted T-35 Heavy tank, Soviet tank designers started drawing up replacements. R80 KV1  The T-35 conformed to the 1920s notion of a 'breakthrough tank' with very-heavy firepower and armor protection, but poor mobility. R80 KV1  The Spanish Civil War demonstrated the need for much-heavier armor on tanks, and was the main influence on Soviet tank design just prior to World War II. R80 KV1  Several competing designs were offered, and even more were drawn up prior to reaching prototype stage. R80 KV1  All had heavy armor, torsion-bar suspension, wide tracks, and were of welded and cast construction. R80 KV1  One of the main competing designs was the SMK, which lowered the number of turrets from the T-35's five to two, mounting the same combination of 76. R80 KV1 2 mm and 45 mm weapons. R80 KV1  When two prototypes were ordered though, it was decided to create one with only a single turret, but more armor. R80 KV1  This new single-turret tank was the KV. R80 KV1  The smaller hull and single turret enabled the designer to install heavy frontal and turret armor while keeping the weight within manageable limits. R80 KV1 [[image:KV-Trials-bw. R80 KV1 jpg|thumb|200px|right|KV-1 On trials]]
+When the Soviets entered the Winter War, the SMK, KV, and a third design, the T-100, were sent to be tested in combat conditions. R80 KV1  The heavy armor of the KV proved highly-resistant to Finnish anti-tank weapons, making it more effective than the other designs. R80 KV1  It was soon put into production, both as the original 76-mm-armed KV-1 Heavy Tank and the 152 mm howitzer-mounting assault gun, the KV-2 Heavy Artillery Tank. R80 KV1 
+The KV's strengths included armor that was impenetrable by any tank-mounted weapon then in service except at point-blank range, good firepower, and good traction on soft ground. R80 KV1  It also had serious flaws: it was difficult to steer, the transmission was unreliable, and the ergonomics were poor, with limited visibility and no turret basket. R80 KV1  Furthermore, the 45-ton KV was simply too heavy. R80 KV1  This severely impacted the maneuverability, not so much in terms of maximum speed, but in its inability to cross many bridges that medium tanks could cross. R80 KV1  The KV outweighed most other tanks of the era, being about twice as heavy as the heaviest contemporary German tank. R80 KV1  KVs were never equipped with a snorkeling system to ford rivers on the bottom, so they had to be left to travel to an adequate bridge. R80 KV1  As applique armor and other improvements were added without increasing engine power, and later models were less capable of keeping up to speed with medium tanks and had more trouble with difficult terrain. R80 KV1 
+
+<table  style="border: 1px solid;text-align:left;float:right">
+<caption>Soviet Heavy tanks of World War II (Zaloga &amp; Grandsen 1984:119, 176)</caption>
+<tr style="vertical-align:top; border-bottom:1px solid #999;">
+<th></th>
+<th style="text-align:left;">T-35</th>
+<th style="text-align:left;" width="8%">T-100</th>
+<th style="text-align:left;" width="8%">SMK</th>
+
+<th style="text-align:left;" width="8%">KV-1<br />
+M1940</th>
+<th style="text-align:left;" width="8%">KV-1<br />
+M1941</th>
+<th style="text-align:left;" width="8%">KV-1<br />
+M1942</th>
+<th style="text-align:left;" width="8%">[[KV-1S]]<br />
+M1942</th>
+<th style="text-align:left;" width="8%">KV-85<br />
+
+M1943</th>
+<th style="text-align:left;" width="8%">[[IS]]-2<br />
+M1945</th>
+<th style="text-align:left;" width="8%">[[IS-3]]<br />
+M1945</th>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Crew</th>
+
+<td>11</td>
+<td>7</td>
+<td>7</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+
+<td>4</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Weight</th>
+<td>45 t</td>
+<td>58 t</td>
+<td>55 t</td>
+<td>43 t</td>
+<td>45 t</td>
+
+<td>47 t</td>
+<td>42. R80 KV1 5 t</td>
+<td>46</td>
+<td>46 t</td>
+<td>46. R80 KV1 5 t</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Gun</th>
+<td>76. R80 KV1 2&#160;mm<br />
+
+M. R80 KV1  27/32</td>
+<td>76. R80 KV1 2&#160;mm<br />
+L-11</td>
+<td>76. R80 KV1 2&#160;mm<br />
+L-11</td>
+<td>76. R80 KV1 2&#160;mm<br />
+F-32</td>
+
+<td>76. R80 KV1 2&#160;mm<br />
+F-34</td>
+<td>76. R80 KV1 2&#160;mm<br />
+ZiS-5</td>
+<td>76. R80 KV1 2&#160;mm<br />
+ZiS-5</td>
+<td>85&#160;mm<br />
+
+D-5T</td>
+<td>122&#160;mm<br />
+D-25T</td>
+<td>122&#160;mm<br />
+D-25T</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Ammunition</th>
+<td>100 rds. R80 KV1 </td>
+
+<td>–</td>
+<td>–</td>
+<td>111</td>
+<td>111</td>
+<td>114</td>
+<td>114</td>
+<td>70</td>
+<td>28</td>
+<td>28</td>
+
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Secondary armament</th>
+<td>2×45&#160;mm,<br />
+5×7. R80 KV1 62&#160;mm</td>
+<td>45&#160;mm</td>
+<td>45&#160;mm</td>
+<td>2×DT</td>
+
+<td>4×DT</td>
+<td>4×DT</td>
+<td>4×DT</td>
+<td>3×DT</td>
+<td>2×DT, DShK</td>
+<td>2×DT, DShK</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Engine</th>
+
+<td>500&#160;hp<br />
+M-17M gasoline</td>
+<td>500&#160;hp</td>
+<td>850&#160;hp<br />
+AM-34</td>
+<td>600&#160;hp<br />
+
+V-2K diesel</td>
+<td>600&#160;hp<br />
+V-2</td>
+<td>600&#160;hp<br />
+V-2</td>
+<td>600&#160;hp<br />
+V-2</td>
+
+<td>600&#160;hp<br />
+V-2</td>
+<td>600&#160;hp<br />
+V-2</td>
+<td>600&#160;hp<br />
+V-2-IS</td>
+</tr>
+<tr style="vertical-align:top;">
+
+<th style="text-align:left;">Fuel</th>
+<td>910 L</td>
+<td>–</td>
+<td>–</td>
+<td>600 L</td>
+<td>600 L</td>
+<td>600 L</td>
+<td>975 L</td>
+
+<td>975 L</td>
+<td>820 L</td>
+<td>520 + 270 L</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Road&#160;speed</th>
+<td>30 km/h</td>
+<td>35&#160;km/h</td>
+
+<td>36&#160;km/h</td>
+<td>35&#160;km/h</td>
+<td>35&#160;km/h</td>
+<td>28&#160;km/h</td>
+<td>45&#160;km/h</td>
+<td>40&#160;km/h</td>
+
+<td>37&#160;km/h</td>
+<td>37&#160;km/h</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Road&#160;range</th>
+<td>150&#160;km</td>
+<td>–</td>
+<td>150&#160;km</td>
+
+<td>335&#160;km</td>
+<td>335&#160;km</td>
+<td>250&#160;km</td>
+<td>250&#160;km</td>
+<td>250&#160;km</td>
+<td>240&#160;km</td>
+
+<td>150 (225) km</td>
+</tr>
+<tr style="vertical-align:top;">
+<th style="text-align:left;">Armour</th>
+<td>11–30&#160;mm</td>
+<td>20–70&#160;mm</td>
+<td>20–60&#160;mm</td>
+<td>25–75&#160;mm</td>
+
+<td>30–90&#160;mm</td>
+<td>20–130&#160;mm</td>
+<td>30–82&#160;mm</td>
+<td>30–160&#160;mm</td>
+<td>30–160&#160;mm</td>
+<td>20–220&#160;mm</td>
+
+</tr>
+</table>
+
+
+== Improvements ==
+[[image:KV-1 heavy tank trials Kill the fascist toad conducting exercises on crossing antitank and natural obstacles Reserve Front 43rd Army 109th Tank Division Sep. R80 KV1  1941. R80 KV1 jpg|thumb|200px|left|KV-1 Heavy tank trials on crossing antitank and natural obstacles. R80 KV1  Reserve Front 43rd Army 109th Tank Division Sep. R80 KV1  1941. R80 KV1  The sign on the turret translates as "Kill the fascist"]]
+By 1942, when the Germans were fielding large numbers of long-barrelled 50 mm and 75 mm guns, the KV's armor was no longer invincible. R80 KV1  The KV-1's side, top, and turret armor could also be penetrated by the high-velocity MK 101 carried by German ground attack aircraft such as the Henschel Hs 129, requiring the installation of additional field-expedient appliqué armor. R80 KV1  The KV-1's 76. R80 KV1 2 mm gun also came in for criticism. R80 KV1  While adequate against all German tanks, it was the same gun as carried by smaller, faster, and cheaper T-34 medium tanks. R80 KV1  In 1943, it was determined that this gun could not penetrate the frontal armor of the new Tiger, the first German Heavy tank, fortunately captured near Leningrad. R80 KV1  The KV-1 was also much more difficult to manufacture and thus, more expensive than the T-34. R80 KV1  In short, its advantages no longer outweighed its drawbacks. R80 KV1 
+Nonetheless, because of its initial superior performance, the KV-1 was chosen as one of the few tanks to continue being built following the Soviet reorganization of tank production. R80 KV1  Due to the new standardization, it shared the similar engine (the KV used a 600 hp V-2K modification of the T-34's V-2 diesel engine) and gun (the KV had a ZiS-5 main gun, while the T-34 had a similar F-34 main gun) as the T-34, was built in large quantities, and received frequent upgrades. R80 KV1 
+When production shifted to the Ural Mountains 'Tankograd' complex, the KV-2 was dropped. R80 KV1  While impressive on paper, it had been designed as a slow-moving bunker-buster. R80 KV1  It was less useful in the highly-mobile, fluid warfare that developed in World War II. R80 KV1  The turret was so heavy it was difficult to traverse on non-level terrain, and it was expensive to produce. R80 KV1  Only about 250 KV-2s were made, all in 1940-41, making it one of the rarer Soviet tanks. R80 KV1 
+As the war continued, the KV-1 continued to get more armor to compensate for the increasing effectiveness of German weapons. R80 KV1  This culminated in the KV-1 model 1942 (German designation KV-1C), which had very heavy armor, but lacked a corresponding improvement to the engine. R80 KV1  Tankers complained that although they were well-protected, their mobility was poor and they had no firepower advantage over the T-34 medium tank. R80 KV1  In response to criticisms, the lighter KV-1S (Russian language: КВ-1С) was released, with thinner armor and a smaller, lower turret in order to reclaim some speed. R80 KV1  Importantly, the KV-1S also had a commander's cupola with all-around vision blocks, a first for a Soviet Heavy tank. R80 KV1  However, the thinning-out of the armor called into question why the tank was being produced at all, when the T-34 could seemingly do everything the KV could do and much more cheaply. R80 KV1  The Soviet Heavy tank program was close to cancellation in mid-1943. R80 KV1  
+The appearance of the German Panther tank in the summer of 1943 convinced the Red Army to make a serious upgrade of its tank force for the first time since 1941. R80 KV1  Soviet tanks needed bigger guns to take on the growing numbers of Panthers and the few Tigers. R80 KV1 
+A stopgap upgrade to the KV series was the short-lived KV-85 or Objekt 239. R80 KV1  This was a KV-1S with a new turret designed for the IS-85, mounting the same 85 mm D-5T gun as the SU-85 and early versions of the T-34-85. R80 KV1  Already-high demand for the gun slowed production of the KV-85 tremendously, and only 148 were built before the KV design was replaced. R80 KV1  The KV-85 was produced in the fall and winter of 1943-44; they were sent to the front as of September 1943, and production of the KV-85 was stopped by the spring of 1944 once the IS-2 entered full scale production. R80 KV1 
+
+== Combat History ==
+
+'''Raseiniai'''
+[[image:German officers are examining the damaged Soviet KV-1 heavy tank screened with additional armor It probably belonged to the 101st Tank Division. R80 KV1  Western Front, executive. R80 KV1 jpg|thumb|200px|left|German officers are examining the damaged Soviet KV-1 Heavy tank screened with additional armor. R80 KV1  It probably belonged to the 101st Tank Division. R80 KV1 ]]
+When Operation Barbarossa began, the Red Army was equipped with 508 new KV tanks. R80 KV1  Its armor was so effective that the Germans were incapable of destroying it with their tanks or anti-tank weapons, and had to rely on air support and 88 mm anti-aircraft artillery (flak) or 105 mm howitzers to knock them out. R80 KV1  Most of these tanks, and the effective T-34s, were parcelled out to units in small numbers and poorly supplied, but at the Battle of Raseiniai they were used to good effect. R80 KV1  On 23–24 June, a single KV-2 effectively pinned down elements of the German 6th Panzer Division for a full day at the bridgeheads of the Dubysa River below Raseiniai, Lithuania, playing a prominent role in delaying the advance of Panzergruppe 4 on Leningrad until it ran out of ammunition and the crew was forced to abandon the tank and withdraw. R80 KV1 
+According to Panzer Operations, however, the tank (said to be a KV-1), after destroying several antitank guns, their crews, and an 88 mm flak gun, was hit repeatedly with rounds from another 88 mm gun. R80 KV1  The crew was knocked unconscious, and recovered only to be killed by an exploding grenade. R80 KV1  They were buried with full honors, uncommon for other troops. R80 KV1  The English version indicates that Erhard Raus, the author, may have mistaken similar events and people, so this may be an error. R80 KV1 
+
+'''Krasnogvardeysk'''
+[[image:Wrecked KV-1 tank, Stalingrad, Russia, Aug 1942, photo 1 of 3. R80 KV1 jpg |thumb|200px|right| Wrecked KV-1 tank, Stalingrad, Russia, Aug 1942. R80 KV1  Note the multipule hit marks on the tanks hull and turret. R80 KV1 ]]
+On August 14, 1941, the vanguard of the German 8th Panzer Division approached Krasnogvardeysk (Gatchina) near Leningrad (St Petersburg), and the only Soviet force available at the time to attempt to stop the German advance consisted of five well-hidden KV-1 tanks, dug in within a grove at the edge of a swamp. R80 KV1  KV-1 tank no. R80 KV1  864 was commanded by the leader of this small force, Lieutenant Zinoviy Kolobanov. R80 KV1 
+German forces attacked Krasnogvardeysk from three directions. R80 KV1  Near Noviy Uchkhoz settlement the geography favored the Soviet defenders as the only road in the region passed the swamp, and the defenders commanded this choke point from their hidden position. R80 KV1  Lieutenant Kolobanov had carefully studied the situation and readied his detachment the day before. R80 KV1  Each KV-1 tank carried twice the normal amount of ammunition, two-thirds being armor-piercing rounds. R80 KV1  Kolobanov ordered his other commanders to hold their fire and await orders. R80 KV1  He did not want to reveal the total force, so only one exposed tank at a time would engage the enemy. R80 KV1 
+On August 14, the German 8th Panzer Division's vanguard ventured directly into the well-prepared Soviet ambush, with Kolobanov's tank knocking out the lead German tank with its first shot. R80 KV1  The Germans falsely assumed that their lead tank had hit an anti-tank mine, and failed to realize that they had been ambushed. R80 KV1  The German column stopped, giving Kolobanov the opportunity to destroy the second tank. R80 KV1  Only then did the Germans realize they were under attack, but they failed to find the source of the shots. R80 KV1  While the German tanks were firing blindly, Kolobanov knocked out the trailing German tank, thus boxing in the entire column. R80 KV1 
+Although the Germans correctly guessed the direction of fire, they could only spot Lieutenant Kolobanov's tank, and now attempted to engage an unseen enemy. R80 KV1  German tanks moving off the road bogged down in the surrounding soft ground, becoming easy targets. R80 KV1  22 German tanks and 2 towed artillery pieces fell victim to Kolobanov's No. R80 KV1  864 before it ran out of ammunition. R80 KV1  Kolobanov ordered in another KV-1, and 21 more German tanks were destroyed before the half-hour battle ended. R80 KV1  A total of 43 German tanks were destroyed by just five Soviet KV-1s (two more remained in reserve). R80 KV1 [[image:KV1 tank bw. R80 KV1 jpg |thumb|200px|left| A KV-1, on the Eastern front being examined by a German panzer officer]]
+After the battle, the crew of No. R80 KV1  864 counted a total of 135 hits on their tank, none of which had penetrated the KV-1's armor. R80 KV1  Lieutenant Kolobanov was awarded the Order of Lenin, while his driver Usov was awarded the Order of the Red Banner. R80 KV1  Later on, former Captain Zinoviy Kolobanov was again decorated by Soviet authorities, despite having been convicted and downgraded after the Winter War for "fraternizing with the enemy. R80 KV1 " After the end of World War II, Lieutenant Kolobanov served in the Soviet occupation zone in East Germany, where he was convicted again when a subordinate escaped to the British occupation zone, and was transferred to the reserves. R80 KV1 
+The battle for Krasnogvardeysk was covered up by Soviet propaganda. R80 KV1  A monument dedicated to this battle was installed in the village of Noviy Uchkhoz in 1980, at the place where Kolobanov's KV-1 was dug in, due solely to the demands of the villagers. R80 KV1  Unfortunately, it was impossible to find a KV-1 tank, so an IS-2 Heavy tank was installed there instead. R80 KV1 
+The Soviet victory was the result of a well-planned ambush in advantageous ground and of technical superiority. R80 KV1  Most of the German tanks in this battle were Panzer IIs, armed with 20 mm guns, and a few Panzer IIIs armed with 37 mm KwK 36 L/46. R80 KV1 5 guns. R80 KV1  The German tank guns had neither the range nor the power of the 76 mm main gun of a KV-1, and the narrower track width of the German tanks caused them to become trapped in the swampy ground. R80 KV1 
+{{VideoYT|Kp3uWZnXS-I}}
+
+|HistoricalGallery=
+image:KV1 lifted. R80 KV1 jpg{{!}}KV-1 tank lifted from the bottom of the Neva river in 2003. R80 KV1  The tank was fresh out of the factory, even unpainted when his barge was sunk from German artilery. R80 KV1 
+image:German soldiers examining hit KV-1 tank (with extra armor). R80 KV1  Leningrad's Front, September 1941. R80 KV1 jpg{{!}}German soldiers examining hit KV-1 tank (with extra armor). R80 KV1  Leningrad's Front, September 1941
+image:A destroyed Soviet KV-1 in Olonets, September 1941 during the Continuation War. R80 KV1 jpg{{!}}A destroyed Soviet KV-1 in Olonets, September 1941 during the Continuation War. R80 KV1 
+image:A KV-1 on fire, knocked out near Voronezh in 1942. R80 KV1 . R80 KV1 jpg{{!}}A KV-1 on fire, knocked out near Voronezh in 1942. R80 KV1 
+image:Russian KV-1 Model 1939 . R80 KV1 jpg{{!}}KV-1 Model 1939
+File:KV-9. R80 KV1 jpg{{!}}KV-9
+File:KV-9_side. R80 KV1 jpg{{!}}KV-9 from the side
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. R80 KV1 wikipedia. R80 KV1 org/wiki/KV_tank
+* https://tankarchives. R80 KV1 blogspot. R80 KV1 com/2017/07/howitzer-kv. R80 KV1 html
+* https://tankarchives. R80 KV1 blogspot. R80 KV1 com/2017/07/big-gun-for-small-turret. R80 KV1 html
+
+}}
+
+[[Category:USSR Tanks]]

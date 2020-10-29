@@ -1,0 +1,68 @@
+{{TankData|Tank=Ch03_WZ-111
+|
+
+|Gallery=
+
+|InTheGame_pros=
+
+ * Good alpha damage
+ * Very strong turret armor and preangled, bouncy upper glacis
+ * Very good top speed for a heavy tank
+ * Preferential matchmaking (won't see Tier 10 matches)
+ * Ideal crew trainer for the Chinese heavy tank line
+
+|InTheGame_cons=
+
+* Low penetration
+* Bad gun depression
+* Subpar accuracy and aim time
+* Lower side armor (behind the tracks) is only 80mm thick
+* Frequent fuel tank, ammo rack and engine critical damage
+
+
+|InTheGame_performance=
+This tank plays more or less like an IS3 but with the stock 122 mm gun. Ch03 WZ-111  
+Due to low accuracy you need to stay close to the combat. Ch03 WZ-111  Strong armor usually bounce most of 7-8 HT's shells but TD's and 9 tiers can easily penetrate you and damage the ammo-rack. Ch03 WZ-111  Try not to angle the hull too much on the WZ-111 as it is a pike nose; thus it will only weaken the strength of the upper plate. Ch03 WZ-111  In addition, by reducing the angle you deny the enemy shots at your weak side armour. Ch03 WZ-111  This gives the WZ-111 an advantage over the other Chinese premium heavy, the [[112]], which needs to be angled more due to its flat front armour. Ch03 WZ-111 
+
+|InTheGame_research=
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Vents, "Wet" Ammo Rack, GLD, Toolbox
+
+|History=
+The WZ-111 was a Chinese attempt to improve upon the Soviet T-10 heavy tank development. Ch03 WZ-111  Once completed, WZ-111 was supposed to replace all Soviet made IS-2 and IS-3 tanks in PLA service . Ch03 WZ-111  However, due to the design shortcomings, only one prototype was completed before the fall of 1964 when development was cancelled. Ch03 WZ-111  
+
+==Design features==
+Flaws that were found during initial tests including a heavy and very cramped turret interior, insufficient armor on the hull, and  a weak and unreliable engine that was struggling to propel the overall mass of the vehicle. Ch03 WZ-111  Most of the technology used in the WZ-111 were copies of earlier, close to obsolete Soviet solutions. Ch03 WZ-111  Turret design was cast steel with welds on the roof area fitted with two crew hatches and a commander's periscope. Ch03 WZ-111   Suspension consisted of seven road wheels with internal shock absorbers, three support rollers, and a drive sprocket positioned at the rear with a removable ring gear and guide wheel. Ch03 WZ-111  The transmission was similar to the one in the IS series, and featured a multi-disc dry main clutch, eight gear transmission with dual, planetary rotation mechanism, and a final drive. Ch03 WZ-111  The engine was a Chinese made unlicensed copy of the B11 diesel, with the maximum power output at 520 horsepower. Ch03 WZ-111  Maximum speeds achieved during tests was 35 km/h. Ch03 WZ-111  The body was made from welded plates, with a thickness of 13, 120, 90 and 60 mm. Ch03 WZ-111  The test prototype was preserved and today is placed on permanent display in the Chinese Tank Museum located near Beijing. Ch03 WZ-111 
+
+|HistAcc=
+Engine is considerably more powerful than in reality, with 600 hp compared to the historical 520. Ch03 WZ-111 
+*Actual top speed is 35 km/h. Ch03 WZ-111  In World of Tanks, however, the WZ-111 can reach speeds of up to 50 km/h. Ch03 WZ-111 
+*The NORINCO 12150L is the same engine used on the [[Type 59]], yet the horsepower value is inconsistent. Ch03 WZ-111 
+
+|HistoricalGallery=
+image:WZ-111 1. Ch03 WZ-111 jpg{{!}}WZ-111 Front View
+image:WZ-111 2. Ch03 WZ-111 jpg{{!}}WZ-111 Rear View
+
+
+|Ref_references=
+
+|Ref_sources=
+* 《坦克装甲车辆》2006年第2期 ——-中国北方车辆研究所
+* 《欲与天公试比高—-中国研制的WZ-111重型坦克》——– 孔凡清 将言 王丽琴
+* 《兵器》杂志——–《兵器》杂志编辑部
+
+|Ref_links= 
+* https://ru. Ch03 WZ-111 wikipedia. Ch03 WZ-111 org/wiki/WZ-111
+* https://ftr. Ch03 WZ-111 wot-news. Ch03 WZ-111 com/2014/03/12/wz-111-historical-info/
+
+*https://wenku. Ch03 WZ-111 baidu. Ch03 WZ-111 com/link?url=FPmmAsUPCaxIqNSEvHXXFhrDobptf2nKwi6K4jYxcqQE4sqxGNQpS3LQSSgYBDDKmXT0i2GyyEeh1TOpwOyH6cGy-NlYRvD6Ph1fyrfFrdS
+
+*https://zhan. Ch03 WZ-111 renren. Ch03 WZ-111 com/tankers?gid=3602888498023108750&checked=true
+
+* https://bbs. Ch03 WZ-111 tiexue. Ch03 WZ-111 net/post2_5903850_1. Ch03 WZ-111 html
+
+* https://www. Ch03 WZ-111 mdc. Ch03 WZ-111 idv. Ch03 WZ-111 tw/mdc/army/wz111. Ch03 WZ-111 htm
+
+* https://bbs. Ch03 WZ-111 tiexue. Ch03 WZ-111 net/post2_5138863_1. Ch03 WZ-111 html
+
+}}

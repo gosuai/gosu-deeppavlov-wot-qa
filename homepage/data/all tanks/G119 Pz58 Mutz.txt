@@ -1,0 +1,78 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:Panzer 58 Mutz scr 1. G119 Pz58 Mutz jpg
+File:Panzer 58 Mutz scr 2. G119 Pz58 Mutz jpg
+File:Panzer 58 Mutz scr 3. G119 Pz58 Mutz jpg
+
+
+|InTheGame_pros= 
+* Unique bear graphic gives the tank an automatic boost in camo 
+* High penetration with values that are on PAR with the gun on the AMX CDC
+* Decent accuracy
+* Decent mobility and excellent traverse speed
+* High shell-velocity, excellent for sniping
+
+|InTheGame_cons= 
+* Low HP pool
+* Lower DPM than most of the mediums at tier 8
+* Mediocre turret armor, large and easily penetrated from the front
+* Horrible hull armor, vulnerable even to Tier VI Mediums
+
+|InTheGame_performance= 
+
+The Panzer 58 Mutz is a Swiss tank (though placed in the German tech-tree) that plays very similar to other Tier VIII support mediums like the [[Indien-Panzer|Indien-Panzer]] or the [[Centurion Mk. G119 Pz58 Mutz  I|Centurion Mk. G119 Pz58 Mutz  I]]. G119 Pz58 Mutz  Using what is essentially the Indien-Panzer's 9cm gun, the Panzer 58 Mutz should be played as such; picking off targets from long range, using terrain as cover, and giving fire support where it is needed. G119 Pz58 Mutz  The accurate and high-penetrating 9cm gun can hold its own even in Tier X matches, but a careful balance of AP and APCR ammo is needed as the Mutz can only carry 48 rounds. G119 Pz58 Mutz  The Mutz is fairly mobile for a medium tank, but close-range brawls are far from recommended; the armor on this tank cannot take sustained amounts of punishment. G119 Pz58 Mutz  Flanking heavier opponents is a viable tactic so long as backup is at hand. G119 Pz58 Mutz  
+
+There are some aspects to the Mutz that need specific attention. G119 Pz58 Mutz  The turret, while rounded, offers a large profile and is poorly-armored. G119 Pz58 Mutz  The gun-mantlet is small and unreliable for bouncing shots, while the hull is horribly lacking in armor. G119 Pz58 Mutz  The highly sloped front of the tank does get a surprising number of ricochets. G119 Pz58 Mutz  Beware of artillery and tanks with large-calibre guns. G119 Pz58 Mutz  They are liable to take out huge chunks of your HP with HE rounds, if not kill you outright with one shot. G119 Pz58 Mutz  These problems are offset by the Mutz's mobility and gun-depression. G119 Pz58 Mutz  As with other support mediums, expose yourself only when needed and find cover as a matter of habit. G119 Pz58 Mutz  The 9cm gun rewards players who know how to keep this tank alive and firing in any match it may see. G119 Pz58 Mutz  
+
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+{{#ev:youtube|wfjT-27hTVs}}
+
+|History= 
+
+For many years, Switzerland did not have its own tanks or SPGs. G119 Pz58 Mutz  Even though Europe experienced a tank building boom after the end of the Second World War, Switzerland preferred to buy British Centutions and Czech G-13s (an improved version of the Jagdpanzer 38(t), mistakenly called Hetzer). G119 Pz58 Mutz  This was cheaper than developing and producing domestic designs. G119 Pz58 Mutz  The situation changed in the 1950s. G119 Pz58 Mutz 
+
+
+It's no secret that Swiss armament companies (largely Oerlikon and Solothurn) worked closely with the Germans before WWII. G119 Pz58 Mutz  After the war, this cooperation resumed. G119 Pz58 Mutz  In 1953, several German and Swiss companies began developing a tank for India under the guidance of Porsche KG, named, naturally, Indien-Panzer. G119 Pz58 Mutz  After a year, the project was finished, but it was too complicated for Indian factories. G119 Pz58 Mutz  For instance, the Indien-Panzer used many cast parts. G119 Pz58 Mutz 
+
+As a result, the Indians preferred to buy British Centurions, and solutions of the "unnecessary" Indien-Panzer migrated into the Leopard 1 and AMX 30. G119 Pz58 Mutz  Another side effect of the Indien-Panzer program was the Swiss KW. G119 Pz58 Mutz 30 tank. G119 Pz58 Mutz 
+
+The majority of the tank's development was done by the central design bureau at Thun. G119 Pz58 Mutz  The 30 ton tank was going to be armed with the domestic 9 cm Kanone 48 and Mercedes-Benz engine. G119 Pz58 Mutz  The KW. G119 Pz58 Mutz 30 prototype was finished in 1957, two years later than its planned production. G119 Pz58 Mutz  Soon after, the hero of this article was built, the Panzer 58 Mutz. G119 Pz58 Mutz 
+
+American Style
+
+The tank series was named after the second prototype, which had a different gun than the first. G119 Pz58 Mutz  Instead of the 90 mm gun, the tank had a British 20-pdr (84 mm), produced in Switzerland under the index 8. G119 Pz58 Mutz 4 cm Panzerkanone 58. G119 Pz58 Mutz  The auxiliary armament was improved, replacing the coaxial machinegun with a 20 mm Oerlikon autocannon. G119 Pz58 Mutz  The suspension grew by one road wheel. G119 Pz58 Mutz  This tank can currently be seen in the Thun tank museum. G119 Pz58 Mutz 
+
+The project was, in a word, strange. G119 Pz58 Mutz  It would appear that the design is based on one of the most experienced tank building schools in Europe, the German one, but a closer look reveals similarities to the American M47 Patton II. G119 Pz58 Mutz  In turn, that tank was a slight improvement of the Pershing, which evolved from the T20 medium tank that the Americans started developing in late 1942. G119 Pz58 Mutz 
+
+The cast hull and turret, torsion bar suspension, rear drive wheel and front idler, engine compartment roof composed of several pieces, all of these details are indicative of an American influence. G119 Pz58 Mutz  To be fair, the Swiss did not just blindly copy them, and each one was somehow improved or changed, so the Panzer 58 Mutz was an independent project, and a good one at that. G119 Pz58 Mutz 
+
+After trials, the Swiss accepted the Panzer 58 and ordered 10 pre-production vehicles. G119 Pz58 Mutz  The gun changed again, now to a licensed version of the British 105 mm L7. G119 Pz58 Mutz  Engineers improved these ten tanks, and this gave birth to the first mass produced Swiss tank, the Panzer 61. G119 Pz58 Mutz  Only 160 were built, but for a small and neutral Switzerland, this is quite a few. G119 Pz58 Mutz 
+
+|HistAcc=
+The in-game Panzer 58 Mutz is an unhistorical hybrid - it has the hull and turret of the second prototype, while having the 90 mm gun of the first prototype. G119 Pz58 Mutz 
+* The side hull and turret armor of the Panzer 58 were thicker in real life compared to in-game. G119 Pz58 Mutz 
+* Historical [[Gun/UK#OQF 20-pdr Type A Barrel|OQF 20-pdr]] gun is missing. G119 Pz58 Mutz  This was the actual main armament of the second prototype. G119 Pz58 Mutz 
+* [[Gun/UK#105 mm Royal Ordnance L7A1|105 mm Royal Ordnance L7]] gun is also missing, though this was the main armament of the production version. G119 Pz58 Mutz 
+
+|HistoricalGallery= 
+File:Panzer 58. G119 Pz58 Mutz jpg{{!}}Second prototype of the Panzer 1958, with a 20 pounder gun. G119 Pz58 Mutz  Located in Thun. G119 Pz58 Mutz 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://tankarchives. G119 Pz58 Mutz blogspot. G119 Pz58 Mutz com/2016/03/world-of-tanks-history-section-panzer. G119 Pz58 Mutz html
+* https://ritastatusreport. G119 Pz58 Mutz live/2016/06/10/the-development-of-the-kw-30-and-the-panzer-58/ Additional information and images about the different prototypes of the tank
+
+}}

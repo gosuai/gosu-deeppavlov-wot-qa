@@ -1,0 +1,91 @@
+{{TankData|Tank=AMX_13F3AM
+|
+
+|Gallery=
+image:AMX_13_F3_AMgame1. F23 AMX 13F3AM jpg{{!}}AMX_13_F3_AM
+
+|InTheGame_pros=
+* Good top speed and acceleration
+* Low profile and good camouflage value 
+* Asymmetrical gun arc is helpful in niche situations
+* Largest caliber and splash radius, highest damage and penetration for a Tier 6 SPG
+* Best shell velocity of all Tier 6 SPGs
+
+
+
+|InTheGame_cons=
+* High dispersion while turning or moving
+* Asymmetrical gun arc can be a bit tricky to utilize
+* Absolutely no gun depression
+* Long aim-time
+* Second worst DPM and worst reload speed of all Tier 6 SPGs
+|
+InTheGame_performance=
+
+The Amx 13 F3 AM is one of the most mobile tier 6 SPGs, having a good acceleration and top speed. F23 AMX 13F3AM  To add to this, the camouflage values of this artillery are very good thanks to its small size and low profile. F23 AMX 13F3AM  These attributes make the AMX 13 a stealthy, easy-to-relocate SPG that can utilize its mobility to move to better firing lines quickly to get shots on tanks that think they are safe. F23 AMX 13F3AM   This, combined with the highest alpha damage in tier/class of 700 damage on its HE round, makes it a threat to any tank it faces and can one-shot many lower-tier and a few same-tier tanks if the shell manages to penetrate. F23 AMX 13F3AM 
+
+Despite a long aim time and the longest reload at Tier 6, the AMX 13's fully-aimed accuracy remains quite good due to low dispersion and a relatively high shell velocity — you shouldn't have many problems hitting your targets. F23 AMX 13F3AM  The asymmetrical gun arc has a bit of a learning curve but for normal use, the angle that you are given to shoot from is quite generous and there is a fair margin for turning the gun without having to turn the hull. F23 AMX 13F3AM  Make sure you're always angling your SPG to the left a bit, as this will maximize the use of your gun arc. F23 AMX 13F3AM 
+
+Unfortunately, despite its good accuracy and wide gun arc, it performs very poorly as a shotgunner. F23 AMX 13F3AM  Its high bloom and lack of gun depression make shotgunning tanks tricky, relegating it to ambush tactics and relying on its first (and only) shot to kill the enemy. F23 AMX 13F3AM   Position on the downslope of a hill to allow your gun to point farther down and increase your chances of a hit. F23 AMX 13F3AM 
+
+|InTheGame_research=
+* The Baudouin 6F 11 SRY Engine and SCR 528F Radio carry over from the AMX 13 105 AM mle. F23 AMX 13F3AM  50. F23 AMX 13F3AM  Mount them immediately. F23 AMX 13F3AM 
+* Next, research the AMX 13 F3 AM bis Suspension. F23 AMX 13F3AM 
+* Finally, research the Canon de 155 mm de 33 calibres Gun. F23 AMX 13F3AM 
+
+|InTheGame_equipment=
+Camouflage net, medium-caliber artillery shell rammer, enhanced gun laying drive
+
+|History=
+AMX 13 F3 AM or Canon de 155 mm Mle F3 Automoteur (Cn-155-F3-Am) was a 155 mm SPG developed in the early 1950s by the French Army to replace their aging American M41 Gorilla 155mm self-propelled guns. F23 AMX 13F3AM  The Mk F3 is the smallest and lightest 155 mm motorized gun carriage ever produced. F23 AMX 13F3AM  Due to its size and low cost, it has found considerable success in the export market. F23 AMX 13F3AM  Constructed on a modified AMX-13 light tank chassis, the Mk F3 is novel, incorporating room inside for only two of the eight required crewmen (the others riding in support vehicles). F23 AMX 13F3AM  This allowed the 155 mm gun to be placed on a smaller and more mobile chassis than that employed by other armies, but also exposed the crew members to arms fire and splinters. F23 AMX 13F3AM 
+
+==Backround==
+[[image:Amx13 155 033. F23 AMX 13F3AM jpg|thumb|200px|left|AMX 13 F3 in a deployed position]]
+In the early 1950s the French Army desired to replace their aging American M41 howitzers with an indigenous design, based on the AMX-13 light tank chassis. F23 AMX 13F3AM  The result of these efforts was the Mk. F23 AMX 13F3AM  F3 that entered production in the early 1960s. F23 AMX 13F3AM  Its low cost and light weight made it a very popular weapon system on the export market. F23 AMX 13F3AM  It was exported to a number of South American and Middle Eastern countries, and remained in production until the early 1980s, long after the French Army had themselves converted to the fully enclosed GCT 155mm self-propelled artillery system. F23 AMX 13F3AM 
+
+==Design features==
+
+The Mk F3 is essentially a modified AMX-13 light tank chassis with the rear idler removed and the hull modified to accept a 155 mm cannon and its recoil, elevating and traversing mechanisms, including two rear spades which reversed into the ground to give added stability when firing. F23 AMX 13F3AM  The 155 mm gun was designed by the Atelier de Construction de Tarbes (ATS), and the chassis by the Atelier de Construction Roanne (ARE). F23 AMX 13F3AM  Integration of the gun with the chassis and all firing trials were undertaken by the Etablissement d'Etudes et de Fabrications d'Armement de Bourges (EFAB). F23 AMX 13F3AM  Because the ARE was tooling up for production of the AMX-30 main battle tank, production of the whole AMX-13 tank family, including the F3 155 mm self-propelled gun, was transferred to Mécanique Creusot-Loire. F23 AMX 13F3AM 
+
+The F3 fired the standard 155 mm high-explosive projectile and is also capable of firing the smoke, illumination and rocket-assisted rounds. F23 AMX 13F3AM  The effective range is 20,050 m with 43. F23 AMX 13F3AM 75 kg HE rounds. F23 AMX 13F3AM  The hull of the Mk F3 is of all-welded steel armor measuring 10 to 20 mm, providing the two occupants with protection from small arms fire and shell splinters. F23 AMX 13F3AM  The layout is conventional, with the driver's compartment at the front on the left, engine compartment to the right and the 155 mm gun above at the rear. F23 AMX 13F3AM  A splashboard is mounted at the front of the hull to stop water from rushing up the glacis plate when the vehicle is fording streams. F23 AMX 13F3AM [[image:Amx13 155 019. F23 AMX 13F3AM jpg|thumb|200px|right|AMX 13 F3 designed to replace M41 in French army service]] A replacement road wheel is often carried on the glacis plate. F23 AMX 13F3AM  The driver has a single-piece hatch that opens to the left and is provided with three daylight periscopes, the center one of which is replaceable by an image intensification (or thermal) periscope for night driving. F23 AMX 13F3AM  The commander is seated behind the driver and has a two-piece hatch that opens to either side. F23 AMX 13F3AM  The commander is also provided with three daylight periscopes. F23 AMX 13F3AM 
+
+The torsion bar suspension consists of five single rubber-tyred road wheels with the drive sprocket at the front and the fifth roadwheel acting as the idler. F23 AMX 13F3AM  There are three track-return rollers. F23 AMX 13F3AM  The first and last road wheel stations have hydraulic shock-absorbers. F23 AMX 13F3AM  The steel tracks can be fitted with rubber pads if required. F23 AMX 13F3AM  Stowage containers are provided along each side of the upper part of the hull. F23 AMX 13F3AM  Standard equipment includes a loudspeaker and a cable reel with 400 m of cable. F23 AMX 13F3AM 
+
+==Design flaws==
+[[image:Amx13 155 023. F23 AMX 13F3AM jpg|thumb|200px|left|AMX 13 F3, smallest 155mm SPG ever built]]
+Weaknesses to the Mk F3 design included a lack of nuclear-biological-chemical (NBC) protection for its crew. F23 AMX 13F3AM  It also could accommodate only two of the eight crew members needed to operate the weapons system. F23 AMX 13F3AM  The remaining six crew members and 25 rounds of ammunition travel in support vehicles, normally AMX-VCIs. F23 AMX 13F3AM  If necessary, the additional crew members can travel on the upper deck of the vehicle, but in all cases, the crew members must remain outside the vehicle and exposed to arms fire. F23 AMX 13F3AM 
+
+==Production==
+
+A total of around 600 vehicles was produced until the late eightees, with the last 10 units delivered to Morocco as late as 1997. F23 AMX 13F3AM  Besides the French army, the system was widely exported and used by the armies of Argentina, Chile, Ecuador, Morocco, Saudi Arabia, Peru, Venezuela, and Qatar. F23 AMX 13F3AM 
+
+
+
+|HistoricalGallery=
+image:Amx13 155 010. F23 AMX 13F3AM jpg
+image:Amx13 155 015. F23 AMX 13F3AM jpg
+image:Amx13 155 016. F23 AMX 13F3AM jpg
+image:Amx13 155 017. F23 AMX 13F3AM jpg
+image:Amx13 155 018. F23 AMX 13F3AM jpg
+image:Amx13 155 020. F23 AMX 13F3AM jpg
+image:Amx13 155 021. F23 AMX 13F3AM jpg
+image:Amx13 155 022. F23 AMX 13F3AM jpg
+image:Amx13 155 023. F23 AMX 13F3AM jpg
+image:Amx13 155 024. F23 AMX 13F3AM jpg
+image:Amx13 155 025. F23 AMX 13F3AM jpg
+image:Amx13 155 026. F23 AMX 13F3AM jpg
+image:Amx13 155 030. F23 AMX 13F3AM jpg
+image:Amx13 155 031. F23 AMX 13F3AM jpg
+image:Amx13 155 032. F23 AMX 13F3AM jpg
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. F23 AMX 13F3AM chars-francais. F23 AMX 13F3AM net/2015/index. F23 AMX 13F3AM php/liste-chronologique/de-1945-a-1990?task=view&id=715
+
+}}

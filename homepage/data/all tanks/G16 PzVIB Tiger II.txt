@@ -1,0 +1,303 @@
+{{TankData|Tank= Tiger II
+|One of the most feared tanks in the Second World War, The ''Königstiger'' (literally "King Tiger") operates rather unsatisfying in stock configuration; however, with proper positioning, it is capable of bouncing shells off its sturdy sloped frontal armor, provided that its lower front plate is hidden at all times, as it is only 100mm thick. G16 PzVIB Tiger II  It sports a workable level of mobility, though the weak engine makes climbing slopes painfully slow. G16 PzVIB Tiger II  All in all, this tank is a decent machine at long-range combat, featuring the best accuracy of any heavy tank at this Tiers, good penetration, and a balanced alpha damage. G16 PzVIB Tiger II 
+
+|InTheGame_pros=
+- Decent stock grind - The 8. G16 PzVIB Tiger II 8cm has good accuracy for sniping, and is still competitive in terms of RoF and DPM. G16 PzVIB Tiger II 
+
+- Upper glacis can bounce Tier 8 heavy tank guns reliably. G16 PzVIB Tiger II 
+
+- Top 10. G16 PzVIB Tiger II 5 cm gun is one of the most reliable gun of its Tiers with great penetration and fantastic accuracy. G16 PzVIB Tiger II 
+
+- Nice view range and short reload time compared to most Tier 8 heavies. G16 PzVIB Tiger II 
+
+- Relatively good gun depression (-8). G16 PzVIB Tiger II 
+
+- Overall mobility is acceptable due to good terrain resistance, hull traverse and top speed. G16 PzVIB Tiger II 
+
+- Stock suspension can take upgraded engine and full set of equipment. G16 PzVIB Tiger II 
+
+|InTheGame_cons=
+- Upper glacis can bounce only Tier 8 guns reliably; any gun with about 250mm pen can go right through it. G16 PzVIB Tiger II 
+
+- Huge yet inadequately armored hull except for the upper glacis; lower glacis is very weak, and the unimproved side armor allows only auto-bounces. G16 PzVIB Tiger II  Vulnerable to flanking. G16 PzVIB Tiger II 
+
+- Underarmored turret; stock turret holds only against tier V guns; top turret except for the mantlet is only reliable against lower Tiers either. G16 PzVIB Tiger II  Roof can also be overmatched by any 122mm. G16 PzVIB Tiger II 
+
+- High profile and poor camo values. G16 PzVIB Tiger II 
+
+- Engine is very underpowered for the tank's weight, resulting in '''awfull''' uphill speed. G16 PzVIB Tiger II 
+
+- DPM is very average at 1925 with 105mm like a lot of Tiers 8 heavies but great with 88mm. G16 PzVIB Tiger II 
+
+- Like the Tiger I, it is a fully dedicated support tank, its armor is not here to hold the line like in reality. G16 PzVIB Tiger II 
+
+
+
+|InTheGame_performance=
+The Tiger II more or less plays like the Tiger I, but with working frontal armor this time. G16 PzVIB Tiger II  The fast reload time, rivaling the [[T32]]'s and the [[110]]'s, is a definite asset at any range; however, as with the Tiger I, damage dealing from afar is recommended. G16 PzVIB Tiger II  The Tiger II's sides and lower front plate are too vulnerable in a brawl, and the turret roof gets overmatched by the common 122mm Soviet guns reliably at close range. G16 PzVIB Tiger II  What the Tiger II lacks in speed it makes up for with its above-average hull traverse. G16 PzVIB Tiger II  The Tiger II can turn fast enough to respond to flankers or flank heavies that lack such maneuverability. G16 PzVIB Tiger II  The Tiger II is one of the tanks that challenge many higher-tiered opponents. G16 PzVIB Tiger II  Tier 9's treat this tank as a danger, while quite a few Tier X tanks treat it seriously. G16 PzVIB Tiger II  That does not mean that this tank can be played as a brawler in high-tier matches. G16 PzVIB Tiger II  Make use of the well-engineered armor and the superior accuracy of its gun, high penetration and (uncommon for Germans) good gun depression; use cover and fight at range. G16 PzVIB Tiger II  If played well, this tank can engage any tank of the same tier and win. G16 PzVIB Tiger II 
+
+Although frowned upon, brawling in this tank ''can'' be pulled off; however, the rather mediocre all-round armor for the Tiger II's size (and its massive lower glacis) make it difficult. G16 PzVIB Tiger II 
+
+;If you are at the top of the list
+: You are going to have a huge impact on the outcome of the battle. G16 PzVIB Tiger II  Don't be surprised if many of your team tanks follow you wherever you go. G16 PzVIB Tiger II  Plan to spearhead the main attack. G16 PzVIB Tiger II  If you're forced into a defensive role, go where your line is weakest. G16 PzVIB Tiger II 
+: Your armor will prove quite frustrating to enemy tier 6's and even some tier 7's, but be wary of any fast moving mediums that try to flank you. G16 PzVIB Tiger II  You may be able to turn faster than most heavies, but that doesn't mean you are flank-proof. G16 PzVIB Tiger II 
+: Opposing IS-3s and other heavy tanks can mostly be successfully engaged with the 10. G16 PzVIB Tiger II 5cm. G16 PzVIB Tiger II 
+: Despite the apparent role of the Tiger II, it can occasionally prove useful to facehug, however this is ''NOT'' recommended against higher tier tanks, as they still will be able to punch straight through your armor. G16 PzVIB Tiger II 
+;If you are at the bottom of the list
+: A large portion of enemy tanks will be Tiers 9 or 10. G16 PzVIB Tiger II  You'll need to target vulnerable areas of the opponents for effective supporting fire; otherwise, you won't stand a chance. G16 PzVIB Tiger II  Try to stay alive and you might make more of a difference once the strongest tanks kill each other off. G16 PzVIB Tiger II  The accuracy and reload time help immensely. G16 PzVIB Tiger II 
+: The 'Peek-a-boom' tactic, relied upon by the IS series tanks, can prove very helpful for the Tiger II and the tanks it leads to, specifically at medium or long range; this is a good time to learn this skill as it becomes extremely potent in the E 75 and E 100. G16 PzVIB Tiger II 
+
+{{VideoYT|tElET-HD0Ac}}
+
+|InTheGame_research=
+* The upgraded engine carries over from the Tiger. G16 PzVIB Tiger II 
+* The FuG7 radio is common on many German vehicles, and chances are you've probably already researched this one. G16 PzVIB Tiger II 
+* Upgrading the turret is a good place to start, due to the increased frontal armor and DPM. G16 PzVIB Tiger II  You can mount it with the stock suspension, but you'll either have to forego the top engine and equipment, or temporarily install the enhanced suspension. G16 PzVIB Tiger II  Otherwise, you'll need to research the suspension first, leaving you with a vulnerable turret for quite a while. G16 PzVIB Tiger II 
+* Mounting the short 10,5 cm KwK 45 L/52 is ill-advised because its penetration and accuracy are lower than the 8,8 cm's as well as its DPM, and the quadrupled shell cost will prove to be an expensive decision. G16 PzVIB Tiger II  If credits aren't a problem, then you could mount the short 105 for the the higher damage per round. G16 PzVIB Tiger II 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Binocular Telescope, Toolbox
+
+|Gallery=
+image:Tiger II front view 1. G16 PzVIB Tiger II jpg {{!}}Tiger II front left view
+image:Tiger II front view 2. G16 PzVIB Tiger II jpg‎{{!}}Tiger II front right view
+image:Tiger II back view 1. G16 PzVIB Tiger II jpg‎{{!}}Tiger II back left view
+image:Tiger II back view 2. G16 PzVIB Tiger II jpg‎{{!}}Tiger II back right view
+
+
+|History=
+The Tiger I had hardly entered service before the German General Staff requested a bigger and better successor, superior in armor protection and firepower to anything the Soviets were likely to produce. G16 PzVIB Tiger II  Henschel tried to persuade the General Staff to accept an interim solution in the autumn of 1942, which consisted of installing a curved bow-plate on the Tiger I, but this solution was rejected. G16 PzVIB Tiger II 
+
+The German point of view was that, at the rate of evolution in armored warfare, superiority could only be maintained by one year, at maximum. G16 PzVIB Tiger II  Things being as they were in early 1943, the Tiger I and the Panther would be enough, but in order to preserve the superiority in 1944, a new heavy tank would be necessary. G16 PzVIB Tiger II  On January 1943, Hitler decided that the new Tiger would have the longer Rheinmetall 88 mm Flak 41, and to have 150 mm of front armor and 80 mm of side armor: the angle of the armor plates resulting in the new tank looking very similar to the PzKpfw. G16 PzVIB Tiger II  V Panther. G16 PzVIB Tiger II  
+
+Once again, Porsche and Henschel were asked for designs which were to incorporate the latest sloped armor and the installation of the longer Rheinmetall 88 mm Flak 41. G16 PzVIB Tiger II  However, there was the sensitive question, for Krupp, of mounting an archrival's gun in their turret. G16 PzVIB Tiger II  On 5th February 1943, Krupp was awarded the contract for the development of the 88 mm KwK 43 L/71, a new gun specifically designed for the successor of the Tiger I. G16 PzVIB Tiger II  The only similarity between this gun designed by Krupp and the Rheinmetall Flak 41 was that the same penetration values were achieved when the same shell was fired with the same initial muzzle velocity. G16 PzVIB Tiger II  All other characteristics of the two guns were different. G16 PzVIB Tiger II  Following the main specification to achieve equivalent armor penetration, Krupp completely redesigned the gun for mounting in a tank turret. G16 PzVIB Tiger II  As compared to the Flak 41 L/74, the KwK 43 L/71 was shorter with different rifling and had a muzzle brake to retard recoil. G16 PzVIB Tiger II  In addition it had shorter, fatter recoil cylinders to fit inside a turret, had an air blast system fitted to evacuate fumes from the gun directly after firing, and chambered a shorter (but thicker) cartridge case for easier loading inside a turret. G16 PzVIB Tiger II  
+
+Some Tiger IIs were used during the Battle of the Bulge, 6 months after D-Day. G16 PzVIB Tiger II 
+
+[[image:PzKmpfVIB_image01. G16 PzVIB Tiger II jpg‎|200px|center|]]
+
+== Krupp Turrets and Parts Standardization with the Panther II ==
+
+Porsche updated its Tiger I design, and this time, was so sure of winning the contract that it ordered a first batch of 50 turrets from Krupp. G16 PzVIB Tiger II  Unfortunately, the Porsche ideas of electric transmission were once again rejected, as the supplies of copper were too small, and the contract went once again to Henschel. G16 PzVIB Tiger II  However, since 50 early-style turrets had already been made, they were fitted to the first units produced. G16 PzVIB Tiger II  The curved front plate created a serious shot trap, which deflected incoming rounds down into the driver's compartment. G16 PzVIB Tiger II  The bulge for the cupola was also a weak area in the turret side-armor. G16 PzVIB Tiger II  Krupp then modified the turret, and the new design eliminated those deficiencies, was simpler, and offered better protection while providing room for 6 more rounds of ammunition. G16 PzVIB Tiger II  The new Serien-Turm (series production turret) designed for the Tiger II had a 180 mm thick front plate, 80 mm sidewalls, and 40 mm roof. G16 PzVIB Tiger II  The gun mantlet was specifically designed to be immune to attack or being jammed. G16 PzVIB Tiger II  This new design did not create high explosive blast pockets and prevented deflections of projectiles down to the deck. G16 PzVIB Tiger II  The early-style turret is commonly referred to as the 'Porsche Turret'; and the series production turret, as the 'Henschel turret'. G16 PzVIB Tiger II  However, both turrets were designed and built by Krupp, and this classification leads to misunderstandings. G16 PzVIB Tiger II  It is best to call the first 50 turrets "early-production turrets", and from the 51st on as "series production turrets" (Serien-Turm). G16 PzVIB Tiger II 
+
+[[image:PzKmpfVIB_image02. G16 PzVIB Tiger II jpg‎|200px|left|]] [[image:PzKmpfVIB_image03. G16 PzVIB Tiger II jpg‎|200px|right|]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In February 1943, WaPrüf 6/III drew a requirement for an extensive unification of the specification in order to standardize as many parts as possible with the Panther II, which never went into production, and the subsequent delays caused the production to never reach the planned levels until December 1943. G16 PzVIB Tiger II  The PzKpfw. G16 PzVIB Tiger II  Tiger Ausf. G16 PzVIB Tiger II  B was a massive and formidable vehicle, designed to dominate the battlefield. G16 PzVIB Tiger II  The new hull design for the VK 45. G16 PzVIB Tiger II 03 (H) consisted of sloping plates for increased protection. G16 PzVIB Tiger II  The front glacis plate was 150 mm at 50°, front nose plate 100 mm at 50°, superstructure side plates 80 mm at 0° vertical, tail plate 80 mm at 30°, deck plates 40 mm at 90° horizontal, and rear belly plate 25 mm horizontal. G16 PzVIB Tiger II  Forty-eight rounds of ammunition for the main gun were stored horizontally in panniers on each side of the hull. G16 PzVIB Tiger II  The rounds were stowed in three groups, on both sides. G16 PzVIB Tiger II  Each group was separated by sliding metal panels. G16 PzVIB Tiger II  An additional ten to 16 rounds were stacked loose on the turret floor. G16 PzVIB Tiger II  
+
+[[image:PzKmpfVIB_image04. G16 PzVIB Tiger II jpg‎|200px|center|]]
+
+The whole running gear was redesigned. G16 PzVIB Tiger II  For the first time, a staggered running gear with nine pairs of rubber-spring road wheels, of 800 mm diameter, was used on each side. G16 PzVIB Tiger II  These road wheels consisted of two strong sheet-steel rims attached to a wheel disk of steel between two rubber rings under very high pressure. G16 PzVIB Tiger II  The drive sprocket was similar to that of the Tiger I, but were built more strongly. G16 PzVIB Tiger II  The road-wheel cranks were single drop-forged pieces and much strenghtened. G16 PzVIB Tiger II  The crank arrangement resembled those of the Panther without rubber, but with layered conical springs. G16 PzVIB Tiger II  Compared to the Tiger I, the torsion bars were strenghtened and fitted with toothed heads. G16 PzVIB Tiger II  They no longer differed in diameter, so they could not be fine tuned. G16 PzVIB Tiger II  The combat tracks, which weighed 3. G16 PzVIB Tiger II 2 tons each, were 800 mm wide, thus providing an acceptable ground pressure (when the tracks sunk to 20 cm) of 0. G16 PzVIB Tiger II 76 kilograms per square centimeter. G16 PzVIB Tiger II  Once again, loading tracks, 600 mm wide, had to be used for rail transportation. G16 PzVIB Tiger II  The combat weight of the vehicle was 68. G16 PzVIB Tiger II 5 metric tons. G16 PzVIB Tiger II 
+
+[[image:PzKmpfVIB_image05. G16 PzVIB Tiger II png‎‎|200px|center|]]
+
+The Panzerkampfwagen Tiger Ausf. G16 PzVIB Tiger II  B powerplant was the Maybach HL 230 P 30, a 12-cylinder engine also used on the Panther, producing 700 HP at 3,000 rpm, then through an 8-speed Maybach transmission and was designed to provide a maximum speed of 41. G16 PzVIB Tiger II 5 km/h. G16 PzVIB Tiger II  The OLVAR gearbox required a shifting process that was just like that of a manual transmission with power interruption. G16 PzVIB Tiger II  Its trouble free operation depended largely on the ability and calm (even in combat) of the driver. G16 PzVIB Tiger II  However, the easily shifted OLVAR gearbox and easily steered two-radius steering gear definitely improved the driver's job. G16 PzVIB Tiger II 
+
+
+
+
+== Official Designation ==
+
+Thomas L. G16 PzVIB Tiger II  Jentz, in "Germany's Tiger Tanks: Vol. G16 PzVIB Tiger II 2 - VK 45. G16 PzVIB Tiger II 02 to Tiger II" (Schiffer, 1998), presents a list of official names given to the Tiger II, ordered by date, from 1942 to 1943:
+
+
+Wa Prüf 6 Designations: 
+
+	
+'''VK 45. G16 PzVIB Tiger II 02 (H)''' 	                15 April 1942
+
+'''Tiger II for the VK 45. G16 PzVIB Tiger II 02 (H)''' 	18 September 1942
+
+'''Tiger III (VK 45. G16 PzVIB Tiger II 03)''' 	        12 October 1942
+
+'''Henschel Tiger B''' 	                08 January 1943
+
+'''Tiger II for the VK 45. G16 PzVIB Tiger II 03''' 	03 March 1943
+
+'''Pz. G16 PzVIB Tiger II Kpfw. G16 PzVIB Tiger II  Tiger Ausf B''' 	        02 June 1943
+
+'''Pz. G16 PzVIB Tiger II Bef. G16 PzVIB Tiger II Wg. G16 PzVIB Tiger II Tiger Ausf. G16 PzVIB Tiger II B''' 	        02 June 1943
+
+
+The official designations were Panzerkampfwagen Tiger Ausf. G16 PzVIB Tiger II  B and Panzerbefehlswagen Tiger Ausf. G16 PzVIB Tiger II  B (for the command version), which originated in a WaPrüf 6 (Waffenprüfamter 6 - Weapons Development and Testing Department - "6" being the number that corresponded to "Tanks and other Vehicles") order dated 2 June 1943. G16 PzVIB Tiger II  The official designation was frequently shortened to Tiger B. G16 PzVIB Tiger II  The full titles Panzerkampfwagen Tiger (8,8 cm Kw. G16 PzVIB Tiger II K. G16 PzVIB Tiger II  L/71) (Sd. G16 PzVIB Tiger II Kfz. G16 PzVIB Tiger II  182) and and Panzerbefehlswagen Tiger (Sd. G16 PzVIB Tiger II Kfz. G16 PzVIB Tiger II  267 und 268) Ausf. G16 PzVIB Tiger II  B were specified by the Inspecteur der Panzertruppen (In6) for use in training and maintenance manuals, as well as in the K. G16 PzVIB Tiger II St. G16 PzVIB Tiger II N. G16 PzVIB Tiger II  (organization and equipment tables). G16 PzVIB Tiger II  The suggestive name Königstiger (King Tiger) was an unofficial designation first used by the Reichsministerium für Bewaffnung und Munition, in 11 December 1944. G16 PzVIB Tiger II  This was never an officially accepted designation during the war by either the Panzertruppen or the Waffenamt. G16 PzVIB Tiger II 
+
+
+
+== Armor Protection ==
+
+[[image:PzKmpfVIB_image06. G16 PzVIB Tiger II jpg‎|200px|center|]]
+
+The frontal armor of the Tiger II provided the best protection possible; the front turret was 180 mm inclined at 10 degrees from the vertical, compounded with a specially-designed mantlet, which was immune to penetration and being jammed. G16 PzVIB Tiger II  The glacis plate was a 150 mm thick plate inclined at 50 degrees from vertical, so the actual protection given by the armor plate inclination was more than 230 mm. G16 PzVIB Tiger II  There is no proof that this frontal armor was ever penetrated in combat, even though the British 17 Pounder, when using a special APDS ammunition, could theoretically penetrate the Tiger II front armor (front turret and lower front hull, only - the 17 Pounder could not penetrate the Tiger II glacis plate), but those APDS rounds were terribly inaccurate and had a tendency of ricochet off inclined armor such as was the lower front hull (100 mm inclined at 50 degrees from the vertical) of the Tiger II. G16 PzVIB Tiger II  Even the side and rear armor protection was sufficient to eliminate any serious threat from the American 75 mm or the Russian 76 mm tanks guns. G16 PzVIB Tiger II  The hull was welded, as was that of the Tiger I, but the armor was better sloped, using the experience of the T-34. G16 PzVIB Tiger II  Hull layout was similar to that of the Panther, and the large turret was roomy, although the gun came right back to the rear wall and made a complete partition longitudinally. G16 PzVIB Tiger II  The thickness and angles of the armor protection are shown in the Table below :
+
+[[image:PzKmpfVIB_image07. G16 PzVIB Tiger II png‎‎|200px|center|]] 
+
+[[image:PzKmpfVIB_image08. G16 PzVIB Tiger II png‎|200px|center|]] 
+
+
+== Firepower ==
+
+[[image:PzKmpfVIB_image09. G16 PzVIB Tiger II jpg‎ ‎|200px|left|]] 
+
+The long and powerful 88 mm KwK 43 L/71 gun could outrange and outshoot the main armament of nearly all Allied tanks, and this allowed the Tiger II to stand off and engage targets as it choose. G16 PzVIB Tiger II  Besides that, the 88 mm KwK 43 L/71 was a very accurate gun, being capable of first-round hits at well over 1000 meters. G16 PzVIB Tiger II  Given its high muzzle velocity, barrel wear was a difficulty with this gun, but this was solved by building the barrel in two sections, so it was possible to change the faster-wearing part easily. G16 PzVIB Tiger II 
+The tables below represent the penetration capability of penetrating armor at an angle of 30 degrees from the vertical, and the probability of hitting a target representing the front of a tank. G16 PzVIB Tiger II 
+
+During World War II, the Armor Piercing (AP) round relied on its own weight to penetrate the enemy's armor. G16 PzVIB Tiger II  The higher the muzzle velocity, the more penetration any kind of AP round would have, all other variables remaining constant. G16 PzVIB Tiger II  The Armor Piercing Capped, Ballistic Capped (APCBC) round relied not only on its own weight to penetrate the enemy's armor, but was also filled with high-explosive that caused great internal damage. G16 PzVIB Tiger II  The Armor Piercing Composite Rigid (APCR) round was made with a tungsten core. G16 PzVIB Tiger II  For flight performance effects and to aid the shot from shattering against armor plating, the APCR round was surrounded by a ballistic cap. G16 PzVIB Tiger II  The HEAT round, which was based on the hollow charge principle, used a directed explosion, rather than mass or weight, to penetrate armor. G16 PzVIB Tiger II  The explosion is channeled forward into a stream, which cuts through armor, melting it along the way and including it in the stream. G16 PzVIB Tiger II 
+
+The designation 88 mm KwK 43 L/71 means that the diameter of the bore (caliber) of this gun is 88 mm, this is a Tank Gun (Kampfwagenkanone), that the year the development of this gun was finalized was 1943, and that the length of the gun equals 71 times the diameter of the bore (caliber) of the same gun. G16 PzVIB Tiger II  This was the main gun installed on the Tiger II. G16 PzVIB Tiger II  Of the total ammunition load of 86 rounds (80 for the Tiger II with "early-style" turrets), the recommended ratio was 50% Pzgr. G16 PzVIB Tiger II 39/43 (APCBC) and 50% Sprgr. G16 PzVIB Tiger II  (high-explosive shells). G16 PzVIB Tiger II  The Gr 39/3 HL (HEAT) were rarely used. G16 PzVIB Tiger II  When available, but very rarely due to a severe shortage, a few Pzgr. G16 PzVIB Tiger II 40/43 (APCR) rounds were carried for use against the heaviest armored Russian tanks and tank destroyers. G16 PzVIB Tiger II 
+
+
+== Accuracy of the 88 mm KwK 43 L/71 ==
+
+
+<table cellpadding="5">
+<th colspan="11">Range</th>
+  <tr><th rowspan="3">Ammo</th>
+<td></td>
+  <td align="center">100m</td>
+  <td align="center">500m</td>
+  <td align="center">1000m</td>
+  <td align="center">1500m</td>
+  <td align="center">2000m</td>
+  <td align="center">2500m</td>
+  <td align="center">3000m</td>
+  <td align="center">3500m</td>
+  <td align="center">4000m</td>
+ </tr>
+ <tr>
+  <td><b><i>PzGr. G16 PzVIB Tiger II  39/43</i></b></td>
+  <td>100%/100%</td>
+  <td>100%/100%</td>
+  <td>100%/85%</td>
+  <td>95%/61%</td>
+  <td>85%/43%</td>
+  <td>74%/30%</td>
+  <td>61%/23%</td>
+  <td>51%/17%</td>
+  <td>42%/13%</td>
+ </tr>
+ <tr>
+  <td><b><i>PzGr. G16 PzVIB Tiger II  40/43</i></b></td>
+  <td>100%/100%</td>
+  <td>100%/100%</td>
+  <td>100%/89%</td>
+  <td>97%/66%</td>
+  <td>89%/47%</td>
+  <td>78%/34%</td>
+  <td>66%/25%</td>
+  <td>--%/--%</td>
+  <td>--%/--%</td>
+ </tr>
+</table>
+
+
+
+The sights for most of the Tigers II that actually saw combat was the articulated, monocular Turmzielfernrohr 9d mounted parallel and on the same axis as the main gun. G16 PzVIB Tiger II  The gunner could select two magnifications, 2. G16 PzVIB Tiger II 5x and 5x. G16 PzVIB Tiger II  The lower magnification provided a wider field of view for target identification. G16 PzVIB Tiger II  The higher magnification assisted in precise aiming at long ranges. G16 PzVIB Tiger II  Two adjustable range scales allowed the gunner to register the exact range to the target. G16 PzVIB Tiger II  The range scale for the Pzgr. G16 PzVIB Tiger II 39/43 was graduated at 100 m intervals out to a range of 4000 m and the second range scale for the Sprgr. G16 PzVIB Tiger II 43 was graduated out to a range of 6000 m. G16 PzVIB Tiger II 
+
+
+
+== Mobility ==
+
+[[image:PzKmpfVIB_image10. G16 PzVIB Tiger II jpg ‎|200px|left|]] [[image:PzKmpfVIB_image11. G16 PzVIB Tiger II jpg‎|200px|right|]] 
+
+Numerous statements have been made that the Tiger II was too heavy, too big, too slow, "a casemate", etc. G16 PzVIB Tiger II  One is left with the impression that it was lucky to move at all. G16 PzVIB Tiger II  These banal generalities, stated as incontrovertible facts, are never substantiated by actual specifications, test reports, or after-action accounts from the units that used the Tiger II. G16 PzVIB Tiger II  In spite of these frequently repeated remarks, the capability of the Tiger II to negotiate obstacles and cross terrain was equivalent to, or better than, most German and allied tanks. G16 PzVIB Tiger II 
+
+The Tiger II initially experienced numerous automotive problems which required a continuous series of minor modifications to correct. G16 PzVIB Tiger II  These problems can be traced to two main causes; leaking seals and gaskets and an over-taxed drive train originally designed for a 40 metric ton vehicle. G16 PzVIB Tiger II  The problem of keeping a Tiger II in running condition was compounded by a shortage of skilled drivers, many of whom may have never experienced driving any vehicle prior to entering the service. G16 PzVIB Tiger II  In addition, they were provided only limited driver's training, and then usually on a different type of panzer, and received their own Tiger II usually within a few days before being shipped to the front. G16 PzVIB Tiger II  But, with mature drivers, taking required maintenance halts, and modification of key automotive components, the Tiger II could be maintained in a satisfactory operational condition. G16 PzVIB Tiger II  Status reports from the Western Front, dated March 1945, showed that the percentage of Tigers operational at the Front was about equal to the PzKpfw IV and as good as or better than the Panther. G16 PzVIB Tiger II 
+
+== Production ==
+
+[[image:PzKmpfVIB_image12. G16 PzVIB Tiger II jpg‎|200px|center|]] 
+
+Following an initial order for three prototype chassis, an initial production series of 176 Tiger IIs was ordered in October 1942. G16 PzVIB Tiger II  Following cancellation of the Porsche Tigers in November 1942, the contract (with Henschel) was quickly expanded by an additional 350. G16 PzVIB Tiger II  Later extensions to the contracts increased the total order to over 1500. G16 PzVIB Tiger II  In accordance with the original production plans from October 1942, the first Tiger II was to be completed in September 1943. G16 PzVIB Tiger II  The number produced each month was to be expanded to reach a target of 50 per month in May 1944. G16 PzVIB Tiger II  This production schedule satisfied the Inpekteur der Panzertruppen, who wanted 100 Tiger II available for a spring offensive in 1944. G16 PzVIB Tiger II  Due to delays, the first prototype V1 was accepted by Waffenamt inspector in November 1943. G16 PzVIB Tiger II  Two further prototypes, V2 and V3, and the first three production series Tiger IIs were accepted in January 1944. G16 PzVIB Tiger II  The production run continued through March 1945 for a total of three prototypes and 489 production-series Tiger IIs produced by Henschel. G16 PzVIB Tiger II 
+
+Only one model was built, and despite the heavy Allied bombing, Henschel always had at least 60 vehicles being assembled on its tank assembly line floors at any time. G16 PzVIB Tiger II  At the peak, it was taking only 14 days to complete a Tiger II. G16 PzVIB Tiger II  Severe fuel shortages and heavy Allied bombing forced the factory to use bottled gas for testing, as all available fuel was supplied for operations. G16 PzVIB Tiger II 
+
+
+== The Tiger II and Entfernungsmesser (Range Finder) Development ==
+
+[[image:PzKmpfVIB_image13. G16 PzVIB Tiger II jpg‎|200px|middle|]]
+
+The war in North Africa and in the large plains of Russia had shown that range measurement in wide areas such as the desert or the Russian steppes would be most useful, as guessing the range could be misleading. G16 PzVIB Tiger II  When the tank halts before firing and the range to the target is under 1000 meters, the elevation of a high velocity gun such as the 88mm KwK 43 L/71 (whose muzzle velocity was equal or more than 1,000 m/s) is not affected much by range, and range measurements can be dispensed with. G16 PzVIB Tiger II  The great advantage of using a range finder lies in the possibility of opening fire at longer ranges. G16 PzVIB Tiger II  Without the range finder, precious time and ammunition were lost when the elevation of the gun must be corrected by observing the effect of fire. G16 PzVIB Tiger II 
+
+[[image:PzKmpfVIB_image14. G16 PzVIB Tiger II jpg‎|200px|left|]]
+
+As the tank commander was preoccupied with other tasks, the gunner would take charge of the range finder. G16 PzVIB Tiger II  After locating the target with the periscope and aligning the target in the sight, the gunner operates the range finder, reads the range, and adjusts the range scale to the correct range, which provides the additional elevation associated with the range. G16 PzVIB Tiger II  The range scale was seen at the bottom of the field of the right eyepiece. G16 PzVIB Tiger II  It was graduated in meters from 550 to 20,000. G16 PzVIB Tiger II 
+
+On 28 February 1945, the armor manufacturers were asked, when turrets were produced, to mount the Entfernungsmesser (range finders). G16 PzVIB Tiger II  It was stated that they should strive to complete their first turret by 31 March and Krupp planned to start by mid-July 1945. G16 PzVIB Tiger II  Therefore, the effort was initiated too late to complete any Tiger IIs with range finders before the factory in Kassel fell into the hands of Allied troops. G16 PzVIB Tiger II 
+                                                                                                                             
+|HistoricalGallery=
+image:PzKmpfVIB image13. G16 PzVIB Tiger II jpg{{!}}PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) Technical Drawing
+image:PzKmpfVIB image07. G16 PzVIB Tiger II png{{!}}PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) Armor Scheme
+image:Tiger II 105. G16 PzVIB Tiger II png{{!}}PzKpfw Tiger mit 10,5 L/68. G16 PzVIB Tiger II  Existed only in blueprints. G16 PzVIB Tiger II 
+image:PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) 1. G16 PzVIB Tiger II jpg{{!}}Tiger II (P)
+image:PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) 2. G16 PzVIB Tiger II jpg{{!}}
+image:PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) 3. G16 PzVIB Tiger II jpg{{!}}
+image:PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) 4. G16 PzVIB Tiger II jpg{{!}}
+image:PzKpfw VI Ausf. G16 PzVIB Tiger II  B Tiger II (H) 5. G16 PzVIB Tiger II jpg{{!}}Tiger II (H)
+image:Tiger II. G16 PzVIB Tiger II jpg
+image:Tiger II (2). G16 PzVIB Tiger II jpg
+
+|HistAcc=
+The 10,5 cm KwK L/68 blueprint was merely a proposal that was rejected by the development department. G16 PzVIB Tiger II  The weapon itself had also been rejected by the Wehrmacht before it was even proposed for the Tiger II. G16 PzVIB Tiger II  The 10,5 cm KwK L/52 gun configuration is fake. G16 PzVIB Tiger II 
+*Dark yellow (dunkelgelb) was the standard colour on all Tiger II tanks. G16 PzVIB Tiger II  In World of Tanks, however, the Tiger II is in early Panzer Gray. G16 PzVIB Tiger II 
+*The Tiger II's engine was a redesigned HL 230, giving it 900 hp instead of 700, in the Henschel version (the top configuration). G16 PzVIB Tiger II 
+*Historical Sla. G16 PzVIB Tiger II 16 diesel engine with 750 hp is missing. G16 PzVIB Tiger II  According to various of sources such as ''Military Engineer and Amazing Porsche and Volkswagen Story'', the engines were tested with positive results. G16 PzVIB Tiger II  A diesel engine was mounted onto a Tiger II as a prototype built by Nibelungen Werke and went through testings in the spring of 1945, though results has not been found from this test. G16 PzVIB Tiger II  Further proposals also wanted the engine to be mounted in the [[Panther]] and [[Jagdtiger]] vehicles for increased power, but the war's constraint on supplies and Nazi Germany's capitulation resulted in the cancellation of these programs. G16 PzVIB Tiger II 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. G16 PzVIB Tiger II , H. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  Doyle and T. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  Jentz, 1999,  '''<i>Encyclopedia of German Tanks of World War Two - The Complete Illustrated Dictionary of German Battle Tanks, Armoured Cars, Self-Propelled Guns and Semi-Tracked Vehicle</i>''', Cassel Reprint, London, 272p, ISBN:9781854095183. G16 PzVIB Tiger II 
+
+Doyle, H. G16 PzVIB Tiger II  and T. G16 PzVIB Tiger II  Jentz, 1993, '''<i>Kingtiger Heavy Tank 1942–45</i>''', New Vanguard Series 1, Osprey Publishing, Oxford, 48p, ISBN:9781855322820. G16 PzVIB Tiger II 
+
+Doyle, H. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  and T. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  Jentz, 1997, '''<i>Germany's Tiger Tanks: VK45. G16 PzVIB Tiger II 02 to TIGER II Design, Production & Modifications</i>''', Schiffer, Atglen, PA, ISBN:9780764302244. G16 PzVIB Tiger II 
+
+Higgins, D. G16 PzVIB Tiger II R. G16 PzVIB Tiger II , 2011, '''<i>King Tiger vs IS-2 - Operation Solstice 1945</i>''', Duel Series 37, Osprey Publishing, Oxford, 80p, ISBN:9781849084048. G16 PzVIB Tiger II 
+
+Jentz, T. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  and H. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  Doyle, 2001, '''<i>Panzer Tracts - No. G16 PzVIB Tiger II 6 Schwere-Panzerkampfwagen D. G16 PzVIB Tiger II W. G16 PzVIB Tiger II  to E-100 including the Tigers</i>''', Jentz, Boyds, MD, ISBN:9780970840714. G16 PzVIB Tiger II 
+
+Spielberger, W. G16 PzVIB Tiger II J. G16 PzVIB Tiger II  and H. G16 PzVIB Tiger II L. G16 PzVIB Tiger II  Doyle, 2007, '''<i>Tigers I and II and Their Variants</i>''', Schiffer, Atglen, PA, 256p, ISBN:9780764327803. G16 PzVIB Tiger II 
+
+|External_Reviews= 
+
+|Ref_links=
+
+* [https://www. G16 PzVIB Tiger II panzerworld. G16 PzVIB Tiger II com/ '''PanzerWorld. G16 PzVIB Tiger II com'''] History and specifications of German tanks. G16 PzVIB Tiger II 
+
+* [https://www. G16 PzVIB Tiger II achtungpanzer. G16 PzVIB Tiger II com/ '''AchtungPanzer. G16 PzVIB Tiger II com'''] History and details of Panzer and Panzertruppe. G16 PzVIB Tiger II 
+
+* [https://www. G16 PzVIB Tiger II wwiivehicles. G16 PzVIB Tiger II com/germany/vehicle/heavy-tank/pzkpfw-vi-b-heavy-tank. G16 PzVIB Tiger II asp '''Konigstiger'''] Photos & history. G16 PzVIB Tiger II 
+
+
+|Sidebar_Camostop=4. G16 PzVIB Tiger II 6
+|Sidebar_Camomove=2. G16 PzVIB Tiger II 3
+|Sidebar_Camofire=1. G16 PzVIB Tiger II 1
+|Sidebar_Passhard=0. G16 PzVIB Tiger II 959
+|Sidebar_Passmed=1. G16 PzVIB Tiger II 151
+|Sidebar_Passsoft=2. G16 PzVIB Tiger II 205
+|Sidebar_DispTurret=0. G16 PzVIB Tiger II 115
+|Sidebar_DispRecoil=2. G16 PzVIB Tiger II 877
+|Sidebar_DispAccel=0. G16 PzVIB Tiger II 173
+|Sidebar_DispTurning=0. G16 PzVIB Tiger II 173
+}}
+
+[[Category:German Tanks]]

@@ -1,0 +1,99 @@
+{{TankData|Tank=STA_1
+|
+
+|Gallery=
+
+File:STA-1 scr 1. J13 STA 1 jpg
+File:STA-1 scr 2. J13 STA 1 jpg
+File:STA-1 scr 3. J13 STA 1 jpg
+File:STA_1 screen1. J13 STA 1 jpg
+File:STA_1 screen2. J13 STA 1 jpg
+
+
+|InTheGame_pros=
+- Good top gun with high DPM and penetration, and good gun handling
+
+- Great gun depression
+
+- Excellent maneuverability
+
+- Good camouflage value
+
+- Large healthpool
+
+|InTheGame_cons=
+- Very poor armor
+
+- Subpar gun accuracy
+
+- Low top speed
+
+- Poor gun elevation
+
+- No gun depression on the rear arc
+
+- Horrible stock grind, as the stock gun had absolutely awful penetration even when compared to its tier 7 counterpart, and none of any modules were carried from the previous tank
+
+|InTheGame_performance=
+The STA-1 is potentially one of the most devastating Tier 8 medium tanks. J13 STA 1  Its proper play style is a mix of the Pershing's agile, flanking harasser, hull down peek-a-booing style, and the Centurion I's precise sniping. J13 STA 1   STA's second gun is more than decent for a tier 8 medium, and its top gun is one of the best, most enjoyable medium tank guns at tier 8, on par with the Centurion's cannon. J13 STA 1  With the 90mm gun Type 61 the tank turns into a devastating, all-around medium, and one of the best sniper support of the game. J13 STA 1  
+
+If you're one of the top tanks of the battle, feel free to drive around the battlefield, and help your team with your superior penetration, RoF, and accuracy, wherever you're needed the most. J13 STA 1  Your 45 km/h top speed is not as good as the T-44's, but it's decent enough, and the excellent maneuverability eases this small pain. J13 STA 1  STA-1 won't feel lost in higher tier battles either, since its good camo value and its top gun's great penetration make sniping always a viable option. J13 STA 1  You'll always need to keep your eyes open though, since the extremely thin all-around armor can get you killed in no time, if the enemy concentrates its fire on you. J13 STA 1 
+
+The STA-1 is loved by one part of the community and hated by the other. J13 STA 1  Use it as ultimate flanker/harasser, and second-line support in tier 8 battles, or make good use of it as a precise, mobile sniper, while staying hidden in T9-10 ones. J13 STA 1 
+
+The best way to play the STA-1 is to be always on the run. J13 STA 1  Never stop, shoot once and then drive away. J13 STA 1  
+
+|InTheGame_research=
+*Research the 90mm Rifled Gun first. J13 STA 1  By this tier 155 penetration (even lower than [[Tank:Chi_To|Chi-To]] and [[Tank:Chi_Ri|Chi-Ri]]) is completely inadequate, so improving upon that should be your top priority. J13 STA 1 
+*The stock tracks can actually take both the upgraded turret as well as the top gun, provided you don't overload the tank with equipment (Vents or Gun Rammer will fit). J13 STA 1  Besides the increased view range and hitpoints the upgraded turret also improves the RoF of the gun, which is useful when working your way up to other upgrades. J13 STA 1 
+*If you instead want more mobility after researching the 2nd gun, you should research the upgraded tracks and then engine. J13 STA 1 
+*Radio upgrade can be left last, as it only adds 30m of range while weighing 80kg more. J13 STA 1  It's also used on the [[Tank:Type_61|Type 61]] so make sure not to sell it when you move up to the next tier. J13 STA 1 
+|InTheGame_equipment= Vertical Stabilizer, Medium-Caliber Tank Gun Rammer, GLD, Coated Optics, Vents
+
+|History= 
+After World War II, Supreme Commander of the Allied Powers ceased all military manufacturing and development plants in Japan, resulting in Japan losing the technology needed to build and manufacture tanks and armored vehicles. J13 STA 1  However, due to the Korean War, SCAP ordered Japan to re-militarize, forming armed forces  and provided M4A3E8 Sherman and M24 Chaffee tanks. J13 STA 1 
+
+The average height of a Japanese person at the time was too small for the M4A3E8, and drivers had difficulty reaching the clutch pedal with their foot. J13 STA 1  In addition, the M4 was becoming obsolete. J13 STA 1  The M24, though it was popular amongst the Japanese crews, was inadequate when facing Soviet T-34/85s, as seen in Korea. J13 STA 1  Thus, as the tanks in JGSDF service at the time were obsolete/inadequate, the JGSDF was provided with the option of either purchasing the new American built M46 Patton and later, the M47 Patton or develop their own MBT in 1954. J13 STA 1  Due to the high cost of purchasing American made tanks, and because the M47 did not meet their requirements, the JGSDF decided on developing their own main battle tank, resulting in the development of the STA-1, which became later the Type 61. J13 STA 1  In this way, the domestic tank development in Japan restarted after a blank of 10 years from 1945. J13 STA 1 
+
+Four Prototyps were made in total
+
+'''STA-1''' is the first prototype built based on request specifications. J13 STA 1  Because they adopted rear engine front drive system, a shaft lies at a hull bottom. J13 STA 1  Some stature became high hereby. J13 STA 1  They designed turret ring lower than an engine deck in order to keep height. J13 STA 1  Therefore body length grows and had 7 wheels. J13 STA 1 
+
+'''STA-2''' was built with STA-1 by simultaneous progress. J13 STA 1  STA-2 body was shortened, and the upper hull was flattened. J13 STA 1  JGSDF executed a field examination with these 2 varieties of prototypes. J13 STA 1  They attached much importance to a mobility in deep mud, because a lot of paddy existed in Japan. J13 STA 1  They chose STA-2 which mobility ability was superior to. J13 STA 1  
+
+'''STA-3''' The semiautomatic loading system was produced experimentally for the shell loading, and AA machine gun on STA-3 is operated by remote control. J13 STA 1  However, because a real operation guarantee was unidentified and these devices exceeded a cost limit, it was omitted in next prototype STA-4. J13 STA 1 
+
+'''STA-4''' is prototype to be the nearest to the Type 61. J13 STA 1  The device of some examinations was omitted. J13 STA 1  But the engine was improved a little. J13 STA 1  The AA machine gun was enclosed by armour like a shellfish sealed. J13 STA 1  (But this machine gun system was abolished in manufacturing type. J13 STA 1 )
+
+
+|HistoricalGallery=
+image:STA1a. J13 STA 1 jpg{{!}}STA-1
+image:STA1_. J13 STA 1 jpeg{{!}}STA-1
+image:STA1. J13 STA 1 jpeg{{!}}STA-1
+image:STA2. J13 STA 1 jpeg{{!}}STA-2
+image:STA2b. J13 STA 1 jpg{{!}}STA-2
+image:STA3. J13 STA 1 jpeg{{!}}STA-3
+image:STA3b. J13 STA 1 jpeg{{!}}STA-3
+image:STA3c. J13 STA 1 jpeg{{!}}STA-3
+image:STA4a. J13 STA 1 jpeg{{!}}STA-4
+image:STA4b. J13 STA 1 jpeg{{!}}STA-4
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://en. J13 STA 1 wikipedia. J13 STA 1 org/wiki/Type_61 
+* https://tankguy. J13 STA 1 gooside. J13 STA 1 com/type61history/Type61History. J13 STA 1 html
+
+|Sidebar_Camostop=15. J13 STA 1 5
+|Sidebar_Camomove=11. J13 STA 1 6
+|Sidebar_Camofire=3. J13 STA 1 7
+|Sidebar_Passhard=0. J13 STA 1 959
+|Sidebar_Passmed=1. J13 STA 1 055
+|Sidebar_Passsoft=2. J13 STA 1 11
+|Sidebar_DispTurret=0. J13 STA 1 096
+|Sidebar_DispRecoil=2. J13 STA 1 877
+|Sidebar_DispAccel=0. J13 STA 1 153
+|Sidebar_DispTurning=0. J13 STA 1 153
+}}

@@ -1,0 +1,123 @@
+{{TankData|Tank=
+|With a covered top, the SU-85 has much better survivability against HE damage than its predecessor, the [[SU-85B]]. R02 SU-85  Despite this, the weak armor and low HP of the SU-85 requires it to cling to its stealth in order to survive; one should avoid direct confrontation as long as possible. R02 SU-85  With decent accuracy, modest penetration, and respectable damage, the gun of choice for many players is the 85mm D5S-85BM. R02 SU-85  Worth noting is another possible weapon, the 122 mm M-30S, which can be devastating at close range with HEAT ammunition, and possibly HE in 8. R02 SU-85 6, although one must make sure to be fully aimed and not too far away, due to the extreme inaccuracy. R02 SU-85  Whichever weapon you choose, be extremely cautious of taking return fire. R02 SU-85 
+
+|Gallery=
+image:SU85-a. R02 SU-85 jpg{{!}}Front right
+image:SU85-b. R02 SU-85 jpg{{!}}Front left
+image:SU85-c. R02 SU-85 jpg{{!}}Rear right
+image:SU85-d. R02 SU-85 jpg{{!}}Rear left
+
+|InTheGame_pros=
+*Accurate
+*Great camouflage
+*Fast top speed
+*Solid damage
+*Top gun is very balanced, with good alpha and dispersion values
+
+|InTheGame_cons=
+*Disgusting view range
+*Very poor armor
+*Relatively long reload
+*Modules get easily damaged
+*Top cannon is very pricey to research
+
+
+|InTheGame_performance=
+While it has low survivability, the SU-85's terrific camouflage values allow it to stay hidden at even close ranges. R02 SU-85  However, it is unable to engage targets at range without help; the horrible view range requires allied tanks to spot for you. R02 SU-85  Whilst not immediately evident, in actuality the 85mm D5S-85BM has respectable alpha damage, which can strip HP away from its peers at an alarming rate. R02 SU-85 
+
+It is important not to overlook the great top speed the SU-85 offers. R02 SU-85  In many situations it can be a better asset than the [[StuG III]]'s agility. R02 SU-85  You can get across the map very fast, allowing you to escape dangerous situations or get into position faster than most vehicles you will come across. R02 SU-85 
+
+|InTheGame_research=
+From stock, the SU-85 can equip all of its gear '''without''' needing to research the suspension, so if you researched the SU-85 from the [[T-34]] you can already equip the upgraded engine and radio. R02 SU-85  Otherwise, it is recommended you unlock the modules in the following order:
+
+*Research the 85mm gun first
+*Then get the 85mm D5S-85BM
+*Then get the engine
+*Get the suspension
+*Get the radio
+Note that the 122 mm howitzer is only used by the SU-85. R02 SU-85   Unless you want to elite the SU-85 (or you want to use it), you can skip it entirely. R02 SU-85 
+
+|InTheGame_equipment=Tank Gun Rammer, Improved Ventilation, Camouflage Net
+
+
+|History=
+[[image:SU-85_775px. R02 SU-85 jpg|thumb|200px|right|SU-85, Military Museum of Lubuskie, Poland]]
+The SU-85 was a Soviet self-propelled gun used during World War II, based on the chassis of the [[T-34]] medium tank. R02 SU-85  Earlier Soviet self-propelled guns were meant to serve as either assault guns, such as the SU-122, or as mobile anti-tank weapons: the SU-85 fell into the latter category. R02 SU-85  The designation SU-85 is derived as follows: 'SU' stands for the Russian: Samokhodnaya Ustanovka - self-propelled carriage, while "85" signifies the bore of the vehicle's armament, the 85 mm D-5T gun. R02 SU-85 
+
+== Development history ==
+[[image:SU-85 Czerniakow 800px. R02 SU-85 JPG|thumb|200px|right|SU-85 at Czerniakow]]
+Early in World War II, Soviet tanks such as the [[T-34]] and [[KV|KV-1]] had enough firepower to destroy any German tank then available. R02 SU-85  However, in the fall of 1942, Soviet forces encountered the new German Tiger tank, with armor too thick to be penetrated by the 76. R02 SU-85 2 mm guns used in the T-34 and KV tanks at a safe range. R02 SU-85 [1] By spring 1943, the Soviets had also received reports of the new Panther tank, although the Panther was not seen in combat until July 1943, during the battle of Kursk. R02 SU-85  This new generation of German vehicles meant the Red Army needed a new and more powerful tank destroyer. R02 SU-85 
+
+In May 1943, work was begun on both a new anti-tank gun and a redesign to the armament of the SU-122. R02 SU-85  Developers of the former put their efforts towards adapting the 85 mm heavy anti-aircraft gun, one of two types identified as best against the Tiger (the other being the 122 mm A-19). R02 SU-85  The SU-122, meanwhile, was rearmed with an existing 85 mm gun, the S-18, which was itself improved in the process. R02 SU-85  The production factory at Uralmash, which received the SU-122 design, attempted to reject the design as too expensive, since the larger gun breech meant that the entire hull would need to be modified, but it was required nevertheless to put the design into production. R02 SU-85 
+
+Of the SU-85, several prototypes were rejected for design flaws, but after several changes, which included changing the gun to a D-5T, one was put into service as the SU-85. R02 SU-85 [1] At the same time, the [[Gun#85mm_D-5S|85mm D-5S]], which had proven both effective and reliable, was modified to include a telescopic sight and a new ball mantlet design and retitled the SU-85-II. R02 SU-85 [1]
+
+== Description ==
+[[image:SU-85_net_450px. R02 SU-85 jpg|thumb|200px|right|SU-85 with Camo Net]]
+The SU-85 was a modification of the earlier SU-122 self-propelled howitzer, essentially replacing the 122 mm M-30S howitzer of the SU-122 with a D-5T high-velocity 85 mm antitank gun. R02 SU-85  The 85 mm gun was effective against Panther and Tiger tanks at long range. R02 SU-85  The vehicle was small, highly mobile, and well armored. R02 SU-85 
+
+== Production history ==
+SU-85 production started in mid-1943, with the first vehicles reaching their units by August. R02 SU-85  When the up-gunned T-34-85 medium tank entered mass production in the spring of 1944, there was no point in continuing production of a tank destroyer without superior firepower,[2] so SU-85 production was stopped in late 1944 after 2,050 vehicles had been produced. R02 SU-85  It was replaced on the production lines by the SU-100 tank destroyer, armed with the more powerful 100 mm D-10S gun. R02 SU-85 
+There were two versions: the basic SU-85 had a fixed commander's cupola with a rotating periscope and three vision blocks; the improved SU-85M had the same casemate as the SU-100, with a commander's cupola as used on the [[T-34-85]]. R02 SU-85 
+
+== Service history ==
+SU-85 tank destroyer of the Polish 13th Self-Propelled Artillery Regiment. R02 SU-85  This vehicle is missing its right first road wheel and its front fenders. R02 SU-85 
+The SU-85 entered combat in August 1943. R02 SU-85  It saw active service in Soviet, Polish, and Czechoslovak forces on the Eastern Front until the end of the war. R02 SU-85  It was obsolete by 1945, and was withdrawn from active service not long after the war to be exported to many Soviet client states in Europe and elsewhere. R02 SU-85 
+The SU-85 remained in service longer in North Korea and Vietnam. R02 SU-85 [3] The similar [[SU-100]] remained in service much longer, and some SU-85 and SU-100 were converted and used as command and recovery vehicles. R02 SU-85 [4]
+
+== Variants ==
+
+==== Former Soviet Union ====
+[[image:SU-85 Polish13th 300px. R02 SU-85 jpg|thumb|200px|right|Polish 13th SU-85]]
+* SU-85-I - First SU-85 prototype, rejected for space concerns. R02 SU-85  Armed with 85 mm S-18 gun. R02 SU-85  [1]
+* SU-85-IV - Second prototype also with a standard hull of the SU-122 but it had a larger ball mantlet, different from the one used in SU-85-I. R02 SU-85  Armed with 85 mm S-18 gun. R02 SU-85  [1]
+* SU-85-II - Third SU-85 prototype with the new 85 mm D-5S gun, a new TSh-15 sight, and a new ball mantlet design. R02 SU-85  [1]
+* SU-85 - Main production model armed with 85 mm D-5T gun. R02 SU-85 
+* SU-85BM - An SU-85 with an improved 85mm gun, the D5S-85BM. R02 SU-85  The muzzle velocity of the gun was increased to 900 m/s, leading to 20 percent increase in penetration. R02 SU-85  The barrel was 1068mm longer than the one of the original D-5S and to compensate for this, the trunnions were pushed back by 80 milimeters. R02 SU-85  The prototype vehicle (the implementation of this gun into the SU-85) was made by the Uralmash plant in January 1944. R02 SU-85  It was tested at Gorokhovets proving ground between March and April 1944. R02 SU-85  It passed the tests, but was never accepted in service because of the appearance of the SU-100 project. R02 SU-85 
+* SU-85M - SU-85 with the casemate from the SU-100 tank destroyer, which was larger and could carry up to 60 rounds instead of 48. R02 SU-85  It also had the same commander's cupola as the one used in the T-34-85. R02 SU-85 [1]
+* SU-85T - SU-85 converted into an ARV. R02 SU-85 
+* SU-85-III - Fourth SU-85 prototype with a modified commander's cupola, with direct vision slots and covers. R02 SU-85 
+
+==== Poland ====
+WPT-34 (1960s) - Polish repair and maintenance vehicle with a superstructure replacing the casemate, a crane, a large-diameter telescoping snorkel for deep fording operations, as well as a large-spade type earth anchor in the rear. R02 SU-85  It was converted from SU-85 tank destroyers as well as T-34 medium tanks and SU-100 tank destroyers. R02 SU-85 
+
+|HistoricalGallery=
+image:SU-85 Cuba Display. R02 SU-85 jpg{{!}}SU-85 Cuba Display
+image:SU-85 Cuba Display_2. R02 SU-85 jpg{{!}}SU-85 Cuba Display
+image:SU-85 Cuba Display_3. R02 SU-85 jpg{{!}}SU-85 Cuba Display
+image:SU-85M_entering_Berlin_in_May_1945. R02 SU-85 jpg{{!}}SU-85M entering Berlin in May 1945
+image:SU-85. R02 SU-85 jpg{{!}}Su-85 crew posing for photo in the rare quiet moments of the was
+image:Su85_tank_destroyer. R02 SU-85 jpg{{!}}Su85 fresh out of the factory
+image:SU-85_tank_destroyer_in_Polish_Army_Museum. R02 SU-85 . R02 SU-85 JPG{{!}}SU-85 tank destroyer in Polish Army Museum
+image:Su85_side_view. R02 SU-85 jpg{{!}}Su85 side view
+image:Su-85_in_Usti_nad_Labem_(Aussig),_Czechoslovakia,_9_May_1945. R02 SU-85 . R02 SU-85 JPG{{!}}Su-85 in Usti nad Labem (Aussig), Czechoslovakia, 9 May 1945
+image:Su85_in_german_service_had_designation_JagdPz-85(r). R02 SU-85 jpg{{!}}Su85 in german service had designation JagdPz-85(r)
+image:SU-85_front_view. R02 SU-85 jpg{{!}}SU-85 tank destroyer of the Polish 13th Self-Propelled Artillery Regiment. R02 SU-85 
+image:SU-85_during_delivery_to_the_crews_at_the_production_plant. R02 SU-85 jpg{{!}}SU-85 during delivery to the crews at the production plant. R02 SU-85 
+image:SU-85_delivered_to_the_crews_at_the_production_plant. R02 SU-85 jpg{{!}}SU-85 delivered to the crews at the production plant
+image:Liberating_Minsk_during_Operation_%C2%BBBagration%C2%AB,_July_1944. R02 SU-85 jpg{{!}}:Liberating Minsk during Operation »Bagration«, July 1944
+image:Captured_Su-85_in_german_service. R02 SU-85 jpg{{!}}Captured Su-85 in german service
+File:Su-85BM-1. R02 SU-85 png{{!}}SU-85BM with the upgraded gun, the D-5S-85BM
+
+|HistAcc=
+The SU-85 with the 85 mm D5S-85BM gun was never accepted into service because of the appearance of the SU-100 project. R02 SU-85 
+
+|Ref_references=
+* Perrett, Bryan (1987). R02 SU-85  Soviet Armour Since 1945, London: Blandford. R02 SU-85  ISBN 0-7137-1735-1. R02 SU-85 
+* Zaloga, Steven J. R02 SU-85 , James Grandsen (1984). R02 SU-85  Soviet Tanks and Combat Vehicles of World War Two, London: Arms and Armour Press. R02 SU-85  ISBN 0-85368-606-8. R02 SU-85 
+
+|Ref_sources=
+# a b c d e f g "The Russian Battlefield"
+# (Zaloga 1984:181, Perrett 1987:84)
+# (Perrett 1987:84)
+# (Perrett 1987:85)
+
+|Ref_links=
+* [[https://en. R02 SU-85 wikipedia. R02 SU-85 org/wiki/SU-85 Wikipedia]]
+* [[https://www. R02 SU-85 wwiivehicles. R02 SU-85 com/ussr/tank-destroyers/su-85. R02 SU-85 asp SU-85 at WWIIvehicles. R02 SU-85 com]]
+* [[https://tankarchives. R02 SU-85 blogspot. R02 SU-85 com/2016/12/su-85bm. R02 SU-85 html pictures of SU-85BM with D-5S-85]]
+* https://zhurnalko. R02 SU-85 net/=weapon/tankomaster/2002-01--num20
+* https://ftr. R02 SU-85 wot-news. R02 SU-85 com/2014/01/26/su-85bm-and-su-122p-historical-guns-on-soviet-tds/
+}}
+
+[[Category:USSR Tanks]]

@@ -1,0 +1,47 @@
+{{TankData
+| [//eu. R118 T28 F30 wargaming. R118 T28 F30 net/shop/wot/specials/2812/ Released] December 1st, 2015 for a short period. R118 T28 F30  It is unlikely to see regular appearances in the gift shop. R118 T28 F30 
+
+|Gallery=
+
+File:Т-28Э с Ф-30 scr 1. R118 T28 F30 jpg
+File:Т-28Э с Ф-30 scr 2. R118 T28 F30 jpg
+File:Т-28Э с Ф-30 scr 3. R118 T28 F30 jpg
+
+
+|InTheGame_pros=
+* Good penetration
+* Good rate of fire
+* Armor is improved from standard T-28, you won't get killed by machine gun fire
+* Nice alpha damage for a tier IV medium (85mm HE shells are deadly at tier 4)
+* It can carry a very nice amount of shells
+
+|InTheGame_cons=
+* Same 500 HP engine as the standard T-28, making it more sluggish because of the extra armor, loses about 10 km/h top speed
+* Dreadful camouflage rating
+* Increased armor is still pretty poor, though still gets occasional bounces 
+* Bad radio range (radio can be found on tier 2 tanks)
+* Bad aiming time 
+
+|InTheGame_performance=
+Not actually having had this tank, I can only provide what I know about it from the business end of the gun. R118 T28 F30  But, this is player opinion. R118 T28 F30 
+First off, from experience using similar tanks, I would use this medium as a sniper or second line fire support. R118 T28 F30  Penetration is good enough for such a play style; not many tier fours can withstand 120mm pen, regardless of distance. R118 T28 F30  Accuracy is not the best, only being . R118 T28 F30 43, but from the second line could be effective. R118 T28 F30  
+Being slower then its counterpart, definitely don't drive into the open. R118 T28 F30  While the increased armor is helpful, its not going to save you from SPGs, or an ambushing Hetzer. R118 T28 F30  Push when your team pushes, don't go ahead of them. R118 T28 F30  I have been more scared of a sniping T-28 with F30 then when it charges. R118 T28 F30  The good rate of fire will make up for misses. R118 T28 F30  Never sit in one place for long: your dreadful camo ratings and large size just beg for a HE shell to smack you on the top. R118 T28 F30  
+|InTheGame_research= Only the stock modules are available, so no research is needed. R118 T28 F30 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+
+|HistoricalGallery=
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

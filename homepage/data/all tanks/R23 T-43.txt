@@ -1,0 +1,92 @@
+{{TankData|Tank=T-43
+|Designed to replace the [[T-34]], and actually historically predating the [[T-34-85]], the T-43 features increased hull armor and a new torsion bar suspension replacing the T-34's Christie suspension, but retains the same weapons as the T-34-85 and has similar turret protection. R23 T-43  As a Tier 7 medium tank, the T-43 is expected to face Tier 9 tanks using the same gun that the T-34-85 had at Tier 6, which can be frustrating at times, to say the least. R23 T-43 
+
+|Gallery=
+image:T43a. R23 T-43 jpg{{!}}Front right
+image:T43b. R23 T-43 jpg{{!}}Front left
+image:T43c. R23 T-43 jpg{{!}}Rear right
+image:T43d. R23 T-43 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* Excellent DPM, with relatively fast rate of fire. R23 T-43  (Made even better with rammer, vents, and BiA. R23 T-43 )
+* Good depression and elevation angles, especially for a Soviet tank. R23 T-43 
+* Good turret armor, combined with decent gun depression. R23 T-43 
+* Good side and rear armor. R23 T-43  Surprisingly good at side-scraping. R23 T-43 
+
+|InTheGame_cons=
+* Above average resistance values and mediocre P/W ratio mean rather sluggish mobility. R23 T-43 
+* Average at best gun handling. R23 T-43 
+* Exposed fuel tanks can easily catch fire from a penetrating hit to the front. R23 T-43 
+* Mounts the same exact 85mm gun the T-34-85 gets, and cannot mount it immediately at stock. R23 T-43 
+* Bad stock gun makes for a terrible initial grind
+
+
+|InTheGame_performance=
+The T-43 plays the same as the T-34-85, and is generally considered the mid runner of the Tier 7 medium tanks, much like how the T-34-85 was also the mid runner among the Tier 6 medium tanks. R23 T-43  It generally does not have any particularly outstanding features, but will perform most roles competently, if not remarkably. R23 T-43 
+
+Armament-wise, the T-43 retains the same guns as the T-34-85, but most disappointing is that the T-43 cannot mount the top gun, the '''85 mm D5T-85BM''', right from the start. R23 T-43  Though once mounted, it has a higher rate-of-fire on the T-43 than on the T-34-85. R23 T-43  It has good damage-per-minute for a Tier 7 medium tank gun, inferior only to the [[Comet]]'s OQF 77 mm Gun. R23 T-43  Like the Comet, however, this is countered by the gun's fairly low penetration, which means that outside of Tier 7 matches the T-43 will have trouble penetrating nearly all tanks from the front, and many from the sides. R23 T-43 
+
+Mobility-wise, the T-43 is fairly decent, but unremarkable. R23 T-43  Being heavier than the T-34-85 while using the same engine, it has a lower power-to-weight ratio, and hence accelerates more sluggishly. R23 T-43  Having said that, the top speed is fairly decent, and it will have no problems relocating to other flanks as needed. R23 T-43  Maneuverability is, though not outstanding, good enough for a medium that is primarily a flanker. R23 T-43  
+
+The T-43 does have better hull armor than the T-34-85, but must now face Tier 8 and 9 tanks on a regular basis, so it is not actually that much of an improvement. R23 T-43  It is useful against lower tier tanks, and angling will yield some lucky ricochets, but the armor should generally not be relied upon to protect it beyond its well sloped turret. R23 T-43  The module layout, combined with the generally more powerful guns that the T-43 faces regularly, means that even if it can survive the hits, it risks being crippled with modules or crew members knocked out. R23 T-43 
+
+With all this in mind, the T-43 generally performs best as a second-line support tank or flanking medium. R23 T-43  It simply does not have the penetration and accuracy of the [[Pz. R23 T-43 Kpfw. R23 T-43  V Panther]] to perform as a sniper, nor does it have the armor or agility to engage in close combat with enemy tanks without taking heavy damage and/or crippled modules. R23 T-43  Picking your targets wisely should be a primary goal. R23 T-43  As the tanks great DPM, great alpha (for a DPM oriented cannon), strong turret armor and sloped armor can give weaker tanks a tough time. R23 T-43  Exploiting weaker enemies will also allow your team to take on tougher targets. R23 T-43  
+
+Specific mention should be made about the T-43's fuel tank, which is placed right next to the driver to his left. R23 T-43  Hits to the front can damage the fuel tank, and if destroyed, the fuel tank will cause the T-43 to catch fire. R23 T-43  It is very important to be mindful of this. R23 T-43  There is also an ammo rack on the hull floor and on the rear right side of the second turret. R23 T-43 
+
+An alternate choice to the D5T is the 122mm U-11. R23 T-43  Equipped with this cannon the T-43 can be played very aggressively in support of heavy tanks or in the company of other mediums. R23 T-43  The U-11 is able to damage most opponents reliably, albeit lightly, even from the front. R23 T-43  In addition the U-11 allows for consistent module damaging and crew killing shots that can significantly hamper higher tier vehicles. R23 T-43  However, there are two downsides to this play-style: 1) The sluggish acceleration makes it tough to get away after firing, unlike the [[T-34-85]], which can effectively employ hit-and-run tactics. R23 T-43  2) The damage potential against heavily armoured opponents is simply too low to be useful in tier 8 or 9 matches. R23 T-43  One-shot kills become nearly impossible and with the 122mm the T43 lacks the DPM to take the enemy down quickly with multiple shots. R23 T-43 
+
+This enables the T-43 to engage opponents successfully at close range using circling tactics while keeping the enemy tracked. R23 T-43  So crippled, these enemies can then be picked apart by the T-43 and any allies with a shot at the enemy vehicle. R23 T-43 
+
+=='''Crew Skills'''==
+* Due to the fact that the T-43 takes a lot of module damage, going ll '''Camouflage''' as the first skills is helpful to reduce the chances of being detected and getting hit in  the first place. R23 T-43  As with most medium tanks, going all '''Repair''' for the first skills is also viable. R23 T-43 
+* A more specialized set of first skills would be '''Situational Awareness''' (Commander), '''Snap Shot''' (Gunner), and '''Smooth Ride''' (Driver). R23 T-43  The loader only has perks available, which are not useful until they have reached 100%, '''Repair''' or '''Camouflage''' are viable options for the loader, which may later be swapped out for his perks. R23 T-43  The combination of Snap Shot and Smooth Ride act like a Vertical Stabilizer (which the T-43 does not have access to), reducing the accuracy penalties while moving in a straight line or turning the turret, and by extension, allowing the T-43 to get an accurate shot off faster after stopping. R23 T-43  Situational Awareness increase the tank's decent 360 m view range further. R23 T-43  '''Mentor''' may also be used instead of Situational Awareness if the emphasis is on getting the other crew members' skills up faster. R23 T-43  Smooth Ride may be substituted with '''Off-Road Driving''' for improved overall mobility. R23 T-43  '''Clutch Braking''' also a viable option for the driver. R23 T-43 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly advised, as it is one of the most important perks in the game, especially for a medium tank. R23 T-43  The loader's skill is highly advised to be dropped in favor of '''Safe Stowage''', due to the T-43's highly vulnerable ammunition racks. R23 T-43 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R23 T-43  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R23 T-43  It improves nearly every aspect of the tank's performance, but is generally better saved for later in favor of more important skills and perks like Repair, Safe Stowage, and Sixth Sense. R23 T-43 
+
+|InTheGame_research=
+* Most of the modules will have been unlocked on the T-34-85, including the top gun (the D5T-85BM) and engine (the V-54K), but mounting the gun requires second turret, which in turn requires the upgraded suspension, so the top priority is to unlock the '''T-43M suspension'''. R23 T-43  The suspension also has better terrain passability which makes you accelerate much faster. R23 T-43 
+* Next, research the '''T-43 mod. R23 T-43  1943 turret''' in order to mount the D5T-85BM. R23 T-43 
+* It may be a good idea to use the enhanced suspension equipment first, thus allowing the top turret and gun to be mounted sooner. R23 T-43 
+* The '''V-2-44''' is automatically unlocked when the T-44 is researched and can be ignored. R23 T-43 
+Note: It is possible to skip the engine upgrades in favor of simply moving on to the T-44, although this is not advised. R23 T-43 
+
+|InTheGame_equipment=
+Vents, Medium-Caliber Tank Gun Rammer, Enhanced Gun Laying Drive, Coated Optics, Enhanced Suspension, "Wet" Ammo Rack
+
+
+|History=
+In 1942 the Soviet intelligence had information of the new German tanks Panther V and Tiger VI, and this resulted in a need of a new Russian tank to even the score in fire power and protection. R23 T-43  At first it was planned to up-armour the T34 m/43, but instead a larger turret was put to the same chassis that was altered inside. R23 T-43 
+Two prototypes were built, known as T43 and they had a commander's cupola on top. R23 T-43  At the beginning of 1943 they were tested and turned out to be just a little better in combat than T34. R23 T-43  The decision was taken to start production, but after the battle of Kursk a few months later the it was obvious that a brand new heavy tank model was needed instead (it was to be IS-1) and thus the T43 project came to a close. R23 T-43 
+
+By the middle of the war it had become clear that the Red Army needed a new medium tank. R23 T-43  The military demanded a tank with both maximum protection and minimum weight. R23 T-43  These demands were implemented and the new medium tank project was completed by June 1943 under the name of T-43. R23 T-43 
+== Development ==
+The T-43 had a configuration like the T-34 Medium Tank; its glacis consisted of 75 mm of armor and its turret-front was 90 mm. R23 T-43  The tank was armed with the 76. R23 T-43 2 mm F-34 Tank Gun. R23 T-43  However, the total length of the engine and transmission compartment was not reduced; therefore, the battle compartment remained very cramped. R23 T-43  To increase internal space, Soviet designers applied a torsion bar suspension that was more compact then the original Christie «candle» suspension. R23 T-43  It was the first time that a torsion bar suspension was used for medium tanks. R23 T-43 
+
+Beginning in March 1943, two T-43 prototypes (preceded by vehicle T-43-1, which was built at the end of 1942. R23 T-43  It possessed a driver's vision hatch and had the commander's cupola displaced to the rear of the turret. R23 T-43 ) underwent trials. R23 T-43   These included combat trials with the NKSM Independent Tank Company. R23 T-43  These showed that the T-43, because of its increased 34. R23 T-43 1 ton weight, was marginally inferior to the T-34 in its ability to maneuver (maximum speed was decreased to 48 km/h). R23 T-43  It did, however, significantly surpass the latter in smoothness of ride. R23 T-43  The replacement of the eight side fuel tanks (on the T-34) for a smaller capacity fuel tank in the bow resulted in almost a 100km decrease in the radius of action. R23 T-43  Tank crews praised the crew compartment and greater ease in operating the armament. R23 T-43  After trials, the T-43 tank was recommended for acceptance by the Red Army at the end of the summer of 1943, but the results of the Battle of Kursk significantly altered this plan. R23 T-43 
+
+The armor protection was superior, compared to the T-34, while its armament was similar to the KV-1S Heavy Tank. R23 T-43  However, the T-43 had a ground pressure similar to heavy tanks that adversely affected its range and maneuverability. R23 T-43   Even worse was its extreme construction: it didn't allow further modernization. R23 T-43  As a result, when production T-34's were rearmed with the 85 mm gun, the T-43 became obsolete. R23 T-43  However, experience with the T-43 was not lost. R23 T-43  The T-43's tests (3,000 km race) had clearly proved the superiority of the torsion bar suspension over the Christie's. R23 T-43 
+
+|HistoricalGallery=
+Tank T-43. R23 T-43 jpg
+T-43 (2). R23 T-43 jpg
+
+|HistAcc=
+The T-43's actual main armament is the [[Gun/USSR#76 mm F-34|76 mm F-34]] gun. R23 T-43  All of the current gun configurations are fake. R23 T-43 
+* The 85 mm D5T-85BM was only developed for the [[SU-85]]. R23 T-43  The weapon itself never entered service because of the appearance of the SU-100 project. R23 T-43 
+* The 122 mm U-11 was actually designed for the T-34/76. R23 T-43  However, because the larger KV tank turret already struggled with insufficient comfort of service and rate of fire when armed with the howitzer, the proposal was rejected as "nonsensical". R23 T-43 
+* The T-43 was cancelled in favour of the T-34-85. R23 T-43  In World of Tanks, however, the T-34-85 precedes the T-43. R23 T-43 
+* Actual engine power is 500 hp. R23 T-43  All the other engine configurations are fake. R23 T-43 
+* The V-54K engine was only fitted to the [[ISU-152]]K and [[T-54]]. R23 T-43 
+
+|Ref_references=
+
+
+|Ref_sources=
+https://english. R23 T-43 battlefield. R23 T-43 ru/t-43. R23 T-43 html
+https://www. R23 T-43 nemo. R23 T-43 nu/ibisportal/5pansar/5sidor/t43. R23 T-43 htm
+
+
+|Ref_links=
+https://www. R23 T-43 battlefield. R23 T-43 ru/en/tank-development/32-experimental-vehicles/94-t43. R23 T-43 html
+}}

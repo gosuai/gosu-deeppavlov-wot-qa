@@ -1,0 +1,55 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good aim time and gun handling
+* Very good armor, same hull and turret as the Tier 10 [[M48A5 Patton]]
+* Very good gun depression
+* Dozer blade counts as spaced armor and completely covers the lower glacis
+* Large hitpoint pool
+
+|InTheGame_cons= 
+* Very poor accuracy for a 90mm gun
+* Large target with bad camouflage
+* Low top speed, one of the slowest Tier 8 medium tanks
+* Big and poorly armored turret cupola is a prominent weakspot
+* Awkward crew trainer, the loader is also the radio operator
+
+|InTheGame_performance= 
+
+The Räumpanzer is a difficult medium tank to come to grips with. G142 M48RPz  One would think that, being an American chassis in the German tech tree, it would either be a flexible fighter or a reliable sniper. G142 M48RPz  However, the sum of its parts is that this tank is ultimately neither of those things. G142 M48RPz  Its main strength is that it uses the solid M48 as a base, which has a decent armor layout for a tier 8 medium. G142 M48RPz  However, this strength is hampered by lacking maneuverability and a gun that struggles to behave itself. G142 M48RPz  In this way it is spiritually akin to the [[T26E4 SuperPershing]] as a concept. G142 M48RPz  However, note that the Räumpanzer gets full matchmaking and will see tier 10s. G142 M48RPz 
+
+The poor accuracy on its 9cm gun is one of its greatest limiting factors. G142 M48RPz  Unfortunately, with a base . G142 M48RPz 42 accuracy, it will take vents, food, ''and'' Brothers-in-Arms to bring it down to even a remotely reasonable level (. G142 M48RPz 37), and this still means that you will be less accurate than other tanks such as the [[M46 Patton KR]]. G142 M48RPz  This makes long range combat a non-viable option, and will force you get to close to put the Räumpanzer's DPM to work. G142 M48RPz  This is not helped by other features such as its sluggishness, making it hard to fight up hills, and its mediocre agility, which are more in line with a fast heavy than a medium. G142 M48RPz 
+
+Fortunately, the bulldozer blade and the M48-type armor layout means that the Räumpanzer will do quite well in street fights. G142 M48RPz  While it handles more slowly than comparable mediums, it is noticeably tougher and most equal-tier medium shots will simply fail to defeat the sheer thickness of the turret face. G142 M48RPz  At close range, the lack of accuracy is not such a factor and the quick aim time will help you pull clutch shots against enemies. G142 M48RPz  Angle your hull (as the bulldozer blade can often make the actual alignment of your lower glacis difficult to discern at a glance) and keep your front pointed towards the enemy while you pelt them with shots where you can. G142 M48RPz  Take the time to aim; not only is the Räumpanzer's accuracy poor to begin with, but its penetration is merely average, and it needs all the help it can get to put shots where they will be most effective. G142 M48RPz 
+
+Since the rounded eggshell-type hull and turret face can give opponents considerable trouble at tier 8, especially those relying on HEAT, your most obvious weakspot will be your cupola. G142 M48RPz  Unfortunately your turret traverse is somewhat too slow to protect it in the open via turret wiggling, but you can still make it work at medium ranges or by using it as bait in a city fight. G142 M48RPz  Attack around right turns so that you can tempt your opponent with quick peeks of your cupola. G142 M48RPz  Pull back when you think they're going to take the shot to trick them into missing, then advance and punish before they can pull back. G142 M48RPz  It may also be worth tricking enemies with the edge of the bulldozer blade, as it is not always immediately apparent where your tracks or lower glacis are behind it. G142 M48RPz 
+
+Use the Räumpanzer as a bully. G142 M48RPz  Follow your team's heavies or even lead the attack yourself, and harass enemies with your rate of fire. G142 M48RPz  While you won't get very far in your attempts to flank, this is a more viable option in the cities than the fields. G142 M48RPz  Protect your heavies from flankers, who are often too thin-skinned to survive against your gun (which renders the accuracy problem moot most of the time). G142 M48RPz  ''Remain aware of artillery at all times. G142 M48RPz '' Your hull deck and turret roof are lacking in protection and you ''will'' take heavy damage from artillery hits anywhere other than directly on your thick frontal armor. G142 M48RPz  This is even more reason to stay in cities, canyons, and other close, restrictive terrain. G142 M48RPz 
+
+As the name suggests, the Räumpanzer is pretty good at ramming enemies thanks to its spaced armor bulldozer blade and considerable weight. G142 M48RPz  It is noticeably hefty as the 7th heaviest tier 8 medium tank, and can smash lighter opponents such as the [[Type 59]] if it can catch them off guard. G142 M48RPz  Russian mediums are noticeably at risk of taking severe damage from a ramming attack. G142 M48RPz  If you have the opportunity to punish a [[T-44]] with a ramming attack, go for it! A Räumpanzer weighs almost half again more than a comparable Russian medium, and they don't have the spaced armor to take the hit the way the Räumpanzer does. G142 M48RPz  Consider equipping a spall liner if you intend to go for rams often. G142 M48RPz 
+
+|InTheGame_research= 
+As a premium tank, the M48A2 Räumpanzer is elite in its stock configuration. G142 M48RPz 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics, Vertical Stabilizer, Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,61 @@
+{{TankData|Tank=
+|
+
+
+|Gallery=
+
+|InTheGame_pros=
+- Incredible burst potential; dual-barreled gunfire deals 880 damage, and can deal up to 1100 with a maximum roll. R169 ST II <br />
+- Good single shot firepower, with respectable alpha and penetration<br />
+- Decent sidescraper, great frontal turret armour. R169 ST II <br />
+- The best gun depression of all tier 10 Russian heavies (-8) makes hull down a viable option. R169 ST II <br />
+- Impressive on the move dispersion for a (russian) heavy. R169 ST II  Aim reticle doesn't bloom all that much which helps offset the bad aiming time. R169 ST II <br />
+- Sizeable HP pool for such a compact tank (2500, same as the IS-4)<br />
+- The space between the guns is noticeably smaller than on other double-barreled vehicles, making situations where only one gun deals damage and the other one doesn't with a salvo far rarer. R169 ST II <br />
+
+
+
+|InTheGame_cons=
+- One of the lowest DPM values of all tier X heavies. R169 ST II  Slow reload for its alpha and it keeps the 5 second gun switch time from the tier 9. R169 ST II <br />
+-  Essentially has the armour profile of the ST-I (tier 9 heavy), so its hull armour protection is unreliable at best. R169 ST II  Also features a large cupola that is prominently displayed at the front of the turret. R169 ST II <br />
+- Bad aiming time and accuracy. R169 ST II  <br />
+- Cosmetic top speed. R169 ST II  Bad terrain resistances and low hp/t values mean it struggles to reach its 42 km/h top speed. R169 ST II  Even when going down a slope. R169 ST II  <br />
+- Very vulnerable against SPGs due to it having a huge roof without a lot of armour. R169 ST II <br />
+- Due to the shape of the rear, reverse sidescraping is a lot more difficult than it was with its predecessors. R169 ST II <br />
+- Low HEAT penetration compared to other russian 122mm guns. R169 ST II  (310 vs 340) <br />
+
+
+|InTheGame_performance=
+The ST-II is quite different from its tier 9 counterpart and requires some getting used to. R169 ST II  It trades the mobility and frontal armour the tier 9 had for improved side armour, a more compact hull, and better guns, all of which you will immediately notice. R169 ST II 
+
+The tank is sluggish and its armour is like playing the IS-4 on hard mode, but boy do you get a solid pair of guns. R169 ST II  The increase in alpha damage lets you deal some real damage especially when firing both guns at once. R169 ST II 
+
+The tank is best played like a hull-down vehicle, where you won't have to worry to much about its relatively poor hull armour. R169 ST II  In a pinch, the tank can pull off bounces with its fairly thick side armour of 140mm. R169 ST II  But, due to an unfortunate lack of sideskirts and low track placement, there is a big gap between the tracks and the upper side hull which can be angeled too far without you noticing. R169 ST II  Also 140mm just isn't the thickest of side armour. R169 ST II 
+
+Now onto the good parts. R169 ST II  The frontal turret is substantially better than the ST-I. R169 ST II  300mm at the front with a huge mantlet means that your turret front is safe from most shells. R169 ST II  It does have a cupola that can be penetrated, but it isn't thinly armoured and can bounce shells on its own. R169 ST II  -8 gun depression allows you to take positions that other Russian heavies can only dream of. R169 ST II  The tank is also fairly small, especially compared to the tier 9. R169 ST II 
+
+|InTheGame_research=
+
+
+
+|InTheGame_equipment=
+Coated Optics, Vertical Stabilizer, Vents
+
+|History=
+
+
+|HistoricalGallery=
+
+
+|HistAcc=
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+{{}}
+
+}}

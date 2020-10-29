@@ -1,0 +1,122 @@
+{{TankData|Tank=SU-100
+|It performs much like the [[SU-85]], but has more armor and a much more powerful gun. R17 SU-100  The 85mm D5S-85BM and the starting 85mm D-5S gun carries over from the SU-85. R17 SU-100  The 85mm D-5S shows its weakness when fighting tier 7 tanks and above. R17 SU-100  You should already have the improved 85mm gun, as it is on the SU-85, and use it to get the 100mm, which is suitable for killing fast moving tanks, thanks to its high rate of fire and acceptable penetration power. R17 SU-100  Finally, you'll gain the option to equip the 122mm D-2-5S, which painfully stings heavy tanks at the expense of firing rate and accuracy. R17 SU-100 
+
+|Gallery=
+image:Su100-a. R17 SU-100 jpg{{!}}Front right
+image:SU100-b. R17 SU-100 jpg{{!}}Front left
+image:SU100-c. R17 SU-100 jpg{{!}}Rear right
+image:SU100-d. R17 SU-100 jpg{{!}}Rear left
+
+|InTheGame_pros=
+- Good choice of guns for different play styles
+
+- Sloped armour
+
+- The 122 mm D-2-5S offers the second highest alpha damage of all tier 6 TDs, only [[SU-100Y]] has better
+
+- 122 mm gun can one-shot every tier 4 tank, every SPG up to tier 7 and almost every tier 5 TD (except the [[AT 2]] unless)
+
+- Good camo rating
+
+|InTheGame_cons=
+- Poor armor
+
+- High ammo cost (122 mm gun)
+
+- Very weak Ammo rack can be hit from the front
+
+- Tracks can be easily broken
+
+- Low view range, though still a gigantic improvement over SU-85
+
+- Rather sluggish acceleration & traverse: turns like a boat
+
+- Vulnerable to drowning when crossing rivers due to low height
+
+
+|InTheGame_performance=
+The SU-100 is a support vehicle. R17 SU-100  Its thin armor and low hit points (even for a TD) means it cannot and will not take much punishment before becoming a smoking wreck. R17 SU-100  Most tanks your tier and above won't have to aim for weak spots to damage you. R17 SU-100  However this TD has the biggest punch of its tier, capable of crippling or outright destroying any tank it faces. R17 SU-100  The choice of higher DPM on the D10S or higher alpha damage on the D-2-5S allows for different styles of play. R17 SU-100  The 100mm is more suited for true "Tank Destroyer" sniping with a good aim time, decent reload, and acceptable accuracy. R17 SU-100  The 122mm is suited for ambushes, surprise attacks, and supporting your allies on a push to the enemy base. R17 SU-100  However its slow aim time and long reload means that after a shot it must find cover. R17 SU-100  The SU-100 also benefits from good camo, so it can do both roles without the enemy noticing. R17 SU-100  Overall it is an excellent but tricky tank to master. R17 SU-100 
+
+|InTheGame_research=
+*The radio and 85MM D5S-85BM carry over from the SU-85, so mount those immediately. R17 SU-100 
+*Next go for the 100mm gun as its penetration gives this tank the edge. R17 SU-100 
+*It's no longer optional to research the 122mm D-2-5S if you want to unlock the SU-152. R17 SU-100  However, whether you research it before the tracks and engine is up to you. R17 SU-100 
+*The tracks then engine should be next to improve acceleration and manoeuvrability. R17 SU-100 
+*Go up from there. R17 SU-100 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Camouflage Net, "Wet" Ammo Rack Class 1
+
+|History=
+[[image:SU-100_at_Yad_la-Shiryon_Museum_Israel. R17 SU-100 . R17 SU-100 jpg|thumb|200px|left|SU-100 at Yad la-Shiryon Museum, Israel]]
+[[image:SU-100_Brest_Fortress. R17 SU-100 jpg|thumb|200px|right|SU-100 at Brest Fortress]]
+The SU-100 was a Soviet tank destroyer. R17 SU-100  It was used extensively during the last year of World War II and saw service for many years afterwards with the armies of Soviet allies around the world. R17 SU-100 
+
+== Development ==
+It was developed in 1944 as an improvement to the SU-85, built on the same chassis as the [[T-34-85]] tank. R17 SU-100  It was designed and built at the UZTM (Russian abbreviature УЗТМ for Уральский Завод Тяжелого Машиностроения - Ural Heavy Machinery Factory, also called Uralmash) in Yekaterinburg. R17 SU-100  The SU-100 quickly proved itself to be among the best self-propelled anti-tank guns of World War II, able to penetrate 125 mm (4. R17 SU-100 9 in) of vertical armor from a range of 2,000 m (1. R17 SU-100 2 mi) and the sloped 85 mm (3. R17 SU-100 3 in) front armor of the German Panther from 1,500 m (0. R17 SU-100 93 mi). R17 SU-100 [citation needed] This was quite capable of defeating any German tank in service, for which Soviet soldiers gave it the obscene nickname "Pizdets vsemu" ("Fucking end to anything"). R17 SU-100 [1]
+The development was conducted under supervision of L. R17 SU-100  I. R17 SU-100  Gorlitskiy, chief designer of all medium Soviet self-propelled guns. R17 SU-100  The work started in February 1944, and the first prototype of SU-100, called "Object 138", was built in March. R17 SU-100  After intensive testing with different models of the 100 mm gun, Soviet engineers approved the D-10S gun for mass production. R17 SU-100  This gun was developed in Constructors Bureau of Artillery Factory No. R17 SU-100  9 under guidance of F. R17 SU-100  F. R17 SU-100  Petrov. R17 SU-100  After the Second World War, it was installed on T-54 and T-55 tanks and its derivatives were in service forty years after initial development. R17 SU-100  The hull of the SU-100 had major improvements over the SU-85; thickness of front the armour plate was increased from 45 to 75 mm (1. R17 SU-100 8 to 3. R17 SU-100 0 in), and the commander's workplace was made in a small sponson on the right side of the hull. R17 SU-100  Combined with the commander's cupola, this greatly improved the commander's effectiveness. R17 SU-100  For better ventilation, two ventilator units were installed instead of only one as in the SU-85. R17 SU-100  Mass production began in September 1944. R17 SU-100 
+
+== In service ==
+[[image:SU_100_Czech_Republic_800px. R17 SU-100 jpg|thumb|200px|right|SU-100 preserved in a museum in the Czech Republic]]
+The SU-100 saw extensive service during the last year of the war. R17 SU-100  It was used en masse in Hungary in March 1945, when Soviet forces defeated the German Operation Frühlingserwachen offensive at Lake Balaton. R17 SU-100  By July 1945, 2,335 SU-100s had been built. R17 SU-100 
+The vehicle remained in service with the Red Army well after the war: production continued in the Soviet Union until 1947 and into the 1950s in Czechoslovakia. R17 SU-100  It was withdrawn from Soviet service in 1957, but many vehicles were transferred to reserve stocks. R17 SU-100  Some exist to this day in the Russian Army holding facilities. R17 SU-100 
+Many Warsaw Pact countries also used the SU-100, as did Soviet allies such as Egypt, Angola, and Cuba. R17 SU-100  The SU-100 saw service in the fighting that accompanied the 1956 Suez Crisis, in which the Egyptians used SU-100s against Israel's [[M4 Sherman]] tanks. R17 SU-100  The vehicle was also utilised in the 1967 Six-Day War and the 1973 Yom Kippur War. R17 SU-100  It was modified slightly to adapt it to the sandy conditions of the Middle East, thus creating the SU-100M variant. R17 SU-100  Exported SU-100s continued in service until the 1970s, and in some countries, even later. R17 SU-100  The SU-100 remains in use by the Vietnam People's Army and the Korean People's Army Ground Force despite the age of the design. R17 SU-100 
+SU-100s entered service with the People's Liberation Army (PLA) of China in 1955 after Soviet forces left Dalian. R17 SU-100  The armaments in Dalian were sold to China, including 99 SU-100s, 18 IS-2 heavy tanks, 16 T-54s and 224 T-34s, with which PLA formed into the 1st Mechanised Division. R17 SU-100 
+
+==Further Development==
+
+As early as May 1944, an attempt to fit the 122mm D25 gun onto the SU-100 was made. R17 SU-100  This prototype was known as the SU-122P, and in September 1944 it underwent trials. R17 SU-100  Mass production was not carried out for the following reasons - 
+
+* first of all, the D-25 had 4-5mm lower penetration than the D-10S, although the effect of HE shells was twice as big
+* the vehicle could carry only 26 122mm rounds
+* the rate of fire was reduced to 3-4 rounds per minute
+* the recoil was higher than the one of the D-10S, having negative impact on the suspension, when firing the gun on the move
+* the problems with the combat compartment being too cramped were not solved
+
+All this was enough to reject the SU-122P. R17 SU-100  To makes even worse, there was the deputy commissar of tank development Kotin’s opinion – he distrusted the principle of mounting high caliber guns on the T-34 chassis. R17 SU-100  And the last thing – the D-25 guns went for the IS-2 production and so it was considered not practical to have two platforms with the same gun. R17 SU-100 
+
+== In popular culture ==
+[[image:SU-100. R17 SU-100 jpg|thumb|200px|left|SU-100]]The crew of a World War II SU-100 and their vehicle are the heroes of the old Soviet film «На войне как на войне» Na vojne kak na vojne ("Alls fair in love and war" (literally: "In wartime its like wartime")), one of several Soviet films made about self-propelled artillery men. R17 SU-100  Veterans of the German-Soviet War found this picture quite realistic. R17 SU-100  The movie includes a [https://en. R17 SU-100 wikipedia. R17 SU-100 org/wiki/Soviet_Tankmen%27s_Song Soviet tankmen song], which is popular with both Russian armoured soldiers and civilians. R17 SU-100 
+
+
+A SU-100 is used by the protagonists in the movie The Misfit Brigade, where it is portrayed as a German tank, possibly because it resembles the Jagdpanzer 38 (t) tank destroyer and the Jagdpanther. R17 SU-100  Ironically, the film has a scene where the Germans spot one, supposedly captured by the Russians, and proclaim: "That's one of ours! It sure is, and its a terrible paint job. R17 SU-100  You can still see the cross! . R17 SU-100 . R17 SU-100 . R17 SU-100  Ivan's pinched my tank!" The film is also known as Wheels of Terror, based on the book by Sven Hassel. R17 SU-100 
+{{VideoYT|iC6ep0xViNw|320}}{{VideoYT|K_19Bgvb5lw|320}}{{VideoYT|WhezrPqfR3Q|320}}
+
+|HistoricalGallery=
+image:Su-100_bovington. R17 SU-100 jpg{{!}}An SU-100 at the Bovington tank museum in the restoration shed
+File:SU-122P. R17 SU-100 jpg{{!}}A picture of the SU-122P prototype
+
+
+|HistAcc=
+Like many Soviet tanks in game, the SU-100 has increased gun depression. R17 SU-100  In reality it had -3° with the 85mm and 100mm, and only -2° with the 122mm. R17 SU-100 
+* Actual engine power is 500 hp. R17 SU-100  The 520 hp engine configuration is fake. R17 SU-100 
+* The 85 mm D5S-85BM gun was only fitted to the SU-85. R17 SU-100  It was rejected because of the appearance of the SU-100 project; including the gun on the SU-100 makes no sense. R17 SU-100 
+* The SU-100 was specifically designed to hold an even more powerful cannon to replace the SU-85 which had been rendered obsolete by the [[T-34-85]]. R17 SU-100  The 85 mm gun options on the SU-100 defeats the purpose. R17 SU-100 
+* The 122 mm gun has a higher rate of fire than in reality, with 4. R17 SU-100 69 rounds per minute (without 100% crew) compared to the historical 3-4. R17 SU-100  With Improved Ventilation, Tank Gun Rammer and Brothers in Arms, its rate of fire becomes almost six rounds per minute. R17 SU-100 
+* The SU-100 could carry only 26 122 mm rounds. R17 SU-100  In World of Tanks, however, it can carry 36 rounds. R17 SU-100 
+* The SU-100 experimented with the 122 mm gun was known as the SU-122P. R17 SU-100  This variant was never accepted into service for the following reasons:
+**the D-2-5S had 4-5mm lower penetration than the D10S, although the effect of HE shells was twice as big
+**the vehicle could carry only 26 122mm rounds
+**the rate of fire was reduced to 3-4 rounds per minute
+**the recoil was higher than the one of the D-10S, having negative impact on the suspension, when firing the gun on the move<br>
+**the problems with the combat compartment being too cramped were not solved
+**D-25 guns were already being fitted to the [[IS]]-2 heavy tank, which made it impractical to have two platforms with the same gun
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://en. R17 SU-100 wikipedia. R17 SU-100 org/wiki/SU-100 Wikipedia]
+* [https://publish. R17 SU-100 pnz. R17 SU-100 ru/ml/2008/7360. R17 SU-100 htm#H01 "Молодой ленинец", № 2(7360) от 8 января 2008 года]
+
+* [https://www. R17 SU-100 battlefield. R17 SU-100 ru/index. R17 SU-100 php?option=com_content&task=view&id=57&Itemid=50&lang=en The SU-100 Tank Destroyer at Battlefield. R17 SU-100 ru]
+* [https://www. R17 SU-100 wwiivehicles. R17 SU-100 com/ussr/tank_destroyers/su100. R17 SU-100 html SU-100 at WWIIvehicles. R17 SU-100 com]
+* [https://www. R17 SU-100 onwar. R17 SU-100 com/tanks/ussr/fsu100. R17 SU-100 htm SU-100 data at OnWar. R17 SU-100 com]
+* [https://ftr. R17 SU-100 wot-news. R17 SU-100 com/2014/01/26/su-85bm-and-su-122p-historical-guns-on-soviet-tds/ Information on the SU-122P prototype]
+* [https://www. R17 SU-100 aviarmor. R17 SU-100 net/tww2/tanks/ussr/su-122p. R17 SU-100 htm Source of the above article]
+}}
+
+[[Category:USSR Tanks]]

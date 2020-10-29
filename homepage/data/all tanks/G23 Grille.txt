@@ -1,0 +1,76 @@
+{{TankData|Tank= Grille
+|An SPG with high damage potential, intended to hit a target hard. G23 Grille  Many tank companies will often seek this SPG to complement their firepower due its impressive damage output. G23 Grille 
+
+The Grille has weak armor, is rather sluggish, and the stock gun only has crappy range, but once upgraded to the 15 cm sFH 13 L/17 gun, it gains a lot of firepower with the benefit of having an increased HE damage that can destroy or easily cripple any tank that it fires at. G23 Grille 
+
+|InTheGame_pros=
+* Good alpha damage
+* Reasonable accuracy
+* Good splash damage and splash radius for a Tier 5 SPG
+* High shell trajectory
+* Good camouflage value
+
+|InTheGame_cons=
+* Short range (840m)
+* Very sluggish muzzle velocity (slow shell speed)
+* Low rate of fire
+* Small gun traverse arc 
+
+|InTheGame_performance= 
+The Grille starts off as a low damage SPG with high RoF (rate of fire). G23 Grille  Getting the larger gun, however, changes its play style completely. G23 Grille  Compared to other lower tier SPG's, the Grille is where you start to see a massive increase in alpha damage. G23 Grille  Direct hits are lethal to light tanks, TD's, mediums, and other SPG's if you can only land them. G23 Grille  Heavy tanks will also suffer greatly or die from a direct impact, often losing a large percentage of their health or all of their health as well as a module or two. G23 Grille  Of course if you miss you won't do any damage better than 80 HP. G23 Grille  The Grille does not reflect on the German SPG philosophy in terms of accuracy, but its still a good deal more accurate than other nations SPG´s. G23 Grille  
+
+The Grille's high damage can make it an effective TD or scout destroyer, though it lacks the traverse speed (turning speed) for close-quarters combat. G23 Grille  Also, when taking shots from enemy tanks, the first module in the line of fire is the engine, and getting forced to stop due to engine damage is not uncommon, which combined with pathetic gun traversal arc means swift death. G23 Grille  
+
+If you transfer from [[Pz. G23 Grille Sfl. G23 Grille  IVb]] Grille can be extremely frustrating before you learn to entirely change your play style. G23 Grille  While Pz. G23 Grille Sfl. G23 Grille  IVb is excellent against light tanks and lightweight TDs with its fast reload, fast aim, large traverse, short travel time, and relatively low damage, Grille is its exact opposite. G23 Grille  
+* First, change your targets: hitting a distant, fast-moving light tank becomes nearly impossible, while sluggish heavies that would shrug your rounds off so far receive devastating damage. G23 Grille  
+* You must learn to lock tracks and be patient while waiting for your target to stop, reappear or return into aim zone while another juicy morsel loiters just in the corner of your screen: aim times are long, and by the time you have your other target locked in, they will be on the move. G23 Grille 
+* Learn to prioritize on distant targets: small traverse angle means very narrow cone covered nearby; the field covered by your fire near the opposite end of the map is much larger;
+* Let your allies handle dogfight with immediate threats that keep moving around, while you pick out all the distant campers. G23 Grille  You can do more harm than good with your sluggish slugs in a rapid melee attack. G23 Grille 
+* Do not hesitate to request help from allies if you notice enemy scout approaching; your defensive capabilities against fast-moving enemies are pathetic. G23 Grille  You're better off either picking out distant enemies or sitting still and quiet under camouflage net while allies kill the approaching scout. G23 Grille 
+* One of the steepest trajectories in the German artillery allows you reach enemies hidden behind obstacles they believe completely safe. G23 Grille  Recheck old "hopeless" spots, because some of them are within your reach now!
+* Good crew becomes essential because the difference in aim and reload times between good and poor crews make or break the usability of this SPG. G23 Grille  Modules like Shell Rammer and camo net are immensely useful because the shell rammer will increase rate of fire and decrease your loading time and the camo net will help conceal you. G23 Grille  You should save up, if  you don't have enough, but if you have enough, buy it. G23 Grille  it will be worth it in the long term and will help you earn exp and credits. G23 Grille 
+ 
+
+|InTheGame_research=
+* If you came from  Pz. G23 Grille Sfl. G23 Grille  IVb, install FuG 7 radio. G23 Grille  If you came from Bison, research it, as the Fug 37's low range all too often leaves you unable to see targets to shoot at. G23 Grille 
+* Grinding with stock gun is a slow, painful chore as you need to drive to vulnerable locations near enemy lines to get enemy in range. G23 Grille  Purchase Enhanced Springs and get 15 cm sFH 13 L/17 ASAP. G23 Grille  
+* Now research the engine for a bit more mobility. G23 Grille 
+* Research the FuG 12 radio if you haven't already done so on any other German tank. G23 Grille 
+* Research suspension on your leisure. G23 Grille  Once you have it, you can remove/destroy Enhanced Springs to make room for some more useful equipment, like the camo net. G23 Grille 
+
+|InTheGame_equipment=
+Enhanced Springs, Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+image:Grille front view 1. G23 Grille jpg‎{{!}}Grille front left view
+image:Grille front view 2. G23 Grille jpg‎{{!}}Grille front right view
+image:Grille back view 1. G23 Grille jpg‎{{!}}Grille back left view
+image:Grille back view 2. G23 Grille jpg‎{{!}}Grille back right view
+image:Grillegame1. G23 Grille jpg{{!}}Grille, El Halouf map
+image:Grillegame2. G23 Grille jpg{{!}}Grille, El Halouf map
+
+|History=
+[[image:Grille_Aberdeen. G23 Grille jpg|thumb|200px|right|Grille Ausf. G23 Grille  M on display at the [https://en. G23 Grille wikipedia. G23 Grille org/wiki/United_States_Army_Ordnance_Museum US Army Ordnance Museum]. G23 Grille ]]
+From February to April of 1943, BMM produced 91 15cm Schweres Infanteriegeschuetz 33 (Sf) auf Panzerkampfwagen 38(t) Ausf H self-propelled heavy infantry guns on PzKpfw 38(t) chassis'. G23 Grille  Vehicles were issued to heavy infantry gun units of the Panzergrenadier and Panzer Divisions. G23 Grille  Six vehicles were in each gun detachment. G23 Grille 
+
+282 15cm Schweres Infanteriegeschuetz 33/1 auf Panzerkampfwagen 38(t) Ausf K/M self-propelled heavy infantry guns on PzKpfw 38(t) chassis' were produced by BMM from April-June of 1943, and from October 1943 to September of 1944. G23 Grille  They issued just as Ausf H vehicles to heavy infantry gun units of Panzergrenadier and Panzer Divisions. G23 Grille  From January to May of 1944, 102 ammunition carriers based on the Ausf K/M were produced by BMM. G23 Grille  They were simply unarmed self-propelled heavy infantry guns with ammunition racks instead of the main gun. G23 Grille  They could be easily converted into self-propelled heavy infantry guns, if needed, and were issued to Grille units. G23 Grille  Ammunition carriers were designated as Munitionspanzer 38(t) (Sf) Ausf K/Ms (Sd. G23 Grille  Kfz. G23 Grille  138). G23 Grille 
+
+Grille in German means cicada. G23 Grille 
+
+|HistAcc=
+The 15 cm s. G23 Grille F. G23 Grille H. G23 Grille  13 L/17 was only mounted on Lorraine 37L tractors, designated 15 cm sFH13/1 (Sf) auf Geschuetzwagen Lorraine Schlepper (f); this SPG does not exist in World of Tanks. G23 Grille  Its configuration on the Grille is fake. G23 Grille 
+
+|HistoricalGallery=
+image:Grille_Aberdeen. G23 Grille jpg{{!}}Grille Ausf. G23 Grille  M on display at the [https://en. G23 Grille wikipedia. G23 Grille org/wiki/United_States_Army_Ordnance_Museum US Army Ordnance Museum]
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}
+
+[[Category:German Tanks]]

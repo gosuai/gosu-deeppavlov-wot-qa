@@ -1,0 +1,63 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:AC 4 Experimental scr 1. GB35 Sentinel AC IV jpg
+File:AC 4 Experimental scr 2. GB35 Sentinel AC IV jpg
+File:AC 4 Experimental scr 3. GB35 Sentinel AC IV jpg
+
+
+|InTheGame_pros= 
+*High penetration with regular and APCR ammo, on par with the Firefly's top gun
+*Decent handling stats and aim time, able to employ its fast traverses in aiming
+*Maneuverable: high top speed, fast hull and turret traverses, strong gun depression (-10 degrees)
+*Acceptable DPM and RoF of 12 rounds per minute
+*Best concealment values of any Tier VI medium
+
+|InTheGame_cons=
+*Armor is generally unreliable
+*Engine is underpowered, terrain resistances are bad--struggles to reach a decent speed
+*Low shell velocity, semi-poor accuracy
+*Lower view and signal ranges than Sherman Firefly, slightly lower ROF
+*Unable to mount Vertical Stabilizer
+
+|InTheGame_performance= 
+The AC 4 Experimental shares a lot of features with its smaller sibling, the [[AC 1 Sentinel]], and its tier-peer, the [[Sherman Firefly]]. GB35 Sentinel AC IV  It takes on the compact size, fast traverses, and good top speed of the AC 1, but also takes on its somewhat lackluster armor, questionable machine gun shroud, poor terrain resistances, and painfully weedy engine. GB35 Sentinel AC IV  From the Sherman Firefly, it brings a quick-firing 17-pounder, which offers high penetration and respectable aim time, but its mediocre alpha damage and low shell speed makes it hard to act as a sniper. GB35 Sentinel AC IV 
+
+Taken all together, the AC 4 Experimental serves best as a support tank. GB35 Sentinel AC IV  It lacks the armor to brawl and does not have the exceptional power-to-weight ratio needed by flankers such as the [[Cromwell]], but its relatively small size, excellent traverses, and spectacular gun depression make it an ideal second-line fire-support machine. GB35 Sentinel AC IV  Go hull down, peek over the tops of hills to find targets, and take a shot with the confidence that you can penetrate almost anything you encounter before slipping back down into cover. GB35 Sentinel AC IV  This tank features an almost excessive penetration value of 239mm on its premium APCR rounds, which gives the tank penetration capabilities more commonly seen on tier VIII mediums. GB35 Sentinel AC IV 
+
+If you can pick up enough speed to execute a flanking maneuver, you can take apart foes with ease thanks to the penetration and DPM of the 17-pounder gun. GB35 Sentinel AC IV  This tank is also good for cleaning up weak or injured enemies towards the end of a match, thanks again to its speed and rate of fire. GB35 Sentinel AC IV  One unexpected feature of the tank is its decent concealment rating, superior to every other medium tank at Tier VI, and even several Tier VI tank destroyers and light tanks. GB35 Sentinel AC IV  Use these good concealment values to blend in behind bushes, especially those on hills--when combined with its good gun depression, it's entirely possible to fire on enemies unseen and back off to escape detection. GB35 Sentinel AC IV 
+
+As far as equipment goes, a gun rammer is mandatory, but the tank can handle a number of other equipment choices. GB35 Sentinel AC IV  The use of a gun laying drive and vents will improve gun handling statistics, but a player dedicated to second line support might find some utility in the optical equipment. GB35 Sentinel AC IV  Installing both coated optics and binoculars extends the view range to 450 meters, reaching the view cap easily and allowing you to spot your own targets. GB35 Sentinel AC IV  This requires the tank to stay still to activate the binoculars, but for players using the AC 4 Experimental as a supporting tank this will not be that much of a drawback. GB35 Sentinel AC IV  The camouflage net is an interesting choice that can support the tank's unusually good camouflage rating, providing a total of 26. GB35 Sentinel AC IV 7% concealment when stationary. GB35 Sentinel AC IV 
+
+This tank behaves as a sort of hybrid between a medium tank and a tank destroyer. GB35 Sentinel AC IV  While carrying a gun very reminiscent of mid-tier British and US tank destroyer guns, it has the agility (if not the raw speed) of mid-tier British and US mediums. GB35 Sentinel AC IV  Let your faster or more powerful allies go on ahead of you to spot or engage the enemy, then come in to support with your excellent gun. GB35 Sentinel AC IV  Choose your shots carefully, as you carry only 50 shells; with a rate of fire of 12 rounds per minute, your ammo supply can disappear quickly. GB35 Sentinel AC IV 
+
+|InTheGame_research= 
+*As a premium tank, the AC 4 Experimental is elite in its stock configuration. GB35 Sentinel AC IV 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Enhanced Gun Laying Drive, Improved Ventilation, Binocular Telescope, Coated Optics, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+In an effort to further improve the firepower of the Australian produced tanks, a turret was developed and mounted on one of the earlier development vehicles to assess the vehicle's ability to mount the foremost Allied anti-tank gun of the day – the British 17 pounder (76 mm, 3 in). GB35 Sentinel AC IV  This was achieved by mounting two 25 pounder gun-howitzers which when fired together would significantly exceed the recoil of a 17 pounder. GB35 Sentinel AC IV  It was later fitted with a 17 pounder and after successful gunnery trials the 17 pounder was selected for the AC4 design. GB35 Sentinel AC IV  For the AC4 the 17 pounder was to be mounted in a new and larger turret, attached by a 70 inch (1778 mm) diameter turret ring, the space for which was accommodated by changes to the upper hull permitted by the compact nature of the "Perrier-Cadillac". GB35 Sentinel AC IV <br />
+<br />
+AC IV one 17 pounder or 25 pounder gun<br />
+
+one Vickers machine gun 
+Engine as Mark III
+
+|HistoricalGallery= 
+File:AustralianCruiserTankMkIV. GB35 Sentinel AC IV jpg{{!}}A 1943 artist's drawing based upon the production drawings of the Mark IV tank. GB35 Sentinel AC IV 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

@@ -1,0 +1,88 @@
+{{TankData|Tank=Lorraine155_51
+|This SPG is excellent example of most of the French artillery line. F25 Lorraine155 51  It carries one of the least damaging guns of its class and tier; however, that weakness is mitigated by a better rate of fire, accuracy, and aim time compared to others SPGs of its tier. F25 Lorraine155 51  Though unimpressive, the 155 51 still carries enough firepower to perform well in its role. F25 Lorraine155 51  The most unique feature of this vehicle is clearly its unmatched mobility. F25 Lorraine155 51  No other SPG of this tier can move faster, making relocating an easy task; it can even outrun some mediums tanks, if necessary. F25 Lorraine155 51    
+
+|Gallery=
+image:Lorraine155_51game1. F25 Lorraine155 51 jpg{{!}}Lorraine155 51, Arctic map
+image:Lorraine155_51game2. F25 Lorraine155 51 jpg{{!}}Lorraine155 51, Serene coast
+image:Lorraine155_51game3. F25 Lorraine155 51 jpg{{!}}Lorraine155 51, Serene coast
+
+|InTheGame_pros=
+* Gun range: both 1350 m
+* Fast reload for its tier
+* High top speed and great acceleration
+* Quick aim time compared to its rivals
+* Good accuracy
+* Good gun arc
+
+|InTheGame_cons=
+* Low alpha damage
+* No gun depression, making "TD mode" difficult
+* Low vertical arc makes shooting over cover difficult
+* Extremely low splash, and premium HE rounds do not provide much benefit
+
+|InTheGame_performance=
+The Lorraine 155 51 is a relatively fast-firing, very mobile artillery piece. F25 Lorraine155 51   It has the highest mobility of any tier 8 artillery piece, able to reach 60 km/h top speed. F25 Lorraine155 51  It can therefore outrun any medium in tier and even outrun some lights. F25 Lorraine155 51   It's gun is one of the fastest reloading guns at tier 8, but at the cost of lowest-in-tier damage: 750 average per HE shell. F25 Lorraine155 51  If reliable spotting is available, the Lorraine 155 51 can wear down the enemy with sustained fire over a long period of them, using its mobility to provide fire from different angles to shoot around obstacles. F25 Lorraine155 51   Due to it's mobility and rate of fire, it sees use in Clan Wars during events with a cap of tier 8. F25 Lorraine155 51   
+
+Using the Lorraine 155 mle. F25 Lorraine155 51  51 as a close fire support vehicle is a very viable option. F25 Lorraine155 51  The Lorraine is not a large artillery piece, and making use of hills or other cover relatively close to the front line can be an option. F25 Lorraine155 51  This ensures a much greater accuracy - something this tank needs as its splash damage is rather poor in comparison to the other tier 8 artillery pieces. F25 Lorraine155 51  If the situation should change, the Lorraine is able to make an escape using its agility to get out of harm's way quickly. F25 Lorraine155 51 
+
+|InTheGame_research=
+* The SCR 528F Radio carries over from the Lorraine 155 mle. F25 Lorraine155 51  50. F25 Lorraine155 51  Mount it immediately. F25 Lorraine155 51 
+* Research the Lorraine 155 mle. F25 Lorraine155 51  51 bis Suspension, followed by the Canon de 155 mm mle. F25 Lorraine155 51  1917 G. F25 Lorraine155 51 P. F25 Lorraine155 51 F. F25 Lorraine155 51  Gun. F25 Lorraine155 51 
+* The Maybach 850 CV offers much higher horsepower, but can wait for last. F25 Lorraine155 51  SInce it does not carry over to any othe vehicle it can also be skipped. F25 Lorraine155 51 
+
+|InTheGame_Equipment_Builds=
+Instead of retraining the radio operator from the Lorraine 155 Mle 50 as your second loarder, it is best to keep him in barracks. F25 Lorraine155 51  You'll need him again for the Lorraine 155 55. F25 Lorraine155 51  If you retained the second loader from the AMX 13 F3 AM in barracks, you can now put him back in. F25 Lorraine155 51 
+T
+
+|InTheGame_equipment= Artillery shell rammer, GLD, Camouflage Net
+
+
+|History=
+[[image:Lorraine155 02 Prototype n° 2 photo ECPA. F25 Lorraine155 51 jpg|thumb|200px|left|Lorraine 155 mm model 1951]]
+In 1950, Lorraine started the development of its own self-propelled gun. F25 Lorraine155 51  Lorraine’s engineers proposed two different concepts on the same chassis, although at certain point of the development even a wheeled chassis was considered as an alternative to the tracked one. F25 Lorraine155 51  Official names of the prototypes were “1a” (model 1950) and “2a” (model 1951). F25 Lorraine155 51  The main armament of both prototypes was 155 mm howitzer. F25 Lorraine155 51  First prototype, marked as “model 1950” had its howitzer mounted in the centrally placed casemate, while the “model 1951” had the structure pushed to the front of the vehicle. F25 Lorraine155 51  Early versions had a Talbot made engine, but by the year 1951 a Maybach engine was installed. F25 Lorraine155 51  
+
+Trials revealed a number of serious design flaws, so in 1954 a model with a fully rotating turret was considered. F25 Lorraine155 51  As at the time Batignolles Chatillon was already involved in development of similar project, Lorraine’s ideas were rejected, and all further development was cancelled. F25 Lorraine155 51 
+
+
+
+
+'''Specifications:'''
+
+Weight: 30. F25 Lorraine155 51 30 tons 
+
+Dimensions: L: 7,96 m, W: 3,30 m, H: 2,77 m 
+
+Ground clearance: 0. F25 Lorraine155 51 40 m 
+
+Armament: one 155 mm howitzer (28 rounds) and one 20 mm (250 rounds) gun for self defence
+
+Engine: Engine Maybach HL 230 with 685 hp 
+
+Maximum speed: 62 km/h
+
+
+|HistoricalGallery=
+image:Lorraine155_03_Prototype_n°_2_conservé_à_Bourges. F25 Lorraine155 51 jpg
+image:Lorraine155 02 Prototype n° 2 photo ECPA. F25 Lorraine155 51 jpg
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. F25 Lorraine155 51 chars-francais. F25 Lorraine155 51 net/2015/index. F25 Lorraine155 51 php/liste-chronologique/de-1945-a-1990?task=view&id=1306
+
+|Sidebar_Camostop=11. F25 Lorraine155 51 1
+|Sidebar_Camomove=5. F25 Lorraine155 51 7
+|Sidebar_Camofire=1. F25 Lorraine155 51 6
+|Sidebar_Passhard=1. F25 Lorraine155 51 151
+|Sidebar_Passmed=1. F25 Lorraine155 51 342
+|Sidebar_Passsoft=2. F25 Lorraine155 51 205
+|Sidebar_DispTurret=0. F25 Lorraine155 51 45
+|Sidebar_DispRecoil=5. F25 Lorraine155 51 753
+|Sidebar_DispAccel=0. F25 Lorraine155 51 384
+|Sidebar_DispTurning=0. F25 Lorraine155 51 384
+}}

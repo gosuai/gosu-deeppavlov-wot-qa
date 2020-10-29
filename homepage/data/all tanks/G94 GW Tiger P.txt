@@ -1,0 +1,81 @@
+{{TankData|Tank=GW_Tiger_P
+|
+
+|InTheGame_pros=
+* Best alpha damage of any tier 8 artillery; can deal serious damage to any tank in the game
+* Best stock gun alpha damage, penetration and burst radius of any tier 8 artillery
+* Surprisingly good hull armor for an SPG, can get the random lucky bounce
+* Unappealing to ram due to weight and hull armor thickness
+
+|InTheGame_cons=
+* Poor mobility, struggles to relocate
+* Narrow gun traverse arc
+* Paper-thin casemate armor negates the hull armor's usefulness
+* Enormous target with very poor concealment
+* Under risk of running out of shells in longer games
+
+
+|InTheGame_performance=
+The G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) is very different from its predecessor, the G. G94 GW Tiger P W. G94 GW Tiger P  Panther. G94 GW Tiger P  The G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) is significantly less mobile, while gun performance is more about damage than accuracy. G94 GW Tiger P    
+
+The outstanding feature of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) is its lack of mobility. G94 GW Tiger P   Due to weak engine and abysmal ground resistance it will often struggle to reach even 20 kilometers per hour in stock configuration. G94 GW Tiger P  The term "slug" would sadly not seem out of place. G94 GW Tiger P 
+
+The engine upgrade delivers a meager 6. G94 GW Tiger P 67% more power, in exchange for an eye-watering 31. G94 GW Tiger P 000 experience. G94 GW Tiger P  You'll still want this upgrade, as improved mobility is desperately needed, but the difference won't be spectacular. G94 GW Tiger P  If you have credits to spare, consider using a fuel consumable, which will make movement less painful. G94 GW Tiger P    
+
+Relocating between firing positions is time consuming, and a retreat from an exposed position will be as slow as it will be hazardous. G94 GW Tiger P  It might be prudent to instead opt for a perhaps less rewarding but safer position further back. G94 GW Tiger P   The practically non-existent camouflage rating of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) provides another reason to choose a position as far back as possible. G94 GW Tiger P           
+
+Should your team push hard on one flank and leave the other wide open, the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) will be hard pressed to keep up with the other tanks, even if it does not stop to lob a single shell at the enemy. G94 GW Tiger P 
+
+Alternatively, you could stay in place to provide support fire, take your chances with enemy tanks possibly exploiting the flank left open by your team mates, and hope for the best. G94 GW Tiger P   However, realize that the low mobility of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) makes it extremely difficult to defend against scouts, especially ones that move horizontally to you, forcing you to turn. G94 GW Tiger P  
+
+The combination of fire and movement is unfortunately not very practical due to the slow speed, low tank traverse rate and narrow gun arc of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P). G94 GW Tiger P   Should you attempt to utilize the reload time of the gun for movement, the time needed to traverse the tank, the direction of the target, and the direction of your movement and back to another target can be substantial, especially when tough terrain is involved. G94 GW Tiger P   There will be comparatively few seconds left to move the tank when aim time is accounted for, thus slowing the already sluggish movement rate of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) down to a crawl. G94 GW Tiger P   
+
+What the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) does offer, however, is the most powerful stock gun of any tier VIII artillery. G94 GW Tiger P  The 17 cm "Kanone 72" is in terms of damage, penetration and burst radius more akin to the 180/183mm top guns of some tier IX/X SPG’s than the 152/155mm guns of other tier VIII SPG’s. G94 GW Tiger P   If you want a hard-hitting gun but can't stand the lengthy reload of the biggest guns, the 17 cm "Kanone 72" might suit you. G94 GW Tiger P 
+ 
+The top gun of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P), the 21 cm "Mörser 18/1" is a different beast altogether with a lot worse accuracy, a lot longer reload, but a devastating effect on enemies. G94 GW Tiger P   This gun deals 1100 alpha damage if it penetrates, which can only happen to some light tanks, tanks with paper thin armor, or vehicles with an open roof. G94 GW Tiger P  The longer reload of the top gun means fewer shots fired, less time spent acquiring targets, and more time available for movement. G94 GW Tiger P  A 21 cm Mörser can also be found as the top gun of similar tier IX and tier X German SPG's. G94 GW Tiger P 
+
+
+Current as of version 1. G94 GW Tiger P 0. G94 GW Tiger P 0. G94 GW Tiger P 1
+
+
+|InTheGame_research=
+* Immediately research the suspension, preferably with free experience, to be able to fit an Artillery Shell Rammer and a Gun Laying Drive. G94 GW Tiger P 
+* Alternatively, you may want to fit the Enhanced Longitudinal Torsion Bar, to be able to leave the suspension for last. G94 GW Tiger P 
+* Research the top gun or engine, depending on whether you want a gun with higher alpha damage or improved mobility. G94 GW Tiger P 
+* The upgraded gun is lighter than the stock gun. G94 GW Tiger P 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+
+File:G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) scr 1. G94 GW Tiger P jpg
+File:G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) scr 2. G94 GW Tiger P jpg
+File:G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) scr 3. G94 GW Tiger P jpg
+
+|History=
+N/A (see below)
+
+|HistoricalGallery=
+N/A
+
+|HistAcc=
+The vehicle's in-game description is false. G94 GW Tiger P  No historical records of this SPG exists since all [[Tiger (P)]]s were converted into the [[Ferdinand]] tank destroyer. G94 GW Tiger P 
+
+|Ref_references=*https://en. G94 GW Tiger P wikipedia. G94 GW Tiger P org/wiki/VK4501
+
+
+|Ref_sources=
+
+
+|Sidebar_Camostop=3. G94 GW Tiger P 7
+|Sidebar_Camomove=1. G94 GW Tiger P 4
+|Sidebar_Camofire=0. G94 GW Tiger P 3
+|Sidebar_Passhard=1. G94 GW Tiger P 247
+|Sidebar_Passmed=1. G94 GW Tiger P 438
+|Sidebar_Passsoft=2. G94 GW Tiger P 397
+|Sidebar_DispTurret=0. G94 GW Tiger P 614
+|Sidebar_DispRecoil=5. G94 GW Tiger P 753
+|Sidebar_DispAccel=0. G94 GW Tiger P 422
+|Sidebar_DispTurning=0. G94 GW Tiger P 422
+}}

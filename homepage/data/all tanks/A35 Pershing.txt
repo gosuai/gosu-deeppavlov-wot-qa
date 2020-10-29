@@ -1,0 +1,120 @@
+{{for|the premium vehicle|T26E4 Super Pershing}}
+{{TankData|Tank=
+|Compared to other tier 8 medium tanks, the Pershing's armor is quite solid and capable of bouncing low-tier guns. A35 Pershing  However, like all other medium tanks, it does not fare well on its own and will easily get destroyed if caught in the open by tank destroyers or heavy tanks. A35 Pershing   Therefore, it acts better as a mobile mid-range sniper or as support for heavier tanks. A35 Pershing  After you get the upgraded engine, the Pershing becomes much faster and can plug holes in whichever areas are needed. A35 Pershing   Its top gun is effective in the supporting role, but will find itself outclassed when fighting most heavies from the front. A35 Pershing 
+
+|Sidebar_GunAlt= 90mm T15E2M2
+|Sidebar_Camostop=13. A35 Pershing 00
+|Sidebar_Camomove=9. A35 Pershing 70
+|Sidebar_Camofire=2. A35 Pershing 90
+|Sidebar_Passhard=1. A35 Pershing 055
+|Sidebar_Passmed=1. A35 Pershing 247
+|Sidebar_Passsoft=2. A35 Pershing 014
+|Sidebar_DispTurret=0. A35 Pershing 105
+|Sidebar_DispRecoil=3. A35 Pershing 068
+|Sidebar_DispAccel=0. A35 Pershing 144
+|Sidebar_DispTurning=0. A35 Pershing 144
+
+|InTheGame_pros=
+* Decent gun handling
+* Fairly thick gun mantlet can bounce some shots
+* Great gun depression
+* Good view range
+* Excellent APCR (premium) penetration
+
+|InTheGame_cons=
+* Low AP (standard) penetration
+* Horrible DPM for a medium tank
+* Weak armor profile and average camouflage values
+* Below average top speed
+* Average accuracy
+
+|InTheGame_performance= A very solid tier 8 tank, the Pershing can excel as a support, flanker, sniper and is hard to dislodge in a hull down position. A35 Pershing  Just remember to use your brain when playing this tank - use superior mobility to outflank heavy tanks and TDs and superior terrain abuse to outplay your medium peers. A35 Pershing 
+
+Another note is the Pershing's extremely durable gun mantlet. A35 Pershing  Using hull down against most enemies is extremely effective due to the great gun depression, said turret durability and front placement of the turret, which allows most or all of the hull to be hidden under terrain in most situations. A35 Pershing  A Pershing in this position can become a formidable wall against numerous opponents. A35 Pershing  
+
+This vehicle begins the trend of soft stat monsters on the American Medium line. A35 Pershing  Though some things like its speed, power to weight ratio, gun accuracy and armor are not the best in its tier, it handles exceptionally well when driven with both a skilled player and a skilled crew. A35 Pershing  The gun is the most deceiving thing on the tank. A35 Pershing  Its mediocre accuracy on paper is enhanced by its great on the move accuracy and gun handling. A35 Pershing  The penetration is decent for a tier 8 medium tank. A35 Pershing  One of the best qualities of the cannon is its effective APCR ammunition; it can punch through the frontal plate of a Tiger II, IS-3, KV-4 or Jadgtiger even when the vehicle is angled thirty degrees. A35 Pershing  
+
+Because the M26 Pershing is decent at everything, it is bad at nothing. A35 Pershing  Use this to force more specialized tanks into situations where they are at a disadvantage. A35 Pershing  However, this could also put you into a situation where you are at a disadvantage, when the more specialized vehicles can engage you in situations they were designed for. A35 Pershing  Thus, its versatility can be a double-edged sword; allowing you to be adaptable but leaving you short when fighting specialized vehicles in their niche. A35 Pershing  
+
+Just like the majority of American mediums, the M26 can passive scout quite well. A35 Pershing  With 400m of view range, this tank is very adept at the job, especially when compared to other tier 8s. A35 Pershing  Use this to gain sight lines on key areas of the map. A35 Pershing 
+
+|InTheGame_research=
+* The 90mm M3 carries over from them T20
+* The stock suspension can hold both the top engine and gun, so go for both
+* Top engine is shared with [[T25 AT]] and [[T25/2]]. A35 Pershing 
+* Get the suspension
+* Get the turret
+* Get the radio, which is also the top radio of the T29, Chaffee, and T21
+
+|InTheGame_equipment=Improved Ventilation Class 2,Medium-Caliber Tank Gun Rammer,Vertical Stabilizer,Coated Optics 
+
+|InTheGame_Equipment_Builds=
+* For snipers/passive scouts, go with Improved Ventilation Class 2, Coated Optics or Binocular Telescope and Camouflage Net. A35 Pershing  Improved Ventilation Class 2 can be replaced by an Enhanced Gun Laying Drive if improved aim time is preferred or Medium-Caliber Tank Gun Rammer if increased fire rate preferred. A35 Pershing  
+*Snipers/passive scouts should have the following skills/perks:
+**Commanders should receive Sixth Sense and Recon or Eagle Eye. A35 Pershing  
+**Gunners should receive Deadeye and Designated Target. A35 Pershing  
+**Driver should receive Repairs and Preventative Maintenance. A35 Pershing  
+**Radio Operatiors should receive Situational Awareness and Signal Boosting. A35 Pershing  
+**Loaders should receive Repairs and Safe Storage. A35 Pershing  
+**All crew should receive Camouflage for the third skill. A35 Pershing  
+* For brawlers/flankers, go with Improved Ventilation Class 2, Medium-Caliber Tank Gun Rammer and Vertical Stabilizer. A35 Pershing  The Improved Ventilation Class 2 can be replaced by an Enhanced Gun Laying Drive if better shoot-and-scoot performance is desired. A35 Pershing 
+* Brawlers/flankers should have the following skills/perks:
+**Commanders should receive Sixth Sense and Jack of All Trades
+**Gunners should receive Snapshot and Deadeye
+**Drivers should receive Smooth Ride and Clutch Braking
+**Radio Operator should receive Repairs and Situational Awareness or Signal Boosting. A35 Pershing  
+**Loaders should receive Repairs and Safe Storage. A35 Pershing 
+**All crew should receive Brothers in Arms for the third perk. A35 Pershing  
+
+|External_Reviews= 
+{{#ev:youtube|rx-kP1Yj7UQ}}
+
+|HistAcc=
+Top gun T15E2M2 is fictitious. A35 Pershing  M26 Pershing was armed with 90 mm Gun M3. A35 Pershing  Variants upgunned with experimental T15E1/T15E2 were known as "SuperPershings". A35 Pershing 
+* Historical Ford GAF (450–500 hp) engine is not available even in stock configuration. A35 Pershing 
+* The [[Tank:A121_M26_Cologne|T26E3 Eagle 7]] is essentially the historical version of the M26 Pershing placed at tier 7. A35 Pershing  Yet despite being armed with essentially the same 90 mm M3 gun, the penetration and weight values are inconsistent. A35 Pershing 
+
+|Gallery=
+image:M26_Pershing_001. A35 Pershing jpg
+image:M26_Pershing_002. A35 Pershing jpg
+image:M26_Pershing_003. A35 Pershing jpg
+image:M26_Pershing_004. A35 Pershing jpg
+image:Ingame_M26_Pershing-1. A35 Pershing jpg{{!}}M26 Pershing, Prokhorovka map
+
+|History=
+[[image:M-26 Pershing. A35 Pershing jpg|thumb|200px|left|M-26 Pershing. A35 Pershing jpg]]
+<div class="thumb tright">{{VideoYT|MsEUk9E-rLE|320}}</div>
+The M-26 was developed near the end of World War II and named after World War One General John J Pershing of the American Expeditionary Force. A35 Pershing  The M26 Pershing had a slow and arduous beginning, when the need for a heavy tank was not in the priorities of the US Army. A35 Pershing  Instead, efforts were relegated to production of M3 Stuart Light Tanks and M4 Sherman Medium Tanks. A35 Pershing  It was not until the debut of the German Panther and Tiger series of tanks on the battlefields of Europe that the need for a heavily-armed, and armored, weapons system came to bear. A35 Pershing 
+
+Considerable effort was then made to develop a gun system capable of competing with the German counterparts. A35 Pershing  The result was the M26 Pershing armed with a 90mm main gun (nearly on par with the German '88') and heavily armored overall. A35 Pershing  It was the closest weapon that the Allies would field that was akin to the German Panther, in terms of firepower and crew survivability. A35 Pershing 
+The M26 Pershing arrived too late to be of any effective use (overall) in the European Theater, but a few (roughly 200) saw service with the 3rd and 9th Armored Divisions. A35 Pershing  At least 100 were kept in reserve as well. A35 Pershing 
+
+The mammoth M26 Pershings would be part of the armored column that would cross the Remagen Bridge over the Rhine River and into Germany with the 9th Armored. A35 Pershing  About 20 M26s were reported to have seen any action at all. A35 Pershing  Ten M26s were also shipped out to the Pacific Theater for action in Okinawa, though arriving too late to be of any effective tactical use. A35 Pershing 
+
+This was not the end of the line for the M26, however, as a total of 309 M26 Pershings were rushed to Korea in 1950 to provide extra firepower to counter the T-34/85s. A35 Pershing  A 1954 survey concluded that there were in all 119 tank vs. A35 Pershing  tank actions involving U. A35 Pershing S. A35 Pershing  Army and Marine units during the Korean War, with 97 T-34-85 tanks knocked out and another 18 probable. A35 Pershing  [[image:9th AD M-26 Pershing Heavy Tank photographed near Vettweiss, Germany in March 1945. A35 Pershing . A35 Pershing jpg|thumb|200px|right|9th AD M-26 Pershing Heavy Tank photographed near Vettweiss, Germany in March 1945]]The M4A3E8 was involved in 50% of the tank actions, the M26 in 32%, and the M46 in 10%. A35 Pershing  The M26/M46 proved to be an overmatch for the T-34-85 as its 90 mm HVAP round could punch all the way through the T-34 from the front glacis armor to the back, whereas the T-34-85 had difficulty penetrating the armor of the M26/46. A35 Pershing  The M4A3E8, firing 76 mm HVAP rounds which were widely available during the Korean War (unlike World War II), was equal to the T-34-85 as both tanks could destroy each other at normal combat ranges. A35 Pershing 
+
+Although the M26 proved effective against the armour of the T-34/85s, the automotive deficiencies of the M26 in the mountainous Korean terrain became more of a liability, and so all M26s were withdrawn from Korea during 1951 and replaced with older up-gunned M4A3 Shermans and the newer M46 Pattons. A35 Pershing 
+
+Post-war use saw a great number stationed throughout Europe with NATO through the Cold War, however, many were quickly replaced when the more reliable M46 Patton became available. A35 Pershing  Many alternative variants were devised, though some, like the self-propelled gun platform, not used by the US Army. A35 Pershing 
+
+The M26 Pershing would later be reclassified as a Medium Tank and become the blueprint for tanks such as the M46, M47, M48 Patton, and M60 Main Battle Tanks. A35 Pershing  In 1948, the M26E2 version with a new more powerful and reliable engine and transmission became the M46 General Patton, which in turn was up-gunned and modified resulting in the M47 and eventually the M60 patton. A35 Pershing 
+
+|HistoricalGallery=
+image:Super_pershing. A35 Pershing jpg{{!}} The so called "Super Pershing" before extra armor welded on. A35 Pershing  Note length of barrel, 73 calibres, to compete with the 88 mm KwK 43 L/71 gun of the Tiger II
+image:Pershing_and_Sherman_tanks_of_the_73rd_Heavy_Tank_Battalion_at_the_Pusan_Docks,_Korea. A35 Pershing . A35 Pershing jpg{{!}}Pershing and Sherman tanks of the 73rd Heavy Tank Battalion at the Pusan Docks, Korea
+image:Men of the 9th Infantry Regiment man an M-26 tank to await an enemy attempt to cross the Naktong River. A35 Pershing . A35 Pershing gif{{!}}Men of the 9th Infantry Regiment man an M-26 tank to await an enemy attempt to cross the Naktong River
+image:9th AD M-26 Pershing Heavy Tank photographed near Vettweiss, Germany in March 1945. A35 Pershing . A35 Pershing jpg{{!}}9th Armor Division M-26 Pershing Heavy Tank photographed near Vettweiss, Germany in March 1945. A35 Pershing 
+image:M-26E1 fitted with the larger T54 90mm cannon. A35 Pershing jpg{{!}}M-26E1 fitted with the larger T54 90mm cannon
+image:M-26 Pershing. A35 Pershing jpg{{!}}M-26 Pershing
+
+||Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* https://en. A35 Pershing wikipedia. A35 Pershing org/wiki/M26_Pershing
+
+}}

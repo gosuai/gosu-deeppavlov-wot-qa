@@ -1,0 +1,108 @@
+{{TankData|Tank=
+|The T110E4 is the tier X turreted American Tank Destroyer. A83 T110E4  The E4 features an armored turret with a strong mantlet, but many weakspots and low gun depression limit the E4's hull-down potential. A83 T110E4  This tank also has much improved frontal armor on par with the [[T110E5]]. A83 T110E4  However the sides and rear armor are still incredibly weak, so make sure to keep the front towards the enemy at all times to reduce damage taken. A83 T110E4  The upgraded 155mm cannon has a lower rate of fire to balance having a rotating turret so you must stay in the line of support. A83 T110E4  Because of the nature of the design, which was finalized by Wargaming, the turret can only rotate 90 degrees to the left or right so this tank is still vulnerable to flanking to some degree. A83 T110E4  Still, the upgrade to overall armor protection and the boost to penetration and fire rate can make this tank a serious threat to anyone who happens to face it. A83 T110E4  
+
+|Sidebar_Camostop=10. A83 T110E4 3
+|Sidebar_Camomove=6. A83 T110E4 3
+|Sidebar_Camofire=2. A83 T110E4 3
+|Sidebar_Passhard=1. A83 T110E4 342
+|Sidebar_Passmed=1. A83 T110E4 534
+|Sidebar_Passsoft=2. A83 T110E4 589
+|Sidebar_DispTurret=0. A83 T110E4 23
+|Sidebar_DispRecoil=3. A83 T110E4 836
+|Sidebar_DispAccel=0. A83 T110E4 192
+|Sidebar_DispTurning=0. A83 T110E4 192
+
+|Gallery=
+Image:T110E4 Major Ram 3D skin. A83 T110E4 jpeg{{!}}, "Major Ram" 3D skin
+image:ST110E4-a. A83 T110E4 jpg{{!}}T110E4, map Erlenberg
+image:T110E4-a1. A83 T110E4 jpg{{!}}T110E4, map Komarin
+
+
+|InTheGame_pros=
+* Good alpha damage and increased penetration over the T30's 155mm variant. A83 T110E4 
+* Has a mounted turret. A83 T110E4 
+* Decent mobility and top speed. A83 T110E4 
+* Acceptable frontal armor. A83 T110E4 
+
+
+|InTheGame_cons=
+* Very large weakspots on turret and hull. A83 T110E4  Gun mantlet its only 254mm of armor. A83 T110E4 
+* Mediocre -6 degrees of gun depression also limits hulldown tactics. A83 T110E4  
+* The turret has limited traverse, only 90° each side, making it very vulnerable to flanking
+* Weak sides below the tracks and lowglacis, and a large rear engine mount are easily penetrated. A83 T110E4  Unreliable at sidescraping. A83 T110E4 
+* The ammo rack is very weak, and gets damaged often when hit. A83 T110E4 
+* Horrible gun handling and DPM. A83 T110E4  
+
+|InTheGame_performance=
+
+The T110E4 is everything players wished the [[T30]] could be on maps with flat ground, but their play styles are totally different: T30 has strong turret with -10° of gun depression, a decent side hull, but bad frontal hull armor that means is perfect for play it in hull down and sidescraping positions; The T110E4 trades armor on the turret and gun depression in favor of a thicker frontal hull that can be used to bait shoots on corners; so don´t try to play like a T30 or you will go back to the garage really soon. A83 T110E4 
+The good news is your improved firepower in your gun: all kind of shells have a huge armor penetration and big alpha damage, allowing you to penetrate almost everything in front of you. A83 T110E4  However, the price of this power is the terrible gun handling, low dpm and the poor gun angles mentioned before. A83 T110E4 
+
+With all these characteristics the T110E4 is half tank destroyer/ half heavy tank: not really good as tank destroyer as well as a heavy tank, it´s just a mix, so its play style depends strongly on the maps which is played. A83 T110E4  In the open maps, it´s better to play like a sniper support (your armor at long range works well, the only problem is your gun handling) while in close combats it´s better to play like a heavy support. A83 T110E4  Remember, you are a support tank, enemies will flank and destroy you easily if you try to fight alone. A83 T110E4 
+
+The best way to play T110E4 is in corners, baiting shoots with its good upper hull armor. A83 T110E4  Sidescraping may work with some adjustments: you have a lot of weak spots and your turret can´t sustain well the enemy fire because is flat, so you've to be very careful not to over expose them. A83 T110E4 
+
+This T110E4 is challenging to play, but if you are smart, the T110E4 can be a versatile and rewarding machine. A83 T110E4 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, GLD, Camouflage Net
+
+|External_Reviews=
+{{VideoYT|Ut-_TEX3CcU}}
+
+|History=
+
+T110 Project History
+Article Pulled from Tankopedia. A83 T110E4 com (https://blog. A83 T110E4 tankpedia. A83 T110E4 org/2013/05/30/the-t110-120mm-heavy-tank-project/)
+
+
+
+Initiated on December 3, 1954, the T110 120mm heavy tank project began (Estes). A83 T110E4  Prior work had begun on October 30 for cannons to be used in this project, the T204 and T179, 120mm cannons. A83 T110E4  On September 18, 1956 the project would be canceled in light of the success of the  T43 project which would lead to the M103 (Estes). A83 T110E4  The T110 began life as concept TS-31 and was given to Chrysler Corporation with their proposal being the 120mm gun tank T110 (Hunnicutt). A83 T110E4  There were multiple versions of the T110 that were proposed. A83 T110E4  The initial proposal was rejected as its dimensions would of prohibited the vehicles passage through the Berne International Tunnel, a requirement for the project (Hunnicutt). A83 T110E4  A further requirement was that the vehicle have a 50 ton weight limit (Hunnicutt). A83 T110E4  As design progressed the  T123E1 was selected as the cannon (Hunnicutt). A83 T110E4  In total there were five T110 designs (Hunnicutt). A83 T110E4  The names Chrysler and Detroit Arsenal should be considered interchangeable when reading on the development of this tank. A83 T110E4  To be clear the Detroit Arsenal, or Detroit Arsenal Tank Plant (DATP) was established by Chrysler but owned and by the United States government and alternately would be Army operated or contractor operated (“Detroit Arsenal Tank Plant”). A83 T110E4  Chrysler operated the facility during the development of the T110; having regained it from the Army in 1952 (“Detroit Arsenal Tank Plant”). A83 T110E4 
+
+The T110E4 represents the 4th proposal for the T110 project. A83 T110E4   The T110E4 was Chrysler’s response to the problems in their T110E3 design(power pack issues). A83 T110E4  Note that the Chrysler T110E3 proposal was almost identical to the T110E4 save for being slightly shorter due to a worse powerpack, and is not to be confused with the Detroit T110E3. A83 T110E4  The T110E4 was planned with an AOI-1490 engine located in the rear of the hull along with the transmission. A83 T110E4  The rear section of the hull was to be covered with infrared shielding. A83 T110E4  The main weapon of the T110 series (the T123 120 mm gun, prototype to the M58) was to be mounted in a gimbal ring mount. A83 T110E4 This arrangement gave the T110E4 15 degrees of movement either left or right and -10 to +20 degrees of depression/elevation. A83 T110E4  The gun mantlet was to weight ~2 tons and would be ~230 mm thick without any curvature being taken into consideration. A83 T110E4  The rest of the T110E4′s hull was to be protected by 127 mm of armor sloped at 60 degrees(254 mm of effective armor). A83 T110E4  There was to be 4 crew members with the driver and gunner being located uncomfortably in the front of the vehicle wedged against 127 mm of armor. A83 T110E4  The cupola was to have a . A83 T110E4 30 caliber MG and was to use an OPTAR rangefinder using pulsed light. A83 T110E4 (Hunnicutt)
+
+Works Cited:
+
+1. A83 T110E4  Estes, Kenneth W. A83 T110E4  M103 Heavy Tank 1950-74. A83 T110E4  Osprey Publishing Ltd. A83 T110E4 , 2012. A83 T110E4  eBook. A83 T110E4 
+
+2. A83 T110E4  Hunnicutt, R. A83 T110E4  P. A83 T110E4  Firepower: A History of the American Heavy Tank. A83 T110E4  Presidio, 86, 130, 172 – 176. A83 T110E4  Print. A83 T110E4 
+
+3. A83 T110E4  United States. A83 T110E4  HEADQUARTERS DEPARTMENT OF THE ARMY. A83 T110E4  DIRECT SUPPORT, GENERAL SUPPORT, AND DEPOT MAINTENANCE REPAIR PARTS AND SPECIAL TOOLS LIST TELESCOPE M97 (1240-360-1593), M97G (1240-732-1470) AND M97H (1240-732-1469). A83 T110E4  Washington DC: , 1970. A83 T110E4  Print. A83 T110E4 
+
+4. A83 T110E4  “Detroit Arsenal Tank Plant. A83 T110E4 ” Wikipedia: The Free Encyclopedia. A83 T110E4  Wikimedia Foundation, Inc. A83 T110E4 , 15 Nov 2012. A83 T110E4  Web. A83 T110E4  29 May 2013. A83 T110E4  <https://en. A83 T110E4 wikipedia. A83 T110E4 org/wiki/Detroit_Arsenal_Tank_Plant>. A83 T110E4 
+
+|HistoricalGallery=
+File:T110E4Chrysler%2BDetriot. A83 T110E4 png{{!}}The fourth Chrysler T110 proposal (T110E4 in game) on the right, next to the second Detroit proposal on the left. A83 T110E4 
+File:T110E4Chrysler1. A83 T110E4 5. A83 T110E4 png{{!}}A model of the T110E4 on the left and a T110E4 drawing on the right. A83 T110E4 
+File:T110E4Chrysler2. A83 T110E4 png{{!}}Blueprints of the T110E4. A83 T110E4 
+
+
+|HistAcc=
+* It is generally agreed the T110E4 as it exists in the game is considered to be a fabrication based on liberties taken with various T110 program proposals:
+** The only proposed armament was a 120mm gun, the same as the one on the T110E5. A83 T110E4 
+** The armor is considerably thicker than listed in the blueprints for the T110E4. A83 T110E4 
+** The T110E4 did not have a fully traversible turret. A83 T110E4  The tank's model is considerably different from the historical blueprint as a result, not having a protruding power pack and a gimbal ring gun mount, similar to what the T110E3 and the SU-85 have. A83 T110E4 
+** The AOI-1490 engine had 700 horsepower historically, but in game it has 875 horsepower. A83 T110E4 
+
+
+|Ref_references=
+Article Pulled from Tankopedia. A83 T110E4 com (https://blog. A83 T110E4 tankpedia. A83 T110E4 org/2013/05/30/the-t110-120mm-heavy-tank-project/)
+
+|Ref_sources=
+1. A83 T110E4  Estes, Kenneth W. A83 T110E4  M103 Heavy Tank 1950-74. A83 T110E4  Osprey Publishing Ltd. A83 T110E4 , 2012. A83 T110E4  eBook. A83 T110E4 
+
+2. A83 T110E4  Hunnicutt, R. A83 T110E4  P. A83 T110E4  Firepower: A History of the American Heavy Tank. A83 T110E4  Presidio, 86, 130, 172 – 176. A83 T110E4  Print. A83 T110E4 
+
+3. A83 T110E4  United States. A83 T110E4  HEADQUARTERS DEPARTMENT OF THE ARMY. A83 T110E4  DIRECT SUPPORT, GENERAL SUPPORT, AND DEPOT MAINTENANCE REPAIR PARTS AND SPECIAL TOOLS LIST TELESCOPE M97 (1240-360-1593), M97G (1240-732-1470) AND M97H (1240-732-1469). A83 T110E4  Washington DC: , 1970. A83 T110E4  Print. A83 T110E4 
+
+4. A83 T110E4  “Detroit Arsenal Tank Plant. A83 T110E4 ” Wikipedia: The Free Encyclopedia. A83 T110E4  Wikimedia Foundation, Inc. A83 T110E4 , 15 Nov 2012. A83 T110E4  Web. A83 T110E4  29 May 2013. A83 T110E4  <https://en. A83 T110E4 wikipedia. A83 T110E4 org/wiki/Detroit_Arsenal_Tank_Plant>. A83 T110E4 
+
+|Ref_links=
+* https://blog. A83 T110E4 tankpedia. A83 T110E4 org/2013/05/30/the-t110-120mm-heavy-tank-project
+* https://ftr. A83 T110E4 wot-news. A83 T110E4 com/2013/06/11/the-t110e4/
+
+}}
+
+[[Category:USA Tanks]]

@@ -1,0 +1,70 @@
+{{TankData|Tank= T-100 LT
+| The T-100 LT is a very, VERY small, fast, and nimble light tank, making it very stealthy. R132 VNII 100LT  Poor gun characteristics prevent effective sniping, but it's ability to hide can negate that by allowing it to remain hidden at closer ranges. R132 VNII 100LT  This tank is the final word in passive scouting. R132 VNII 100LT 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Excellent camouflage rating and low profile
+* Excellent on the move dispersion values
+* Tough frontal turret armor for a light tank 
+* Great overall mobility (acceleration, top speed, traverse)
+* Can easily sidehug taller tanks due to its short height
+
+|InTheGame_cons= 
+* Bad gun depression and mediocre elevation
+* Very poor gun accuracy
+* Very light, ramming is not advised. R132 VNII 100LT  
+* Hull armor is still thin. R132 VNII 100LT  Expect few, if any, bounces. R132 VNII 100LT 
+* Poor premium ammo - modest penetration increase and low shell velocity
+
+|InTheGame_performance= 
+The name of the game is staying hidden, keeping targets spotted for your team, and striking out when you know you have a clear shot. R132 VNII 100LT  The T-100 LT is the ultimate passive scout, able to remain hidden far after any other tank would be spotted while keeping targets lit. R132 VNII 100LT  One of the major advantages of this tank over it's medium counterparts is it's ability to maintain its camo value on the move, allowing it to slip into heavily vegitated areas unseen. R132 VNII 100LT  This can allow it to take up positions far in advance of what most players would expect. R132 VNII 100LT  While the T100's armor can provide the occassional bounce from time to time and seem tough compared to other light tanks, it is far from reliable. R132 VNII 100LT  It is only a little less likely to bounce a round from a Obj 268 than it is a round from it's own gun. R132 VNII 100LT  Do not count on the armor stopping anything. R132 VNII 100LT 
+
+The only real let down of this tank is the abysmal gun accuracy, which combined with mediocre penetration (and low-velocity premium AP rounds) means engaging at long range is highly inadvisable, aside from very large and soft targets. R132 VNII 100LT  Instead, use your excellent concealment values to sneak into positions that will allow you closer range and shots at the sides of enemy tanks. R132 VNII 100LT  Just be careful of hilly terrain; your poor gun depression AND elevation will not be doing you any favors. R132 VNII 100LT 
+
+One advantage to such a low profile is the ability to slip under the guns of some larger tanks, like the Maus, Type 5, or FV 4005, and hammer their sides with complete impunity, as they cannot depress their guns low enough to engage you. R132 VNII 100LT  By the same merit, however, getting too close can limit or negate your ability to hit weakspots like copulas. R132 VNII 100LT  When approaching an enemy tank, it will be important to know where you need to shoot it before hand, lest the only thing you do is hand out a Steel Wall to the enemy. R132 VNII 100LT 
+
+|InTheGame_research= 
+None, as all modules are researched. R132 VNII 100LT 
+|InTheGame_equipment= Medium-Caliber Tank Gun Rammer, Camouflage Net, Coated Optics, Binocular Telescope, Vertical Stabilizer Mk 1
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|66JDoeZR6-Q}}
+
+|History= 
+In the mid-60s the Soviet Army Command decided a new low-profile airborne light tank was needed. R132 VNII 100LT  Research Institute No. R132 VNII 100LT 100 was assigned with the carrying out of the project. R132 VNII 100LT  To put the basis of the new light tank, components and assemblies were taken from ChTZ's BMP Object 765. R132 VNII 100LT <br>
+==Development==
+To create an easy-to-produce airborne and land tank, Institute 100 (VNII-100) took a classic layout with rear engine placement and the position of the driver in the compartment at the left side. R132 VNII 100LT  The design of BMP Object 765 propusion systems were used in development and, in connection with the new modified engine compartment volume (MTO) and a decrease in body height, undergone significant changes. R132 VNII 100LT  The chassis (according to one schematic) was developed as semi-supported after the model of BMP "Object 765". R132 VNII 100LT  The tank was to be transported by AN-12 aircraft and parachuted to landing. R132 VNII 100LT 
+[[image:obj-765-bmp. R132 VNII 100LT jpg|thumb|400px|right|ChTZ's BMP "Object 765", basis vehicle of the T-100 light tank, that also became the BMP-1 later. R132 VNII 100LT ]] 
+
+In a joint operation with GSKB-47 (design bureau 162), under the command of L. R132 VNII 100LT S. R132 VNII 100LT  Troyanova, preliminary layout study was held in preparation for the development of a primary weapon complex, which was to be carried out by head engineer A. R132 VNII 100LT A. R132 VNII 100LT  Timofeev. R132 VNII 100LT  It was comprised of a new 100mm active-reactive missile launching system with increasing cumulative projectile armor penetration at range, capable of being effective at 400m up to 1200m. R132 VNII 100LT  The light tank project, at this point, was given the designation T-100, also called VNII-100 project in blueprints after the institute name. R132 VNII 100LT 
+[[image:vnii-100. R132 VNII 100LT jpg|thumb|400px|right|T-100 1964 concept drawing by VNII-100 institute. R132 VNII 100LT ]]
+
+==Characteristics==
+The main benefits of the tank were the simplicity of the design and relatively low mass. R132 VNII 100LT  The weapon complex was superior at point-blank range to any other light armor-piercing projectile guns of about equal volume/weight at the time. R132 VNII 100LT  It could be installed not only on light tanks, but also on other machines such as infantry fighting vehicles and airborne support SPGs. R132 VNII 100LT  Using the design of the T-100 light tank vastly increased the combat capability over the existing PT-76B tank, while maintaining reliability, low-cost and ease of manufacture and maintenance. R132 VNII 100LT 
+
+The pressure of powder gasses in the barrel of the active-reactive system was significantly lower (2-3 times) than on other tank guns, being made according to the scheme of classic artillery shells while featuring reduced mass and dimensions. R132 VNII 100LT  This made possible the use of automatic and small-caliber guns with complex tools for the armament of the T-100, as well as turret guns, which provided an acceptable mass and size of weaponry. R132 VNII 100LT 
+
+Estimating the mass and dimensional parameters of other potential implements to the T-100 weapon complex, Institute 100 designers have come to the conclusion that the most appropiate weapon scheme was the six-shot turret gun. R132 VNII 100LT  In this case, compared to the single-shot variant, with quite reasonable breech dimensions and gun weight, the combat characteristics of the weapon were significantly improved and many construction and layout issues were easier to solve. R132 VNII 100LT  
+
+The loading mechanism of such a weapon was to ensure the automatic rotation of the drum after firing, with the help of an interpreter, which made the shifting of the drum possible. R132 VNII 100LT  This device provides the simplest way to solve the matter of choosing one or another type of shell, as opposed to classical turret and barrel guns, in which the drum rotation was performed sequentially on a single type of shell. R132 VNII 100LT  Such a design allows to always have in the drum loading mechanism different combinations of ammunition: six shots of the same type (armor-piercing or high-explosive fragmentation), or a combination of two types of shots (three armor-piercing and three high-explosive fragmentation). R132 VNII 100LT  In both instances, the gunner provides automated consumption of all shells located in the drum. R132 VNII 100LT  This type of loading mechanism provides the best possible readiness to fire the gun and independent choice for the type of shell, both unachievable in conventional systems. R132 VNII 100LT  The mechanism minimizes the preparation of the first shot and provides almost instant readiness for the next shot. R132 VNII 100LT  At the same time there was no need to install a hydrostop (with stabilized actuators) for the loading of ammunition. R132 VNII 100LT  This, in turn, avoids a more simple and cheap system weapon stabilization and scopes with a dependent line of sight (type TS and TPN-1), and ensures no tampering at the time of loading and an independent stabilized scope. R132 VNII 100LT  
+
+The use of a turret with blocks of breech nests made it possible to create a compact and comparatively light automatic gun with autonomous ammunition, with a high rate of fire. R132 VNII 100LT  Reducing the time of preparation of the first shot was the most valuable asset for tank weapons, since by that time the time required to produce the first sighting shots depended substantially on the combat effectiveness of the whole complex of tank weapons. R132 VNII 100LT  Abandonment of the buoyancy of the machine and the transition to a non-floating tank scheme with minimal transverse dimensions allowed to create a very powerful light tank as the armor and radiation protection of the frontal part was not inferior to the protection of other Soviet tanks at the time. R132 VNII 100LT 
+[[image:interior-scheme-t100. R132 VNII 100LT jpg|thumb|400px|right|Interior schematics of T-100 light tank. R132 VNII 100LT ]]
+
+According to the project, the hull was welded from rolled steel plates. R132 VNII 100LT  The upper part had a combined frontal armor protection (steel + fiberglass + steel) with a reduced protective thickness of 430-450 mm. R132 VNII 100LT  It provides protection against chemical NATO projectile guns of caliber 90mm and 105mm as well as from French anti-tank type SS-11. R132 VNII 100LT  The front plate's big angle (68 °) allowed to provide protection against foreign armor-piercing projectile guns: 75 mm (AMX-13), 83. R132 VNII 100LT 8 mm (Centurion) 90 mm (M48 Patton), 76. R132 VNII 100LT 2 mm (M41 Walker Bulldog) at all distances; from the 105 mm cannon (M60 Patton and Leopard) at a distance of 300 m and from 120 mm cannon (Chieftain) at a distance of 100 m. R132 VNII 100LT  armor plate sides and hull were 40 mm thick provided, at all ranges, protection from 20 mm NATO guns, installed on APCs. R132 VNII 100LT  The roof of the hull in front of the steel was 16 mm thick, the roof over the engine compartment - 20 mm aluminum alloy armor. R132 VNII 100LT  The bottom of the front and middle plate had a thickness of 16 mm, in the rear section - 6-8 mm. R132 VNII 100LT  The equivalent thickness of a cast turret in the front sector combined with a ± 30 ° angle was 180 mm (155/30 °), side - 40-50 mm, roof - 12-26 mm. R132 VNII 100LT 
+
+==Fate==
+Despite the high level of protection of the light tank, its little cooperation level with bigger land machines and most importantly - the lack of buoyancy prevented it from being approved for production past the design phase. R132 VNII 100LT  Light tank equipment and active-reactive systems also did not receive further development and development of complex weapons for the T-100 were terminated. R132 VNII 100LT  The main efforts of specialized design offices have focused on the development of advanced amphibious tanks with artillery guns of a smaller caliber (85-100 mm). R132 VNII 100LT  Work on the production of a light tank armed with a 100 mm rifled ballistic gun was continued in the 1970s by VgTZ design offices in Volgograd (Object 934) and CMH Kurgan (Object 685). R132 VNII 100LT 
+|HistoricalGallery= 
+image:vnii-100. R132 VNII 100LT jpg{{!}}T-100 1964 concept drawing by VNII-100 institute. R132 VNII 100LT 
+image:interior-scheme-t100. R132 VNII 100LT jpg{{!}}Interior schematics of T-100 light tank. R132 VNII 100LT 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://www. R132 VNII 100LT alternathistory. R132 VNII 100LT com/proekt-legkogo-tanka-vnii-100-sssr
+}}

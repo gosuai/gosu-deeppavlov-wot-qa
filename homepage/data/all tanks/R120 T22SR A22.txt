@@ -1,0 +1,74 @@
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:Т-22 ср scr 1. R120 T22SR A22 jpg
+File:Т-22 ср scr 2. R120 T22SR A22 jpg
+File:Т-22 ср scr 3. R120 T22SR A22 jpg
+
+
+|InTheGame_pros= 
+* Side armor can be used to reverse sidescrape. R120 T22SR A22  <br>
+* Rarity leads to general player lack of knowledge about weaknesses, also contributes to fear factor. R120 T22SR A22  <br>
+* Very impressive gun handling. R120 T22SR A22 <br>
+* Mobility is top notch. R120 T22SR A22 <br>
+|InTheGame_cons= 
+* Substantially lower DPM than almost all tier ten mediums. R120 T22SR A22 <br>
+* Frontal armor is virtually pointless. R120 T22SR A22 <br>
+* Is slated for massive nerfs for being generally unbalanced in Random Battles. R120 T22SR A22 <br>
+|InTheGame_performance= 
+{{VideoYT|ANS7cbH-mTg}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+T-22cp and A-22, with the related development projects, were medium tanks built by the Soviet Union, resembling many features with one of the well-known prototype tanks that appear in World of Tanks, the Object 907. R120 T22SR A22 
+
+
+It’s basically because: The A-22 was the first batch model of the T-22cp -> and the T-22cp was actually a placeholder for further reserach of the Object 907. R120 T22SR A22  Starting from one of the most famous Soviet tanks in WWII, to the most produced Soviet tank in the Cold War, the development tree looks like this, quite arbitrarily: T-34 -> T-34-85 -> T-44 -> T-54 (T -55) -> A-22 -> T-22cp -> Object 907. R120 T22SR A22 
+
+
+
+In 1949, a project was carried out to establish the armor layout design for the A-22, with the further development being based on the results of the work and calculations, and of course, it turned out with all the additional work. R120 T22SR A22  But for some reason, the final development went to the Object 907 for further examination. R120 T22SR A22  It should be noted that the hull layout of the A-22 was almost completely made of RHA (rolled homogeneous armor) plates, the hull layout of the Object 907 should have been made by cast armor parts. R120 T22SR A22 
+
+
+As being said earlier that even though the work on the A-22 and T-22cp were merely a partial development of the Object 907, it’s necessary to understand that this was created from scratch using the data received from particular studies. R120 T22SR A22 
+A joint cooperation between TSBL-1 (Central Armor Laboratory №1, before the CRI-48 from the Moscow branch) and CRI-48 (Central Research Institute of Structural Materials “Prometheus”) was started in 1953 to begin the Object 907 Medium Tank development. R120 T22SR A22  In 1954, an armor layout scheme for this tank was considered for maximum protection, especially on the turret area. R120 T22SR A22 
+
+They had prepared 3 drawing schemes with different armor types:
+
+* 1. R120 T22SR A22  Weld of almost all the cast armor parts to the tank. R120 T22SR A22 
+* 2. R120 T22SR A22  Recreate a complete armor scheme with varying thickness. R120 T22SR A22 
+* 3. R120 T22SR A22  Secondary welded armor. R120 T22SR A22 
+
+In the end, only the third option was used to collect all the calculations from the armor protection tests of the hull and turret. R120 T22SR A22 
+The armor protection tests were conducted in early 1955. R120 T22SR A22  The result was very outstanding, especially with its turret, which was 30% better than the T-54’s turret. R120 T22SR A22  It’s worth mentioning that the T-54 was developed in 1945, 10 years earlier than the Object 907. R120 T22SR A22  Ironically, it took so much time, just to improve turret armor protection by 30%, while leaving the other aspects as usual (as before). R120 T22SR A22 
+
+
+By the end of 1955 it was planned to cast a full-length body and conduct armor protection tests again in 1956. R120 T22SR A22  Unfortunately, at that time, it’s already known in general that the cumulative high velocity projectiles with average caliber of 85 mm in any manufacturing technology were able to punch through Object 907’s armor almost everywhere except in the turret. R120 T22SR A22 
+Further developments were discontinued and the test result of the Object 907 was scrapped in favor of Object 279 Heavy Tank. R120 T22SR A22 
+Also, as per Soviet’s standard tank weaponry at the time (late 1940 – early 1950), A-22, T-22cp, and Object 907 would use 100 mm – type guns, designed for medium tanks. R120 T22SR A22 
+
+
+|HistoricalGallery= 
+File:A-22_hull. R120 T22SR A22 jpg
+File:A-22_hull_2. R120 T22SR A22 jpg
+File:A-22_hull_3. R120 T22SR A22 jpg
+File:A-22_tested_against_122mm_and_128mm_shells. R120 T22SR A22 jpg{{!}}A-22 hull, after being tested against 122mm and 128mm shells
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://thearmoredpatrol. R120 T22SR A22 com/2015/07/11/%D1%82-22%D1%81%D1%80-%D0%B0-22/
+* https://vk. R120 T22SR A22 com/page-24571337_50120086
+
+}}

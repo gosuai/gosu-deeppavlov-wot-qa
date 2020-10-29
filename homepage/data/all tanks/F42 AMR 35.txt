@@ -1,0 +1,38 @@
+{{TankData|Tank= AMR 35
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+-Accurate gun<br/>
+-Very fast reload<br/>
+-Small profile
+
+|InTheGame_cons= 
+-Somewhat slow<br/>
+-Paper thin armour<br/>
+-Only 2 crew makes it easier to be knocked out by having all your crew killed than to lose the tank
+
+|InTheGame_performance= 
+The AMR performs well when played as a sniper tank. F42 AMR 35  Use its quick-firing and accurate gun to whittle down enemies from a distance. F42 AMR 35  However, this tank stands absolutely no chance against tanks with machineguns due to its paper thin armour. F42 AMR 35  Sometimes, the crew will be knocked out before the tank is destroyed. F42 AMR 35  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

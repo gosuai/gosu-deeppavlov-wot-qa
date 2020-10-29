@@ -1,0 +1,214 @@
+{{TankData|Tank=
+|The Dicker Max is the first in the Premium Tank Destroyer line of the German tree. G41 DickerMax  It boasts a good ability to engage tanks from a distance: with the highest available view range, and gun stats that rival the Tiger, with surprisingly good alpha damage at its tier. G41 DickerMax  The Dicker Max's defense boasts of the second best gun depression on the game, but paper armour and the mediocre camo. G41 DickerMax  Given aim time, this gun reliably damages most enemies and will only struggle against tier 8 tanks. G41 DickerMax  Players using the D. G41 DickerMax  Max should be aware that the tank will not survive being shot at whatsoever, but especially HE shots or close fights. G41 DickerMax  It's best used as a flanker-ambusher waiting for the enemy to get closer. G41 DickerMax  For its size, it also has a somewhat decent camouflage value, and if equipped with camouflage module and crew training it can become a serious threat for enemies closing in. G41 DickerMax  As downsides, it has a restrictive gun traverse and lacks the ability to quickly relocate. G41 DickerMax  It also has somewhat low ammo capacity. G41 DickerMax  Overall the tank is a solid choice for those who enjoy ambushing targets and are seeking a moneymaker or crew trainer. G41 DickerMax 
+
+|Gallery=
+
+|InTheGame_pros=
+* Exceptional gun depression, one of the best in the game
+* Excellent viewrange for its tier and class
+* Acceptable camouflage values
+* High alpha damage and good rate of fire
+
+|InTheGame_cons=
+* Very thin armor, highly vulnerable to HE shells and artillery due to open top
+* Lowest HP pool of all tier 6 TDs, with a tall profile
+* Poor maneuverability and mobility, cannot relocate quickly
+* Terrible elevation and traverse arc
+* Expensive shells and low ammo capacity
+
+|InTheGame_performance=
+Always remember that your tank has armor made out of tissue paper - Stay HIDDEN!  Take advantage of your incredible view range (400 meters) and amazing gun depression to stay out of trouble while dishing out damage with your high-alpha, and somewhat accurate gun. G41 DickerMax  Park behind bushes or use hilly terrain to stay out of sight. G41 DickerMax   Remember - the Dicker Max has amazing gun depression. G41 DickerMax   Use the gun depression to minimize your profile by sneaking over rises to get a shot in and then backing up to avoid return fire while you reload. G41 DickerMax 
+
+Arty is a real danger to you - even tier III arty can one-shot you because of your minimal armor and open top. G41 DickerMax   Never hesitate to reposition if you sense that you're spotted. G41 DickerMax   And you will get spotted often - once you fire the camouflage value very noticeably worsens for several seconds. G41 DickerMax   Sixth Sense is an important perk to learn because your tank cannot take hits. G41 DickerMax 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Coated Optics, Camouflage Net
+
+|History=
+
+'''Dicker Max'''
+
+During WWII, the German army became the leader in the amount of SPGs produced. G41 DickerMax  The most numerous armoured vehicle in the German army was not a tank, but an SPGs. G41 DickerMax  The Germans were also the first to use self propelled gun mounts. G41 DickerMax  These SPGs were, as a rule, made from obsolete tank chassis, usually light tanks. G41 DickerMax  However, the Germans had a custom built self propelled gun mount, not converted from an already existing tank, but built from scratch. G41 DickerMax  This unusual vehicle is known as the Dicker Max. G41 DickerMax 
+
+New Objectives
+
+The increased tension in Europe in the late 1930s forced many nations to accelerate development of new armoured vehicles. G41 DickerMax  This also applied to the cause of that tension: Germany. G41 DickerMax  The war was inevitable, and the offensive power of the army grew day by day. G41 DickerMax 
+
+Meanwhile, European countries, including France, Czechoslovakia, and Belgium concentrated their efforts on defensive measures. G41 DickerMax  One of those measures was fortifications. G41 DickerMax  The Maginot line is the most famous of them. G41 DickerMax  In 1936, Czechoslovakia began building a defensive perimeter known as the Beneš line. G41 DickerMax  It included an impressive 250 bunkers and almost 10,000 light fortifications. G41 DickerMax  The Belgian KW line was even more impressive. G41 DickerMax  The upcoming blitzkrieg wouldn't be a walk in the park, at least in theory. G41 DickerMax 
+
+The Germans didn't sit on their hands either. G41 DickerMax  In 1938, the German army reclassified the Flak 18 88 mm AA gun into a dual purpose weapon. G41 DickerMax  Now they would be also used against fortifications and tanks. G41 DickerMax  Special units to combat enemy fortifications were hurriedly formed. G41 DickerMax  It became obvious that towed guns protected by only a gun shield were inadequate for this task. G41 DickerMax  A logical solution was to launch a program to develop a special SPG. G41 DickerMax 
+
+[[File:10. G41 DickerMax 5_cm_K18_gun. G41 DickerMax jpg]]
+
+10. G41 DickerMax 5 cm K 18, the main gun for the prospective bunker buster. G41 DickerMax 
+
+The German Flak 18 gun was powerful, but far from the best fit for the role of a bunker buster. G41 DickerMax  The 10. G41 DickerMax 5 cm schwere Kanone 18 was a much more appropriate weapon. G41 DickerMax  This 52 caliber long gun on the mount of the sFH 18 149 mm howitzer was superior to the Flak 18 in many characteristics. G41 DickerMax 
+
+It is well known that AA guns were widely used as anti-tank weapons, but a lesser known fact is that the Wehrmacht actively used the 10. G41 DickerMax 5 cm K 18 as well. G41 DickerMax  This was especially true on the Soviet-German front in 1941, where the gun frequently came up against the KV-1 tank. G41 DickerMax 
+
+[[File:Reworked_10. G41 DickerMax 5_cm_K18_for_SPG. G41 DickerMax jpg]]
+
+Reworked 10. G41 DickerMax 5 cm K 18 for installation into the self propelled gun mount. G41 DickerMax 
+
+This gun was selected as the weapon for the SPG. G41 DickerMax  During the design stage, it became obvious that the artillery system will have to be redesigned. G41 DickerMax  The problem was that there wasn't a wide choice of chassis available for such a large gun, and the requirements for the internal layout were unyielding. G41 DickerMax 
+
+The gun was altered significantly for this purpose. G41 DickerMax  For starters, a massive two-chamber muzzle brake was added. G41 DickerMax  The gases it emitted raised a cloud of dust and revealed the position of the SPG, but the recoil length was significantly shortened. G41 DickerMax  The barrel also became segmented. G41 DickerMax 
+
+[[File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_at_factory_1941. G41 DickerMax jpg]]
+
+ Pz. G41 DickerMax Sfl. G41 DickerMax IVa at the factory, early 1941. G41 DickerMax 
+
+There was no alternative when it came to selecting a chassis. G41 DickerMax  The contract was won by Krupp, as the chassis of the B. G41 DickerMax W. G41 DickerMax  (PzIV) was the most appropriate. G41 DickerMax  Work on the 10. G41 DickerMax 5 cm K. G41 DickerMax  L/52 Selbstfahrlafette (105 mm K 18 gun on a self propelled mount) began in 1938. G41 DickerMax 
+
+Two draft projects were presented on April 25th, 1939, by which time an assault on Czechoslovak fortifications was no longer relevant. G41 DickerMax  The drafts differed in layout. G41 DickerMax  Blueprint W1299 placed the engine behind the gun. G41 DickerMax  This lowered the bore axis to 1. G41 DickerMax 7 meters and was preferred by Krupp engineers. G41 DickerMax  However, when it came to the size of the fighting compartment, this variant was sorely lacking. G41 DickerMax 
+
+The second variant, blueprint W1298, placed the engine under the gun. G41 DickerMax  This made it difficult to service and raised the bore axis to 2 meters. G41 DickerMax  The pressure on the front road wheels also grew. G41 DickerMax  However, the fighting compartment became significantly roomier, and the overhang of the barrel decreased by 80 cm. G41 DickerMax 
+
+The second variant was selected by the 6th Waffenamt. G41 DickerMax  Initially, the design envisioned an agile vehicle, equipped with the 12 cylinder Maybach HL 120 320 hp engine. G41 DickerMax  This idea was quickly rejected. G41 DickerMax  The engine took up too much space which was so sorely lacking for the fighting compartment. G41 DickerMax 
+
+[[File:Right_view_of_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg]]
+
+Looking from the right, the fake driver's cabin is clearly visible. G41 DickerMax 
+
+A new variant of the SPG was presented on May 2nd, 1939. G41 DickerMax  Blueprint W1300 shows a vehicle equipped with the 300 hp Maybach HL 116. G41 DickerMax  Even this variant did not live for long. G41 DickerMax  The engine was too tall, and an even smaller engine had to be found. G41 DickerMax  This was the six cylinder Maybach HL 66. G41 DickerMax  In theory it output 200 hp, but in practice it turned out less powerful, putting out only 180 hp. G41 DickerMax  The mobility of the prospective vehicle dropped sharply. G41 DickerMax  On the other hand, the targets that it was designed to fight against weren't going anywhere. G41 DickerMax  
+
+Meanwhile, Krupp's designers continued to experiment. G41 DickerMax  On May 15th, W1301 and W1303 were presented. G41 DickerMax  The first used the Maybach HL 116 engine with the engine and gearbox shifted to the side. G41 DickerMax  The mass of the SPG became 24 tons. G41 DickerMax  W1303 weighed 22 tons, and the Maybach HL 66 engine was installed behind the gun. G41 DickerMax  The issue of using a torsion bar suspension "borrowed" from the Z. G41 DickerMax W. G41 DickerMax 38 tank (future PzIII Ausf. G41 DickerMax  E) was also raised at this time. G41 DickerMax  On May 23rd, a new version of W1303 appeared, W1307, where the vehicle had a six-wheel chassis with a torsion bar suspension. G41 DickerMax 
+
+[[File:Profile_view_of_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg]]
+
+The result was very compact for such a powerful gun. G41 DickerMax 
+
+The SPG, renamed Pz. G41 DickerMax Sfl. G41 DickerMax IV (10 cm), began taking its final form towards the end of the summer of 1939. G41 DickerMax  The designers were fighting to reduce the weight of the vehicle. G41 DickerMax  In this struggle, they were in direct opposition with the 6th Waffenamt. G41 DickerMax  
+
+Calculations showed that the spring suspension from the PzIV was 430 kg lighter than the torsion bar suspension. G41 DickerMax  This was the deciding factor for the choice of suspension, as it helped reduce the vehicle's weight to under 20 tons. G41 DickerMax 
+
+As a result, the military was forced to give in and give permission to build two full Pz. G41 DickerMax Sfl. G41 DickerMax IV (10 cm) on the PzIV chassis and one experimental chassis with 6 road wheels per side. G41 DickerMax  The latter was never built. G41 DickerMax 
+
+In September and October of 1939, the final characteristics of the SPG were calculated. G41 DickerMax  With an effective power of 9 hp per ton, the planned top speed of 35 kph seemed too bold, and was decreased to 27 kph. G41 DickerMax 
+
+[[File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_from_front. G41 DickerMax jpg]]
+
+Pz. G41 DickerMax Sfl. G41 DickerMax IVa from the front. G41 DickerMax 
+
+The new vehicle was very much in demand with the Wehrmacht. G41 DickerMax  According to documents, the overall order for Pz. G41 DickerMax Sfl. G41 DickerMax IV (10 cm) numbered 100 vehicles. G41 DickerMax  The first prototypes were planned in May, but the deadline was moved further and further back. G41 DickerMax  Finally, two SPGs were built at Grusonwerk only in January of 1941. G41 DickerMax 
+
+By then, the need for bunker busters was gone. G41 DickerMax  Belgium lasted less than three weeks, France less than six. G41 DickerMax  Instead of bunkers, German artillery was shooting at mobile targets. G41 DickerMax  In January of 1941, the main target for the Pz. G41 DickerMax Sfl. G41 DickerMax IV (10 cm) was heavy tanks. G41 DickerMax  Mass production of the SPG was postponed. G41 DickerMax 
+
+'''The Most Powerful Tank Destroyer'''
+
+The vehicles built in January of 1941 differed from the initial concept proposed by Krupp in the spring of 1939. G41 DickerMax  The PzIV Ausf. G41 DickerMax  E served as the base for the vehicle. G41 DickerMax  The suspension, the configuration of the "tub" and the location of the transmission remained unchanged. G41 DickerMax 
+
+Moving the fighting compartment to the rear of the hull forced some changes. G41 DickerMax  The engine was moved to the center of the vehicle, underneath the gun breech. G41 DickerMax  Since there was no room for air intakes, they had to be placed along the sides of the casemate. G41 DickerMax  The gunner and commander were placed in the front of the fighting compartment, the two loaders (the gun had a two-piece round) in the back. G41 DickerMax 
+
+The work to optimize the fighting compartment paid off: the casemate was rather roomy. G41 DickerMax  The fighting compartment height was 1850 mm, so the crew could work while standing. G41 DickerMax  On the other hand, the ammunition capacity was low, and consisted of only 26 shells. G41 DickerMax  The crew entered the vehicle through two small hatches in the back. G41 DickerMax 
+
+[[File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_rear_view. G41 DickerMax jpg]]
+
+The view from the rear shows the hatches that the crew used to access the fighting compartment. G41 DickerMax 
+
+The placement of the driver was done in an unusual way. G41 DickerMax  A separate cabin was made, which he entered through a hatch on top. G41 DickerMax  A fake cabin was installed on the right of the vehicle, complete with an imitation of an observation device. G41 DickerMax 
+
+[[File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_fighting_compartment. G41 DickerMax jpg]]
+
+Krupp's engineers had to make creative decisions to make the fighting compartment roomier. G41 DickerMax  For example. G41 DickerMax  the air intakes are very unusual. G41 DickerMax 
+
+The resulting vehicle differed drastically from the subsequently designed medium self propelled mounts. G41 DickerMax  Unlike them, the Pz. G41 DickerMax Sfl. G41 DickerMax IV (10 cm) retained the same armour as the PzIV Ausf E: 50 mm in the front, 20 mm on the sides, and 10 mm in the rear. G41 DickerMax  The height of the vehicle was only 13 cm more than that of the base tank, and the mass remained at the level of the PzIV Ausf. G41 DickerMax  E: 22 tons. G41 DickerMax 
+
+The main problem with the design was that the engine was a third weaker than the tank's. G41 DickerMax  Servicing the engine was another major problem. G41 DickerMax  It was impossible to take out the engine without removing the gun. G41 DickerMax  In order to at least somehow ease the crew's pain, the center plate of the casemate was made removable. G41 DickerMax 
+
+[[File:Loader_space_for_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg]]
+
+There was plenty of space for the two loaders. G41 DickerMax 
+
+On March 31st, 1941, the SPGs were shown to Hitler. G41 DickerMax  After inspection, he ordered that the Pz. G41 DickerMax Sfl. G41 DickerMax IV (10 cm) be sent to the army and that the issue of mass production would be resolved based on their performance. G41 DickerMax  Preliminary estimates put the start of production in the spring of 1942. G41 DickerMax  Starting in the spring of 1941, the index Pz. G41 DickerMax Sfl. G41 DickerMax IVa was used for these vehicles. G41 DickerMax  On August 13th, 1941, the index changed once more, this time to 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ). G41 DickerMax 
+
+[[File:Ammunition_stored_in_driver%27s_compartment_of_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg]]
+
+Some ammunition was housed in the driver's compartment. G41 DickerMax 
+
+Shortly before Operation Barbarossa, the two SPGs were sent to the 521st Self Propelled Anti-Tank Battalion. G41 DickerMax  This was the oldest and most experienced unit equipped with SPGs. G41 DickerMax  It was included in the 24th Army Corps, which in turn was a part of Army Group Center. G41 DickerMax  The SPGs met the end of the war in Belarus, alongside the 3rd Tank Division. G41 DickerMax  
+
+According to documents, the SPGs fought with Soviet artillery and infantry in June of 1941 instead of tanks. G41 DickerMax  Their first large target was an armoured train. G41 DickerMax  It was attacked by the Pz. G41 DickerMax Sfl. G41 DickerMax IVa, but managed to escape. G41 DickerMax 
+
+The battalion's commanders remarked on the weak engine for such a vehicle soon after the first battles, which was especially noticeable off-road and on dirt roads. G41 DickerMax  The SPG was nicknamed "Dicker Max" (Fat Max) due to its slow speed. G41 DickerMax  It is not known when the nickname was coined, perhaps it was as late as 1942. G41 DickerMax 
+
+The low ammunition capacity was another serious issue. G41 DickerMax  According to front line photographs, it was solved by carrying additional ammunition in crates. G41 DickerMax 
+
+[[File:Commander%27s_station_of_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg]]
+
+The commander's station. G41 DickerMax  Here is where a fire broke out that destroyed one of the Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax 
+
+The loss of one of the vehicles in late June of 1941 is connected with the ammunition, a rather odd occurrence. G41 DickerMax  According to the report of the 521st battalion, a fire broke out on board the vehicle during a march on a highway near Slutsk. G41 DickerMax  The weather was hot enough to cause one of the shells to ignite when coupled with the heat of the engine. G41 DickerMax  At least that is the official reason given. G41 DickerMax 
+
+As soon as flames broke out, the crew bailed out of the vehicle, which continued to move forward for some time. G41 DickerMax  Then the first explosion was heard, after which the ammunition detonated. G41 DickerMax  The fighting compartment was completely destroyed, and the SPG was written off. G41 DickerMax  Later, the Germans tried to evacuate it, but it was abandoned in the end. G41 DickerMax  
+
+[[File:Blown_up_and_burned_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg]]
+
+Blown up and burned Pz. G41 DickerMax Sfl. G41 DickerMax IVa near Slutsk, late June 1941. G41 DickerMax 
+
+The remaining SPG kept fighting until at least the end of September of 1941. G41 DickerMax  During this time, the 521st battalion continued fighting in support of the 3rd Tank Division. G41 DickerMax  During battle near the village of Askolki (modern Oskolkovo) in Bryansk Oblast, the Pz. G41 DickerMax Sfl. G41 DickerMax IVa fired on a Soviet vehicle column at a range of 3 km. G41 DickerMax  The German crew managed to knock out 4 vehicles, at least one of which was a T-34. G41 DickerMax 
+
+The next Soviet tank was knocked out on August 29th from 100 meters. G41 DickerMax  Another, identified as a KV-1, was knocked out from a kilometer away at the village of Devishi. G41 DickerMax  At night, Soviet tankers evacuated the tank. G41 DickerMax  On the next day, another KV-1 was knocked out, and two T-26es that were accompanying it retreated into the forest. G41 DickerMax  This tank was also evacuated. G41 DickerMax 
+
+As a result of these battles, it was decided that opening fire at a range of over one kilometer made no sense. G41 DickerMax  It was still unknown whether it was possible to penetrate Soviet heavy tanks at this range. G41 DickerMax  In total, the crew of the Pz. G41 DickerMax Sfl. G41 DickerMax IVa claimed 7 tanks destroyed or knocked out by the end of the year. G41 DickerMax 
+
+[[File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_in_Belarus,_summer_1941. G41 DickerMax jpg]]
+
+Pz. G41 DickerMax Sfl. G41 DickerMax IVa in Belarus, summer of 1941. G41 DickerMax 
+
+At the end of 1941, the SPG was sent to Grusonwerk for major repairs. G41 DickerMax  At that time, it was decided that the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) will not be mass produced. G41 DickerMax  There is a theory that this decision is connected with the mixed results achieved in combat, but that is not the case. G41 DickerMax  The cause was more likely information that the USSR was designing or even already building tanks heavier than the KV-1. G41 DickerMax 
+
+At the time, Germany began working on the VK 70. G41 DickerMax 01 heavy tank, and existing work on medium and heavy tanks was radically corrected. G41 DickerMax  Since there were no results of the effectiveness of the 105 mm gun against the KV-1, there were suspicions that penetration was not achieved. G41 DickerMax 
+
+The result of these suspicions was the rejection of the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ). G41 DickerMax  This decision could be considered incorrect. G41 DickerMax  In the early period of the war, this was the most powerful German SPG, capable of fighting any Soviet tank. G41 DickerMax  If it was put into mass production, it could make a lot of trouble for the Red Army. G41 DickerMax  Its subsequent career confirms this hypothesis. G41 DickerMax 
+
+'''Second Round'''
+
+A proposal was made to modernize the suspension of the vehicle during repairs, which began in the summer of 1941, but after evaluating the pros and cons the modernization was cancelled. G41 DickerMax  The repaired vehicle was sent to Jüterbog, where the 521st Self Propelled Tank Destroyer Battalion was withdrawn for reformation. G41 DickerMax  Here, the SPG ended up in the company of its heavier brothers: the 128 mm Pz. G41 DickerMax Sfl. G41 DickerMax V tank destroyers, also initially built as a bunker buster. G41 DickerMax  According to the table of organization, these vehicles were combined into an independent anti-tank platoon. G41 DickerMax 
+
+[[File:10. G41 DickerMax 5_cm_K_(gp. G41 DickerMax Sfl. G41 DickerMax )_after_repairs,_Jüterbog,_May_of_1942. G41 DickerMax . G41 DickerMax jpg]]
+
+10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) after repairs, Jüterbog, May of 1942. G41 DickerMax  The front of the casemate now has mounts for spare track links. G41 DickerMax  The barrel carries 7 kill marks. G41 DickerMax 
+
+In June of 1942, the battalion returned to the Eastern Front, and was included in the 17th Army Corps, a part of the 6th Army. G41 DickerMax  Work was immediately found for the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ), which was given the personal name Brummbar ("grouch"). G41 DickerMax  Along with Moritz, Pz. G41 DickerMax Sfl. G41 DickerMax V #2, the SPG became one of the main methods of fighting Soviet tanks, Even before the offensive began, the heavy SPGs knocked out 15 tanks. G41 DickerMax  By the fall of 1942, the gun carried 12 kill marks, most of which were put there in July. G41 DickerMax 
+
+[[File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_being_unloaded_in_USSR,_June_1942. G41 DickerMax jpg]]
+
+The SPG is being unloaded in the USSR, June of 1942. G41 DickerMax  Its right fender was dented during loading. G41 DickerMax  The new kill marks are well visible, as are the additional ammunition crates. G41 DickerMax 
+
+History is silent about the fate of the SPG in the fall of 1942. G41 DickerMax  In October of 1942, Soviet intelligence received information about such an SPG in the German army from an unexpected source:
+
+"2. G41 DickerMax  German 105 mm self propelled gun. G41 DickerMax  According to data from British sources, the Germans installed their 105 mm gun mod. G41 DickerMax  18 (10 cm K. G41 DickerMax 18) into an armoured SPG. G41 DickerMax  The gun fires the mod. G41 DickerMax  19 high explosive grenade (medium charge) and an armour piercing Panzergranate Rot shell (maximum charge). G41 DickerMax  The maximum range of the 105 mm gun at medium charge is 15,600 meters. G41 DickerMax  The muzzle velocity at maximum charge is 820 m/s. G41 DickerMax "
+
+Interestingly enough, this tidbit about the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) was the only information available to the Red Army during the war. G41 DickerMax  Nobody had any idea that such an SPG was being used between Voronezh and Stalingrad. G41 DickerMax  The USSR also had no information about the use of these SPGs in 1941. G41 DickerMax 
+
+The 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) disappears from the list of vehicles of the 521st battalion in November of 1942. G41 DickerMax  This disappearance coincides with the beginning of Operation Uranus. G41 DickerMax  It is also missing from the December report. G41 DickerMax 
+
+This could have been the end of the story of this vehicle. G41 DickerMax  However, recently, the website "Victorious May" published the photo archive of "Combat Assault" newspaper correspondent Nikolai Fedorovich Finikov. G41 DickerMax  Completely unexpectedly, it contains the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ), abandoned in a field. G41 DickerMax  The photo is dated February of 1943. G41 DickerMax  The vehicle carries signs of penetration in the front of the hull, which likely disabled the transmission. G41 DickerMax  Later, the breach was welded over and the vehicle restored. G41 DickerMax  It seems that it managed to fight for some time after that. G41 DickerMax 
+
+[[File:Captured_10. G41 DickerMax 5_cm_K_gp. G41 DickerMax Sfl. G41 DickerMax _Brummbar_Stalingrad_Front_February_1943. G41 DickerMax jpg]]
+
+The captured 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) "Brummbar", Stalingrad Front, February of 1943. G41 DickerMax  The penetration in the front of the hull and winter camouflage are visible. G41 DickerMax 
+
+The fact that there is no information about the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) in GABTU's documents in 1943 is surprising, given this information. G41 DickerMax  It seems that the trophy teams were uninterested in this unique vehicle, and after combat ended it was simply scrapped. G41 DickerMax 
+
+Despite such mixed results, it's hard to call the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) useless. G41 DickerMax  Nearly 20 knocked out or destroyed tanks are a good demonstration of the SPG's combat potential. G41 DickerMax  The experience in designing the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) was used during the creation of new SPGs on the PzIV chassis, and even the work on a 6-wheeled variant did not go to waste. G41 DickerMax  An SPG on that chassis was built in small numbers and fought near the 10. G41 DickerMax 5 cm K (gp. G41 DickerMax Sfl. G41 DickerMax ) final battlefield. G41 DickerMax 
+
+|HistoricalGallery=
+File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_at_factory_1941. G41 DickerMax jpg{{!}}Pz. G41 DickerMax Sfl. G41 DickerMax IVa at the factory in 1941
+File:Right_view_of_Pz. G41 DickerMax Sfl. G41 DickerMax IVa. G41 DickerMax jpg{{!}}Right side view of the Pz. G41 DickerMax Sfl. G41 DickerMax IVa
+File:Pz. G41 DickerMax Sfl. G41 DickerMax IVa_being_unloaded_in_USSR,_June_1942. G41 DickerMax jpg{{!}}Pz. G41 DickerMax Sfl. G41 DickerMax IVa being unloaded in the USSR in June 1942
+File:Captured_10. G41 DickerMax 5_cm_K_gp. G41 DickerMax Sfl. G41 DickerMax _Brummbar_Stalingrad_Front_February_1943. G41 DickerMax jpg{{!}}Captured vehicle on the Stalingrad Front in February 1943
+File:10. G41 DickerMax 5_cm_K18_gun. G41 DickerMax jpg{{!}}The 10. G41 DickerMax 5 cm K 18, the armament of the vehicle
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [[https://en. G41 DickerMax wikipedia. G41 DickerMax org/wiki/10. G41 DickerMax 5_cm_K_(gp. G41 DickerMax Sfl. G41 DickerMax ) ''Source: Wikipedia'']]
+* https://tankarchives. G41 DickerMax blogspot. G41 DickerMax com/2016/12/dicker-max. G41 DickerMax html
+* https://warspot. G41 DickerMax ru/7275-istoriya-tolstogo-maksa
+
+}}

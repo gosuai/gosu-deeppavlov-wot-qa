@@ -1,0 +1,68 @@
+{{TankData|Tank= 
+| The SP 1. G113 SP I C  C is very slow compared to its counterparts and has trouble reaching its low top speed of 58 km/h, but with its great forward gun depression of -10 degrees it can make good use of terrain to hide its hull while firing. G113 SP I C  Flanking can be done, but one should equip 105-Octane if one intends to flank in this tank frequently. G113 SP I C  If you want a good active scout or a tier 7 ELC, then you should be looking at getting something else. G113 SP I C  After learning to adapt to it's unique playstlye, one will really enjoy the grind. G113 SP I C 
+
+|Gallery=
+
+File:Spähpanzer SP I C scr 1. G113 SP I C jpg
+File:Spähpanzer SP I C scr 2. G113 SP I C jpg
+File:Spähpanzer SP I C scr 3. G113 SP I C jpg
+
+
+|InTheGame_pros= 
+* Excellent penetration and damage per shot. G113 SP I C 
+* Good camo rating and high view range aid in scouting. G113 SP I C 
+* Good gun depression. G113 SP I C 
+* Turret profile is very small when poking from ridges. G113 SP I C 
+
+|InTheGame_cons= 
+* Slow and fairly sluggish for a light tank, will be often beaten to scouting positions by faster LTs. G113 SP I C 
+* Lightweight and thinly armored, very vulnerable to HE penetrations and ramming. G113 SP I C 
+* Poor shell velocity and subpar gun handling. G113 SP I C 
+* Vulnerable to losing crews (in which there are only 3) and engine. G113 SP I C 
+
+|InTheGame_performance= 
+The 90mm Mecar is a straight upgrade. G113 SP I C   
+
+Passive spot at first, if able. G113 SP I C   Half Court spotting is possible on maps such as Prokhorovka and Sand River but full-fledged Active spotting is a no-no. G113 SP I C  The SP 1. G113 SP I C  C is lackluster in mobility compared to all other tier 7 scouts, and while many see it (especially the weight and 90mm guns) and think, "Tier 7 German ELC", that is not how it plays at all. G113 SP I C  Full fledged scouting is the fastest way to get to the garage in this tank. G113 SP I C  It cannot compete with other lights at the same tiers in brawls, as the Mecar gun doesn't reload fast enough. G113 SP I C  Too often the SP 1. G113 SP I C  C will get in a situation when scouting that it can't retreat from. G113 SP I C  
+
+The SP 1. G113 SP I C  C was designed as a light TD meant to support recon units and it plays best as a light TD in game. G113 SP I C   After the initial spotting period is over, play as a light support tank as the battle progresses. G113 SP I C   Use your gun's good forward depression, small size, and good camo rating to your advantage. G113 SP I C  As a mini TD/flanker/ambusher you can deal a lot of damage, with proper positing. G113 SP I C  Much like the Leo 1 it is wise to get your gun in the game as soon as possible. G113 SP I C  The drawback of this light TD design is that the gun has to give low recoil, resulting in a low shell speed. G113 SP I C 
+
+Be alert for flanking opportunities, especially Flank-a-Boom attacks working in conjunction with team mates. G113 SP I C  Be extremely judicious when making Delayed Rushes or 1 on 1 attacks as you lack the mobility needed to escape bad situations. G113 SP I C 
+
+
+|InTheGame_research= 
+If the first thing you want is the gun:
+Tracks, Turret, Gun, Engine, Radio. G113 SP I C 
+If you want more mobility to scout and flank:
+Engine, Tracks, Turret, Gun, Radio. G113 SP I C 
+The second engine gives 10 more horsepower, giving the tank 1 extra hp per ton. G113 SP I C  This upgrade does not give much extra speed, so research both engine at once and not buy it if you want to save a bit (23500) of credits. G113 SP I C 
+If you have researched 7,5/5,5 cm Waffe 0725 Gun before the update, you can have 90 mm Mecar and 90 mm Mecar mit Mehrladeeinrichtung without researching. G113 SP I C  The top radio is also available if you researched Afk Panther's top radio before the update. G113 SP I C 
+
+|InTheGame_equipment=
+Vertical Stabilizer Mk 1, Improved Ventilation Class 1, Coated Optics, Medium-Caliber Tank Gun Rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Spähpanzer (German for Scout Tank) SP I. G113 SP I C C. G113 SP I C  was the experimental model of a reconnaissance scout light tank with anti-tank components. G113 SP I C  It was developed in order to increase the anti-tank capabilities of recon tank battalions, but the project was eventually declined. G113 SP I C  There are two blueprint prototype versions of the SP I. G113 SP I C C. G113 SP I C  The single tank built can be seen in the Wehrtechnische Studiensammlung Koblenz. G113 SP I C <br>
+
+==Description and Development==
+In early 50′s, Bundeswehr was shortly considering to arm itself with newly produced modernized Panther tank with upgraded armament and electronics – American tanks however “won the contract” in the end. G113 SP I C 
+
+After its reformation, the West-German armored forces (the Bundeswehr) were looking for potential recon vehicles. G113 SP I C  One of these proposals was to actually build a light tank on the Schützenpanzer chassis. G113 SP I C  The basic idea was that vehicles like the wartime Puma armored car, equipped with powerful weaponry, were quite successful – in order to be successful, a scout tank has to be very small, but capable at the same time of dealing with enemy armor. G113 SP I C  
+The SP I. G113 SP I C C was the result of the abovementioned concept – in order to mount a turret with a short-recoil 90mm MECAR gun, changes had to be made to the chassis and the suspension. G113 SP I C  The gun, although sufficiently powerful, was however considered insufficient as a whole, because for all its capabilities, it was no longer possible to upgrade it even further. G113 SP I C  An autoloading mechanism was also tested in the turret (but rejected). G113 SP I C  The armor was extremely thin (15mm), but the vehicle was quite light (6,5 tons) and its engine (195hp Hotchkiss-Brandt) gave it quite a good power-to-weight ratio. G113 SP I C 
+
+The vehicle was developed from 1956 to 1962 (the prototype was built in 1961). G113 SP I C  After 1962, it was discontinued for the abovementioned reasons, mainly the fact it couldn’t be upgraded further, but also due to some technical problems with the prototype. G113 SP I C  The prototype is currently located in Koblenz. G113 SP I C 
+|HistoricalGallery= 
+image:800px-Spähpanzer_SP_I. G113 SP I C C. G113 SP I C _Bild_1. G113 SP I C jpg{{!}}The only SP I. G113 SP I C C prototype ever built, located in Koblenz. G113 SP I C 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [[https://en. G113 SP I C wikipedia. G113 SP I C org/wiki/Sp%C3%A4hpanzer_SP_I. G113 SP I C C. G113 SP I C  Wikipedia]]
+* https://ftr. G113 SP I C wot-news. G113 SP I C com/2014/02/09/about-the-tier-8-german-lt-alternatives-spahpanzer-sp-i-c/
+}}

@@ -1,0 +1,54 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+File:M46 Patton KR scr 1. A63 M46 Patton KR jpg
+File:M46 Patton KR scr 2. A63 M46 Patton KR jpg
+File:M46 Patton KR scr 3. A63 M46 Patton KR jpg
+File:M46 Patton KR render 1. A63 M46 Patton KR jpg
+
+
+|InTheGame_pros= 
+* Very good acceleration
+* Excellent gun handling, good at snapshots
+* Large ammo capacity
+* Great gun depression and good elevation
+* Good hitpoint pool
+
+|InTheGame_cons= 
+* Poor armor, mostly ineffective for Tier 8
+* Bad accuracy and shell velocity
+* Very poor aim time for a 90mm gun
+* Low penetration
+* Poor DPM
+
+|InTheGame_performance= 
+The M46 Patton KR basically is a stock Tier IX Patton and as such has more in common with it than with the Pershing which causes some minor differences in playstyle. A63 M46 Patton KR  With your great gun handling you should look for quick snap shots and focus more on a "peek-a-boo" fighting technique instead of playing the hull down defender. A63 M46 Patton KR  Your turret armor, while being not bad, most of the time simply isn't enough to bounce off incoming shells (ignoring the occasional bounce of course). A63 M46 Patton KR 
+
+Comparing it directly to the [[M26 Pershing]] (which also makes more sense since both vehicles are American Tier VIII medium tanks) the M46 Patton KR is more mobile at the expense of accuracy and aiming time. A63 M46 Patton KR  Nonetheless the gun has -10° of depression allowing you to abuse terrain as you like, so American medium tank players will feel right at home. A63 M46 Patton KR  Your good P/W-ratio of 18. A63 M46 Patton KR 41 hp/ton also allows for quick acceleration, combined with a very decent forward top speed (48. A63 M46 Patton KR 3 km/h) and excellent reverse speed (20 km/h!) the overall mobility synergizes extremely well with a peek-a-boo snap shot playstyle. A63 M46 Patton KR  Despite the abysmal terrain resistance values the acceleration is surprisingly good. A63 M46 Patton KR 
+
+
+|InTheGame_research= 
+No research required. A63 M46 Patton KR 
+
+|InTheGame_equipment=Vertical Stabilizer, Coated Optics, Tank Gun Rammer, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|NaMYIeUootY}}
+|History= 
+
+|HistAcc=
+The 90 mm M3A1 is the same gun on the [[M46 Patton]], yet the AP penetration and weight values are inconsistent. A63 M46 Patton KR  The M3A1 designation refers to the M3 gun with muzzle brake. A63 M46 Patton KR 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

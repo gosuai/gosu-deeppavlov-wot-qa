@@ -1,0 +1,60 @@
+{{Alert 
+|i
+|content = This page is about the Soviet KV-220 Beta Test reward tank. R38 KV-220 beta  The regular KV-220 can be found [[Tank:KV-220_action|here]]. R38 KV-220 beta 
+}}
+
+{{TankData|Tank=KV-220_action
+|It is identical in all ways to the [[KV-220]] but with the T (test) symbol. R38 KV-220 beta  It was granted as a gift to beta testers on the RU and SEA servers and is rather rare outside of them. R38 KV-220 beta  This tank basically has a [[KV-3]] hull with a [[KV-1]] turret, armed with an adequate gun for its tier. R38 KV-220 beta  While having better armor than the KV-1, it can still easily be destroyed by an upgraded KV-1. R38 KV-220 beta  This tank was only available on the RU server (with the exception of some contests on the EU server)
+
+|Gallery=
+image:KV-220_Beta-Test_a. R38 KV-220 beta jpg{{!}}Front Left
+image:KV-220_Beta-Test_b. R38 KV-220 beta jpg{{!}}Front Right
+image:KV-220_Beta-Test_c. R38 KV-220 beta jpg{{!}}Rear Right
+image:KV-220_Beta-Test_d. R38 KV-220 beta jpg{{!}}Rear Left
+
+|InTheGame_pros=
+* Superb armor
+* Large ammo capacity
+* Does not see tier 7 battles, unlike the regular [[KV-1]]
+* Second highest hit points of all tier 5 heavy tanks, second only to [[Churchill III]]
+* Superior penetration than the regular [[Gun#76_mm_ZiS-5|76 mm ZiS-5]]
+
+|InTheGame_cons=
+* Mediocre view range
+* Poor signal range
+* Slow traverse
+* Inaccurate gun
+
+|InTheGame_performance=
+This tank is in the curious position that its hull armour is far superior to the turret. R38 KV-220 beta  When confronted with a KV-220, it is always bet to aim for the turret, even the turret front, in order to penetrate the armour. R38 KV-220 beta 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment= Tank Gun Rammer, Coated Optics, GLD
+
+
+|History=
+The KV-220 externally differed from ordinary KVs by the greater length of the hull, an increase of one support roller in the track, and a new turret with the 85 mm F-30 Main Gun. R38 KV-220 beta  The weapon was specially designed for arming this tank in the design bureau of Plant No. R38 KV-220 beta  92, under the supervision of Grabin. R38 KV-220 beta  It was tested successfully in the T-28 Medium Tank in the fall of 1940. R38 KV-220 beta  Because of the steep growth in the weight of the tank, which now reached 62 tons, the V-5 engine with 700 h. R38 KV-220 beta p. R38 KV-220 beta  was mounted. R38 KV-220 beta  Testing of the KV-220 commenced on 30 January 1941 and was halted the very next day because of engine failure. R38 KV-220 beta 
+In contrast to artillerymen, tankers were falling far behind in the development of a new heavy tank. R38 KV-220 beta  Therefore they decided to employ the KV-220 to accelerate the work of testing the new assemblies and aggregates of the KV-3. R38 KV-220 beta  On 20 April 1941 a new engine was finally mounted in the KV-220 and the tank, loaded up to 70 tons, the loaded weight of a KV-3, was submitted for testing. R38 KV-220 beta  By the end of May 1941 it had been driven 1330 kilometres. R38 KV-220 beta  In the report of the plant test personnel it was noted that the tank had "a poor-shifting transmission, the support roller spindles and suspension arms had bent, the torsion bars had twisted, and the engine lacked sufficient power for a 70-ton tank. R38 KV-220 beta "
+
+On 20 May the KV-220 was brought in for repair, in the course of which the vehicle received a V-2SN Diesel Engine with supercharger producing 850 h. R38 KV-220 beta p. R38 KV-220 beta  The tank was subjected to testing again beginning on 30 May and by 22 June 1941 had traveled a total distance of 1,985 km. R38 KV-220 beta  But because of problems that arose during the preparation of the forged turret, the work period was extended. R38 KV-220 beta 
+
+In total, only one prototype was constructed in 1941. R38 KV-220 beta 
+
+|HistoricalGallery=
+File:KV-220 (2). R38 KV-220 beta jpg{{!}}KV-220 being transported by crane in the background. R38 KV-220 beta  The seventh road wheel and fourth idler are clearly visible. R38 KV-220 beta 
+
+|HistAcc=
+Despite using a [[KV-3]] hull, its current armor thickness is 120/100/100 instead of 120/90/90. R38 KV-220 beta 
+* Actual armament is the [[Gun/USSR#76 mm F-32|76 mm F-32]] gun. R38 KV-220 beta  The ZiS-5 configuration is fake. R38 KV-220 beta 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+https://english. R38 KV-220 beta battlefield. R38 KV-220 beta ru/kv-3-kv-4-kv-5-kv-7-kv-9-kv-220. R38 KV-220 beta html
+}}

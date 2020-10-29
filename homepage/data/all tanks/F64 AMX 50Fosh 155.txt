@@ -1,0 +1,85 @@
+{{TankData|Tank=AMX_50Fosh_155
+|In 9. F64 AMX 50Fosh 155 20 patch, The '''AMX 50 Foch (155)''' was replaced by the [[Tank:F64_AMX_50Fosh_B|AMX 50 Foch B]] as the French tier 10 tank destroyer. F64 AMX 50Fosh 155  Any players who purchased this vehicle before the update received a free Foch B while their Foch 155 received special vehicle status. F64 AMX 50Fosh 155 
+
+It is now the "Derpy" counterpart of the [[Tank:F64_AMX_50Fosh_B|Foch B]], with a 155mm gun that offers high alpha damage and penetration, and very powerful HE shells that made this gun comparable with the pre-nerf [[Tank:J20_Type_2605|Type 5 Heavy]]'s infamous derp gun, but with 3-shot autoloader making the Foch 155 capable of mowing down precisely the enemies most needing destruction in order to transform the course of a match. F64 AMX 50Fosh 155  
+
+Saddled with the height, handicapped gun handling, and no protection outside of the frontal arc, the Foch has many weaknesses which can make it incredibly frustrating to play. F64 AMX 50Fosh 155  While difficult to exploit and temperamental in the extreme, the Foch (155) is an absolute game-changer when used with perfect timing. F64 AMX 50Fosh 155  
+
+
+
+|Gallery=
+
+
+|InTheGame_pros=
+- Huge burst damage with high damage per shot and good penetration on AP rounds
+
+- Very powerful HE shells with higher penetration and better accuracy than the pre-nerf [[Tank:J20_Type_2605|Type 5 Heavy]]'s 15cm derp shots, combined with 3-shot autoloader results in higher chance to score a kill against weak-armored tanks or even well-armored ones
+
+- Excellent penetration on special ammunition, rivaling even [[Tank:G72_JagdPz_E100|JE100]]'s HEAT shells
+
+- Frontal armor is thick and well sloped
+
+- Good top speed and decent weight makes ramming a decent option to counter light tanks
+
+|InTheGame_cons=
+- Vulnerable to flankers, thanks to weak and flat side armor
+
+- Weakspots are easy to hit especially at close range
+
+- Very long reload time both between magazine and between clip 
+
+- Long aiming time, small traverse arc and slow shell speed
+
+- High terrain resistance hampering its mobility on soft terrains
+
+|InTheGame_performance= 
+
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=Improved Ventilation Class 3,GLD,Binocular Telescope,Camouflage Net,
+
+
+|History=
+[[image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F64 AMX 50Fosh 155 jpg|thumb|200px|left|Canon Automoteur AMX 50 Foch]]
+Based on the M 4 chassis in 1950, AMX presented a prototype of a heavy tank destroyer in the form of a 120 mm self-propelled gun, the Canon Automoteur AMX 50 Foch, named after Marshal Ferdinand Foch. F64 AMX 50Fosh 155  It was intended to give long range fire support to the medium/heavy AMX 50 100 mm model. F64 AMX 50Fosh 155  The design had a lot of similarities with German Jagdpanther tank destroyer. F64 AMX 50Fosh 155  It had a long bareled 120 mm gun with a muzzle break attached to a well sloped and heavily armored flat profile vehicle. F64 AMX 50Fosh 155  Remotely controlled anti-aircraft machinegun was placed on the right side of the roof, while commander’s cupola with the range finder was pushed to the left. F64 AMX 50Fosh 155 
+
+Unlike previous post war concepts like the Mle. F64 AMX 50Fosh 155  1948, several AMX 50 TDs were built, the first in 1950. F64 AMX 50Fosh 155  Field tests were promising, and army started to prepare to adopt AMX 50 Foch in small numbers. F64 AMX 50Fosh 155  When AMX engineers managed to install a 120 mm gun into an oscillating turret of the AMX 50 120 tank, Foch immediately become obsolete and all further development and production were  stopped. F64 AMX 50Fosh 155  In order to try to save the project, several proposals which incorporated installation of a much more powerful 155 mm gun were given to the army, but all efforts were abandoned when France made moves to adopt standardized NATO equipment and ammunition. F64 AMX 50Fosh 155  
+
+|HistAcc=
+* The Foch was never designed to hold an autoloader
+
+|HistoricalGallery=
+image: 1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F64 AMX 50Fosh 155 jpg
+image: 1950_CANON_AUTOMOTEUR_AMX_50_FOCH_1. F64 AMX 50Fosh 155 jpg
+image: Amx50foch058ln. F64 AMX 50Fosh 155 jpg
+image: Amx50foch037rz. F64 AMX 50Fosh 155 jpg
+File:AMX_50_Foch_blueprint. F64 AMX 50Fosh 155 jpg{{!}}AMX 50 Foch armor layout
+File:AMX_50_Foch_blueprint_1. F64 AMX 50Fosh 155 jpg{{!}}The Foch's ammunition storage
+File:AMX_50_Foch_blueprint_2. F64 AMX 50Fosh 155 jpg{{!}}AMX 50 Foch interior blueprint
+
+|Ref_references=
+
+
+|Ref_sources=
+https://en. F64 AMX 50Fosh 155 wikipedia. F64 AMX 50Fosh 155 org/wiki/AMX-50
+|External_Reviews=
+{{VideoYT|M_N1cGunySc}}
+
+
+|Ref_links=
+
+|Sidebar_Camostop=14. F64 AMX 50Fosh 155 0
+|Sidebar_Camomove=8. F64 AMX 50Fosh 155 6
+|Sidebar_Camofire=3. F64 AMX 50Fosh 155 4
+|Sidebar_Passhard=1. F64 AMX 50Fosh 155 342
+|Sidebar_Passmed=1. F64 AMX 50Fosh 155 534
+|Sidebar_Passsoft=2. F64 AMX 50Fosh 155 301
+|Sidebar_DispTurret=0. F64 AMX 50Fosh 155 192
+|Sidebar_DispRecoil=3. F64 AMX 50Fosh 155 836
+|Sidebar_DispAccel=0. F64 AMX 50Fosh 155 192
+|Sidebar_DispTurning=0. F64 AMX 50Fosh 155 192
+}}
+
+[[Category:French Tanks]]

@@ -1,0 +1,77 @@
+{{TankData|Tank=ST_B1
+|The '''STB-1''' is a prototype of well-known Japanese ''Type 74 main battle tank''. J16 ST B1  marked the end of the Japanese Medium Tank line, it was fast semi-accurate medium tank with low but well sloped armor, very high DPM and high penetration. J16 ST B1  makes it excel at supporting role. J16 ST B1 
+
+In the 1. J16 ST B1 5. J16 ST B1 1 patch, the STB-1 received a much-requested special feature; the hydropneumatic suspension system, which was previously exclusive to the [[Sweden|Swedish]] high tier mediums. J16 ST B1  This allows the STB-1 to use nearly any hull-down position in the game. J16 ST B1 
+
+|InTheGame_pros=
+* Excellent DPM, good penetration
+* Good gun depression which can be further improved with hydraulic suspensions
+* Good frontal turret armor
+* Great acceleration and agility, very good reverse speed
+* Large hitpoint pool
+
+|InTheGame_cons=
+* Accuracy can be finicky at range
+* Very poor side and rear armor
+* Frequent module and crew damage
+* Poor camouflage for a medium tank
+* Average top speed
+
+|InTheGame_performance=
+The STB-1 is similar to the previous tanks in the line, with the exception that it now has much better turret armor than the tanks before it. J16 ST B1  It can reliably hull down unlike its predecessors due to a much needed increase in turret armor. J16 ST B1 
+
+While the STB-1 no longer has the highest DPM the tier 10 medium tanks, having given up that spot to the [[USSR|K-91]], it still remains a significant threat on the battlefield, with a blistering rate of fire rivalling that of the 100mm armed tier 10 Soviet mediums. J16 ST B1  The STB-1's excellent rate of fire combined with a reasonable 360 alpha damage allows the STB-1 to perma-track most opponents, allowing one to farm free damage at little to no risk to themselves. J16 ST B1  In addition to its excellent gun, in patch 1. J16 ST B1 5. J16 ST B1 1 the STB-1 recieved the hydropneumatic suspension system along with buffs to the turret armouring, allowing it to take advantage of almost any hull-down position. J16 ST B1  With its 14 degrees of gun depression when using its hydropneumatic suspension to the fullest, the STB-1 currently possesses the highest gun depression of any tier 10 tank, however one should keep in mind that the hydropneumatic suspension is only capable of tilting the tank's hull up and down and not side to side, meaning that when aiming to the sides you will only be able to use the 8 degrees of gun depression provided by the turret. J16 ST B1  
+
+The tank itself is very small and as a result has a good camouflage factor and is also relatively mobile. J16 ST B1  While its camouflage and mobility are not on the levels of a Soviet medium such as the [[T-62A]], they are still above average for their class. J16 ST B1  When exposing the STB-1 to enemy fire, one should keep in mind that the driver is often killed by penetrations to the front hull, and also that the ammorack sits beside the driver at the front of the tank as well. J16 ST B1  
+
+However, while it is a menace at medium to close range when hull down, the STB-1 performs poorly at long range. J16 ST B1  With its relatively low shell velocity (1,185 m/s) and accuracy, hitting fast moving targets or weakpoints at long range is a challenge. J16 ST B1 
+ 
+Last to note, while the turret is strong frontally, it has a relatively large cupola and is not impervious to high penetration premium rounds. J16 ST B1  While it can reliably bounce standard rounds from tier 10 medium tanks, premium rounds and tier 10 tank destroyers can pen the flatter parts of the turret face ocasionally if aimed carefully. J16 ST B1  Use your agility and rock back and forth to make your cupola and weaker areas of your turret harder to hit, and avoid relying on the turret armour to deflect a well aimed shot from a tier 10 tank destroyer. J16 ST B1  
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|Gallery= blank
+
+|History= The JGSDF started studies on a new tank design with Mitsubishi in 1962, as it was realized that the Type 61 would not be able to defeat the latest Soviet designs like the T-62. J16 ST B1  Features from several designs were incorporated, including the controllable suspension of the US-German MBT-70 project, the hull of the Leopard 1, and the L7 105mm gun. J16 ST B1  The design included a rotating cupola for the commander, and a new autoloader for the main gun. J16 ST B1  The design was finalized in 1964 and various test rigs were built between 1964 and 1967. J16 ST B1 
+
+The first prototype, designated STB-1, was delivered in late 1968 and underwent a number of modifications until 1969. J16 ST B1  The autoloader proved too complex and expensive, and was removed, additionally the remote controlled anti-aircraft machine gun was removed. J16 ST B1  The design of the turret was also changed, becoming longer. J16 ST B1  These changes resulted in the STB-3, which was delivered in 1971. J16 ST B1  The final prototype designated STB-6 was delivered in 1973. J16 ST B1  Production finally started as the Type 74 in September 1975, with 225 being delivered by January 1980. J16 ST B1  Production ended in 1989, with total production running to 893 examples. J16 ST B1 
+
+In service, the tanks were updated with the addition of infra-red imagers (not image intensifiers) for the commander and gunner, and a laser rangefinder in the commander's cupola. J16 ST B1  The gunner's position included a digital fire control computer, fed range data from the commander's range finder. J16 ST B1  Rounds for the main gun were upgraded from HEP to APFSDS and HEAT-MP. J16 ST B1 
+
+The Type 74 tank has the Mitsubishi 10ZF Model 21 10-cylinder two-stroke cycle diesel engine providing 750 hp (560 kW). J16 ST B1  At 19 hp/tonne, its power-to-weight ratio is similar to the French AMX-30. J16 ST B1  The maximum quoted road speed of the Type 74 is 53 km/h but its top speed is at least 60 km/h. J16 ST B1 
+
+The Type 74 was generally outdated even before it entered service. J16 ST B1  The Type 90 was to have replaced it outright, but with the ending of the Cold War these plans were scaled back. J16 ST B1  In 1993 four Type 74's were improved to the new Type 74 Kai (改) [Type 74 mod G (G型)] standard, adding a passive infrared camera, side skirts, and so on. J16 ST B1  The upgrade proved to be extremely expensive, and the program was dropped. J16 ST B1 
+
+|HistoricalGallery= 
+image:Wot_stb1. J16 ST B1 jpg
+image:STB1. J16 ST B1 jpeg 
+image:Type74tank. J16 ST B1 jpg{{!}}Type 74 main battle tank while using its hydraulic suspension to increase its gun depression
+
+|HistAcc=
+The STB-1 had an autoloader. J16 ST B1  In WoT, it more closely resembles the follow-up STB-3 which lacked that feature. J16 ST B1 
+* Its actual gun elevation and depression were increased from doctumented for balancing reasons. J16 ST B1 
+** Its actual gun elevation and depression in normal mode is +9/-6. J16 ST B1 
+** Its actual gun elevation and depression with hydraulic mode is +15/-12. J16 ST B1 
+|Ref_references= blank
+
+|Ref_sources= blank
+
+|Ref_links= 
+* https://en. J16 ST B1 wikipedia. J16 ST B1 org/wiki/Type_74_Nana-yon
+* https://tankguy. J16 ST B1 gooside. J16 ST B1 com/type74history/Type74History. J16 ST B1 html
+* https://ftr. J16 ST B1 wot-news. J16 ST B1 com/2013/08/31/stb-1-japanese-tier-10-medium-tank/
+
+|Sidebar_Camostop=13. J16 ST B1 7
+|Sidebar_Camomove=10. J16 ST B1 3
+|Sidebar_Camofire=2. J16 ST B1 9
+|Sidebar_Passhard=0. J16 ST B1 959
+|Sidebar_Passmed=1. J16 ST B1 055
+|Sidebar_Passsoft=2. J16 ST B1 11
+|Sidebar_DispTurret=0. J16 ST B1 134
+|Sidebar_DispRecoil=2. J16 ST B1 877
+|Sidebar_DispAccel=0. J16 ST B1 153
+|Sidebar_DispTurning=0. J16 ST B1 153
+}}
+
+[[Category:Force's Muddling Attempts at Self-Actualization]]

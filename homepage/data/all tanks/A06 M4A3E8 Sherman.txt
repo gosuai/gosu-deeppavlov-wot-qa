@@ -1,0 +1,119 @@
+{{TankData|Tank=M4A3E8_Sherman
+|Nicknamed as the "Easy-Eight" or "E8", this tank is a quicker, slightly better armored version of the [[Tank:A05_M4_Sherman|M4 Sherman]]. A06 M4A3E8 Sherman  It also has an upgraded 76mm gun with an improved rate of fire and better accuracy. A06 M4A3E8 Sherman  Considering all this, the M1A2 should not be overlooked on the upgrade path in comparison to the M1A1 as it really brings out the E8's strengths. A06 M4A3E8 Sherman  Despite the increased armor compared to the M4 Sherman however, the E8 is still a very soft target and will be easily destroyed if it stays exposed to enemy fire. A06 M4A3E8 Sherman  In addition it's twin, the M4A3E2 Sherman Jumbo has thicker armor and a few more hitpoints than the M4A3E8 Sherman, but worse gun handling (dispersion on the move) and gun depression. A06 M4A3E8 Sherman 
+
+Finding a balance is a necessity and is excellent practice for the American mediums that are to follow, which all share a similar lack of armor. A06 M4A3E8 Sherman  Its strongest point is its excellent mobility. A06 M4A3E8 Sherman  It accelerates very quickly on all grounds, and loses little energy in turns which makes it an ideal flanking tank. A06 M4A3E8 Sherman  Anyone who underestimates this gem will very soon become a smoking wreck. A06 M4A3E8 Sherman  
+
+|Sidebar_Camostop=12. A06 M4A3E8 Sherman 6
+|Sidebar_Camomove=9. A06 M4A3E8 Sherman 4
+|Sidebar_Camofire=3. A06 M4A3E8 Sherman 4
+|Sidebar_Passhard=0. A06 M4A3E8 Sherman 959
+|Sidebar_Passmed=1. A06 M4A3E8 Sherman 055
+|Sidebar_Passsoft=1. A06 M4A3E8 Sherman 63
+|Sidebar_DispTurret=0. A06 M4A3E8 Sherman 115
+|Sidebar_DispRecoil=3. A06 M4A3E8 Sherman 356
+|Sidebar_DispAccel=0. A06 M4A3E8 Sherman 182
+|Sidebar_DispTurning=0. A06 M4A3E8 Sherman 182
+
+|InTheGame_pros=
+* Rapid rate of fire and reasonably good damage per minute
+* Mobile: usable top speed and maneuverability, also great hull traverse
+* Excellent 12 degrees of gun depression plus strong gun mantlet make hulldown tactic a viable option
+* OK dispersion on the move, ability to use Vertical Stabilizer
+
+|InTheGame_cons=
+* Practically no armor except for gun mantlet
+* Tall profile, large and weak sides are easily hit, penetrated, sometimes even overmatched
+* Disappointing firepower: accuracy, penetration and alpha damage are all comparatively bad 
+* Does not have particularly good acceleration for a flanking medium due to subpar ground resistance
+
+
+|InTheGame_performance=
+If you enjoyed the M4, but wished it was faster, then you may love this tank. A06 M4A3E8 Sherman  Like the M4A3E2, it gets the more powerful Ford GAA engine. A06 M4A3E8 Sherman  Unlike the Jumbo, it doesn't have a bunch of extra armor welded on to weigh it down. A06 M4A3E8 Sherman  As a result, this tank is the fastest and most maneuverable of the Sherman variants. A06 M4A3E8 Sherman  It can also take advantage of a Vertical Stabilizer. A06 M4A3E8 Sherman  Coupled with its good mobility and already good gun dispersion on the move, it can easily flank and destroy less maneuverable vehicles in a hail of 76mm shells. A06 M4A3E8 Sherman 
+
+Despite the fact it is considered a fragile tank, it has still a strongpoint on its armor; the gun mantlet. A06 M4A3E8 Sherman  Covering the majority of its turret face, tall height  plus the E8's amazing gun depression makes hull-down positions useful. A06 M4A3E8 Sherman  Of all the Tier 6 flanking mediums, it has the best armor. A06 M4A3E8 Sherman  From the front, it is able to withstand low-tier autocannon, absorb direct hits from large-caliber high-explosive shells and if hull-down, medium tank cannon if they strike the large mantlet. A06 M4A3E8 Sherman  Despite the resilience of the armor, it is no Sherman Jumbo and should always be treated as a medium tank. A06 M4A3E8 Sherman  
+
+It's biggest asset and crippling flaw is its gun; the 76mm Gun M1A2 has excellent DPM and decent dispersion penalty, and can be augmented by Gun Rammers and Vertical Stabilizers to make a formidable flanker. A06 M4A3E8 Sherman  However, it achieves its excellent DPM through its rate of fire; it's DPS of 115 is the lowest for any top gun on any vehicle, tied with the Sherman Jumbo which employs the same selection of guns. A06 M4A3E8 Sherman  Furthermore, with an AP penetration of 128mm, it is the lowest on any Tier 6 medium tank. A06 M4A3E8 Sherman  Because of its low DPS and AP penetration combined with pitiful armor, many players consider the Jumbo a better vehicle due to its armor. A06 M4A3E8 Sherman  But the Easy Eight was never a particularly easy tank to play; in the hands of a skilled player, it will easily out-flank the clumsier opponent. A06 M4A3E8 Sherman  
+
+Run and gun tactics are a must with the E8, as it has enough speed and maneuverability to relocate in time. A06 M4A3E8 Sherman  Coupled with a high rate of fire, good gun dispersion on the move and the ability to use a Vertical Stabilizer, it is capable of executing flanking maneuvers well. A06 M4A3E8 Sherman  The higher than average gun depression angle allows the E8 to take up hull-down positions quite effectively as well. A06 M4A3E8 Sherman  With the rapid rate of fire the E8 can devastate misplaced enemies. A06 M4A3E8 Sherman 
+
+The E8 tends to be most successful as a flanker a passive scout. A06 M4A3E8 Sherman  It has the speed and maneuverability to succeed at flanking where the E2 couldn't. A06 M4A3E8 Sherman  This lets it hit the sides more easily, where the low-penetration is less of an issue. A06 M4A3E8 Sherman  The high rate of fire, combined with a Deadeye perk on the gunner will devastate any victim. A06 M4A3E8 Sherman  Work with teammates to distract victims to ensure maximum surprise. A06 M4A3E8 Sherman  
+
+If flanking is not an option, then sniping is entirely possible. A06 M4A3E8 Sherman  However, the low accuracy, low penetration and low alpha damage tend to reduce its role. A06 M4A3E8 Sherman  Still, passive scouting is entirely viable, with its 370 meter view range. A06 M4A3E8 Sherman  
+
+Compared to the Cromwell, this tank suffers from a high profile, lower damage per shot with the top guns, lower penetration, slower top speed, worse acceleration and inferior turret traverse. A06 M4A3E8 Sherman  However, the Easy Eight has substantially better protection, better damage per minute, better hull traverse, superior view range, better terrain passability and significantly better gun depression and elevation. A06 M4A3E8 Sherman  Both vehicles have the same hitpool, 750, a fairly typical value for Tier 6 medium tanks. A06 M4A3E8 Sherman  Gun handling is also a very significant advantage over the Cromwell, especially with Vertical Stabilizer mounted. A06 M4A3E8 Sherman  Even when compared to vehicles such as the Cromwell, in a battle between both vehicles, assuming all relevant parameters are the same and the optimum equipment is fitted, it usually comes down to who starts the engagement. A06 M4A3E8 Sherman 
+
+While the 76mm M1A1 and M1A2 may only seem to differ in rate of fire, it is important to note that the M1A2 is slightly more accurate than the M1A1, which can make all the difference in this tank's role of providing support for better armored vehicles. A06 M4A3E8 Sherman  Adding the vertical stabilizer makes the M4A3E8 with a 76mm Gun M1A2 a formidable opponent in close combat as well. A06 M4A3E8 Sherman  By circling the enemy, the E8 is more than capable of devastating higher tier tanks with the high rate of fire. A06 M4A3E8 Sherman  The devastation is even more prevalent if the gunner has a Deadeye perk, dealing ridiculous damage to any modules it will hit. A06 M4A3E8 Sherman  A wolf-pack of E8s can be a devastating force on the battlefield. A06 M4A3E8 Sherman 
+
+
+|InTheGame_research=
+* Upon purchasing this tank, immediately install the Wright Continental R-975C4 engine, M1A1 gun and upgrade the radio, which you unlocked on the M4. A06 M4A3E8 Sherman 
+* Next work on upgrading the turret and getting the M1A2 gun, which increases the rate of fire and has better accuracy. A06 M4A3E8 Sherman 
+* To improve mobility, getting the tracks is advised. A06 M4A3E8 Sherman  
+* Go from there. A06 M4A3E8 Sherman 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, GLD, Coated Optics
+
+|Gallery=
+image:M4A3E8_Sherman_001. A06 M4A3E8 Sherman jpg
+image:M4A3E8_Sherman_002. A06 M4A3E8 Sherman jpg
+image:M4A3E8_Sherman_003. A06 M4A3E8 Sherman jpg
+image:M4A3E8_Sherman_004. A06 M4A3E8 Sherman jpg
+
+|History=
+[[image:M4a3E8 Korea. A06 M4A3E8 Sherman jpg|thumb|200px|left|M4a3E8 at army maintenance depo in Korea]]
+The official name is the M4A3(76)W HVSS, but "Sherman Easy Eight" is the nickname this tank is widely remembered. A06 M4A3E8 Sherman  Sherman M4A3E8 earned the nickname from its experimental E8 designation. A06 M4A3E8 Sherman  This new variant entered into WWII late in the war (Dec 1944), and was kept in service in various western allied nations deep into the Cold war. A06 M4A3E8 Sherman  
+
+
+
+
+
+
+
+
+
+
+
+==Evolutionary differences from the prior Sherman variants==
+[[image:M4A3E8 Wet disposal of ammunition on the floor of the tank. A06 M4A3E8 Sherman jpg|thumb|200px|right|"Wet ammo rack". A06 M4A3E8 Sherman  Storage of ammunition in the floor of the tank]]
+This tank sported the much-vaunted HVSS (horizontal volute spring suspension) wide track and suspension upgrade. A06 M4A3E8 Sherman  HVSS suspension increased the Sherman's weight by 2950lbs with the T66 single-pin track and 4780 lbs with the T84 double-pin track. A06 M4A3E8 Sherman  HVSS allowed the installation of wider tracks, thereby decreasing the tank's ground pressure, and eased maintenance on the running gear since the bogie no longer had to be disassembled to remove road wheels. A06 M4A3E8 Sherman  HVSS also provided more wheel travel, which gave the tank an easier and more stable ride, it also made the tank a much more stable firing platform. A06 M4A3E8 Sherman  
+
+The turret was also enlarged to accommodate the more powerful 76 mm gun. A06 M4A3E8 Sherman  Muzzle velocity of the 76 mm cannon, the vehicle's primary armament, was 792 m/sec, causing penetration of 101 mm of armor at a distance of 1,000 yards (914 m). A06 M4A3E8 Sherman  Maximum range of the cannon in indirect fire mode was 15,000 yards (13,716 meters). A06 M4A3E8 Sherman  From it's predecessor, the M4A3E8 inherited glacis sloped to 47 degrees to the vertical, while driver and co-driver vision slots were changed to periscopes housed in the top of the hatches. A06 M4A3E8 Sherman  
+[[image:M4A3E8 Sherman Left Side. A06 M4A3E8 Sherman jpg|thumb|200px|left|M4A3E8 Sherman Left Side]]
+The most significant change that distinguished the "Easy Eight" from it's predecessors was the "wet storage" of ammunition to reduce fire risk in the event of penetration from an enemy AP round. A06 M4A3E8 Sherman  The primary place of storage of ammunition was moved from the side of the turret (dry storage) into protected folders on the floor of the tank under the turret (wet storage). A06 M4A3E8 Sherman 
+
+Production of "Easy Eights" began in early 1944 and continued until April 1945. A06 M4A3E8 Sherman  The "Easy Eight" became the standard tank of the American 3rd and seventh Army in Europe, and after the war, was successfully deployed in Korea and the Middle East. A06 M4A3E8 Sherman  In the postwar years, it was included in the armament of various Western Allied armies. A06 M4A3E8 Sherman  A total of 4,542 M4A3 tanks of both suspension types were produced. A06 M4A3E8 Sherman 
+
+|HistAcc=
+The M4A3E8 is depicted in World of Tanks with T80 double-pin tracks. A06 M4A3E8 Sherman  The original T66 single-pin tracks is only represented by the premium [[Tank:A118_M4_Thunderbolt|M4A3E8 Thunderbolt VII]]. A06 M4A3E8 Sherman 
+*M4A3E8 Shermans with the 75mm gun or 105mm howitzer still had the original [https://the. A06 M4A3E8 Sherman shadock. A06 M4A3E8 Sherman free. A06 M4A3E8 Sherman fr/sherman_minutia/sherman_types/m4a3/M4A3_75W_HVSS. A06 M4A3E8 Sherman JPG D50878 turret]. A06 M4A3E8 Sherman  The in-game version only offers the T23 turret which was armed with the 76mm gun. A06 M4A3E8 Sherman 
+* Ford GAA engine is more powerful than in reality, with 520 hp compared to the historical 500. A06 M4A3E8 Sherman 
+* The Wright Continental engines were only fitted to the M4, M4 Composite and M4A1 variants. A06 M4A3E8 Sherman  Its configuration on the M4A3E8 is fake. A06 M4A3E8 Sherman 
+* All Easy Eight Shermans were equipped with wet style ammunition bin by default. A06 M4A3E8 Sherman  Yet without separately purchasing and mounting a Wet Ammo Rack equipment, the ingame E8's ammo rack is only as durable as other traditional dry stowage tanks. A06 M4A3E8 Sherman 
+* Uses the same D51072 turret as its predecessor, yet the view range, turret traverse and weight values are inconsistent. A06 M4A3E8 Sherman 
+* The [[Gun/USA#76 mm Gun M1A2|76 mm M1A2]] is the same gun used on the [[Tank:A103_T71E1|T71 DA]]. A06 M4A3E8 Sherman  Yet the penetration value of the AP shell is inconsistent. A06 M4A3E8 Sherman 
+
+|HistoricalGallery=
+image:M4A3_105_mm_Medium_Tank,_Sherman. A06 M4A3E8 Sherman png{{!}}M4A3_105_mm_Medium_Tank,_Sherman
+image:M4A3 105 mm Medium Tank. A06 M4A3E8 Sherman png{{!}}M4A3 105 mm Medium Tank
+image:M4A3 76 mm Medium Tank in Europe in early 1945. A06 M4A3E8 Sherman  Has add on armor kit and an additional 30 cal MG above the loader's hatch. A06 M4A3E8 Sherman png{{!}}M4A3 76 mm Medium Tank in Europe in early 1945. A06 M4A3E8 Sherman  Has add on armor kit and an additional 30 cal MG above the loader's hatch
+image:M4A3 76 mm Medium Tank. A06 M4A3E8 Sherman png{{!}}M4A3 76 mm Medium Tank
+image:M4A3E8 Australian M4A3E8 on the Korean battlefield. A06 M4A3E8 Sherman jpg{{!}}M4A3E8 Australian M4A3E8 on the Korean battlefield
+image:M4A3E8 Castro enters Santa Claka in Sherman tanks. A06 M4A3E8 Sherman jpg{{!}}M4A3E8 Castro enters Santa Claka in Sherman tanks
+image:M4A3E8 Che guevarra in front of the E8 tank. A06 M4A3E8 Sherman jpg{{!}}M4A3E8 Che guevarra in front of the E8 tank
+image:M4A3E8 General PAtton in front of the M4A3E8 tank of the 14th Armoured Division. A06 M4A3E8 Sherman jpg{{!}}M4A3E8 General PAtton in front of the M4A3E8 tank of the 14th Armoured Division
+image:M4A3E8 Medium Tank at the Patton Museum in Ft Knox, Kentucky. A06 M4A3E8 Sherman png{{!}}M4A3E8 Medium Tank at the Patton Museum in Ft Knox, Kentucky
+image:M4A3E8 Medium Tank with the 761st Tank Battalion outside of Nancy France on November 8 1944. A06 M4A3E8 Sherman png{{!}}M4A3E8 Medium Tank with the 761st Tank Battalion outside of Nancy France on November 8 1944
+image:M4A3E8 of the 781st Tank Battalion leads Combat Team 398 elements through the Camp de Bitche March 1945. A06 M4A3E8 Sherman jpg{{!}}M4A3E8 of the 781st Tank Battalion leads Combat Team 398 elements through the Camp de Bitche March 1945
+image:M4A3E8 tank stuck on a provisional bridges during the fighting on the German city Grossbliederstroff in Saarland. A06 M4A3E8 Sherman  Tank is in a state of 749th Tank Battalion. A06 M4A3E8 Sherman  18th február 1945th . A06 M4A3E8 Sherman jpg{{!}}M4A3E8 tank stuck on a provisional bridges during the fighting on the German city Grossbliederstroff in Saarland. A06 M4A3E8 Sherman  Tank is in a state of 749th Tank Battalion. A06 M4A3E8 Sherman  18th február 1945th
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+
+}}

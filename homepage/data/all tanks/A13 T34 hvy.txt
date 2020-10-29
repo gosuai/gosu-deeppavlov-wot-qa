@@ -1,0 +1,265 @@
+:''This article is about the American heavy tank. A13 T34 hvy  For the Soviet medium tank, see [[T-34]]. A13 T34 hvy ''
+{{TankData|Tank=T34_hvy
+|The T34 is one of the hardest hitting tier 8 heavy tanks, putting out even more damage than the [[IS-3]] armed with the 122mm BL-9. A13 T34 hvy  However, to balance these abilities the T34's cannon was given an increase in aiming time and also given a RoF of 4. A13 T34 hvy  This makes it tricky to play, especially for players who were used to the T34's pre-patch 0. A13 T34 hvy 7. A13 T34 hvy 2 tier 9 stats with a high RoF and accuracy. A13 T34 hvy  The role of the T34 didn't change with the patch, so you should stick to the second line and provide firepower where your allies need it due to the weak hull. A13 T34 hvy  When able to, stay back and play defensively, attack cautiously; any tier 7 and above gun can easily penetrate your weak hull. A13 T34 hvy  The credit income of the T34 is similar to that of the KV-5. A13 T34 hvy  Playing a good match will earn the player plenty of credits. A13 T34 hvy  
+The T34 was removed from the Premium Shop in December 2019. A13 T34 hvy 
+
+Guide to playing the T34 [https://worldoftanks. A13 T34 hvy eu/en/news/pc-browser/videos/video-guide-t34/ Video: Guide to T34]
+
+|InTheGame_pros=
+* Third highest alpha damage and highest penetration of all Tier 8 heavy tanks
+* Good accuracy when fully aimed, unusual for an American tank
+* Great gun depression 
+* Very strong turret face armor and surprisingly thick rear turret armor
+* Large tracks can soak up damage when properly sidescraping
+
+|InTheGame_cons=
+* Poor hull armor
+* Poor DPM 
+* Very bad gun handling and long aimtime
+* Very bad ground resistance, poor mobility
+* Crew setup does not match [[M103]] and [[T110E5]], awkward crew trainer
+
+|InTheGame_performance=
+
+The tank has a weak hull so it's not recommended for leading a push. A13 T34 hvy  Try to only show your turret by staying hull-down if possible. A13 T34 hvy 
+T34 works very well when you can get behind cover and support your teammates, having a gun that can penetrate tier 10's with well placed shots and having turret armor that can bounce most enemies you are up against, proving to be a tank that cannot be ignored even by the biggest and baddest. A13 T34 hvy 
+
+A Vertical Stabilizer and Gun Laying Drive are both recommended to reduce the aim time. A13 T34 hvy  Having both makes the aim time and reticle size comparable to other tanks. A13 T34 hvy 
+
+That said, this tank has an interesting role to play. A13 T34 hvy  It can take on almost any tank it wants, even tier 10's, if the T34 can force a long range fight where the high alpha, penetration and accuracy combined with the hugely armored turret will make you nigh-invincible. A13 T34 hvy  However, if any tank; even some tier 4 tanks (i. A13 T34 hvy e. A13 T34 hvy  T-50) get behind you they can easily kill you due to your terrible hull armor all around combined with your slow moving characteristics (albeit better than the Löwe and similar heavies) staying in the back line is crucial for this tank. A13 T34 hvy  Ignore the impulse, and your uninformed team in the suggestion to push. A13 T34 hvy  Support in the back line, and you will find this tank to be a formidable and powerful tank, and easily one of the best tier 8 tanks. A13 T34 hvy  However, be aware artillery is the bane of this tank. A13 T34 hvy  Sitting in a hull down position while also being artillery safe is imperative, and you must actively seek terrain that can fulfill one or both of these requirements, as these will shore up your vulnerabilities. A13 T34 hvy 
+
+In short, the T34 has very strong strengths, and crippling weaknesses. A13 T34 hvy  However, an experienced player will search for ways to remedy the situation, and bring the powerful gun to force. A13 T34 hvy  Patience is key with this tank, and it suits a defensive play style well. A13 T34 hvy 
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vertical Stabilizer
+
+|External_Reviews=
+{{VideoYT|s6rwuZyGAnE}}
+
+|Gallery=
+image:T34_001. A13 T34 hvy jpg{{!}}T34_001
+image:T34_002. A13 T34 hvy jpg{{!}}T34_002
+image:T34_003. A13 T34 hvy jpg{{!}}T34_003
+image:T34_004. A13 T34 hvy jpg{{!}}T34_004
+image:T34-1a. A13 T34 hvy jpg{{!}}T34, map Mines
+image:T34-a1. A13 T34 hvy jpg{{!}}T34, map Komarin
+image:T34-a2. A13 T34 hvy jpg{{!}}T34, map Lakeville
+
+|History=
+By the middle of 1944, combat reports from Europe describing the use of heavy tanks by the Germans stimulated new interest in the development of an equivalent American vehicle. A13 T34 hvy  The Pershing medium tank provided an answer to the early model of the German [[Pz. A13 T34 hvy Kpfw. A13 T34 hvy  VI Tiger]]. A13 T34 hvy  However, although the latter was still in front line service, it had first been encountered by the US Army during 1943. A13 T34 hvy  By 1944, the Germans were introducing even more heavily armed and armored vehicles, like the [[Pz. A13 T34 hvy Kpfw. A13 T34 hvy  Tiger II]]. A13 T34 hvy   Although the [[M26 Pershing]] was temporarily redesignated as a heavy tank for morale purposes, it clearly did not provide an answer to the problem. A13 T34 hvy  On 14 September 1944, US forces recommended development and manufacture of four prototypes for a new heavy tank. A13 T34 hvy  Two of these were designated as the heavy tank [[T29]] and were to be armed with the 105mm T5E1 gun. A13 T34 hvy  The remaining two were designated as the heavy tank [[T30]] and were to be armed with the 155mm T7 gun. A13 T34 hvy 
+
+== History ==
+In order to further increase the firepower of the [[T29]] prototype, the US Army undertook design studies in early 1945 to modify the 120mm antiaircraft gun for tank use. A13 T34 hvy  These studies indicated that such a weapon, designated as the 120mm T53 gun, would have armor piercing performance superior to that obtainable with either the 105mm T5E1 or the 155mm T7. A13 T34 hvy  The new 120mm gun had a muzzle velocity of 3150 feet per second with a 50-pound solid shot, and development was in progress on a lightweight HVAP round with a muzzle velocity of 4100 feet per second. A13 T34 hvy  On 17 May 1945, the US Army recommended that two of the [[T30]] prototype tanks be armed with the 120mm gun and redesignated as a heavy tank [[T34]]. A13 T34 hvy  This action was approved on 31 May. A13 T34 hvy 
+
+|HistAcc=
+Was actually able to fire 5 rounds a minute not 4. A13 T34 hvy 
+
+== Technical info ==
+Originally, the [[T29]], [[T30]], and T34 heavy tanks were all to be powered by the Ford GAC engine. A13 T34 hvy  However, after VJ-day, the program was modified to permit the evaluation of other new power plants, and the military characteristics of the [[T30]] were changed to specify the Continental AV-1790 engine, which was still coupled to the cross-drive transmission. A13 T34 hvy  On 7 November 1946, US Army recommended that the two T34 prototypes use the [[T30]] chassis and that the characteristics of the T34 also be changed to specify the Continental engine. A13 T34 hvy  Prior to this, it had been intended to use the modified Allison V-1710 aircraft engine. A13 T34 hvy  However, use of the two chassis diverted from the [[T30]] prototype program was recommended to reduce costs. A13 T34 hvy 
+<br>
+The T34 prototypes were similar in appearance to the [[T29]] and [[T30]] tanks, except for the longer barrel of the 120mm gun. A13 T34 hvy  Like the [[T29]], the combination gun-mount was fitted with two coaxial . A13 T34 hvy 50 caliber machine guns on the left side of the cannon. A13 T34 hvy  The heavier weight of the 120mm gun required the welding of an additional four inches of armor onto the rear of the turret bustle to balance the long cannon. A13 T34 hvy  On the pilot tanks, this provided an obvious identification point. A13 T34 hvy  No doubt, if the tank had gone into production, the rear of the turret casting would have been thickened up and it would not have been so easily detected. A13 T34 hvy 
+
+Like the 120mm antiaircraft gun from which it was developed, the T53 cannon used separated ammunition. A13 T34 hvy  Thus, the ammunition stowage in the T34 was similar to that in the T29 and [[T30]] tanks, which used the same type of round. A13 T34 hvy  The 120mm projectile and cartridge case each weighed about 50 pounds, so the problem of the two loaders in handling the ammunition was not as severe as with the 155mm gun in the [[T30]]. A13 T34 hvy  However, another problem arose during test firing at Aberdeen and Fort Knox: tests revealed that dangerous concentrations of smoke and carbon monoxide formed inside the turret after firing a few rounds. A13 T34 hvy  Also, flarebacks hospitalized at least two men at Fort Knox, and singed the hair and eyebrows of several others there and at Aberdeen. A13 T34 hvy  These flarebacks were caused by unburned powder gases in the gun tube being sucked back into the turret by the pumping action of the ejected cartridge case. A13 T34 hvy  A flash resulted when these hot gases mixed with the oxygen in the turret. A13 T34 hvy  
+
+To prevent the flarebacks, a bore scavenging system was developed using compressed air to sweep out the gun tube before the breech opened. A13 T34 hvy  However, this complex arrangement resulted in leaks at the various valves, and required space for an air compressor and reservoir. A13 T34 hvy  A simple solution to the problem was the installation of an aspirator-type bore evacuator. A13 T34 hvy  Previously tested on the 90mm T15E4 and M3E4 cannons, it consisted of a cylindrical chamber fitted around the gun barrel just behind the muzzle. A13 T34 hvy  Holes angled towards the muzzle were drilled along the barrel wall and connected the bore with the evacuator chamber. A13 T34 hvy  As the projectile moved down the tube past these evacuator ports, the high gas pressure in the bore also pressurized the evacuator chamber. A13 T34 hvy  Once the projectile cleared the muzzle, the pressure in the bore dropped rapidly and the high pressure remaining in the evacuator chamber caused the formation of high velocity gas to jets from the evacuator ports. A13 T34 hvy  These jets angled toward the muzzle, sweeping the powder gas out of the bore before the breech opened. A13 T34 hvy  Tests at Aberdeen and Fort Knox showed that this simple device was extremely effective and it became a standard feature of new tank guns. A13 T34 hvy  
+
+== T-series Prototypes ==
+The [[T29]], [[T30]], [[T32]], and [[T34]] series of tanks were used to evaluate numerous experimental components after World War II. A13 T34 hvy  Although too late for the war for which they were designed, they provided invaluable service in developing these components for later tanks. A13 T34 hvy  Much of the work making the early AV-1790 engine and the CD-850 transmission a reliable power package utilized these tanks. A13 T34 hvy  Later, these prototypes were used in the development of other power train components, such as the XT-1400 transmission, which was tested in the [[T30]]. A13 T34 hvy 
+
+
+<table style="text-align:center;" frame="box" rules="vertical;horizontal" >
+<caption>American Heavy tank comparision</caption>
+<tr>
+<th></th>
+	<th>Mk. A13 T34 hvy VII</th>
+	<th>[[M6]]</th>
+	<th>T28</th>
+	<th>[[T29]]</th>
+	<th>[[T30]]</th>
+	<th>[[T32]]</th>
+	<th>[[T34]]</th>
+	<th>M103A2</th>
+</tr>
+<tr>
+<th>Crew</th>
+	<td>8</td>
+	<td>6</td>
+	<td>4</td>
+	<td>6</td>
+	<td>6</td>
+	<td>5</td>
+	<td>6</td>
+	<td>5</td>
+</tr>
+<tr>
+<th>Lenght</th>
+	<td>10,43m</td>
+	<td>8,43m</td>
+	<td>11,12m</td>
+	<td>11,56m</td>
+	<td>10,9m</td>
+	<td>10,83m</td>
+	<td>11,77m</td>
+	<td>11,23m</td>
+</tr>
+<tr>
+<th>Width</th>
+	<td>3,66m</td>
+	<td>3,12m</td>
+	<td>4,54m</td>
+	<td>3,8m</td>
+	<td>3,8m</td>
+	<td>3,76m</td>
+	<td>3,8m</td>
+	<td>3,63m</td>
+</tr>
+<tr>
+<th>Height</th>
+	<td>3,12m</td>
+	<td>3,00m</td>
+	<td>2,86m</td>
+	<td>3,22m</td>
+	<td>3,22m</td>
+	<td>2,81m</td>
+	<td>3,22m</td>
+	<td>3,56m</td>
+</tr>
+<tr>
+<th>Weight</th>
+	<td>39,5t</td>
+	<td>57,4t</td>
+	<td>86,3t</td>
+	<td>64,25t</td>
+	<td>64,74t</td>
+	<td>54,5t</td>
+	<td>65,2t</td>
+	<td>58,1t</td>
+</tr>
+<tr>
+<th>Engine<br />power</th>
+	<td>Liberty<br />338hp</td>
+	<td>G-200<br />960hp</td>
+	<td>GAF<br />500hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>GAC<br />770hp</td>
+	<td>AV1790<br />810hp</td>
+	<td>AV1790<br />750hp</td>
+</tr>
+<tr>
+<th>Max. A13 T34 hvy  speed</th>
+	<td>8,8km/h</td>
+	<td>35km/h</td>
+	<td>12,8km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>35km/h</td>
+	<td>37km/h</td>
+</tr>
+<tr>
+<th>hull armour<br />(angle)</th>
+	<td>12mm<br />(28)</td>
+	<td>83mm<br />(30)</td>
+	<td>305mm</td>
+	<td>102mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(54)</td>
+	<td>102mm<br />(54)</td>
+	<td>127mm<br />(60)</td>
+</tr>
+<tr>
+<th>side armour</th>
+	<td>12mm</td>
+	<td>70mm</td>
+	<td>152mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>76mm</td>
+	<td>51mm</td>
+</tr>
+<tr>
+<th>Turret armour<br />(mantlet)</th>
+	<td>16mm</td>
+	<td>83mm<br />(102mm)</td>
+	<td>-</td>
+	<td>178mm<br />(279mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>298mm<br />(298mm)</td>
+	<td>178mm<br />(279mm)</td>
+	<td>127mm<br />(254mm)</td>
+</tr>
+<tr>
+<th>top armour</th>
+	<td>6-10mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>bottom armour</th>
+	<td>6-8mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>25mm</td>
+	<td>38mm</td>
+</tr>
+<tr>
+<th>Gun</th>
+	<td>2x57mm<br />Hotchkiss</td>
+	<td>75mm M7<br />37mm MB</td>
+	<td>105mm<br />T5E1</td>
+	<td>105mm<br />T5E2</td>
+	<td>155mm<br />T7</td>
+	<td>90mm<br />T15E2</td>
+	<td>120mm<br />T53</td>
+	<td>120mm<br />M58</td>
+</tr>
+<tr>
+<th>Secondary<br />armament</th>
+	<td>5x7,62mm<br />Hotchkiss</td>
+	<td>2x12,7mm <br />HB M2<br />2x7,62mm<br />M1919A4</td>
+	<td>12,7mm<br />HB M2</td>
+	<td>3x12,7mm<br />HB M2<br />7. A13 T34 hvy 62mm<br />M1919M4</td>
+	<td>2x12,7mm<br />HB M2<br />7. A13 T34 hvy 62mm<br />M1919M4</td>
+	<td>12,7mm<br />HB M2<br />2x7. A13 T34 hvy 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A13 T34 hvy 62mm<br />M1919M4</td>
+	<td>3x12,7mm<br />HB M2<br />7. A13 T34 hvy 62mm<br />M37</td>
+</tr>
+</table>
+
+|HistoricalGallery=
+image:T34_techical_drawing. A13 T34 hvy gif{{!}}T34 Technical drawings
+image:T34bw7. A13 T34 hvy jpg{{!}}T34 prototype
+
+|Ref_references=
+
+
+|Ref_sources=
+* R. A13 T34 hvy P. A13 T34 hvy  Hunnicutt - Firepower: A History of the American Heavy Tank, 1988 Presidio Press, ISBN 0-89141-304-9
+
+|Ref_links=
+* https://en. A13 T34 hvy wikipedia. A13 T34 hvy org/wiki/T29_Heavy_Tank#cite_note-6
+
+
+|Sidebar_Camostop=4. A13 T34 hvy 3
+|Sidebar_Camomove=2. A13 T34 hvy 0
+|Sidebar_Camofire=0. A13 T34 hvy 9
+|Sidebar_Passhard=1. A13 T34 hvy 342
+|Sidebar_Passmed=1. A13 T34 hvy 63
+|Sidebar_Passsoft=3. A13 T34 hvy 26
+|Sidebar_DispTurret=0. A13 T34 hvy 23
+|Sidebar_DispRecoil=3. A13 T34 hvy 836
+|Sidebar_DispAccel=0. A13 T34 hvy 307
+|Sidebar_DispTurning=0. A13 T34 hvy 307
+}}
+
+[[Category:USA Tanks]]

@@ -1,0 +1,52 @@
+{{TankData|Tank= Object 703 Version II
+| 
+The '''Object 703 Version II''' could be obtained through opening [https://worldoftanks. R165 Object 703 II com/en/news/game-events/holiday-ops-2020-boxes/  Large Boxes] during the Holiday Ops 2020 event. R165 Object 703 II 
+|Gallery= 
+
+|InTheGame_pros= 
+* Double-barreled, can fire both guns at the same time for massive alpha strikes (780 average alpha)
+* Fires high velocity APCR as standard ammunition
+* Excellent gun handling for a heavy tank
+* Thick upper glacis and tough turret with small weakspots
+* Hull sides are covered with spaced armor, good for sidescraping
+
+|InTheGame_cons=
+* Long charge-up to fire both guns, and long cooldown
+* Lenghty reload and low DPM
+* Very poor aim time, poor accuracy
+* Poor gun depression
+* Poor viewrange
+
+|InTheGame_performance= 
+The first true double-barreled tank, it features the 122 gun on most Soviet tanks, but this time it not only has one gun, but TWO. R165 Object 703 II  Which takes the strength of a regular Soviet heavy tank, and multiplies it by two. R165 Object 703 II 
+
+As one might expect, the majority of one's efforts should be to maximize the potential of the dual-barrel beasts damage output. R165 Object 703 II  Thankfully the Object 703 has decent penetration as well as good shell velocity on it's standard APCR shells. R165 Object 703 II  The double barrels allow for quite a flexible approach: You can use classic tactics: Fire once and wait for your gun to reload. R165 Object 703 II  This is called Cyclic firing, and comes with the same pros and cons as firing any traditional cannon. R165 Object 703 II  Alternatively, you can fire one barrel, wait for a few seconds, and empty the other barrel as well should the target persist within your reach. R165 Object 703 II  This is called Sequential firing. R165 Object 703 II  This gives you the possibility of punishing an enemy that trades a shot with you, for your 2nd barrel is ready to fire much faster than it takes for them to reload, unless you are facing low-caliber enemies. R165 Object 703 II  It is worth noting that firing the 2nd barrel interrupts the reload of the 1st barrel, so ideally you do not want to fire if your other barrel is just about to finish loading. R165 Object 703 II  Cream on the top is the Double Shot. R165 Object 703 II  Achieved by holding the firing button down, you get a visible cue (on your aiming reticle) as well as an audible cue that the Double Shot is being prepared. R165 Object 703 II  The reticle shows a circle that fills up, indicating when the shot is going to go off. R165 Object 703 II  This takes 3 seconds on the Object 703. R165 Object 703 II  Releasing the firing button resets the Double Shot or allows to adjust to other firemodes if necessary. R165 Object 703 II  Double Shot, once fired, fires two separate shells (with their own penetration and trajectory) towards your unfortunate prey. R165 Object 703 II  Should both hits connect, you will be treated to a whopping 780 alpha strike on the enemy, on top of possibly crippling their crew and modules. R165 Object 703 II  To compare, not even Tier 10 heavies such as E-100 and 60TP can reach that much alpha. R165 Object 703 II  The Double Shot, despite it's raw power, has severe drawbacks and should be used only when the situation allows to: First, it is not very reliable on long range, even on exposed enemy. R165 Object 703 II  On long ranges, use Cyclic or Sequential firing. R165 Object 703 II  Secondly, the wind-up time can be tricky, and if an enemy expects you to Double Shot them, they will go to great efforts to not get hit by it or at least to angle their armor to reduce the chance of a double penetration. R165 Object 703 II  If you feel you do not have time to deliver the Double Shot, quickly fire one barrel to dish out at least some damage. R165 Object 703 II  The most crippling drawback is the reload time: After you fire both barrels, your reload is halted for a moment, increasing the already slow reload time. R165 Object 703 II  This is further notable due to the fact that the double barrel layout does not allow for a Rammer to be equipped. R165 Object 703 II  During your long reload, the enemy can and will punish you if you are in the open and cannot retreat to safety. R165 Object 703 II  While very flexible, a traditional heavy with similar gun will out-dpm the Object 703 in a shootout. R165 Object 703 II  Thus, always make sure you can retreat when needed and strike back when the enemy is reloading or distracted. R165 Object 703 II  Last but important thing to note is that Object 703 has absolutely abysmal gun depression (of -5°!!!), which will severely reduce it's effectiveness in certain parts of the map, or cause frustrating misses should you accidentally drive over something moderately bumpy or uneven. R165 Object 703 II 
+
+Object 703 boasts decent armor for it's tier, able to bounce quite a few shots and allows for effective angling tactics as well as side-scraping. R165 Object 703 II  Lower front plate is a natural weakspot (that can be somewhat negated with angling), as well as the turret front right next to the gun mantlet, which can be penetrated in close range quite often. R165 Object 703 II  Once again, angling the turret might help, as well as movement in general. R165 Object 703 II  The sides are relatively thick but badly angled, so avoid direct exposure of your side when possible. R165 Object 703 II  Against lower-tier opponents, the armor is quite reliable and due to your double barrels, you are capable or dealing devastating damage on lower tier tanks, if not outright destroying them in a single Double Shot. R165 Object 703 II  Due to this, you command an aura of fear factor against almost all enemy tanks that engage you. R165 Object 703 II  Until you start reloading. R165 Object 703 II 
+
+Object 703 has acceptable mobility and can keep up with most same-tier heavies and allows for decent peek-a-boo tactics. R165 Object 703 II  The turret traverse is quite low, so when possible, angle your turret ahead of time. R165 Object 703 II  This is especially true when prepping for a Double Shot, which already takes time to prepare by itself. R165 Object 703 II  View-range is poor, so Coated Optics are recommended. R165 Object 703 II  Due to your fear-factor, and your not-so-great mobility, SPG's will be focusing on you quite often. R165 Object 703 II 
+
+All in all, Object 703 is extremely fun to play, and when you get used to the flexible double barrel layout and learn to minimize it's drawbacks, you will be a force to be reckoned on the battlefield. R165 Object 703 II  Due to the high alpha, you can still be very relevant on higher tier matches, at the cost of reliable penetrations against more heavily armored targets (one can opt to fire double salvo of HE shells to harass superheavies). R165 Object 703 II  A good match in Object 703 will net you a good amount of credits and due to it's damage oriented nature it is very suited for reliable credit making. R165 Object 703 II 
+
+
+|InTheGame_research= 
+Premium vehicle, comes elite in its stock configuration. R165 Object 703 II 
+
+|InTheGame_equipment=
+Coated Optics, GLD, Vents
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

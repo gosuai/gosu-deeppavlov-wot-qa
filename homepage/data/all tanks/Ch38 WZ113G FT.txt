@@ -1,0 +1,44 @@
+{{TankData|Tank=WZ-113G FT
+|This boxy and bulky adaptation of the [[113]] heavy tank marks the end of Chinese tank destroyer line. Ch38 WZ113G FT  It carries a massive 152mm cannon boasting great penetration and alpha, and also comes with reliable sloped frontal armor and high HP pool. Ch38 WZ113G FT  Althought its large profile has inadequate protection everywhere - other than frontal - and also provides subpar camo ratings. Ch38 WZ113G FT 
+
+|InTheGame_pros= 
+
+- Impressive penetration and alpha damage, its gold ammo penetration even rivals [[Tank:G72_JagdPz_E100|JagdPz E100]]'s HEAT shell
+
+- Reasonably good aim time and gun handling, on par with the [[T110E3]]
+
+- Tied with [[Tank:G44_JagdTiger|JagdTiger]] for 2nd highest HP pool of all TDs (2100)
+
+- 230mm thick upper front plate with decent sloping, creating line-of-sight thickness around 300mm: comparable to the [[Tank:G72_JagdPz_E100|JagdPz E100]]
+
+- Above average view range, handy when coupled with proper equipments and skills setup
+
+- Uncommon sight on the battlefield, many if not most opponents don't know about your weaknesses and simply waste shots head-on
+
+
+|InTheGame_cons= 
+
+- Rather tight gun arc and mediocre gun depression, common trait of Chinese TDs
+
+- Very weak armor and huge profile on the sides, limits effectiveness of angling 
+
+- Nowhere as mobile as the original [[113]], rather resembling that of the [[Tank:GB91_Super_Conqueror|Super Conqueror]]
+
+- Worse camo rating due to its height
+
+- Subpar accuracy and '''worst''' shell velocity of all Tier X TDs, making an ineffective sniper
+
+- Big weak roof provides easy target for facehugger or SPGs
+
+- LFP is still weak and not very easy to hide 
+
+|InTheGame_performance= 
+
+Generally speaking, the WZ-113G FT is a vehicle destined for its very unique playstyle unlike any other peers. Ch38 WZ113G FT  The very thick and sloped UFP might appear invincible, but there are multiple weakspots head-on like the cupola, or the very sloped yet thin "shoulders" that are vulnerable to most HEAT and HESH ammunition. Ch38 WZ113G FT  Protection on other parts simply worth no mention except for occasional ricochets. Ch38 WZ113G FT  Its armament, the 152 mm 59-152JG FT previously found on the WZ-111G FT offers improved accuracy, gun handling and rate of fire. Ch38 WZ113G FT  Adequate for a Tier X, but nothing spectacular compared to its peers. Ch38 WZ113G FT  In terms of mobility, do not get fooled by this "113" name; the additional weight and noticably lower engine power brings down its speed by a large amount, though still superior to the superheavies. Ch38 WZ113G FT  
+Taken into comparison, the WZ-113G FT can not endure punishment as easily as the [[T110E3]] or the [[Tank:G72_JagdPz_E100|JagdPz E100]], but enjoys higher initiative on positioning; it has neither the shock value nor the speed of the [[Tank:R149_Object_268_4|Object 268 V4]], yet benefits from forward mounted gun, smaller profile and higher DPM. Ch38 WZ113G FT  More or less a Jack-of-All-Trades heavy tank destroyer, it could work out well in brawling, in defensive or in performing breakthrough, as long as the player keeps its shortcomings in mind. Ch38 WZ113G FT 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Vents, Coated Optics, "Wet" Ammo Rack, Binocular Telescope
+
+}}

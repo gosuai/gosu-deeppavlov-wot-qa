@@ -1,0 +1,98 @@
+{{TankData|Tank= Bat. F87 Batignolles-Chatillon 12t -Châtillon 12 t
+|The only tank in French LT line that's not AMX series, this tank doesn't share its equipment with other French tanks so you have to research everything from scratch. F87 Batignolles-Chatillon 12t  However, its play style is the same as most of the AMX LT series. F87 Batignolles-Chatillon 12t  Abbreviated in-game as "B-C 12 t". F87 Batignolles-Chatillon 12t 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Unlocks 2 vehicles: [[AMX 13 90]] and the [[Bat. F87 Batignolles-Chatillon 12t -Châtillon 25 t AP]]. F87 Batignolles-Chatillon 12t 
+* Excellent mobility; great at flanking and penetration is good for the flanking capabilities
+* Decent accuracy, gun handling and aiming time
+* Reasonable ammo capacity compared to others autoloading French LTs 
+* Exceptional camouflage, best in class for its tier
+
+|InTheGame_cons= 
+
+* Lengthy drum reload for its rather limited burst damage, poor DPM
+* Doesn't share modules with other French tanks, except for the radio
+* Low survivability: poor armor, frequent engine damage/fire, low HP pool
+
+
+|InTheGame_performance= 
+
+The BatChat 12t features a fast-firing, low burst autoloader on a highly mobile chassis with effective camouflage and workable gun handling. F87 Batignolles-Chatillon 12t  This creates a platform which is good for passive scouting, flanking and firing from ambush. F87 Batignolles-Chatillon 12t  Engagements should not occur from long range, as the gun is unreliable enough that you can miss entire clips due to poor aim, and the damage output is too mediocre to punish exposed enemies. F87 Batignolles-Chatillon 12t  Instead, the player should keep at a distance where they can spot the enemy without being spotted in return (~300-400m) and fire from cover. F87 Batignolles-Chatillon 12t  When distracted or low health targets present themselves, the BatChat 12t makes for an effective flanker and assassin. F87 Batignolles-Chatillon 12t  However, it should not be used in a brawl. F87 Batignolles-Chatillon 12t  The tank is arguably one of the worst tier 8 light tanks, being inferior in almost every aspect (firepower, armour, mobility) in exchange for an autoloader, smaller profile and better camo. F87 Batignolles-Chatillon 12t 
+
+Thanks to the incredible camouflage values of this tank, it saw extensive use as the tier 8 of choice in the 7/68 format battles of the WGL Grand Finals. F87 Batignolles-Chatillon 12t  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=Vertical Stabilizer, Coated Optics, Camouflage Net, Binocular Telescope, Vents
+
+|InTheGame_Equipment_Builds=
+The two defining aspects of the BC12t are its autoloader and its exceptional camouflage and builds should focus on optimizing these two aspects. F87 Batignolles-Chatillon 12t  
+All crew should be trained with camouflage and the commander should have 6th sense in order to optimize for the passive scouting role. F87 Batignolles-Chatillon 12t  
+Further improvements for the scouting role would include recon on the commander. F87 Batignolles-Chatillon 12t  
+For the gunner, either snapshot or dead-eye are good choices. F87 Batignolles-Chatillon 12t  The driver should learn smooth ride to give the BSC12t at least a chance to hit targets while moving. F87 Batignolles-Chatillon 12t 
+
+The BatChat can mount common equipment pieces such as vertical stabilizers, optics and vents. F87 Batignolles-Chatillon 12t  However, a camo net should be considered as it boosts the camo when stationary to up to 50%. F87 Batignolles-Chatillon 12t  
+
+|External_Reviews= 
+{{#ev:youtube|ixQf8UUoteE}}
+
+|History= 
+The Bat. F87 Batignolles-Chatillon 12t -Châtillon 12t, or the Char 12 Tonnes Batignolles-Châtillon, was a prototype French light tank. F87 Batignolles-Chatillon 12t 
+
+
+==Post-War Light Tank Requirements==
+After World War 2, the French military was in dire need of new tanks. F87 Batignolles-Chatillon 12t  As such, on September 1946 a draft was issued by the Direction des études et fabrications d'armement (DEFA) for a new light tank to fulfill anti-tank and reconnaissance roles. F87 Batignolles-Chatillon 12t  This draft dictated that the tank must have:
+
+* strong firepower
+* a weight of less than or equal to 12 tons in order to be transported by air
+* good mobility
+* a long operational range
+
+Further requirements came in later. F87 Batignolles-Chatillon 12t  In January 1947, it was decided that the new tank must be able to accommodate many different types of weapons, and soon after the decision to use an oscillating turret was made - specifically, the FL-4 turret made by the Fives-Lille company with a high-velocity 75mm gun. F87 Batignolles-Chatillon 12t  By the end of 1945, the requirement that the tank must be air transportable was dropped. F87 Batignolles-Chatillon 12t 
+
+==The Char 12 Tonnes Batignolles-Châtillon==
+By April 1947, four companies entered the competition to design France's future light tank: AMX, Renault, FCM, and Batignolles-Châtillon. F87 Batignolles-Chatillon 12t  The latter's prototype became known as the Char 12 Tonnes Batignolles-Châtillon, or Bat-Chat 12t. F87 Batignolles-Chatillon 12t  This tank had the following characteristics: 
+
+* Length: 4. F87 Batignolles-Chatillon 12t 31 meters
+* Width: 2. F87 Batignolles-Chatillon 12t 4 meters
+* Height: 2. F87 Batignolles-Chatillon 12t 17 meters
+* Ground clearance: 0. F87 Batignolles-Chatillon 12t 315 meters
+* Track Width: 0. F87 Batignolles-Chatillon 12t 37 meters
+* Crew: 3 members
+* Armament: 75mm cannon with 1000 meters/second muzzle velocity and 40 shells
+* Motor: Mathis 7-Cylinder 8 GZ 00 with 210 horsepower
+* Maximum speed: 73 kilometers/hour
+* Operational Range: 240 kilometers
+* Slope-climbing ability: 70 degrees
+
+One should note that these statistics are either planned or tested a dummy turret. F87 Batignolles-Chatillon 12t  There are no known images of the Bat-Chat 12t with a proper turret, and it is unknown if the prototype was ever fitted with one. F87 Batignolles-Chatillon 12t 
+
+==Cancellation==
+The AMX prototypes won the competition with 5 prototypes built by December 1949, and entered service in 1952 as the AMX-13. F87 Batignolles-Chatillon 12t  In contrast, Batignolles-Châtillon's tank was not ready to be shown until June 1950. F87 Batignolles-Chatillon 12t  With the AMX prototype having been declared the winner, all development on and experiments with the Bat-Chat 12t ceased by September 1951. F87 Batignolles-Chatillon 12t 
+
+|HistoricalGallery= 
+File:Bat-Chat_12T_prototype. F87 Batignolles-Chatillon 12t jpg{{!}}Only known image of the Bat-Chat 12T prototype. F87 Batignolles-Chatillon 12t 
+File:BC12t_history. F87 Batignolles-Chatillon 12t jpg
+File:https://image. F87 Batignolles-Chatillon 12t noelshack. F87 Batignolles-Chatillon 12t com/fichiers/2017/14/1491742598-imgp8451. F87 Batignolles-Chatillon 12t jpg
+File:Bat12t_01. F87 Batignolles-Chatillon 12t jpg {{!}}The Bat-Chat 12t blueprint with FL4 turret. F87 Batignolles-Chatillon 12t 
+File:Bat12t_02. F87 Batignolles-Chatillon 12t jpg
+File:Bat12t_03. F87 Batignolles-Chatillon 12t jpg
+
+|HistAcc=
+* The in-game Bat-Chat 12t looks bigger than the dimensions on the blueprints. F87 Batignolles-Chatillon 12t 
+* The Bat-Chat's gun, the Canon de 75 mm Vo 1000 m/s, was an earlier version of the 75 mm SA50 used by the AMX 13. F87 Batignolles-Chatillon 12t  Despite that, the SA50 vastly underperforms compared to its prototype version. F87 Batignolles-Chatillon 12t 
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://fr. F87 Batignolles-Chatillon 12t wikipedia. F87 Batignolles-Chatillon 12t org/wiki/AMX-13
+* https://ritastatusreport. F87 Batignolles-Chatillon 12t live/2017/01/23/supertest-wz-132-hkw-12-bat-chatillon-12t/ {{!}}Anonymous comment noting when the Bat-Chat 12t was revealed as well as the discrepancies regarding the tank's top gun
+* https://www. F87 Batignolles-Chatillon 12t chars-francais. F87 Batignolles-Chatillon 12t net/2015/index. F87 Batignolles-Chatillon 12t php/2-archives/engins/2642-1947-batignolles-12t
+
+}}

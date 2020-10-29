@@ -1,0 +1,43 @@
+{{TankData|Tank=M3_Stuart_LL
+|It was previously available to new players for completing the in-game training course. R67 M3 LL  Codes for this tank for the EU server were also handed out by Wargaming at Tankfest 2013 and HM Fest 2014 (in Hungary). R67 M3 LL  It's slightly better than a stock [[M3 Stuart]], but inferior to one that's been fully upgraded. R67 M3 LL  Even so, don't underestimate this tank, as it still has decent top speed and a fast-firing cannon. R67 M3 LL 
+
+|Gallery=
+
+image:M3_Stuart_Lend_Lease_001. R67 M3 LL jpg{{!}}M3_Stuart_Lend_Lease_001
+image:M3_Stuart_Lend_Lease_002. R67 M3 LL jpg{{!}}M3_Stuart_Lend_Lease_002
+image:M3_Stuart_Lend_Lease_003. R67 M3 LL jpg{{!}}M3_Stuart_Lend_Lease_003
+image:M3_Stuart_Lend_Lease_004. R67 M3 LL jpg{{!}}M3_Stuart_Lend_Lease_004
+
+|InTheGame_pros=
+* Excellent top speed
+* Good turret traverse speed and elevation arc
+* Good rate of fire
+* Very good frontal armor for light tank, immune to most machineguns and autocannons (except weak spots like driver's hatch)
+* Preferential matchmaking, never sees tier 5 tanks; Makes good amount of credits (for a tier 3 premium)
+
+|InTheGame_cons=
+* Poor damage and penetration
+* Poor view and signal range
+* Inferior to the regular M3 Stuart in penetration and mobility
+
+|InTheGame_performance=
+The short signal range and poor view range makes it less beneficial as a scout than it otherwise could be. R67 M3 LL   However, it is a effective flanker, and it has a fast firing cannon but low penetration, so shooting at the sides of enemy tanks is a must. R67 M3 LL 
+
+|InTheGame_equipment=
+Vents, Enhanced Gun Laying Drive, Coated Optics, Toolbox
+
+|History=
+From the summer of 1942, when enough US medium tanks had been received, the British usually kept Stuarts out of tank-to-tank combat, using them primarily for reconnaissance. R67 M3 LL  The turret was removed from some examples to save weight and improve speed and range. R67 M3 LL  These became known as "Stuart Recce". R67 M3 LL  Some others were converted to armored personnel carriers and were known as "Stuart Kangaroo", and some were converted command vehicles and known as "Stuart Command". R67 M3 LL  M3s, M3A3s, and M5s continued in British service until the end of the war, but British units had a smaller proportion of these light tanks than US units. R67 M3 LL  The other major Lend-Lease recipient of the M3, the Soviet Union, was even less happy with the tank, considering it undergunned, underarmored, likely to catch fire, and too sensitive to fuel quality. R67 M3 LL  The narrow tracks were highly unsuited to operation in winter conditions, as they resulted in high ground pressures under which the tank sank into the snow. R67 M3 LL  Further, the M3's radial aircraft engine required high-octane fuel, which complicated Soviet logistics as most of their tanks used diesel. R67 M3 LL  However, the M3 was superior to early-war Soviet light tanks such as the T-60, which were often underpowered and possessed even lighter armament than the Stuart. R67 M3 LL  In 1943, the Red Army tried out the M5 and decided that the upgraded design was not much better than the M3. R67 M3 LL  Being less desperate than in 1941, the Soviets turned down an American offer to supply the M5. R67 M3 LL  M3s continued in Red Army service at least until 1944. R67 M3 LL 
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

@@ -1,0 +1,45 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Best standard penetration in tier/class
+* Great gun depression and elevation
+* Great speed, acceleration and mobility
+* Excellent camouflage
+* A very small tank, can make use of most cover with ease
+
+|InTheGame_cons= 
+
+* Very poor DPM
+* Very low ammo capacity
+* Low penetration increase with premium ammunition
+* Limited viewrange for a passive spotter
+* Extremely vulnerable to ramming and HE damage
+
+|InTheGame_performance= 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=  
+
+|HistoricalGallery= 
+
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

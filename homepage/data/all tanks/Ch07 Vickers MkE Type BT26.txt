@@ -1,0 +1,91 @@
+{{TankData|Tank=Ch07_Vickers_MkE_Type_BT26
+| An imported Vickers tank from the British, the Mk. Ch07 Vickers MkE Type BT26  E has worse handling than its tier 2 counterparts of other nations, but it can equip excellent guns. Ch07 Vickers MkE Type BT26  It may be difficult to appreciate due the poor accuracy, yet the Vickers is deadly at close ranges where its gun can easily penetrate any tank it gets to face and cause destruction faster than the rest. Ch07 Vickers MkE Type BT26  When upgraded to the second turret, it technically becomes a [[T-26]]. Ch07 Vickers MkE Type BT26  
+
+|InTheGame_pros= 
+- Has powerful guns for its tier, Doesn't really fear tier 3 tanks
+
+- Very good traverse similar to the [[T-26]]
+
+- 40 mm pom-pom gun can easily kill many tier II tanks really fast
+
+- Vickers cannon with HE shells can devastate thinner armors
+
+|InTheGame_cons= 
+- Unresponsive at high speeds, Slow acceleration 
+
+- Weak hull armor, avoiding HE and autocannon shells is really important
+
+- Terrible accuracy on all guns
+
+- Somewhat easy to getting module damage
+
+- Doesn't shared any modules to the next tier
+
+ 
+
+|InTheGame_performance=
+This vehicle plays much like a T-26, and is in fact the vehicle the T-26 was based off of. Ch07 Vickers MkE Type BT26  The 40mm Pom-Pom will devastate tanks at this tier with ease. Ch07 Vickers MkE Type BT26  The Gun 45mm 20K is an effective tank-killer as well, and will do in a pinch. Ch07 Vickers MkE Type BT26  Stay in the back- your thin armor will do nothing to stop anything at this tier. Ch07 Vickers MkE Type BT26  Overall, if you have played the T-26, then you will be at home, and many skills learned here will apply to the T-26. Ch07 Vickers MkE Type BT26  
+
+Due to the Pom-Pom, it's natural to make a comparison with the [[Tank:GB58 Cruiser Mk III|Cruiser Mk. Ch07 Vickers MkE Type BT26  III]]. Ch07 Vickers MkE Type BT26  The Cruiser Mk. Ch07 Vickers MkE Type BT26  III is faster, more maneuverable, and has much faster turret traverse. Ch07 Vickers MkE Type BT26  The VAE benefits from having a much smaller profile than the Cruiser Mk. Ch07 Vickers MkE Type BT26  III and it has much stronger front turret armor when equipped with the T-26 turret. Ch07 Vickers MkE Type BT26  It also has slightly better accuracy. Ch07 Vickers MkE Type BT26 
+
+
+|InTheGame_research=
+* First, research the Franklin Engine. Ch07 Vickers MkE Type BT26 
+* Next, research the Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B Turret. Ch07 Vickers MkE Type BT26 
+* Research either the 45 mm 20K Gun or the 40 mm Pom Pom Gun, depending on your preference. Ch07 Vickers MkE Type BT26  The Pom Pom is generally the superior gun. Ch07 Vickers MkE Type BT26 
+* Now, research the T-26-2 Suspension. Ch07 Vickers MkE Type BT26 
+* Finally, research the gun you didn't already research. Ch07 Vickers MkE Type BT26 
+
+|InTheGame_equipment=Vents,Coated Optics
+
+
+|Gallery=
+
+
+|History=
+The Vickers 6-Ton Tank or Vickers Mark E was a British light tank designed as a private project at Vickers. Ch07 Vickers MkE Type BT26  It was not purchased by the British Army, but was picked up by a large number of foreign armed forces and was copied almost exactly by the Soviets as the T-26. Ch07 Vickers MkE Type BT26  It was also the direct predecessor of the Polish 7TP tank. Ch07 Vickers MkE Type BT26  By the start of World War II it was the second most common tank design in the world after the Renault FT. Ch07 Vickers MkE Type BT26 
+
+'''''History'''''
+
+The first Mark E was built in 1928 by a design team that included the famed tank designers John Valentine Carden and Vivian Loyd. Ch07 Vickers MkE Type BT26  The hull was made of riveted steel plates, 1 inch (25 mm) thick at the front and over most of the turrets, and about 3/4 inch (19 mm) thick on the rear of the hull. Ch07 Vickers MkE Type BT26  The power was provided by an Armstrong Siddeley Puma engine of 80–95 horsepower (60–70 kW) (depending on the version), which gave it a top speed of 22 mph (35 km/h) on roads. Ch07 Vickers MkE Type BT26 
+The suspension used two axles, each of which carried a two-wheel bogie to which a second set of bogies was connected with a leaf spring. Ch07 Vickers MkE Type BT26  Upward movement of either set of bogies would force the other down through the spring. Ch07 Vickers MkE Type BT26  This was considered to be a fairly good system and offered better than normal cross-country performance although it could not compare with the contemporary Christie suspension. Ch07 Vickers MkE Type BT26  High strength steel tracks gave over 3000 miles (5000 km) of life which was considerably better than most designs of the era. Ch07 Vickers MkE Type BT26 <br>
+
+The tank was built in two versions:
+*Type A with two turrets, each mounting a Vickers machine gun. Ch07 Vickers MkE Type BT26 
+*Type B with a single two-man turret mounting a single machine gun and a short-barreled 47 mm cannon OQF 3-pdr Gun. Ch07 Vickers MkE Type BT26 
+
+<br>The Type B proved to be a real innovation, it was found that the two-man turret dramatically increased the rate of fire of either weapon, while still allowing both to be fired at the same time. Ch07 Vickers MkE Type BT26  This design, which they referred to as a duplex mounting, became common on almost all tanks designed after the Mark E. Ch07 Vickers MkE Type BT26 
+
+<br>The British Army evaluated the Mark E, but rejected it, apparently due to questions about the reliability of the suspension. Ch07 Vickers MkE Type BT26  Vickers then started advertising the design to all buyers, and soon received a trickle of orders eventually including USSR, Greece, Poland, Bolivia, Siam, Finland, Portugal, China and Bulgaria. Ch07 Vickers MkE Type BT26  A Thai order was placed, but taken over by the British when the war started. Ch07 Vickers MkE Type BT26  Vickers built a total of 153 (the most common figure) Mark E's. Ch07 Vickers MkE Type BT26 
+
+<br>Experience with the Polish machines showed that the engine tended to overheat due to poor airflow over the air-cooled Puma engine. Ch07 Vickers MkE Type BT26  This was addressed by the addition of large air vents on either side of the hull. Ch07 Vickers MkE Type BT26  For a new Belgian order the design was modified to use the Rolls-Royce Phantom II water-cooled engine instead. Ch07 Vickers MkE Type BT26  This engine would not fit in the rear, and had to be mounted along the left side of the tank, requiring the turret to be moved to the right and rearward. Ch07 Vickers MkE Type BT26  One example of the resulting Mark F was tested by Belgium, but rejected. Ch07 Vickers MkE Type BT26  Nevertheless the new hull was used, with the older engine, in the sales to Finland and Siam. Ch07 Vickers MkE Type BT26 
+
+<br>The Mark E was also developed as a cargo vehicle, and purchased by the British Army in small numbers as artillery tractors to haul their large 60 pounder (127 mm) artillery guns. Ch07 Vickers MkE Type BT26  Twelve were ordered by the Army as the Dragon, Medium Mark IV', while China purchased 23 and India 18. Ch07 Vickers MkE Type BT26 
+
+<br>Poland was generally happy with the design, and purchased 50 and licensed it for local production. Ch07 Vickers MkE Type BT26  Modifying it with larger air intakes, their own machine gun, 360-degree Gundlach periscope. Ch07 Vickers MkE Type BT26 [1] and a Diesel engine, the design entered service as the 7TP. Ch07 Vickers MkE Type BT26  Only the original 38 entered service, 12 remained unassembled and later used for spares. Ch07 Vickers MkE Type BT26  Out of 38 original two-turreted tanks, 22 were later converted to single turret version with a modified turret and the 47 mm main gun (Type B standard). Ch07 Vickers MkE Type BT26 
+
+<br>The Soviets were also happy with the design and licensed it for production. Ch07 Vickers MkE Type BT26  However in their case local production started as the T-26, and eventually over 12,000 were built in various versions. Ch07 Vickers MkE Type BT26  The Soviet early twin-turret T-26s had 7. Ch07 Vickers MkE Type BT26 62 mm DT machine guns in each turret, or a mix of one machine gun turret and one 37 mm gun turret. Ch07 Vickers MkE Type BT26  Later, more common versions mounted a 45 mm gun and two DT machine guns. Ch07 Vickers MkE Type BT26  The final versions of the T-26 had welded construction and, eventually, sloped armor on the hull and turret. Ch07 Vickers MkE Type BT26  Because the T-26 was in such wide use and was a reliable platform, a variety of engineer vehicles were built on the chassis, including flamethrowers and bridgelayers. Ch07 Vickers MkE Type BT26  A novel radio-controlled demolition tank was built on the T-26 chassis also. Ch07 Vickers MkE Type BT26  During the Spanish Civil War the Soviet Union sent the T-26 to the Republican Army. Ch07 Vickers MkE Type BT26  The Italians, after suffering losses from Republican's T-26 during the battle of Guadalajara (1937), captured some of these tanks which served as a model for their M11/39 and M13/40 light/medium tanks. Ch07 Vickers MkE Type BT26 
+
+<br>In 1939, during the Soviet-Finnish Winter War, the Finnish armoured forces consisted of around thirty-two obsolete Renault FT-17 tanks, some Vickers-Carden-Lloyd Mk. Ch07 Vickers MkE Type BT26  IVs and Model 33s, which were equipped with machine guns, and 26 Vickers Armstrongs 6-ton tanks. Ch07 Vickers MkE Type BT26  The latter had been re-equipped with 37 mm Bofors AT-guns after the outbreak of the war. Ch07 Vickers MkE Type BT26  Only 13 of these tanks managed to get to the front in time to participate in the battles. Ch07 Vickers MkE Type BT26 
+
+<br>At the Battle of Honkaniemi on February 26, 1940, the Finns employed their Vickers tanks for the first - and only - time against Russian armour during the Winter War. Ch07 Vickers MkE Type BT26  The results were disastrous. Ch07 Vickers MkE Type BT26  Of the thirteen available Finnish Vickers 6-ton tanks only six were in fighting condition and able to participate in the first assault on the Soviet lines - to make matters worse, one of the tanks was forced to stop, unable to cross a wide trench. Ch07 Vickers MkE Type BT26  The remaining five continued onwards a few hundred meters but ran into dozens of Soviet tanks in the village of Honkaniemi. Ch07 Vickers MkE Type BT26  The Finnish tanks managed to knock out three Soviet tanks but were soon themselves knocked-out. Ch07 Vickers MkE Type BT26  In the skirmishes that followed, the Finns lost two more Vickers tanks. Ch07 Vickers MkE Type BT26 [4]
+In 1941, the Finns rearmed their Vickers 6-Ton tanks with the Soviet 45 mm gun and re-designated them as T-26E. Ch07 Vickers MkE Type BT26  These tanks were used by the Finnish Army during the Continuation War. Ch07 Vickers MkE Type BT26  19 rebuilt Vickers tanks, along with 75 T-26s continued in Finnish service after the end of the Second World War. Ch07 Vickers MkE Type BT26  Some of these tanks were kept as training tanks until 1959, when they were finally phased out and replaced by newer British and Soviet tanks. Ch07 Vickers MkE Type BT26 
+<br>Republic of China used 20 single-turret tanks Vickers Mk. Ch07 Vickers MkE Type BT26 E Type B. Ch07 Vickers MkE Type BT26  They were used in combat against the Japanese in Shanghai in 1937. Ch07 Vickers MkE Type BT26 
+
+|HistAcc=
+This tank was only used by Chinese Nationalists, yet it has Communist Chinese roundels. Ch07 Vickers MkE Type BT26  The People's Liberation Army did not officially exist until 1945, by then the Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B tanks in Nationalist service were already destroyed or captured by the Japanese. Ch07 Vickers MkE Type BT26  The Republic of China roundels can be found under military emblems, but at the cost of gold. Ch07 Vickers MkE Type BT26 
+
+|HistoricalGallery=
+image:Vickers_cross. Ch07 Vickers MkE Type BT26 gif{{!}}Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B Section
+image:Vickers6ton_front. Ch07 Vickers MkE Type BT26 JPG{{!}}Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B
+image:Vickers Mk E Type B. Ch07 Vickers MkE Type BT26 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+[[https://en. Ch07 Vickers MkE Type BT26 wikipedia. Ch07 Vickers MkE Type BT26 org/wiki/Vickers_6-Ton Wikipedia]]
+
+|Ref_links=
+
+}}

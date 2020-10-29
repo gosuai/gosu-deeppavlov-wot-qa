@@ -1,0 +1,100 @@
+{{TankData|Tank= 
+| Also known as ''"Oni-chan"'' (thanks to anime influence), The O-Ni represents a fairly significant change in attributes from the previous O-I from its design layout being taller, bigger and having tougher armor in the front all while having an added perk of being quite a lot lighter (100 tons compared to 150 tons O-I). J28 O I 100  
+
+It has to contend with the added weak points of its frontal turrets and the corner cheeks due to its armor layout. J28 O I 100  This makes angling and side-scrapping much less effective compared to its predecessor. J28 O I 100  It also sports some of the worst camo values in the game and speed in which, combined with its massive size, make it an easy target for SPG fire and spotters. J28 O I 100  On the other hand, its frontal armor and guns remain impressive for its tier and also has the largest HP pool out of any Tier VII. J28 O I 100  It has a very distinctive look that resembles some sort of battleship, in particular from the front. J28 O I 100 
+
+While it still retains its predecessor's  15cm derp cannon, the O-Ni has a slightly improved reloading time. J28 O I 100  The O-Ni also gains the ability to use the improved experimental 10cm gun which can easily devastate most tanks you will face in battle with its faster reload. J28 O I 100  The O-Ni is best played as a second-line support tank that provides fire support while surrounded with cover as to protect its huge weak side & rear armor. J28 O I 100  
+
+|Gallery=
+
+File:O-Ni scr 1. J28 O I 100 jpg
+File:O-Ni scr 2. J28 O I 100 jpg
+File:O-Ni scr 3. J28 O I 100 jpg
+
+
+|InTheGame_pros= 
+- Very durable and tough frontal armor and has the highest HP pool in its tier (1550). J28 O I 100 
+
+- Choice of two viable guns; the 15cm derp carried from O-I with huge alpha damage or 10cm gun with higher penetration, DPM & ROF. J28 O I 100 
+
+- Strong, tall main turret paired with great gun depression (-9) is decent for hull down, can easily shoot over covers and allied tanks. J28 O I 100 
+
+- Surprisingly good engine power to weight ratio results in good acceleration & decent speed for its size (23 km/h avg), great for ramming. J28 O I 100 
+
+- Great view range for its tier. J28 O I 100 
+
+- Easy stock grind as most modules except the improved exp 10cm and tracks are carried over from O-I, doesn't have additional turret to research and doesn't need tracks to equip modules apart from improved exp 10cm. J28 O I 100 
+
+|InTheGame_cons= 
+- Has a very tall side silhouette and sports one of the '''worst''' camouflage values out of all tanks in the entire game, it is easily spotted and difficult to hide and maneuver due to its massive size. J28 O I 100 
+
+- O-Ni is an absolute artillery and gold magnet. J28 O I 100  It also attracts one of the most attention from the enemy team. J28 O I 100 
+
+- Mobility is hampered by low speed limit, agility is also pathetic. J28 O I 100 
+
+- Large flat armor all-round. J28 O I 100  Very weak and huge side armor combined with mini-turrets & cheek weakspots makes armor unreliable, especially when angled. J28 O I 100 
+
+- 15cm gun still has poor accuracy, aim time, and DPM. J28 O I 100  Both 10cm's gun accuracy is subpar. J28 O I 100 
+
+- Ammo rack is large and easily damaged. J28 O I 100 
+
+
+
+|InTheGame_performance=  The O-Ni is the next step towards the end of the Japanese Heavy tank Line. J28 O I 100  Having the most hit points at tier 7 (1550 hit points), it can take a lot of punishment and still fight back. J28 O I 100  The choice of two top guns is the same as it's predecessor, the O-I, with a small increase in accuracy & rate of fire. J28 O I 100  Much like all Japanese Heavies, the O-Ni feels right at home in the city, where it can use cover to hide its numerous weak spots and safely complete long reloads. J28 O I 100  However,  extreme care is needed when side-scraping as the side armor is thin and easily penetrated when over-angled, especially at the drive wheel. J28 O I 100  On top of that, the hull has angled "cheeks" which further inhibit the ability to side-scrape as angling will decrease their angle. J28 O I 100  Not only are the mini-turrets weak spots, but they also get in the way of the O-Ni's 10 degrees of gun depression, decreasing it to 9 degrees when aiming directly above them. J28 O I 100  
+
+
+In regards to its cannons, the 15cm derp gun is a finicky gun, it has amazing damage potential against lower tiers, but is less effective against more properly armored higher tier opponents. J28 O I 100  It also has absolutely atrocious ability to snapshot - you can easily miss enemies completely from a close distance unless you wait (a long time) for the reticle to shrink completely. J28 O I 100  If you want a faster reloading gun with consistent DPM, ROF, and good penetration, the 10cm experimental gun is for you. J28 O I 100  Mobility should be kept in mind as O-Ni is very slow, therefore good planning of location and travel should be utilized as to not be left out. J28 O I 100 
+
+Depending on the maps, team composition, and gun/cannon of choice, O-Ni can be easily played either as a frontline brawler or a conservative supporting tank, in that sense, it makes O-Ni a pretty interesting tank to play as it can play the role of a supporter, sniper, brawler and a huge meat shield very well, it all depends on an individuals playstyle on how they choose to play this tank. J28 O I 100 
+
+In the hand of a skilled & knowledgeable player, the O-Ni can be a highly vicious tank to use/battle against. J28 O I 100  It often surprises in performance at times. J28 O I 100    
+
+|InTheGame_research= Once you have acquired the O-Ni, you can mount the upgraded engine, second radio and 15cm derp inherited from the O-I. J28 O I 100  Next research the tracks to increase payload and traverse speed. J28 O I 100  Keep in mind you cannot fit the top 10cm experimental gun with the stock suspension along with the upgraded engine and radio. J28 O I 100  Research the top radio to boost signal range and finally work your way for the upgraded 10cm exp gun. J28 O I 100 
+
+|InTheGame_equipment=
+Vents, Spall Liner, Tank Gun Rammer, Wet Ammo rack, Coated Optics
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+N/A - '''the O-Ni never existed. J28 O I 100 '''
+
+The "O-Ni" is based on misconceptions of the O-I super-heavy tank. J28 O I 100  Post-war speculations about the mysterious O-I resulted in that it was commonly accepted that there were at least two variants of the tank:
+
+* 100 ton O-I, 3 turrets, built in 1941-1943 (known in-game as "O-Ni")
+* 120 ton O-I, 4 turrets, built in 1944 and shipped to Manchuria. J28 O I 100  (known in-game as "O-Ho")
+
+The 100 ton O-I supposedly mounted a 105 mm gun on it's main turret and have mini-turrets on front. J28 O I 100 
+
+However, with more information now available to the public, it is known that '''all of this is false, and that there is only one version of the O-I - the ~ 150 ton O-I with a 15 cm howitzer''' (with the prototype being "only" 97 tons, as it lacked turrets, main armament and additional 75 mm armor plates). J28 O I 100  
+
+The design of the 100 ton O-I is based on a very early sketch of the O-I. J28 O I 100  The speculations in return are based on an inaccurate description of the O-I. J28 O I 100  The weight for example comes from the incomplete prototype, which was just below 100 tons. J28 O I 100  The 100 ton O-I was said to have between 150 - 175 mm of armor and a 105 mm gun (which is likely results of mistranslation or -spelling of the 150 mm gun). J28 O I 100  
+
+|HistAcc=
+
+* O-Ni is based on the drawings from the book “Imperial Japanese Army Ground Weapon Guide 1872-1945”; those drawings in return are based on a very early sketch of the O-I super-heavy tank, combined together with false information and rumors like the usage of 10 cm Type 92 gun. J28 O I 100  As the drawings of "O-I 100t" are a very inaccurate representation of the O-I, it is safe to say that the O-Ni, the way it is in-game, never existed, not even as a project. J28 O I 100 
+* In-game name is incorrect. J28 O I 100  The name "O-Ni" means "fourth (super) heavy tank". J28 O I 100  There is however no third super-heavy design, as the O-I was the first design, and Type 4/5 Heavies, if they existed, were the 2nd and last design. J28 O I 100  If the O-Ni actually existed, a more realistic designation would be "O-I II" (as the both O-I 100t and O-I 120t (O-Ho) are based on designs that were earlier designs than the Type 4/5, they most likely would have been referred to as "alternate" designs to the O-I - O-I 100t and O-I 120t as O-I II and O-I III, respectively). J28 O I 100 
+
+|HistoricalGallery= 
+File:O-I 100. J28 O I 100 jpg{{!}}Very early sketch of the O-I super-heavy tank. J28 O I 100  The inaccurate represations which the O-Ni is based on are most likely based on this sketch. J28 O I 100  Note the suspension design, turret locations and hull shape, which show similarities with the O-Ni. J28 O I 100 
+File:O-Ni_size_comparison. J28 O I 100 jpeg{{!}}One of the drawings that represents "O-I 100 t", compared to other tanks. J28 O I 100  The drawings are based on the early sketch of the O-I combined with large amount of inaccurate information. J28 O I 100  The "O-Ni" is based on these drawings. J28 O I 100 
+File:Type_92_105_mm_cannon. J28 O I 100 jpg{{!}}The Type 92 105mm cannon
+File:O-Ni_drawing. J28 O I 100 jpg{{!}}Another drawing of the "O-I 100t"
+File:O-I_pict_1. J28 O I 100 jpg{{!}}Another drawing of the "O-I 100t"
+File:10_cm_experimental_tank_gun. J28 O I 100 jpg{{!}}The 10cm experimental tank gun
+
+|Ref_references=
+
+|Ref_sources=
+* “Japanese Tanks” Hara no Tomio 1978. J28 O I 100  日本の戦車　原乙未生
+* “Tank and Tank Battles” 2012 戦車と戦車戦
+* “Imperial Japanese Army Ground Weapon Guide 1872-1945” 1997帝国陸軍陸戦兵器ガイド　1872-1945
+* “Pacific War Secrets: All Japanese Secret Weapons” 2008 太平洋戦争秘録　日本・秘密兵器大全
+* “Japanese Ground Cannons: Heavy Field Cannons” Sayama Jiro 2012 日本陸軍の火砲　野戦重砲
+
+|Ref_links=
+* https://ftr. J28 O I 100 wot-news. J28 O I 100 com/2013/11/19/superheavy-japanese-tanks/
+
+}}

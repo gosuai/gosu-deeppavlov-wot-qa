@@ -1,0 +1,392 @@
+{{TankData|Tank=M4_Sherman
+|This was the U. A05 M4 Sherman S. A05 M4 Sherman  Army's best-known tank of WWII. A05 M4 Sherman  In WoT, the M4 Sherman is considered a very well rounded tank. A05 M4 Sherman   It has good mobility and speed, and the armor, when manually angled, provides moderate shielding. A05 M4 Sherman  The most popular gun for this tank is the 105 mm M4. A05 M4 Sherman  It offers great damage, but sacrifices penetration. A05 M4 Sherman  However, with a 100% crew, Improved Ventilation, and a Gun Rammer, the reload speed can go down to 7. A05 M4 Sherman 50s and under, providing high damage per minute, especially when keeping an enemy tracked with HE to the tracks, a highly effective way to eliminate high HP enemies. A05 M4 Sherman  The other "best" gun is the less popular 76 mm M1A1. A05 M4 Sherman  This gun offers much better penetration, but loses 400+ alpha damage if a 105mm HE shell would penetrate, or 350 damage for a penetrating HEAT round. A05 M4 Sherman  The M1A1 is a better sniping gun and is much more reliable in its DPM when used correctly. A05 M4 Sherman 
+
+|Sidebar_Camostop=12. A05 M4 Sherman 9
+|Sidebar_Camomove=9. A05 M4 Sherman 7
+|Sidebar_Camofire=3. A05 M4 Sherman 1
+|Sidebar_Passhard=0. A05 M4 Sherman 959
+|Sidebar_Passmed=1. A05 M4 Sherman 055
+|Sidebar_Passsoft=1. A05 M4 Sherman 63
+|Sidebar_DispTurret=0. A05 M4 Sherman 173
+|Sidebar_DispRecoil=3. A05 M4 Sherman 836
+|Sidebar_DispAccel=0. A05 M4 Sherman 23
+|Sidebar_DispTurning=0. A05 M4 Sherman 23
+
+|InTheGame_pros=
+* Good selection of high-damage cannons: the 76mm Gun M1A1 and the 105mm Howitzer M4
+* 76mm M1A1 has the 3rd highest AP penetration of any tier 5 medium gun
+* 105mm howitzer has very good alpha with HE, and can be very deadly with HEAT rounds when flanking distracted enemies 
+       (especially mediums)
+* Exceptional gun depression
+* Best View Range among the Tier V mediums and also high radio range
+
+
+
+|InTheGame_cons=
+* Only the gun mantlet is bouncy, armor is generally unreliable
+* Tall silhouette, easily spotted due to bad camo rating
+* Weak all around armor albeit sloped front
+* Terrible dispersion and accuracy on all guns
+* Absolutely dreadful when stock in almost every way, makes for a terrible initial grind
+
+|InTheGame_performance=
+The M4 Sherman is considered a very well rounded tank like the [[T-34]] or [[Pz. A05 M4 Sherman Kpfw. A05 M4 Sherman  IV|Pz. A05 M4 Sherman  IV H]], and is often considered one of the best, if not the best, Tier V medium. A05 M4 Sherman  Its hull armor is a bit lacking and will most likely be penetrated by other tanks of its tier. A05 M4 Sherman  However, it is not hopelessly thin; many lower-tier tanks will have a difficult time punching through the front armor. A05 M4 Sherman  Its speed and maneuverability are average. A05 M4 Sherman  Overall this tank is the Jack of All Trades of tier 5, and offers great guns for its tier. A05 M4 Sherman  Due to its great gun depression it can fight on hills and use terrain features much more effectively than its counterparts, which is a compensation for its weak armor. A05 M4 Sherman   By only exposing its strong frontal turret it can consistently damage enemies while bouncing shots itself. A05 M4 Sherman  
+
+Depending on the gun equipped, the tank may need to change tactics to match. A05 M4 Sherman  The stock 75mm Gun M3 has decent handling (although somewhat less so than its German counterparts), and able to shred lower-tier tanks, especially light tanks. A05 M4 Sherman  However, its low penetration, an issue in WWII, remains so in World of Tanks. A05 M4 Sherman  Both of the Sherman's gun upgrades, the 105mm Howitzer M4 and the 76mm M1A1 are considerably more effective than the stock gun. A05 M4 Sherman  
+
+The 105mm Howitzer M4 is a very powerful, close-range gun capable of damaging many opponents, if not outright killing them. A05 M4 Sherman  While its has a long aim time, slow reload and low accuracy, the large HE charge in each shell will certainly one-shot many Tier IV vehicles, some Tier V tank destroyers and even Tier VII artillery. A05 M4 Sherman  Although it may not destroy many of the thinner-armored tank destroyers in one hit on account of their hitpoints, it is still capable of severely damaging them, such as Hellcats. A05 M4 Sherman  The large HE charge however, it largely ineffective against extremely heavy or spaced armor. A05 M4 Sherman  Even if minimal damage is done, it is still capable of damaging internal modules and knocking out crew easily. A05 M4 Sherman  It can also be fitted with the stock turret, easing the grind on the M4 considerably. A05 M4 Sherman  
+
+The 76 mm Gun M1A1 is also another powerful option. A05 M4 Sherman  While it may not have the raw power of the 105mm Howitzer M4, it possesses a very high-penetration gun capable of challenging most opponents. A05 M4 Sherman  It is far more consistent in terms of damage, and can fire extremely effective premium ammunition that can punch through the frontal armor of almost all tanks it will face. A05 M4 Sherman  In addition, with this gun mounted one will be able to carry a respectable amount of munition on board. A05 M4 Sherman  The HE round, while never as powerful as 105mm howitzer shells, is still suitable for situations where HE is desired. A05 M4 Sherman  However, it is less accurate than its Czech, German and Japanese counterparts, though still managable. A05 M4 Sherman  Therefore, medium range is optimal engagement range. A05 M4 Sherman  
+
+The tank is a versatile tank, able to be fitted for a variety of roles, and is an excellent tank for its tier. A05 M4 Sherman   However, like all mediums, the Sherman should advance from behind allied heavy tanks when possible, providing fire support or, when the situation allows it, flank distracted enemy heavies to cause confusion. A05 M4 Sherman  Sniping is also possible in some matches when equipped with the 76 mm Gun M1A1. A05 M4 Sherman  With the Sherman's excellent gun depression, it is highly recommended that Sherman's take a hull down position or try to find cover in matches. A05 M4 Sherman 
+
+
+|InTheGame_research=
+* Upon purchasing this tank, the only thing that carries over from the Lee is the SCR 506 radio. A05 M4 Sherman 
+* Generally, go for tracks, then gun (105mm M4, which doesn't require the next turret and stock turret has better armor), then engine, then radio, then turret. A05 M4 Sherman  If you want the M1A1, then research tracks, turret, M1A1 (gun), engine, and radio. A05 M4 Sherman  
+
+|InTheGame_equipment=
+Improved Ventilation,Tank Gun Rammer,Coated Optics, Enhanced Gun Laying Drive
+
+|Gallery=
+image:M4_Sherman_001. A05 M4 Sherman jpg 
+image:M4_Sherman_002. A05 M4 Sherman jpg
+image:M4_Sherman_003. A05 M4 Sherman jpg
+image:M4_Sherman_004. A05 M4 Sherman jpg
+
+|HistAcc=
+The Sherman depicted in World of Tanks is actually an M4A1, noticeable by the rounded cast hull. A05 M4 Sherman  The M4 variant had a [https://www. A05 M4 Sherman tamiya. A05 M4 Sherman com/english/products/32505sherman/top. A05 M4 Sherman jpg sloped welded hull]. A05 M4 Sherman 
+* The 105mm howitzer was only mounted on the M4 and M4A3 variants. A05 M4 Sherman  M4A1s were only armed with either the 75mm or 76mm gun. A05 M4 Sherman  The howitzer configuration on the M4A1 is fake. A05 M4 Sherman 
+* R-975C1 and R-975C4 engines are considerably more powerful than in reality, with 400 and 460 hp compared to the historical 350 and 400 respectively. A05 M4 Sherman 
+* The R-975EC2 engine was only fitted to the [[M3 Lee]]/[[Grant]]. A05 M4 Sherman  Its engine power is inconsistent with the same model found on the Lee/Grant. A05 M4 Sherman 
+* The M4 is the same tank as the [[M4A1 Revalorisé]], the French equivalent of the M4 armed with a 105 mm gun. A05 M4 Sherman  Yet the engine power, turret traverse, hull traverse and view range are inconsistent. A05 M4 Sherman 
+
+|History=
+{{VideoYT|ACqzevjK2DQ}}{{VideoYT|ld8UGWBdU5E}}
+[[image:M4_Sherman_cutaway. A05 M4 Sherman jpg|thumb|200px|right|Cutaway Sherman showing transmission and driver seat]]
+The M4 Sherman, formally Medium Tank, M4, was the primary tank used by the United States during World War II. A05 M4 Sherman  Thousands were also distributed to the Allies, including the British Commonwealth and Soviet armies, via lend-lease. A05 M4 Sherman  In the United Kingdom, the M4 was named after Union General William Tecumseh Sherman, following the British practice of naming their American-built tanks after famous American Civil War generals. A05 M4 Sherman  Subsequently, the British name found its way into common use in the U. A05 M4 Sherman S. A05 M4 Sherman 
+
+The Sherman evolved from the Grant and Lee medium tanks, which had an unusual side-sponson mounted 75 mm gun. A05 M4 Sherman  It retained much of the previous mechanical design, but added the first American main 75 mm gun mounted on a fully traversing turret, with a gyrostabilizer enabling the crew to fire with reasonable accuracy while the tank was on the move. A05 M4 Sherman [4] The designers stressed mechanical reliability, ease of production and maintenance, durability, standardization of parts and ammunition in a limited number of variants, and moderate size and weight. A05 M4 Sherman  These factors made the Sherman superior in some regards, to the German light and medium tanks that had swept across Europe in the blitzkrieg campaigns of 1939-41, and which still made up the majority of German panzer (albeit, usually in up-gunned and up-armored variants) forces in the later stages of the war. A05 M4 Sherman  The Sherman ended up being produced in large numbers and formed the backbone of most Allied offensives, starting in late 1942. A05 M4 Sherman  The original Shermans were able to defeat the relatively small German tanks such as the Panzer II and III they faced when first deployed in North Africa. A05 M4 Sherman  Later, they found themselves seriously outmatched against newer up-gunned and up- armored Pz. A05 M4 Sherman Kpfw. A05 M4 Sherman  IV and Panther medium tanks, and wholly inadequate against the armor and range of the Tiger I and later Tiger II heavy tanks, suffering high casualties against their heavier armor and more powerful 88 mm and 75 mm cannons. A05 M4 Sherman  Mobility, mechanical reliability, and sheer numbers, supported by growing superiority in supporting fighter-bombers and artillery, offset these disadvantages to an extent. A05 M4 Sherman  Later versions of the Sherman introduced 76 mm guns, giving them better armor penetration than the original 75 mm gun, though still insufficient at range against most late-war German tanks. A05 M4 Sherman  Producing more Shermans was favored over rushing adoption of the heavier M26 Pershing, which was developed too late to play a significant role in the war. A05 M4 Sherman  In the Pacific Theater, the Sherman was used chiefly against Japanese infantry and fortifications; in their rare encounters with lighter Japanese tanks with weaker armor and guns, the Sherman's superiority was overwhelming. A05 M4 Sherman 
+
+[[image:M4_Sherman_M4A1_on_Panzermuseum_Munster. A05 M4 Sherman jpg|thumb|200px|right|M4A1 with cast hull]]
+Production of the M4 exceeded 50,000 units, and its chassis served as the basis for numerous other armored vehicles such as tank destroyers, tank retrievers, and self-propelled artillery. A05 M4 Sherman  Only Mikhail Koshkin's design of the Soviet T-34 tank was ultimately produced in larger numbers during World War II. A05 M4 Sherman  Many German generals and many historians considered the T-34 the best tank of the war,[5] but even so, the Russians recognized the Sherman's particular advantages when they used them in certain niche situations. A05 M4 Sherman [6]
+
+The Sherman would finally give way to post-war tanks developed from the M26. A05 M4 Sherman  Various original and updated versions of the Sherman would continue to see combat effectively in many later conflicts, including the Korean War, the Arab-Israeli Wars, and Indo-Pakistani Wars into the late 20th century, against the T-34, and sometimes much more contemporary Soviet tanks. A05 M4 Sherman [7]
+
+== U. A05 M4 Sherman S. A05 M4 Sherman  design prototype ==
+[[image:M4_Sherman_Dresden. A05 M4 Sherman jpg|thumb|200px|right|M4 and M4A1 (shown), the first Shermans, share the inverted U backplate and inherited their engine and exhaust system from the earlier M3 Lee. A05 M4 Sherman ]]
+The U. A05 M4 Sherman S. A05 M4 Sherman  Army Ordnance Department designed the Medium Tank M4 as a replacement for the M3 Lee and Grant Medium Tanks. A05 M4 Sherman  The M3 was an up-gunned development of the M2 Medium Tank of 1939, itself derived from the M2 Light Tank of 1935. A05 M4 Sherman  The M3 was developed as a stopgap measure until a new turret mounting a 75 mm gun could be devised. A05 M4 Sherman  While it was a big improvement when tried by the British in Africa against early German panzers, the placement of a 37 mm gun turret on top gave it a very high profile, and the unusual inflexible side-sponson mounted main gun could not be aimed across the other side of the tank. A05 M4 Sherman 
+
+Detailed design characteristics for the M4 were submitted by the Ordnance Department on 31 August 1940, but development of a prototype had to be delayed while the final production designs of the M3 were finished and the M3 entered full-scale production. A05 M4 Sherman  On 18 April 1941, the U. A05 M4 Sherman S. A05 M4 Sherman  Armored Force Board chose the simplest of five designs. A05 M4 Sherman  Known as the T6, the design was a modified M3 hull and chassis, carrying a newly designed turret mounting the Lee's main gun. A05 M4 Sherman  This became the Sherman. A05 M4 Sherman [8]
+
+The Sherman's reliability benefited from many features first developed in U. A05 M4 Sherman S. A05 M4 Sherman  light tanks during the 1930s, including vertical volute spring suspension, rubber-bushed tracks, and rear-mounted radial engine with drive sprockets in front. A05 M4 Sherman  The designated goals were to produce a fast, dependable medium tank able to support infantry, provide breakthrough striking capacity, and defeat any tank then in use by the Axis nations, though it would later fall short against the much larger tanks eventually deployed by Germany. A05 M4 Sherman 
+
+The T6 prototype was completed 2 September 1941. A05 M4 Sherman  Unlike later M4s, the hull was cast and had a side hatch, which was eliminated from production models. A05 M4 Sherman  The T6 was standardized as the M4 and production began in October. A05 M4 Sherman [9]
+
+== Doctrine ==
+As the US approached entry in WWII, armored employment was doctrinally governed by FM 100-5 Operations (published May 1941, the month following selection of the M4 tank's final design). A05 M4 Sherman  That FM stated that: "The armored division is organized primarily to perform missions that require great mobility and firepower. A05 M4 Sherman  It is given decisive missions. A05 M4 Sherman  It is capable of engaging in all forms of combat, but its primary role is in offensive operations against hostile rear areas. A05 M4 Sherman "[10] In other words, the M4 was envisioned to primarily fill the role of a cruiser tank, although the US Army did not use that doctrinal term. A05 M4 Sherman  The M4 was not primarily intended as an infantry support tank; in fact, FM 100-5 specifically stated the opposite. A05 M4 Sherman  It placed tanks in the "striking echelon" of the armored division, and placed the infantry in the "support echelon". A05 M4 Sherman  Neither was the M4 primarily intended for tank versus tank action. A05 M4 Sherman  Doctrinally, anti-tank engagements were the primary role of tank destroyers. A05 M4 Sherman  The field manual covering the use of the Sherman (FM 17-33, "The Tank Battalion, Light and Medium" of September 1942) devoted one page of text and four diagrams to tank versus tank action (out of 142 pages). A05 M4 Sherman [11] This early armored doctrine was heavily influenced by the sweeping initial successes of the German blitzkrieg tactics. A05 M4 Sherman  Unfortunately, by the time M4s reached combat in significant numbers, battlefield demands for infantry support and tank versus tank action far outnumbered the occasional opportunities for cruiser tanks. A05 M4 Sherman 
+
+Although envisioned primarily as a cruiser-type tank, US doctrine did also contemplate the M4's use in other roles. A05 M4 Sherman  Unlike some other nations, which had separate medium tank designs tailored specifically for anti-tank roles (e. A05 M4 Sherman g. A05 M4 Sherman , the German PzKw III) and support roles (the PzKw IV), the US intended the M4 to fulfill all roles. A05 M4 Sherman  Although not optimized for tank versus tank engagements or infantry support, the M4 was capable of performing these missions to varying degrees. A05 M4 Sherman  In the Pacific Theater, the Sherman was used chiefly against Japanese infantry and fortifications; in their rare encounters with lighter Japanese tanks with weaker armor and guns, the Shermans were superior. A05 M4 Sherman 
+
+== U. A05 M4 Sherman S. A05 M4 Sherman  production history ==
+''See also:'' [[https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/American_armored_fighting_vehicle_production_during_World_War_II ''American armored fighting vehicle production during World War II'']]
+
+[[image:M4_Sherman_tank_at_the_Imperial_War_Musuem. A05 M4 Sherman jpg|thumb|300px|right|This M4A4 has extra armor plates in front of crew hatches. A05 M4 Sherman ]]
+The first production began with the Lima Locomotive Works on the assembly line set for tanks for British use. A05 M4 Sherman  The first production Sherman was given over to the US Army for evaluation and it was the second tank of the British order that went to London. A05 M4 Sherman  Named Michael probably after Michael Dewar, head of the British Tank mission in the US, it was displayed in London and is now an exhibit at Bovington tank Museum[12][13]
+
+In World War II, the U. A05 M4 Sherman S. A05 M4 Sherman  Army ultimately fielded 16 armored divisions, along with 70 independent tank battalions. A05 M4 Sherman  A third of all U. A05 M4 Sherman S. A05 M4 Sherman  Army tank battalions, and all six U. A05 M4 Sherman S. A05 M4 Sherman  Marine Corps tank battalions, were deployed to the Pacific Theater of Operations (PTO). A05 M4 Sherman [14] However, prior to September 1942, President Franklin D. A05 M4 Sherman  Roosevelt had announced a production program calling for 120,000 tanks for the Allied war effort, which would have created 61 armored divisions. A05 M4 Sherman  Although the American industrial complex was not affected by enemy aerial bombing nor submarine warfare as was Japan, Germany and, to a lesser degree, Great Britain, the enormous drain of steel for tank production had been diverted to warships and other naval vessels. A05 M4 Sherman [15] The use of steel for naval construction amounted to the equivalent of approximately 67,000 tanks: consequently, only about 53,500 tanks were produced during 1942 and 1943. A05 M4 Sherman [16]
+
+The U. A05 M4 Sherman S. A05 M4 Sherman  Army had seven main sub-designations for M4 variants during production: M4, M4A1, M4A2, M4A3, M4A4, M4A5, and M4A6. A05 M4 Sherman  These designations did not necessarily indicate linear improvement: for example, A4 was not meant to indicate it was better than the A3. A05 M4 Sherman  These sub-types indicated standardized production variations, which were in fact, often manufactured concurrently at different locations. A05 M4 Sherman  The sub-types differed mainly in engines, although the M4A1 differed from the M4 by its fully-cast upper hull; the M4A4 had a longer engine system that required a longer hull, a longer suspension system and more track blocks. A05 M4 Sherman  The M4A5 was an administrative placeholder for Canadian production, and the M4A6 had an elongated chassis, but fewer than 100 of these were produced. A05 M4 Sherman 
+
+While most Shermans ran on gasoline, the M4A2 and M4A6 had diesel engines: the M4A2 with a pair of GMC 6-71 straight six engines,[17] the M4A6 a Caterpillar RD1820 radial. A05 M4 Sherman [18] These, plus the M4A4, which used the Chrysler A57 multibank engine, were mostly supplied to Allied countries under Lend-Lease. A05 M4 Sherman [19] "M4" can refer specifically to the initial sub-type with its Continental radial engine, or generically, to the entire family of seven Sherman sub-types, depending on context. A05 M4 Sherman  Many details of production, shape, strength and performance improved throughout production, without a change to the tank's basic model number; more durable suspension units, safer "wet" (W) ammunition stowage, and stronger armor arrangements, such as the M4 Composite, which had a cast front hull section mated to a welded rear hull. A05 M4 Sherman  British nomenclature differed from that employed by the U. A05 M4 Sherman S. A05 M4 Sherman 
+
+A 24-volt electrical system was used in the M4. A05 M4 Sherman [3]
+
+Early Shermans mounted a 75 mm medium-velocity general-purpose gun. A05 M4 Sherman  Although Ordnance began work on the Medium Tank T20 as a Sherman replacement, ultimately, the Army decided to minimize production disruption by incorporating elements of other tank designs into the Sherman. A05 M4 Sherman  Later M4A1, M4A2, and M4A3 models received the larger T23 turret with a high-velocity 76 mm M1 gun, which reduced the number of HE and smoke rounds carried and increased the number of anti-tank rounds. A05 M4 Sherman  Later, the M4 and M4A3 were factory-produced with a 105 mm howitzer and a new distinctive mantlet in the original turret. A05 M4 Sherman  The first standard-production 76 mm gun Sherman was an M4A1, accepted in January 1944, and the first standard-production 105 mm howitzer Sherman was an M4 accepted in February 1944. A05 M4 Sherman 
+
+[[image:M4_Sherman_M4A4_cutaway. A05 M4 Sherman svg. A05 M4 Sherman png|thumb|200px|right|M4A4 Cutaway]]
+In June–July 1944, the Army accepted a limited run of 254 M4A3E2 Jumbo Shermans, which had very thick armor, and the 75 mm gun in a new, heavier T23-style turret, in order to assault fortifications. A05 M4 Sherman  The M4A3 was the first to be factory-produced with the HVSS (horizontal volute spring suspension) suspension with wider tracks to distribute weight, and the smooth ride of the HVSS with its experimental E8 designation, which led to the nickname "Easy Eight" for Shermans so equipped. A05 M4 Sherman  Both the Americans and the British developed a wide array of special attachments for the Sherman; few saw combat, and most remained experimental. A05 M4 Sherman  Those that saw action included the bulldozer blade for the Sherman dozer tanks, Duplex Drive for "swimming" Sherman tanks, R3 flamethrower for Zippo flame tanks, and the T34 60-tube Calliope 4. A05 M4 Sherman 5" rocket launcher for the Sherman turret. A05 M4 Sherman  The British variants (DDs and mine flails) were among "Hobart's Funnies", named after their commander, Percy Hobart of the 79th Armoured Division. A05 M4 Sherman 
+The M4 Sherman's basic chassis was used for all the sundry roles of a modern mechanized force: roughly 50,000 Sherman tanks, plus thousands more derivative vehicles under different model numbers. A05 M4 Sherman  These included M32 and M74 "tow truck"-style recovery tanks with winches, booms, and an 81 mm mortar for smoke screens, M34 (from M32B1) and M35 (from M10A1) artillery prime movers, M7B1, M12, M40, and M43 self-propelled artillery, and the M10 Wolverine and M36 Jackson tank destroyers. A05 M4 Sherman 
+
+<table>
+<tr><td>1 - Lifting ring</td><td>16 - Single water pump</td></tr>
+<tr><td>2 - Ventilator</td><td>17 - Radiator</td></tr>
+<tr><td>3 - Turret hatch</td><td>18 - Generator</td></tr>
+<tr><td>4 - Periscope</td><td>19 - Rear propeller shaft</td></tr>
+<tr><td>5 - Turret hatch race</td><td>20 - Turret basket</td></tr>
+<tr><td>6 - Turret seat</td><td>21 - slip ring</td></tr>
+<tr><td>7 - Gunner's seat</td><td>22 - Front propeller shaft</td></tr>
+<tr><td>8 - Turret seat</td><td>23 - Suspension bogie</td></tr>
+<tr><td>9 - Turret</td><td>24 - Transmission</td></tr>
+<tr><td>10 - Air cleaner</td><td>25 - Main drive sprocket</td></tr>
+<tr><td>11 - Radiator filler cover</td><td>26 - Driver's seat</td></tr>
+<tr><td>12 - Air cleaner manifold</td><td>27 - Machine gunner's seat</td></tr>
+<tr><td>13 - Power unit</td><td>28 - 75 mm gun</td></tr>
+<tr><td>14 - Exhaust pipe</td><td>29 - Drivers hatch</td></tr>
+<tr><td>15 - Track idler</td><td>30 - M 1919A4 machine gun</td></tr>
+</table>
+
+[[image:M4_Sherman_red-beach. A05 M4 Sherman jpg |thumb|200px|right|First type in U. A05 M4 Sherman S. A05 M4 Sherman  service: A U. A05 M4 Sherman S. A05 M4 Sherman  7th Army M4A1 lands at Red Beach 2, Sicily on July 10, 1943 during the Allied invasion of Sicily. A05 M4 Sherman ]]
+[[image:M4_Sherman_8th_shrm. A05 M4 Sherman jpg|thumb|200px|right|M4A3E8 participating in a World War II victory parade has front armor flat against both crew hatches compared to others that protruded above sloping armor. A05 M4 Sherman ]]
+
+== Allocation ==
+:''See also:'' [[https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/Lend-Lease_Sherman_tanks ''Lend-Lease Sherman tanks'']]
+
+During World War II, approximately 19,247 M4 Shermans were issued to the US Army and about 1,114 to the US Marine Corps. A05 M4 Sherman [20] The U. A05 M4 Sherman S. A05 M4 Sherman  also supplied 17,184 to Great Britain, while the Soviet Union received 4,102[21] and an estimated 812 were transferred to China. A05 M4 Sherman [22] These numbers were distributed further to the respective countries' allied nations. A05 M4 Sherman 
+
+The U. A05 M4 Sherman S. A05 M4 Sherman  Marine Corps used the diesel M4A2 and gasoline-powered M4A3 in the Pacific. A05 M4 Sherman  However, the Chief of the Army's Armored Force, Lt. A05 M4 Sherman  Gen. A05 M4 Sherman  Jacob L. A05 M4 Sherman  Devers, ordered no diesel-engined Shermans be used by the Army outside the Zone of Interior (the continental U. A05 M4 Sherman S. A05 M4 Sherman ). A05 M4 Sherman  The Army used all types for either training or testing within the United States, but intended the M4A2 and M4A4 to be the primary Lend-Lease exports. A05 M4 Sherman 
+
+== First combat ==
+The Sherman was being issued in small numbers for familiarization to US armored Divisions when there was a turn of events in the Western Desert. A05 M4 Sherman  Rommel had taken Tobruk and Egypt (and the Suez Canal) was threatened. A05 M4 Sherman  The US considered collecting all Shermans together so as to be able to send the 2nd Armored Division under Patton to reinforce Egypt, but delivering the Shermans directly to the British was quicker and 300 had arrived there by September 1942. A05 M4 Sherman [12]
+
+The M4A1 Sherman first saw combat at the Second Battle of El Alamein in October 1942 with the British 8th Army. A05 M4 Sherman  The first U. A05 M4 Sherman S. A05 M4 Sherman  Shermans in battle were M4A1s in Operation Torch the next month. A05 M4 Sherman  At this time, Shermans successfully engaged German Panzer IIIs with long-barreled 50 mm L/60 guns, and Panzer IVs with short-barreled 75 mm L/24 guns. A05 M4 Sherman  Additional M4s and M4A1s replaced M3 Lees in U. A05 M4 Sherman S. A05 M4 Sherman  tank battalions over the course of the North African campaign. A05 M4 Sherman  The M4 and M4A1 were the main types in U. A05 M4 Sherman S. A05 M4 Sherman  units until late 1944, when the Army began replacing them with the preferred M4A3 with its more powerful 500 hp (370 kW) engine. A05 M4 Sherman  Some M4s and M4A1s continued in U. A05 M4 Sherman S. A05 M4 Sherman  service for the rest of the war. A05 M4 Sherman 
+
+Encounters with a company of Tiger Is, with their heavier armor and 88 mm L/56 guns, in Tunisia were typical of the mid-war period: the fearsome quality of a few German heavy tanks and their crews could be overcome by the quantity and mobility of the Shermans, supported by artillery and airpower, but sometimes at a great cost in U. A05 M4 Sherman S. A05 M4 Sherman  tanks and crewmen. A05 M4 Sherman  By June 1944, the Panzer IV had been up-gunned with a 75 mm L/48 weapon, and 75 mm Shermans were out-gunned on a regular basis. A05 M4 Sherman  The first Sherman to enter combat with the 76 mm gun in July 1944 was the M4A1, closely followed by the M4A3. A05 M4 Sherman  By the end of the war, half the U. A05 M4 Sherman S. A05 M4 Sherman  Army Shermans in Europe had the 76 mm gun. A05 M4 Sherman  The first HVSS Sherman to see combat was the M4A3E8(76)W in December 1944. A05 M4 Sherman 
+
+== European and Pacific Theaters ==
+[[image:M4_Sherman_tank-European_theatre. A05 M4 Sherman jpg |thumb|200px|right|M4 Shermans in the European Theater. A05 M4 Sherman ]]
+While combat in the European Theater of Operations (ETO) consisted of high-profile armored warfare, the mainly naval nature of the Pacific Theater of Operations (PTO) relegated it to secondary status for both the Allies and the Japanese. A05 M4 Sherman  While the US Army fielded 16 armored divisions and 70 independent tank battalions during the war, only a third of the battalions and none of the divisions were deployed to the Pacific Theater. A05 M4 Sherman [23] Indeed, even the Imperial Japanese Army (IJA) deployed only their 2nd Tank Division to the Pacific during the war. A05 M4 Sherman [24] The environment in which armor from both sides had to operate was generally described as tropical rain forests, which most armies simply classified as jungles. A05 M4 Sherman  For this type of terrain, the Japanese and the Allies found light tanks easier to transport, maneuver and employ. A05 M4 Sherman [25]
+During the early stages of combat in the Pacific, specifically the Guadalcanal Campaign, the US Marine Corps M2A4 light tank fought against the equally matched Type 95 Ha-Go light tank; both were armed with a 37 mm main gun, however the M2 (produced in 1940) was newer by five years. A05 M4 Sherman [26] By 1943, the IJA still used the Type 95 and Type 97 Chi-Ha medium tanks, while Allied forces were quickly replacing their light tanks with 75 mm-armed M4s. A05 M4 Sherman [27] The Chinese in India had received 100 M4 Shermans and used them to great effect in the subsequent 1943 and 1944 offensives. A05 M4 Sherman 
+
+Advanced tank designs, such as the IJA's 75 mm-armed Type 3 medium tanks, were saved for islands closer to the empire or for defense of the homeland itself. A05 M4 Sherman  Consequently, very few were deployed to the outlying extended islands, again leaving 1930s-vintage light and medium tanks to do battle against 1940s-built medium Allied armor. A05 M4 Sherman  During these latter years of the war, General Purpose High Explosive (HE) ammunition was preferred, because armor-piercing rounds, which had been designed for penetrating thicker steel, simply went through the thin armor of Japanese tanks, and often out the other side without stopping. A05 M4 Sherman  Although the high-velocity guns of the tank destroyers were useful for penetrating fortifications, M4s armed with flamethrowers were often deployed, as Japanese fortifications were seldom destroyed by direct cannon fire. A05 M4 Sherman [28][29]
+
+== Post-World War II ==
+
+[[image:M4_Sherman_korea. A05 M4 Sherman jpg|thumb|200px|right|Last type in US service: M4A3E8 Sherman used as artillery in firing position during the Korean War. A05 M4 Sherman ]]
+After World War II, the U. A05 M4 Sherman S. A05 M4 Sherman  kept the M4A3E8 Easy Eight in service with either the 76 mm gun or a 105 mm howitzer. A05 M4 Sherman  The Sherman remained a common U. A05 M4 Sherman S. A05 M4 Sherman  tank in the Korean War. A05 M4 Sherman  Despite no longer being the primary US tank, it fought alongside the M26 Pershing and M46 Patton. A05 M4 Sherman  The M4A3E8 outperformed the T-34/85 in Korea. A05 M4 Sherman  Both the Sherman and T-34 were comparable and could destroy each other when hit. A05 M4 Sherman  The Sherman, however, had the edge because of its better optics which gave it a better chance of scoring a first round hit. A05 M4 Sherman [30] The Army replaced them with Pattons during the 1950s. A05 M4 Sherman  The U. A05 M4 Sherman S. A05 M4 Sherman  continued to transfer Shermans to its allies, which contributed to widespread foreign use. A05 M4 Sherman 
+
+== Armament ==
+The gun on the original M4 was the short-barreled medium-velocity 75 mm M3 gun. A05 M4 Sherman  When the Sherman first saw combat in North Africa in late 1942 against the Panzer III and Panzer IV, its gun could penetrate the armor of these tanks at typical[clarification needed] combat ranges. A05 M4 Sherman [citation needed] U. A05 M4 Sherman S. A05 M4 Sherman  Army Intelligence discounted the arrival of the Tiger I in late 1942 and the Panther tank in 1943, predicting that they would be produced only in small numbers. A05 M4 Sherman  The U. A05 M4 Sherman S. A05 M4 Sherman  Army failed to anticipate that the Germans would make the Panther the standard tank of their panzer divisions in 1944, supported by substantial numbers of Tigers. A05 M4 Sherman [31]
+
+As a result, the Bureau of Ordnance, which had developed new 90 mm and 76 mm anti-tank guns in 1943, did not provide U. A05 M4 Sherman S. A05 M4 Sherman  armored forces with the guns required to optimally fight the Panther and Tiger. A05 M4 Sherman  Even in 1943, most German AFVs (later models of the Panzer IV, StuG III, and Marder III) mounted the 7. A05 M4 Sherman 5 cm KwK 40. A05 M4 Sherman  As a result, even weakly-armored light German tank destroyers such as the Marder III, which was meant to be a stop-gap measure to fight Soviet tanks in 1942, could destroy Shermans from a distance. A05 M4 Sherman  The disparity in firepower between the German armored fighting vehicles of 1943 and the 75 mm M4 tank was the impetus to begin production of the 76 mm M4 tank in April 1944. A05 M4 Sherman [32] The U. A05 M4 Sherman S. A05 M4 Sherman  76 mm proved to be comparable in penetrating power to the 7. A05 M4 Sherman 5 cm KwK 40,[33] the most common German anti-tank gun encountered during the fighting in France. A05 M4 Sherman [34]
+
+== The tank destroyer doctrine ==
+Gen. A05 M4 Sherman  Lesley J. A05 M4 Sherman  McNair was head of Army Ground Forces. A05 M4 Sherman  McNair, an artilleryman, championed the tank destroyer doctrine within the U. A05 M4 Sherman S. A05 M4 Sherman  Armored Forces. A05 M4 Sherman  Tanks were to support the infantry, exploit breakthroughs, and avoid tank-to-tank battles. A05 M4 Sherman  Enemy tanks were to be engaged by the tank destroyer force, composed of a mix of towed and self-propelled tank destroyers. A05 M4 Sherman  Towed "tank destroyers" were towed anti-tank guns. A05 M4 Sherman  Self-propelled tank destroyers, called "gun motor carriages", were similar to tanks, but were lightly armored with open topped turrets. A05 M4 Sherman  The tank destroyers were supposed to be faster and carry a more powerful anti-tank gun than tanks: armor was sacrificed for speed. A05 M4 Sherman  The tank destroyer doctrine played a large role in the lack of urgency in improving the firepower of the M4 Sherman, as the emphasis was on its role as infantry support. A05 M4 Sherman [35]
+
+McNair approved the 76 mm upgrade to the M4 Sherman and production of the 90 mm M36 tank destroyer, but he staunchly opposed development of the T26 and other proposed heavy tanks during the crucial period of 1943 because he saw no "battle need" for them. A05 M4 Sherman 
+
+In mid-1943, Lt. A05 M4 Sherman  General Devers, commander of U. A05 M4 Sherman S. A05 M4 Sherman  forces in the European Theater of Operations (ETO), asked for 250 T26s for use in the invasion of France. A05 M4 Sherman  McNair refused. A05 M4 Sherman  Devers appealed to General George Marshall, the Army Chief of Staff. A05 M4 Sherman  Marshall summarily ordered the tanks to be provided to the ETO as soon as they could be produced. A05 M4 Sherman  Soon after the Normandy invasion, General Dwight D. A05 M4 Sherman  Eisenhower urgently requested heavy tanks (now designated M26 Pershing), but McNair's continued opposition delayed production. A05 M4 Sherman  General Marshall intervened again and the tanks were eventually brought into production. A05 M4 Sherman  However, only a few saw combat on February 25, 1945, too late to have any effect on the battlefield. A05 M4 Sherman [36]
+
+== Gun development ==
+[[image:M4_Sherman_M4A2E8-Sherman_cfb_borden. A05 M4 Sherman JPG|thumb|200px|right|This M4A2(76) HVSS shows the T23 turret with later 76 mm gun's muzzle brake. A05 M4 Sherman  This one also has fenders, usually omitted on U. A05 M4 Sherman S. A05 M4 Sherman  vehicles to ease maintenance. A05 M4 Sherman ]]
+When the 76 mm gun was first installed in the M4 turret, it was found to unbalance the turret, and the gun barrel was also thought to protrude too far forward, making it more difficult to transport and susceptible to hit the ground on undulating terrain. A05 M4 Sherman  Ordnance reduced the barrel length by 15 inches (from 57 calibers long to 52), which decreased performance by 10%. A05 M4 Sherman  Mounting this gun in the original M4 turret proved to be problematic, and so the turret for the aborted T23 tank project was used instead for the definitive production version of the 76 mm M4 Shermans. A05 M4 Sherman [37]
+
+Although tests against armor plate suggested that the new M1A1 76 mm gun would be adequate, testing against Panther tanks was never done. A05 M4 Sherman  This would have shown that the gun could not penetrate the glacis plate of the Panther at any distance, and could only penetrate the center of the gun mantlet at 100 meters. A05 M4 Sherman [38]
+The 90 mm gun developed by U. A05 M4 Sherman S. A05 M4 Sherman  Ordnance could not be easily installed on the M4, but was installed on the open turreted M36 tank destroyer, and was the main gun for the T26 tank project (which eventually became the M26 Pershing). A05 M4 Sherman  An attempt to upgrade the M4 Sherman by installing the 90 mm T26 turret on a M4A3 hull in April 1944 was halted after realizing it could not go into production sooner than the T26 and would likely delay T26 development. A05 M4 Sherman [39]
+
+In testing prior to the invasion of Normandy, the new 76 mm gun on the M4 Sherman was found to have a undesirable muzzle blast that kicked up dust from the ground and obscured vision for further firing. A05 M4 Sherman  The addition of a muzzle brake solved this problem by directing the blast sideways. A05 M4 Sherman  It also had a much weaker high-explosive shell than the existing 75 mm gun. A05 M4 Sherman  Standard Army doctrine at the time emphasized the importance of the infantry support role of the tank, and the high-explosive round was considered more important. A05 M4 Sherman  Hence, the 76 mm M4 was not initially accepted by various US Armored Division commanders, even though a number had already been produced and were available. A05 M4 Sherman  All of the US Army M4s deployed initially in Normandy in June 1944 had the 75 mm gun. A05 M4 Sherman [40]
+
+The British were more astute in their anticipation of the future development of German armor: beginning development of a 3-inch anti-tank gun even before its predecessor entered service and planning for its use in tanks that would replace the M4. A05 M4 Sherman  Out of expediency driven by delays in their new tanks designs, they mounted this high-powered Ordnance QF 17-pounder gun in a standard 75 mm M4 Sherman turret. A05 M4 Sherman  These conversions became the Sherman Firefly. A05 M4 Sherman  The 17 pounder still could not penetrate the glacis plate of the Panther but it could easily penetrate the Panther's gun mantlet at combat range[41]. A05 M4 Sherman  Moreover, it could penetrate the front and side armor of the Tiger I at nearly the same range that the Tiger I could penetrate the Sherman. A05 M4 Sherman [42]
+
+In late 1943, the British offered the 17 pounder to the U. A05 M4 Sherman S. A05 M4 Sherman  Army for use in their M4 tanks. A05 M4 Sherman  Gen. A05 M4 Sherman  Devers insisted on comparison tests between the 17 pounder and the U. A05 M4 Sherman S. A05 M4 Sherman  90 mm gun (even though the 17 pounder could be mounted in a standard M4 turret while the 90 mm gun needed a new turret). A05 M4 Sherman  The tests were finally done on March 25 and May 23, 1944. A05 M4 Sherman  They seemed to show that the 90 mm gun was equal to or better than the 17 pounder. A05 M4 Sherman  By then, production of the 76 mm M4 and the 90 mm M36 tank destroyer were both underway and U. A05 M4 Sherman S. A05 M4 Sherman  Army interest in the 17 pounder waned. A05 M4 Sherman 
+
+Fighting against Panther tanks in Normandy quickly demonstrated the need for better anti-tank firepower, and the 76 mm M4s were deployed to First Army units in July 1944. A05 M4 Sherman  General George S. A05 M4 Sherman  Patton's Third Army were initially issued 75 mm M4s and accepted 76 mm M4 Shermans only after the Battle of Arracourt against Panther tanks in late September 1944. A05 M4 Sherman [43]
+
+High-Velocity Armor Piercing (HVAP) ammunition, standardized as M93, became available in August 1944 for the 76 mm gun. A05 M4 Sherman  The projectile contained a tungsten core penetrator surrounded by a lightweight aluminum body, which gave it a higher velocity and more penetrating power. A05 M4 Sherman  However, this new projectile was still unable to penetrate the glacis plate of the Panther tank, although it could penetrate the turret mantlet of the Panther at longer ranges than standard ammunition: it brought the U. A05 M4 Sherman S. A05 M4 Sherman  76 mm gun closer in performance to the British 17 pounder using standard APC ammunition. A05 M4 Sherman  Because of tungsten shortages, HVAP rounds were constantly in short supply. A05 M4 Sherman  Priority was given to U. A05 M4 Sherman S. A05 M4 Sherman  tank destroyer units, and most Shermans carried only a few rounds and some units never received any. A05 M4 Sherman [44]
+
+After the heavy tank losses of the Battle of the Bulge, in January 1945, General Eisenhower asked that no more 75 mm M4s be sent to Europe: only 76 mm M4s were wanted. A05 M4 Sherman [45]
+Additionally, interest in mounting the British 17-pounder in U. A05 M4 Sherman S. A05 M4 Sherman  Shermans flared anew. A05 M4 Sherman  In February 1945, the U. A05 M4 Sherman S. A05 M4 Sherman  Army began sending 75 mm M4s to England for conversion to the 17-pounder gun. A05 M4 Sherman  Approximately 100 tanks were completed by the beginning of May. A05 M4 Sherman  By then, the end of the war in Europe was clearly in sight, and the U. A05 M4 Sherman S. A05 M4 Sherman  Army decided that the logistics of adding a new ammunition caliber to the supply train was not warranted. A05 M4 Sherman  None of the converted 17-pounder M4s were deployed by the U. A05 M4 Sherman S. A05 M4 Sherman , and it is unclear what happened to most of them, although some were given to the British as part of Lend-Lease. A05 M4 Sherman [46]
+
+The higher-velocity 76 mm M1 gun gave Shermans anti-tank firepower at least equal to most of the German vehicles they encountered, particularly the Panzer IV and StuG. A05 M4 Sherman  However, with a regular AP (Armor Piercing shot) ammunition (M79) or APCBC (M62) shells, the 76 mm might knock out a Panther only at close range with a shot to its mantlet or flank. A05 M4 Sherman  At long range, the Sherman was badly outmatched by the Panther's 75 mm gun, which could easily penetrate the Sherman's armor from all angles. A05 M4 Sherman  This contributed to the high losses of Sherman tanks suffered by the U. A05 M4 Sherman S. A05 M4 Sherman  Army in Europe. A05 M4 Sherman [47]
+
+The M4 was criticized by its crews for inability to pivot turn (turn in place), limiting its usefulness in urban warfare against pivot-turning Panthers. A05 M4 Sherman [48] This deficiency was partially compensated by the faster traverse of its turret. A05 M4 Sherman 
+
+== Miscellaneous ==
+[[image:M4_Sherman_Ronson_flame_tank_Iwo_Jima. A05 M4 Sherman jpg |thumb|200px|right|A USMC M4A3R3 uses its flame thrower armament during the Battle of Iwo Jima. A05 M4 Sherman ]]
+The Sherman was one of the first widely produced tanks to feature a gyroscopic stabilized gun and sight. A05 M4 Sherman  The stabilization was only in the vertical plane, as the mechanism could not slew the turret. A05 M4 Sherman  The utility of the stabilization is debatable, with some saying it was useful for its intended purpose, others only for using the sights for stabilized viewing on the move. A05 M4 Sherman [49]
+
+A variant of the M4 Sherman was armed with the 105 mm M4 howitzer, which provided even more powerful high-explosive armament. A05 M4 Sherman  This variant was employed in six-vehicle "Assault Gun" platoons in Armored battalions, to provide close fire support and smoke. A05 M4 Sherman  The 105mm-armed variants were of limited use against enemy tanks due to the poor anti-armor performance of the howitzer, which was not intended to fight other tanks. A05 M4 Sherman 
+
+The 75 mm gun had a white phosphorus shell originally intended for use as an artillery marker to help with targeting. A05 M4 Sherman  M4 tank crews discovered that the shell could also be used against the Tiger and Panther. A05 M4 Sherman  When the burning white phosphorus splattered against the German tank, the acrid smoke would get sucked inside the tank, and together with the fear of the fire spreading inside the tank, cause the crew to abandon the tank. A05 M4 Sherman [50] There were several recorded instances where white phosphorus shells "knocked out" German tanks in this fashion. A05 M4 Sherman [51]
+
+== Armor ==
+[[image:M4_Sherman_M4A4-Sherman-latrun-6. A05 M4 Sherman jpg |thumb|200px|right|This early 75 mm gun turret on an M4A4 shows the single hatch — note the additional rectangular external (welded on) applique armor patch reinforcing the ammunition bin protection on the hull side. A05 M4 Sherman ]]
+The steel frontal turret armor of the M4 ranged from 64 mm[52] to 76 mm. A05 M4 Sherman  sloped at a 30 degree angle,[53] and the M4’s gun mantlet was also protected by 76 mm thick armor. A05 M4 Sherman [52] The side turret was 50 mm at a 5 degree angle[53], while the rear was 64 mm at a 90 degree angle and the turret roof was 25 mm thick. A05 M4 Sherman [54] The hull front sported 51 mm armor. A05 M4 Sherman [52][54] Although the Russian T-34 is often credited for introducing sloped armor, the Sherman's upper hull was angled at a 56 degree angle while the lower half of the hull was curved. A05 M4 Sherman  Historian Stephen Hart states the armor plates of the front hull were sloped between 45 and 90 degrees, which depended on the protrusions for crew hatches. A05 M4 Sherman [54] The hull sides were 38 mm[53] at the vertical[54] to 45 mm thick. A05 M4 Sherman [55] The hull rear, which protected and was offset from the rear radiator on some versions, was 38 mm to the vertical or sloped to 85 degrees. A05 M4 Sherman  The hull roof was 25 mm. A05 M4 Sherman [54]
+
+The armor of the M4 was effective against most early and mid-war anti-tank weapons[52], but was vulnerable to penetration from 75 mm L/48 tank guns up to a range of 1,370[56] – 1,500 meters. A05 M4 Sherman [57] Regardless of this vulnerability, historian John Buckley has stated the M4 was "moderately superior" to the relatively small Panzer IV. A05 M4 Sherman  Although the most advanced tanks were greatly feared, Buckley stated "The vast majority of German tanks encountered in Normandy were either inferior, or at least, merely equal to the Sherman. A05 M4 Sherman "[58] Regardless, the Sherman, like most Allied vehicles, remained vulnerable to infantry anti-tank weapons such as the Panzerschreck and Panzerfaust. A05 M4 Sherman 
+
+Progressively thicker armor was added to hull front and turret mantlet in various improved models. A05 M4 Sherman  Many had an additional rectangular patch on each side protecting ammunition storage, others had an additional slanted plate in front of each front crew hatch. A05 M4 Sherman  Field improvisations included placing sandbags, spare track links, concrete, wire mesh, or even wood for increased protection against shaped-charge rounds, even though it had little effect. A05 M4 Sherman  Mounting sandbags around a tank had little effect against high-velocity anti-tank gunfire, but was thought to provide standoff protection against HEAT weapons, primarily the German Panzerfaust and Panzerschreck. A05 M4 Sherman  By 1945, it was rare to see a Sherman without any field improvisations. A05 M4 Sherman  In the only study known to have been done to test the use of sandbags, on March 9, 1945, officers of the 1st Armored Group tested standard Panzerfaust 60s against sandbagged M4s; shots against the side blew away the sandbags and still penetrated the side armor, whereas shots fired at an angle against the front plate blew away some of the sandbags but failed to penetrate the armor. A05 M4 Sherman  Earlier, in the summer of 1944, General Patton, informed by his ordnance officers that sandbags were useless and that the machines' chassis suffered from the extra weight, had forbidden the use of sandbags. A05 M4 Sherman  Following the clamor for better armor and firepower after the losses of the Battle of the Bulge, Patton ordered extra armor plates salvaged from knocked-out American and German tanks welded to the front hulls of tanks of his command. A05 M4 Sherman  Approximately 36 of these up-armored M4s were supplied to each of the armored divisions of the Third Army in the spring of 1945. A05 M4 Sherman [59]
+
+[[image:M4_Sherman_M4A3E2_Sherman_Jumbo_75mm_gun. A05 M4 Sherman jpg|thumb|200px|right|M4A3E2 Sherman Jumbo: Some units replaced the original 75 mm gun with a 76 mm gun. A05 M4 Sherman ]]
+The M4A3E2 Sherman Jumbo variant had even thicker frontal armor than the Tiger I. A05 M4 Sherman  Intended for the assault to break out of the Normandy beachhead, it entered combat in August 1944. A05 M4 Sherman 
+
+The M4 had an escape hatch on the hull bottom to help the crew survive and, in the Pacific, Marines used this Sherman feature in reverse to recover wounded infantry under fire. A05 M4 Sherman  Combat experience indicated the single hatch in the three-man turret to be inadequate for timely evacuation, so Ordnance added a loader's hatch beside the commander's. A05 M4 Sherman  Later M4s also received redesigned hull hatches for better egress. A05 M4 Sherman 
+
+Early Sherman models were prone to burning when struck by high-velocity rounds. A05 M4 Sherman  The Sherman gained grim nicknames like "Tommycooker" (by the Germans, who referred to British soldiers as "Tommies": a tommy cooker was a World War I era trench stove). A05 M4 Sherman  With gallows humor, the British called it the "Ronson", after the cigarette lighter with the slogan "Lights up the first time, every time!" Polish tankers referred to it as "The Burning Grave". A05 M4 Sherman  This vulnerability increased crew casualties and meant that damaged vehicles were less likely to be repairable. A05 M4 Sherman 
+
+[[image:M4_Sherman_Yanks_advance. A05 M4 Sherman jpg |thumb|300px|right|The 1943 modernization program for older tanks added welded patches of appliqué armor to the sides of the turret and hull. A05 M4 Sherman  Note also the Culin hedgerow cutter on the front, a field improvisation to break through the thick hedgerows of the Normandy bocage. A05 M4 Sherman ]]
+Research conducted by the British No. A05 M4 Sherman  2 Operational Research Section, after the Normandy campaign, concluded that a Sherman would be set alight 82% of the time following an average of 1. A05 M4 Sherman 89 penetrations of the tank’s armor. A05 M4 Sherman  In comparison, they also concluded that the Panzer IV would catch fire 80% of the time following an average of 1. A05 M4 Sherman 5 penetrations, the Panther would light 63% of the time following 3. A05 M4 Sherman 24 penetrations, and the Tiger would catch fire 80% of the time following 3. A05 M4 Sherman 25 penetrations. A05 M4 Sherman [60] John Buckley, using a case study of the 8th and 29th Armoured Brigades, found that of the 166 Shermans knocked out in combat during the Normandy campaign, only 94 were burnt out, 56. A05 M4 Sherman 6%. A05 M4 Sherman  Buckley also notes that an American survey carried out concluded that 65% of tanks burnt out after being penetrated. A05 M4 Sherman [61] United States Army research proved that the major reason for this was the stowage of main gun ammunition in the sponsons above the tracks. A05 M4 Sherman 
+
+At first, a partial remedy to ammunition fires in the M4 was found by welding 1-inch-thick (25 mm) appliqué armor plates to the sponson sides over the ammunition stowage bins. A05 M4 Sherman  Later models moved ammunition stowage to the hull floor, with additional water jackets surrounding the main gun ammunition stowage. A05 M4 Sherman  This decreased the likelihood of the tank catching fire. A05 M4 Sherman  A U. A05 M4 Sherman S. A05 M4 Sherman  Army study in 1945 concluded that only 10–15 percent of wet-stowage Shermans burned when penetrated, compared to 60–80 percent of the older dry-stowage Shermans[62] The belief that the fuel tank was a culprit is unsupported. A05 M4 Sherman  Most World War Two tanks used gasoline engines, and although fuel fires did occasionally occur in tanks, such fires were far less common and less deadly than a tank's ammunition magazines igniting. A05 M4 Sherman [62] This assessment is supported by Buckley, who notes that in many cases the fuel tank of the M4 had been found intact after the tank burnt out due to the ammunition cooking off. A05 M4 Sherman  Tank crew testimony also supports this position; eye witness reports describe "fierce, blinding jets of flame," which is inconsistent with gasoline-related fires but fits cordite flash. A05 M4 Sherman [61]
+
+== Mobility ==
+The U. A05 M4 Sherman S. A05 M4 Sherman  Army restricted the Sherman's height, width, and weight so that it could be transported via typical bridges, roads, and railroads. A05 M4 Sherman  This aided strategic, logistical, and tactical flexibility. A05 M4 Sherman 
+
+The Sherman had good speed both on- and off-road. A05 M4 Sherman  Off-road performance varied. A05 M4 Sherman  In the desert, the Sherman's rubber tracks performed well. A05 M4 Sherman  In the confined, hilly terrain of Italy, the Sherman could often cross terrain that some German tanks could not. A05 M4 Sherman 
+
+Albert Speer recounted in his autobiography Inside the Third Reich
+
+
+''"On the southwestern front (Italy) reports on the cross country mobility of the Sherman have been very favorable. A05 M4 Sherman  The Sherman climbs mountains our tank experts consider inaccessible to tanks. A05 M4 Sherman  One great advantage is that the Sherman has a very powerful motor in proportion to its weight. A05 M4 Sherman  Its cross-country mobility on level ground is, as the 26th Armoured Division reports, definitely superior to that of our tanks"''[65]
+
+
+However whilst this may have held true compared with the 1st generation German tanks such as the PzKfpw. A05 M4 Sherman  III & IV, actual comparative testing with the 2nd generation German tanks (Panther & Tiger) conducted by the Germans at their Kummersdorf testing facility as-well as by the US 2nd Armored Division, proved otherwise. A05 M4 Sherman 
+
+Lieutenant Colonel Wilson M. A05 M4 Sherman  Hawkins of the 2nd AD wrote the following comparing the US M4 Sherman and German Panther in a report to Allied headquarters:
+
+
+''"It has been claimed that our tank is the more maneuverable. A05 M4 Sherman  In recent tests we put a captured German Mark V [Panther] against all models of our own. A05 M4 Sherman  The German tank was the faster, both across country and on the highway and could make sharper turns. A05 M4 Sherman  It was also the better hill climber"''[66]
+
+
+This was backed up in an interview with Technical Sergeant Willard D. A05 M4 Sherman  May of the 2nd AD who commented:
+
+
+''"I have taken instructions on the Mark V [Panther] and have found, first, it is easily as maneuverable as the Sherman; second the flotation exceeds that of the Sherman"''[66]
+
+
+Staff Sergeant and Tank Platoon Sergeant Charles A Carden completes the comparison in his report:
+
+
+''"The Mark V [Panther] and IV [Tiger] in my opinion have more maneuverability and certainly more flotation. A05 M4 Sherman  I have seen in many cases where the Mark V and VI tanks could maneuver nicely over ground where the M4 would bog down. A05 M4 Sherman  On one occasion I saw at least 10 Royal Tigers [Tiger B] make a counter attack against us over ground that for us was nearly impassible"''[66]
+
+
+Furthermore, U. A05 M4 Sherman S. A05 M4 Sherman  crews found that on soft ground such as mud or snow, the narrow tracks gave poor ground pressure compared to wide-tracked second-generation German tanks such as the Panther and the Tiger. A05 M4 Sherman  Soviet experiences were similar and tracks were modified to give better grip in the snow. A05 M4 Sherman  The U. A05 M4 Sherman S. A05 M4 Sherman  Army issued extended end connectors, "grousers" or "duckbills" to add width to the standard tracks as a stopgap solution. A05 M4 Sherman  Duckbills were original factory equipment for the heavy M4A3E2 Jumbo to compensate for the extra weight of armor. A05 M4 Sherman  The M4A3E8 "Easy Eight" Shermans and other late models with wider-tracked HVSS suspension corrected these problems, but formed only a small proportion of the tanks in service even in 1945. A05 M4 Sherman 
+
+== US variants ==
+:''Main article: ''[[https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/M4_Sherman_variants ''M4 Sherman variants'']]
+
+Vehicles that used the M4 chassis or hull:
+* 3in Gun Motor Carriage M10 - Tank Destroyer
+* 90 mm Gun Motor Carriage M36 - Tank Destroyer
+* 105 mm Howitzer Motor Carriage M7 - self-propelled artillery, aka Priest
+* 155 mm Gun Motor Carriage M12 - GMC M12 with Cargo Carrier M30 (both used Sherman components)
+* 155/203/250 mm Motor Carriages - 155 mm GMC M40, 8 in. A05 M4 Sherman  (203 mm) HMC M43, 250 mm (10 inch) MMC T94, and Cargo Carrier T30
+* Flame Tank Sherman - M4A3R3 Zippo, M4 Crocodile, and other flame-throwing Shermans
+* Rocket Artillery Sherman - T34 Calliope, T40 Whizbang, and other Sherman rocket launchers
+* Amphibious tanks - Duplex Drive (DD) swimming Sherman. A05 M4 Sherman  A British variant used by U. A05 M4 Sherman S. A05 M4 Sherman  forces. A05 M4 Sherman 
+* Engineer tanks - D-8, M1, and M1A1 dozers, M4 Doozit, Mobile Assault Bridge, and Aunt Jemima and other mine-clearers
+* Recovery tanks - M32 and M74 TRVs
+* Artillery tractors - M34 and M35 prime movers
+
+== Foreign variants and use ==
+
+* [[https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/Lend-Lease_Sherman_tanks Lend-Lease Sherman tanks]]
+* [[https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/Postwar_Sherman_tanks Postwar Sherman tanks]]
+* [[https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/Sherman_Firefly Sherman Firefly]]
+
+The Sherman was extensively supplied through Lend-Lease to Allied countries. A05 M4 Sherman  Britain took nearly 80% of Lend-Lease deliveries, some of which was passed on to other allies. A05 M4 Sherman  The Soviet Union, between 1942 and 1945, received 3664 tanks M4A2 with diesel engines. A05 M4 Sherman  Some of these remained in service for many years. A05 M4 Sherman  After World War II, Shermans were supplied to some NATO armies. A05 M4 Sherman  Shermans were used by U. A05 M4 Sherman S. A05 M4 Sherman  and allied forces in the Korean War. A05 M4 Sherman 
+
+Shermans also went to Israel. A05 M4 Sherman  The Israeli up-gunned 75 mm M-50 and 105 mm armed M-51 Super Shermans are remarkable examples of how a long obsolete design can be upgraded in front-line use. A05 M4 Sherman [64] They saw combat in the 1967 Six-Day War, fighting Soviet World War II-era armor like the T34/85, and also in the 1973 Yom Kippur War, proving effective even against newer, heavier Soviet tanks like the T-54 and T-55. A05 M4 Sherman 
+
+== Foreign users ==
+Argentina, Australia, Brazil, Canada, Chile, Cuba, Denmark, Egypt, France, Nazi Germany (used captured Shermans), India, Iran, Israel, Lebanon, New Zealand, Nicaragua, Peru, Poland, Portugal, Republic of China, South Africa, South Korea, Japan, Soviet Union, Turkey, United Kingdom, Yugoslavia
+
+|HistoricalGallery=
+M4A1. A05 M4 Sherman jpg{{!}}M4A1
+M4A1 (2). A05 M4 Sherman jpg
+M4A1 (76). A05 M4 Sherman jpg{{!}}Lafayette G. A05 M4 Sherman  Pool's M4A1 (76)W
+
+|Ref_references=
+# Zaloga (Armored Thunderbolt) p. A05 M4 Sherman 57<br/>
+# Zaloga 1993 p. A05 M4 Sherman 19<br/>
+# a b c d Berndt p. A05 M4 Sherman 195<br/>
+# Zaloga, Stephen J. A05 M4 Sherman  Panther vs Sherman: Battle of the Bulge 1944. A05 M4 Sherman  Osprey Publishing, 2008, p. A05 M4 Sherman  28. A05 M4 Sherman <br/>
+# Gregorovich, Andrew, "The Best Tank in the World" T-34 was Designed and Built in Ukraine", infoukes. A05 M4 Sherman com<br/>
+# "Interview with Soviet Tanker Dmitriy Loza", www. A05 M4 Sherman iremember. A05 M4 Sherman ru<br/>
+# Hunnicutt 1978[page needed]<br/>
+# AFV database<br/>
+# Canavan, Michael J. A05 M4 Sherman , Opening Salvo: M4A1 Sherman Tank, Avalon Hill / Wizards. A05 M4 Sherman com <br/>
+# FM 100-5<br/>
+# FM 17-33<br/>
+# a b Fletcher p93 <br/>
+# M4A1 Tank Medium, Bovington Tank Museum<br/>
+# Zaloga (Armored Thunderbolt) p. A05 M4 Sherman  24 & 301<br/>
+# Zaloga (Armored Thunderbolt) p. A05 M4 Sherman  24 & 28<br/>
+# Zaloga (Armored Thunderbolt) p. A05 M4 Sherman  24<br/>
+# Berndt, Thomas. A05 M4 Sherman  Standard Catalog of U. A05 M4 Sherman S. A05 M4 Sherman  Military Vehicles (Krause Publications, 1993), pp. A05 M4 Sherman 192-3. A05 M4 Sherman <br/>
+# Berndt, pp. A05 M4 Sherman 192-3. A05 M4 Sherman <br/>
+# Berndt, pp. A05 M4 Sherman 190 & 192-3. A05 M4 Sherman <br/>
+# Zaloga, Armored Thunderbolt, p. A05 M4 Sherman 332<br/>
+# Zaloga, Armored Thunderbolt, p. A05 M4 Sherman 57<br/>
+# Hunnicutt p. A05 M4 Sherman 166<br/>
+# Zaloga (Armored Thunderbolt) p. A05 M4 Sherman  301<br/>
+# Zaloga (Japanese Tanks) p. A05 M4 Sherman  37<br/>
+# Zaloga, pp. A05 M4 Sherman 15 & 33<br/>
+# Zaloga, p. A05 M4 Sherman 40<br/>
+# Zaloga, p. A05 M4 Sherman 34<br/>
+# Zaloga, Armored Thunderbolt, "Bunker Blasters" p. A05 M4 Sherman  215-217 & 318 caption. A05 M4 Sherman <br/>
+# Zaloga (M3/M5 Stuart) p. A05 M4 Sherman  35, "tank guns could not penetrate bunkers"<br/>
+# Osprey Publications M26 Pershing<br/>
+# Zaloga 2008, p. A05 M4 Sherman  94-97<br/>
+# Zaloga p. A05 M4 Sherman 115-116<br/>
+# www. A05 M4 Sherman tarrif. A05 M4 Sherman net – Intelligence – Text Database of Penetration Data<br/>
+# Zaloga 2008. A05 M4 Sherman  p. A05 M4 Sherman  93<br/>
+# Zaloga 2008, "McNair's Folly" p. A05 M4 Sherman  72–77<br/>
+# Zaloga 2008, pp. A05 M4 Sherman  120–125, 287<br/>
+# Zaloga pp. A05 M4 Sherman  106–108, 115–116<br/>
+# Zaloga 2008 pp. A05 M4 Sherman  124–125<br/>
+# Zaloga 2008, pp. A05 M4 Sherman  126–130<br/>
+# Zaloga 129-131<br/>
+# Zaloga 2008, p. A05 M4 Sherman  132-135<br/>
+# Jentz 1997 p. A05 M4 Sherman  13-14 German Army Wa Pruef 1 report dated Oct. A05 M4 Sherman  5, 1944, and British Department of Tank Design Experimental Report A. A05 M4 Sherman T. A05 M4 Sherman No. A05 M4 Sherman 252 Part II, trials conducted March 16–22, 1945<br/>
+# Zaloga 2008, pp. A05 M4 Sherman  166, 193<br/>
+# Zaloga 2008, pp. A05 M4 Sherman  194–195<br/>
+# Zaloga 2008, pp. A05 M4 Sherman  268–269<br/>
+# Zaloga 2008, pp. A05 M4 Sherman  276–277<br/>
+# "12th Army Group, Report of Operations (Final After Action Report)" Vol. A05 M4 Sherman  XI, Wiesbaden, Germany, 1945, pp. A05 M4 Sherman  66-67. A05 M4 Sherman <br/>
+# Green 2005, p. A05 M4 Sherman  88. A05 M4 Sherman <br/>
+# "M4 Sherman at War" by Michael Green, James D. A05 M4 Sherman  Brown, Zenith Press; 1st edition (February 15, 2007), pp. A05 M4 Sherman  87-88. A05 M4 Sherman <br/>
+# Zaloga 2008 pg. A05 M4 Sherman  182<br/>
+# Schneider 2004, p. A05 M4 Sherman  303<br/>
+# a b c d Zaloga (1993), p. A05 M4 Sherman 14<br/>
+# a b c Reid, p. A05 M4 Sherman  215<br/>
+# a b c d e Hart, p. A05 M4 Sherman  27<br/>
+# Buckley, p. A05 M4 Sherman  110<br/>
+# Reid, p. A05 M4 Sherman  374<br/>
+# Buckley, p. A05 M4 Sherman  126<br/>
+# Buckley, p. A05 M4 Sherman  11759 Zaloga (2008), p. A05 M4 Sherman  279-284<br/>
+# Copp, pp. A05 M4 Sherman  399-406<br/>
+# a b Buckley, p. A05 M4 Sherman  127<br/>
+# a b Zaloga (2008), p. A05 M4 Sherman  116-118<br/>
+# Speer, Albert (2009). A05 M4 Sherman  Inside the Third Reich. A05 M4 Sherman  Ishi Press. A05 M4 Sherman  p. A05 M4 Sherman  2nd note on chapter 17. A05 M4 Sherman  ISBN 9780923891732. A05 M4 Sherman <br/>
+# Gelbart 1996:45<br/>
+# Speer, Albert (2009). A05 M4 Sherman  Inside the Third Reich. A05 M4 Sherman  Ishi Press. A05 M4 Sherman  p. A05 M4 Sherman  2nd note on chapter 17. A05 M4 Sherman  ISBN 9780923891732. A05 M4 Sherman <br/>
+# a b c "M4 SHERMAN AT WAR" by Michael Green & James D. A05 M4 Sherman  Brown [Page 53]<br/>
+
+|Ref_sources=
+[[image:M4_Sherman_M4-ManegeMilitaireTroisRivieres. A05 M4 Sherman jpg|thumb|300px|right|Sherman Firefly tank on display in Trois Rivieres, Quebec]]
+* Berndt, Thomas. A05 M4 Sherman  Standard Catalog of U. A05 M4 Sherman S. A05 M4 Sherman  Military Vehicles. A05 M4 Sherman  Iola, WI: Krause Publications, 1993. A05 M4 Sherman  ISBN. A05 M4 Sherman 0-87341-223-0. A05 M4 Sherman 
+* Buckley, John (2006) [2004]. A05 M4 Sherman  British Armour in the Normandy Campaign 1944. A05 M4 Sherman  London: Taylor & Francis. A05 M4 Sherman  ISBN. A05 M4 Sherman 0-41540-773-7. A05 M4 Sherman  OCLC 154699922. A05 M4 Sherman 
+* Cooper, Belton Y (1998). A05 M4 Sherman  Death Traps: The Survival of an American Armored Division in World War II. A05 M4 Sherman  Novato, CA: Presidio. A05 M4 Sherman  ISBN. A05 M4 Sherman 0-89141-670-6. A05 M4 Sherman 
+* Green, Michael (2005). A05 M4 Sherman  Panzers at War. A05 M4 Sherman  City: Zenith Press. A05 M4 Sherman  ISBN. A05 M4 Sherman 978-0760321522. A05 M4 Sherman 
+* Green, Michael (2007). A05 M4 Sherman  M4 Sherman at War. A05 M4 Sherman  City: Zenith Press. A05 M4 Sherman  ISBN. A05 M4 Sherman 978-0760327845. A05 M4 Sherman 
+* Hart, Stephen Ashley (2007). A05 M4 Sherman  Sherman Firefly Vs Tiger: Normandy 1944 (Duel): Normandy 1944. A05 M4 Sherman  Osprey Publishing. A05 M4 Sherman  ISBN. A05 M4 Sherman 1-84603-150-8. A05 M4 Sherman 
+* Hernandez Cabos, Rodrigo; Prigent, John (2001). A05 M4 Sherman  M4 Sherman. A05 M4 Sherman  Osprey. A05 M4 Sherman  ISBN. A05 M4 Sherman 1-84176-207-5. A05 M4 Sherman 
+* Hunnicutt, R. A05 M4 Sherman  (1978). A05 M4 Sherman  Sherman. A05 M4 Sherman  San Rafeal: Taurus Enterprises. A05 M4 Sherman  ISBN. A05 M4 Sherman 9780891410805. A05 M4 Sherman 
+* Jentz, Thomas (1997). A05 M4 Sherman  Germany's Tiger Tanks Tiger I & II: Combat Tactics. A05 M4 Sherman  Atglen, PA: Schiffer Military History. A05 M4 Sherman  ISBN. A05 M4 Sherman 0764302256. A05 M4 Sherman 
+* Reid, Brian (2005). A05 M4 Sherman  No Holding Back. A05 M4 Sherman  Robin Brass Studio. A05 M4 Sherman  ISBN. A05 M4 Sherman 1-896941-40-0. A05 M4 Sherman 
+* Schneider, Wolfgang (2004). A05 M4 Sherman  Tigers in Combat I. A05 M4 Sherman  Mechanicsburg, PA: Stackpole Books; 2nd edition, originally published 2000 by J. A05 M4 Sherman J. A05 M4 Sherman  Fedorowicz Publishing, Inc. A05 M4 Sherman  Winnipeg, Canada. A05 M4 Sherman  ISBN. A05 M4 Sherman 0811731715. A05 M4 Sherman 
+* Wilbeck, Christopher (2004). A05 M4 Sherman  Sledgehammers. A05 M4 Sherman  Strengths and Flaws of Tiger Tank Battalions in World War II. A05 M4 Sherman  The Aberjona Press. A05 M4 Sherman  ISBN. A05 M4 Sherman 9780971765023. A05 M4 Sherman 
+* Zaloga, Steven (1993). A05 M4 Sherman  Sherman Medium Tank 1942-1945. A05 M4 Sherman  City: Osprey Publishing (UK). A05 M4 Sherman  ISBN. A05 M4 Sherman 9781855322967. A05 M4 Sherman 
+* Zaloga, Steven (1999). A05 M4 Sherman  M3 & M5 Stuart Light Tank 1940-45. A05 M4 Sherman  Osprey Publishing (UK). A05 M4 Sherman  ISBN. A05 M4 Sherman 978-1-85532-911-9. A05 M4 Sherman 
+* Zaloga, Steven (2008). A05 M4 Sherman  Armored Thunderbolt. A05 M4 Sherman  Mechanicsburg, PA: Stackpole Books. A05 M4 Sherman  ISBN. A05 M4 Sherman 9780811704243. A05 M4 Sherman 
+
+|Ref_links=
+* [https://en. A05 M4 Sherman wikipedia. A05 M4 Sherman org/wiki/M24_Chaffee Wikipedia]
+* M4 Sherman photo galleries at ww2photo. A05 M4 Sherman mimerswell. A05 M4 Sherman com: Non-English captions [https://ww2photo. A05 M4 Sherman mimerswell. A05 M4 Sherman com/tanks/usa/med/m4/m4. A05 M4 Sherman htm M4],
+* [https://ww2photo. A05 M4 Sherman mimerswell. A05 M4 Sherman com/tanks/usa/med/m4/m4spec. A05 M4 Sherman htm Special adaptations], [https://ww2photo. A05 M4 Sherman mimerswell. A05 M4 Sherman com/tanks/usa/med/m4/sher/sher. A05 M4 Sherman htm British Shermans]
+* [https://imperialclub. A05 M4 Sherman com/Yr/1945/46Tanks/Cover. A05 M4 Sherman htm "Tanks are Mighty Fine Things"] (1946) — a 145 page book about the wartime manufacture of tanks by Chrysler Corporation - highly illustrated). A05 M4 Sherman 
+* [https://www. A05 M4 Sherman iremember. A05 M4 Sherman ru/index. A05 M4 Sherman php?option=com_content&task=view&id=85&Itemid=19 Interview with Soviet Tanker Dmitriy Loza detailing the comparative utility of Shermans in the 6th Guards Tank Army at www. A05 M4 Sherman iremember. A05 M4 Sherman ru]
+* [https://www. A05 M4 Sherman battlefield. A05 M4 Sherman ru/content/view/157/78/lang,ru/ Russian language (translatable) article on Soviet uses]
+* [https://www. A05 M4 Sherman inert-ord. A05 M4 Sherman net/usa03a/usa5/75mm/index. A05 M4 Sherman html U. A05 M4 Sherman S. A05 M4 Sherman  75mm M61 Tank Round - WWII]
+* [https://www. A05 M4 Sherman primeportal. A05 M4 Sherman net/apc/m4_sherman. A05 M4 Sherman htm M4 Sherman Photos and Walk Arounds on Prime Portal]
+* [https://web. A05 M4 Sherman inter. A05 M4 Sherman nl. A05 M4 Sherman net/users/spoelstra/g104/ Sherman Register]
+* [https://www. A05 M4 Sherman onwar. A05 M4 Sherman com/tanks/usa/index. A05 M4 Sherman htm OnWar]
+* [https://www. A05 M4 Sherman wwiivehicles. A05 M4 Sherman com/usa/self-propelled-guns/m12. A05 M4 Sherman asp WWII vehicles]
+* [https://afvdb. A05 M4 Sherman 50megs. A05 M4 Sherman com/usa/155mmgmcm12. A05 M4 Sherman html AFV database]
+* [https://www. A05 M4 Sherman israeli-weapons. A05 M4 Sherman com/weapons/vehicles/tanks/sherman/Sherman. A05 M4 Sherman html israeli-weapons. A05 M4 Sherman com]
+* [https://militaryhistory. A05 M4 Sherman about. A05 M4 Sherman com/od/vehiclesarmor/p/M4Sherman. A05 M4 Sherman htm About. A05 M4 Sherman com Military History]
+
+}}
+
+[[Category:USA Tanks]]

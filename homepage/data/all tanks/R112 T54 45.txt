@@ -1,0 +1,63 @@
+{{TankData|Tank= R112_T54_45 
+| 
+
+|Gallery=
+
+File:Т-54 первый образец scr 1. R112 T54 45 jpg
+File:Т-54 первый образец scr 2. R112 T54 45 jpg
+File:Т-54 первый образец scr 3. R112 T54 45 jpg
+
+
+|InTheGame_pros= 
+* Very good armor for a Tier 8 medium tank
+* Decent gun depression for a Russian tank (-7 degrees)
+* Excellent acceleration
+* Good camouflage values
+
+|InTheGame_cons= 
+* Poor gun handling 
+* Low top speed 
+* Subpar viewrange
+* Fragile engine, fuel tank and ammo rack modules
+* Subpar AP (standard) penetration
+
+
+|InTheGame_performance= 
+The T-54 First Prototype is, essentially, a [[T-44]] with improved hull and turret armor at the expense of mobility and speed. R112 T54 45  
+
+It makes up for its lack of speed with thick frontal armor, allowing it to effectively nullify many guns with less than 175mm of penetration, making this tank extremely dangerous when top tier. R112 T54 45  The upper hull plate thickness is 120mm, but the angling gives it an effective thickness of over 200mm at its weakest point, while the lower frontal plate of the same thickness gives around 160mm of effective thickness. R112 T54 45  With even a slight angling, the upper plate's effective thickness increases to 240mm, while the lower plate can reach 183mm, making it impossible to penetrate without the use of premium rounds for most Tier 6-7 tier tanks. R112 T54 45  The only actual weak spot is the turret, with the mantlet having 200mm of thickness with no armor behind it and a low-profile cupola located at the left side of the turret. R112 T54 45  Needless to say, its armor loses most of its effectiveness against Tier 9 and 10 vehicles, so a less aggressive playstyle is advised when bottom-tier. R112 T54 45 
+
+Despite its great armor, the offensive capabilities of this tank are rather limited; having only 190mm of penetration on its AP shells makes it almost impossible to penetrate higher tier opponents frontally, and even sometimes struggling against the side armors of some vehicles. R112 T54 45  Thankfully, its DPM is slightly above average, and its APCR shells have a decent penetration of 247mm, which can frontally penetrate most weak spots and side armor. R112 T54 45  Additionally, its premium vehicle status can help offset the credit cost of premium shells. R112 T54 45  
+
+The mobility is somewhat below average compared to other tier 8 medium tanks, but hull and turret traverse retain a favorable speed, making it competitive at close-range brawling. R112 T54 45  While it cannot circle around most heavy tanks without sustaining a few hits, it can easily bring its gun around against light tanks. R112 T54 45 
+
+While the view range on this tank is not very outstanding at 380 meters, its camouflage value is decent, which makes scouting viable with the use of concealment. R112 T54 45 
+
+In the right hands, this tank can easily earn large amounts of credits, as long as its strengths and weaknesses are properly understood. R112 T54 45 
+  
+|InTheGame_research= 
+None required, this is a premium tank. R112 T54 45 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|7RyXkmzFqXg}}
+{{VideoYT|Hng6o6WiEOY}}
+
+|History= 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. R112 T54 45 wot-news. R112 T54 45 com/2014/07/12/t-54-model-1945-will-be-soviet-premium-mt8/
+* https://topwar. R112 T54 45 ru/36862-prototipy-srednego-tanka-t-54. R112 T54 45 html
+
+}}

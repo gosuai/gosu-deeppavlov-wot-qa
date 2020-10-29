@@ -1,0 +1,52 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Hydropneumatic suspensions - can improve gun depression/elevation at low speed or when stationary 
+* High alpha damage (joint highest for a Tier 10 medium tank) and good DPM
+* Extremely sloped turret front and upper hull, can bounce many shots
+* Very good acceleration, reverse speed and hull traverse speed
+* Low profile, good camouflage values
+
+|InTheGame_cons= 
+* Armor relies entirely on sloping for protection, and is very thin
+* Shell velocity and accuracy are subpar, can make sniping tricky
+* Extremely vulnerable to HE damage, especially artillery
+* Viewrange is rather poor for a Tier 10 medium tank
+
+|InTheGame_performance=
+
+{{VideoYT|rE1S2ozXiio}}
+|InTheGame_research= 
+None required. S28 UDES 15 16 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|g_fVh13vv-E}}
+
+|History= 
+
+|HistoricalGallery= 
+File:Udes_15-16_blueprint. S28 UDES 15 16 jpeg{{!}}Blueprint of the UDES 15/16
+File:Udes_15-16_turret. S28 UDES 15 16 jpeg{{!}}Blueprint and specifications of the UDES 15/16 turret
+File:Udes_15-16_turret_on_an_Ikv_91_chassis. S28 UDES 15 16 jpeg{{!}}Blueprint of the UDES 15/16 turret test rig on the chassis of an Ikv 91 tank
+File:Udes_15-16_mockup. S28 UDES 15 16 jpg{{!}}Mockup of the UDES 15/16. S28 UDES 15 16  Note that some details changed from the blueprint
+File:Various_Udes_mockups. S28 UDES 15 16 jpeg{{!}}Some of the many UDES project mock-ups. S28 UDES 15 16 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [////forum. S28 UDES 15 16 worldoftanks. S28 UDES 15 16 com/index. S28 UDES 15 16 php?/topic/284927-european-tank-discussion/page__st__1240__pid__9174185#entry9174185 '''UDES 15/16 archive material'''] posted by SP15 on the forums
+* https://www. S28 UDES 15 16 ointres. S28 UDES 15 16 se/udes. S28 UDES 15 16 htm
+* https://tanks-encyclopedia. S28 UDES 15 16 com/coldwar/Sweden/Swedish-prototypes-paper-projects. S28 UDES 15 16 php
+* https://ritastatusreport. S28 UDES 15 16 blogspot. S28 UDES 15 16 com/2015/03/swedish-tanks-part-23-udes-part-2. S28 UDES 15 16 html
+}}

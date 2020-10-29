@@ -1,0 +1,67 @@
+{{TankData|Tank= 
+
+| The LT-432 is a T8 Soviet premium light tank. R158 LT 432  It's a quite fast light tank with surprising amounts of armor; gun handling; gun depression and shell velocity. R158 LT 432  Often referred to as a light-medium hybrid, this tank gives up little of its 'lightness' for its armor. R158 LT 432  Instead, this tank ends up with a set of characteristics that seem to fit just about any situation it may encounter. R158 LT 432  It is hence a 'jack of all trades'. R158 LT 432 
+The viewrange is slightly subpar for its tier/class, but quite workable, especially with a good crew (and /or the 'food' consumable). R158 LT 432 
+
+It is for good reason considered one of, if not ''the'' best, T8 light tank. R158 LT 432  Its flexibility makes it a good purchase, as it will tend to do well regardless of the situation. R158 LT 432  It also helps that it has, alongside many other T8 LTs, a rather affordable price. R158 LT 432 
+
+The LT-432 is generally a solid choice for a dedicated light tank player, and remains highly recommended for the 'Frontline' mode, where you'll get to properly use your speed, stealth and firepower. R158 LT 432 
+
+
+
+|Gallery= 
+
+|InTheGame_pros= 
+* High DPM, good gun handling and high velocity APCR (standard) ammo
+* Above average gun depression
+* Best armor in tier/class
+* High top speed, good acceleration and agility
+* Low profile, great camouflage values
+
+|InTheGame_cons= 
+* Large hull, as large as some heavy tanks
+* Low alpha damage
+* Fires AP as premium ammo, with poor penetration and shell velocity
+* Limited viewrange for a light tank
+* Crew of 3 limits its usefulness as a crew trainer
+
+|InTheGame_performance= 
+The LT-432 has the same crew setup, comparable sneaking ability and similar overall layout as its top tier brother, the infamous T-100 LT. R158 LT 432  Yet it is not a complete carbon copy: <br />
+The main difference lies in its hull and gun. R158 LT 432  The LT-432's hull, while mostly appreciable in terms of height and being able to create some troll-bounces, has an irritating length and width that equals the Obj. R158 LT 432  252U. R158 LT 432  Fortunately it also carries the potent D-58 gun with high rate of fire, moderate damage/penetration and decent handling, allowing for good damage potential compared to the T-100 LT's situational weapon. R158 LT 432  Thus it could be played better by imitating the WZ-132 or T-54 ltwt. R158 LT 432  style, work with a medium-like mindset and bring out the firepower when assists won't come in easy. R158 LT 432  Despite this medium analog, its armor shouldn't be relied upon, but can sometimes give one the edge in skirmishes. R158 LT 432  <br />
+If relegated to secondary roles, passive scouting in a LT-432 isn't as convenient as most other regular lights could manage, but still viable as long as there is suitable concealment. R158 LT 432  Active scouting require more experience to work out well: its oversized hull should be carefully protected while poking out the turret to spot, otherwise a few de-tracking shots will be your bane. R158 LT 432  Despite the good mobility, its agility lags a bit after those tech tree peers, and caution must be applied should one plan on making tight turns or circling runs. R158 LT 432 <br />
+Overall, the LT-432 provides a very accurate taste of high tier Soviet lights gameplay-wise, just as the Strv S1 does for the S-Tanks line. R158 LT 432  Being nimble, versatile enough to fulfill multiple roles and has what it takes to keep relevant even when things get hot. R158 LT 432  <br />
+{{VideoYT|ro5pJlekTEE}}
+
+|InTheGame_research= 
+Premium vehicle, elite in its stock configuration. R158 LT 432 
+
+|InTheGame_equipment=
+Coated Optics, Vertical Stabilizer, Tank Gun Rammer, Vents, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+* With a base view range of 380m, ''Optics'' is mandatory unless one opts to passive scout all the time; in that case mount Binocs. R158 LT 432 
+* ''Gun Rammer'' is highly beneficial for combat patrol roles. R158 LT 432  Outgunning light colleagues or even mediums at the right time can be crucial. R158 LT 432 
+If still in the progress of grinding Soviet LT crews, one may choose ''Vents'' to boost crew efficiency;<br />
+
+Alternatively, substitute the Vents with ''VStab'' for better gun handling. R158 LT 432 <br />
+
+Survivability equipments, such as the ''filter'' or ''wet rack'' is not advised: for light tanks with a low HP pool, having a repair kit is enough to keep the modules up and running until the hull itself expires. R158 LT 432  If detonation or fire troubles you that much, train their perspective crew skills. R158 LT 432 
+
+
+|External_Reviews= 
+
+|History= 
+The gun fitted on the new [[Object 430]] was a powerful 115 mm D-68 (2A21). R158 LT 432  This was a potentially risky decision to replace the human loader by an electro-hydraulic automatic system, since the technology was new to Russian designers. R158 LT 432  The crew was reduced to three, which allowed an important reduction in internal volume and external visible silhouette, and consequently in weight, from 36 tonnes (obyekt 430) to 30. R158 LT 432 5 tonnes. R158 LT 432  The height dropped by 76 mm. R158 LT 432  <br />
+However, the arrival of the British 105 mm L7 gun and the US M68 variant of it, fitted to the Centurion and [[M60]] tanks, forced the team to undertake another audacious première, with the adoption of composite armour. R158 LT 432  The recently created process was called "K combination" by Western armies: this protection consisted of an aluminium alloy layer between two high strength steel layers. R158 LT 432  As a consequence, the weight of the prototype rose eventually to 34 tonnes. R158 LT 432  But, as the engine was now a 700 hp (515 kW) 5TDF (also locally designed), its mobility remained excellent, far superior to the active T-62. R158 LT 432  The obyekt 432 was ready in September 1962 and production started in October 1963 in the Kharkiv plant. R158 LT 432  On 30 December 1966, it entered service as the T-64. R158 LT 432  
+|HistoricalGallery=
+
+|HistAcc=
+The tank in game, and its model, is based upon the T64A rather than the Object 432. R158 LT 432  
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

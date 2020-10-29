@@ -1,0 +1,78 @@
+{{TankData|Tank=Object_140
+|
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Excellent DPM, shell velocity, penetration and gun handling
+* Reasonable accuracy, the gun stays effective at mid-long range
+* Strong turret armor and reverse-angled side hull armor (good for sidescraping)
+* Good speed and acceleration, and excellent hull traverse speed
+* Low profile, good camouflage values
+* Oddly good gun depression for a Soviet Tank, at -7 degrees
+
+|InTheGame_cons=
+* Hull armor is weak when improperly angled, or not angled at all
+* Frequent ammo rack and fuel tank damage
+* Low alpha damage
+
+|InTheGame_performance=
+In comparison to its sister tanks, the Object 140 is the fastest, and gains an extra degree of gun depression - allowing it to make use of more terrain to hull down and minimise exposure as it fires. R97 Object 140  It generally, more so than its predecessor, the [[T-54]], relies on vision control and camo as opposed to armour to achieve its goals of dealing damage and scouting for the rest of the team. R97 Object 140  While the turret can take a beating frontally, it does have a weak cupola, making it marginally less effective than a T-62A hull-down. R97 Object 140  Previous to patch 9. R97 Object 140 20 the turret roof had a meagre 20mm of armour (as the [[Object 907]] still does), making it easily overmatched due to the 3x calibre rule. R97 Object 140  However since then the roof has been increased to 45mm, meaning it gets overmatched far less frequently. R97 Object 140  
+
+For this reason, the Object 140 has become clearly superior to the T-62A, as the small cupolas can be easily mitigated by making use of the superior gun handling and constantly moving, making hitting them extremely difficult, and thus removing the one clear advantage the T-62A previously had. R97 Object 140  In comparison to the T-54, the Object 140 is far more of an all round tank due to the much better gun handling, average penetration and turret armour, whilst being slightly weaker when it comes to brawling due to the weaker hull armour when compared to other vehicles of the same tier. R97 Object 140  
+
+The Object 140 is a staple in tier X competitive play for players who have not yet participated in a Clan Wars Campaign to gain access to the Object 907. R97 Object 140  It has armour that can bounce shots when needed, excellent damage per minute and very good mobility, making it very well suited to the "wolf-packs" that are used very frequently, whilst still being flexible enough to work on its own or with one or two other vehicles. R97 Object 140  It only loses out to the Object 907 because of the incredibly bouncy hull armour that the 907 has, as well as its slightly better rate of fire further boosting its damage per minute. R97 Object 140  However the Object 140 has a more effective turret, due to the aforementioned buffs that it received, marginally better gun handling, and 2 extra degrees of gun depression, meaning that the 140 can often feel more comfortable to play. R97 Object 140  
+
+*As of 1. R97 Object 140 10. R97 Object 140 1, the Obj. R97 Object 140  140 has been buffed somewhat. R97 Object 140  The hull effective is now about 220 on the upper plate, due to the thickness increasing, and the gun depression has been increased from -6 to -7. R97 Object 140 
+|InTheGame_research=
+* It comes fully researched
+
+|InTheGame_equipment=
+Vertical Stabilizer Mk 1, Medium-Caliber Tank Gun Rammer, Improved Ventilation Class 2, Coated Optics
+
+|External_Reviews=
+{{VideoYT|a0jRTTBNqUU}}
+{{VideoYT|SdwcvIM0ZD4}}
+{{VideoYT|Z1MJdLKcftc}}
+{{VideoYT|xkIXRAfhuis}}
+
+|History=
+Object 140 was an experimental medium tank developed between 1953 and 1958 in Nizhny Tagil in order to improve/replace the T-54. R97 Object 140  Two prototypes were built, but in 1958 the project was terminated in favor of the [[Object 430]], better known under his production designation T-55. R97 Object 140 
+<br />
+==Development history==
+
+At the time when Morozov was working on his Object 430 tank, a young engineer, Leonid N. R97 Object 140  Kartsev, was the head of the OKB-520 design bureau of Uralvagonzavod factory (UVZ) in Nizhny Tagil. R97 Object 140  He was responsible for the T-54A (Object 137G) and T-54B (Object 137G2) modernizations of T-54 main battle tank. R97 Object 140  After work on the T-54M (Object 139) modernization was abandoned he and his design team started working on a new tank, called Object 140. R97 Object 140  The new tank had a suspension with six light road wheels made of aluminum. R97 Object 140  The turret was cast and armed with a 100 mm D-54TS tank gun with the Molniya two-plane stabilization system. R97 Object 140  The tank carried 50 rounds. R97 Object 140  The chief designer of the legendary V-2 diesel engine, Ivan Trashutin refused to modify the engine to demanded 580hp specification, so Kartsev turned to Barnaul engine plants chief designer Evgeny Artiemejev. R97 Object 140  The plant manufactured V-series engines for agricultural and other domestic applications. R97 Object 140  Artiemejev received the idea well and agreed to develop the 580hp version. R97 Object 140  
+
+After initial prototypes were completed, the weight stood at 36. R97 Object 140 5t, a half ton over the design specification. R97 Object 140  Kartsev choose to work the weight down for real, instead of hiding it to the paperwork (an usual procedure among designers of the era). R97 Object 140  To overcome this, aluminum roadwheels and aluminum engine cover were introduced among other minor modifications. R97 Object 140  The engine was turned on its lap to the bottom of the hull, a solution which reduced the height of the engine compartment but caused further modifications to the engine and considerably complicated maintenance. R97 Object 140  
+
+In 1957 Uralvagonzavod built two Ob'yekt 140 prototypes which were put on trials soon after. R97 Object 140  On hes memoirs Kartsev recall that during assembly and factory tests he became more and more aware that the tank was low-tech, difficult to operate and repair. R97 Object 140  Only one plant in the whole soviet union was able to cast some of the necessary plates, and specific parts on the engine compartment were not serial productable at all. R97 Object 140  Kartsev mentions that his engineers needed to use dentist mirror to install exhaust collectors from a hatch below the tank. R97 Object 140  After few sleepless nights, Kartsev decided to write a letter himself to the Central Commitee, and demand the cancellation of the project. R97 Object 140  To his surprise, he was agreed and not even punished for wasting 16 million rubles of public money on the project. R97 Object 140 
+
+Whilst still on moral guilt from hes failure,  he started working on yet another T-54 main battle tank modernization called the T-55 (Object 155) in which he included one of the key innovations from his Object 140 tank: the upper fuel tanks were fitted with mounts for tank gun ammunition. R97 Object 140  This increased the ammunition load carried by the tank to 45 rounds. R97 Object 140  The aluminium roadwheels later made it to the T-72 tank. R97 Object 140  
+The T-54/55 series eventually became the most-produced tank in history. R97 Object 140  Estimated production numbers for the series range from 86,000 to 100,000. R97 Object 140  
+
+|HistoricalGallery=
+image:Object_140_at_Kubinka_tank_museum. R97 Object 140 jpg{{!}}Object 140 at Kubinka tank museum
+image:Object_140_at_Kubinka_testing_grounds. R97 Object 140 jpg{{!}}Object 140 at Kubinka testing grounds
+image:Object_140. R97 Object 140 jpg{{!}}Object 140
+
+
+|Ref_references=
+
+
+|Ref_sources= Карцев, Леонид Николаевич: Воспоминания Главного конструктора танков
+
+
+|Ref_links= https://militera. R97 Object 140 lib. R97 Object 140 ru/memo/russian/kartsev_ln/08. R97 Object 140 html
+
+|Sidebar_Camostop=16. R97 Object 140 7
+|Sidebar_Camomove=12. R97 Object 140 5
+|Sidebar_Camofire=3. R97 Object 140 3
+|Sidebar_Passhard=0. R97 Object 140 527
+|Sidebar_Passmed=0. R97 Object 140 623
+|Sidebar_Passsoft=1. R97 Object 140 438
+|Sidebar_DispTurret=0. R97 Object 140 096
+|Sidebar_DispRecoil=3. R97 Object 140 836
+|Sidebar_DispAccel=0. R97 Object 140 077
+|Sidebar_DispTurning=0. R97 Object 140 077
+}}

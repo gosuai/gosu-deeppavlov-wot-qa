@@ -1,0 +1,44 @@
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Good accuracy, aimtime, gun handling, DPM and penetration
+* Fires high velocity APCR as standard ammunition
+* Great mobility, though slightly worse than the [[M41 Walker Bulldog]]
+* Good gun depression and elevation
+* Ideal crew trainer for all regular Chinese LTs (same crew slots, loader is also radio operator)
+
+|InTheGame_cons= 
+
+* Large size and low camouflage values for a light tank
+* Low alpha damage 
+* Very thin armor offers no real protection, very vulnerable to HE penetration
+
+
+|InTheGame_performance= This is a worse Bulldog and also not better then the tier 8 Chinese light. Ch42 WalkerBulldog M41D  As a premium you get away with shooting some more APCR without hurting your credits, and such a thing is heavily recommended if you want to penetrate most enemies from the side or equal tier medium tanks from the front. Ch42 WalkerBulldog M41D     
+
+|InTheGame_research= 
+Comes elite in stock configuration, none required. Ch42 WalkerBulldog M41D 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+{{VideoYT|R84KJ-fV7bg}}
+|History= 
+M41 modified by the Republic of China Army with a new Detroit Diesel 8V-71T diesel engine, enabling the tank to reach speeds of up to 72 km/h (44. Ch42 WalkerBulldog M41D 7 mph) and increasing its range to 450 km (279 miles). Ch42 WalkerBulldog M41D  The turret was altered to carry a Taiwanese-manufactured variant of the M32 known as the M32K1, as well as a co-axial Type 74 (FN MAG) general purpose machine gun. Ch42 WalkerBulldog M41D  The M32K1 has a fume extractor and a different muzzle brake, and has been upgraded with thermal imaging sights. Ch42 WalkerBulldog M41D 
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

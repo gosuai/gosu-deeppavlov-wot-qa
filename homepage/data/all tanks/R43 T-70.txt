@@ -1,0 +1,72 @@
+{{TankData|Tank=T-70
+|
+
+|InTheGame_pros=
+* Excellent penetration with top gun
+* Quite fast, like other Soviet light tanks
+* Good hull turn speed
+* Frontal armor tends to be almost immune to automatic cannons at mid distance
+* Low profile
+* Turret mantlet helps bounce many rounds
+
+|InTheGame_cons=
+* Poor gun depression
+* Engine is damaged quite often
+* Paper side armor
+* Critical hit in side usually end with dead commander and/or destroyed track
+* Low number of crew
+* Low acceleration on soft terrain
+
+|InTheGame_performance=
+This tank (especially after obtaining the fearsome VT-42) is rather a frontline support tank. R43 T-70  With your weak side armour you should keep away from fast tanks, which can (and will) flank you. R43 T-70  Remember, with your speed you can flank the enemies position and spread serious damage among them. R43 T-70  But be careful about the gun depression! The ones whom had played before with a tank with  similar gun depression (like IS) shouldn't find themselves in a hard situation, unlike the one whom hadn't played such tank. R43 T-70 
+
+Playing aggressively is beneficial in tier III battles and some tier IV battles, when you can somewhat rely on your armour, especially the well-sloped frontal hull. R43 T-70  Angling it a bit, not revealing a significant portion of your weak side armour improves the ability to withstand hostile fire. R43 T-70  Also, extreme caution should be taken around vehicles equipped with howitzers, as the sides are easily penetrated by HE rounds and even a non-penetrating hit deals dreadful damage. R43 T-70  In tier V battles, the horrible gun depression reduces your abilities to hide and engage the enemies, as you cannot play overly aggressively. R43 T-70  Thus, choosing your sniping or scouting position carefully is of utmost importance. R43 T-70 
+
+Finally, though the armour is very good, at least frontally, relying too heavily on it may have dire consequences. R43 T-70  In order to utilise the good top gun, staying alive should be the priority, as the high penetration gun may prove to be decisive in later stages of the game. R43 T-70 
+
+|InTheGame_research=
+* The '''37 mm ZiS-19''' gun carries over from the T-60. R43 T-70  Its improved accuracy allows you to snipe early on. R43 T-70 
+* Improve the mobility by researching the '''T-70 enhanced''' chassis and the '''M-80''' engine. R43 T-70 
+* Next, go for the improved '''T-70M''' turret to get the '''45 mm VT-42''' top gun. R43 T-70 
+* Last, research the '''9RM''' radio. R43 T-70  This long range radio is used on many Russian tanks in the higher tiers. R43 T-70 
+* If you played the SU-76 tank destroyer, you will find the engine and radio are already unlocked. R43 T-70 
+* The T-46 light tank also unlocks the top gun. R43 T-70 
+* Finally, research the T-80 tank and the SU-76 tank destroyer, if you haven't already. R43 T-70 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics, Camouflage Net, Binocular Telescope
+
+|Gallery=
+
+|History=
+The T-70 was a light tank used by the Red Army during World War II, replacing both the T-60 scout tank for reconnaissance and the T-50 light infantry tank for infantry support. R43 T-70  The T-80 light tank was a more advanced version of the T-70 with a two-man turret—it was only produced in very small numbers when light tank production was abandoned. R43 T-70  
+
+==Development history==
+[[image:T-70 in Velikiy Novgorod. R43 T-70 jpg |thumb|200px|left|T-70 in Velikiy Novgorod ]]
+The T-70 was armed with a 45-mm L/46 gun Model 38 with forty-five rounds carried, and a coaxial 7. R43 T-70 62-mm DT machine gun. R43 T-70  The tank was operated by a driver and a commander who loaded and fired the gun. R43 T-70  Armour thickness on the turret front was 60 mm, hull front and sides: 45 mm, rear and turret sides: 35 mm, roof and bottom: 10 mm. R43 T-70 
+By 1942, light tanks were considered inadequate by the Red Army, unable to keep up with the T-34 medium tank and unable to penetrate the armour of most German tanks, but they could be produced by small factories which were unable to handle the large components of medium and heavy tanks. R43 T-70  The T-70 was an attempt to remedy some of the shortcomings of the T-60 scout tank, which had very poor cross-country mobility, thin armour, and an inadequate 20-mm gun. R43 T-70  It also replaced the very short production run of the T-50 light infantry tank, which was more sophisticated, but also much too complicated and expensive to produce. R43 T-70  The T-70 was designed by Nicholas Astrov's design team at Factory No. R43 T-70  38 in Kirov. R43 T-70 
+The first batch of T-70s were built with a GAZ-202 automotive engine on each side of the hull, one driving each track. R43 T-70  This arrangement was seen to be a serious problem, even before the first tanks were issued. R43 T-70  It was quickly redesigned as the T-70M (although it continued to be referred to as just T-70), with the engines in-line on the right side of the tank and a normal transmission and differential. R43 T-70  The conical turret was replaced by one more easily welded out of plate armour, and moved to the left side of the hull. R43 T-70  Curiously, even after the T-70's production line was redesigned, SU-76 self-propelled guns started to be built with the same unsatisfactory unsynchronized two-engine layout, and all of them were later recalled for factory rebuilding as SU-76Ms. R43 T-70 
+T-70s were put into production in March 1942 at Zavod No. R43 T-70  37, and along with T-60 production at GAZ and Zavod No. R43 T-70  38. R43 T-70  They completely replaced T-60 production in September 1942, although that tank remained in use until the end of the war. R43 T-70  Production ended in October 1943, with 8,226 vehicles completed. R43 T-70  In April 1942, the conical turrets on early-production machines were replaced with new welded turrets. R43 T-70  The end of the T-70's production run was built with two 85-hp GAZ-203 engines, a Mark 4 commander's periscope replacing a vision slit, and other improvements. R43 T-70 The T-70 remained in service until 1948. R43 T-70 
+
+==Limitations==
+
+The one-man turret of the Soviet light tanks made co-ordinating a tank platoon nearly impossible, because the commanders were kept busy acquiring targets, loading and firing the main gun and machine gun, and commanding their drivers. R43 T-70  The infantry tank role was already considered obsolete. R43 T-70  The SU-76 self-propelled gun was better suited for infantry support, its 76. R43 T-70 2-mm gun capable of firing a larger high explosive shell. R43 T-70  Industrial resources could be redirected from light tanks to building SU-76s. R43 T-70  In an attempt to compensate, the T-80 light tank was designed, a more robust version of the T-70 with a two-man turret. R43 T-70  But there was enough lend-lease equipment available to fulfill the reconnaissance role of the light tanks, and armoured cars were better suited for light scouting and liaison. R43 T-70  All light tank production was cancelled in October 1943, after only about 120 T-80s were built. R43 T-70  No further light tanks would be built during the war. R43 T-70 
+In November 1943 Red Army tank units were reorganized: light tanks were replaced by the T-34 and new T-34-85, which started production the following month. R43 T-70  Light tanks continued to be used in self-propelled artillery and some other units. R43 T-70  The Soviets did start development work on an amphibious light tank in 1945, resulting in the post-war PT-76, introduced in 1954. R43 T-70 
+
+
+|HistoricalGallery=
+File:T-70 in Velikiy Novgorod. R43 T-70 jpg{{!}}T-70 in Velikiy Novgorod
+File:T-70 Parola Tank Museum Main gun missing in example. R43 T-70 jpg{{!}}T-70 Parola Tank Museum Main gun missing in example
+File:T-70 Parola Tank Museum rear view. R43 T-70 jpg{{!}}T-70 Parola Tank Museum rear view
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. R43 T-70 wwiivehicles. R43 T-70 com/soviet-union/vehicle/light-tank/t-70-light-tank. R43 T-70 asp '''T-70 Light Tank'''] Photos & history. R43 T-70 
+
+}}

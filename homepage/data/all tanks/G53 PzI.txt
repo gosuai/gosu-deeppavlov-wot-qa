@@ -1,0 +1,59 @@
+{{TankData|Tank=PzI
+|
+
+|InTheGame_pros=
+* High flexibility: good gun handling and depression
+* 2cm Breda gun has high burst capability with relatively short reload
+* Agile in top configuration, good hull traverse and acceleration
+* Small turret silhouette, not easy to hit when hulldown
+* Only sees tier II battles
+
+|InTheGame_cons=
+* Limited mobility due to low speed limit and mediocre ground resistance values
+* Only armed with unreliable autocannons: underwhelming penetration, low accuracy and hard-coded effective range limit
+* Weak armor. G53 PzI  HE and other autocannons can finish you instantly
+* Turret is mounted far off the centreline to the right side 
+* Only 2 crew members, any casualty renders the tank barely playable
+
+|InTheGame_performance=
+Armor is not bouncy to lower tier guns and most autocannons and so to make up for it some angling can be used if stuck out in the open with no other choice but absorbing damage. G53 PzI  However it rarely works so try not to be caught in the open in this tank. G53 PzI   The tank is best used behind cover and popping out occasionally to get shots off at a distracted enemy. G53 PzI  The tank also has enough mobility to relocate at a reasonable rate, but give it enough time to accelerate as it lacks horsepower without the top engine. G53 PzI 
+
+The guns are subpar for even tier 1 but with smart planning can be devastating. G53 PzI  The Breda is advised due to the fact that most high threat tier 2 tanks have armor that is completely immune to the KwK 38's 23mm nominal pen, most notably the tank's rival, the Panzer II even from the sides. G53 PzI  The Breda, while having a somewhat longer reload in between shots (but better full-clip reload rate), is still better due to the extra 7mm of penetration. G53 PzI  It is recommended to stick to close ranges and learn of armor zones and weakspots, as 30mm of pen could actually go through most targets by targeting thinner plates such as sides, hatches or cupolas. G53 PzI  However, some targets, especially the French light tanks are practically immune from your autocannon fire. G53 PzI  Basically choose the Breda for general usage, and only take the KwK if you are sure to use it to its strengths (better at peek-a-booing due to rapid fire, penetration could be brought on par by resorting to APCR ammo, but has terrible accuracy even for this tier). G53 PzI 
+
+Overall, while this tank is inferior to most tier II tanks, it can really do some damage. G53 PzI  Stick to cover, and use peek-a-boo tactics to make the most of the lowish pen and accuracy, yet decent DPM. G53 PzI  Treat this tank like a buffed tier I tank, with more speed and better profile. G53 PzI  With a few games you should soon be able to get to its next upgrade: the Pz 1C. G53 PzI 
+
+|InTheGame_research=
+* Breda carries over from Leichttraktor. G53 PzI  Mount immediately. G53 PzI  
+* The Kw. G53 PzI K. G53 PzI  38 can be researched from other German LTs; although both are Tier-1 guns in this Tier-2 tank so you are still undergunned. G53 PzI 
+* The turret upgrade doesn't put on any extra weight and improves many parameters by a bit. G53 PzI 
+* Next get the tracks for weight capacity, then the engine. G53 PzI 
+* Go from there. G53 PzI 
+
+|InTheGame_equipment=
+Vents, GLD, Binocular Telescope
+
+|Gallery=
+
+
+|History=
+The Panzer 1 was developed by the Germans in 1934. G53 PzI  It was supposed to be a training tank for the rapidly expanding panzerwaffe. G53 PzI  Due to a shortage of modern combat tanks, the Germans put the Panzer 1 into combat where it fared badly. G53 PzI  It was quickly withdrawn by late 1941 after more Panzer IIIs and IVs came into production. G53 PzI  Nevertheless, the Panzer 1 was the first ever German tank to be used operationally in the Panzer Force. G53 PzI 
+{{VideoYT|WdXK6E2_SBo}}
+
+|HistoricalGallery=
+Pz. G53 PzI Kpfw. G53 PzI  I Breda. G53 PzI jpg
+
+|HistoricalAccuracyErrors=
+The Panzer 1 is currently missing its primary historical armament, the 7. G53 PzI 92mm Mg 13. G53 PzI  
+|Ref_references=
+
+
+|Ref_sources=
+Chamberlain, P. G53 PzI , H. G53 PzI L. G53 PzI  Doyle and T. G53 PzI L. G53 PzI  Jentz, 1999,  Encyclopedia of German Tanks of World War Two - The Complete Illustrated Dictionary of German Battle Tanks, Armoured Cars, Self-Propelled Guns and Semi-Tracked Vehicle, Cassel Reprint, London, 272p, ISBN:9781854095183. G53 PzI 
+
+Jentz, T. G53 PzI L. G53 PzI  and H. G53 PzI L. G53 PzI  Doyle, 2002, Panzer Tracts - No. G53 PzI 1-1 Panzerkampfwagen-I (Kleintractor to Ausführung B), Jentz, Boyds, MD, ISBN:9780970840769. G53 PzI 
+
+Jentz, T. G53 PzI L. G53 PzI  and H. G53 PzI L. G53 PzI  Doyle, 2002, Panzer Tracts - No. G53 PzI 1-2 Panzerkampfwagen-I (Kleine Panzerbefehlswagen to VK 18. G53 PzI 01), Jentz, Boyds, MD, ISBN:9780970840783. G53 PzI 
+
+
+|Ref_links=
+}}

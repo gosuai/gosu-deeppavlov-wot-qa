@@ -1,0 +1,63 @@
+{{removedTank}}
+{{sidebar|Tank=T23
+|nation=usa |tier =8 |class=medium
+}}
+
+[[image:annoT23. T23 png|left|link=]] The '''T23''' was an [[USA|American]] tier 8 [[medium tank]]. T23  It was removed in [[Changelog: World of Tanks (PC) Patch 0. T23 6. T23 5|patch 0. T23 6. T23 5]] and replaced by the previously tier 9 [[M26 Pershing]]. T23  The M26 Pershing's position at tier 9 was filled by the [[M46 Patton]]. T23  At the time it was removed it was said that the T23 would be back in future patches. T23 
+
+The T23 has since returned, in a different way, in the form of the [[Tank:T23E3|T23E3]]. T23 
+
+==Gallery==
+
+
+{{InTheGame
+|pros=
+*Very good rate of fire
+*High health pool
+*Slow top speed enables accurate firing on the move
+*Good credit maker
+
+|cons=
+*Low penetration
+*Low alpha damage
+*Painfully slow acceleration
+*Very poor armour for a tier VII medium
+
+|performance= 
+
+|research=N/A
+
+|equipment=Vertical Stabilizer, Coated Optics, GLD, Vents
+}}
+
+==Historical Info==
+This experimental medium tank was developed from the end of 1942 through the summer of 1944. T23  The T23 was neither adopted for serial production nor took part in combat. T23 
+
+The first T23 prototypes were completed in January 1943, and these vehicle were the first to be completed in the T20 series. T23  They differed from the other T20 series in using the electric drive transmission manufactured by General Electric. T23  They were also fitted with the vertical volute-spring suspension similar to that used on the Medium M4 Tank. T23  The armament consisted of the 76mm Ml gun. T23  As with the T20 and T22 series, projects were initiated for development of vehicles armed with the 75mm automatic and 3in guns. T23  Designated T23E1 and T23E2 respectively, these projects were cancelled without development. T23  After tests of the T23 pilot vehicle, production was authorized for 250 of these vehicles. T23  The production model differed in several ways from the pilot vehicle: the 76mm Ml gun was replaced with the model M1A1, a vision cupola was provided for the commander, and the gun-ring hatch mounting the . T23 50 caliber AA machine-gun was moved to the loader's position. T23  Production commenced in November 1943, and continued through to December 1944, but none were shipped overseas. T23  Though this vehicle did not see active service, features tried and developed in the T20-T23 series were incorporated into M4 vehicles, in particular; the T23 type turret and 76mm gun, HVSS, and the simplified 47° hull front. T23  Research work on these vehicles also played a big part in the development of the T25 and T26 Medium Tank. T23  
+
+==Historical Gallery==
+<gallery>
+image:T-23_prototype_vehicle. T23 jpg|T-23 prototype vehicle
+image:T23 30. T23 jpg
+image:T23 25. T23 jpg
+image:T23 1. T23 jpg
+image:T23 10. T23 jpg
+image:T23 20. T23 jpg
+image:T23 13. T23 jpg
+image:T23 41. T23 jpg
+</gallery>
+
+==External Links==
+* [https://en. T23 wikipedia. T23 org/wiki/T20_Medium_Tank#T23_series ''Wikipedia''] 
+
+<div class="b-tech-nav">
+{{#gw_nav_table:
+name = USA tanks |
+Light Tanks#{{#gw_vehicle_list:wot: nation = USA | class = lightTank | order = level | style = text | divider = • }} |
+Medium Tanks#{{#gw_vehicle_list:wot: nation = USA | class = mediumTank | order = level | style = text | divider = • }} |
+Heavy Tanks#{{#gw_vehicle_list:wot: nation = USA | class = heavyTank | order = level | style = text | divider = • }} |
+Tank Destroyers#{{#gw_vehicle_list:wot: nation = USA | class = AT-SPG | order = level | style = text | divider = • }} |
+Self-Propelled Artillery#{{#gw_vehicle_list:wot: nation = USA | class = SPG | order = level | style = text | divider = • }}
+}}
+</div>
+{{medium Tanks}}

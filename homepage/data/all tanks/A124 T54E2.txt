@@ -1,0 +1,44 @@
+{{TankData|Tank=T54E2
+|
+
+|InTheGame_pros=
+*Good DPM, gun handling, shell velocity and penetration
+*Very tough frontal turret armor
+*Great gun depression
+*Good mobility and speed for a heavy tank
+*Good viewrange
+
+|InTheGame_cons=
+*Poor hull armor for a heavy tank
+*Very large cupola weakspot on top of the turret
+*High ground resistance limits mobility on non-paved terrains
+*Long aim time 
+*Crew slots match the T110E5 & T57 Heavy Tank, limited usefulness as a crew trainer
+
+|InTheGame_performance=
+The key to mastering the M54 Renegade lies in this phrase: Jack of all trades, master of none. A124 T54E2 <br />
+Being modelled after the famous M48 Patton, experienced American tech tree players will already have an idea on what to expect: an agile hull-down fighter that relies on terrain, maneuver & clever tactics to truly shine, despite the heavy designation. A124 T54E2  <br />
+If forced into toe-to-toe duels against brawler heavy tanks such as the fearsome [[Tank:R134 Object 252U|Defender]], [[Tank:R165 Object 703 II|Object 703II]] or aggressive support tanks like the [[Tank:F84 Somua SM|Somua SM]] it will be harshly contested due to the lacking of competent hull armor & a rather small HP pool. A124 T54E2  However, your gun makes up somewhat for this with a high & stable damage output, making it possible in most situations to at least hold your own ground. A124 T54E2  <br />
+When out against medium tanks, it naturally feels at home, could easily outgun & pursue these opponents to collapse an entire flank, despite tanks like the [[Tank:It13 Progetto M35 mod 46|Progetto 46]] & the rare [[Type 59]] are not to be looked down upon due to the M54's relative clumsiness. A124 T54E2  <br />
+If no other options prove to be viable, the 105mm T140 gun can also support from distance with its good shell velocity and decent handling. A124 T54E2  Still, in this case its sniping ability is hampered by the mediocre accuracy. A124 T54E2  <br />
+Last but not least, one way to boost a "master of none" to "master of all", is to run the expensive BiA+Vent+Coke loadout. A124 T54E2  This can greatly improve your accuracy, DPM, view range & also mobility by a small amount. A124 T54E2 <br />
+
+|InTheGame_equipment=Vents, Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|History=
+The M54 Renegade featured ingame is a depiction of the US T54E2 tank, developed in the early 1950s. A124 T54E2 <br />
+The T54 project was an early attempt on upgrading the US service tank fleet to 105mm gun armament. A124 T54E2  The T54E2 retained the M48 Patton's hull, but features a new turret mounting a hand-loaded 105mm T140 gun. A124 T54E2  Further technological advancements rendered it obsolete & the project was eliminated in favor of the new T95 medium tanks. A124 T54E2 
+
+|HistAcc=
+The T54 project was perceived as an upgrade over the M48 Patton medium/main battle tank historically, but the M54 Renegade is designated as a heavy tank ingame. A124 T54E2 
+The T54 project was terminated before seeing active service or mass production; therefore the "M54" designation is fictional. A124 T54E2 
+
+|HistoricalGallery=
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

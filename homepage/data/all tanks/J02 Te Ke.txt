@@ -1,0 +1,63 @@
+{{TankData|Tank=Te_Ke
+|The Type 97 Te-Ke was a gift tank [https://worldoftanks. J02 Te Ke com/en/news/pc-browser/19/wg-august-extravaganza-main/ given to players to celebrate Wargaming's 16th anniversary]. J02 Te Ke   Like the other Japanese tanks of its tier, the Te-Ke sports a weak engine, a slow-turning turret, and practically no armor. J02 Te Ke   Though very vulnerable when exposed, with great gun depression and a very small turret profile, the Te-Ke is a master of concealment. J02 Te Ke   When properly positioned, even a clearly visible Te-Ke can make use of its powerful gun while being well out of harm's way. J02 Te Ke 
+
+|InTheGame_pros=
+* Good accuracy and damage
+* Good gun
+* Great gun depression
+* Small turret profile
+
+|InTheGame_cons=
+* Weak engine, resulting poor acceleration and difficulty knocking down trees and walls
+* Practically unarmored (UFP so thin that's it's overmatched by . J02 Te Ke 50 cal machine gun rounds!)
+* Slow aim time
+* Slow turret traverse
+* Small crew (commander also fills the roles of gunner, radio operator, and loader)
+
+|InTheGame_performance=
+The Type 97 Te-Ke presents a different challenge to players used to conventional light tanks. J02 Te Ke   While most light tanks favor fast-moving, aggressive flanking, the Te-Ke is a tank that needs to be played with great caution. J02 Te Ke   Though not particularly unmaneuverable, the Te-Ke is slow to accelerate and has a slow-traversing turret while still being very poorly armored. J02 Te Ke   At close range, the Te-Ke is easily outmatched by most tanks, and further exasperating this is the Te-Ke's two-man crew. J02 Te Ke   A dead commander cripples the Te-Ke, as he is also the gunner, radio operator, and loader. J02 Te Ke  The small crew can also result in your tank being knocked out from crew loss without losing all your HP. J02 Te Ke 
+
+The Te-Ke has a number of strengths that greatly reward players who carefully plan their positioning. J02 Te Ke  One of these strengths is its gun, which is the same 37mm gun available on the [[Tank:Ha_Go|Ha-Go]], although considerably more accurate. J02 Te Ke   With this increased accuracy, the gun's good penetration and alpha damage enable it to threaten even well armored enemy tanks at a safe distance. J02 Te Ke   The Te-Ke is also endowed with characteristic Japanese gun depression, giving it 12. J02 Te Ke 7 degrees of depression at the front and 15 at the sides and rear. J02 Te Ke   Its good gun depression makes it possible for the Te-Ke to go hull-down almost anywhere where there's a sizable hill. J02 Te Ke   The Te-Ke's puny one-man turret is too small for most tier II guns to hit reliably. J02 Te Ke   Because of this, a hull-down Te-Ke is true danger to almost any tank regardless of whether or not they can see it. J02 Te Ke 
+
+|InTheGame_research=
+All modules are researched with the tank. J02 Te Ke 
+
+|InTheGame_equipment=
+Binocular Telescope, Camouflage Net, GLD, Vents, Coated Optics,
+
+|InTheGame_Equipment_Builds=
+Regardless of what equipment build a player chooses to use, using an enhanced gun laying drive is strongly suggested. J02 Te Ke   Though ideally the Te-Ke is a stationary shooter, it has a very high after-shot aim bloom and somewhat slow aim time. J02 Te Ke   The gun laying drive ensures that the gun is capable of sustained, accurate fire. J02 Te Ke 
+
+When considering what to use for the remaining two equipment slots, the key factor is distance. J02 Te Ke   A Te-Ke player can decide to either go hull down in a place where they will be visible but have better chance of hitting their shots, or do so at a distance where they won't be visible but will have a harder time hitting shots. J02 Te Ke   Should a player should choose to do the former, they will find themselves ducking in and out of cover often. J02 Te Ke   Thus, the small aim bloom and aim time bonuses from vents will come in handy as will the hard view range boost from coated optics. J02 Te Ke   Should a player chose to do the latter and stay stationary a safer distance instead, the extra concealment from a camouflage net and stationary view range bonus from binoculars will be more helpful. J02 Te Ke 
+
+|Gallery=
+Te Ke. J02 Te Ke jpg
+Te-Ke (2). J02 Te Ke jpg
+Te-Ke (3). J02 Te Ke jpg
+
+|History=
+The origins of the Type 97 lay in a prototype diesel-engine version of the Type 94 Te-Ke developed by Hino Motors in 1936. J02 Te Ke  Although the prototype had a more powerful engine and larger gun, initial trials were not successful and the Japanese Army demanded numerous changes before acceptance. J02 Te Ke  Hino responded with a modified prototype in November 1937, in which the engine was moved towards the rear of the chassis. J02 Te Ke  This design was accepted and full production began in 1938. J02 Te Ke  A total of 616 units were produced from 1938 to 1944 (1 unit in 1937, 56 units in 1938, 217 units in 1939, 284 units in 1940, 58 units between 1941 and 1944). J02 Te Ke 
+
+
+==Design==
+Although the chassis was similar in appearance, the design of the Type 97 was different from the Type 94 in several significant areas. J02 Te Ke  The engine was at the rear and the gun turret (and commander) moved to the middle of the tank—this put the driver to the left of the commander in a much better position to communicate with each other. J02 Te Ke  As with the Type 94, the interior was lined with heat absorbing asbestos sheets. J02 Te Ke 
+
+The main armament was the Type 94 37 mm tank gun, with 96 rounds, barrel length of 136 cm (L36. J02 Te Ke 7), EL angle of fire of −15 to +20 degrees, AZ angle of fire of 20 degrees, muzzle velocity of 600 m/s, penetration of 45 mm/300 m, which was also used by Type 95 Ha-Go. J02 Te Ke  However, due to shortages in the production of this weapon, most vehicles were fitted with a 7. J02 Te Ke 7 mm Type 97 machine gun instead. J02 Te Ke 
+
+The Type 97 replaced the Type 94 on the assembly line in 1939, it was primarily assigned to reconnaissance regiments, and, as with US Army tanks prior to 1941, was not designed to engage enemy tanks. J02 Te Ke  Because it was a reconnaissance vehicle, built for speed, and not direct combat, its hull and turret were designed for only two crewmen; leaving the tankette commander to load and fire the main gun. J02 Te Ke  As with most tankettes it was severely deficient in armor protection, and was easy prey for a . J02 Te Ke 50 caliber machinegun (heavy machinegun). J02 Te Ke 
+
+A number of variants of the Type 97 were produced, including the Type 98 So-Da APC, which was designed as ammunition carrier and as a troop transport. J02 Te Ke 
+
+|HistoricalGallery=
+image:Type_97_Te-ke. J02 Te Ke jpeg{{!}}Type 97 Te-Ke
+image:6a00d8354be54369e2014e5fd2fcd3970c-800wi. J02 Te Ke jpg{{!}}Type 97 Te-Ke at Royal Australian Armored Corps Memorial and Army Tank Museum. J02 Te Ke 
+image:Type 97 Te-Ke (2). J02 Te Ke jpg
+image:Type 97 Te-Ke (3). J02 Te Ke jpg
+
+|Ref_references=
+
+|Ref_sources=
+https://en. J02 Te Ke wikipedia. J02 Te Ke org/wiki/Type_97_Te-Ke
+|Ref_links=
+
+}}
