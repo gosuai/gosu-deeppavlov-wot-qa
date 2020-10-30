@@ -1,0 +1,21 @@
+resources:
+  requests:
+    memory: 2000Mi
+    cpu: 200m
+  limits:
+    cpu: 1000m
+    memory: 4000Mi
+image:
+  repository: "eu.gcr.io/dota2-186112/gosu-deeppavlov-wot-qa"
+  tag: "latest"
+
+ingress:
+  host: ogorod.gosu.ai
+  service:
+    type: ClusterIP
+    port: 8000
+    paths:
+      - /wot-qa
+
+serviceEnv:
+  PREFIX: 'wot-qa'

@@ -15,7 +15,9 @@ pytz = "*"
 whitenoise = "*"
 requests = "*"
 deeppavlov = "*"
-tensorflow = "*"
+gosu-tasks = {editable = true, git = "https://github.com/gosuai/gosu-tasks.git"}
+invoke = "*"
+tensorflow = "==1.15"
 
 [requires]
 python_version = "3.6"

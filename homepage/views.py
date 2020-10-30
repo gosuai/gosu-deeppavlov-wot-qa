@@ -1,28 +1,36 @@
-from django.shortcuts import render
-import os
 import pickle
+from functools import lru_cache
 
-#load all tank names
-global all_tanks_html
-with open ('homepage/data/info/tank_names.txt', 'rb') as fp:
-    all_tanks = pickle.load(fp)
-all_tanks_html = ''
-for tank in all_tanks:
-    all_tanks_html += f'<option value="{tank}"></option>'
-
-#deeppvalov model
-import deeppavlov
 from deeppavlov import build_model, configs
-global model_qa
-model_qa = build_model(configs.squad.squad, download=True)
 
+from django.shortcuts import render
+
+MODEL_CONFIG = configs.squad.squad
+
+
+@lru_cache()
+def get_all_tanks():
+    with open('homepage/data/info/tank_names.txt', 'rb') as fp:
+        all_tanks = pickle.load(fp)
+    return ''.join(f'<option value="{tank}"></option>' for tank in all_tanks)
+
+
+@lru_cache()
+def get_model():
+    return build_model(MODEL_CONFIG)
+
+
+@lru_cache()
+def get_tank(tank_name):
+    with open(f'homepage/data/all tanks/{tank_name}.txt', 'r') as file:
+        tank_info = file.read().replace('\n', '. ')
+    return tank_info
 
 
 def index(request):
     question = ''
     answer = ''
     tank_info = ''
-    global all_tanks_html
     tank_name = ''
 
     if request.method == 'POST':
@@ -32,25 +40,16 @@ def index(request):
         if tank_name not in question:
             question = tank_name + ' ' + question
 
-        
         #make answer
-        with open(f'homepage/data/all tanks/{tank_name}.txt', 'r') as file:
-            tank_info = file.read().replace('\n', '. ')
-
-        global model_qa
-        answer = str(model_qa([tank_info],[question]))
-
-
-
-
+        tank_info = get_tank(tank_name)
+        model_qa = get_model()
+        answer = str(model_qa([tank_info], [question]))
 
     context = {
-
         'question': question,
         'tank_name': tank_name,
         'answer': answer,
-        'all_tanks_html': all_tanks_html,
+        'all_tanks_html': get_all_tanks(),
         'tank_info': tank_info,
-
     }
     return render(request, 'homepage/index.html', context)

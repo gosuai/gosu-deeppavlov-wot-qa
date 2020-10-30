@@ -1,0 +1,4 @@
+apiVersion: v1
+description: GOSU WoT DeepPavlov QA
+name: gosu-deeppavlov-wot-qa
+version: 0.1.0

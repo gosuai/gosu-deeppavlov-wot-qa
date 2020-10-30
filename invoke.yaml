@@ -1,0 +1,2 @@
+helm:
+  release: gosu-deeppavlov-wot-qa
