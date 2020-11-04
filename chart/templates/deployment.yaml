@@ -48,7 +48,7 @@ spec:
         - name: app
           image: {{ template "image" . }}
           command: [ gunicorn, -w, "1", --bind, "0.0.0.0:{{ .Values.ingress.service.port }}",
-                     --timeout, "60",
+                     --timeout, "180",
                      --worker-class, "sync",
                      --access-logfile, -,
                      --access-logformat, '%(h)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s" %(L)s %({X-Request-ID}i)s',
