@@ -1,3 +1,138 @@
+1,350,000 Cost. 
+820656 HP Hit Points. 
+49.52/5638.08/0 t Weight Limit. 
+575850 hp Engine Power. 
+50/12 km/h Speed Limit. 
+2424 deg/s Traverse. 
+11.6122.32 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+120/40/40 mm Hull Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+255/4800/255 255/4800/255 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+135/175/45135/175/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 6.3 s 50% Crew: 7.8 s 75% Crew: 6.81 s 100% Crew: 6.04 s Rammer: 5.44 s Vents: 5.91 s Both: 5.32 s Both and BiA: 5.2 s Both and Max Crew %: 4.99 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 6.3 s 50% Crew: 7.8 s 75% Crew: 6.81 s 100% Crew: 6.04 s Rammer: 5.44 s Vents: 5.91 s Both: 5.32 s Both and BiA: 5.2 s Both and Max Crew %: 4.99 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2585.6 50% Crew: 2086.4 75% Crew: 2390.4 100% Crew: 2697.6 100% Crew Vents: 2758.4 Rammer: 2998.4 Both: 3065.6 Both and BiA: 3132.8 Both and Max Crew %: 3267.2 Advantageous Damage Per Minute First-shot DPM: 2905.6 50% Crew: 2406.4 75% Crew: 2710.4 100% Crew: 3017.6 100% Crew Rammer: 3318.4 Vents: 3078.4 Both: 3385.6 Both and BiA: 3452.8 Both and Max Crew %: 3587.2 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2585.6 50% Crew: 2086.4 75% Crew: 2390.4 100% Crew: 2697.6 100% Crew Vents: 2758.4 Rammer: 2998.4 Both: 3065.6 Both and BiA: 3132.8 Both and Max Crew %: 3267.2 Advantageous Damage Per Minute First-shot DPM: 2905.6 50% Crew: 2406.4 75% Crew: 2710.4 100% Crew: 3017.6 100% Crew Rammer: 3318.4 Vents: 3078.4 Both: 3385.6 Both and BiA: 3452.8 Both and Max Crew %: 3587.2 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Gun Traverse Speed. 
+17° Gun Arc. 
+-10°/+15°-10°/+15° Elevation Arc. 
+115115 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 605.4 m With 75% Crew: 693.4 m With 100% Crew: 782.2 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1125.9 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+90 mm AC canon DCA 30. 
+135/175/45. 
+240/240/320. 
+9.52. 
+0.38. 
+1.7. 
+nan. 
+2050.0. 
+64000. 
+nan. 
+90 mm AC DCA 45. 
+212/259/45. 
+240/240/320. 
+8.7. 
+0.34. 
+2.3. 
+nan. 
+nan. 
+121250. 
+nan. 
+100 mm AC SA47. 
+232/263/45. 
+300/300/320. 
+6.0. 
+0.34. 
+2.9. 
+nan. 
+nan. 
+127550. 
+VI. 
+Maybach HL 230. 
+575. 
+20. 
+nan. 
+700. 
+26000. 
+VIII. 
+Maybach HL 230 P45F. 
+750. 
+20. 
+nan. 
+750. 
+55000. 
+IX. 
+Maybach HL 295. 
+850. 
+20. 
+nan. 
+750. 
+78000. 
+nan. 
+AMX AC mle. 46. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+18860. 
+nan. 
+AMX AC mle. 47. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+26260. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=AMX_AC_Mle1946
 |The AMX AC 46 is a completely different vehicle to the preceding ARL V39. F35 AMX AC Mle1946  It has some decent frontal armour, a decent gun selection, and unprecedented mobility in the French tank destroyer line. F35 AMX AC Mle1946  Unfortunately, these good traits are marred by numerous flaws that are not apparent in the garage. F35 AMX AC Mle1946 
 

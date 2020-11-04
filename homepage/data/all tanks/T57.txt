@@ -1,3 +1,55 @@
+cost Cost. 
+health Hit Points. 
+weight Weight Limit. 
+engine Engine Power. 
+speed Speed Limit. 
+traverse Traverse. 
+hp/weight Power/Wt Ratio. 
+pivot Pivot. 
+armor Hull Armor. 
+Shells. 
+Shell Cost. 
+damage Damage. 
+penetration Penetration. 
+rof Rate of Fire. 
+DPM Damage Per Minute. 
+accuracy Accuracy. 
+aim Aim time. 
+gunTraverse Gun Traverse Speed. 
+gunTraverseArc Gun Arc. 
+gunVerticalLimits Elevation Arc. 
+ammo Ammo Capacity. 
+fire Chance of Fire. 
+view View Range. 
+signal Signal Range. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+II T1 HMC • III T18 HMC • III M7 Priest • IV T82 HMC • IV M37 • V M41 HMC • VI M44 • VII M12 • VIII M40/M43 • IX M53/M55 • X T92 HMC. 
+UK. 
+II Loyd Gun Carriage • III Sexton II • III Sexton I • IV Birch Gun • V Bishop • VI FV304 • VII Crusader 5.5-in. SP • VIII FV207 • IX FV3805 • X Conqueror Gun Carriage. 
+Germany. 
+II G.Pz. Mk. VI (e) • III Sturmpanzer I Bison • III Wespe • IV Pz.Sfl. IVb • IV Sturmpanzer II • V Grille • VI Hummel • VII G.W. Panther • VIII G.W. Tiger (P) • IX G.W. Tiger • X G.W. E 100. 
+France. 
+II Renault FT 75 BS • III Lorraine 39L AM • IV AMX 105 AM mle. 47 • V AMX 13 105 AM mle. 50 • V 105 leFH18B2 • VI AMX 13 F3 AM • VII Lorraine 155 mle. 50 • VIII Lorraine 155 mle. 51 • IX Bat.-Châtillon 155 55 • X Bat.-Châtillon 155 58. 
+USSR. 
+II SU-18 • III SU-26 • IV SU-5 • V SU-122A • VI SU-8 • VII S-51 • VII SU-14-1 • VIII SU-14-2 • IX 212A • X Object 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
 {{removedTank}}
 {{sidebar|Tank=T57|nation=usa|class=spg|tier=2}}
 [[File:AnnoT57. T57 png|left]]

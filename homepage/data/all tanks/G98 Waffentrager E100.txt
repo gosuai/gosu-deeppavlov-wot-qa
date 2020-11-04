@@ -1,3 +1,99 @@
+6,100,000 Cost. 
+2000Expression error: Unrecognized word "unable". HP Hit Points. 
+95.14/150Expression error: Unexpected < operator./Expression error: Unrecognized word "unable". t Weight Limit. 
+840Unable to match configuration for query: engine:g98_waffentrager_e100::top|power hp Engine Power. 
+40/15 km/h Speed Limit. 
+26Unable to match configuration for query: chassis:g98_waffentrager_e100::top|traversespeed deg/s Traverse. 
+8.83Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+80/50/40 mm Hull Armor. 
+20/10/8Unable to match configuration for query: turret:g98_waffentrager_e100::top|armorturretfront/Unable to match configuration for query: turret:g98_waffentrager_e100::top|armorturretside/Unable to match configuration for query: turret:g98_waffentrager_e100::top|armorturretback mm Turret Armor. 
+Shells. 
+0/0/0 0/0/0 Shell Cost. 
+490/490/630Unable to match configuration for query: gun:g98_waffentrager_e100::top|damage1/Unable to match configuration for query: gun:g98_waffentrager_e100::top|damage2/Unable to match configuration for query: gun:g98_waffentrager_e100::top|damage3 HP Damage. 
+246/311/65Unable to match configuration for query: gun:g98_waffentrager_e100::top|penetration1/Unable to match configuration for query: gun:g98_waffentrager_e100::top|penetration2/Unable to match configuration for query: gun:g98_waffentrager_e100::top|penetration3 mm Penetration. 
+Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:g98_waffentrager_e100::stock|burstcount rounds Magazine Size: Unable to match configuration for query: gun:g98_waffentrager_e100::stock|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:g98_waffentrager_e100::stock|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information.Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:g98_waffentrager_e100::top|burstcount rounds Magazine Size: Unable to match configuration for query: gun:g98_waffentrager_e100::top|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:g98_waffentrager_e100::top|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information. Rate of Fire. 
+Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:g98_waffentrager_e100::stock|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:g98_waffentrager_e100::stock|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:g98_waffentrager_e100::stock|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information.Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:g98_waffentrager_e100::top|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:g98_waffentrager_e100::top|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:g98_waffentrager_e100::top|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. Damage Per Minute. 
+Expression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see CrewExpression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Crew Accuracy. 
+Expression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or EquipmentExpression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or Equipment Aim time. 
+Unable to match configuration for query: turret:g98_waffentrager_e100::stock|turrettraverseUnable to match configuration for query: turret:g98_waffentrager_e100::top|turrettraverse deg/s Turret Traverse. 
+360° Gun Arc. 
+-5°/+15°-Unable to match configuration for query: gun:g98_waffentrager_e100::top|depression°/+Unable to match configuration for query: gun:g98_waffentrager_e100::top|elevation° Elevation Arc. 
+Unable to match configuration for query: gun:g98_waffentrager_e100::stock|maxammoUnable to match configuration for query: gun:g98_waffentrager_e100::top|maxammo rounds Ammo Capacity. 
+Expression error: Unrecognized word "unable".Expression error: Unrecognized word "unable". % Chance of Fire. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment Signal Range. 
+nan. 
+12,8 cm Kw.K. 44 L/55. 
+246/311/65. 
+490/490/630. 
+4.55. 
+0.29. 
+1.5. 
+nan. 
+nan. 
+310000. 
+nan. 
+Waffenträger auf E 100. 
+//. 
+22. 
+380. 
+nan. 
+nan. 
+100. 
+nan. 
+Engine_VK4502P. 
+nan. 
+0. 
+nan. 
+nan. 
+45300. 
+nan. 
+Waffenträger auf E 100. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+nan. 
+Radio_VK4502P. 
+nan. 
+nan. 
+nan. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{removedTank}}
 {{TankData|Tank=Waffentrager_E100|
 

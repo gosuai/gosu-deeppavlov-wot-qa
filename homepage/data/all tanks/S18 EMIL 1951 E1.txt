@@ -1,3 +1,130 @@
+2,540,000 Cost. 
+14001400 HP Hit Points. 
+28.44/2928.53/32 t Weight Limit. 
+330380 hp Engine Power. 
+50/16 km/h Speed Limit. 
+2426 deg/s Traverse. 
+11.613.32 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+100/35/30 mm Hull Armor. 
+180/35/20180/35/20 mm Turret Armor. 
+AP/APCR/HE APCR/APCR/HE Shells. 
+415/4400/325 690/4400/440 Shell Cost. 
+320/320/420360/360/460 HP Damage. 
+179/224/53217/242/53 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 3 rounds Cycle Time: 3 s Magazine Reload Times Nominal: 22.7 s 50% Crew: 28.89 s 75% Crew: 25.42 s 100% Crew: 22.7 s With Vents: 22.18 s With Vents and BiA: 21.77 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 3 rounds Cycle Time: 3 s Magazine Reload Times Nominal: 27 s 50% Crew: 34.36 s 75% Crew: 30.24 s 100% Crew: 27 s With Vents: 26.38 s With Vents and BiA: 25.89 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (320 Damage): Theoretical Damage Per Minute Nominal: 2265.6 50% Crew: 2124.8 75% Crew: 2201.6 100% Crew: 2265.6 With Vents: 2278.4 With Vents and BiA: 2291.2 Advantageous Damage Per Minute Loaded-mag DPM: 2502.4 50% Crew: 2406.4 75% Crew: 2460.8 100% Crew: 2502.4 With Vents: 2512 With Vents and BiA: 2518.4 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (320 Damage): Theoretical Damage Per Minute Nominal: 2265.6 50% Crew: 2124.8 75% Crew: 2201.6 100% Crew: 2265.6 With Vents: 2278.4 With Vents and BiA: 2291.2 Advantageous Damage Per Minute Loaded-mag DPM: 2502.4 50% Crew: 2406.4 75% Crew: 2460.8 100% Crew: 2502.4 With Vents: 2512 With Vents and BiA: 2518.4 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (420 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 2973.6 50% Crew: 2788.8 75% Crew: 2889.6 100% Crew: 2973.6 With Vents: 2990.4 With Vents and BiA: 3007.2 Advantageous Damage Per Minute Loaded-mag DPM: 3284.4 50% Crew: 3158.4 75% Crew: 3229.8 100% Crew: 3284.4 With Vents: 3297 With Vents and BiA: 3305.4 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (360 Damage): Theoretical Damage Per Minute Nominal: 2361.6 50% Crew: 2239.2 75% Crew: 2304 100% Crew: 2361.6 With Vents: 2372.4 With Vents and BiA: 2379.6 Advantageous Damage Per Minute Loaded-mag DPM: 2574 50% Crew: 2498.4 75% Crew: 2541.6 100% Crew: 2574 With Vents: 2581.2 With Vents and BiA: 2588.4 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (360 Damage): Theoretical Damage Per Minute Nominal: 2361.6 50% Crew: 2239.2 75% Crew: 2304 100% Crew: 2361.6 With Vents: 2372.4 With Vents and BiA: 2379.6 Advantageous Damage Per Minute Loaded-mag DPM: 2574 50% Crew: 2498.4 75% Crew: 2541.6 100% Crew: 2574 With Vents: 2581.2 With Vents and BiA: 2588.4 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (460 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 3017.6 50% Crew: 2861.2 75% Crew: 2944 100% Crew: 3017.6 With Vents: 3031.4 With Vents and BiA: 3040.6 Advantageous Damage Per Minute Loaded-mag DPM: 3289 50% Crew: 3192.4 75% Crew: 3247.6 100% Crew: 3289 With Vents: 3298.2 With Vents and BiA: 3307.4 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.964 s With 75% Crew: 3.461 s With 100% Crew: 3.068 s With GLD: 2.789 s With BiA: 3.001 s With BiA and Vents: 2.935 s With both and GLD: 2.669 s Maximum possible: 2.558 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.964 s With 75% Crew: 3.461 s With 100% Crew: 3.068 s With GLD: 2.789 s With BiA: 3.001 s With BiA and Vents: 2.935 s With both and GLD: 2.669 s Maximum possible: 2.558 s For more details, see Crew or Equipment Aim time. 
+2020 deg/s Turret Traverse. 
+360° Gun Arc. 
+-12°/+15°-12°/+15° Elevation Arc. 
+5757 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 557.8 m With 75% Crew: 634 m With 100% Crew: 710 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1021.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 667.8 m With 75% Crew: 759 m With 100% Crew: 850 m With 100% Signal Boost: 1020 m When affected by 100% Relaying: 935 m Maximum possible: 1223.1 m For more details, see Skills or Equipment Signal Range. 
+VIII. 
+10,5 cm lvkan m/42. 
+179/224/53. 
+320/320/420. 
+6.27. 
+0.39. 
+3.2. 
+nan. 
+2050. 
+105000. 
+IX. 
+10,5 cm TK 105-9. 
+217/242/53. 
+360/360/460. 
+5.45. 
+0.38. 
+3.2. 
+nan. 
+2390. 
+165000. 
+VIII. 
+Emil I. 
+180/35/20. 
+20. 
+360. 
+nan. 
+9000. 
+30000. 
+VII. 
+AOS-895. 
+330. 
+20. 
+nan. 
+765. 
+31000. 
+VIII. 
+SFA 8 cyl boxer. 
+380. 
+20. 
+nan. 
+800. 
+44000. 
+VII. 
+Emil Alt 1. 
+29. 
+24. 
+B/2. 
+nan. 
+6360. 
+16500. 
+VIII. 
+Emil Alt 2. 
+32. 
+26. 
+B/2. 
+nan. 
+6360. 
+33400. 
+IX. 
+Ra 400. 
+710. 
+nan. 
+45. 
+44200. 
+X. 
+Ra 421. 
+850. 
+nan. 
+27. 
+57200. 
+Light Tanks. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Medium Tanks. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Heavy Tanks. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Tank Destroyers. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank= 
 
 |Gallery= 

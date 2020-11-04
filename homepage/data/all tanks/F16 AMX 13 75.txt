@@ -1,3 +1,130 @@
+1,345,000 Cost. 
+850850 HP Hit Points. 
+14.63/14.6514.95/16.35 t Weight Limit. 
+300400 hp Engine Power. 
+61/23 km/h Speed Limit. 
+4042 deg/s Traverse. 
+20.5126.76 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+50/20/15 mm Hull Armor. 
+40/20/2040/20/20 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+70/2800/38 109/2800/98 Shell Cost. 
+110/110/175135/135/175 HP Damage. 
+108/148/38144/202/38 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 4 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 12 s 50% Crew: 15.27 s 75% Crew: 13.44 s 100% Crew: 12 s With Vents: 11.73 s With Vents and BiA: 11.51 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 4 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 14 s 50% Crew: 17.82 s 75% Crew: 15.68 s 100% Crew: 14 s With Vents: 13.68 s With Vents and BiA: 13.42 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (110 Damage): Theoretical Damage Per Minute Nominal: 983.4 50% Crew: 866.8 75% Crew: 928.4 100% Crew: 983.4 With Vents: 995.5 With Vents and BiA: 1004.3 Advantageous Damage Per Minute Loaded-mag DPM: 1202.3 50% Crew: 1111 75% Crew: 1159.4 100% Crew: 1202.3 With Vents: 1211.1 With Vents and BiA: 1218.8 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (110 Damage): Theoretical Damage Per Minute Nominal: 983.4 50% Crew: 866.8 75% Crew: 928.4 100% Crew: 983.4 With Vents: 995.5 With Vents and BiA: 1004.3 Advantageous Damage Per Minute Loaded-mag DPM: 1202.3 50% Crew: 1111 75% Crew: 1159.4 100% Crew: 1202.3 With Vents: 1211.1 With Vents and BiA: 1218.8 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 1564.5 50% Crew: 1379 75% Crew: 1477 100% Crew: 1564.5 With Vents: 1583.75 With Vents and BiA: 1597.75 Advantageous Damage Per Minute Loaded-mag DPM: 1912.75 50% Crew: 1767.5 75% Crew: 1844.5 100% Crew: 1912.75 With Vents: 1926.75 With Vents and BiA: 1939 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (135 Damage): Theoretical Damage Per Minute Nominal: 1200.15 50% Crew: 1070.55 75% Crew: 1139.4 100% Crew: 1200.15 With Vents: 1212.3 With Vents and BiA: 1221.75 Advantageous Damage Per Minute Loaded-mag DPM: 1440.45 50% Crew: 1343.25 75% Crew: 1394.55 100% Crew: 1440.45 With Vents: 1449.9 With Vents and BiA: 1456.65 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (135 Damage): Theoretical Damage Per Minute Nominal: 1200.15 50% Crew: 1070.55 75% Crew: 1139.4 100% Crew: 1200.15 With Vents: 1212.3 With Vents and BiA: 1221.75 Advantageous Damage Per Minute Loaded-mag DPM: 1440.45 50% Crew: 1343.25 75% Crew: 1394.55 100% Crew: 1440.45 With Vents: 1449.9 With Vents and BiA: 1456.65 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 1555.75 50% Crew: 1387.75 75% Crew: 1477 100% Crew: 1555.75 With Vents: 1571.5 With Vents and BiA: 1583.75 Advantageous Damage Per Minute Loaded-mag DPM: 1867.25 50% Crew: 1741.25 75% Crew: 1807.75 100% Crew: 1867.25 With Vents: 1879.5 With Vents and BiA: 1888.25 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment Aim time. 
+4646 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+9°-6°/+9° Elevation Arc. 
+4436 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.15 % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+V. 
+75 mm SA49. 
+108/148/38. 
+110/110/175. 
+13.33. 
+0.42. 
+2.3. 
+nan. 
+1520. 
+35640. 
+VI. 
+75 mm SA50. 
+144/202/38. 
+135/135/175. 
+12.0. 
+0.38. 
+2.0. 
+nan. 
+1740. 
+64200. 
+VII. 
+FL 10 Type C. 
+40/20/20. 
+46. 
+370. 
+nan. 
+2900. 
+10300. 
+VIII. 
+Detroit Diesel 6V53T. 
+400.0. 
+15. 
+nan. 
+770.0. 
+44000. 
+nan. 
+Baudouin 6F 11 SRY T. 
+nan. 
+0. 
+nan. 
+nan. 
+28000. 
+VI. 
+AMX 13 Type 1R. 
+14.65. 
+40. 
+B/2. 
+nan. 
+1500. 
+7350. 
+VII. 
+AMX 13 Type 2A. 
+16.35. 
+42. 
+B/2. 
+nan. 
+1500. 
+19540. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
 {{TankData|Tank=AMX_13_75
 |The tank has a decent top-end gun and good dynamic performance. F16 AMX 13 75  The magazine reload is also better than its predecessor. F16 AMX 13 75  Something to note is that the gun depression of the AMX 13 75 (and AMX 13 90 in extension) is much better than the AMX 12t's. F16 AMX 13 75  Its gun elevation, however, is even worse. F16 AMX 13 75 
 The best way to play it is to let others go ahead, and when they make contact go and support where you can. F16 AMX 13 75  Due to its speed, the AMX 13 75 can easily move between engagements, deliver 4 rounds, and then retreat while reloading. F16 AMX 13 75 

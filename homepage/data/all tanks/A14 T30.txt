@@ -1,3 +1,266 @@
+3,550,000 Cost. 
+16501650 HP Hit Points. 
+63.39/64.0560.7/69.05 t Weight Limit. 
+800860 hp Engine Power. 
+35/10 km/h Speed Limit. 
+2022 deg/s Traverse. 
+12.6214.17 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+102/76/51 mm Hull Armor. 
+279.4/127/102279.4/127/102 mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+320/320/420320/320/420 HP Damage. 
+198/245/53198/245/53 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 8.2 s 50% Crew: 10.16 s 75% Crew: 8.87 s 100% Crew: 7.86 s Rammer: 7.07 s Vents: 7.69 s Both: 6.92 s Both and BiA: 6.77 s Both and Max Crew %: 6.49 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 8.2 s 50% Crew: 10.16 s 75% Crew: 8.87 s 100% Crew: 7.86 s Rammer: 7.07 s Vents: 7.69 s Both: 6.92 s Both and BiA: 6.77 s Both and Max Crew %: 6.49 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+1818 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+15°-10°/+15° Elevation Arc. 
+6363 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 318.9 m With 75% Crew: 365.2 m With 100% Crew: 412 m With 100% Signal Boost: 474 m When affected by 100% Relaying: 434.5 m Maximum possible: 593 m For more details, see Skills or Equipment m ▲ With 50% Crew: 601.4 m With 75% Crew: 688.8 m With 100% Crew: 777 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1118.4 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+105 mm AT Gun T5E1. 
+198/245/53. 
+320/320/420. 
+7.32. 
+0.39. 
+1.7. 
+nan. 
+nan. 
+118000. 
+nan. 
+120 mm AT Gun T53. 
+248/297/53. 
+400/400/420. 
+6.19. 
+0.39. 
+2.3. 
+nan. 
+nan. 
+250000. 
+nan. 
+155 mm AT Gun T7. 
+276/320/53. 
+750/750/420. 
+2.86. 
+0.37. 
+2.9. 
+nan. 
+nan. 
+335000. 
+IX. 
+T30D1. 
+279.4/127/102. 
+18. 
+380. 
+nan. 
+14200. 
+66000. 
+VIII. 
+Continental AV-1790-3. 
+800. 
+20. 
+nan. 
+569. 
+59000. 
+X. 
+Continental AV-1790-5. 
+860. 
+20. 
+nan. 
+569. 
+100000. 
+IX. 
+T84E38. 
+69.05. 
+22.0. 
+0. 
+nan. 
+10000.0. 
+60000. 
+nan. 
+T80E3A. 
+0.0. 
+nan. 
+0. 
+nan. 
+nan. 
+42500. 
+VI. 
+SCR 508. 
+395. 
+nan. 
+100. 
+21600. 
+X. 
+SCR 528. 
+745. 
+nan. 
+80. 
+54000. 
+Crew. 
+8. 
+6. 
+4. 
+6. 
+6. 
+5. 
+6. 
+5. 
+Lenght. 
+10,43m. 
+8,43m. 
+11,12m. 
+11,56m. 
+10,9m. 
+10,83m. 
+11,77m. 
+11,23m. 
+Width. 
+3,66m. 
+3,12m. 
+4,54m. 
+3,8m. 
+3,8m. 
+3,76m. 
+3,8m. 
+3,63m. 
+Height. 
+3,12m. 
+3,00m. 
+2,86m. 
+3,22m. 
+3,22m. 
+2,81m. 
+3,22m. 
+3,56m. 
+Weight. 
+39,5t. 
+57,4t. 
+86,3t. 
+64,25t. 
+64,74t. 
+54,5t. 
+65,2t. 
+58,1t. 
+Enginepower. 
+Liberty338hp. 
+G-200960hp. 
+GAF500hp. 
+GAC770hp. 
+AV1790810hp. 
+GAC770hp. 
+AV1790810hp. 
+AV1790750hp. 
+Max. speed. 
+8,8km/h. 
+35km/h. 
+12,8km/h. 
+35km/h. 
+35km/h. 
+35km/h. 
+35km/h. 
+37km/h. 
+hull armour(angle). 
+12mm(28). 
+83mm(30). 
+305mm. 
+102mm(54). 
+102mm(54). 
+127mm(54). 
+102mm(54). 
+127mm(60). 
+side armour. 
+12mm. 
+70mm. 
+152mm. 
+76mm. 
+76mm. 
+76mm. 
+76mm. 
+51mm. 
+Turret armour(mantlet). 
+16mm. 
+83mm(102mm). 
+-. 
+178mm(279mm). 
+178mm(279mm). 
+298mm(298mm). 
+178mm(279mm). 
+127mm(254mm). 
+top armour. 
+6-10mm. 
+25mm. 
+38mm. 
+38mm. 
+38mm. 
+38mm. 
+38mm. 
+38mm. 
+bottom armour. 
+6-8mm. 
+25mm. 
+25mm. 
+25mm. 
+25mm. 
+25mm. 
+25mm. 
+38mm. 
+Gun. 
+2x57mmHotchkiss. 
+75mm M737mm MB. 
+105mmT5E1. 
+105mmT5E2. 
+155mmT7. 
+90mmT15E2. 
+120mmT53. 
+120mmM58. 
+Secondaryarmament. 
+5x7,62mmHotchkiss. 
+2x12,7mm HB M22x7,62mmM1919A4. 
+12,7mmHB M2. 
+3x12,7mmHB M27.62mmM1919M4. 
+2x12,7mmHB M27.62mmM1919M4. 
+12,7mmHB M22x7.62mmM1919M4. 
+3x12,7mmHB M27.62mmM1919M4. 
+3x12,7mmHB M27.62mmM37. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=T30
 |The T30 has a long history in World of Tanks. A14 T30  It started as a very good above average performing Tier X Heavy tank, that after several consecutive nerfs, ended at the back of the caravan. A14 T30  Its transformation into a Tier IX tank destroyer made this tank once again enjoyable to play. A14 T30  Its main weapon, the 155 mm T7, was formidable already in the Tier X arena, but when used against Tier VIII and sometimes even Tier VII targets, "devastation" is the only word that comes to mind. A14 T30  However, the T30 has a very weak hull, and under no circumstances can it afford to ignore low tier opponents. A14 T30  In the hands of a skillful player that knows how to properly use its strong points, the T30 can face any tank in-game and single-handedly change the course of the entire battle. A14 T30  
 

@@ -1,9 +1,105 @@
+6,100,000 Cost. 
+22001760 HP Hit Points. 
+53.76/60.0530.16/0 t Weight Limit. 
+875875 hp Engine Power. 
+37/12 km/h Speed Limit. 
+3030 deg/s Traverse. 
+16.28Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+254/76.2/38.1 mm Hull Armor. 
+203.2/127/76.2// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+400/400/515400/400/515 HP Damage. 
+258/340/60258/340/60 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 8.8 s 50% Crew: 10.9 s 75% Crew: 9.52 s 100% Crew: 8.44 s Rammer: 7.6 s Vents: 8.25 s Both: 7.43 s Both and BiA: 7.27 s Both and Max Crew %: 6.97 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 8.8 s 50% Crew: 10.9 s 75% Crew: 9.52 s 100% Crew: 8.44 s Rammer: 7.6 s Vents: 8.25 s Both: 7.43 s Both and BiA: 7.27 s Both and Max Crew %: 6.97 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (515 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (515 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment Aim time. 
+3232 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+15°-8°/+15° Elevation Arc. 
+4242 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+120 mm Gun M58. 
+258/340/60. 
+400/400/515. 
+6.82. 
+0.35. 
+2. 
+nan. 
+nan. 
+310000. 
+nan. 
+T53. 
+//. 
+32. 
+400. 
+nan. 
+nan. 
+66000. 
+nan. 
+Continental AOI-1490. 
+nan. 
+0. 
+nan. 
+nan. 
+100000. 
+nan. 
+T110E27. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+AN/VRC-3. 
+745. 
+nan. 
+160. 
+51600. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank=
 |Often known as the "E5", it replaced the [[T30]] as the American tier X heavy tank in patch 0. A69 T110E5 7. A69 T110E5 2. A69 T110E5  This tank has high penetration and relatively quick reload in exchange for lower alpha damage compared to many traditional heavy tanks. A69 T110E5  The T110E5 is a relatively quick heavy with good gun handling characteristics, and since patch 0. A69 T110E5 9. A69 T110E5 10 has had excellent armor values, allowing it to force other tanks to react to its actions when driven well. A69 T110E5  The T110E5 is something of a blend of heavy and medium characteristics, allowing it to fill almost any role on the battlefield and perform well, but at the same time making it less specialized for specific roles compared to many other tier X tanks. A69 T110E5  
 
 The T110E5 retains the 'eggshell' style of front hull armor layout from the [[M103]] and has greater protection in the areas of high thickness both in the hull and the turret. A69 T110E5  However, there is little increase in effective protection from the previously thin areas such as the lower plate. A69 T110E5  The T110E5 also has a prominent commander's cupola that invites shells from opposing players. A69 T110E5  However, such an obvious target can be a boon as much as a liability in the hands of a player familiar with baiting and misdirecting cupola shots from opponents; the cupola is more heavily armored than most US cupolas and can surprise many an opponent looking for a quick shot. A69 T110E5  Only very high penetrating shells (250+) will be able to go through the cupola since the armor buff of patch 0. A69 T110E5 9. A69 T110E5 10. A69 T110E5 
 
-Sadly, in patch 0. A69 T110E5 9. A69 T110E5 17. A69 T110E5 1 the E5's cupola was nerfed, making it a new weak spot for the E5. A69 T110E5 
+Sadly, in patch 0. A69 T110E5 9. A69 T110E5 17. A69 T110E5 1 the E5's cupola was nerfed to lower than it was before, making it a new weak spot for the E5. A69 T110E5 
 
 |Sidebar_Camostop=4. A69 T110E5 6
 |Sidebar_Camomove=2. A69 T110E5 6
@@ -17,9 +113,10 @@ Sadly, in patch 0. A69 T110E5 9. A69 T110E5 17. A69 T110E5 1 the E5's cupola was
 |Sidebar_DispTurning=0. A69 T110E5 17
 
 |InTheGame_pros=
-* Good overall gun depression and stats
+* Good overall gun depression and stats, great DPM
 * Very strong turret face armor
 * Good view range
+* Decent gun handling as of Update 1. A69 T110E5 10
 * Compact silhouette compared to other heavy tanks
 * Good mobility for a heavy tank
 * Excellent versatility means no pronounced weaknesses
@@ -38,6 +135,8 @@ On its own, the T110E5 can perform as a dedicated support tank, a sniper, a braw
 
 As of the present, the T110E5 is overshadowed by its [[Tank:GB91_Super_Conqueror|British counterpart]], but comparing them is misunderstanding the fact that they perform different roles altogether. A69 T110E5  The Super Conqueror is a completely different vehicle compared to the T110E5. A69 T110E5  While the Super Conqueror is an agile, well-armored heavy tank that can soak up damage and return it quickly, the T110E5 is essentially a "pocket heavy tank" that was always meant to have the firepower and armor of a heavy tank but at the fraction of the size and with better mobility. A69 T110E5  This means that while the Super Conqueror can afford to play the part of more traditional heavy tanks it can also sideline as a support tank depending on the situation. A69 T110E5  The T110E5 turns this playstyle on its head so that it performs exceptionally well as a support tank but struggles to fill out the role of a dedicated heavy tank (owing to how thin its sides are). A69 T110E5  It has the frontal armor to soak up damage, but it is more vulnerable to large-caliber HE rounds than most of its peers. A69 T110E5  In practical terms, this means that players can reasonably expect Super Conquerors to appear in map lanes where Heavy tanks duke it out but T110E5s can just as well appear in other spots where they may be of better use. A69 T110E5  This is particularly important for controlling crucial areas in the map as the T110E5's combination of armor and mobility make it a nasty surprise for defenders who expect another set of tanks entirely like fast mediums or light tanks. A69 T110E5  With that said, one should not be quick to dismiss the E5 as another victim of the growing power-creep in Tier X battles. A69 T110E5  It still remains a potent multi-role tank that can push its own weight and beyond. A69 T110E5  
 |InTheGame_research=
+
+*Note: As of Update 1. A69 T110E5 10, or Equipment 2. A69 T110E5 0, the T110E5 has been buffed. A69 T110E5  Previously, it was outclassed by the Super Conqueror and T95/FV4201 (Cheiftain) in almost all categories. A69 T110E5  Its DPM and reload before the patch were ~2,503 and 9. A69 T110E5 59, respectively, and both have since been buffed to 2,844 and 8. A69 T110E5 44, respectively. A69 T110E5  The cupola has unfortunately not been buffed, so its turret is still unreliable in the premium shell meta. A69 T110E5  However, the gun handling of the T110E5 has also been buffed. A69 T110E5  Previously, it was 0. A69 T110E5 17/0. A69 T110E5 17/0. A69 T110E5 08, which was pretty decent, but heavily outclassed by the S. A69 T110E5  Conq and Cheiftain. A69 T110E5  It has since been buffed to 0. A69 T110E5 13/0. A69 T110E5 13/0. A69 T110E5 06, giving it better handling than several medium tanks of the same tier. A69 T110E5 
 
 |InTheGame_equipment=
 Vents, Tank Gun Rammer, Vertical Stabilizer

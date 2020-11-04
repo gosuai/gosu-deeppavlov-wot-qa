@@ -1,3 +1,133 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Historical Gallery. 
+3,400,000 Cost. 
+12501000 HP Hit Points. 
+23.69/2412.95/0 t Weight Limit. 
+700770 hp Engine Power. 
+64/23 km/h Speed Limit. 
+4444 deg/s Traverse. 
+29.5559.46 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+50/25/20 mm Hull Armor. 
+55/35/20// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+252/4400/252 1050/4000/750 Shell Cost. 
+250/250/330250/250/330 HP Damage. 
+189/225/50189/225/50 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.7 s 50% Crew: 9.54 s 75% Crew: 8.33 s 100% Crew: 7.38 s Rammer: 6.64 s Vents: 7.22 s Both: 6.5 s Both and BiA: 6.35 s Both and Max Crew %: 6.09 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 7.7 s 50% Crew: 9.54 s 75% Crew: 8.33 s 100% Crew: 7.38 s Rammer: 6.64 s Vents: 7.22 s Both: 6.5 s Both and BiA: 6.35 s Both and Max Crew %: 6.09 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1875 50% Crew: 1512.5 75% Crew: 1732.5 100% Crew: 1955 100% Crew Vents: 2000 Rammer: 2172.5 Both: 2220 Both and BiA: 2270 Both and Max Crew %: 2367.5 Advantageous Damage Per Minute First-shot DPM: 2125 50% Crew: 1762.5 75% Crew: 1982.5 100% Crew: 2205 100% Crew Rammer: 2422.5 Vents: 2250 Both: 2470 Both and BiA: 2520 Both and Max Crew %: 2617.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1875 50% Crew: 1512.5 75% Crew: 1732.5 100% Crew: 1955 100% Crew Vents: 2000 Rammer: 2172.5 Both: 2220 Both and BiA: 2270 Both and Max Crew %: 2367.5 Advantageous Damage Per Minute First-shot DPM: 2125 50% Crew: 1762.5 75% Crew: 1982.5 100% Crew: 2205 100% Crew Rammer: 2422.5 Vents: 2250 Both: 2470 Both and BiA: 2520 Both and Max Crew %: 2617.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (330 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2475 50% Crew: 1996.5 75% Crew: 2286.9 100% Crew: 2580.6 100% Crew Vents: 2640 Rammer: 2867.7 Both: 2930.4 Both and BiA: 2996.4 Both and Max Crew %: 3125.1 Advantageous Damage Per Minute First-shot DPM: 2805 50% Crew: 2326.5 75% Crew: 2616.9 100% Crew: 2910.6 100% Crew Rammer: 3197.7 Vents: 2970 Both: 3260.4 Both and BiA: 3326.4 Both and Max Crew %: 3455.1 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1875 50% Crew: 1512.5 75% Crew: 1732.5 100% Crew: 1955 100% Crew Vents: 2000 Rammer: 2172.5 Both: 2220 Both and BiA: 2270 Both and Max Crew %: 2367.5 Advantageous Damage Per Minute First-shot DPM: 2125 50% Crew: 1762.5 75% Crew: 1982.5 100% Crew: 2205 100% Crew Rammer: 2422.5 Vents: 2250 Both: 2470 Both and BiA: 2520 Both and Max Crew %: 2617.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1875 50% Crew: 1512.5 75% Crew: 1732.5 100% Crew: 1955 100% Crew Vents: 2000 Rammer: 2172.5 Both: 2220 Both and BiA: 2270 Both and Max Crew %: 2367.5 Advantageous Damage Per Minute First-shot DPM: 2125 50% Crew: 1762.5 75% Crew: 1982.5 100% Crew: 2205 100% Crew Rammer: 2422.5 Vents: 2250 Both: 2470 Both and BiA: 2520 Both and Max Crew %: 2617.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (330 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2475 50% Crew: 1996.5 75% Crew: 2286.9 100% Crew: 2580.6 100% Crew Vents: 2640 Rammer: 2867.7 Both: 2930.4 Both and BiA: 2996.4 Both and Max Crew %: 3125.1 Advantageous Damage Per Minute First-shot DPM: 2805 50% Crew: 2326.5 75% Crew: 2616.9 100% Crew: 2910.6 100% Crew Rammer: 3197.7 Vents: 2970 Both: 3260.4 Both and BiA: 3326.4 Both and Max Crew %: 3455.1 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+4040 deg/s Turret Traverse. 
+360° Gun Arc. 
+-5°/+20°-5°/+20° Elevation Arc. 
+4343 rounds Ammo Capacity. 
+1212 % Chance of Fire. 
+m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 471.4 m With 75% Crew: 535.8 m With 100% Crew: 600 m With 100% Signal Boost: 720 m When affected by 100% Relaying: 660 m Maximum possible: 863.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+IX. 
+100 mm 62-100TA. 
+220/248/50. 
+320/320/420. 
+6.52. 
+0.42. 
+2.3. 
+nan. 
+2557. 
+218000. 
+IX. 
+100 mm 60-100TA. 
+189/225/50. 
+250/250/330. 
+7.79. 
+0.38. 
+2.1. 
+nan. 
+2257. 
+166000. 
+nan. 
+WZ-132A. 
+//. 
+40. 
+390. 
+nan. 
+nan. 
+55000. 
+VIII. 
+8V135. 
+700. 
+12. 
+nan. 
+740. 
+55000. 
+IX. 
+12150LT2. 
+770. 
+12. 
+nan. 
+750. 
+99700. 
+nan. 
+WZ-132A. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+31000. 
+nan. 
+WZ-132B. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+61500. 
+X. 
+A-220A. 
+750. 
+nan. 
+40. 
+54000. 
+IX. 
+A-220. 
+600. 
+nan. 
+40. 
+38000. 
+Light Tanks. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Medium Tanks. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Heavy Tanks. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Tank Destroyers. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
 {{TankData|Tank= 
 
 | 

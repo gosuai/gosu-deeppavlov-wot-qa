@@ -1,3 +1,58 @@
+cost Cost. 
+health Hit Points. 
+weight Weight Limit. 
+engine Engine Power. 
+speed Speed Limit. 
+traverse Traverse. 
+hp/weight Power/Wt Ratio. 
+pivot Pivot. 
+armor Hull Armor. 
+turretArmor Turret Armor. 
+Shells. 
+Shell Cost. 
+damage Damage. 
+penetration Penetration. 
+rof Rate of Fire. 
+DPM Damage Per Minute. 
+accuracy Accuracy. 
+aim Aim time. 
+turretTraverse Turret Traverse. 
+gunTraverseArc Gun Arc. 
+gunVerticalLimits Elevation Arc. 
+ammo Ammo Capacity. 
+fire Chance of Fire. 
+view View Range. 
+signal Signal Range. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+II T2 Medium Tank • III M2 Medium Tank • IV T6 Medium • IV M3 Lee • V M4 Improved • V M4A2E4 Sherman • V M4A1 Sherman • V Ram II • VI M4A3E8 Fury • VI M4A3E8 Thunderbolt VII • VI M4A3E8 Sherman • VI M4A3E2 Sherman Jumbo • VII T26E3 Eagle 7 • VII T20 • VII T23E3 • VIII T25 Pilot Number 1 • VIII TL-1 LPC • VIII T77 • VIII M46 Patton KR • VIII M26 Pershing • VIII T26E4 SuperPershing • VIII T69 • VIII T95E2 • IX M46 Patton • X M48A5 Patton • X M60 • X T95E6. 
+UK. 
+I Vickers Medium Mk. I • II Vickers Medium Mk. II • III Vickers Medium Mk. III • IV Matilda • IV Grant • IV AC 1 Sentinel • V Cavalier • V Valiant • V Sherman III • V Matilda Black Prince • VI Sherman Firefly • VI Cromwell • VI AC 4 Experimental • VI Cromwell B • VI Sherman VC Firefly • VII Comet • VIII Centurion Mk. I • VIII FV4202 • VIII Chieftain/T95 • VIII Centurion Mk. 5/1 RAAC • VIII Chimera • IX Centurion Mk. 7/1 • X Centurion Action X. 
+Germany. 
+III Großtraktor - Krupp • III Pz.Kpfw. IV Ausf. A • III Pz.Kpfw. S35 739 (f) • IV Pz.Kpfw. III Ausf. J • IV Pz.Kpfw. IV Ausf. D • IV VK 20.01 (D) • V Pz.Kpfw. III Ausf. K • V Turán III prototípus • V Pz.Kpfw. III/IV • V Pz.Kpfw. IV hydrostat. • V Pz.Kpfw. V/IV • V Pz.Kpfw. V/IV Alpha • V Pz.Kpfw. IV Ausf. H • V Pz.Kpfw. T 25 • V VK 30.01 (H) • VI Pz.Kpfw. IV Schmalturm • VI VK 30.01 (D) • VI VK 30.02 (M) • VII Panther/M10 • VII Panther • VII VK 30.02 (D) • VIII Panther mit 8,8 cm L/71 • VIII Panzer 58 • VIII Schwarzpanzer 58 • VIII Panzer 58 Mutz • VIII M48A2 Räumpanzer • VIII Indien-Panzer • VIII Panther II • IX E 50 • IX T 55A • IX Kampfpanzer 50 t • IX Leopard Prototyp A • X E 50 Ausf. M • X Leopard 1. 
+France. 
+III D2 • III Somua S35 • IV SARL 42 • V Renault G1 • VI Bretagne Panther • VIII Bat.-Châtillon Bourrasque • VIII Lorraine 40 t • VIII AMX Chasseur de chars • VIII M4A1 Revalorisé • IX AMX 30 1er prototype • IX Char Futur 4 • IX Bat.-Châtillon 25 t AP • X Bat.-Châtillon 25 t • X AMX 30 B. 
+USSR. 
+III T-29 • IV A-32 • IV T-28E with F-30 • IV T-28 • V Matilda IV • V T-34 shielded • V T-34 • VI A-43 • VI T-34-85M • VI T-34-85 Rudy • VI Loza's M4-A2 Sherman • VI T-34-85 • VII A-44 • VII KV-13 • VII T-43 • VII T-44-122 • VIII Object 416 • VIII T-54 first prototype • VIII T-44-100 (B) • VIII T-44-100 (K) • VIII T-44-100 (R) • VIII T-44-100 (U) • VIII STG • VIII STG Guard • VIII T-44 • IX Object 430 Version II • IX Object 430 • IX T-54 • X Object 140 • X Object 907 • X T-22 medium • X K-91 • X Object 430U • X T-62A. 
+China. 
+V Type T-34 • VI Type 58 • VII T-34-1 • VIII Type 59 • VIII T-34-2 • VIII T-34-3 • VIII 59-Patton • VIII Type 59 G • IX WZ-120 • X 121 • X 121B. 
+Japan. 
+II Chi-Ni • II Type 89 I-Go/Chi-Ro • IV Type 1 Chi-He • V Type 3 Chi-Nu • V Type 3 Chi-Nu Kai • VI Type 4 Chi-To • VII Type 5 Chi-Ri • VIII STA-1 • VIII STA-2 • IX Type 61 • X STB-1. 
+Czechoslovakia. 
+IV ST vz. 39 • V Škoda T 24 • VI Škoda T 40 • VI Škoda T 25 • VII Konštrukta T-34/100 • VIII TVP VTU Koncept • VIII Škoda T 27 • IX Škoda T 50 • X TVP T 50/51. 
+Sweden. 
+IV Lago • V Strv m/42 • VI Strv m/42-57 Alt A.2 • VI Strv 74 • VII Leo • VIII Strv 81 • VIII Primo Victoria • VIII Lansen C • VIII UDES 14 Alt 5 • IX UDES 16 • X UDES 15/16. 
+Poland. 
+V 25TP KSUST II • V DS PZInż • VI Pudel • VI 40TP Habicha • VI T-34-85 Rudy • VI B.U.G.I. • VII CS-44 • VIII CS-52 • VIII CS-53 • IX CS-59 • X CS-63. 
 {{removedTank}}
 {{sidebar|Tank=T23
 |nation=usa |tier =8 |class=medium

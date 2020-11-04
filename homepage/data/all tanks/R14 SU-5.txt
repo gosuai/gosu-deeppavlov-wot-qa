@@ -1,3 +1,157 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Historical Gallery. 
+147,000 Cost. 
+245245 HP Hit Points. 
+10.3/10.4910.15/12.5 t Weight Limit. 
+90130 hp Engine Power. 
+30/8 km/h Speed Limit. 
+2426 deg/s Traverse. 
+8.7412.81 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+15/15/15 mm Hull Armor. 
+HE HE/HE Shells. 
+38/0 150/215 Shell Cost. 
+180//300/420/ HP Damage. 
+21//30/30/ mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 6 s 50% Crew: 7.43 s 75% Crew: 6.49 s 100% Crew: 5.75 s Rammer: 5.18 s Vents: 5.62 s Both: 5.06 s Both and BiA: 4.95 s Both and Max Crew %: 4.75 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 15.5 s 50% Crew: 19.2 s 75% Crew: 16.77 s 100% Crew: 14.86 s Rammer: 13.37 s Vents: 14.53 s Both: 13.08 s Both and BiA: 12.8 s Both and Max Crew %: 12.26 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (180 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1800 50% Crew: 1452.6 75% Crew: 1665 100% Crew: 1877.4 100% Crew Vents: 1918.8 Rammer: 2086.2 Both: 2133 Both and BiA: 2179.8 Both and Max Crew %: 2275.2 Advantageous Damage Per Minute First-shot DPM: 1980 50% Crew: 1632.6 75% Crew: 1845 100% Crew: 2057.4 100% Crew Rammer: 2266.2 Vents: 2098.8 Both: 2313 Both and BiA: 2359.8 Both and Max Crew %: 2455.2 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (300 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1161 50% Crew: 936 75% Crew: 1074 100% Crew: 1212 100% Crew Vents: 1239 Rammer: 1347 Both: 1377 Both and BiA: 1407 Both and Max Crew %: 1467 Advantageous Damage Per Minute First-shot DPM: 1461 50% Crew: 1236 75% Crew: 1374 100% Crew: 1512 100% Crew Rammer: 1647 Vents: 1539 Both: 1677 Both and BiA: 1707 Both and Max Crew %: 1767 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (420 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1625.4 50% Crew: 1310.4 75% Crew: 1503.6 100% Crew: 1696.8 100% Crew Vents: 1734.6 Rammer: 1885.8 Both: 1927.8 Both and BiA: 1969.8 Both and Max Crew %: 2053.8 Advantageous Damage Per Minute First-shot DPM: 2045.4 50% Crew: 1730.4 75% Crew: 1923.6 100% Crew: 2116.8 100% Crew Rammer: 2305.8 Vents: 2154.6 Both: 2347.8 Both and BiA: 2389.8 Both and Max Crew %: 2473.8 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.904 m With 75% Crew: 0.79 m With 100% Crew: 0.7 m With BiA: 0.685 m With BiA and Vents: 0.67 m Maximum possible: 0.642 m For more details, see Crew m ▲ With 50% Crew: 1.041 m With 75% Crew: 0.909 m With 100% Crew: 0.805 m With BiA: 0.788 m With BiA and Vents: 0.771 m Maximum possible: 0.739 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.575 s With 75% Crew: 4.867 s With 100% Crew: 4.315 s With GLD: 3.923 s With BiA: 4.22 s With BiA and Vents: 4.128 s With both and GLD: 3.753 s Maximum possible: 3.597 s For more details, see Crew or Equipment s ▲ With 50% Crew: 8.052 s With 75% Crew: 7.031 s With 100% Crew: 6.232 s With GLD: 5.666 s With BiA: 6.095 s With BiA and Vents: 5.963 s With both and GLD: 5.421 s Maximum possible: 5.196 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+12° Gun Arc. 
+-5°/+60°-0°/+60° Elevation Arc. 
+8527 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 196.4 m With 75% Crew: 223.2 m With 100% Crew: 250 m With Recon and Situational Awareness: 262.7 m With Coated Optics: 275 m With Binocular Telescope: 312.5 m Maximum possible: 357.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 196.4 m With 75% Crew: 223.2 m With 100% Crew: 250 m With Recon and Situational Awareness: 262.7 m With Coated Optics: 275 m With Binocular Telescope: 312.5 m Maximum possible: 357.9 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 483.2 m With 75% Crew: 549.2 m With 100% Crew: 615 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 884.9 m For more details, see Skills or Equipment Signal Range. 
+II. 
+76 mm Gun mod. 1902/30 30 clb. 
+21. 
+180. 
+10.0. 
+0.73. 
+4.5. 
+nan. 
+389.0. 
+4090. 
+IV. 
+122 mm Howitzer mod. 1910/1930. 
+30/30. 
+300/420. 
+3.87. 
+0.84. 
+6.5. 
+nan. 
+425.0. 
+35000. 
+nan. 
+152 mm Mortar NM mod. 1931. 
+35. 
+400. 
+3.53. 
+0.88. 
+6.5. 
+nan. 
+nan. 
+48360. 
+nan. 
+76 mm Gun mod. 1902/30 40 clb. 
+21. 
+180. 
+10.0. 
+0.71. 
+4.5. 
+nan. 
+nan. 
+8050. 
+I. 
+T-26. 
+90. 
+20. 
+nan. 
+545. 
+770. 
+II. 
+T-26M. 
+100. 
+20. 
+nan. 
+545. 
+1230. 
+II. 
+T-26F. 
+130. 
+20. 
+nan. 
+545. 
+1500. 
+III. 
+SU-5. 
+10.49. 
+24. 
+0. 
+nan. 
+1880. 
+1800. 
+IV. 
+SU-5 Bis. 
+12.5. 
+26. 
+0. 
+nan. 
+1880. 
+4750. 
+III. 
+71-TK-3. 
+300. 
+nan. 
+100. 
+570. 
+V. 
+9RK. 
+350. 
+nan. 
+80. 
+3240. 
+IX. 
+12LL. 
+615. 
+nan. 
+110. 
+33600. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=SU-5
 |It can be considered as the worst of the whole USSR branch if in the hand of a low-skilled player, but it is actually much better than its predecessor [[SU-26]] due to its 3rd weapon upgrades, the 152mm mortar NM mod. R14 SU-5  1931, a lethal weapon conbining huge alpha damage with incredible penetration value and explosion radius, as well as a ridiculously high vertical shell arc, best of all tier IV SPGs, even better than many tier V ones. R14 SU-5  However, the 152mm mortar has two significant disadvantage: very short range and low ammo count. R14 SU-5  Stock, it starts with the underpowered 76mm Howitzer. R14 SU-5  Prior to 8. R14 SU-5 6, you could have spent the effort to get the 122mm howitzer with the SU-26 and thus, can start with that. R14 SU-5  Considering that the 122mm was removed from the SU-26, however, this would perhaps make the grind somewhat more difficult. R14 SU-5  Some players even prefer the 122mm howitzer to the 152mm mortar, because of its higher ammo count, and also it's increased rate of fire. R14 SU-5 
 

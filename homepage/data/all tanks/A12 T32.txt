@@ -1,9 +1,277 @@
+2,610,000 Cost. 
+14001550 HP Hit Points. 
+54.51/54.8356.9/60.5 t Weight Limit. 
+720800 hp Engine Power. 
+35/14 km/h Speed Limit. 
+2025 deg/s Traverse. 
+13.2114.06 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+127/76/51 mm Hull Armor. 
+114/76.2/76.2298/197/152 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+255/4400/255 255/4400/255 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+170/258/45170/258/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.6 s 50% Crew: 9.41 s 75% Crew: 8.22 s 100% Crew: 7.29 s Rammer: 6.56 s Vents: 7.13 s Both: 6.42 s Both and BiA: 6.28 s Both and Max Crew %: 6.02 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 7.6 s 50% Crew: 9.41 s 75% Crew: 8.22 s 100% Crew: 7.29 s Rammer: 6.56 s Vents: 7.13 s Both: 6.42 s Both and BiA: 6.28 s Both and Max Crew %: 6.02 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1893.6 50% Crew: 1528.8 75% Crew: 1749.6 100% Crew: 1975.2 100% Crew Vents: 2020.8 Rammer: 2193.6 Both: 2244 Both and BiA: 2294.4 Both and Max Crew %: 2392.8 Advantageous Damage Per Minute First-shot DPM: 2133.6 50% Crew: 1768.8 75% Crew: 1989.6 100% Crew: 2215.2 100% Crew Rammer: 2433.6 Vents: 2260.8 Both: 2484 Both and BiA: 2534.4 Both and Max Crew %: 2632.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1893.6 50% Crew: 1528.8 75% Crew: 1749.6 100% Crew: 1975.2 100% Crew Vents: 2020.8 Rammer: 2193.6 Both: 2244 Both and BiA: 2294.4 Both and Max Crew %: 2392.8 Advantageous Damage Per Minute First-shot DPM: 2133.6 50% Crew: 1768.8 75% Crew: 1989.6 100% Crew: 2215.2 100% Crew Rammer: 2433.6 Vents: 2260.8 Both: 2484 Both and BiA: 2534.4 Both and Max Crew %: 2632.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2524.8 50% Crew: 2038.4 75% Crew: 2332.8 100% Crew: 2633.6 100% Crew Vents: 2694.4 Rammer: 2924.8 Both: 2992 Both and BiA: 3059.2 Both and Max Crew %: 3190.4 Advantageous Damage Per Minute First-shot DPM: 2844.8 50% Crew: 2358.4 75% Crew: 2652.8 100% Crew: 2953.6 100% Crew Rammer: 3244.8 Vents: 3014.4 Both: 3312 Both and BiA: 3379.2 Both and Max Crew %: 3510.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1893.6 50% Crew: 1528.8 75% Crew: 1749.6 100% Crew: 1975.2 100% Crew Vents: 2020.8 Rammer: 2193.6 Both: 2244 Both and BiA: 2294.4 Both and Max Crew %: 2392.8 Advantageous Damage Per Minute First-shot DPM: 2133.6 50% Crew: 1768.8 75% Crew: 1989.6 100% Crew: 2215.2 100% Crew Rammer: 2433.6 Vents: 2260.8 Both: 2484 Both and BiA: 2534.4 Both and Max Crew %: 2632.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1893.6 50% Crew: 1528.8 75% Crew: 1749.6 100% Crew: 1975.2 100% Crew Vents: 2020.8 Rammer: 2193.6 Both: 2244 Both and BiA: 2294.4 Both and Max Crew %: 2392.8 Advantageous Damage Per Minute First-shot DPM: 2133.6 50% Crew: 1768.8 75% Crew: 1989.6 100% Crew: 2215.2 100% Crew Rammer: 2433.6 Vents: 2260.8 Both: 2484 Both and BiA: 2534.4 Both and Max Crew %: 2632.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2524.8 50% Crew: 2038.4 75% Crew: 2332.8 100% Crew: 2633.6 100% Crew Vents: 2694.4 Rammer: 2924.8 Both: 2992 Both and BiA: 3059.2 Both and Max Crew %: 3190.4 Advantageous Damage Per Minute First-shot DPM: 2844.8 50% Crew: 2358.4 75% Crew: 2652.8 100% Crew: 2953.6 100% Crew Rammer: 3244.8 Vents: 3014.4 Both: 3312 Both and BiA: 3379.2 Both and Max Crew %: 3510.4 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+2625 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+5454 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 318.9 m With 75% Crew: 365.2 m With 100% Crew: 412 m With 100% Signal Boost: 474 m When affected by 100% Relaying: 434.5 m Maximum possible: 593 m For more details, see Skills or Equipment m ▲ With 50% Crew: 601.4 m With 75% Crew: 688.8 m With 100% Crew: 777 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1118.4 m For more details, see Skills or Equipment Signal Range. 
+VIII. 
+90 mm Gun T15E2. 
+170/258/45. 
+240/240/320. 
+7.89. 
+0.38. 
+2.3. 
+nan. 
+2050.0. 
+111900. 
+nan. 
+105 mm Gun T5E1/45. 
+208/245/45. 
+320/320/320. 
+6.38. 
+0.4. 
+2.1. 
+nan. 
+nan. 
+118000. 
+VII. 
+T99E2. 
+114/76.2/76.2. 
+26. 
+380. 
+nan. 
+9500. 
+32500. 
+IX. 
+T119. 
+298/197/152. 
+25. 
+400. 
+nan. 
+12200. 
+50500. 
+VII. 
+Ford GAZ. 
+720. 
+20. 
+nan. 
+556. 
+43500. 
+VIII. 
+Continental AV-1790-3. 
+800. 
+20. 
+nan. 
+569. 
+59000. 
+VIII. 
+GMC Allison V1710-E32. 
+760. 
+20. 
+nan. 
+556. 
+48500. 
+VII. 
+T84E1A. 
+54.83. 
+20. 
+0. 
+nan. 
+12000. 
+20200. 
+VIII. 
+T84E3A. 
+60.5. 
+25. 
+0. 
+nan. 
+12000. 
+38100. 
+VI. 
+SCR 508. 
+395. 
+nan. 
+100. 
+21600. 
+X. 
+SCR 528. 
+745. 
+nan. 
+80. 
+54000. 
+Crew. 
+8. 
+6. 
+4. 
+6. 
+6. 
+5. 
+6. 
+5. 
+Length. 
+10,43m. 
+8,43m. 
+11,12m. 
+11,56m. 
+10,9m. 
+10,83m. 
+11,77m. 
+11,23m. 
+Width. 
+3,66m. 
+3,12m. 
+4,54m. 
+3,8m. 
+3,8m. 
+3,76m. 
+3,8m. 
+3,63m. 
+Height. 
+3,12m. 
+3,00m. 
+2,86m. 
+3,22m. 
+3,22m. 
+2,81m. 
+3,22m. 
+3,56m. 
+Weight. 
+39,5t. 
+57,4t. 
+86,3t. 
+64,25t. 
+64,74t. 
+54,5t. 
+65,2t. 
+58,1t. 
+EnginePower. 
+Liberty338hp. 
+G-200960hp. 
+GAF500hp. 
+GAC770hp. 
+AV1790810hp. 
+GAC770hp. 
+AV1790810hp. 
+AV1790750hp. 
+Max. Speed. 
+8,8km/h. 
+35km/h. 
+12,8km/h. 
+35km/h. 
+35km/h. 
+35km/h. 
+35km/h. 
+37km/h. 
+Hull Armour(angle). 
+12mm(28). 
+83mm(30). 
+305mm. 
+102mm(54). 
+102mm(54). 
+127mm(54). 
+102mm(54). 
+127mm(60). 
+Side Armour. 
+12mm. 
+70mm. 
+152mm. 
+76mm. 
+76mm. 
+76mm. 
+76mm. 
+51mm. 
+Turret Armour(mantlet). 
+16mm. 
+83mm(102mm). 
+-. 
+178mm(279mm). 
+178mm(279mm). 
+298mm(298mm). 
+178mm(279mm). 
+127mm(254mm). 
+Top Armour. 
+6-10mm. 
+25mm. 
+38mm. 
+38mm. 
+38mm. 
+38mm. 
+38mm. 
+38mm. 
+Bottom Armour. 
+6-8mm. 
+25mm. 
+25mm. 
+25mm. 
+25mm. 
+25mm. 
+25mm. 
+38mm. 
+Gun. 
+2x57mmHotchkiss. 
+75mm M737mm MB. 
+105mmT5E1. 
+105mmT5E2. 
+155mmT7. 
+90mmT15E2. 
+120mmT53. 
+120mmM58. 
+SecondaryArmament. 
+5x7,62mmHotchkiss. 
+2x12,7mm HB M22x7,62mmM1919A4. 
+12,7mmHB M2. 
+3x12,7mmHB M27.62mmM1919M4. 
+2x12,7mmHB M27.62mmM1919M4. 
+12,7mmHB M22x7.62mmM1919M4. 
+3x12,7mmHB M27.62mmM1919M4. 
+3x12,7mmHB M27.62mmM37. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank= T32
 |The T32 is, compared to the earlier T29, a more balanced tank. A12 T32  Combining the still heavily-armored turret with more adequate hull armor, decent mobility, and a sleeker body, it is a tank that better controls what the enemy targets on it. A12 T32  Compared to other tanks of its tier, the T32's main weakness is the 105mm T5E1. A12 T32  Against the tier 10 tanks which the T32 faces (and the T29 avoided) as well as some tier 8 and 9 tanks, it lacks high penetrating power and thus struggles in frontal engagements. A12 T32  The T32 excels when paired with or against medium and light tanks as either a hunter or a supporter for flanking and pushes, or against heavy tanks as a defensive bunker in primary lanes to slow pushes. A12 T32 
 
 |InTheGame_pros= 
 * Has one of the strongest turrets in the game; nearly impossible to pen from the front and even the side is tough. A12 T32 
-* Good gun depression and handling. A12 T32 
+* Good gun depression and handling (turret bloom improved further as of 1. A12 T32 10). A12 T32 
 * Improved hull armor thickness and angling over the T29 allows for a few lucky bounces if angled properly. A12 T32 
 * Great view range for a heavy tank, same as the [[Pershing]]. A12 T32 
 * Decent side-scraping abilities due to large tracks. A12 T32 
@@ -12,7 +280,7 @@
 * Hull armor is still penetrated outside of top tier, despite being slightly thicker and better angled than the T29. A12 T32 
 * Bottom of the gun mantlet may ricochet shots into hull roof (shot trap), occasionally compromises turret armor. A12 T32 
 * Horrible when stock: The stock turret is flimsy, and has a lower rate of fire and equipping the 105mm requires the suspension. A12 T32 
-* Worst gun selection in tier, penetration, accuracy, alpha damage and RoF are all below average. A12 T32 
+* Mediocre gun, penetration, accuracy, and alpha damage are all below average. A12 T32 
 * Struggles to reach the already mediocre top speed due to bad ground resistance. A12 T32 
 
 |InTheGame_performance=
@@ -24,12 +292,14 @@ The main selling point of the T32 is its impeccable turret armor and good gun de
 
 Another viable tactic, and what many T32 drivers like to do, is to face hug. A12 T32  By doing this, you increase the chance that they will only be able to shoot at the front of your turret or get extremely angled shots at your upper plate. A12 T32  This tactic is especially effective against Soviet or Chinese tanks, which have very bad gun depression and is often forced to shoot at the small and often moving cupola. A12 T32  Face-hugging also allows you to hit their weakpoints, something important given the relatively low-penetration cannon on the vehicle. A12 T32  
 
-A great chassis only balanced by a mediocre gun, it is a very versatile vehicle. A12 T32  There are very few vehicles that allows it to defend just as well as it can attack. A12 T32  On hills, no other tank at Tier 8 is more suitable; German tanks have large, flimsy lower glacis plates; Soviet or Chinese tanks have horrible gun depression and Japanese heavy tanks have thick armor and poor mobility that makes them better defenders than attackers. A12 T32  For its tier, only the M26 Pershing, T34, Caernarvon and Centurion I come close in terms of hull-down capability. A12 T32  
+A great chassis only balanced by a somewhat mediocre gun, it is a very versatile vehicle. A12 T32  There are very few vehicles that allows it to defend just as well as it can attack. A12 T32  On hills, no other tank at Tier 8 is more suitable; German tanks have large, flimsy lower glacis plates; Soviet or Chinese tanks have horrible gun depression and Japanese heavy tanks have thick armor and poor mobility that makes them better defenders than attackers. A12 T32  For its tier, only the M26 Pershing, T34, Caernarvon and Centurion I come close in terms of hull-down capability. A12 T32  
 
+*Note: As of Update 1. A12 T32 10, the T32 has been buffed, all in terms of the cannon it has. A12 T32  Previously, with a 100% crew and nothing else, the reload on the top 105mm was 10. A12 T32 16, which gave it an average 1,889 DPM. A12 T32  The reload time has since been decreased to 9. A12 T32 01, giving it a decent DPM of 2,130. A12 T32  Additionally, the gun handling has been somewhat improved; the fully aimed accuracy has been buffed from 0. A12 T32 39 to 0. A12 T32 38, the aim time from 2. A12 T32 21 to 2. A12 T32 01, and the turret bloom being decreased from 0. A12 T32 13 to 0. A12 T32 10. A12 T32 
 |InTheGame_research=
-* The T5E1 105 mm gun, AV-1790-3 engine and SCR-528 radio carry over from the T29 and should be mounted right away. A12 T32 
+* The AV-1790-3 engine and SCR-528 radio carry over from the T29 and should be mounted right away. A12 T32 
 * The stock suspension will not support the 105 mm gun. A12 T32  Either research the suspension immediately (free XP) or mount Enhanced Torsion Bars. A12 T32  
 * Next, research the turret. A12 T32 
+* Research the 105mm (As of Update 1. A12 T32 10, the cannon is separate from the T29's, so it may have to be re-researched). A12 T32 
 * If Enhanced Torsion Bars were used, research the suspension to free up the equipment slot. A12 T32 
 
 |InTheGame_equipment=

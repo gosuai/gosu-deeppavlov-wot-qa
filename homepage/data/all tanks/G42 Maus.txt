@@ -1,3 +1,99 @@
+6,100,000 Cost. 
+30002400 HP Hit Points. 
+188.98/192.993.43/0 t Weight Limit. 
+17501750 hp Engine Power. 
+20/15 km/h Speed Limit. 
+1515 deg/s Traverse. 
+9.2618.73 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+200/185/160 mm Hull Armor. 
+260/210/210// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+1070/4800/935 1070/4800/935 Shell Cost. 
+490/490/630490/490/630 HP Damage. 
+246/311/65246/311/65 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 13.3 s 50% Crew: 16.48 s 75% Crew: 14.39 s 100% Crew: 12.75 s Rammer: 11.48 s Vents: 12.47 s Both: 11.22 s Both and BiA: 10.98 s Both and Max Crew %: 10.52 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 13.3 s 50% Crew: 16.48 s 75% Crew: 14.39 s 100% Crew: 12.75 s Rammer: 11.48 s Vents: 12.47 s Both: 11.22 s Both and BiA: 10.98 s Both and Max Crew %: 10.52 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: 1989.4 50% Crew: 1607.2 75% Crew: 1837.5 100% Crew: 2072.7 100% Crew Vents: 2121.7 Rammer: 2303 Both: 2356.9 Both and BiA: 2405.9 Both and Max Crew %: 2513.7 Advantageous Damage Per Minute First-shot DPM: 2479.4 50% Crew: 2097.2 75% Crew: 2327.5 100% Crew: 2562.7 100% Crew Rammer: 2793 Vents: 2611.7 Both: 2846.9 Both and BiA: 2895.9 Both and Max Crew %: 3003.7 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: 1989.4 50% Crew: 1607.2 75% Crew: 1837.5 100% Crew: 2072.7 100% Crew Vents: 2121.7 Rammer: 2303 Both: 2356.9 Both and BiA: 2405.9 Both and Max Crew %: 2513.7 Advantageous Damage Per Minute First-shot DPM: 2479.4 50% Crew: 2097.2 75% Crew: 2327.5 100% Crew: 2562.7 100% Crew Rammer: 2793 Vents: 2611.7 Both: 2846.9 Both and BiA: 2895.9 Both and Max Crew %: 3003.7 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (630 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2557.8 50% Crew: 2066.4 75% Crew: 2362.5 100% Crew: 2664.9 100% Crew Vents: 2727.9 Rammer: 2961 Both: 3030.3 Both and BiA: 3093.3 Both and Max Crew %: 3231.9 Advantageous Damage Per Minute First-shot DPM: 3187.8 50% Crew: 2696.4 75% Crew: 2992.5 100% Crew: 3294.9 100% Crew Rammer: 3591 Vents: 3357.9 Both: 3660.3 Both and BiA: 3723.3 Both and Max Crew %: 3861.9 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: 1989.4 50% Crew: 1607.2 75% Crew: 1837.5 100% Crew: 2072.7 100% Crew Vents: 2121.7 Rammer: 2303 Both: 2356.9 Both and BiA: 2405.9 Both and Max Crew %: 2513.7 Advantageous Damage Per Minute First-shot DPM: 2479.4 50% Crew: 2097.2 75% Crew: 2327.5 100% Crew: 2562.7 100% Crew Rammer: 2793 Vents: 2611.7 Both: 2846.9 Both and BiA: 2895.9 Both and Max Crew %: 3003.7 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: 1989.4 50% Crew: 1607.2 75% Crew: 1837.5 100% Crew: 2072.7 100% Crew Vents: 2121.7 Rammer: 2303 Both: 2356.9 Both and BiA: 2405.9 Both and Max Crew %: 2513.7 Advantageous Damage Per Minute First-shot DPM: 2479.4 50% Crew: 2097.2 75% Crew: 2327.5 100% Crew: 2562.7 100% Crew Rammer: 2793 Vents: 2611.7 Both: 2846.9 Both and BiA: 2895.9 Both and Max Crew %: 3003.7 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (630 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2557.8 50% Crew: 2066.4 75% Crew: 2362.5 100% Crew: 2664.9 100% Crew Vents: 2727.9 Rammer: 2961 Both: 3030.3 Both and BiA: 3093.3 Both and Max Crew %: 3231.9 Advantageous Damage Per Minute First-shot DPM: 3187.8 50% Crew: 2696.4 75% Crew: 2992.5 100% Crew: 3294.9 100% Crew Rammer: 3591 Vents: 3357.9 Both: 3660.3 Both and BiA: 3723.3 Both and Max Crew %: 3861.9 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+24°-8°/+24° Elevation Arc. 
+6868 rounds Ammo Capacity. 
+1212 % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 581.2 m With 75% Crew: 665.6 m With 100% Crew: 750.9 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1080.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 581.2 m With 75% Crew: 665.6 m With 100% Crew: 750.9 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1080.9 m For more details, see Skills or Equipment Signal Range. 
+X. 
+12,8 cm Kw.K. 44 L/55. 
+246/311/65. 
+490/490/630. 
+4.51. 
+0.36. 
+2.1. 
+nan. 
+3480. 
+310000. 
+nan. 
+Maus. 
+//. 
+16. 
+400. 
+nan. 
+nan. 
+66000. 
+X. 
+DB 603 A2. 
+1750. 
+12. 
+nan. 
+750. 
+132000. 
+nan. 
+Maus. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+10WSc. 
+720. 
+nan. 
+160. 
+51600. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank= Maus
 |The heaviest (although, thanks to the [[Type 5 Heavy]], no longer biggest) tank in World of Tanks, the Maus is certainly a mammoth tank, with the largest health pool of any other vehicle currently in the game. G42 Maus  Combining that immense hitpoint count with some of the thickest tank armor around means that if an enemy vehicles gun lacks any significant penetration capability, fighting the Maus will not go well. G42 Maus  However, the lack of sloping anywhere on the tank, except for the frontal armor, can allow tank guns with adequate penetration to punch through the sides and rear with relative ease; even more so if the Maus is not angled properly. G42 Maus  Additionally, weaknesses in the frontal armor such as the lower glacis plate are fairly large and can be reliably targeted. G42 Maus  Another weakness when engaging this tank from the front is to shoot at its turret "cheeks" because despite their sloped appearance and high armor values, the turret cheeks are mostly flat mid center and will rarely withstand a shell with sufficient penetration. G42 Maus  This can be quite difficult to achieve, however, if the driver turns the turret away to angle the armor. G42 Maus  In fact, most of the aforementioned weaknesses can be negated by simply positioning the tank in a way that makes incoming shells impact at an angle. G42 Maus 
 

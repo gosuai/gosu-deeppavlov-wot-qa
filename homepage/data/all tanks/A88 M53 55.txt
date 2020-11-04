@@ -1,3 +1,121 @@
+3,550,000 Cost. 
+450Expression error: Unrecognized word "unable". HP Hit Points. 
+44.61/44.7Expression error: Unexpected < operator./Expression error: Unrecognized word "unable". t Weight Limit. 
+770Unable to match configuration for query: engine:a88_m53_55::top|power hp Engine Power. 
+56.3/14 km/h Speed Limit. 
+22Unable to match configuration for query: chassis:a88_m53_55::top|traversespeed deg/s Traverse. 
+17.26Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+25.4/12.7/12.7 mm Hull Armor. 
+Shells. 
+0/0/0 0/0/0 Shell Cost. 
+700/700/Unable to match configuration for query: gun:a88_m53_55::top|damage1/Unable to match configuration for query: gun:a88_m53_55::top|damage2/Unable to match configuration for query: gun:a88_m53_55::top|damage3 HP Damage. 
+39/39/Unable to match configuration for query: gun:a88_m53_55::top|penetration1/Unable to match configuration for query: gun:a88_m53_55::top|penetration2/Unable to match configuration for query: gun:a88_m53_55::top|penetration3 mm Penetration. 
+Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:a88_m53_55::stock|burstcount rounds Magazine Size: Unable to match configuration for query: gun:a88_m53_55::stock|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:a88_m53_55::stock|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information.Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:a88_m53_55::top|burstcount rounds Magazine Size: Unable to match configuration for query: gun:a88_m53_55::top|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:a88_m53_55::top|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information. Rate of Fire. 
+Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:a88_m53_55::stock|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:a88_m53_55::stock|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:a88_m53_55::stock|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information.Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:a88_m53_55::top|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:a88_m53_55::top|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:a88_m53_55::top|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. Damage Per Minute. 
+Expression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see CrewExpression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Crew Accuracy. 
+Expression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or EquipmentExpression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or Equipment Aim time. 
+10Unable to match configuration for query: turret:a88_m53_55::top|turrettraverse deg/s Gun Traverse Speed. 
+60° Gun Arc. 
+-5°/+65°-Unable to match configuration for query: gun:a88_m53_55::top|depression°/+Unable to match configuration for query: gun:a88_m53_55::top|elevation° Elevation Arc. 
+Unable to match configuration for query: gun:a88_m53_55::stock|maxammoUnable to match configuration for query: gun:a88_m53_55::top|maxammo rounds Ammo Capacity. 
+Expression error: Unrecognized word "unable".Expression error: Unrecognized word "unable". % Chance of Fire. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment Signal Range. 
+nan. 
+155 mm Gun M46. 
+39/39. 
+700/700. 
+2.14. 
+0.63. 
+4.5. 
+nan. 
+nan. 
+125000. 
+nan. 
+8-inch Howitzer M47. 
+52/52. 
+1050/1050. 
+1.43. 
+0.75. 
+5.2. 
+nan. 
+nan. 
+240000. 
+nan. 
+Continental AV-1790-7B. 
+nan. 
+0. 
+nan. 
+nan. 
+100000. 
+nan. 
+SOFAM 12 GS. 
+nan. 
+0. 
+nan. 
+nan. 
+59000. 
+nan. 
+T97/T108. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+31000. 
+nan. 
+M53/M55. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+64000. 
+nan. 
+AN/PRC-10. 
+nan. 
+nan. 
+nan. 
+22000. 
+nan. 
+AN/PRC-25. 
+nan. 
+nan. 
+nan. 
+54000. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=M53_55
 |The M53/M55 is an unique vehicle in the American SPG branch. A88 M53 55  The most noticeable features are the turret and the mobility. A88 M53 55 
 The turret has an impressive gun arc of 60°, which helps aiming without moving the vehicle itself. A88 M53 55  The mobility is very good, having a high top speed and a nice power to weight ratio. A88 M53 55  This gives the M53/M55 the mobility to relocate, flee from danger or bring support where needed. A88 M53 55 

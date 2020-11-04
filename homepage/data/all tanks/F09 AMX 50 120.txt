@@ -1,3 +1,140 @@
+3,565,000 Cost. 
+17501750 HP Hit Points. 
+59.2/6059.71/65 t Weight Limit. 
+8501000 hp Engine Power. 
+65/20 km/h Speed Limit. 
+3032 deg/s Traverse. 
+14.3616.75 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+100/80/60 mm Hull Armor. 
+100/80/60100/80/60 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+255/4800/255 1060/4800/900 Shell Cost. 
+240/240/320400/400/515 HP Damage. 
+212/259/45257/325/65 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 6 rounds Cycle Time: 2.73 s Magazine Reload Times Nominal: 30 s 50% Crew: 38.18 s 75% Crew: 33.6 s 100% Crew: 30 s With Vents: 29.31 s With Vents and BiA: 28.77 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 4 rounds Cycle Time: 3.33 s Magazine Reload Times Nominal: 35 s 50% Crew: 44.55 s 75% Crew: 39.2 s 100% Crew: 35 s With Vents: 34.2 s With Vents and BiA: 33.56 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (240 Damage): Theoretical Damage Per Minute Nominal: 1936.8 50% Crew: 1843.2 75% Crew: 1896 100% Crew: 1936.8 With Vents: 1946.4 With Vents and BiA: 1951.2 Advantageous Damage Per Minute Loaded-mag DPM: 2203.2 50% Crew: 2167.2 75% Crew: 2186.4 100% Crew: 2203.2 With Vents: 2208 With Vents and BiA: 2210.4 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (240 Damage): Theoretical Damage Per Minute Nominal: 1936.8 50% Crew: 1843.2 75% Crew: 1896 100% Crew: 1936.8 With Vents: 1946.4 With Vents and BiA: 1951.2 Advantageous Damage Per Minute Loaded-mag DPM: 2203.2 50% Crew: 2167.2 75% Crew: 2186.4 100% Crew: 2203.2 With Vents: 2208 With Vents and BiA: 2210.4 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 2582.4 50% Crew: 2457.6 75% Crew: 2528 100% Crew: 2582.4 With Vents: 2595.2 With Vents and BiA: 2601.6 Advantageous Damage Per Minute Loaded-mag DPM: 2937.6 50% Crew: 2889.6 75% Crew: 2915.2 100% Crew: 2937.6 With Vents: 2944 With Vents and BiA: 2947.2 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (400 Damage): Theoretical Damage Per Minute Nominal: 2456 50% Crew: 2368 75% Crew: 2416 100% Crew: 2456 With Vents: 2464 With Vents and BiA: 2472 Advantageous Damage Per Minute Loaded-mag DPM: 2676 50% Crew: 2636 75% Crew: 2656 100% Crew: 2676 With Vents: 2676 With Vents and BiA: 2680 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (400 Damage): Theoretical Damage Per Minute Nominal: 2456 50% Crew: 2368 75% Crew: 2416 100% Crew: 2456 With Vents: 2464 With Vents and BiA: 2472 Advantageous Damage Per Minute Loaded-mag DPM: 2676 50% Crew: 2636 75% Crew: 2656 100% Crew: 2676 With Vents: 2676 With Vents and BiA: 2680 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (515 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 3162.1 50% Crew: 3048.8 75% Crew: 3110.6 100% Crew: 3162.1 With Vents: 3172.4 With Vents and BiA: 3182.7 Advantageous Damage Per Minute Loaded-mag DPM: 3445.35 50% Crew: 3393.85 75% Crew: 3419.6 100% Crew: 3445.35 With Vents: 3445.35 With Vents and BiA: 3450.5 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment Aim time. 
+3232 deg/s Turret Traverse. 
+360° Gun Arc. 
+-9°/+11°-9°/+11° Elevation Arc. 
+7240 rounds Ammo Capacity. 
+2015 % Chance of Fire. 
+m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 605.4 m With 75% Crew: 693.4 m With 100% Crew: 782.2 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1125.9 m For more details, see Skills or Equipment Signal Range. 
+VIII. 
+90 mm DCA 45. 
+212/259/45. 
+240/240/320. 
+8.25. 
+0.36. 
+2.7. 
+nan. 
+2750. 
+121250. 
+VIII. 
+100 mm SA47. 
+232/263/50. 
+300/300/400. 
+7.4. 
+0.36. 
+2.7. 
+nan. 
+3000. 
+127550. 
+X. 
+120 mm SA46. 
+257/325/65. 
+400/400/515. 
+5.33. 
+0.35. 
+2.7. 
+nan. 
+3580. 
+339000. 
+IX. 
+AMX 50 120. 
+100/80/60. 
+32. 
+390. 
+nan. 
+15300. 
+60700. 
+IX. 
+Maybach HL 295. 
+850. 
+20. 
+nan. 
+750. 
+78000. 
+IX. 
+Saurer. 
+1000. 
+15. 
+nan. 
+750. 
+99800. 
+VIII. 
+AMX 50 120. 
+60. 
+30. 
+B/2. 
+nan. 
+11000. 
+31200. 
+IX. 
+AMX 50 120 bis. 
+65. 
+32. 
+B/2. 
+nan. 
+11000. 
+66500. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank=
 |Compared to its predecessor, the [[AMX 50 100]], the AMX 50 120 is less mobile and significantly larger. F09 AMX 50 120  It reaches very high speeds downhill thanks to its high top speed, but the biggest difference is that the AMX 50 120 is that it's equipped with a 120mm cannon, hence its name. F09 AMX 50 120  This cannon concentrates its firepower into a 4-round drum and makes short work of tanks below the 50 120's tier. F09 AMX 50 120  As with all the high tier French heavy tanks, the 50 120 has weak armor, a long reload time, good mobility, and an excellent gun. F09 AMX 50 120  The 50 120 retains many of the features of the AMX 50 100 and is a natural evolution of its playstyle. F09 AMX 50 120 
 

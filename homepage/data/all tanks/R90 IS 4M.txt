@@ -1,8 +1,114 @@
+6,100,000 Cost. 
+25002500 HP Hit Points. 
+60.02/66.346.13/0 t Weight Limit. 
+750750 hp Engine Power. 
+43/14 km/h Speed Limit. 
+3030 deg/s Traverse. 
+12.516.26 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+155/160/100 mm Hull Armor. 
+250/200/170250/200/170 mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+390/390/530390/390/530 HP Damage. 
+217/270/61217/270/61 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 11 s 50% Crew: 13.63 s 75% Crew: 11.9 s 100% Crew: 10.55 s Rammer: 9.5 s Vents: 10.32 s Both: 9.29 s Both and BiA: 9.08 s Both and Max Crew %: 8.71 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11 s 50% Crew: 13.63 s 75% Crew: 11.9 s 100% Crew: 10.55 s Rammer: 9.5 s Vents: 10.32 s Both: 9.29 s Both and BiA: 9.08 s Both and Max Crew %: 8.71 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.545 m With 75% Crew: 0.476 m With 100% Crew: 0.422 m With BiA: 0.413 m With BiA and Vents: 0.404 m Maximum possible: 0.387 m For more details, see Crew m ▲ With 50% Crew: 0.545 m With 75% Crew: 0.476 m With 100% Crew: 0.422 m With BiA: 0.413 m With BiA and Vents: 0.404 m Maximum possible: 0.387 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.592 s With 75% Crew: 3.137 s With 100% Crew: 2.781 s With GLD: 2.528 s With BiA: 2.719 s With BiA and Vents: 2.66 s With both and GLD: 2.418 s Maximum possible: 2.318 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.592 s With 75% Crew: 3.137 s With 100% Crew: 2.781 s With GLD: 2.528 s With BiA: 2.719 s With BiA and Vents: 2.66 s With both and GLD: 2.418 s Maximum possible: 2.318 s For more details, see Crew or Equipment Aim time. 
+2525 deg/s Turret Traverse. 
+360° Gun Arc. 
+-6°/+16°-6°/+16° Elevation Arc. 
+3030 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 565.7 m With 75% Crew: 642.9 m With 100% Crew: 720 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1036 m For more details, see Skills or Equipment m ▲ With 50% Crew: 565.7 m With 75% Crew: 642.9 m With 100% Crew: 720 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1036 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+122 mm M62-T2. 
+258/340/61. 
+440/440/530. 
+5.22. 
+0.42. 
+2.5. 
+nan. 
+nan. 
+335000. 
+nan. 
+122 mm D-25TS. 
+217/270/61. 
+390/390/530. 
+5.45. 
+0.44. 
+2.9. 
+nan. 
+nan. 
+125140. 
+X. 
+IS-4M. 
+250/200/170. 
+25. 
+400. 
+nan. 
+14200. 
+61100. 
+X. 
+V-12. 
+750. 
+15. 
+nan. 
+1024. 
+128000. 
+nan. 
+IS-4M. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+61350. 
+X. 
+10RK-26. 
+720. 
+nan. 
+160. 
+51600. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank=IS-4
 
 |As the final development of its Heavy Tank tech tree, the IS-4 goes for the more versatile "Jack-of-All-Trades/Master-of-None" approach to its in-game performance. R90 IS 4M  Its gun is adequate for its tier, but is quite unimpressive in any single aspect such as accuracy or DPM. R90 IS 4M  Its turret armor is quite strong frontally, but can be easily over-matched when shot through the exposed roof, where it is much weaker. R90 IS 4M  Its hull armor is decent, boasting a tough all-around layout which gives the tank good side-scraping capabilities, but is relatively easy to punch through from the front, even if angled properly. R90 IS 4M  Its mobility is totally different from its quick and nimble brother, the [[IS-7]] with the IS-4 being very sluggish and slow by comparison. R90 IS 4M   
 
-The culmination of these characteristics makes the IS-4 feel like more of a support tank rather than an all out assault leader. R90 IS 4M  While the IS-4 mounts a more accurate 122mm main gun as opposed to the 130mm cannon of the IS-7 and the [[Object 705A]], it still isn't very well suited for long range sniping and if you miss a shot it can be a painful experience. R90 IS 4M  In addition, the tank does not have the speed and maneuverability to get itself into position quickly and relocate if needed. R90 IS 4M  These drawbacks largely restrict the efficiency of the IS-4 to medium and short range brawler-type combat. R90 IS 4M  However, due to the low vertical profile of the tank, it enjoys a somewhat better camouflage rating and can utilize many forms of cover much more effectively - peek out, fire a shot at the enemy, then dive back into safety. R90 IS 4M  But due to its average gun handling, it will require a few seconds to fully aim or risk a hard miss otherwise. R90 IS 4M  All of the above points demonstrate the IS-4 for what it currently is - a Jack-of-All-Trades tank, permitting its driver greater versatility at the expense of any exceptional capabilities. R90 IS 4M   
+The culmination of these characteristics makes the IS-4 feel like more of a support tank rather than an all out assault leader. R90 IS 4M  While the IS-4 mounts a more accurate 122mm main gun as opposed to the 130mm cannon of the IS-7 and the [[Object 705A]], it still isn't very well suited for long range sniping and if you miss a shot it can be a painful experience. R90 IS 4M  In addition, the tank does not have the speed and maneuverability to get itself into position quickly and relocate if needed. R90 IS 4M  These drawbacks largely restrict the efficiency of the IS-4 to medium and short range brawler-type combat. R90 IS 4M  However, due to the low vertical profile of the tank, it enjoys a somewhat better camouflage rating and can utilize many forms of cover much more effectively - peek out, fire a shot at the enemy, then dive back into safety. R90 IS 4M  But due to its below average dispersion, it will require a few seconds to fully aim or risk a hard miss otherwise. R90 IS 4M  All of the above points demonstrate the IS-4 for what it currently is - a Jack-of-All-Trades tank, permitting its driver greater versatility at the expense of any exceptional capabilities. R90 IS 4M   
 
 
 
@@ -17,21 +123,22 @@ The culmination of these characteristics makes the IS-4 feel like more of a supp
 
 |InTheGame_cons=
 * Sluggish acceleration and average mobility
-* Frontal hull armor has several weakspots
-* Thin, overmatchable plate on the turret roof
-* Fairly lacking in DPM
+* Frontal hull armor has several weakspots, and is overall unreliable
+* Fairly lacking in DPM and full aimed dispersion
 * Below average gun depression
 
 |InTheGame_performance=
 Among the oldest techtree tanks available to players, the IS-4 could be called the most "flavorless" of the Tier 10 Soviet heavy tanks. R90 IS 4M  It lacks the sheer armor thickness and firepower of [[Object 705A]], and the mobility and flexibility of [[Object 277]], and is not as good an assault leader as the renowned [[IS-7]]. R90 IS 4M  What the IS-4 offers though, is a 'jack of all trades' package that, while outclassed by its brethren in specific areas, is overall good in every department without compromising anything for specializations. R90 IS 4M 
 
-That is not to say the IS-4 is without merits though. R90 IS 4M  First of all, its armor profile is deceptively durable. R90 IS 4M  While its upper and lower glacis are not very thick (at least when compared to other overarmored tanks seen in Tier 10), its frontal cheeks and side armor are not only thick but also well angled, making a sidescraping IS-4 an exceptionally tough opponent to deal with, to the point artillery and large caliber HE are the only surefire ways to deal damage to it. R90 IS 4M  Its turret armor is also very well armored despite its raw thickness being inferior to its more modern techtree counterparts, however players should be mindful that a portion of the turret roof is quite thin and easily penetrated via triple overmatch. R90 IS 4M 
+That is not to say the IS-4 is without merits though. R90 IS 4M  First of all, its armor profile is deceptively durable. R90 IS 4M  While its upper and lower glacis are not very thick (at least when compared to other overarmored tanks seen in Tier 10), its frontal cheeks and side armor are not only thick but also well angled, making a sidescraping IS-4 an exceptionally tough opponent to deal with, to the point artillery and large caliber HE are the only surefire ways to deal damage to it. R90 IS 4M  Its turret armor is also very well armored despite its raw thickness being inferior to its more modern techtree counterparts. R90 IS 4M 
 
-The gun is the same 122mm M62-T2 used on the preceding [[ST-I]], and while its raw alpha and penetration are the same, it enjoys much better accuracy (for Soviet standards) and a rather decent aim time, as well as a higher rate of fire. R90 IS 4M  Unfortunately, the IS-4 has a much worse gun depression compared to the ST-I, as well as a lower ammo capacity, which can lead to uncomfortable situations if the player positions themselves poorly or is wasteful with their ammunition. R90 IS 4M 
+The gun is the same 122mm M62-T2 used on the preceding [[ST-I]], and while its raw alpha and penetration are the same, it enjoys much better gun handling and a rather decent aim time, as well as a higher rate of fire. R90 IS 4M  Unfortunately, the IS-4 has a much worse gun depression compared to the ST-I, as well as a lower ammo capacity, which can lead to uncomfortable situations if the player positions themselves poorly or is wasteful with their ammunition. R90 IS 4M 
 
 Mobility-wise, the IS-4 is your typical heavy tank. R90 IS 4M  It enjoys a pretty good top speed and a serviceable reverse speed, but is fairly lacking in acceleration and can feel sluggish to maneuver, especially on uneven terrain. R90 IS 4M  It can relocate, but won't go anywhere as fast as its quicker techtree brothers such as the Object 277. R90 IS 4M 
 
 Overall, the IS-4 is not a bad tank, but the ever advancing powercreep dooms it to mediocrity. R90 IS 4M  It is considered obsolete and a poor choice for the competitive environment, such as Clan Wars, but it can still be a powerful asset in random battles. R90 IS 4M  Its playstyle is also quite easy to master, as it has much in common with, of all things, the Tier 7 [[IS]]. R90 IS 4M  Any player who has enjoyed the IS and its many premium counterparts, will have no trouble adjusting to the IS-4 and having success in it. R90 IS 4M  
+
+*Note, as of Update 1. R90 IS 4M 10 the IS-4 has been mostly buffed with one nerf to its gun. R90 IS 4M  The gun handling before the patch was 0. R90 IS 4M 24/0. R90 IS 4M 24/0. R90 IS 4M 08, meaning any form of movement apart from the turret bloomed it like crazy. R90 IS 4M  This has since been buffed to 0. R90 IS 4M 17/0. R90 IS 4M 17/0. R90 IS 4M 06, along with a nice decrease of aim time from 2. R90 IS 4M 78 to 2. R90 IS 4M 40. R90 IS 4M  However, the dispersion was for some reason nerfed from 0. R90 IS 4M 36 to 0. R90 IS 4M 40, leaving it more unreliable at long range than before when fully aimed. R90 IS 4M  The IS-4 has had some armor buffs too, however, with a 15mm thickness increase (from 140 to 155 in the frontal hull) raising the effective thickness from ~230 to ~250, leaving it somewhat less vulnerable. R90 IS 4M  Additionally, the infamous turret roof weakspot was essentially removed. R90 IS 4M 
 
 |InTheGame_research=
 It's impossible to advance from the [[ST-I]] without researching the improved gun, so the IS-4 should instantly arrive as an elite tank. R90 IS 4M 

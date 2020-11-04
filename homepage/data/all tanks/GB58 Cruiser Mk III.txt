@@ -1,3 +1,154 @@
+38,000 Cost. 
+370312 HP Hit Points. 
+14.19/14.57.33/0 t Weight Limit. 
+340395 hp Engine Power. 
+48/20 km/h Speed Limit. 
+3232 deg/s Traverse. 
+23.9653.89 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+14/14/14 mm Hull Armor. 
+14/14/14// mm Turret Armor. 
+AP AP/APCR/HE Shells. 
+1/0 30/800/16 Shell Cost. 
+9//9/45/60 HP Damage. 
+27//27/71/23 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 5 rounds Magazine Size: 40 rounds Cycle Time: 0.14 s Magazine Reload Times Nominal: 18 s 50% Crew: 22.3 s 75% Crew: 19.47 s 100% Crew: 17.26 s With Vents: 16.88 s With Vents and BiA: 16.51 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 40 rounds Cycle Time: 0.14 s Magazine Reload Times Nominal: 18 s 50% Crew: 22.3 s 75% Crew: 19.47 s 100% Crew: 17.26 s With Vents: 16.88 s With Vents and BiA: 16.51 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (9 Damage): Theoretical Damage Per Minute Nominal: 155.79 50% Crew: 129.33 75% Crew: 145.62 100% Crew: 161.55 With Vents: 158.85 With Vents and BiA: 161.82 Advantageous Damage Per Minute Loaded-mag DPM: 464.22 50% Crew: 446.49 75% Crew: 457.38 100% Crew: 468 With Vents: 466.2 With Vents and BiA: 468.18 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (9 Damage): Theoretical Damage Per Minute Nominal: 223.11 50% Crew: 198.63 75% Crew: 214.11 100% Crew: 227.97 With Vents: 225.72 With Vents and BiA: 228.24 Advantageous Damage Per Minute Loaded-mag DPM: 409.05 50% Crew: 403.74 75% Crew: 407.07 100% Crew: 410.13 With Vents: 409.68 With Vents and BiA: 410.22 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (45 Damage): Theoretical Damage Per Minute Nominal: 1115.55 50% Crew: 993.15 75% Crew: 1070.55 100% Crew: 1139.85 With Vents: 1128.6 With Vents and BiA: 1141.2 Advantageous Damage Per Minute Loaded-mag DPM: 2045.25 50% Crew: 2018.7 75% Crew: 2035.35 100% Crew: 2050.65 With Vents: 2048.4 With Vents and BiA: 2051.1 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 1487.4 50% Crew: 1324.2 75% Crew: 1427.4 100% Crew: 1519.8 With Vents: 1504.8 With Vents and BiA: 1521.6 Advantageous Damage Per Minute Loaded-mag DPM: 2727 50% Crew: 2691.6 75% Crew: 2713.8 100% Crew: 2734.2 With Vents: 2731.2 With Vents and BiA: 2734.8 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+4646 deg/s Turret Traverse. 
+360° Gun Arc. 
+-15°/+20°-15°/+20° Elevation Arc. 
+720720 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.20 % Chance of Fire. 
+m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With 100% Signal Boost: 420 m When affected by 100% Relaying: 385 m Maximum possible: 503.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment Signal Range. 
+I. 
+15 mm Machine Gun BESA. 
+27. 
+9. 
+102.38. 
+0.53. 
+1.7. 
+nan. 
+70. 
+1900. 
+III. 
+QF 2-pdr Mk. IX. 
+64/121/23. 
+45/45/60. 
+22.22. 
+0.4. 
+2.1. 
+nan. 
+130. 
+6000. 
+IV. 
+40 mm Pom-Pom. 
+49/71/23. 
+45/45/60. 
+22.86. 
+0.45. 
+2.3. 
+nan. 
+160. 
+20000. 
+nan. 
+Cruiser Mk. III. 
+//. 
+46. 
+320. 
+nan. 
+nan. 
+120. 
+nan. 
+Cruiser Mk. III*. 
+//. 
+42. 
+330. 
+nan. 
+nan. 
+500. 
+IV. 
+Nuffield Liberty Mk. III. 
+395.0. 
+20. 
+nan. 
+383.0. 
+11500. 
+nan. 
+Nuffield Liberty Mk. II. 
+nan. 
+0. 
+nan. 
+nan. 
+500. 
+nan. 
+Cruiser Mk. III. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+660. 
+nan. 
+Cruiser Mk. III*. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+1220. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+V. 
+WS No. 9. 
+375. 
+nan. 
+40. 
+3600. 
+III. 
+WS No. 11. 
+350. 
+nan. 
+40. 
+600. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
 {{TankData|Tank=GB58_Cruiser_Mk_III
 |Bumped up to Tier 3 in 1. GB58 Cruiser Mk III 9, the Cruiser III is a departure from the first two tanks in the British Tech Tree. GB58 Cruiser Mk III  Boasting greatly improved mobility at the cost of armour, this tank excels as a flanker, and can even do well as a sniper with the decent accuracy and penetration on its QF 2-pdr. GB58 Cruiser Mk III  Mk IX. GB58 Cruiser Mk III 
 

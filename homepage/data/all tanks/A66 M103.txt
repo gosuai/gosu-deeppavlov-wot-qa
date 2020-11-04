@@ -1,9 +1,154 @@
+3,640,000 Cost. 
+17501400 HP Hit Points. 
+54.39/57.531.12/0 t Weight Limit. 
+810810 hp Engine Power. 
+34/12 km/h Speed Limit. 
+2626 deg/s Traverse. 
+14.89Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+228.6/44.5/44.5 mm Hull Armor. 
+254/86.4/53.3// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+320/320/420320/320/420 HP Damage. 
+208/245/53208/245/53 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9.4 s 50% Crew: 11.64 s 75% Crew: 10.17 s 100% Crew: 9.01 s Rammer: 8.11 s Vents: 8.81 s Both: 7.93 s Both and BiA: 7.76 s Both and Max Crew %: 7.44 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9.4 s 50% Crew: 11.64 s 75% Crew: 10.17 s 100% Crew: 9.01 s Rammer: 8.11 s Vents: 8.81 s Both: 7.93 s Both and BiA: 7.76 s Both and Max Crew %: 7.44 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+3232 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+15°-8°/+15° Elevation Arc. 
+6060 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.1 m With 75% Crew: 366.1 m With 100% Crew: 410 m With 100% Signal Boost: 492 m When affected by 100% Relaying: 451 m Maximum possible: 590 m For more details, see Skills or Equipment m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+120 mm Gun T122. 
+242/340/53. 
+400/400/420. 
+5.45. 
+0.4. 
+2.5. 
+nan. 
+nan. 
+230000. 
+nan. 
+120 mm Gun M58. 
+258/340/53. 
+400/400/420. 
+6.0. 
+0.37. 
+2.3. 
+nan. 
+nan. 
+310000. 
+nan. 
+105 mm Gun T5E1/45. 
+208/245/53. 
+320/320/420. 
+6.45. 
+0.39. 
+2.1. 
+nan. 
+nan. 
+118000. 
+nan. 
+M89. 
+//. 
+32. 
+370. 
+nan. 
+nan. 
+43500. 
+nan. 
+T140. 
+//. 
+32. 
+390. 
+nan. 
+nan. 
+55000. 
+nan. 
+Continental AV-1790-5B. 
+nan. 
+0. 
+nan. 
+nan. 
+80000. 
+nan. 
+Continental AV-1790-7C. 
+nan. 
+0. 
+nan. 
+nan. 
+100000. 
+nan. 
+T97E1. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+31500. 
+nan. 
+T97E2. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+61500. 
+VI. 
+AN/GRC-3. 
+410. 
+nan. 
+120. 
+21600. 
+X. 
+AN/GRC-7. 
+745. 
+nan. 
+120. 
+54000. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank=M103
 | M103 replaced the [[T34]] as the tier 9 heavy in patch 0. A66 M103 7. A66 M103 2. A66 M103  The fully upgraded 120mm cannon is a fantastic gun, with great accuracy, and very high penetration. A66 M103  While it lacks alpha damage compared to the [[Tank:R81_IS8|T-10]] or [[E-75]], the gun's reload speed makes up for its lack of damage. A66 M103  The M103's oddly shaped hull and well-sloped turret can make this tank a bit tricky to fight, especially at long ranges; however, this tank suffers from having very weak sides and rear armor. A66 M103  When fighting this tank from the front, make sure you try and hit the lower glacis as hitting the upper hull will most likely bounce. A66 M103   If you can only see the turret aim for the large cupola atop the tank for easy penetrations. A66 M103  The speed and maneuverability of this tank are quite good, so it's able to keep up with the rest of the team and provide excellent fire support when needed, and is able to turn its frontal hull towards the enemy quickly to reduce damage taken from incoming fire. A66 M103 
 
 |InTheGame_pros=
 * Strong turret face armor and mantlet
-* Good gun depression
+* Good gun depression and DPM
 * Well-rounded top gun with good performance across the board
 * Huge tracks can help absorb shots when sidescraping
 * Fast turret rotation for such a large turret
@@ -18,9 +163,11 @@
 |InTheGame_performance= 
 Coming from the [[T32]], the M103 could be quite the rude awakening for players used to typical American hull-down tactics. A66 M103  Unlike the T32, M103's turret is massive and of limited durability, with only its mantlet and cheeks being somewhat durable. A66 M103  The plate above the mantlet, the turret ring, the roof, the cupola and the sides/rear are all poorly armored for Tier 9 standards, and make relying on hull down tactics a challenge. A66 M103  Further complicating things, the hull armor is also on the weak side, with only the upper glacis offering some meaningful protection. A66 M103  And if that were not enough, the M103 is also a very large tank and therefore a juicy target for artillery. A66 M103 
 
-Thankfully, what the M103 lacks in armor protection, it compensates in firepower and (to a lesser extent) mobility. A66 M103  Its top gun, the 120mm Gun M58, is the same gun used on the [[T110E5]] a tier higher, and comes with good rate of fire, penetration (both standard and premium), a good -8 degrees of gun depression and decent gun handling and aimtime. A66 M103  Do be aware that the tank's ammo capacity is limited though, so you should make every shot count for maximum efficiency. A66 M103  As for mobility, while its speed is average at best (and its reverse speed is plain terrible), for its size it is a fairly quick tank with good acceleration and ground resistance, and can keep up the pace during a push. A66 M103  Never rush to the frontlines though, as the M103 cannot take much punishment - leave that job to tougher heavy tanks like the German [[E 75]] or the Soviet [[Object 257]]. A66 M103 
+Thankfully, what the M103 lacks in armor protection, it compensates in firepower and (to a lesser extent) mobility. A66 M103  Its top gun, the 120mm Gun M58, is the same gun used on the [[T110E5]] a tier higher, and comes with great rate of fire, penetration (both standard and premium), a good -8 degrees of gun depression and decent gun handling and aimtime. A66 M103  Do be aware that the tank's ammo capacity is limited though, so you should make every shot count for maximum efficiency. A66 M103  As for mobility, while its speed is average at best (and its reverse speed is plain terrible), for its size it is a fairly quick tank with good acceleration and ground resistance, and can keep up the pace during a push. A66 M103  Never rush to the frontlines though, as the M103 cannot take much punishment - leave that job to tougher heavy tanks like the German [[E 75]] or the Soviet [[Object 257]]. A66 M103 
 
 Overall, the M103 should be considered a "force multiplier", a tank that by itself is overall average, but that excels as support when part of a group. A66 M103  Use cover whenever possible, including your heavily armored allies, and seek opportunities to put your excellent firepower to good use, but never overcommit as that would only result in a trip back to the garage. A66 M103  
+
+*Note: As of Update 1. A66 M103 10, or Equipment 2. A66 M103 0, the M103 has been buffed. A66 M103  Previously, the reload time was 10. A66 M103 74, giving it an average 2,235 DPM, however, the reload has since been decreased to 9. A66 M103 59, giving it a pretty good DPM of 2,503. A66 M103  The gun handling has been somewhat improved as well, but only with tank traverse and movement. A66 M103  However, the turret has also been buffed. A66 M103  Previously, the roof was below 40mm thickness, allowing it to get triple overmatched by virtually every same tier or higher heavy tank. A66 M103  This has since been increased to ~47mm-60mm, meaning only certain high-caliber Tank Destroyers can overmatch it anymore, and the plate right above the gun has also been improved, no longer getting overmatched by 120mm+ guns. A66 M103 
 
 |InTheGame_research= 
 

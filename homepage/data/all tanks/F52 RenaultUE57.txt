@@ -1,3 +1,127 @@
+42,500 Cost. 
+270212 HP Hit Points. 
+2.29/7.82.4/7.8 t Weight Limit. 
+3838 hp Engine Power. 
+36/12 km/h Speed Limit. 
+2830 deg/s Traverse. 
+16.5915.83 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+9/6/6 mm Hull Armor. 
+AP/APCR/HE AP/APCR Shells. 
+20/1200/13 45/2400/13 Shell Cost. 
+55/55/7055/55/70 HP Damage. 
+66/98/2466/98/24 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.2 s 50% Crew: 2.73 s 75% Crew: 2.38 s 100% Crew: 2.11 s Rammer: 1.9 s Vents: 2.06 s Both: 1.86 s Both and BiA: 1.82 s Both and Max Crew %: 1.74 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.2 s 50% Crew: 2.73 s 75% Crew: 2.38 s 100% Crew: 2.11 s Rammer: 1.9 s Vents: 2.06 s Both: 1.86 s Both and BiA: 1.82 s Both and Max Crew %: 1.74 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: 1519.65 50% Crew: 1226.5 75% Crew: 1404.7 100% Crew: 1585.1 100% Crew Vents: 1620.85 Rammer: 1761.1 Both: 1800.7 Both and BiA: 1840.85 Both and Max Crew %: 1920.6 Advantageous Damage Per Minute First-shot DPM: 1574.65 50% Crew: 1281.5 75% Crew: 1459.7 100% Crew: 1640.1 100% Crew Rammer: 1816.1 Vents: 1675.85 Both: 1855.7 Both and BiA: 1895.85 Both and Max Crew %: 1975.6 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: 1519.65 50% Crew: 1226.5 75% Crew: 1404.7 100% Crew: 1585.1 100% Crew Vents: 1620.85 Rammer: 1761.1 Both: 1800.7 Both and BiA: 1840.85 Both and Max Crew %: 1920.6 Advantageous Damage Per Minute First-shot DPM: 1574.65 50% Crew: 1281.5 75% Crew: 1459.7 100% Crew: 1640.1 100% Crew Rammer: 1816.1 Vents: 1675.85 Both: 1855.7 Both and BiA: 1895.85 Both and Max Crew %: 1975.6 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (70 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1934.1 50% Crew: 1561 75% Crew: 1787.8 100% Crew: 2017.4 100% Crew Vents: 2062.9 Rammer: 2241.4 Both: 2291.8 Both and BiA: 2342.9 Both and Max Crew %: 2444.4 Advantageous Damage Per Minute First-shot DPM: 2004.1 50% Crew: 1631 75% Crew: 1857.8 100% Crew: 2087.4 100% Crew Rammer: 2311.4 Vents: 2132.9 Both: 2361.8 Both and BiA: 2412.9 Both and Max Crew %: 2514.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: 1443.75 50% Crew: 1165.45 75% Crew: 1334.85 100% Crew: 1505.9 100% Crew Vents: 1540 Rammer: 1673.1 Both: 1711.05 Both and BiA: 1749 Both and Max Crew %: 1824.35 Advantageous Damage Per Minute First-shot DPM: 1498.75 50% Crew: 1220.45 75% Crew: 1389.85 100% Crew: 1560.9 100% Crew Rammer: 1728.1 Vents: 1595 Both: 1766.05 Both and BiA: 1804 Both and Max Crew %: 1879.35 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: 1443.75 50% Crew: 1165.45 75% Crew: 1334.85 100% Crew: 1505.9 100% Crew Vents: 1540 Rammer: 1673.1 Both: 1711.05 Both and BiA: 1749 Both and Max Crew %: 1824.35 Advantageous Damage Per Minute First-shot DPM: 1498.75 50% Crew: 1220.45 75% Crew: 1389.85 100% Crew: 1560.9 100% Crew Rammer: 1728.1 Vents: 1595 Both: 1766.05 Both and BiA: 1804 Both and Max Crew %: 1879.35 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (70 Damage):  Theoretical Damage Per Minute Nominal DPM: 1837.5 50% Crew: 1483.3 75% Crew: 1698.9 100% Crew: 1916.6 100% Crew Vents: 1960 Rammer: 2129.4 Both: 2177.7 Both and BiA: 2226 Both and Max Crew %: 2321.9 Advantageous Damage Per Minute First-shot DPM: 1907.5 50% Crew: 1553.3 75% Crew: 1768.9 100% Crew: 1986.6 100% Crew Rammer: 2199.4 Vents: 2030 Both: 2247.7 Both and BiA: 2296 Both and Max Crew %: 2391.9 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+4444 deg/s Gun Traverse Speed. 
+14° Gun Arc. 
+-2°/+20°-2°/+20° Elevation Arc. 
+220220 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 357.5 m With 75% Crew: 406.3 m With 100% Crew: 455 m With 100% Signal Boost: 546 m When affected by 100% Relaying: 500.5 m Maximum possible: 654.7 m For more details, see Skills or Equipment Signal Range. 
+III. 
+47 mm SA-L mle. 1937. 
+66/98/24. 
+55/55/70. 
+27.27. 
+0.35. 
+1.7. 
+nan. 
+100. 
+8400. 
+IV. 
+6-pdr AT Gun Mk. IV. 
+110/180/24. 
+75/75/70. 
+21.43. 
+0.39. 
+2.0. 
+nan. 
+450. 
+25000. 
+I. 
+Renault 85. 
+38.0. 
+15. 
+nan. 
+300.0. 
+1500. 
+nan. 
+Renault ACL. 
+nan. 
+0. 
+nan. 
+nan. 
+5000. 
+III. 
+Renault UE bis. 
+7.8. 
+30.0. 
+0. 
+nan. 
+500.0. 
+1800. 
+nan. 
+Renault UE. 
+0.0. 
+nan. 
+0. 
+nan. 
+nan. 
+440. 
+II. 
+ER 52. 
+300. 
+nan. 
+100. 
+0. 
+V. 
+ER 53. 
+360. 
+nan. 
+100. 
+3650. 
+VII. 
+ER 56. 
+455. 
+nan. 
+150. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=RenaultUE57
 |Often nicknamed "The Rat", the Renault UE 57 is currently The second Smallest "Tank" in the game (after [[Tank:Pl01_TKS_20mm|TKS 20mm]]). F52 RenaultUE57  Its most obvious features are its great gun choices, starting with the same gun from the FT AC. F52 RenaultUE57  Its next 57mm is an excellent gun for its tier and can penetrate almost anything it comes across. F52 RenaultUE57  However, its armor can't bounce anything, but if you get shots off on your enemy before they do they'll most likely be dead. F52 RenaultUE57  It has a great rate of fire, though the elevation, traverse and depression of the gun are very limited. F52 RenaultUE57  It's also a relatively fast tank, which is negated by its terrible traverse speed. F52 RenaultUE57  In all it's best used to snipe from afar using its highly accurate and great gun, as you won't last long if you get very close to the front line. F52 RenaultUE57 
 

@@ -1,3 +1,187 @@
+2,450,000 Cost. 
+15001600 HP Hit Points. 
+68.05/69.765.74/74 t Weight Limit. 
+650650 hp Engine Power. 
+38/12 km/h Speed Limit. 
+2628 deg/s Traverse. 
+9.55Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+160/80/80 mm Hull Armor. 
+100/80/80245/120/80 mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+280/280/370280/280/370 HP Damage. 
+203/237/44203/237/44 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.8 s 50% Crew: 9.66 s 75% Crew: 8.44 s 100% Crew: 7.48 s Rammer: 6.73 s Vents: 7.32 s Both: 6.58 s Both and BiA: 6.44 s Both and Max Crew %: 6.17 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 7.8 s 50% Crew: 9.66 s 75% Crew: 8.44 s 100% Crew: 7.48 s Rammer: 6.73 s Vents: 7.32 s Both: 6.58 s Both and BiA: 6.44 s Both and Max Crew %: 6.17 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (280 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (280 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (370 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (280 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (280 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (370 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.421 m With 75% Crew: 0.368 m With 100% Crew: 0.326 m With BiA: 0.319 m With BiA and Vents: 0.312 m Maximum possible: 0.299 m For more details, see Crew m ▲ With 50% Crew: 0.421 m With 75% Crew: 0.368 m With 100% Crew: 0.326 m With BiA: 0.319 m With BiA and Vents: 0.312 m Maximum possible: 0.299 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+2727 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+15°-8°/+15° Elevation Arc. 
+7272 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+8.8 cm Kw.K. 43 L/71 mod.Vlt. 
+203/237/44. 
+280/280/370. 
+7.69. 
+0.34. 
+2.3. 
+nan. 
+nan. 
+112180. 
+nan. 
+10.5 cm KwsPz.K. L/52. 
+200/244/44. 
+360/360/370. 
+5.77. 
+0.35. 
+2.3. 
+nan. 
+nan. 
+116490. 
+nan. 
+10.5 cm KwsPz.K. L/68. 
+225/285/44. 
+360/360/370. 
+5.77. 
+0.31. 
+2.5. 
+nan. 
+nan. 
+178500. 
+VIII. 
+Tiger II Turm Nr. 1-50. 
+100/80/80. 
+27. 
+380. 
+nan. 
+9638. 
+28320. 
+IX. 
+Tiger II Serienturm. 
+245/120/80. 
+27. 
+390. 
+nan. 
+10938. 
+52370. 
+nan. 
+Maybach HL 210 TRM P45. 
+nan. 
+0. 
+nan. 
+nan. 
+35500. 
+nan. 
+Maybach HL 230 TRM P45. 
+nan. 
+0. 
+nan. 
+nan. 
+54000. 
+VII. 
+Tiger II Versuchs-Serie. 
+69.7. 
+26. 
+0. 
+nan. 
+22350. 
+20080. 
+VIII. 
+Tiger II. 
+74.0. 
+28. 
+0. 
+nan. 
+22350. 
+37520. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Ammo. 
+nan. 
+100m. 
+500m. 
+1000m. 
+1500m. 
+2000m. 
+2500m. 
+3000m. 
+3500m. 
+4000m. 
+Ammo. 
+PzGr. 39/43. 
+100%/100%. 
+100%/100%. 
+100%/85%. 
+95%/61%. 
+85%/43%. 
+74%/30%. 
+61%/23%. 
+51%/17%. 
+42%/13%. 
+Ammo. 
+PzGr. 40/43. 
+100%/100%. 
+100%/100%. 
+100%/89%. 
+97%/66%. 
+89%/47%. 
+78%/34%. 
+66%/25%. 
+--%/--%. 
+--%/--%. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank= Tiger II
 |One of the most feared tanks in the Second World War, The ''Königstiger'' (literally "King Tiger") operates rather unsatisfying in stock configuration; however, with proper positioning, it is capable of bouncing shells off its sturdy sloped frontal armor, provided that its lower front plate is hidden at all times, as it is only 100mm thick. G16 PzVIB Tiger II  It sports a workable level of mobility, though the weak engine makes climbing slopes painfully slow. G16 PzVIB Tiger II  All in all, this tank is a decent machine at long-range combat, featuring the best accuracy of any heavy tank at this Tiers, good penetration, and a balanced alpha damage. G16 PzVIB Tiger II 
 
@@ -6,11 +190,11 @@
 
 - Upper glacis can bounce Tier 8 heavy tank guns reliably. G16 PzVIB Tiger II 
 
-- Top 10. G16 PzVIB Tiger II 5 cm gun is one of the most reliable gun of its Tiers with great penetration and fantastic accuracy. G16 PzVIB Tiger II 
+- Top 10. G16 PzVIB Tiger II 5 cm gun is one of the most reliable gun of its Tiers with great penetration, fantastic accuracy and decent DPM. G16 PzVIB Tiger II 
 
 - Nice view range and short reload time compared to most Tier 8 heavies. G16 PzVIB Tiger II 
 
-- Relatively good gun depression (-8). G16 PzVIB Tiger II 
+- Relatively good gun depression (-8). G16 PzVIB Tiger II  Surprisingly decent turret for a German vehicle. G16 PzVIB Tiger II 
 
 - Overall mobility is acceptable due to good terrain resistance, hull traverse and top speed. G16 PzVIB Tiger II 
 
@@ -21,20 +205,16 @@
 
 - Huge yet inadequately armored hull except for the upper glacis; lower glacis is very weak, and the unimproved side armor allows only auto-bounces. G16 PzVIB Tiger II  Vulnerable to flanking. G16 PzVIB Tiger II 
 
-- Underarmored turret; stock turret holds only against tier V guns; top turret except for the mantlet is only reliable against lower Tiers either. G16 PzVIB Tiger II  Roof can also be overmatched by any 122mm. G16 PzVIB Tiger II 
-
 - High profile and poor camo values. G16 PzVIB Tiger II 
 
-- Engine is very underpowered for the tank's weight, resulting in '''awfull''' uphill speed. G16 PzVIB Tiger II 
-
-- DPM is very average at 1925 with 105mm like a lot of Tiers 8 heavies but great with 88mm. G16 PzVIB Tiger II 
+- Engine is very underpowered for the tank's weight, resulting in '''awful''' uphill speed. G16 PzVIB Tiger II 
 
 - Like the Tiger I, it is a fully dedicated support tank, its armor is not here to hold the line like in reality. G16 PzVIB Tiger II 
 
 
 
 |InTheGame_performance=
-The Tiger II more or less plays like the Tiger I, but with working frontal armor this time. G16 PzVIB Tiger II  The fast reload time, rivaling the [[T32]]'s and the [[110]]'s, is a definite asset at any range; however, as with the Tiger I, damage dealing from afar is recommended. G16 PzVIB Tiger II  The Tiger II's sides and lower front plate are too vulnerable in a brawl, and the turret roof gets overmatched by the common 122mm Soviet guns reliably at close range. G16 PzVIB Tiger II  What the Tiger II lacks in speed it makes up for with its above-average hull traverse. G16 PzVIB Tiger II  The Tiger II can turn fast enough to respond to flankers or flank heavies that lack such maneuverability. G16 PzVIB Tiger II  The Tiger II is one of the tanks that challenge many higher-tiered opponents. G16 PzVIB Tiger II  Tier 9's treat this tank as a danger, while quite a few Tier X tanks treat it seriously. G16 PzVIB Tiger II  That does not mean that this tank can be played as a brawler in high-tier matches. G16 PzVIB Tiger II  Make use of the well-engineered armor and the superior accuracy of its gun, high penetration and (uncommon for Germans) good gun depression; use cover and fight at range. G16 PzVIB Tiger II  If played well, this tank can engage any tank of the same tier and win. G16 PzVIB Tiger II 
+The Tiger II more or less plays like the Tiger I, but with working frontal armor this time. G16 PzVIB Tiger II  The fast reload time, rivaling the [[T32]]'s and the [[110]]'s, is a definite asset at any range; however, as with the Tiger I, damage dealing from afar is recommended. G16 PzVIB Tiger II  The Tiger II's sides and lower front plate are too vulnerable in a brawl, and the turret roof gets overmatched by the common 122mm Soviet guns reliably at close range(150mm+ as of 1. G16 PzVIB Tiger II 10). G16 PzVIB Tiger II  What the Tiger II lacks in speed it makes up for with its above-average hull traverse. G16 PzVIB Tiger II  The Tiger II can turn fast enough to respond to flankers or flank heavies that lack such maneuverability. G16 PzVIB Tiger II  The Tiger II is one of the tanks that challenge many higher-tiered opponents. G16 PzVIB Tiger II  Tier 9's treat this tank as a danger, while quite a few Tier X tanks treat it seriously. G16 PzVIB Tiger II  That does not mean that this tank can be played as a brawler in high-tier matches. G16 PzVIB Tiger II  Make use of the well-engineered armor and the superior accuracy of its gun, high penetration and (uncommon for Germans) good gun depression; use cover and fight at range. G16 PzVIB Tiger II  If played well, this tank can engage any tank of the same tier and win. G16 PzVIB Tiger II 
 
 Although frowned upon, brawling in this tank ''can'' be pulled off; however, the rather mediocre all-round armor for the Tiger II's size (and its massive lower glacis) make it difficult. G16 PzVIB Tiger II 
 
@@ -46,6 +226,8 @@ Although frowned upon, brawling in this tank ''can'' be pulled off; however, the
 ;If you are at the bottom of the list
 : A large portion of enemy tanks will be Tiers 9 or 10. G16 PzVIB Tiger II  You'll need to target vulnerable areas of the opponents for effective supporting fire; otherwise, you won't stand a chance. G16 PzVIB Tiger II  Try to stay alive and you might make more of a difference once the strongest tanks kill each other off. G16 PzVIB Tiger II  The accuracy and reload time help immensely. G16 PzVIB Tiger II 
 : The 'Peek-a-boom' tactic, relied upon by the IS series tanks, can prove very helpful for the Tiger II and the tanks it leads to, specifically at medium or long range; this is a good time to learn this skill as it becomes extremely potent in the E 75 and E 100. G16 PzVIB Tiger II 
+
+*Note: As of Update 1. G16 PzVIB Tiger II 10, the Tiger II has been buffed. G16 PzVIB Tiger II  Previously, the Alpha damage was 320/320/420, which has since been increased to 360/360/440 with no Rate of Fire change. G16 PzVIB Tiger II  This brings the DPM of both 10. G16 PzVIB Tiger II 5cm's up from ~1,925 to ~2,166, less than 100 behind the 8. G16 PzVIB Tiger II 8cm (albeit the first 10. G16 PzVIB Tiger II 5cm is not very viable). G16 PzVIB Tiger II  Additionally, the armor has been increased on the frontal hull (slightly, a 10mm thickness increase), however, the turret was significantly buffed. G16 PzVIB Tiger II  Previously, the frontal and side thicknesses were 185 and 80, respectively, with very little slope meaning most guns apart from lower tier ones could penetrate it, and the common 122m could overmatch its turret roof, leaving it very vulnerable. G16 PzVIB Tiger II  However, it has since been increased to 245 and 120, and the turret roof thickness increased to 50mm, leaving it far less vulnerable to triple overmatch, and it can go hulldown far more reliably now. G16 PzVIB Tiger II 
 
 {{VideoYT|tElET-HD0Ac}}
 

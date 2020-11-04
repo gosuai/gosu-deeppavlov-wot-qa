@@ -1,3 +1,99 @@
+6,100,000 Cost. 
+18001800 HP Hit Points. 
+40/4339.7/43 t Weight Limit. 
+10001000 hp Engine Power. 
+60/20 km/h Speed Limit. 
+5454 deg/s Traverse. 
+2525.19 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+65/40/30 mm Hull Armor. 
+120/80/60120/80/60 mm Turret Armor. 
+APCR/HEAT/HE APCR/HEAT/HE Shells. 
+1110/4800/620 1110/4800/620 Shell Cost. 
+320/320/420320/320/420 HP Damage. 
+248/310/50248/310/50 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 4 rounds Cycle Time: 1.5 s Magazine Reload Times Nominal: 25 s 50% Crew: 30.97 s 75% Crew: 27.04 s 100% Crew: 23.97 s With Vents: 23.44 s With Vents and BiA: 22.93 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 4 rounds Cycle Time: 1.5 s Magazine Reload Times Nominal: 25 s 50% Crew: 30.97 s 75% Crew: 27.04 s 100% Crew: 23.97 s With Vents: 23.44 s With Vents and BiA: 22.93 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (320 Damage): Theoretical Damage Per Minute Nominal: 2537.6 50% Crew: 2384 75% Crew: 2483.2 100% Crew: 2566.4 With Vents: 2550.4 With Vents and BiA: 2566.4 Advantageous Damage Per Minute Loaded-mag DPM: 2880 50% Crew: 2784 75% Crew: 2844.8 100% Crew: 2899.2 With Vents: 2889.6 With Vents and BiA: 2899.2 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (320 Damage): Theoretical Damage Per Minute Nominal: 2537.6 50% Crew: 2384 75% Crew: 2483.2 100% Crew: 2566.4 With Vents: 2550.4 With Vents and BiA: 2566.4 Advantageous Damage Per Minute Loaded-mag DPM: 2880 50% Crew: 2784 75% Crew: 2844.8 100% Crew: 2899.2 With Vents: 2889.6 With Vents and BiA: 2899.2 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (420 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 3330.6 50% Crew: 3129 75% Crew: 3259.2 100% Crew: 3368.4 With Vents: 3347.4 With Vents and BiA: 3368.4 Advantageous Damage Per Minute Loaded-mag DPM: 3780 50% Crew: 3654 75% Crew: 3733.8 100% Crew: 3805.2 With Vents: 3792.6 With Vents and BiA: 3805.2 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (320 Damage): Theoretical Damage Per Minute Nominal: 2537.6 50% Crew: 2384 75% Crew: 2483.2 100% Crew: 2566.4 With Vents: 2550.4 With Vents and BiA: 2566.4 Advantageous Damage Per Minute Loaded-mag DPM: 2880 50% Crew: 2784 75% Crew: 2844.8 100% Crew: 2899.2 With Vents: 2889.6 With Vents and BiA: 2899.2 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (320 Damage): Theoretical Damage Per Minute Nominal: 2537.6 50% Crew: 2384 75% Crew: 2483.2 100% Crew: 2566.4 With Vents: 2550.4 With Vents and BiA: 2566.4 Advantageous Damage Per Minute Loaded-mag DPM: 2880 50% Crew: 2784 75% Crew: 2844.8 100% Crew: 2899.2 With Vents: 2889.6 With Vents and BiA: 2899.2 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (420 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 3330.6 50% Crew: 3129 75% Crew: 3259.2 100% Crew: 3368.4 With Vents: 3347.4 With Vents and BiA: 3368.4 Advantageous Damage Per Minute Loaded-mag DPM: 3780 50% Crew: 3654 75% Crew: 3733.8 100% Crew: 3805.2 With Vents: 3792.6 With Vents and BiA: 3805.2 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+3636 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+20°-8°/+20° Elevation Arc. 
+4848 rounds Ammo Capacity. 
+1010 % Chance of Fire. 
+m ▲ With 50% Crew: 322.1 m With 75% Crew: 366.1 m With 100% Crew: 410 m With Recon and Situational Awareness: 430.7 m With Coated Optics: 451 m With Binocular Telescope: 512.5 m Maximum possible: 586.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 322.1 m With 75% Crew: 366.1 m With 100% Crew: 410 m With Recon and Situational Awareness: 430.7 m With Coated Optics: 451 m With Binocular Telescope: 512.5 m Maximum possible: 586.9 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 667.8 m With 75% Crew: 759 m With 100% Crew: 850 m With 100% Signal Boost: 1020 m When affected by 100% Relaying: 935 m Maximum possible: 1223.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 667.8 m With 75% Crew: 759 m With 100% Crew: 850 m With 100% Signal Boost: 1020 m When affected by 100% Relaying: 935 m Maximum possible: 1223.1 m For more details, see Skills or Equipment Signal Range. 
+X. 
+100 mm AK1. 
+248/310/50. 
+320/320/420. 
+8.14. 
+0.35. 
+2.1. 
+nan. 
+2600. 
+275000. 
+X. 
+TVP T 50/51. 
+120/80/60. 
+36. 
+410. 
+nan. 
+9000. 
+66000. 
+X. 
+Praga AXK. 
+1000. 
+10. 
+nan. 
+1700. 
+110000. 
+X. 
+TVP T 50/51. 
+43. 
+54. 
+0. 
+nan. 
+11500. 
+82500. 
+X. 
+Radiostanice RM-31T. 
+850. 
+nan. 
+62. 
+57500. 
+Light Tanks. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Medium Tanks. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Heavy Tanks. 
+nan. 
+Tank Destroyers. 
+nan. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
 {{TankData|Tank= 
 
 |The TVP is very fast and mobile, has a low full magazine reload (compared to other tier 10 autoloaders) and an insane reload between each magazine. Cz04 T50 51  The tank is often compared to the [[Tank:Bat. Cz04 T50 51 -Châtillon 25 t|Bat. Cz04 T50 51 -Châtillon 25 t]] as they both share the same lowest hit points of any tier 10, both have dangerous autoloaders and are both very fast; both excel in certain categories. Cz04 T50 51  For instance the BatChat has much more magazine potential damage (1950) while the TVP only has a (1280) magazine potetinial. Cz04 T50 51  You might think that the BatChat is a clear winner but although the BatChat can deal more damage, it does it over a longer period of time (10. Cz04 T50 51 73 seconds from the first shot) while the TVP on the other hand deals its full magazine out in only 4. Cz04 T50 51 5 seconds from the first shot. Cz04 T50 51  4. Cz04 T50 51 5 seconds is quicker than every other non-autoloader tier 10 tank in the game. Cz04 T50 51  So if you shoot a TVP and you are not equipped in an autoloader, then expect 1280 of your hit points gone before you can even get a chance to fire another shell back at it (unless you can get in cover of course). Cz04 T50 51  

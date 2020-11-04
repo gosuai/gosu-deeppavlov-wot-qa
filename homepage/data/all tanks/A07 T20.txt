@@ -1,3 +1,161 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Historical Gallery. 
+1,340,000 Cost. 
+10001100 HP Hit Points. 
+28.89/3030.53/34 t Weight Limit. 
+520560 hp Engine Power. 
+56/20 km/h Speed Limit. 
+3737 deg/s Traverse. 
+1818.34 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+63.5/50.8/38.1 mm Hull Armor. 
+88.9/63.5/63.588.9/63.5/63.5 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+96/2800/68 255/4400/255 Shell Cost. 
+115/115/185240/240/320 HP Damage. 
+128/177/38160/243/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4.2 s 50% Crew: 5.2 s 75% Crew: 4.54 s 100% Crew: 4.03 s Rammer: 3.63 s Vents: 3.94 s Both: 3.55 s Both and BiA: 3.47 s Both and Max Crew %: 3.33 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9.4 s 50% Crew: 11.64 s 75% Crew: 10.17 s 100% Crew: 9.01 s Rammer: 8.11 s Vents: 8.81 s Both: 7.93 s Both and BiA: 7.76 s Both and Max Crew %: 7.44 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (115 Damage):  Theoretical Damage Per Minute Nominal DPM: 1643.35 50% Crew: 1327.1 75% Crew: 1519.15 100% Crew: 1713.5 100% Crew Vents: 1752.6 Rammer: 1904.4 Both: 1946.95 Both and BiA: 1989.5 Both and Max Crew %: 2075.75 Advantageous Damage Per Minute First-shot DPM: 1758.35 50% Crew: 1442.1 75% Crew: 1634.15 100% Crew: 1828.5 100% Crew Rammer: 2019.4 Vents: 1867.6 Both: 2061.95 Both and BiA: 2104.5 Both and Max Crew %: 2190.75 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (115 Damage):  Theoretical Damage Per Minute Nominal DPM: 1643.35 50% Crew: 1327.1 75% Crew: 1519.15 100% Crew: 1713.5 100% Crew Vents: 1752.6 Rammer: 1904.4 Both: 1946.95 Both and BiA: 1989.5 Both and Max Crew %: 2075.75 Advantageous Damage Per Minute First-shot DPM: 1758.35 50% Crew: 1442.1 75% Crew: 1634.15 100% Crew: 1828.5 100% Crew Rammer: 2019.4 Vents: 1867.6 Both: 2061.95 Both and BiA: 2104.5 Both and Max Crew %: 2190.75 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (185 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2643.65 50% Crew: 2134.9 75% Crew: 2443.85 100% Crew: 2756.5 100% Crew Vents: 2819.4 Rammer: 3063.6 Both: 3132.05 Both and BiA: 3200.5 Both and Max Crew %: 3339.25 Advantageous Damage Per Minute First-shot DPM: 2828.65 50% Crew: 2319.9 75% Crew: 2628.85 100% Crew: 2941.5 100% Crew Rammer: 3248.6 Vents: 3004.4 Both: 3317.05 Both and BiA: 3385.5 Both and Max Crew %: 3524.25 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1531.2 50% Crew: 1236 75% Crew: 1416 100% Crew: 1596 100% Crew Vents: 1632 Rammer: 1773.6 Both: 1814.4 Both and BiA: 1852.8 Both and Max Crew %: 1934.4 Advantageous Damage Per Minute First-shot DPM: 1771.2 50% Crew: 1476 75% Crew: 1656 100% Crew: 1836 100% Crew Rammer: 2013.6 Vents: 1872 Both: 2054.4 Both and BiA: 2092.8 Both and Max Crew %: 2174.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1531.2 50% Crew: 1236 75% Crew: 1416 100% Crew: 1596 100% Crew Vents: 1632 Rammer: 1773.6 Both: 1814.4 Both and BiA: 1852.8 Both and Max Crew %: 1934.4 Advantageous Damage Per Minute First-shot DPM: 1771.2 50% Crew: 1476 75% Crew: 1656 100% Crew: 1836 100% Crew Rammer: 2013.6 Vents: 1872 Both: 2054.4 Both and BiA: 2092.8 Both and Max Crew %: 2174.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2041.6 50% Crew: 1648 75% Crew: 1888 100% Crew: 2128 100% Crew Vents: 2176 Rammer: 2364.8 Both: 2419.2 Both and BiA: 2470.4 Both and Max Crew %: 2579.2 Advantageous Damage Per Minute First-shot DPM: 2361.6 50% Crew: 1968 75% Crew: 2208 100% Crew: 2448 100% Crew Rammer: 2684.8 Vents: 2496 Both: 2739.2 Both and BiA: 2790.4 Both and Max Crew %: 2899.2 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.533 m With 75% Crew: 0.465 m With 100% Crew: 0.412 m With BiA: 0.403 m With BiA and Vents: 0.394 m Maximum possible: 0.378 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+4442 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+25°-10°/+25° Elevation Arc. 
+8548 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 318.9 m With 75% Crew: 365.2 m With 100% Crew: 412 m With 100% Signal Boost: 474 m When affected by 100% Relaying: 434.5 m Maximum possible: 593 m For more details, see Skills or Equipment m ▲ With 50% Crew: 496.5 m With 75% Crew: 568.6 m With 100% Crew: 641.4 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 923.2 m For more details, see Skills or Equipment Signal Range. 
+VI. 
+76 mm Gun M1A1. 
+128/177/38. 
+115/115/185. 
+14.29. 
+0.43. 
+2.3. 
+nan. 
+1567. 
+50330. 
+VI. 
+76 mm Gun M1A2. 
+128/177/38. 
+115/115/185. 
+18.18. 
+0.4. 
+2.3. 
+nan. 
+1590. 
+62000. 
+VII. 
+90 mm Gun M3. 
+160/243/45. 
+240/240/320. 
+6.38. 
+0.38. 
+2.3. 
+nan. 
+2050. 
+81000. 
+V. 
+105 mm M4. 
+53/102/38. 
+410/350/185. 
+7.5. 
+0.55. 
+2.3. 
+nan. 
+2600. 
+40300. 
+VI. 
+T20D1. 
+88.9/63.5/63.5. 
+44. 
+370. 
+nan. 
+7000. 
+12900. 
+VII. 
+T20D2. 
+88.9/63.5/63.5. 
+42. 
+390. 
+nan. 
+8400. 
+17400. 
+VII. 
+Ford GAA. 
+520. 
+20. 
+nan. 
+569. 
+36000. 
+VII. 
+Ford GAN. 
+560. 
+20. 
+nan. 
+569. 
+37200. 
+VI. 
+HVSS T48. 
+30. 
+37. 
+B/2. 
+nan. 
+5400. 
+11900. 
+VII. 
+HVSS T51. 
+34. 
+37. 
+B/2. 
+nan. 
+5400. 
+17900. 
+IX. 
+SCR 506. 
+615. 
+nan. 
+110. 
+33600. 
+VI. 
+SCR 508. 
+395. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT26E4 SuperPershing FL • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT26E4 SuperPershing FL • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIFV4202 FL • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIM4A1 FL 10 • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIM4A1 Revalorisé FL • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
 {{TankData|Tank=T20
 |Much like the [[M4A3E8 Sherman]], the T20 lacks significant armor. A07 T20  Able to sneak around the battlefield, the T20 is an excellent support tank and able to switch between engagements in very short time. A07 T20  Its thin armor is a serious weakness, and caution must be taken to avoid enemy fire whenever possible. A07 T20  Pick different strategies to match different opponents: flank [[Heavy Tanks|heavy tanks]], ambush and brawl mediums, track and destroy [[Light Tanks|lights]]. A07 T20  Passive scouting is viable when other scouts are not available. A07 T20 
 

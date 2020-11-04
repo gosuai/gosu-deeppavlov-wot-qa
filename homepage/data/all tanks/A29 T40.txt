@@ -1,3 +1,157 @@
+125,000 Cost. 
+420336 HP Hit Points. 
+20.31/22.515.25/0 t Weight Limit. 
+400440 hp Engine Power. 
+38/14 km/h Speed Limit. 
+3030 deg/s Traverse. 
+19.6928.85 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+51/38/38 mm Hull Armor. 
+HE/HEAT AP/APCR/HE Shells. 
+56/2800 96/2800/68 Shell Cost. 
+175/110/175/110/185 HP Damage. 
+38/92/38/92/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.7 s 50% Crew: 4.58 s 75% Crew: 4 s 100% Crew: 3.55 s Rammer: 3.2 s Vents: 3.47 s Both: 3.12 s Both and BiA: 3.06 s Both and Max Crew %: 2.93 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.7 s 50% Crew: 4.58 s 75% Crew: 4 s 100% Crew: 3.55 s Rammer: 3.2 s Vents: 3.47 s Both: 3.12 s Both and BiA: 3.06 s Both and Max Crew %: 2.93 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2136.75 50% Crew: 1725.5 75% Crew: 1975.75 100% Crew: 2227.75 100% Crew Vents: 2278.5 Rammer: 2474.5 Both: 2530.5 Both and BiA: 2586.5 Both and Max Crew %: 2698.5 Advantageous Damage Per Minute First-shot DPM: 2311.75 50% Crew: 1900.5 75% Crew: 2150.75 100% Crew: 2402.75 100% Crew Rammer: 2649.5 Vents: 2453.5 Both: 2705.5 Both and BiA: 2761.5 Both and Max Crew %: 2873.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1343.1 50% Crew: 1084.6 75% Crew: 1241.9 100% Crew: 1400.3 100% Crew Vents: 1432.2 Rammer: 1555.4 Both: 1590.6 Both and BiA: 1625.8 Both and Max Crew %: 1696.2 Advantageous Damage Per Minute First-shot DPM: 1453.1 50% Crew: 1194.6 75% Crew: 1351.9 100% Crew: 1510.3 100% Crew Rammer: 1665.4 Vents: 1542.2 Both: 1700.6 Both and BiA: 1735.8 Both and Max Crew %: 1806.2 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (175 Damage):  Theoretical Damage Per Minute Nominal DPM: 3062.5 50% Crew: 2472.75 75% Crew: 2831.5 100% Crew: 3193.75 100% Crew Vents: 3265.5 Rammer: 3549 Both: 3627.75 Both and BiA: 3708.25 Both and Max Crew %: 3869.25 Advantageous Damage Per Minute First-shot DPM: 3237.5 50% Crew: 2647.75 75% Crew: 3006.5 100% Crew: 3368.75 100% Crew Rammer: 3724 Vents: 3440.5 Both: 3802.75 Both and BiA: 3883.25 Both and Max Crew %: 4044.25 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1925 50% Crew: 1554.3 75% Crew: 1779.8 100% Crew: 2007.5 100% Crew Vents: 2052.6 Rammer: 2230.8 Both: 2280.3 Both and BiA: 2330.9 Both and Max Crew %: 2432.1 Advantageous Damage Per Minute First-shot DPM: 2035 50% Crew: 1664.3 75% Crew: 1889.8 100% Crew: 2117.5 100% Crew Rammer: 2340.8 Vents: 2162.6 Both: 2390.3 Both and BiA: 2440.9 Both and Max Crew %: 2542.1 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (185 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 3237.5 50% Crew: 2614.05 75% Crew: 2993.3 100% Crew: 3376.25 100% Crew Vents: 3452.1 Rammer: 3751.8 Both: 3835.05 Both and BiA: 3920.15 Both and Max Crew %: 4090.35 Advantageous Damage Per Minute First-shot DPM: 3422.5 50% Crew: 2799.05 75% Crew: 3178.3 100% Crew: 3561.25 100% Crew Rammer: 3936.8 Vents: 3637.1 Both: 4020.05 Both and BiA: 4105.15 Both and Max Crew %: 4275.35 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+4444 deg/s Gun Traverse Speed. 
+57° Gun Arc. 
+-2°/+25°-2°/+25° Elevation Arc. 
+195195 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 381.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 483.2 m With 75% Crew: 549.2 m With 100% Crew: 615 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 884.9 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+75 mm AT Howitzer M1A1. 
+38/92. 
+175/110. 
+16.22. 
+0.53. 
+1.7. 
+nan. 
+138. 
+26000. 
+V. 
+105 mm AT Howitzer M3. 
+53/102. 
+410/350. 
+7.5. 
+0.55. 
+1.7. 
+nan. 
+2100. 
+40150. 
+V. 
+57 mm Gun M1. 
+110/180/29. 
+75/75/95. 
+26.09. 
+0.39. 
+1.7. 
+nan. 
+400. 
+33000. 
+IV. 
+3-inch AT Gun M1918. 
+90/100/42. 
+110/130/170. 
+16.22. 
+0.43. 
+1.7. 
+nan. 
+900. 
+27300. 
+VI. 
+76 mm AT Gun M1A1. 
+128/177/38. 
+115/115/185. 
+16.22. 
+0.41. 
+1.7. 
+nan. 
+1567. 
+50330. 
+IV. 
+Wright R-975EC2. 
+400. 
+20. 
+nan. 
+515. 
+11600. 
+V. 
+Chrysler A57. 
+440. 
+20. 
+nan. 
+570. 
+13900. 
+nan. 
+T40T41. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+1850. 
+nan. 
+T40T48. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+4500. 
+IV. 
+SCR 210. 
+325. 
+nan. 
+80. 
+1980. 
+IX. 
+SCR 506. 
+615. 
+nan. 
+110. 
+33600. 
+II. 
+SCR 200. 
+265. 
+nan. 
+40. 
+0. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=T40
 |The T40 is basically a [[M3 Lee]] without its small turret and roof armor, but with better guns, camouflage values, and a more ideal placed gun mount. A29 T40  The [[Hetzer]] is a better brawler and ambush tank, while the [[SU-85B]] is a better sniper. A29 T40  However, the T40 is very versatile and easy to play. A29 T40  It can fight at any range as long as you know how to avoid getting hit. A29 T40  Its top gun is excellent for tier 4 and is arguably the best mid-ranged weapon of any tank at its tier. A29 T40  With the 9. A29 T40 6 update the tank lost 90 metres of view range, dropping from 400m to 310m. A29 T40 
 

@@ -1,3 +1,236 @@
+1,424,000 Cost. 
+11301230 HP Hit Points. 
+44.88/47.545.95/48.4 t Weight Limit. 
+600700 hp Engine Power. 
+34/14 km/h Speed Limit. 
+3235 deg/s Traverse. 
+13.3715.23 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+120/90/60 mm Hull Armor. 
+100/90/90100/90/90 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+109/2800/98 1025/4800/608 Shell Cost. 
+160/160/280390/390/530 HP Damage. 
+120/161/43175/217/61 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4.9 s 50% Crew: 6.07 s 75% Crew: 5.3 s 100% Crew: 4.7 s Rammer: 4.23 s Vents: 4.6 s Both: 4.14 s Both and BiA: 4.05 s Both and Max Crew %: 3.88 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 12.3 s 50% Crew: 15.24 s 75% Crew: 13.3 s 100% Crew: 11.79 s Rammer: 10.61 s Vents: 11.53 s Both: 10.38 s Both and BiA: 10.15 s Both and Max Crew %: 9.73 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (160 Damage):  Theoretical Damage Per Minute Nominal DPM: 1958.4 50% Crew: 1580.8 75% Crew: 1811.2 100% Crew: 2043.2 100% Crew Vents: 2089.6 Rammer: 2270.4 Both: 2321.6 Both and BiA: 2372.8 Both and Max Crew %: 2475.2 Advantageous Damage Per Minute First-shot DPM: 2118.4 50% Crew: 1740.8 75% Crew: 1971.2 100% Crew: 2203.2 100% Crew Rammer: 2430.4 Vents: 2249.6 Both: 2481.6 Both and BiA: 2532.8 Both and Max Crew %: 2635.2 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (160 Damage):  Theoretical Damage Per Minute Nominal DPM: 1958.4 50% Crew: 1580.8 75% Crew: 1811.2 100% Crew: 2043.2 100% Crew Vents: 2089.6 Rammer: 2270.4 Both: 2321.6 Both and BiA: 2372.8 Both and Max Crew %: 2475.2 Advantageous Damage Per Minute First-shot DPM: 2118.4 50% Crew: 1740.8 75% Crew: 1971.2 100% Crew: 2203.2 100% Crew Rammer: 2430.4 Vents: 2249.6 Both: 2481.6 Both and BiA: 2532.8 Both and Max Crew %: 2635.2 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (280 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 3427.2 50% Crew: 2766.4 75% Crew: 3169.6 100% Crew: 3575.6 100% Crew Vents: 3656.8 Rammer: 3973.2 Both: 4062.8 Both and BiA: 4152.4 Both and Max Crew %: 4331.6 Advantageous Damage Per Minute First-shot DPM: 3707.2 50% Crew: 3046.4 75% Crew: 3449.6 100% Crew: 3855.6 100% Crew Rammer: 4253.2 Vents: 3936.8 Both: 4342.8 Both and BiA: 4432.4 Both and Max Crew %: 4611.6 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1903.2 50% Crew: 1536.6 75% Crew: 1758.9 100% Crew: 1985.1 100% Crew Vents: 2028 Rammer: 2207.4 Both: 2254.2 Both and BiA: 2304.9 Both and Max Crew %: 2406.3 Advantageous Damage Per Minute First-shot DPM: 2293.2 50% Crew: 1926.6 75% Crew: 2148.9 100% Crew: 2375.1 100% Crew Rammer: 2597.4 Vents: 2418 Both: 2644.2 Both and BiA: 2694.9 Both and Max Crew %: 2796.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1903.2 50% Crew: 1536.6 75% Crew: 1758.9 100% Crew: 1985.1 100% Crew Vents: 2028 Rammer: 2207.4 Both: 2254.2 Both and BiA: 2304.9 Both and Max Crew %: 2406.3 Advantageous Damage Per Minute First-shot DPM: 2293.2 50% Crew: 1926.6 75% Crew: 2148.9 100% Crew: 2375.1 100% Crew Rammer: 2597.4 Vents: 2418 Both: 2644.2 Both and BiA: 2694.9 Both and Max Crew %: 2796.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2586.4 50% Crew: 2088.2 75% Crew: 2390.3 100% Crew: 2697.7 100% Crew Vents: 2756 Rammer: 2999.8 Both: 3063.4 Both and BiA: 3132.3 Both and Max Crew %: 3270.1 Advantageous Damage Per Minute First-shot DPM: 3116.4 50% Crew: 2618.2 75% Crew: 2920.3 100% Crew: 3227.7 100% Crew Rammer: 3529.8 Vents: 3286 Both: 3593.4 Both and BiA: 3662.3 Both and Max Crew %: 3800.1 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.592 s With 75% Crew: 3.137 s With 100% Crew: 2.781 s With GLD: 2.528 s With BiA: 2.719 s With BiA and Vents: 2.66 s With both and GLD: 2.418 s Maximum possible: 2.318 s For more details, see Crew or Equipment s ▲ With 50% Crew: 4.212 s With 75% Crew: 3.678 s With 100% Crew: 3.26 s With GLD: 2.964 s With BiA: 3.188 s With BiA and Vents: 3.119 s With both and GLD: 2.835 s Maximum possible: 2.718 s For more details, see Crew or Equipment Aim time. 
+3828 deg/s Turret Traverse. 
+360° Gun Arc. 
+-5°/+22°-6°/+25° Elevation Arc. 
+6828 rounds Ammo Capacity. 
+1512 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 345.7 m With 75% Crew: 392.9 m With 100% Crew: 440 m With 100% Signal Boost: 528 m When affected by 100% Relaying: 484 m Maximum possible: 633.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 491.1 m With 75% Crew: 558.1 m With 100% Crew: 625 m With 100% Signal Boost: 750 m When affected by 100% Relaying: 687.5 m Maximum possible: 899.3 m For more details, see Skills or Equipment Signal Range. 
+VI. 
+85 mm D-5T. 
+120/161/43. 
+160/160/280. 
+12.24. 
+0.46. 
+2.9. 
+nan. 
+1500. 
+61530. 
+VII. 
+85 mm D5T-85BM. 
+144/194/44. 
+180/180/300. 
+10.34. 
+0.37. 
+2.9. 
+nan. 
+1850. 
+73600. 
+VII. 
+100 mm D10T. 
+175/235/50. 
+250/250/330. 
+7.89. 
+0.38. 
+2.7. 
+nan. 
+2257. 
+78180. 
+VII. 
+122 mm D-2-5T. 
+175/217/61. 
+390/390/530. 
+4.08. 
+0.46. 
+3.4. 
+nan. 
+2600. 
+84980. 
+VIII. 
+122 mm D-25T. 
+175/217/61. 
+390/390/530. 
+4.88. 
+0.46. 
+3.4. 
+nan. 
+2590. 
+125140. 
+VI. 
+IS-85. 
+100/90/90. 
+38. 
+330. 
+nan. 
+7200. 
+15000. 
+VII. 
+IS-122. 
+100/90/90. 
+28. 
+350. 
+nan. 
+7500. 
+26300. 
+VII. 
+V-2IS. 
+600. 
+15. 
+nan. 
+750. 
+36000. 
+IX. 
+V-2-54IS. 
+700. 
+12. 
+nan. 
+700. 
+79290. 
+VI. 
+IS-1. 
+47.5. 
+32. 
+B/2. 
+nan. 
+11500. 
+12990. 
+VII. 
+IS-2M. 
+48.4. 
+35. 
+B/2. 
+nan. 
+11500. 
+18080. 
+VII. 
+10RK. 
+440. 
+nan. 
+100. 
+18600. 
+IX. 
+12RT. 
+625. 
+nan. 
+110. 
+33600. 
+IS-1. 
+107. 
+85mm D-5T. 
+59. 
+2520. 
+60-160mm. 
+4. 
+W-2-IS V-12. 
+600. 
+14.1 hp/t. 
+37. 
+800. 
+150. 
+8-speed. 
+Clutch brake. 
+8.56. 
+3.07. 
+2.73. 
+-. 
+44. 
+6. 
+1-2-2-1. 
+3. 
+-. 
+-. 
+Steel. 
+650. 
+159. 
+87-90. 
+-. 
+4.3. 
+-. 
+0.78. 
+460. 
+IS-2. 
+3483. 
+122mm D-25T. 
+28. 
+2520. 
+60-160mm. 
+4. 
+W-2-IS V-12. 
+600. 
+11.3 hp/t. 
+37. 
+800. 
+150. 
+8-speed. 
+Clutch brake. 
+8.83. 
+3.07. 
+2.73. 
+-. 
+46. 
+6. 
+1-2-2-1. 
+3. 
+-. 
+-. 
+Steel. 
+650. 
+159. 
+87-90. 
+-. 
+4.3. 
+-. 
+0.8. 
+460. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
 {{TankData|Tank=IS
 |It is the first of the Iosef Stalin class tanks available to the player. R01 IS  The IS represents both the IS-1 and the early model IS-2. R01 IS  The IS can be researched from the [[Tank:R106 KV85|KV-85]] or from the [[KV-13]], which is sometimes is used as an easy grind bridge. R01 IS 
 

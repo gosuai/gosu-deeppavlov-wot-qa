@@ -1,3 +1,144 @@
+53,000 Cost. 
+195156 HP Hit Points. 
+8.1/8.26.09/0 t Weight Limit. 
+90130 hp Engine Power. 
+30/8 km/h Speed Limit. 
+2424 deg/s Traverse. 
+11.1121.35 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+15/15/15 mm Hull Armor. 
+HE HE Shells. 
+38/0 38/0 Shell Cost. 
+180//180// HP Damage. 
+21//21// mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.2 s 50% Crew: 8.92 s 75% Crew: 7.79 s 100% Crew: 6.9 s Rammer: 6.21 s Vents: 6.75 s Both: 6.07 s Both and BiA: 5.94 s Both and Max Crew %: 5.69 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 7.2 s 50% Crew: 8.92 s 75% Crew: 7.79 s 100% Crew: 6.9 s Rammer: 6.21 s Vents: 6.75 s Both: 6.07 s Both and BiA: 5.94 s Both and Max Crew %: 5.69 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (180 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1549.8 50% Crew: 1251 75% Crew: 1432.8 100% Crew: 1616.4 100% Crew Vents: 1652.4 Rammer: 1796.4 Both: 1836 Both and BiA: 1877.4 Both and Max Crew %: 1958.4 Advantageous Damage Per Minute First-shot DPM: 1729.8 50% Crew: 1431 75% Crew: 1612.8 100% Crew: 1796.4 100% Crew Rammer: 1976.4 Vents: 1832.4 Both: 2016 Both and BiA: 2057.4 Both and Max Crew %: 2138.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (180 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1783.8 50% Crew: 1440 75% Crew: 1648.8 100% Crew: 1861.2 100% Crew Vents: 1902.6 Rammer: 2068.2 Both: 2115 Both and BiA: 2161.8 Both and Max Crew %: 2255.4 Advantageous Damage Per Minute First-shot DPM: 1963.8 50% Crew: 1620 75% Crew: 1828.8 100% Crew: 2041.2 100% Crew Rammer: 2248.2 Vents: 2082.6 Both: 2295 Both and BiA: 2341.8 Both and Max Crew %: 2435.4 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.929 m With 75% Crew: 0.811 m With 100% Crew: 0.719 m With BiA: 0.703 m With BiA and Vents: 0.688 m Maximum possible: 0.659 m For more details, see Crew m ▲ With 50% Crew: 0.929 m With 75% Crew: 0.811 m With 100% Crew: 0.719 m With BiA: 0.703 m With BiA and Vents: 0.688 m Maximum possible: 0.659 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.575 s With 75% Crew: 4.867 s With 100% Crew: 4.315 s With GLD: 3.923 s With BiA: 4.22 s With BiA and Vents: 4.128 s With both and GLD: 3.753 s Maximum possible: 3.597 s For more details, see Crew or Equipment s ▲ With 50% Crew: 5.575 s With 75% Crew: 4.867 s With 100% Crew: 4.315 s With GLD: 3.923 s With BiA: 4.22 s With BiA and Vents: 4.128 s With both and GLD: 3.753 s Maximum possible: 3.597 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+360° Gun Arc. 
+-2°/+45°-2°/+45° Elevation Arc. 
+9595 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 242.2 m With 75% Crew: 277.4 m With 100% Crew: 312.9 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 450.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 496.5 m With 75% Crew: 568.6 m With 100% Crew: 641.4 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 923.2 m For more details, see Skills or Equipment Signal Range. 
+II. 
+76 mm Regimental Gun mod. 1927. 
+21. 
+180. 
+8.33. 
+0.75. 
+4.5. 
+nan. 
+230.0. 
+2830. 
+II. 
+76 mm Gun mod. 1902/30 30 clb. 
+21. 
+180. 
+9.09. 
+0.73. 
+4.5. 
+nan. 
+389.0. 
+4090. 
+nan. 
+76 mm Gun mod. 1902/30 40 clb. 
+21. 
+180. 
+8.57. 
+0.66. 
+4.0. 
+nan. 
+nan. 
+8050. 
+I. 
+T-26. 
+90. 
+20. 
+nan. 
+545. 
+770. 
+II. 
+T-26M. 
+100. 
+20. 
+nan. 
+545. 
+1230. 
+II. 
+T-26F. 
+130. 
+20. 
+nan. 
+545. 
+1500. 
+nan. 
+SU-26. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+680. 
+nan. 
+SU-26 Bis. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+1800. 
+III. 
+71-TK-3. 
+300. 
+nan. 
+100. 
+570. 
+V. 
+9RK. 
+350. 
+nan. 
+80. 
+3240. 
+IX. 
+12LL. 
+615. 
+nan. 
+110. 
+33600. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=SU-26
 |This SPG was a favorite among many players. R66 SU-26   After update 0. R66 SU-26 8. R66 SU-26 6 a lot of changes applied for SPG's as a whole, making it more challenging to play. R66 SU-26   Though it's the slowest artillery in its tier it has a small silhouette, making it a moderately difficult target to hit. R66 SU-26   Its primary advantage is the turret -- although it turns slowly and has no armor it's the only Tier III artillery that has one. R66 SU-26   With this turret you don't need to traverse the whole tank to shoot at the enemy, thus making it harder to detect when hiding in a bush. R66 SU-26   The Su-26 has an impressive aim time and can shoot across the map. R66 SU-26   But the farther you shoot the harder it is to aim, and you may have to move closer to be effective. R66 SU-26   The gun -- although it has low damage per shot and low splash damage -- has the highest accuracy and quickest rate of fire among the Tier III SPG's, earning it the name "Popcorn Catapult of Doom". R66 SU-26   This makes for a fun play style: keep shooting at enemies without thinking, and if you miss simply shoot again. R66 SU-26   Overall this is a fun SPG to play. R66 SU-26  
 |Gallery=

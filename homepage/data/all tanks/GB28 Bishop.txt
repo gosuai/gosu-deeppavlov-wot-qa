@@ -1,3 +1,141 @@
+405,000 Cost. 
+460368 HP Hit Points. 
+17.69/17.711.53/0 t Weight Limit. 
+135165 hp Engine Power. 
+24/10 km/h Speed Limit. 
+2020 deg/s Traverse. 
+7.6314.31 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+60/50/60 mm Hull Armor. 
+HE HE Shells. 
+83/0 83/0 Shell Cost. 
+280//280// HP Damage. 
+22//22// mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 8.8 s 50% Crew: 10.9 s 75% Crew: 9.52 s 100% Crew: 8.44 s Rammer: 7.6 s Vents: 8.25 s Both: 7.43 s Both and BiA: 7.27 s Both and Max Crew %: 6.97 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 8.8 s 50% Crew: 10.9 s 75% Crew: 9.52 s 100% Crew: 8.44 s Rammer: 7.6 s Vents: 8.25 s Both: 7.43 s Both and BiA: 7.27 s Both and Max Crew %: 6.97 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (280 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1058.4 50% Crew: 854 75% Crew: 977.2 100% Crew: 1103.2 100% Crew Vents: 1128.4 Rammer: 1226.4 Both: 1254.4 Both and BiA: 1282.4 Both and Max Crew %: 1335.6 Advantageous Damage Per Minute First-shot DPM: 1338.4 50% Crew: 1134 75% Crew: 1257.2 100% Crew: 1383.2 100% Crew Rammer: 1506.4 Vents: 1408.4 Both: 1534.4 Both and BiA: 1562.4 Both and Max Crew %: 1615.6 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (280 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1058.4 50% Crew: 854 75% Crew: 977.2 100% Crew: 1103.2 100% Crew Vents: 1128.4 Rammer: 1226.4 Both: 1254.4 Both and BiA: 1282.4 Both and Max Crew %: 1335.6 Advantageous Damage Per Minute First-shot DPM: 1338.4 50% Crew: 1134 75% Crew: 1257.2 100% Crew: 1383.2 100% Crew Rammer: 1506.4 Vents: 1408.4 Both: 1534.4 Both and BiA: 1562.4 Both and Max Crew %: 1615.6 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.842 m With 75% Crew: 0.736 m With 100% Crew: 0.652 m With BiA: 0.638 m With BiA and Vents: 0.624 m Maximum possible: 0.598 m For more details, see Crew m ▲ With 50% Crew: 0.842 m With 75% Crew: 0.736 m With 100% Crew: 0.652 m With BiA: 0.638 m With BiA and Vents: 0.624 m Maximum possible: 0.598 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.575 s With 75% Crew: 4.867 s With 100% Crew: 4.315 s With GLD: 3.923 s With BiA: 4.22 s With BiA and Vents: 4.128 s With both and GLD: 3.753 s Maximum possible: 3.597 s For more details, see Crew or Equipment s ▲ With 50% Crew: 5.575 s With 75% Crew: 4.867 s With 100% Crew: 4.315 s With GLD: 3.923 s With BiA: 4.22 s With BiA and Vents: 4.128 s With both and GLD: 3.753 s Maximum possible: 3.597 s For more details, see Crew or Equipment Aim time. 
+2020 deg/s Gun Traverse Speed. 
+8° Gun Arc. 
+-5°/+15°-5°/+15° Elevation Arc. 
+5555 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.15 % Chance of Fire. 
+m ▲ With 50% Crew: 196.4 m With 75% Crew: 223.2 m With 100% Crew: 250 m With Recon and Situational Awareness: 262.7 m With Coated Optics: 275 m With Binocular Telescope: 312.5 m Maximum possible: 357.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 196.4 m With 75% Crew: 223.2 m With 100% Crew: 250 m With Recon and Situational Awareness: 262.7 m With Coated Optics: 275 m With Binocular Telescope: 312.5 m Maximum possible: 357.9 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 432.1 m With 75% Crew: 491.1 m With 100% Crew: 550 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 791.4 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+Q.F. 25-Pr. Gun/How.. 
+22. 
+280. 
+6.82. 
+0.68. 
+4.5. 
+nan. 
+510.0. 
+28500. 
+nan. 
+Q.F. 4.5-in. Howitzer. 
+28. 
+450. 
+4.65. 
+0.72. 
+4.5. 
+nan. 
+nan. 
+43000. 
+III. 
+AEC A190. 
+131.0. 
+15. 
+nan. 
+800.0. 
+2500. 
+IV. 
+GMC 6004 6-71S. 
+138.0. 
+15. 
+nan. 
+991.0. 
+9000. 
+V. 
+GMC 6004 6-71A. 
+165.0. 
+15. 
+nan. 
+991.0. 
+11000. 
+nan. 
+AEC A189. 
+nan. 
+0. 
+nan. 
+nan. 
+2150. 
+nan. 
+Valentine Mk. II. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+4500. 
+nan. 
+Bishop. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+8800. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
 {{TankData|Tank=Bishop
 |The Bishop feels like a major leap back after the versatility of the [[Tank:GB26 Birch Gun|Birch Gun]]; you no longer have a full traversable gun mount, but are forced to deal with a very narrow gun traverse; it has a pitiful range for both guns; and it has a fatally tall silhouette. GB28 Bishop  Its saving grace, however, is better protection and HP than its predecessors, being based on the hull of a [[Tank:GB04 Valentine|Valentine]]. GB28 Bishop  Further, its second gun is considerably better than the 25-pounder adding capabilities to make shots few SPGs can make, and thus more map versatility. GB28 Bishop  Play the Bishop like an [[SU-5]]; move up with the rear lines of your team, and bombard targets of opportunity. GB28 Bishop  Even if you are spotted, you can survive a decent amount of fire while retreating. GB28 Bishop 
 

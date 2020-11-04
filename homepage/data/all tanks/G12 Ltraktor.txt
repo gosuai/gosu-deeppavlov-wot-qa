@@ -1,3 +1,229 @@
+0 Cost. 
+280280 HP Hit Points. 
+7.64/9.57.41/9.5 t Weight Limit. 
+8585 hp Engine Power. 
+36/9 km/h Speed Limit. 
+6666 deg/s Traverse. 
+11.1311.47 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+14/14/14 mm Hull Armor. 
+14/14/1414/14/14 mm Turret Armor. 
+AP/APCR/HE AP/APCR Shells. 
+0/800/6 3/400/6 Shell Cost. 
+36/36/4211/11/42 HP Damage. 
+40/74/1830/47/18 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.85 s 75% Crew: 2.49 s 100% Crew: 2.21 s Rammer: 1.99 s Vents: 2.16 s Both: 1.95 s Both and BiA: 1.9 s Both and Max Crew %: 1.82 s See Crew, Consumables, or Equipment for more information. r/m ▲ Magazine-fed Gun Burst Length: 3 rounds Magazine Size: 12 rounds Cycle Time: 0.25 s Magazine Reload Times Nominal: 3.4 s 50% Crew: 4.21 s 75% Crew: 3.68 s 100% Crew: 3.26 s With Vents: 3.19 s With Vents and BiA: 3.12 s Click here for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (36 Damage):  Theoretical Damage Per Minute Nominal DPM: 939.24 50% Crew: 758.16 75% Crew: 868.32 100% Crew: 979.56 100% Crew Vents: 1001.52 Rammer: 1088.28 Both: 1112.76 Both and BiA: 1137.6 Both and Max Crew %: 1186.92 Advantageous Damage Per Minute First-shot DPM: 975.24 50% Crew: 794.16 75% Crew: 904.32 100% Crew: 1015.56 100% Crew Rammer: 1124.28 Vents: 1037.52 Both: 1148.76 Both and BiA: 1173.6 Both and Max Crew %: 1222.92 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (36 Damage):  Theoretical Damage Per Minute Nominal DPM: 939.24 50% Crew: 758.16 75% Crew: 868.32 100% Crew: 979.56 100% Crew Vents: 1001.52 Rammer: 1088.28 Both: 1112.76 Both and BiA: 1137.6 Both and Max Crew %: 1186.92 Advantageous Damage Per Minute First-shot DPM: 975.24 50% Crew: 794.16 75% Crew: 904.32 100% Crew: 1015.56 100% Crew Rammer: 1124.28 Vents: 1037.52 Both: 1148.76 Both and BiA: 1173.6 Both and Max Crew %: 1222.92 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (42 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1095.78 50% Crew: 884.52 75% Crew: 1013.04 100% Crew: 1142.82 100% Crew Vents: 1168.44 Rammer: 1269.66 Both: 1298.22 Both and BiA: 1327.2 Both and Max Crew %: 1384.74 Advantageous Damage Per Minute First-shot DPM: 1137.78 50% Crew: 926.52 75% Crew: 1055.04 100% Crew: 1184.82 100% Crew Rammer: 1311.66 Vents: 1210.44 Both: 1340.22 Both and BiA: 1369.2 Both and Max Crew %: 1426.74 See here, here, or here for more information.▲ Magazine-fed Gun Using Shell Type 1 (11 Damage): Theoretical Damage Per Minute Nominal: 64.57 50% Crew: 52.58 75% Crew: 59.84 100% Crew: 67.21 With Vents: 65.89 With Vents and BiA: 67.32 Advantageous Damage Per Minute Loaded-mag DPM: 190.52 50% Crew: 179.63 75% Crew: 186.34 100% Crew: 192.94 With Vents: 191.73 With Vents and BiA: 193.05 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (11 Damage): Theoretical Damage Per Minute Nominal: 64.57 50% Crew: 52.58 75% Crew: 59.84 100% Crew: 67.21 With Vents: 65.89 With Vents and BiA: 67.32 Advantageous Damage Per Minute Loaded-mag DPM: 190.52 50% Crew: 179.63 75% Crew: 186.34 100% Crew: 192.94 With Vents: 191.73 With Vents and BiA: 193.05 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (42 Damage): Theoretical Damage Per Minute Nominal: 246.54 50% Crew: 200.76 75% Crew: 228.48 100% Crew: 256.62 With Vents: 251.58 With Vents and BiA: 257.04 Advantageous Damage Per Minute Loaded-mag DPM: 727.44 50% Crew: 685.86 75% Crew: 711.48 100% Crew: 736.68 With Vents: 732.06 With Vents and BiA: 737.1 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.585 m With 75% Crew: 0.515 m With 100% Crew: 0.46 m With BiA: 0.449 m With BiA and Vents: 0.441 m Maximum possible: 0.423 m For more details, see Crew m ▲ With 50% Crew: 0.675 m With 75% Crew: 0.594 m With 100% Crew: 0.53 m With BiA: 0.518 m With BiA and Vents: 0.508 m Maximum possible: 0.487 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.164 s With 75% Crew: 1.904 s With 100% Crew: 1.7 s With GLD: 1.545 s With BiA: 1.661 s With BiA and Vents: 1.63 s With both and GLD: 1.482 s Maximum possible: 1.421 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.291 s With 75% Crew: 2.016 s With 100% Crew: 1.8 s With GLD: 1.636 s With BiA: 1.759 s With BiA and Vents: 1.726 s With both and GLD: 1.569 s Maximum possible: 1.504 s For more details, see Crew or Equipment Aim time. 
+3939 deg/s Turret Traverse. 
+360° Gun Arc. 
+-7°/+25°-10°/+30° Elevation Arc. 
+345972 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 381.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 381.3 m For more details, see Skills or Equipment Signal Range. 
+I. 
+3,7 cm Kw.K. 36 L/46.5. 
+40/74/18. 
+36/36/42. 
+26.09. 
+0.46. 
+1.7. 
+nan. 
+100. 
+0. 
+I. 
+2 cm Breda (i). 
+30/47/18. 
+11/11/42. 
+117.07. 
+0.53. 
+1.8. 
+nan. 
+70. 
+1970. 
+I. 
+Leichttraktor. 
+14/14/14. 
+39. 
+310. 
+nan. 
+700. 
+0. 
+I. 
+Krupp M311. 
+85. 
+20. 
+nan. 
+300. 
+0. 
+I. 
+Leichttraktor verstärkteketten. 
+9.5. 
+66. 
+B/2. 
+nan. 
+2000. 
+0. 
+II. 
+FuG 2. 
+265. 
+nan. 
+40. 
+0. 
+Full weight(with crew):. 
+6000kg. 
+Length:. 
+3900mm. 
+Width:. 
+1850mm. 
+Height:. 
+2000mm. 
+Engine:. 
+100hp. 
+Speed:. 
+4-40km/h. 
+Climb. 
+65%. 
+Track width:. 
+250mm. 
+Track contact:. 
+2x2500mm. 
+Ground Pressure:. 
+0.48kg/cm2. 
+Ground Clearance:. 
+300mm. 
+Step:. 
+600mm. 
+Ford:. 
+800mm. 
+Trench:. 
+1400mm. 
+Fuel:. 
+150liters. 
+Armor:. 
+14mm. 
+Nr.37. 
+365. 
+697. 
+598. 
+1660. 
+Nr.38. 
+534. 
+371. 
+1095. 
+1800. 
+Nr.39. 
+382. 
+708. 
+775. 
+1865. 
+Nr.40. 
+290. 
+513. 
+932. 
+1735. 
+L. Tr. Kp.. 
+2. 
+3.7cm 1 s.M.G.. 
+150. 
+3000. 
+5-14mm. 
+4. 
+M36 Daimler 4-cyl 7.8 liter. 
+100. 
+11.5 hp/t. 
+30. 
+220. 
+137. 
+4-speed. 
+Cletrac. 
+4.35. 
+2.37. 
+2.35. 
+1.81. 
+8.7. 
+9. 
+2-4-2-1. 
+4. 
+400260300. 
+95. 
+Dry Pin. 
+266. 
+130. 
+72. 
+9.36. 
+2.565. 
+1.85. 
+0.73. 
+305. 
+L. Tr. Rhm.. 
+2. 
+3.7cm 1 s.M.G.. 
+150. 
+3000. 
+5-14mm. 
+4. 
+M36 Daimler 4-cyl 7.8 liter. 
+100. 
+11.2/t. 
+30. 
+220. 
+137. 
+4-speed. 
+Cletrac. 
+4.32. 
+2.26. 
+2.27. 
+1.8. 
+8.96. 
+12. 
+3x4. 
+3. 
+210. 
+85. 
+Bearing. 
+270. 
+130. 
+72. 
+9.36. 
+2.72. 
+1.98. 
+0.71. 
+290. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • VIIIELC EVEN 90 FL • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
 {{TankData|Tank=Ltraktor
 |The first German tank available to the player, the Leichttraktor starts with an underpowered 85hp engine and the 3. G12 Ltraktor 7 cm KwK 36 L/46. G12 Ltraktor 5, although this can be quickly upgraded. G12 Ltraktor  Adequate armor and performance characteristics make it a very good starting tank. G12 Ltraktor  The tank is nicknamed "LoLTraktor" and is the basis of a fan-made comic series. G12 Ltraktor 
 
